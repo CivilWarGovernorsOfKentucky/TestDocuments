@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-3440"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">James Croford et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG5559</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR42-347 to BR42-348</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Commonwealth of Kentucky
+<lb/>To His Excellency Tho<hi rend="sup">s</hi> E. Bramlette
+<lb/>Gov. of the State of Kentucky</p>
+<p>Your Petitioners would respectfully inform you that one William R. Matthis late a private of Co "B" 5<hi rend="sup">th</hi> Ky. Cav. while belonging to said service was accused of horse stealing of which crime he was tried by the Monroe Circuit Court at its <date when="1865-10">Oct. term 1865</date>. found guilty and sentenced to confinement in the Penitentiary for the term of six years. Now Gov. this man is of such a nature that he could be persuaded by influential persons to do wrong which no doubt was the case, and as we think he has served long enough to make reparations for the crime We would most respectfully ask you to release him of said confinement. We would further say that as the last Legislature passed an act releasing all soldiers from Indictments found against them for crimes committed while in the service we think it nothing but justice that those already convicted should receive the benefit of the same act by you confering it upon them by the power vested in you by the constitution. Hoping you will consider the case &amp; act as your best judgement dictates we remain your humble petitioners &amp;c-<pb/></p>
+<p>The following are names and acquaintances of said Matthis mostly living in Tennessee-</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Tennesseans
+<lb/>James Croford
+<lb/>John Right
+<lb/>Late Lieut Co B. 5<hi rend="sup">th</hi> Ky Cavalry
+<lb/>Geo W Clemens
+<lb/>Late Lieut Co F 1<hi rend="sup">st</hi> Regiment
+<lb/>Tenn. Mounted Infty
+<lb/>Parrish Sims
+<lb/><cb n="2"/>Kentuckians
+<lb/>Bennet Spear
+<lb/>J peonkin
+<lb/>John B. Riggs<milestone unit="column" n="1"/><pb/></p>
+<p>William R. Matthis
+<lb/>To } Petition</p>
+  </body>
+ </text>
+</TEI>

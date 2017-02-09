@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1212"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Francis T. Hord to Thomas B. Stevenson</title>
+    <title level="a" type="parallel">CWG10680</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG21-52 to MG21-53</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Maysville, Mason County, Kentucky</placeName>
+    <date when="1861-07-10">10 July 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Maysville
+<lb/><date when="1861-07-10">July 10<hi rend="sup">th</hi> 1861.</date>
+<lb/>Thomas B. Stevenson Esq.</p>
+<p>Dear Sir. I have Received your letter, and for answer will state that William Ingram is a porr dissipated fellow, and I fear will do no good for himself or family. In the present case he and Mrs Vice had a quarrel prodcuced by a fight of their children, in which Ingram and Vice produced some disturbance in the nature of a riot. They were both taken up and fined and Ingram Sentenced to 15 day imprisonment. I present the Statement of Vice was written by himself, as he and Ingram were both implacable in the last. Ingram is poor and to imprison him will do no good, and the justice agreed to give him a new trial if he would attend and fixed the day for the new trial, but Ingram did not attend I wish the Govenor would pardon him for the sake of his wife and children, and not from any merit in Ingram. I have gotten the constable to wait until I can hear from the Govenor<pb/></p>
+<p>I was willing to have written this for Ingram when here at the time I wrote his petition but he supposed my statement would do him no good. His wife is a poor distressed woman, and the condition of her husband Makes her nearly crazy. I wish the Govenor to release him and send the pardon to me and I will give it to his wife</p>
+<p>Yours truly
+<lb/>Francis T. Hord<pb/></p>
+<p><figure type="postmark"><listPlace><place><placeName>MAYSVILLE
+<lb/><date when="1861-07-10">JUL
+<lb/>10
+<lb/>1861</date>
+<lb/>KY</placeName></place></listPlace></figure></p>
+<p>Thomas B. Stev<unclear>enson</unclear>
+<lb/>Frankfort, KY</p>
+<p><figure type="postmark"><listPlace><place><placeName>MAYSVILLE
+<lb/><date when="1861-07-10">JUL
+<lb/>10
+<lb/>1861</date>
+<lb/>KY</placeName></place></listPlace></figure></p>
+<p>Remitted
+<lb/>B. M.</p>
+  </body>
+ </text>
+</TEI>

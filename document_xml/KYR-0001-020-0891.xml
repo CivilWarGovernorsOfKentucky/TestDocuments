@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0891"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Samuel T. Blake to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10359</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG19-403 to MG19-404</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1861-03-04">4 March 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency, B. Magoffin</p>
+<p>Your petitioner Samuel T Blake begs leaf to submit the following facts and asks the <hi rend="underline">gentle</hi> <hi rend="underline">Exorcise</hi> of Executive clemancy in his behalf.</p>
+<p>Sometime in the year <date when="1860">1860</date> from some cause never known to him his wife a very excellent woman was induced to leave him -- and it is supposed by many that her friends and kin persuaded her into the step -- At all events &amp; whilst so seperated from his wife one of her <hi rend="str">sons by her first husband</hi> brothers was <hi rend="str">persuaded</hi> influenced to go before the grand jury of Madison County and <hi rend="underline">indict</hi> him for keeping a tippling house -- and upon the trial, said <hi rend="str">son</hi> brother was the only witness examined upon either side, and in the examination the commonwealth made him say that he paid for the liquor drank and in the defense he said Mr Blake gave it to him. It was plainly developed that said witness was simple &amp; foolish -- or maliciously mean and acting under mean motives -- under these circumstances, where the evidence seemed to be so equal, not preponderating against the deft, the jury found him guilty and assessed his fine at $60,</p>
+<p>He is a very poor man living in a very poor<pb/>
+<lb/>part of the county, a shoe-Maker by trade and can no more than make a support for his family -- Unless this fine is remitted he will probably have to go to the county jail this will be adding disgrace and expense to that already heaped upon him. Since the finding of said indictment his wife has returned and they are now living together as husband &amp; wife. amicably If your excellecny will remit the fine above state it will greatly oblige many citizens of Madison county</p>
+<p><hi rend="underline">Saml</hi> T <hi rend="underline">Blake</hi></p>
+<p>Sworn to before me by Samuel T Blake this <date when="1861-03-04">4<hi rend="underline"><hi rend="sup">th</hi></hi> day of March 1861</date></p>
+<p>We unite in the prayer of petitioner</p>
+<p>John. G. Cole
+<lb/>John. C. Jerrico
+<lb/><hi rend="underline">R Runyon</hi>
+<lb/><hi rend="underline">C. F. Burnam</hi>
+<lb/>Thomas F. Stone
+<lb/>Martin Gentry
+<lb/>H A Coffey
+<lb/><unclear/> <unclear/>
+<lb/>James Todd Juror
+<lb/>W,, Moody
+<lb/>Reuben Munday
+<lb/><hi rend="underline">Will W Smith</hi>
+<lb/>Tho<hi rend="sup">s</hi>, J, Maujorinn
+<lb/>A C M<hi rend="sup">c</hi>Williams
+<lb/>J N Hill<pb/>
+<lb/>Thos. H. Bawer
+<lb/>A H Lackey
+<lb/>John Kinnard
+<lb/>Hamson Burnam
+<lb/>Benjamin Franzlin
+<lb/>W<hi rend="sup">m</hi> Burnam
+<lb/>John A Jackson
+<lb/>J C <unclear/>
+<lb/>W. H. Carpenter
+<lb/>L. D. Maupin
+<lb/>W, C, A, Broaddus
+<lb/>C A Hawkins
+<lb/>A. J. Burnam<pb/></p>
+<p>Madison Cir Ct
+<lb/>Respite 12 mos.<figure type="hr"/>
+<lb/>Iss<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1861-03-14">Mch 14. 1861</date>
+<lb/>$60 } Tipling
+<lb/>Saml. T. Blake
+<lb/>Remission Iss<hi rend="sup">d</hi>
+<lb/><date when="1861-05-01">May <hi rend="underline">1. 1862</hi></date></p>
+  </body>
+ </text>
+</TEI>

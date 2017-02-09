@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-033-0052"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Henry D. McHenry to James F. Robinson</title>
+    <title level="a" type="parallel">CWG1515</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Governor's Official Correspondence File, Apprehension of Fugitives from Justice Papers, 1862-1863</collection>
+      <idno>R3-87</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Hartford, Ohio County, Kentucky</placeName>
+    <date when="1863-07-28">28 July 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Hartford <date when="1863-07-28">July 28<hi rend="sup">th</hi> 1863</date>
+<lb/>To the Govr
+<lb/>D<hi rend="sup">r</hi> Sir</p>
+<p>I send you an affadavit of one of our best citizens who was robbed of a horse by a noted thief -- the Thief is now confied in Jail at Rockport Ind on a charge for stabing &amp; it is questionable whether they will be able to convict him &amp; the citizens of Ind are very solicitous that he shall not escape &amp; the object is to get you to demand him from the Govr of Ind &amp; get <hi rend="str">him</hi> the authority to take him in the event he is not convicted on his trial at Rockport -- the Court there commences some tiime in August -- </p>
+<p>I would suggest that you appoint Mr Rowe the approved <hi rend="str">to</hi> as agent to bring him to Ky -- </p>
+<p>Yours truly
+<lb/><hi rend="underline">Henry D M</hi><hi rend="underline"><hi rend="sup">c</hi></hi><hi rend="underline">Henry</hi><pb/></p>
+<p>Indiana<figure type="hr"/></p>
+<p>Offer <unclear/></p>
+<p>Requisition for Tho. Reid
+<lb/>Fugitive
+<lb/>"Felony"
+<lb/>Iss<hi rend="sup">d</hi> <date when="1863-08-05">Aug 5. 1863</date>
+<lb/>Edm<hi rend="underline"><hi rend="sup">d</hi></hi> Rowe Agent</p>
+  </body>
+ </text>
+</TEI>

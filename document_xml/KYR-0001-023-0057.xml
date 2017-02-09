@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-023-0057"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Beriah Magoffin to Oliver P. Morton and William Dennison, Jr.</title>
+    <title level="a" type="parallel">CWG2970</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, 1859-1862</collection>
+      <idno>MG1-247</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1861-04-29">29 April 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Frankfort. Kentucky
+<lb/>Executive office
+<lb/><date when="1861-04-29">April 29. 1861</date></p>
+<p>Hon C. P. Morton &amp;
+<lb/>Hon Wm Dennison
+<lb/>Governoers of Indiana and Ohio
+<lb/>Gentlemen</p>
+<p>Col Thos L. Crittenden is hereby fully authorized to represent me in the conference to be held at 4 oclock tomorrow evening at Spencer House in Cincinnati</p>
+<p>Respectfully
+<lb/>B Magoffin<pb/></p>
+<p>Gov. Magoffin to Gov Dennison
+<lb/><date when="1861-04-29">Apr. 29. 1861</date>
+<lb/><date when="1861">1861</date></p>
+  </body>
+ </text>
+</TEI>

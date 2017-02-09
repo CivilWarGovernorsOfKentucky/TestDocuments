@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0852"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Walter Chiles to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10320</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG19-339 to MG19-340</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Mount Sterling, Montgomery County, Kentucky</placeName>
+    <date when="1861-03-02">2 March 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Mount Sterling <date when="1861-03-02">March 2 1861</date>
+<lb/>Dear Governor</p>
+<p>Enclosed herewith, you will find the Petition of William Owens, for the remission of a fine or Judgement against him in our court for Gaming -- You will from the Petition learn the facts in relation thereto as he has stated them briefly -- </p>
+<p>I have no personal acquantance with M<hi rend="sup">r</hi> Owens &amp; never saw him until he came to our Court at an early day of the present term He seems to be a very nice gentleman and I learn from others that he <hi rend="underline">is</hi> what he seems to be &amp; I have drawn his petition for him, at his request &amp; have procured nearly all the members of the bar and the officers of our Court to Sign it, and if consistent<pb/>
+<lb/>with your will I would be gratified could his request be granted M<hi rend="sup">r</hi>. Nesbit the attorney for the Commonwealth has promised to write you on the subject and I doubt not will comply in a few days. -- All of which I trust will be kindly received (at least) and I shall also hope with good prospect of success to the applicant</p>
+<p>Very respectfully
+<lb/>yours &amp;c
+<lb/><hi rend="underline">Walter Chiles</hi></p>
+<p>P. S. As you have yet looked <hi rend="underline">favorably</hi>, on any previous petition which I have sent you, I hope you will examine this with scrutiny; and give to the petition the benefit of a <hi rend="underline">very</hi> <hi rend="underline">kind</hi> consideration</p>
+<p>yrs <hi rend="underline">W C</hi><pb/></p>
+<p>His Excellency
+<lb/>B. Magoffin Esqr
+<lb/>Governor of Kentucky
+<lb/>Frankfort
+<lb/><hi rend="underline">Ky</hi></p>
+  </body>
+ </text>
+</TEI>

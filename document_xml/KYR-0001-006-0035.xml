@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-006-0035"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Thomas E. Bramlette, Warrant</title>
+    <title level="a" type="parallel">CWG1081</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's Official Correspondence File, Requisitions for the Return of Fugitives from Justice, 1863-1867</collection>
+      <idno>BR6-38 to BR6-38-1</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1864-06-06">6 June 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Commonwealth of Kentucky,
+<lb/>EXECUTIVE DEPARTMENT.</p>
+<p>I, Thomas E. Bramlette, GOVERNOR OF SAID COMMOWEALTH,
+<lb/>TO ALL SHERIFFS AND CONSTABLES IN SAID COMMONWEALTH, GREETING:</p>
+<p>WHEREAS, It has been made known to me by Richard Yates Governor of the State of Illinois that a certain Arch Means of said State stands indicted in the Richard Circuit Court for Kidnapping a copy of which indictment, duly authenticated, is now on file in this Department; and that the said Arch. Means has fled from the State of Illinois, thereby evading the justice of its laws, and is going at large within the limits of the State of Kentucky.</p>
+<p>Know Ye, Therefore, That I, THOMAS E. BRAMLETTE, Governor as aforesaid, do hereby require and enjoin all Sheriffs and Constables within this State to apprehend and arrest the said Arch Means, and upon his apprehension, to bring him before some Circuit Judge of this Commonwealth, that the said Circuit Judge may proceed, by proper and legal testimony, to inquire into the matter, so far as shall be necessary, to ascertain the identity of the said Arch Means and if he is the person mentioned in this, my warrant, <gap/>, that the said Judge may order him to be delivered up to W<hi rend="sup">m</hi> L. Manson, who has been duly authorized by the Governor of the State of Illinois to receive and convey the said Arch Means to the State of Illinois, to be dealt with according to law: And in case the said W<hi rend="sup">m</hi> L. Manson should not appear to receive him, that the Judge may commit him, the said Arch Means to jail, on the charge aforesaid, to be dealt with according to law: and that you report forthwith to the Governor of this Commonwealth your proceedings under this warrant. And furthermore, that if the said Arch Means shall be committed to the jail of any county in this State, that the Judge so committing him may immediately inform the Governor of this Commonwealth your proceedings under this warrant. And furthermore, that if the said Arch Means shall be committed to the jail of any county in this State, that the Judge so committing him may immediately inform the Governor of this Commonwealth of the commitment thereof, and to what jail he has been committed.</p>
+<p><figure type="seal"><ab>SEAL OF KENTUCKY
+<lb/>UNITED WE STAND DIVIDED WE FALL.</ab></figure></p>
+<p>In Testimony Whereof, I have hereunto set my hand, and caused the Seal of the Commonwealth to be affixed, at FRANKFORT, the <date when="1864-06-06">6<hi rend="sup">th</hi> day of June in the year of our Lord one thousand eight hundred and Sixty <hi rend="str">72</hi><hi rend="str"><hi rend="sup">nd</hi></hi>four,</date> and in the 7<hi rend="str">2</hi>3<hi rend="sup">rd</hi> year of the Commonwealth.</p>
+<p>Thos E Bramlette
+<lb/>BY THE GOVERNOR: 
+<lb/>E. L. VanWinkle, SECRETARY OF STATE.
+<lb/>By Jas R. Page
+<lb/>Asst Secty<pb/></p>
+<p>Not Executed: the Defendant A. Means left this county on or about the time this warrant was received &amp; has not been found it since
+<lb/><date when="1865-02-17">Feby 17<hi rend="sup">th</hi> 1865</date></p>
+<p>J. H. Eastham S. B. C</p>
+  </body>
+ </text>
+</TEI>

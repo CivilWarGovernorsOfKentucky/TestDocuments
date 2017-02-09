@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0024"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Speed &amp; Basset to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG2372</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Civil Appointments, 1859-1862</collection>
+      <idno>MG3-371</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date when="1860-11-30">30 November 1860</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Louisville <date when="1860-11-30">Novr 30 1860</date>
+<lb/>Gov Magoffin
+<lb/>Frankfort
+<lb/>D<hi rend="sup">r</hi> Sir</p>
+<p>will you please have the kindness to send us a commission for Henry V Sanders as Notary Public for Jefferson County He is Teller in the Merchants Bank is in every respect worthy</p>
+<p>Your friends
+<lb/>Speed &amp; Basset<pb/></p>
+<p>Jefferson co<figure type="hr"/>
+<lb/>Notary
+<lb/>H V. Sanders
+<lb/>Com<hi rend="sup">d</hi> <date when="1860-12-01">Dec 1. 1860</date></p>
+<p>Issue Commission
+<lb/>B M</p>
+  </body>
+ </text>
+</TEI>

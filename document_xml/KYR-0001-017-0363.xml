@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0363"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Y. Wallace to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG2711</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Civil Appointments, 1859-1862</collection>
+      <idno>MG4-334</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Edmonton, Metcalfe County, Kentucky</placeName>
+    <date when="1862-02-25">25 February 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Edmunton Kentucky
+<lb/><date when="1862-02-25">Feb 25. 1862</date>
+<lb/>To
+<lb/>His Excellency B Magoffin,
+<lb/>Sir.</p>
+<p>William D Courts and Benjamin Terrier justices of the peace for district No. 1 Metcalfe County having resigned their commissions, you will please appoint and commission R P Wren and Emanuel Morris to fill said vacancies. Also please appoint and commission <hi rend="str">E</hi> W E Spindle to fill the vacancy occasioned by the death of Marion N Carr in District No. 4 of said County</p>
+<p>Yours very Respectfully</p>
+<p>Jno. Y Wallace Judge
+<lb/>Metcalfe County Court<pb/></p>
+<p>Metcalfe
+<lb/>J. P
+<lb/>Justices app<hi rend="sup">t</hi>
+<lb/><date when="1862-03-01">Mar. 1. 1862</date></p>
+<p>Issue Commission
+<lb/>B. M.</p>
+  </body>
+ </text>
+</TEI>

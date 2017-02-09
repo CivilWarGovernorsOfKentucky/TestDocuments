@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0870"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">M. R. and T. B. Hardin to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10338</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG19-371 to MG19-372</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Springfield, Washington County, Kentucky</placeName>
+    <date when="1861-03-06">6 March 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Springfield Ky
+<lb/><date when="1861-03-06">March 6<hi rend="sup">th</hi> 1861</date>
+<lb/>Dear Governor</p>
+<p>We enclose herewith a petition for a poor ignorant fellow, who our vigilant County atty seems to have obtained a hard verdict against, You will see that the <hi rend="underline">magistrate who tried the case and eleven of the twelve Jurors are petitioning for him</hi>. The other Juror is not now at home but the others say he would also sign it, The other signers are <hi rend="underline">his immediate neighbors</hi>, who say his statements are correct. The whole matter occured some fifteen miles from town, &amp; we know nothing about it, except what his neighbors tell us - and we write at their request. We have advised them that the signing of the <hi rend="underline">Magistrate and Jury and immediate neighbors who endorse his statements</hi> was sufficient - and it was useless to get a long list of names of men who knew nothing about it -- We suppose the<pb/>
+<lb/>verdict was obtained by the county atty taking some advantage of deft ignorance and want of Counsel -- The magistrate thinks he done wrong - and has himself taken the liberty to <hi rend="underline">repreive</hi> him, until his case can be heard by you - and has not sent him to Jail -- </p>
+<p>In haste
+<lb/>very truly
+<lb/>Your friends
+<lb/><hi rend="underline">M R &amp; T B</hi> <hi rend="underline">Hardin</hi></p>
+  </body>
+ </text>
+</TEI>

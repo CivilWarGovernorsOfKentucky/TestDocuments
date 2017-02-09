@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1502"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">M. L. Rice to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6139</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR12-329 to BR12-33</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Lancaster, Garrard County, Kentucky</placeName>
+    <date when="1865-02-27">27 February 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Lancaster Kentucky
+<lb/><date when="1865-02-27">Febr. 27<hi rend="underline"><hi rend="sup">th</hi></hi> 1865</date>
+<lb/>To His Excellency
+<lb/>Tho<hi rend="sup">s</hi> E Bramlette
+<lb/>Gov. Of. the Commonwealth Of. Kentucky
+<lb/>Frankfort Ky.</p>
+<p>The undersigned would respectfully represent to your excellency that John. J. Huffman against whom an indictment was found at the present term of the ^Garrard Cir Ct^ and for which Judgment was confessed in the sum of $300, <hi rend="str"><unclear/></hi> for permitting persons to tipple and drink more than was necessary at his bar. has kept an orderly house and while instances of persons drinking too much may have occured occasionally at his bar we are satisfied that the same was done contrary to his inclinations and we know of his often refusing when present to permit any thing of the Kind and such instances as did occur were such as could not well be avoided under the circumstances. There is not in the state a more orderly or gentell Hotel kept in the state of Kentucky We hope therefore your excellency will remit the fine as we know Mr Huffman had no intention or desire to commit any offence or violate the law.</p>
+<p>Respectfully
+<lb/>M. L. Rice<pb/></p>
+<p>Lancaster Ky
+<lb/><date when="1865-02-27">Febr 27<hi rend="underline"><hi rend="sup">th</hi></hi> 1865</date>
+<lb/>Dear Gov.</p>
+<p>I freely concur in the statements of the petitioners herein and am free to state that I boarded at Mr Huffmans twelve months or running through that space of time and I know that Huffman has kept not only a good house but much more orderly than usual with hotels, I hope you will grant the request of him &amp; petitioners</p>
+<p>Yr friend
+<lb/>M H Owsly</p>
+<p>We concur in the statements of the foregoing Petition. have been stopping with J J Huffman for years, and am Satisfied that he has kept and now keeps one of the best &amp; most quietly arranged &amp; orderly Hotels in the State of Kentucky</p>
+<p>Fon T Fox
+<lb/>M. I. Dunham<pb/></p>
+<p>Garrard Cir Ct
+<lb/>vs
+<lb/>J. J Huffman
+<lb/>$300.
+<lb/>Remitted
+<lb/><date when="1865-03-03">3<hi rend="sup">d</hi> Mch/65</date></p>
+  </body>
+ </text>
+</TEI>

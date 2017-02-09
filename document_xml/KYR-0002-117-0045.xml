@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-117-0045"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Boyle to D. S. Babbitt</title>
+    <title level="a" type="parallel">CWG13874</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Christina K Adkins</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>Adjutant General Letter Book - No. 3 ; 9 April - 25 May 1864</collection>
+      <idno>306</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1864-05-11">11 May 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><note place="header">306</note>
+<lb/><date when="1864-05-11">May 11<hi rend="underline"><hi rend="sup">th</hi></hi> <gap/>4</date>
+<lb/>Lt D. S. Babbitt
+<lb/>Ordnance Depot
+<lb/>Louisville Ky.
+<lb/>Lieutenant.</p>
+<p>Your communication of the <date when="1864-05-10">10<hi rend="underline"><hi rend="sup">th</hi></hi> inst</date> to His Excellency Gov<hi rend="sup">r</hi>. Bramlette, has been referred to this office for reply. His Excellency will heartily cooperate with you in carrying out your instructions, and you will be duly notified of the organization of troops as soon as reported to these H<hi rend="underline"><hi rend="sup">d</hi></hi> Qr<hi rend="underline"><hi rend="sup">s</hi></hi>. The different places of rendezvous mentioned in General Orders N<hi rend="underline"><hi rend="sup">o</hi></hi> 3 from these H<hi rend="underline"><hi rend="sup">d</hi></hi> qrs (copy herein enclosed) are all Military posts which will doubtless be of material assistance, in this distribution of ordnance. The circular you have had printed if sent to me, will be promptly issued to those organizing companies. As we have had no report of full organizations yet, His Excellency thinks a personal interview unnecessary at present.</p>
+<p>Very Respectfully
+<lb/><hi rend="underline">John Boyle</hi>
+<lb/>Adj Gen<hi rend="sup">l</hi> of Ky</p>
+  </body>
+ </text>
+</TEI>

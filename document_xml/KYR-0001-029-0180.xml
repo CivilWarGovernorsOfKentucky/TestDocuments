@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0180"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Johnson A. Dawson et al. to James F. Robinson</title>
+    <title level="a" type="parallel">CWG8632</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Governor's Official Correspondence File, Petitions for Pardons, Remissions, and Respites, 1862-1863</collection>
+      <idno>R3-274 to R3-275</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Powell County, Kentucky</placeName>
+    <date when="1863-01-24">24 January 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excelency Jas F Robinson Governor of the Commonwealth of Kentucky</p>
+<p>Your Petitioners would Beg Leave to Reprsent to your Excelency that at the <date when="1861-09">Sept term of the Powell Circuit Court 1861</date> that the Commonwealth obtained a Judgement against John H. Danchen &amp; Thomas Martin for the Sum of Fifty dollars Each for Carring Conceald Weapons,, and they would further Represent that at the time of the finding of Said Judgement that the Said Danchen and Martin had volun<hi rend="str">r</hi>tered in the United States Army in Capt G. M. Jackson Company and the 4<hi rend="sup">th</hi> Ky Regement ^of Ky Vol^ then at Camp Roberson,, and that the Said Danchen &amp; Martin were Put in the Powell Jail in default of the Pament of Said Judgement </p>
+<p>and they would further represent to youre Excelency that J N B Hardwick our County Judge a devoted Union Man and one that took a great interest in making up Capt Jackson's Company Repleved the fines for Said Danchen &amp; Martin and took them out of Jail and Sent them to there Command they Promising <hi rend="str">it</hi> him that when they drew there money for there Services from the United States that they would Send him the money to pay Said fines ^but^ they are Still in the Service and have failed to <hi rend="str">to</hi> Send the money as they promised,, and they are now Endevoring to Collect Said Judgements out of Said Hardwick which will be verry oppressive on him if he has it to pay<pb/>
+<lb/>and we think Honestly taking Every thing into consideration that the case presents Strong grounds for the Exercise of Executive Clemency and we would aske youre Excelency to Remit Said fines. </p>
+<p>Yours with due respect
+<lb/><date when="1863-01-24">Jan 24<hi rend="sup">th</hi> 1863</date>
+<lb/>Johnson A, Dawson D, S, P, C
+<lb/>John F. Halley J P C
+<lb/>C D Creed C. N. C.
+<lb/>M Stewartt
+<lb/>Th<hi rend="underline">os</hi> C Purdy C. P. C.C.<pb/></p>
+<p>Powell Cir. Ct
+<lb/>Remitted
+<lb/>J F Robinson
+<lb/>$50 each } Weapons
+<lb/>Jno. H. Danchen
+<lb/>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> Martin
+<lb/>Iss<hi rend="sup">d</hi> <date when="1863-02-03">Feby 3. 1863</date></p>
+  </body>
+ </text>
+</TEI>

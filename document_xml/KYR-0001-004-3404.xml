@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-3404"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">J. H. Steele et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG5523</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR42-280 to BR42-281</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Carter County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency Thos E Bramlette
+<lb/>Governor of the State of Kentucky</p>
+<p>Your Petitioners would Respectfully represent to your Excellency that at the <date when="1863-11">^November^ <hi rend="str">November</hi> Term of the Carter Circuit Court 1863</date> Joseph Courtnay was fined by Said Court for a Breach of the peace Twenty Dollars Now your petition are well acquainted with Said Courtney. he is a poor man with a family of Small Children and is dependant in his daily labor for a support The facts of the Case are these a Man by the name of Ratcliff was prosecuting a Writ of Forcible Detainer against him to turn him out of doors Ratcliffs Loyalty was doubted and Courtney, not feeling pleasant under the Circumstances gave him a Cursing there being no licks whatever Struck and we think the fees and Costs will be sufficient punishment, to him wherefore we ask that said fine. be Remitted</p>
+<p>J. H. Steele. M. D
+<lb/>H. B. Eifort
+<lb/>Vincent Ferguson
+<lb/>T S McClees J P C C
+<lb/>L Dodge_
+<lb/>Thomas Smith
+<lb/>B. S. Shepherd<pb/>
+<lb/>Carter County
+<lb/>Relief Refused
+<lb/>Tho E Bramlette</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-031-0325"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">C. T. Foulks to James F. Robinson</title>
+    <title level="a" type="parallel">CWG8065</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Appointments by the Governor, Civil Appointments, 1862-1863</collection>
+      <idno>R1-436 to R1-437</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Philadelphia, Philadelphia County, Pennsylvania</placeName>
+    <date when="1863">1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Law and Collection Office:<figure type="hr"/>
+<lb/>N<hi rend="underline"><hi rend="sup">o</hi></hi> 115 South Seventh Str.
+<lb/>Philad<hi rend="underline"><hi rend="sup">a</hi></hi> <date when="1863">1863.</date>
+<lb/><hi rend="underline">To his Excellency</hi>
+<lb/><hi rend="underline">The Governor of Kentucky</hi>.
+<lb/>Hon. Sir!</p>
+<p>Being desirous of the appointment of Commissioners for the State of Kentucky, we would respectfully solicit that favor of you..</p>
+<p>We refer you to the recommendations of the prominent and respectable, citizens, whose names are hereto annexed. Upon the appointment being made known to us, we shall remit to you, whatever fee is required for the same.</p>
+<p>Very respy yrs,
+<lb/>C. T. Foulks
+<lb/>H. A. Pfeiffer } <unclear/>
+<lb/>Attys at law.<pb/></p>
+<p><hi rend="underline">Recommendations</hi>.</p>
+<p>We, the undersigned citizens of Philadelphia, have known Messrs. Foulks and Pfeiffer for a long period; they, are gentlemen of ability and integrity; and we cheerfully recommend them as deserving the appointment solicited.</p>
+<p><table rend="rules">
+<row>
+	<cell>NAME.</cell>
+	<cell>OCCUPATION.</cell>
+	<cell>RESIDENCE.</cell>
+</row>
+<row>
+	<cell>F. Carroll Brewers</cell>
+	<cell>Att: at Law.</cell>
+	<cell>Phil.</cell>
+</row>
+<row>
+	<cell/>
+	<cell>&amp; Solicitor for City of Phil.</cell>
+	<cell/>
+</row>
+<row>
+	<cell>Egbert K. Nichols</cell>
+	<cell>Atty. at Law &amp; Assistant Solicitor</cell>
+	<cell>"</cell>
+</row>
+<row>
+	<cell>J Hubley Ashton</cell>
+	<cell>Atty at Law &amp; Assist U S Attorney</cell>
+	<cell>"</cell>
+</row>
+<row>
+	<cell>Fred. G. Wolbert.</cell>
+	<cell>Prothonotary of the Ct. of Common Pleas for the City &amp; Co. of Philada.</cell>
+	<cell/>
+</row>
+<row>
+	<cell><hi rend="underline">J M Thompson</hi></cell>
+	<cell>High Sheriff. City &amp; County of Philada.</cell>
+	<cell/>
+</row>
+<row>
+	<cell>Geo. Harwood</cell>
+	<cell>Judge Dist. Ct.</cell>
+	<cell>Co. of Philada.</cell>
+</row>
+</table><pb/></p>
+<p>Pennsylvania<figure type="hr"/>
+<lb/>Com<hi rend="underline"><hi rend="sup">r</hi></hi> of Deeds
+<lb/>C. T. Foulks
+<lb/>H. A. Pfeiffer
+<lb/>(Phila<hi rend="underline"><hi rend="sup">d</hi></hi>)
+<lb/>Com<hi rend="underline"><hi rend="sup">s</hi></hi> Iss<hi rend="sup">d</hi> <date when="1863-06-08">June 8. 1863.</date></p>
+  </body>
+ </text>
+</TEI>

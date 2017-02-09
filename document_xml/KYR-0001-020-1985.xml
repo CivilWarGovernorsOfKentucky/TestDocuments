@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1985"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">T. N. Allen et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG11453</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Bradley Strait</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG23-448</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Lexington, Fayette County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency Beriah M<hi rend="sup">c</hi>Goffin </p>
+<p>Your Petitioner Edward B Long would respectfully state that he has been fined in the City Court for the City of Lexington in the sum of Five Hundered Dollars for the alledged offence of dealing faro. That the indictment was brought on malicious information, he having never committed the offence charged. That he rented rooms to other parties who were accused of gambling, but at the time it was not in his knowledge and never with his consent and for this or someother equally unjustifiable and unfounded reason he was indicted and fined as above mentioned. He states that he has paid all the costs, fees, &amp;c in the case and now respectfully prays that the remainder of said fine shall be remitted, And he will every pray &amp;c</p>
+<p>The undersigned Earnestly pray the Clemency of His Excellency in favor of the above petitioner</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>T N. Allen.
+<lb/>A Manning
+<lb/><cb n="2"/>B H Allen
+<lb/>N, S, Chiles<pb/>
+<lb/><cb n="1"/>Parker Craig
+<lb/>B F Graves
+<lb/>Jesse Wooduff
+<lb/>E E Eagle
+<lb/><hi rend="underline">G. L. Postlethwaite</hi>
+<lb/><unclear>P H Kaa^se^</unclear>
+<lb/>Jno, C. Hansbro.
+<lb/><hi rend="underline">M S. Keith</hi>
+<lb/>H. W. Chiles
+<lb/>John M<hi rend="sup">c</hi>Coy
+<lb/>E. W Holloway
+<lb/>G. S. Morgan
+<lb/>R Land jr
+<lb/>John F Kesor
+<lb/><hi rend="underline">Augustus Clark</hi>
+<lb/>H. Townsend
+<lb/><hi rend="underline">James P. Wooduff</hi>
+<lb/>C. S. Worley
+<lb/>J, E, Cromwell
+<lb/>T. H. Robbins
+<lb/>M. W. Miller
+<lb/><cb n="2"/>H. C. Metcalfe
+<lb/>E. J. Owings 
+<lb/>Jas. C. Barclay
+<lb/>John Brand
+<lb/>O O West
+<lb/>John B Payne
+<lb/>E Fred Osbone
+<lb/>G W Graves
+<lb/>Cha<hi rend="underline"><hi rend="sup">s</hi></hi> <unclear/>
+<lb/>John Hall
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Overton
+<lb/>H Y Jones
+<lb/>J. P. Frazer
+<lb/>John Evans
+<lb/>P. P. Edge
+<lb/>Woodson Jones
+<lb/>Tho Bradley
+<lb/>J J Kendall
+<lb/>H R Atchison
+<lb/>C Wheatly.
+<lb/>J. H. Craig
+<lb/>George Woolley
+<lb/>Lee B Talbott<milestone unit="column" n="1"/></p>
+<p>Respite 12 mo
+<lb/>B. M</p>
+<p>Lexington City Ct
+<lb/>$500 } Faro 
+<lb/>E. B. Long
+<lb/>Iss<hi rend="sup">d</hi> <date when="1862-06-09">June 9. 1862</date></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2433"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Nelly Marshall to J. Q. Webb</title>
+    <title level="a" type="parallel">CWG7070</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR15-380</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Springport, Henry County, Kentucky</placeName>
+    <date when="1865-09-30">30 September 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>"Beechland"
+<lb/>Near Springport. Henry Co: Ken:
+<lb/><date when="1865-09-30">Sep: 30<hi rend="underline"><hi rend="sup">th</hi></hi> 1865</date>.</p>
+<p>According to the request of my father (who is still a citizen of the United States) I address this letter to you.</p>
+<p>He has taken the Amnesty oath and has made application for "<hi rend="underline">pardon</hi>" which he desires should be strengthined by a petititon from his friends which he wants you to influence Gov: Bramblette to endorse and forward to the President for his<pb/>
+<lb/>special grace.</p>
+<p>He bade us say to you that he had faith in your past friendship for him for judging your heart by his own -- it was unalterable</p>
+<p>Any communication addressed to him will reach him if sent <hi rend="underline">here</hi> to us.</p>
+<p>Desiring to be remembered to your wife and children whom we unchangingly love and in whom we shall ever take an interest I am without doubt</p>
+<p>Very truly and politely
+<lb/>Nelly Marshall</p>
+<p>To J. Q. Webb Esq:
+<lb/>New Castle Ky:</p>
+  </body>
+ </text>
+</TEI>

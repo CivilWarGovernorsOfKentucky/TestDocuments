@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2594"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">T. C. Campbell to J. W. Gault</title>
+    <title level="a" type="parallel">CWG7231</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR16-146</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Maysville, Mason County, Kentucky</placeName>
+    <date when="1865-10-23">23 October 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Maysville Kentucky
+<lb/><date when="1865-10-23">Oct 23<hi rend="sup">d</hi> 1865</date>
+<lb/>Col. J. W Gault
+<lb/>Louisville</p>
+<p>Dear Sir Accept my thanks for kindness to Mrs Elizabeth Stull She is a clever woman and her husband is unworthy of her -- She and her children will suffer this winter if they cannot get the pay and bounty due her husband -- She tells me her husband will die I do not know him never saw him but am satisfied from what she says that he ought to be pardoned for her sake if for nothing else -- If you will write to Gov Bramlette and tell him the Story of this man and woman -- that the jury are signing the petition for his pardon and that Genl Palmer has done so and what you and I think about it he <hi rend="underline">can</hi> <hi rend="underline">and</hi> he <hi rend="underline">will</hi> <hi rend="underline">telegraph</hi> the President to Pardon him and the President will do it at once Say to the Governor that what I do -- I do as a Union man not as a Lawyer, not for a fee that I could not be induced to take a cent of this womans money He can obtain the pardon &amp; will</p>
+<p>Your friend T. C. Campbell<pb/></p>
+<p>3d</p>
+  </body>
+ </text>
+</TEI>

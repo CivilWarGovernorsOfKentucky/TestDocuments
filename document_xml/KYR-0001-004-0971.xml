@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0971"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Benjamin F. Turner to A. H. Buckner</title>
+    <title level="a" type="parallel">CWG5090</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR11-3 to BR11-4</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Winchester, Clark County, Kentucky</placeName>
+    <date when="1864-06-04">4 June 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Winchester Ky. <date when="1864-06-04">June. 4th" 1864</date>.
+<lb/>Judge A. H. Buckner
+<lb/>Dear Sir,</p>
+<p>Having been notified by the Sheriff of Clarke Co (S. G. Stuart) that he had likewise been notified by the judge of this Circuit, that all persons of indebtedness to the court should be prepared to make payment of their indebtedness by the <date when="--06">4th Monday in this mo</date>. I being security upon my brothers bond deposited in your office for the sum of $29.33. a debt for his confession before the court for gambling in <date when="1862-10">Oct 1862</date>. And which was respited by ex Governor Beriah M<hi rend="sup">c</hi>Goffin. I desired to call your attention to it for the purpose if possible of getting it remitted by our present Govenor James Bramlette through your influence</p>
+<p>I had thought it was remitted long ago But find it was merely respited I am satisfied my brother, beleives it to have been abolished.</p>
+<p>By your kind attention to this favor you would greatly oblige me</p>
+<p>Yours respectfully
+<lb/><hi rend="underline">Benj. F. Turner</hi><pb/>
+<lb/>In this case</p>
+<p>In this case Judgment was rendered against Nathaniel Turner for $20.<hi rend="sup">00</hi> for unlawful gaming. The Judgment was replieved by Ben F Turner security, was respited, the respite expired &amp; Execution is now in the hands of the Sheriff of Clark.</p>
+<p>The same merit attaches to this cases, which <hi rend="str">does</hi> does to all similar cases of a clever young man having to pay for his thoughtless disregard of law.</p>
+<p>A. H. Buckner Clk</p>
+<p>Clarke Cir Ct
+<lb/>Commonwealth
+<lb/>vs } Petition for Remission
+<lb/>Nathl Turner<figure type="hr"/>Refused
+<lb/><date when="1864">1864</date></p>
+  </body>
+ </text>
+</TEI>

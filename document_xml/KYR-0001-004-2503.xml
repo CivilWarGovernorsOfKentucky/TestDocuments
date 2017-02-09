@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2503"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Andrew J. James to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7140</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR16-3</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1865-10-20">20 October 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>D<hi rend="sup">r</hi> Governor</p>
+<p>The within Petition was sent by me to lay before your Excellency</p>
+<p>The Tarters are good citizens This Petitioner is one whom I am not personally acquainted with -- being I suppose a young man. His prosecutor Dickerson Thompson figured in court, at the late term, at Somerset unfavourably -- I refer you on this subject to M<hi rend="underline"><hi rend="sup">r</hi></hi> Sec<hi rend="underline"><hi rend="sup">y</hi></hi> Vanwinkle</p>
+<p>The costs and Com<hi rend="underline"><hi rend="sup">th</hi></hi> att<hi rend="underline"><hi rend="sup">os</hi></hi> part of the fine I think would be enough punishment for Tarter.</p>
+<p>Respy.
+<lb/><hi rend="underline">A. J. James</hi>
+<lb/><date when="1865-10-20">Oct 20 1865</date>.</p>
+  </body>
+ </text>
+</TEI>

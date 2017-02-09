@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1011"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Ephraim L. Van Winkle et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10479</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG20-80</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1861-04-02">2 April 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Mr Beriah M<hi rend="underline"><hi rend="sup">c</hi></hi>goffin Govner of Kentucky</p>
+<p>To your Excellency we Petition you to releace Benjamin Burton of a fine of $15,00 that went against him before W,, H,, Logan a justice of the Peace for Pulaski County on the <date when="1860-12-06">6<hi rend="underline"><hi rend="sup">th</hi></hi> day of December last</date> for rioting wherin the commonwealth was Plaintiff &amp; the said Banjamin Burton Defendant</p>
+<p>M<hi rend="sup">r</hi> B was find for striking, first, cause his adversary charged him openly &amp; publicly with bribery &amp; Burton struck. the insult was outrageous</p>
+<p><milestone unit="column" n="2"/><cb n="1"/><hi rend="str">E L VanWinkle</hi>
+<lb/>Sherrod <hi rend="underline">Williams</hi>
+<lb/><cb n="2"/>E L VanWinkle
+<lb/>W M<hi rend="sup">c</hi>Kee Fox
+<lb/>Frank. J. White
+<lb/>S. F. Tomlinson J I Allcorn
+<lb/>Thomas Girdler M Singleton
+<lb/>Woods Denton
+<lb/>M. Oppenheimer
+<lb/>N. Buchanan
+<lb/>S M Hail
+<lb/>J. E. Cosson
+<lb/>O. G. Kelly
+<lb/>John, M, Newman
+<lb/>John Owens
+<lb/>A.. G.. Wood
+<lb/>H. S. <unclear/>
+<lb/>A S Allron
+<lb/>J. B. Girdler<milestone unit="column" n="1"/><pb/></p>
+<p>This day personally appeared Benjamin Burton before me and made oath that the statements in the within petition are true to the best of his knowledge and belief this <date when="1861-04-02">April the 2<hi rend="sup">nd</hi> 1861</date></p>
+<p>J. E. Cosson J. P.</p>
+<p>Pulaski J. P.
+<lb/>$15. } Breach
+<lb/>Benj Burton
+<lb/>Iss<hi rend="sup">d</hi> <date when="1861-04-09">Apr. 9. 1861</date></p>
+<p>Remitted
+<lb/>B. M</p>
+  </body>
+ </text>
+</TEI>

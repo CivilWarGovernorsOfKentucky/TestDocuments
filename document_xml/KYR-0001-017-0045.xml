@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0045"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Josiah Harris, Jr. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG2393</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Civil Appointments, 1859-1862</collection>
+      <idno>MG3-397 to MG3-398</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Paducah, McCracken County, Kentucky</placeName>
+    <date when="1861-01-03">3 January 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Paducah <date when="1861-01-03">Jany 3<hi rend="sup">d</hi>/61</date>
+<lb/>Hon
+<lb/>B Magoffin
+<lb/>Frankfort
+<lb/>Dear Sir</p>
+<p>That no trouble may ensue I write asking you for a commission as <hi rend="underline">Notary Public</hi> being a member of the <hi rend="underline">Bar</hi> I am at some inconvenience, at times getting my Cliants Sworn to legal pleadings -- </p>
+<p>My References, for all thats required are Judge<hi rend="sup">s</hi> Williams, Bigger, <unclear>Trinden</unclear>, and also John Q A King A. P. Thompson, <unclear>L M<hi rend="sup">c</hi>Henry</unclear> <unclear>Dalliam</unclear> &amp; others</p>
+<p><unclear>Comply</unclear> at your earliest convenience Obliging</p>
+<p>Yours with Respect:
+<lb/>Josiah Harris Jr<pb/></p>
+<p>M<hi rend="sup">c</hi>Cracken Co<figure type="hr"/>
+<lb/>Notary
+<lb/>Josiah Harris Jr
+<lb/>Is <date when="1861-01-10">Jany 10. 1861</date></p>
+<p>Issue Commission
+<lb/>B. M</p>
+  </body>
+ </text>
+</TEI>

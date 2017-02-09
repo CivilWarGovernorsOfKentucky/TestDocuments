@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1329"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">P. Hines et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10797</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG21-236 to MG21-237</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his excellency Governer B Magoffin</p>
+<p>We would respectfully represent to your excellency that at the last <date when="1861-02">Febuary</date> term of the Warren Criminal and Equity Court <hi rend="str">there were three indictments tried that</hi> the Defendant Jos Khan was tried upon three indictments against him -- for tippling -- on nos 1 &amp; 2 he was fined $20. -- each, and on No 3 he was fined $40. -- Now as all means of enforcing the collection of debts have been removed by law -- and as it is impossible to collect any considerable amount under the present depressed condition of financial affairs and the unsettled condition of the public mind; We would petition that the said Josh Kahn be released from the three above mentioned fines -- and in addition would State that has not now as we believe those sums -- that can be spared from the support of his family and although he has debts to several times that amount owing to him -- yet for the above reason they can not now be made available and if the Sheriff were to attempt to make the sums out of the proceeds of the sale of his property under execution it would require a sacrifice of $300, or more worth of property -- Therefore we respectfully ask to have him released by your excellency from these fines; and we think under all the circumstances that he should be saved from the payment of them by your clemency.</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Y R M<hi rend="underline"><hi rend="sup">c</hi></hi>Quown
+<lb/>S R Van Meter M S
+<lb/><cb n="2"/>P,, Hines
+<lb/>George Lohman
+<lb/>Jo<hi rend="sup">s</hi> L. Philips
+<lb/>O C Vanmeter<milestone unit="column" n="1"/><pb/>
+<lb/>James D. Hines
+<lb/>John A. Huges
+<lb/>Tom L Burnam
+<lb/>P. R. Mitchell
+<lb/>Sam Murrell Jr
+<lb/>J F Davis
+<lb/>John G Coak
+<lb/>Cha<hi rend="sup">s</hi> D Allen<pb/></p>
+<p>Gov B Magoffin
+<lb/>From } Petition
+<lb/>Warren Eq Ct
+<lb/>Jos Khan<figure type="hr"/></p>
+<p>Respite 12 Mo
+<lb/>B. M</p>
+<p>2 Judgts of $20 &amp;
+<lb/>1 " " $40</p>
+<p>Iss<hi rend="sup">d</hi> <date when="1861-08-30">Aug 30. 1861</date></p>
+  </body>
+ </text>
+</TEI>

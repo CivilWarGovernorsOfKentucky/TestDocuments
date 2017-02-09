@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1088"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Jane Welch to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10556</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG20-190</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Catlettsburg, Boyd County, Kentucky</placeName>
+    <date when="1861-05-02">2 May 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency the Governor of Kentucky,</p>
+<p>Your petitioner Jane Welch, most Respectfully, represents, that at the last Term of the Boyd circuit, ^court^ there was by <hi rend="underline">confession</hi>, a judgement rendered against her for the sum of fifty Dollars &amp; costs, she states that the charge, against her was for keeping a house of Ill fame, she says, that, in the part of the town where she resides, it is near the bank of the Ohio river, near steam boat landing, that to keep order and confusion down, sometime before the Indictment was found she, was forced to shoot, in a crowd of men, with a shot gun, hitting some five with sho<hi rend="str">r</hi>t, which she done, to force them to Leave, and not, to annoy or disturb her house or it'<hi rend="sup">s</hi> inmates, she says she was &amp; is not guilty of the charge, but some of her persecutors had procured witness'<hi rend="sup">s</hi> to prove some thing to sustain the charge, she says, being a female she prafered to confess; rather than be brot into court, to be gazed at, &amp; to suffer the mortification, in cident to such trial, she says that she was also induced to confess<hi rend="str">ed</hi> from the promise, of some friends, that, they believed your excellency would interpose</p>
+<p>She States She is poor, alone, and persecuted, <hi rend="underline">erri</hi>ng female; she hopes your excellency will interpose, &amp; in duty she will ever &amp;c</p>
+<p>Jane Welch,<pb/></p>
+<p>Catlettsburg, Ky, <date when="1861-05-02">May 2<hi rend="underline"><hi rend="sup">nd</hi></hi> 61'</date></p>
+<p>we do ask, that your excellency interpose, the petitioner has lived for seven years in this town, she is a woman of great kindness, and excellent; nurse, upon the <hi rend="underline">sick</hi> she will not suffer any noise or disorder about her house; or where she can control</p>
+<p>O, W, Martin
+<lb/>Levi Stephenson</p>
+<p>we ask that your excellency interpose in behalf, of Jane Welch, and believe, that the ends of Justice, will be promoted, thereby</p>
+<p>Ja<hi rend="sup">s</hi>. M. Rice
+<lb/>S, N, Brown</p>
+<p>Boyd Cir Ct
+<lb/>Jane Welch
+<lb/>To } Petition
+<lb/>Governor<figure type="hr"/>
+<lb/><hi rend="underline">Remitted</hi>
+<lb/><hi rend="str">Respited 8 mo</hi>
+<lb/>B M
+<lb/>$50 }
+<lb/>Iss<hi rend="sup">d</hi> <date when="1861-05-11">May 11. 1861</date></p>
+  </body>
+ </text>
+</TEI>

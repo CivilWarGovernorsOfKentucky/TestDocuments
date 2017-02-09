@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1657"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">William M. Miller, Affidavit</title>
+    <title level="a" type="parallel">CWG6294</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR13-128</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1865-04-04">4 April 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>I am the father of Wesly Miller who get <hi rend="str">some</hi> a dram at Johnathan <hi rend="str">Wesle</hi> Roley's sometime in the winter of <date when="1863">1863</date>-<date when="1864">4</date> and for which the said Raley was fined -- My boy had the appearance at the time of being twenty one years of age and not one man in fifty would have Judged him for less -- M<hi rend="underline"><hi rend="sup">r</hi></hi> Roley was keeping tavern at the time and at the <date when="1864-03">March term of the Ohio Circuit Court ^1864^</date> was fined therefor, that is for letting my son have the dram Before that I had drank at the bar with my son and had said to M<hi rend="underline"><hi rend="sup">r</hi></hi> Roley who is and was a poor man, that if any of my family called for anything to let them have it -- My son hardly ever drinks anything, that time had been driving a wagon and the day was wet and under these circumstances get the whiskey -- Roley was an honest man and law abiding one -- </p>
+<p>W<hi rend="underline"><hi rend="sup">m</hi></hi> M Miller</p>
+<p>Sworn to before me by Wm M. Miller this <date when="1865-04-04">4 april A. D. 1865</date></p>
+<p><hi rend="underline">R. J Moseley
+<lb/></hi>Clk Ohio Co. Ct.<pb/></p>
+<p>Ohio Cir Ct
+<lb/>vs
+<lb/>Jonathan Railey
+<lb/>5 judgts $50. $150.
+<lb/>$100, $100 $25.</p>
+<p>Remit
+<lb/><date when="1865-06-16">16<hi rend="sup">th</hi> June/65</date></p>
+<p>sent for fee
+<lb/><date when="1865-05-24">24<hi rend="sup">th</hi> May/65</date></p>
+  </body>
+ </text>
+</TEI>

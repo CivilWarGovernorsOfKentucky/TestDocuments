@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-033-0053"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">James R. Dupuy to James W. Tate</title>
+    <title level="a" type="parallel">CWG1516</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Governor's Official Correspondence File, Apprehension of Fugitives from Justice Papers, 1862-1863</collection>
+      <idno>R3-88</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date when="1863-08-20">20 August 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Louisville <date when="1863-08-20">Aug 20<hi rend="sup">th</hi> 1863</date>
+<lb/>Dear Sir</p>
+<p>Enclosed please find copy of indictment &amp; forfeiture &amp; order for capias of William Ramsey residing in Indiana, twenty five miles from this city -- there are <hi rend="underline">three</hi> others pending against him in our court Please send me a requisition on the Gov. of Indiana for him Policemen Charles Orington &amp; Thomas M<hi rend="sup">c</hi>Ilvogue will attend to the arrest</p>
+<p>By so doing you will oblige
+<lb/>Yrs truly 
+<lb/>J R Dupuy
+<lb/>Com<hi rend="underline"><hi rend="sup">th</hi></hi> atty -- </p>
+<p><hi rend="underline">Send by mail</hi><pb/></p>
+<p>Jefferson Co<figure type="hr"/>
+<lb/>Indictment
+<lb/>vs
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Ramsey
+<lb/>Horse stealing
+<lb/>Requisition on Indiana
+<lb/>Is<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1863-08-22">Aug 22. 1863</date>
+<lb/>Cha<hi rend="underline"><hi rend="sup">s</hi></hi> Orington
+<lb/>Agt.</p>
+<p>Mr Tate</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0928"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">H. W. Noris et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10396</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG19-476</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency Beriah M<hi rend="sup">c</hi>Goffin Govenor of the State of Kentucky -- </p>
+<p>Your petitioners respectfully represent that on the <date when="1861-03-04">4<hi rend="sup">th</hi> day of March 1861</date> George Shockey was tried before George R. Burgess a Justice of the Peace in and for the County of Boyd for the commission of the offense of Disturbing religious worship- and was fined in the sum of twenty five dollars- The prosecution against him was begotten in a spirit of religious persecution- conducted by officious individuals and outside influences- under these circumstances we deem Mr Shockey a person who is eminently entitled to our recommendation to the clemency of the executive- his claims thereto are much enhanced by the consideration that he is person who is poor and whose earnings are required for the support of a large family -- Trusting in your known high respect to the principles of humanity justice and mercy- We pray that the above named fine may be remitted -- </p>
+<p><milestone unit="column" n="2"/><cb n="1"/>H W Noris
+<lb/>Nathan Cusher
+<lb/>tomas Cole R Vortch
+<lb/>Ed, P, Paine
+<lb/>Henry P Pope
+<lb/>John burchett
+<lb/><cb n="2"/>Jesse Cyrus
+<lb/>Samuel H Cyrus
+<lb/>James mickam
+<lb/>Elijah Johnston
+<lb/>George Johnston
+<lb/>John <unclear/><pb/>
+<lb/><cb n="1"/>David, lovjoy
+<lb/>C C Didgors
+<lb/>John Killer
+<lb/>Basil B Deegin
+<lb/>Lafayette Lovejoy
+<lb/>James Bowling
+<lb/>D. M. Murphy
+<lb/>Lazrus <unclear/>
+<lb/>George W Runyon
+<lb/>Peter Riparte
+<lb/>E. Z. Tomlin
+<lb/>William whit
+<lb/><hi rend="str">To his</hi>
+<lb/><cb n="2"/>abraham adams
+<lb/>George Vessy
+<lb/>Henry Godfrey
+<lb/><hi rend="underline">Clark Clark</hi><milestone unit="column" n="1"/><pb/></p>
+<p>Boyd J. P
+<lb/>Geo. Shocky's case
+<lb/>Boyd Co
+<lb/>Respite 12 mo
+<lb/>B. M
+<lb/>$25 } Misdemeanor
+<lb/>Iss<hi rend="sup">d</hi> <date when="1861-04-09">Apr 9. 1861</date></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1045"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">James G. Arnold to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10513</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG20-131</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Covington, Kenton County, Kentucky</placeName>
+    <date when="1861-05-29">29 May 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Covington <date when="1861-05-29">May 29<hi rend="sup">th</hi> 1861.</date>
+<lb/>To his excellency B. M<hi rend="sup">c</hi>Giffin Governor of Ky
+<lb/>Dear Sir</p>
+<p>At the request of Mr. &amp; Mrs James Alexander of this city whose son Hiram Alexander Jr who is now in confined in the Penitentiary at Frankfort charged with cutting with a knife in a Fray a Dutchman which was commenced by other parties. The Germans had great Prejudice against young Alexander his Father and Mother being native Kentuckians It is now believed their evidence against him was greatly exagerated If not untrue he is ^believed^ by many to be innocent they magnified the Injury done to the duchman above the the truth in the case and raised an old Barlow to Booa Knife It was stated by one witness who was present at the time that young Alexander was Innocent; but the Dutch over balanced his Testimony by numbers and prevailed. his parents are poor but they are esteemed here where they have lived about twelve years honest quiet &amp; truthful their son Hiram was raised from a boy here and I never heard any thing alleged against his character for honesty &amp; integrity: The Dutchman was soon well &amp; I understand has Joined the Northern Army to subdue the south.<pb/>
+<lb/>I fully believe young Alexander should be released and given to his honest parents who are much depressed &amp; distressed and greatly need his assistance in these hard times for the poor. I hope your Excellency will grant their request as I fully believe his a proper case for Executive clemency</p>
+<p>very Respectfully
+<lb/><hi rend="underline">James G. Arnold</hi></p>
+<p>Arnold</p>
+  </body>
+ </text>
+</TEI>

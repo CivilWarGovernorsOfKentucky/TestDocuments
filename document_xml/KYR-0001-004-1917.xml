@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1917"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">C. H. Buster to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6554</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR14-34</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Stanford, Lincoln County, Kentucky</placeName>
+    <date when="1865-05-10">10 May 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Stanford Ky
+<lb/><date when="1865-05-10">May 10<hi rend="sup">th</hi> 1865</date>
+<lb/>Governor Bramlette,</p>
+<p>I give you in explanation of the petition of Col Alexander, the following statement,</p>
+<p>Myself &amp; Col Alexander were in a drinking saloon, he was thoroughly intoxicated, wild with excitement, and almost frantic, had his pistol out in his hand, it was I now believe cocked at the time, friends came in &amp; he invited them to drink, among others the deceased Come into the room Alexander in a friendly &amp; free manner asked him to come up and drink <hi rend="str">which he</hi> <hi rend="str">did</hi> they were talking, for a moment afterwards when I heard the report of a pistol and the deceased fell and died immediately</p>
+<p>I am of the opinion that it is true that the shooting occured unintentionally upon the part of Alexander, at least I am sure that he did not know what he was doing he was so completely overcome with the effects of the spiritous liquors &amp; excitement</p>
+<p>C H Buster<pb/></p>
+<p>Wayne Co,
+<lb/>Pardon
+<lb/>F. N. Alexander<figure type="hr"/>
+<lb/>Pardon issued
+<lb/>E L V
+<lb/><date when="1865-05-24">24<hi rend="sup">th</hi> May 1865</date></p>
+  </body>
+ </text>
+</TEI>

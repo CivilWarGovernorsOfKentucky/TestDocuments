@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-024-0067"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">W. M. Burrett et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG12120</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Mitchell A Krock</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>1st - 20th Regiments Kentucky Infantry Primary Source Documents</collection>
+      <idno>Box 8, Folder 15th Ky. Inf. - Misc.</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Mount Eden, Spencer County, Kentucky</placeName>
+    <date when="1863-10-12">12 October 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>M<hi rend="sup">t</hi> Eden, Spencer co. Ky.
+<lb/><date when="1863-10-12">Oct. 12th, 1863</date>.
+<lb/>His excellency, Gov Bramlette -- 
+<lb/>Frankfort:</p>
+<p>The bearer of this, Lt. Benj H. Howser, formerly of the 15<hi rend="sup">th</hi> Ky. vol inf. Army of the cumberland, and a citizen of this our county, as endeavoring to enlist men in obedience to the late Order for organising The <hi rend="underline">state</hi> <hi rend="underline">guard</hi>. We as <hi rend="underline">union</hi> <hi rend="underline">men</hi> take pleasure in attending his loyalty, energy and zeal in the cause of our common country against traitors and factionists: and we are assured that he will discharge the duties fully of any position or trust confided to him in the organisation or command of men for the defense of our state: and we cordially recommend him for <hi rend="underline">any</hi> position where his services are needed.</p>
+<p>Very Respectfully
+<lb/>W. M. Burnett
+<lb/>W. S. Crutcher M, D,
+<lb/>M L Hudson M, D,
+<lb/>J. C. Burnett sergt of state ^gard^
+<lb/>Zach Hoffman. M. J.
+<lb/>Lt Col <unclear/> <unclear/> <unclear/>
+<lb/>15 Regt <unclear/> Ky</p>
+<p>all necessary papers <hi rend="underline">given</hi> to him to organize a Co<hi rend="sup">y</hi> of S. G<hi rend="underline"><hi rend="sup">s</hi></hi><pb/></p>
+<p>Spencer Co Ky <date when="1863-10-12">Oct, 12 1863</date><figure type="hr"/>
+<lb/><hi rend="underline">B H Hawser, Capt</hi></p>
+<p>authoritiy to organize a coy for S. G. in this Coy</p>
+<p><hi rend="underline">citizens</hi><figure type="hr"/></p>
+<p>Capt Benj. H. Howser -- to raise a Co. in Spencer Co.</p>
+  </body>
+ </text>
+</TEI>

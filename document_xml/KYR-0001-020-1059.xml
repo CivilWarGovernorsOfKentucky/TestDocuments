@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1059"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Wiley Baker et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10527</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG20-152</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1861-05-28">28 May 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his excellency Beriah Magoffin
+<lb/>govenor of the Commonwealth of Ky</p>
+<p>We the citizens of Owsley county would respectfully represent that at the <date when="1861-05">may term 1861</date> of the Owsley circuit court Isaac Mullins was fine twenty dollars besides cost for the offense of retailing spiritous liquors to wit one half gallon on an election day, that we do not believe that said Mullins knew at the time that he was violating the law, but supposed that he could sell that quantity, that he is a good citizen &amp; had very recently moved among us -- &amp; is a very poor man &amp; not able to support his family &amp; pay the fine &amp; cost, that the cost will be sufficient punishment &amp; really more than than he is able to pay, we believe that his fine ought to be remitted, &amp; believe that it would meet the approbation of the good citizens of this county, we respectfully ask that you remit the same, this <date when="1861-05-28">28<hi rend="sup">th</hi> may 1861</date></p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Wiley Baker
+<lb/>Isaac H Gabbard
+<lb/>D B Capps Clk
+<lb/>W<hi rend="sup">m</hi> S Hursh D. C.
+<lb/>H F Hensley
+<lb/>W. Williams
+<lb/>I. E. Gibson
+<lb/>A B Gilbert
+<lb/>O C Cole
+<lb/><cb n="2"/>E B Treadway Sheff
+<lb/>John Cole
+<lb/>John Peter D S
+<lb/>H C Hargis
+<lb/>Ira G profitt
+<lb/>James Spencer
+<lb/>H B Hampton
+<lb/>John C, Cole <unclear/>
+<lb/>T J Treadway D S <unclear/><milestone unit="column" n="1"/><pb/>
+<lb/><hi rend="str">O C Cole</hi>
+<lb/>H B Asbell
+<lb/>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> Thurnell
+<lb/>M. G. Mize</p>
+<p>Remitted
+<lb/>B. M</p>
+<p>Issd. <date when="1861-06-24">June 24</date></p>
+  </body>
+ </text>
+</TEI>

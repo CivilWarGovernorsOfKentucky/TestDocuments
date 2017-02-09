@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0497"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">C. D. Carr to Nathaniel Gaither</title>
+    <title level="a" type="parallel">CWG2845</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Civil Appointments, 1859-1862</collection>
+      <idno>MG4-510 to MG4-511</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Lexington, Fayette County, Kentucky</placeName>
+    <date when="1862-07-09">9 July 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Lex <date when="1862-07-09">July 9 1862</date>
+<lb/>Nat Gaither Esqr
+<lb/>Sect of State
+<lb/>Frankfort,
+<lb/>Ky
+<lb/>Dr Sir</p>
+<p>At the <date when="1861-08">August Election 1861</date> Abram M Andrews was elected a justice of the Peace for the 3<hi rend="sup">rd</hi> precinct of Fayette County. <hi rend="str"><unclear/></hi> Certificates of his Election were duly made out one forwardid to your office &amp; one given him: He has never received his Commission and desires me to apply for it:</p>
+<p>He has qualified &amp; been acting -- </p>
+<p>Will you please<pb/>
+<lb/>forward the Commission and oblige Mr Andrews and</p>
+<p>Yours Respect
+<lb/>C D Carr<pb/></p>
+<p>Fayette Co<figure type="hr"/>
+<lb/>J. P.
+<lb/>Dist N<hi rend="sup">o</hi>. 3.
+<lb/>Com Iss<hi rend="sup">d</hi>
+<lb/><date when="1862-07-22">July 22.<hi rend="sup">d </hi>1862</date></p>
+<p>J. P</p>
+  </body>
+ </text>
+</TEI>

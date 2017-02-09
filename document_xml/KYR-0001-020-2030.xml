@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-2030"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Beriah Magoffin, Respite</title>
+    <title level="a" type="parallel">CWG9106</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG24-36</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1861-08-14">14 August 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Beriah Magoffin
+<lb/>Governor of the Comth. of ky
+<lb/>To all who shall see these presents Greeting</p>
+<p>Where as A Judgment has been rendered by the Louisville City Court ^for $200^ against R C. Hick. And whereas it appears from satisfactory evidence that the case of said Schlich presents strong considerations for the interposition and indulgence of the Executive -- Now Know ye, that in consideration of the premises and by virtue of the power vested in me by the Constitution I have thought proper to Respite and do by these presents stay and respite the collectiion of said Judgment save fees &amp; cost, for the term of twelve months from the date hereof, and do enjoin all officers to respect this Respite &amp; govern themselves accordingly. In Testimoney whereof I have herunto set my hand &amp; caused the Seal of the Comth. to be affixed at Frankfort on the <date when="1861-08-14">14<hi rend="sup">th</hi> day of Aug. in the year of our Lord one Thousand Eight hundred and sixty one</date> &amp; in the 70<hi rend="sup">th</hi> year of the Comth</p>
+<p><figure type="seal"/></p>
+<p>B Magoffin</p>
+<p>By the Governor
+<lb/>Tho B. Monroe Jr. Sec: of State
+<lb/>A Copy 
+<lb/>Att O H Strattan C<pb/></p>
+<p>copy
+<lb/>Respite
+<lb/>R C. Hick<figure type="hr"/></p>
+<p>Remitted <date when="1862-07-15">July 15<hi rend="sup">th</hi> 1862</date></p>
+  </body>
+ </text>
+</TEI>

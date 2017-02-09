@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0495"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Bunfin to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG9963</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG18-268</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Knox County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency Beriah Magoffin Governor of the Commonwealth of Kentucky. Your petitioner John B Bunnfind would most respectfully represent unto Your Excellency that at the <gap/> Term of the the Knox Circuit Court he was indicted for the offence of "selling liquor to a slave" and at the <date when="1859-09">Sept Term 1859</date> he was tried and found guilty of said offence and a fine of $50, was assessed against him. He says that sometime since he petitioned your Excellency to remit said fine and that the same was respited on the <date when="1859-09-12">12" day of Sept 1859</date>. for the Term of 8 months from the date thereof, He says that a true statement of the facts are fully set forth in his original petition to which your Excellency is most respectfully referred. He says that he has settled the cost which amounted to some $15 or $20 he says he is a poor man and has the cares of a widowed mother and family upon his hands. He says that mony is hard to get at least with him. and he does not believe<pb/>
+<lb/>your Excellency wishes or intends that a poor man shall be harrassed and his propety sacrifice, for the benefit of the Commonths when her coffers are full to overflowing. when she is able to pass through the great monetary crisies that is now ^in this land^ <unclear/> and unmoved. He says that if he has the fine to pay it will cause a sacrifice of his propety and while thankfull for the favor received from your hands He earnestly ask a consideration of the premises and He prays that your Excellency may extend to him the arm of your Executive clemency and He prays a remission of the fine</p>
+<p>John Bunfin</p>
+<p>We the undersigned Citizen of Knox County most respectfully ask a remission of the fine agst Mr Bunfin</p>
+<p>F, P, Stickly</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Times are Hard no money in the County Finn is a very poor man and Has a mother &amp; two sisters to support</p>
+<p>John Dishman
+<lb/><cb n="2"/>David Dishman
+<lb/>Patrick Johnson
+<lb/>J D Mayhew
+<lb/>A Leith
+<lb/><hi rend="underline">J. M. Dishman</hi>
+<lb/>John Dishman</p>
+<p><note place="left margin">Remitted
+<lb/>B M
+<lb/><date when="1861-01-16">Jay 16. 1861</date></note></p>
+  </body>
+ </text>
+</TEI>

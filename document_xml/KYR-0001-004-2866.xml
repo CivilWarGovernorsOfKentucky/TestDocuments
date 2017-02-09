@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2866"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">F. K. Hunt to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7503</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR17-160</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency Governor Bramlette, it is respectfully represented that, on the <date when="1865-07-07">7<hi rend="sup">th</hi> day of July 1865</date>, an Indictment was returned by the Grand Jury in the Fayette Circuit Court against <hi rend="underline">Frank Key Morgan</hi> for <hi rend="underline">Robbery</hi> The offence was charged to have been comitted in taking a pair of boots from Bassett &amp; Emmall, Shoe Merchants, by putting their Clerk "in fear"</p>
+<p>The accused was a youth about 17 years old, the youngest brother of the Rebel General John H Morgan, and a regularly enlisted soldier of his command in the Rebel army When Lexington was occupied by Morgan's forces in his raid of <date when="1864-06">June 1864</date>, the accused was with his command The Rebel soldiers were authorized &amp; directed (as it was understood) by their commander to supply themselves with horses, clothing, &amp; other things needed for their equipment, by taking them from the inhabitants, and they did so in a great many instances</p>
+<p>In pursuance of this supposed authority, the accused being badly shod, took the boots in question But he offered to pay for them at the time in such money as he had, which however was Confederate currency. He believed that he was authorised to take them, &amp; justified in doing so, by the permission of his commander, &amp; in the exercise of belligerent rights according to the usages of war, and under the circumstances it is unquestionable<pb/>
+<lb/>that the act was far from any felonious or fraudulent intent</p>
+<p>Considering these circumstances, and the youth &amp; inexperience of the accused, (who is now at school pursuing his studies) it is respectfully but earnestly submitted to Your Excellency whether this is not a case for the exercise of the Executive clemency.</p>
+<p><hi rend="underline">F. K. Hunt</hi></p>
+<p>The foregoing statement of the facts upon which the Indictment against Frank Key Morgan is founded, is correct according to my recollection of the Evidence before the Grand Jury and the circumstances of the case</p>
+<p>W. L. Downey
+<lb/>C. W. Atty<pb/></p>
+<p>Fayette Cir Ct
+<lb/>vs
+<lb/>Frank Key Hunt
+<lb/>Robbery
+<lb/>Pardonned
+<lb/>Offence
+<lb/><date when="1865-12-05">5 Dec /65</date></p>
+  </body>
+ </text>
+</TEI>

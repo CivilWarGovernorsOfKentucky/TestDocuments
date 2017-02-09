@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0300"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">David Bells et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG4419</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR8-474</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Cynthiana, Harrison County, Kentucky</placeName>
+    <date when="1863-11-04">4 November 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Cynthiana Ky
+<lb/><date when="1863-11-04">Novr 4<hi rend="sup">th</hi> 1863</date>
+<lb/>To His Excellency
+<lb/>Governor Tho<hi rend="underline"><hi rend="sup">s</hi></hi> E. Bramlette.</p>
+<p>We the undersigned would most respectfully state that at the <date when="--05">May Term</date> of the Harrison Circuit Court an indictment was found by the Grand Jury of said Court against one Guy Bryant for selling liquor to a miner by the name of Alonzo Lyter. The proof shows conclusively that at the time the liquor was sold to said Lyter that his (Lyters) Guardian &amp; Step Father was present &amp; drank with him, thereby giving tacit consent to his drinking the Spiritis, but the Jury under the Law &amp; instructions of the Court were found to find said Bryant guilty of the charge in the indictment &amp; fined him fifty Dollar, <hi rend="str">the least amount fixed by the Statute</hi>, &amp; The Jury whose names are hereto signed together with other citizens who know the circumstances &amp; were present at the trial, would hereby most respectfully recommend Mr Bryant to the clemency of the Executive.
+<lb/>over<pb/></p>
+<p>David Dills Foreman
+<lb/>Wm Hutcheron
+<lb/>J B Hickman
+<lb/>J. H. Debruelan
+<lb/>F. Cummins
+<lb/>C. G. Land
+<lb/>R J Levi
+<lb/>R S Holmes
+<lb/>george dumis
+<lb/>Wm Hinkson
+<lb/>B. F. Dills
+<lb/>Wm G Courtney
+<lb/>Jury on this case
+<lb/>J. B. McClintock SHC
+<lb/>S A Rankin Step Father &amp; Guardian of the Boy that Bought the ^Whiskey^
+<lb/>T. J. Terry
+<lb/>T. W. Hedges
+<lb/>Alonzo Lyter
+<lb/>M. L. Broadwell P.J.H.C
+<lb/>David A Grooms
+<lb/>T. R. Rankin
+<lb/>Jno T. M<hi rend="sup">c</hi>Clintock Def Clk</p>
+<p>G. W. Berry Capt &amp; Pro Mar 6<hi rend="sup">th</hi> Destrect Ky</p>
+<p>Harrison Cir Ct
+<lb/>vs
+<lb/>Guy Bryant
+<lb/>Tipling
+<lb/>$50
+<lb/>Remitted
+<lb/><date when="1863-11-10">10<hi rend="sup">th</hi> Nov/ 63</date></p>
+  </body>
+ </text>
+</TEI>

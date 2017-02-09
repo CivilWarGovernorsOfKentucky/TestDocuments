@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0277"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Henry L. Driver to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG1942</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Appointments by the Governor, Civil Appointments, 1863-1867</collection>
+      <idno>BR2-156 to BR2-157</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date when="1864-08-24">24 August 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Quartermaster's Department,
+<lb/>OFFICE RIVER TRANSPORTATION,
+<lb/>Louisville, Ky, <date when="1864-08-24">August 24" 1864</date>.
+<lb/>To His excellency
+<lb/>Thomas E Bramlette.
+<lb/>Governor of the State of Kentucky.</p>
+<p>The undersigned would respectfully ask of your excellency an appointment of Notary Public. for and in the County of Jefferson and State of Kentucky in place of J H Metcalf who has removed from this County and department to which I am attached.</p>
+<p>Henry L Driver
+<lb/>Clerk for Capt Frank Ernst
+<lb/>Q. M. of River Transportation
+<lb/>Louisville Ky.<pb/></p>
+<p>Jefferson Co
+<lb/>Notary Public
+<lb/>Henry L. Driver
+<lb/>appt<hi rend="sup">d</hi>
+<lb/><date when="1864-08-26">26<hi rend="sup">th</hi> Aug/64</date></p>
+<p>Office River Tranportation
+<lb/><date when="1864-08-24">Augt 24<hi rend="sup">th</hi>/64</date>
+<lb/>To Governor Bramlette</p>
+<p>I would respectfully request the appointment of Henry L. Driver as Notary Public -- he being employed in my office the interest of the Goverment would be promoted by having a Notary in the Office to attend to taking affidavits for L. B. while under charter -- </p>
+<p>Vy Respectfully
+<lb/>Your obt Servant
+<lb/>Frank R. Ernst
+<lb/>Capt &amp; a. q. m
+<lb/>In charge River Transportation</p>
+  </body>
+ </text>
+</TEI>

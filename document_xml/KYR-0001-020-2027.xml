@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-2027"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">M. Lowry. Affidavit</title>
+    <title level="a" type="parallel">CWG9103</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG24-32</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Crittenden County, Kentucky</placeName>
+    <date when="1862-06-26">26 June 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Red Nichols being in custody charged with the offense of Robbery and being admited to bail in the sum of Five hundred dollars. now we Manering Lowery of Crittenden County Kentucky hereby undertake that the above named Red Nichols will appear in the Crittenden Circuit Court on the first day of its next <date when="1861-11">November</date> term to answer Said charges and will at all times render himself amenable to the orders and process of Said Court in the prosecution of Said Charges, and if convicted will render himself in execution thereof. or if he fail to perform either of these conditions that we will pay to the Commonwealth of Kentucky the sum of five hundred dollars</p>
+<p>Witness our hands this <date when="1862-06-26">26<hi rend="sup">th</hi> day of June 1862</date>
+<lb/>M Lowry</p>
+<p>Taken and subscribed before me as Sheriff of Crittenden County Ky this the <date when="1862-06-26">26<hi rend="sup">th</hi> day of June 1862</date></p>
+<p>J A Yandell S C, C
+<lb/>A Copy 
+<lb/>Attest J H Walker C C C C<pb/></p>
+<p>Crittenden Cir Court
+<lb/>vs
+<lb/>Red Nichols</p>
+<p><date when="1861-10-26">26<hi rend="sup">th</hi> Oct wrote to Ft Deaware -- </date></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0331"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">J. P. Sparks to James F. Robinson</title>
+    <title level="a" type="parallel">CWG8783</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Governor's Official Correspondence File, Petitions for Pardons, Remissions, and Respites, 1862-1863</collection>
+      <idno>R4-34</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Pleasureville, Henry County, Kentucky</placeName>
+    <date when="1863-04-14">14 April 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Pleasureville Ky. <date when="1863-04-14">April 14<hi rend="sup">th</hi> 1863</date>,
+<lb/>Govenor -- James F. Robinson
+<lb/>Frankfort Ky. Dear Sir</p>
+<p>You will find herewith Enclosed a petition signed by all of the Members of our Bar at New Castle Petitioning you to Remit the fine of $10= against all of Our justices in Henry County, Some of them had nothing to Report and did not attend on that account, And some of them said that they never -- were notified to attend I am certain that they intended no contempt for the Judge or the Law, Judge Nuttall very often did not hold his Courts And when he did hold them he frequently adjourned his Court on the first or Second day of the term, So it was a very uncertain Business and I do not think that our justices ought to be fined, for we have as good a set of Justices I am certain as any County in the State, And nearly all of them are true loyal men, I hope that you will Remit all that you can for them and send it to me for them,</p>
+<p>Your friend very Respectfully
+<lb/><hi rend="underline">J P, Sparks</hi></p>
+  </body>
+ </text>
+</TEI>

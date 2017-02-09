@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1061"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">S. A. Spencer to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10529</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG20-154</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Greensburg, Green County, Kentucky</placeName>
+    <date when="1861-05">May 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Greensburg Ky <date when="1861-05">May <gap/> 1861</date>
+<lb/>To His Excellency Governor Magoffin
+<lb/>Sir</p>
+<p>The Petition of William Wallace is herein respectfully inclosed to you. praying your Excellency to release him from the forfeiture of his bond as surety for the appearance of One Thomas Skaggs in the Green circuit Court at the <date when="1861-02">Feby Term 1861</date> to answer a misdemeanor the Bond forfeited is $350.00 <hi rend="sup">cts</hi> Under all the circumstances of the case, the Community here who know the facts concur in the opinion that this is a hard Case upon Wallace. no one, not even the prosecutor in the case, after the case had been Enquired into, believed that Skaggs was guilty, he was a poor friendless boy, no way connected with Wallace, and as a mere act of kindness and sympathy he went in this bond to release the Deft from imprisonment. and if Skaggs had really appeared in Court under his recognisance. it is supposed the prosecutor would have abandoned the case</p>
+<p>Wallace is a good citizen. a poor man with a family on his hands who need all his help and means. the payment of this sum altho not large will break him up. and under the heavy money pressure now it will sweep what little property he has to discharge this debt</p>
+<p>The Prosecutor himself will Join and concur in the Petition of Wallace. we Repsectfully ask release of said forfeiture. from your Excellency<pb/>
+<lb/>and we are satisfied it would be approved and most heartily concurred in by this community and for which we all would feel Grateful and thankful to your Excellency</p>
+<p>I have the honor to be
+<lb/>very respectfully
+<lb/>your obdt Servt
+<lb/>S. A Spencer</p>
+<p>M<hi rend="sup">r</hi> W<hi rend="sup">m</hi>. Thompson the Prosecutor of Skaggs has Signed &amp; Joined in the Petition here enclosed</p>
+<p>S A S</p>
+  </body>
+ </text>
+</TEI>

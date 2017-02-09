@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-153-0015"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Boyle to H. M. Buckley</title>
+    <title level="a" type="parallel">CWG14137</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>Assistant Adjutant General Letter Book - No. 1 ; 5 Sept 1863 - 2 Feb 1864</collection>
+      <idno>78</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1863-09-30">30 September 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><note place="header">78</note>
+<lb/><date when="1863-09-30">Sept. 30<hi rend="sup">th</hi> <gap/>3</date>
+<lb/>Col. H. M. Buckley,
+<lb/>Com'd'g 50<hi rend="underline"><hi rend="sup">th</hi></hi> Ky. Mounted Inf.
+<lb/>Eminence -- Ky.
+<lb/>Colonel,</p>
+<p>You are hereby directed to remove your men and camp equipage -- belonging to 50<hi rend="underline"><hi rend="sup">th</hi></hi> Kentucky Mounted Infantry -- immediately upon receipt of this order, from Eminence to Camp Nelson. Upon your arrival, you will report by mail to this Department, the fact of your removal -- &amp;c.</p>
+<p>By order of the Governor,
+<lb/><hi rend="underline">John Boyle</hi>
+<lb/>Adjt. Gen. Ky. Vols.</p>
+  </body>
+ </text>
+</TEI>

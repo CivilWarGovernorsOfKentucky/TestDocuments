@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-161-0005"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Daniel W. Lindsey to W. L. Botts</title>
+    <title level="a" type="parallel">CWG13918</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>Adjutant General Letter Book - No. 10 ; 10 Feb - 16 March 1865</collection>
+      <idno>8 to 10</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1865-02-11">11 February 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><note place="header">8</note>
+<lb/><date when="1865-02-11">Feby 11<hi rend="underline"><hi rend="sup">th</hi></hi> <gap/>5</date>
+<lb/>Hon. W. L. Botts
+<lb/>Chairman Com<hi rend="sup">n</hi> on Finance
+<lb/>Kentucky Senate.
+<lb/>Sir</p>
+<p>In obedience to a resolution of the Senate transmitted to me by you, as Chairman of the Finance Committee, I have the honor to submit the following statement, viz</p>
+<p>I. My salary is two hundred dollars per month paid by authority of an act of the General Assembly of Ky, Entitled, "An act to fix the salaries of the Adjutant and Quarter Master Generals". Approved <date when="1863-01-18">January the 8<hi rend="underline"><hi rend="sup">th</hi></hi> 1863</date>.</p>
+<p>II. There are at present employed by me, six clerks with salaries per month as follows, viz
+<lb/><table rend="rules">
+<row>
+	<cell>John B. Tilford Jr</cell>
+	<cell>Act Asst Adj Gen<hi rend="sup">l</hi>.</cell>
+	<cell>$125.00</cell>
+</row>
+<row>
+	<cell>Charles Hayden</cell>
+	<cell/>
+	<cell>120.00</cell>
+</row>
+<row>
+	<cell>W<hi rend="underline"><hi rend="sup">m</hi></hi> E. Cox</cell>
+	<cell/>
+	<cell>91.66</cell>
+</row>
+<row>
+	<cell>Cha<hi rend="underline"><hi rend="sup">s</hi></hi> J. Clarke</cell>
+	<cell/>
+	<cell>83.33</cell>
+</row>
+<row>
+	<cell>Tho N. Lindsey Jr</cell>
+	<cell/>
+	<cell>66.66</cell>
+</row>
+</table><pb/>
+<lb/><note place="header">9</note>
+<lb/><table rend="rules">
+<row>
+	<cell>W<hi rend="underline"><hi rend="sup">m</hi></hi> Stewart</cell>
+	<cell/>
+	<cell>$83.33.</cell>
+</row>
+</table></p>
+<p>The above list includes all the clerks Employed in the Adjutant and Inspector Generals offices. They enter upon their duties at 8 oclock A. M each day, and are required to remain until 10 oclock P. M, and later if the pressure of business demands their attendance:</p>
+<p>III. The building which I occupy as an office in conjunction with the Quarter Master General is rented at $500 -- per annum. The expenses incurred for fuel, stationary, servant hire &amp;c, will amount on an average to $150 -- per month, which is paid by certificate to the Auditor of Public Accounts, as per authority of an act of the General Assembly, Entitled, "an Act to define further the duties of Quarter Master General" approved <date when="1864-02-19">February 19<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date>.</p>
+<p>IV. In addition to the Expenses above Enumerated, at times when regiments are awaiting muster out, and require copies of their original muster in rolls, I employ additional clerks for the time being, in order to facilitate their muster out. This expense however, does not occur often, and the amount thus expended will not exceed<pb/>
+<lb/><note place="header">10</note>
+<lb/>on an average $25 -- per month.</p>
+<p>The clerks Employed in this Department, are all experienced in their business, and from the fact that their whole time is required, frequently working all night, justifies the payment of good salaries. The salaries of all clerks are paid out of the Military Fund, and no clerk is Employed or salaries paid Except on approval of the Governor. Duplicate accounts are regularly made and forwarded to the War Departments, and it is Expected the General Government will reimburse for all Expenses, as on its action, the necessity for placing our State Military Departments on a War footing, has occurred. This expectation is based upon a knowledge of the facts, that similar expenses are reimbursed our neighboring states by the War Department.</p>
+<p>Very Respectfully
+<lb/>D, W, Lindsey
+<lb/>Inspt &amp; Adj Gen<hi rend="sup">l</hi> of Ky</p>
+  </body>
+ </text>
+</TEI>

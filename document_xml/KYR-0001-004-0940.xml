@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0940"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Charles A. Dana to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG5059</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR10-445 to BR10-446</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Washington, District of Columbia</placeName>
+    <date when="1864-08-20">20 August 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>War Department
+<lb/>Washington City,
+<lb/><date when="1864-08-24">August 20<hi rend="sup">th</hi> 186<hi rend="str">2</hi>4</date>
+<lb/>Sir:</p>
+<p>I have the honor to inclose copies of papers on file in this Department, in the case of Lieutenant William Buffum now in prison in Kentucky under a conviction of robbery. I am directed by the Secretary of War to invite your Excellency's particular attention to the remarks of the Judge Advocate General, which are included among these papers, and to request that you will direct the pardon and release of M<hi rend="sup">r</hi> Buffum if upon examination of the case, you are convinced that his previous character and services entitle him to such clemency</p>
+<p>I am, Sir, with great respect,
+<lb/>Your Obedient Servant
+<lb/>C. A. Dana.
+<lb/>Assist Secretary of War</p>
+<p>His Excellency Tho<hi rend="sup">s</hi> E. Bramlette
+<lb/>Governor of Kentucky</p>
+  </body>
+ </text>
+</TEI>

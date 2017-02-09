@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2697"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Charles Hillock et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7334</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR16-337</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Carlisle, Nicholas County, Kentucky</placeName>
+    <date when="1865-11-27">27 November 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Carlisle Ky, <date when="1865-11-27">Nov. 27<hi rend="sup">th</hi> 1865</date>
+<lb/>To His Excellency Gov. Bramlett
+<lb/>Frankfort Ky
+<lb/>Dr Sir</p>
+<p>We the undersigned Citizens of Nicholas County would respectfully represent to your Excellency that John H Sims a Citizen of this County was fined at the last September Term of our Circuit Court Twenty nine dollars &amp; costs of the prosecution for unlawful gaming and we would further represent that the said Sims is a very poor man -- unable to pay the fine &amp; <hi rend="underline">heavily</hi> <hi rend="underline">burdend</hi> with a family We feel satisfied that he will not thus violate the Law again as he is now conducting himself in a very <hi rend="underline">exemplary</hi> manner &amp; demeaning himself as a good Citizen generally In view of all the circumstances of his Case with which we are intimately acquainted we venture to recommend him as a fit subject of Executive clemency &amp; petition your Excellency to remit so much of his fine as the Law permits you to do</p>
+<p>Respectfully yours
+<lb/><milestone unit="column" n="2"/><cb n="1"/>Chas Hillock Dep Sheriff
+<lb/>Henly Maddox
+<lb/>Samuel T James
+<lb/>Solomon Rogers
+<lb/><unclear>Uriah</unclear> Morris
+<lb/>W. H. Phillips
+<lb/>G J Kennedy
+<lb/><cb n="2"/>Thomas Kennedy
+<lb/>Gran C Smith
+<lb/>H. W Conway
+<lb/>J R Pascal
+<lb/>John M Chevis C, N, C, C
+<lb/>A W Blair <unclear/>, N, C</p>
+  </body>
+ </text>
+</TEI>

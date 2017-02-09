@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-031-0105"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Webster County Court, Order</title>
+    <title level="a" type="parallel">CWG7845</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Appointments by the Governor, Civil Appointments, 1862-1863</collection>
+      <idno>R1-152</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Webster County, Kentucky</placeName>
+    <date when="1862-12-15">15 December 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Order</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Commonwealth of Kentucky
+<lb/>Webster County } SC</p>
+<p>Whereas a vacancy exists in the office of presiding Judge of the County Court of Webster &amp; whereas in the absence of of the County Court Clerk the law requires the Circuit Court Clerk to issue a writ of election Therefore I H H Smith circuit court clerk of the county of Webster issue this my writ of election to the Sheriff of Webster County who is hereby commanded to open a poll in each of the voting precincts in said county on saturday the <date when="1862-11-27">27<hi rend="sup">th</hi> Inst</date> for the purpose of electing a presiding Judge of the county court for the county aforesaid</p>
+<p>Witness my hand this <date when="1862-12-15">15<hi rend="sup">th</hi> day of December 1862</date>
+<lb/>Copy attest H H Smith C W C C<pb/></p>
+<p>William Harron to fill vacancy of Justice of Peace in 2<hi rend="sup">d</hi> district Webster County</p>
+<p>J F Robinson</p>
+<p>Webster Co<figure type="hr"/>
+<lb/>Pr. Judge &amp; J. P.
+<lb/>Com Iss<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1863-01-03">Jany 3 1863</date></p>
+<p>Copy writ of election</p>
+  </body>
+ </text>
+</TEI>

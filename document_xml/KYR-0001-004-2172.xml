@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2172"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Lincoln Circuit Court, Warrant</title>
+    <title level="a" type="parallel">CWG6809</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR14-408</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Lincoln County, Kentucky</placeName>
+    <date when="1865-06-09">9 June 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>The Commonwealth of Ky</p>
+<p>To the Sheriff of Mrcer County greeting
+<lb/>we Command you To Take H W Hironomous and <hi rend="str">&amp;</hi> P B Thompson if he be found within your Bailiwick and him Safely keep so that you have his Body before the Judge of the Lincoln Circuit Court at the Rules to be held in the Clerks office of Said Court in the Town of Stanford on the fourth Mondy in <date when="1865-08">august next</date> To Satisfy the Commonwealth of Kentucky the Sum of $500<hi rend="underline"><hi rend="sup">00</hi></hi> for a fine imposed on him at the <gap/> Term on Replevin Bond</p>
+<p>allso the Sum of $2<hi rend="underline"><hi rend="sup">10</hi></hi> which was adjudged To the said Commonwealth aforsaid for her cart in that Behalf eppended and have then there this writ</p>
+<p>witness -- S. S. M<hi rend="sup">c</hi>Roberts
+<lb/>Clerk of our said court this <date when="1865-06-09">9<hi rend="sup">th</hi> June 1865</date></p>
+<p>the <gap/> the above is a True Copy of Recogs in my hands vs H W Hironomous
+<lb/><date when="1865-08-14">aug 14th 1865</date></p>
+<p>T J Vanarsdell
+<lb/><unclear/><pb/></p>
+<p>Lincoln Cir Ct
+<lb/>vs
+<lb/>H. W. Hieronymous
+<lb/>forfeiture
+<lb/>Replevin by P. B Thompson
+<lb/>$500
+<lb/>Remitted <date when="1865-08-22">22<hi rend="sup">d</hi> Aug /65</date></p>
+  </body>
+ </text>
+</TEI>

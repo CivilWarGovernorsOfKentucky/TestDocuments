@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1974"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Shuck to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG11442</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Bradley Strait</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG23-431</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Lebanon, Marion County, Kentucky</placeName>
+    <date when="1862-06-30">30 June 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Lebanon <date when="1862-06-30">June 30<hi rend="underline"><hi rend="sup">th</hi></hi> 1862</date>
+<lb/>Hon. Beriah Magoffin 
+<lb/>Gov &amp;c</p>
+<p>This goes with Charley Rollers Petition -- He Raller has the reputation of being a quiet harmless man -- </p>
+<p>The Baxters who fell out with him &amp; carried guns for him had at the time no small am<hi rend="underline"><hi rend="sup">t</hi></hi> of character as desperadoes &amp; I have no hesitation in saying that I believe Raller had no motive in carrying the Pistol but that of self defence</p>
+<p>If not inconsistent with your duties I hope you will give to Mr Raller <hi rend="underline">these</hi> <hi rend="underline">hard</hi> <hi rend="underline">times</hi> all the relief in your power</p>
+<p>Very truly yours 
+<lb/>John Shuck</p>
+  </body>
+ </text>
+</TEI>

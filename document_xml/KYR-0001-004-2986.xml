@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2986"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">J. W. Kendall to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7623</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR43-81</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>His Excellency
+<lb/>The Govenor</p>
+<p>I was present at the trial in the enquiring Court &amp; also at the time of the forfeiture of the Bond against the Sureties of Higanbothan and Know that the Statements of the petition are true and further Know that there is no way of getting depositions from that part of V<hi rend="underline">a</hi> as the law would not permit them to be transmited by hand it is impossible to get thim &amp; as the courts are powerless to compell the attendence of the witnesses in person <hi rend="str">u</hi> I cannot See how it is possible to present a Judgement upon the forfeiture without the interposition of your Excellency &amp; do not think that under the circumstances that the Sureties Should be made responsible for the <hi rend="underline">thirty</hi> <hi rend="underline">percent</hi> or any other part of Said Bond and therefore Join in the prayer of the petitioners</p>
+<p>J W Kendall</p>
+<p>NB
+<lb/>I know that the dificulties mentioned in the petitions in this case in regard to the procurement of evidence from <hi rend="underline">Va</hi> does exist &amp; think the Sureties in the bond Should be relieved</p>
+<p>E. Patrick<pb/></p>
+<p>E Patrick</p>
+  </body>
+ </text>
+</TEI>

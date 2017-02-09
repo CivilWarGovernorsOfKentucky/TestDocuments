@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-023-0056"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Beriah Magoffin to Thomas L. Crittenden</title>
+    <title level="a" type="parallel">CWG2969</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, 1859-1862</collection>
+      <idno>MG1-246</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1861-04-29">29 April 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Commonwealth of Kentucky,
+<lb/>EXECUTIVE DEPARTMENT,
+<lb/>Frankfort, <date when="1861-04-29">Apr 29, 1861</date>.
+<lb/>Col. T. L Crittenden</p>
+<p>As my representative in the conference to be held at the Spencer House in Cincinnati Ohio at 4 o'clock P. M., I wish you to propose and urge that the three States or the border States if all agree, offer their mediation to the government at Washington to settle the difficulties exisiting between the two Sections of the Country -- I suggest that you propose an armistice or truce (that hostilities be suspended) until Congress assembles -- The passions of the people may cool in the meantime and through the actions of Legislatures and the counsel and efforts of distinguished gentlemen from different sections of the country, meeting with the wisdom of Congress, this horrid war may be stopped and our difficulties adjusted in a manner honorable to all parties -- </p>
+<p>Respectfully Yr. friend &amp; Obt. Servt
+<lb/>B. Magoffin</p>
+  </body>
+ </text>
+</TEI>

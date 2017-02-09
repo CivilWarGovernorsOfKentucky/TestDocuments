@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-2151"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">William Q. Davis et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG9227</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG24-243</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency
+<lb/>Beriah Magoffin
+<lb/>Governor of Kentucky</p>
+<p>The undersigned would respectfully represent that on the <gap/> day of <gap/> <date when="1859">1859</date> Jno Parker was arrested under a charge of grand Larceny, was lodged in the Madison County Jail, and after having been confined therein two or three months through sympathy for him his atty E. J Broaddus became his bail in the sum of fifty dollars Mr Parker was very poor, had a wife and several children dependant on him for sustenance They had no friends to whom they could look for any aid; and under these circumstances M<hi rend="sup">r</hi> -- Broaddus more in kindness to his -- family than to him became his surety</p>
+<p>M<hi rend="sup">r</hi> Parker made his appearance at the two terms succeeding his arrest but has failed to appear at this, our March Term of Court, and the Bond has been declared forfeited under all the circumstances we the undersigned think this is a case which deserves the exercise of Executive Clemency, and respectfully ask your Excellency to release M<hi rend="sup">r</hi><pb/>
+<lb/>Broaddus from the liability thus incurred.</p>
+<p>W<hi rend="sup">m</hi> Q Davis
+<lb/>G E Billingsley
+<lb/><hi rend="underline">Ed. W. Turner</hi>
+<lb/>G. W. Taylor
+<lb/>W H <hi rend="underline">Carpenter</hi>
+<lb/>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> F. Stone
+<lb/>John C Luvell
+<lb/>Center Field Jr
+<lb/>D. Buck</p>
+<p>Madison Co<figure type="hr"/>
+<lb/>Rejected
+<lb/>Tho P Porter
+<lb/><hi rend="underline">Jno Parker</hi></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0429"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Meade County Court, Order</title>
+    <title level="a" type="parallel">CWG2777</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Civil Appointments, 1859-1862</collection>
+      <idno>MG4-422</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Meade County, Kentucky</placeName>
+    <date when="1861-12-06">6 December 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>State of Kentucky
+<lb/>Meade County Court
+<lb/><date when="1861-12-06">6<hi rend="underline"><hi rend="sup">th</hi></hi> December 1861</date></p>
+<p>"The resignation of John H Trent a Justice of the Peace of this County residing in District No 7. at the Mouth of Wolf Creek was on this day produced into Court and ordered to be entered of record. reading as follows Towit,</p>
+<p>"Wolf Creek <date when="1861-12-02">Decr 2<hi rend="sup">nd</hi> 1861</date></p>
+<p>Mr W<hi rend="underline"><hi rend="sup">m</hi></hi> Alexander Judge of the Meade County Court</p>
+<p>Dear Sir,</p>
+<p>I have resigned my Commission as Justice of the Peace of this District, and we know one here and think Mr B F Cook will make as good one as we can get. Yours with respect</p>
+<p>J. H. Trent.</p>
+<p>It is therefore considered by the Court that the Office of Justice of the Peace heretofore filled by said Trent in said District has become vacant by reason of said resignation and that the vacancy remains to be filled by his Excellency the Governor of Kentucky temporarily, until the next ensuing August Election as provided by law, which is certified for that purpose and B F Cook is recommended as a fit person to fill said vacancy."</p>
+<p>A Copy Att.
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Fairleigh Clk
+<lb/><hi rend="underline">Meade County Court</hi><pb/></p>
+<p>B. F. Cooks
+<lb/>Recommendation as Justice of The Peace for Meade County,<figure type="hr"/>
+<lb/>District N<hi rend="sup">o</hi>. 7.<figure type="hr"/></p>
+<p>Issue Commission
+<lb/>B. M</p>
+<p>Iss<hi rend="sup">d</hi> <date when="1862-04-24">Apr 24. 1862</date></p>
+  </body>
+ </text>
+</TEI>

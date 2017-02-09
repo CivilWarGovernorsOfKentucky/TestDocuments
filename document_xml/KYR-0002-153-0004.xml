@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-153-0004"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Boyle to James R. Duncan</title>
+    <title level="a" type="parallel">CWG14126</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>Assistant Adjutant General Letter Book - No. 1 ; 5 Sept 1863 - 2 Feb 1864</collection>
+      <idno>13</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1863-09-11">11 September 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><note place="header">13</note>
+<lb/><date when="1863-09-11">Sept 11<hi rend="sup">th</hi> <gap/>3</date>
+<lb/>D<hi rend="underline"><hi rend="sup">r</hi></hi> James R. Duncan,
+<lb/>Fountain Run -- 
+<lb/>Monroe Co. Ky.
+<lb/>Sir,</p>
+<p>You are hereby authorized to recruit one company, at least, and if possible two -- in each of the following counties -- viz: Barren -- Allen -- Simpson and Monroe -- to be organized according to the provisions of the State Guard Law, and its amendments, and to be used for self-protection whenever necessity requires. You will select some influential citizen or citizens in each of the above named counties, for the purpose of raising these companies -- informing this Department at once of those selections.</p>
+<p>The companies will be as nearly as possible, filled up to the maximum of one hundred men. As soon as filled they will be properly reported to this office, when they will be equipped, and such immediate orders and dispositions made as the public safety demands.</p>
+<p>By order of the Governor,
+<lb/><hi rend="underline">John Boyle</hi>
+<lb/>Adjt. Gen. Ky. Vols.</p>
+  </body>
+ </text>
+</TEI>

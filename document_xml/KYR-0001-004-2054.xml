@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2054"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">J. W. McIntosh and F. M. McIntosh to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6691</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR14-238 to BR14-239</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Trigg County, Kentucky</placeName>
+    <date when="1865-07-25">25 July 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency
+<lb/>Thomas E Bramlette
+<lb/>Governer of the Commonweth of Kentucky Sir A petishion that I sent to you asking your favor I understand that the Rebble party have Goten up A petishion against Sir I can say to you that thar is not one union man that has assind his paper this is anuf to prove that tha one prosicuting me thru Rebble predjudice also I can say that thar is no union man hier that have dun more to Suprress Gurillers than I hav this the Cause of thar predjudice against me Gov Bramlette I am a pore man and hard Run<pb/>
+<lb/>and ned my money to suport my famley on Consquenly I humbley Beg that the Sentents past on me By that party may B Remited I am purfectly willing to abide By the laws of my Country But this is positiveley Rongfulley Goten up against me By that party</p>
+<p>this <date when="1865-07-25">July the 25th 1865</date>
+<lb/>Trigg County Ky
+<lb/>Your with Respect
+<lb/>J. W. M<hi rend="sup">c</hi>Intosh
+<lb/>F. M. M<hi rend="sup">c</hi>Intosh</p>
+  </body>
+ </text>
+</TEI>

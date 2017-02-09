@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-2043"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">H. C. Miller, Affidavit</title>
+    <title level="a" type="parallel">CWG9119</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG24-55 to MG24-56</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1862-07-11">11 July 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>H. C. Miller states on oath that at the fall time <date when="1861">1861</date> of the Nelson Circuit Court the time the recognisance was forfeited he started to Bardstown to court to appear in discharge of his recognizance, was taken sick on the road and was unable to get to Bardstown. That at the following spring term of said court he was sick in bed and unable by reason of said sickness to get to Bardstown to court. No summons had been served upon him, and he was not aware until some time afterwards that a writ had been served on his secruity Thomas Craycraft. He states that he would have attended said court if his health had permitted. That his health was very bad during the time of three terms of court and is still bad affiant being now confined to his bed</p>
+<p>H C Miller</p>
+<p>Sworn to before me by H. C. Miller this <date when="1862-07-11">11<hi rend="sup">th</hi> day July 1862 -- </date></p>
+<p>W. H. Chiser J. P. W C</p>
+<p><unclear>Cloay</unclear> Lefler states on oath that she is the Mother in-law of the above named H. C Miller that she knows of his being sick at the times above stated, she was with him during part of the time, and she knows the statements in his affidavit are correct</p>
+<p>Cloay ^her X mark^ Lefler</p>
+<p>Sworn to before me by Cloay Lefler this <date when="1862-07-11">11<hi rend="sup">th</hi> July 1862.</date></p>
+<p>W. W. Cheser J. P. W. C.</p>
+  </body>
+ </text>
+</TEI>

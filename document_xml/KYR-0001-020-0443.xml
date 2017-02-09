@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0443"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">James W. Cunningham et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG9911</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG18-190 to MG18-191</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Athens, Fayette County, Kentucky</placeName>
+    <date when="1860-12-04">4 December 1860</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excelency
+<lb/>Beriah Magoffin</p>
+<p>Whereas George W Donley Stands Adjudged before the Magistrates Court of Athens Fayette County) (S. S Grimes Presiding Justice) for the Sum of fiteen dollars and Cost being the amount of a fine imposed against Said Donelly in <date when="1860-10">October last</date> before the said Court for a Breach of the Peace as above, and we the undersigned Petitioners to your Excelency having known the Said Donley for the last ten years and have never known him to be arrainged for any offense against the Commonwealth, we your Petitioners thefore under the above Concideration pray that you Exercise your remiting Power in his Case</p>
+<p><date when="1860-12-04">December 4<hi rend="underline"><hi rend="sup">th</hi></hi> 1860</date><figure type="hr"/></p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Names
+<lb/>James. W. Cunningham C. F. C ^Plaintiff^
+<lb/>William Hayes Jr
+<lb/>F M Awbrey
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Faulroner
+<lb/>George W Ryan
+<lb/>J, D, Maupin
+<lb/>John Harvey
+<lb/>H, C Awbrey
+<lb/>Geo W Layng
+<lb/>F G Anthony
+<lb/>Sam<hi rend="underline"><hi rend="sup">l</hi></hi> Crowder
+<lb/><cb n="2"/>Names
+<lb/>John Varble
+<lb/>A. J, Hulett
+<lb/>willim L Bery
+<lb/>C. C. Stivers
+<lb/>Wm. F, Speer
+<lb/>Sidney Christian -- Juror
+<lb/>Ed Stivers
+<lb/>John W Poindexter
+<lb/>J P Bowling
+<lb/>Shelby Morton
+<lb/>J W M<hi rend="sup">c</hi>Mahan<pb/>
+<lb/><milestone unit="column" n="1"/>N. B. Johnson
+<lb/>A, B, Patrick
+<lb/>Ja<hi rend="underline"><hi rend="sup">s</hi></hi> W. Hudson
+<lb/>F J Dickerson
+<lb/>J J Hanks
+<lb/><hi rend="str">G B Schultz</hi>
+<lb/>G B <unclear/>
+<lb/><hi rend="underline">T. G. Hacker</hi>
+<lb/>S S Stivers
+<lb/>W. S. Neale.
+<lb/>Tho. H. Barnes
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Stone
+<lb/>Will Jennings
+<lb/>R, H, Johnson
+<lb/>Thomas Rowland
+<lb/>S. V. Rowland
+<lb/>S Wherritt
+<lb/>J. E. Rogers<pb/></p>
+<p>Remited
+<lb/>B. M.
+<lb/>Is<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1861-01-10">Jay 10 1861</date></p>
+  </body>
+ </text>
+</TEI>

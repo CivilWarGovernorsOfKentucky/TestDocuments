@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0442"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Theo. H. Daviess to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG9910</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG18-188 to MG18-189</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Harrodsburg, Mercer County, Kentucky</placeName>
+    <date when="1860-11-10">10 November 1860</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency
+<lb/>The Governor of Kentucky.</p>
+<p>Theo H Daviess respectfully states that on the <gap/> day of <date when="1860-10">Oct 1860</date> he was by the Judgment of the Police Court of Harrodsburg fined twenty five dollars, and on the <gap/> day of <date when="1860-10">Oct 1860</date> by the Judgment of the Presiding Judge of the Mercer county Court he was fined the further sum of thirty dollars -- Both cases arose from the same difficulty -- In both he was fined for an assault upon one W. S. Read -- He was led to make the assault for what he considered and believed at the time to be outrageous and improper treatment of his infant son six &amp; a half years old -- He asked upon statements made to him by his children, which statements were corroborated by the children of my friends and neighbors -- Both assaults took place the same day. and in neither instance was any bodily injury inflicted -- Upon the trial of both cases evidence of the manner in which his said infant son had been mistreated by Read and of the circumstances which led to the difficulties was excluded from the Jury by the Presiding Judges; and<pb/>
+<lb/>although such evidence might not have presented a justification in law, a state of case would have been made out on my behalf which, under all the circumstances, would have authorized the jury in finding a nominal verdict -- </p>
+<p>I may have acted too hastily; but believe that I acted as every father attached to his children would have done under the aggravation which I believed existed -- With no disire to violate the laws I felt it to be my duty to vindicate the rights of my childr<hi rend="str">en</hi> and prevent a repetition of the outrage -- </p>
+<p>I respectfully ask your excellency to remit the state's portion of both of said fines -- </p>
+<p>Theo H Daviess</p>
+<p>subscribed and sworn to before me by Theordore H Daviess This <date when="1860-11-10">10<hi rend="sup">th</hi> November 1860</date></p>
+<p>James Harlan Jr
+<lb/>Judge Police Court of Harrodsburg<pb/></p>
+<p>The undersigned citizens of Mercer County respectfully unite in the prayer of the foregoing petition for a remission of the fines against Theo H Daviess -- </p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Chr Chinn
+<lb/><hi rend="underline">Ben C. Allen</hi>
+<lb/><hi rend="underline">Tho Allen</hi>
+<lb/><hi rend="underline">J W Cardwell</hi>
+<lb/><hi rend="underline">J. B, Bowman</hi>
+<lb/>Jas, E Thompson
+<lb/>J A Thompson
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> L. Vance
+<lb/>T. W. Foster
+<lb/>Tho<hi rend="sup">s</hi> C. <hi rend="underline">Coleman</hi>
+<lb/>J <hi rend="underline">A</hi> <hi rend="underline">Foster</hi>
+<lb/>W, A, Bronaugh
+<lb/>Ja<hi rend="underline"><hi rend="sup">s</hi></hi> D. Smith
+<lb/>J. Newton Prather
+<lb/>R. P. M<hi rend="sup">c</hi>Grath
+<lb/>C M Tucker
+<lb/><cb n="2"/>Nimrod Harris
+<lb/>C. C. Smedly
+<lb/>S, S, M<hi rend="sup">c</hi>Fatridge
+<lb/>James D. Hardin
+<lb/>W W Handy
+<lb/>H M<hi rend="sup">c</hi>Fatridge<pb/></p>
+<p><milestone unit="column" n="1"/>Harrodsburg Po ct
+<lb/>$25
+<lb/>Tho. H Daviess
+<lb/>Respite 12 mo
+<lb/>B. M
+<lb/>Iss<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1861-01-15">Jany 15. 1861</date></p>
+  </body>
+ </text>
+</TEI>

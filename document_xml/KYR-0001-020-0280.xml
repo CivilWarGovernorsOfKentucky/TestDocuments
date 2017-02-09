@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0280"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Joseph Hallenkamp et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG9748</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG17-265</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Lexington, Fayette County, Kentucky</placeName>
+    <date when="1860-12">December 1860</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency
+<lb/>Hon Beriah Magoffin
+<lb/>Gov: of Kentucky:</p>
+<p>Your Petitioner Marion V. Daniels, would respectfully represent that on the <gap/> day of <date when="1860-09">September 1860</date> he was indicted in the Lexington City Court for the offence of stabing in sudden heat and passion and that afterwards at the <hi rend="str">September</hi> <date when="1860-10">^October^ term</date> of said court he was tried upon said indictment and judgment was rendered against him for confinement in the county jail for Six months and a fine of $50 --. The facts of the case are substantially as follows: The Deft. Marion V, Daniels committed the act charged with a small pen Knife and at the time had no other weapon upon his person; that the physicians in attendance testifed upon the trial that the wounds inflicted were trivial in their nature and of so little consequence that they did not deem it necessary to pay any attention to them whatever, that he has been confined in the county jail ever sicne he trial (about one month).</p>
+<p>In consideration of these facts your Petitioner would respectfully ask a pardon for the confinement inflicted and a respite of <hi rend="str">a</hi> the remainder of said judgment until he may be able to make some arrangement for its satisfaction. Your
+<lb/><note place="left margin">Remitted as to confinement in jail &amp; respite for 6 mo<hi rend="underline"><hi rend="sup">s</hi></hi>
+<lb/>B. M.</note><pb/>
+<lb/>Petitioner is a poor laboring man and is not at present able to pay the same, but will be able so to do within a short time. An intervention of Executive clemency would be a great relief to your Petitioner and he will ever pray &amp;c</p>
+<p>Sworn to before me by M. V. Daniels this <gap/> day of <date when="1860-12">December 1860</date>.</p>
+<p>We the undersigned would recommend the above case to Executive intervention.</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Joseph Hallenkamp Juror
+<lb/>P F Magnin do
+<lb/>W M Taylor do
+<lb/><hi rend="underline">Augt</hi> <hi rend="underline">Clark</hi> Do
+<lb/>R. Long do
+<lb/>Greenvill Story do.
+<lb/>F. A Harrison "
+<lb/>G M Dozier "
+<lb/>J. B. Henesey
+<lb/>Geo A Shely
+<lb/>F. T. Erd
+<lb/>W Farley
+<lb/>J. S Bentley
+<lb/><hi rend="underline">C Saylor Goshow</hi>
+<lb/>Cha<hi rend="underline"><hi rend="sup">s</hi></hi> J. Hutchinson
+<lb/>Lee B Talbott
+<lb/><cb n="2"/>Wickliffe Cooper
+<lb/>Frank Waters,
+<lb/>S. C Graves
+<lb/>Speed. S. Goodloe
+<lb/>Edw S Duncanson <unclear/>
+<lb/><hi rend="str">Benjam</hi>
+<lb/><hi rend="underline">James B Clay</hi>
+<lb/>B F, Graves
+<lb/>W F White
+<lb/>Washington Bolton
+<lb/>J,, G,, Hall
+<lb/><hi rend="underline">Francis Croghan</hi>
+<lb/>Thos Eades
+<lb/>James M White
+<lb/><hi rend="underline">G. L. Postelthwaite</hi>
+<lb/>W. P. Cook
+<lb/>W T Owen
+<lb/>James Coldmyer
+<lb/>John Evans</p>
+  </body>
+ </text>
+</TEI>

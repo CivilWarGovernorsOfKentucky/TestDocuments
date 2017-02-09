@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-3406"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">J. H. Richard et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG5525</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR42-284</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Bath County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency Gov Tho<hi rend="sup">s</hi>. E. Bramblett</p>
+<p>The Undersigned Citizens of Bath County would respectfully represent that C. W. Honaker was at the <date when="1863-12">December Term 1863</date> of the Bath Circuit Court fined for silling spiritious liquors to a minor one Geo. Trumbo. That said Trumbo although under age would be taken for over 21. That the offence was committed about the time the act against such offenses took effect and ^at^ that time said Honaker did not know such an act had been passed. We are confident he did not intend to violate the law and that the fine ought to be remitted-</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>T. <unclear/> Donagan
+<lb/>V. B. Young <unclear/>
+<lb/>R. L. Tipton
+<lb/>G<hi rend="underline"><hi rend="sup">eo</hi></hi> Abraham
+<lb/>Col. Eli W. Fleming
+<lb/>W<hi rend="sup">m </hi>W. Cartmill
+<lb/>C P Browning
+<lb/>John J Swetnam Lt. B. R.
+<lb/>James, F, Denton Lieut B. R.
+<lb/><cb n="2"/>J. H. Richard
+<lb/>S A J Lea
+<lb/>B.. Hunt
+<lb/>R Coulthard
+<lb/>J. J. Lightfoot
+<lb/>E. V. Brother
+<lb/>W<hi rend="sup">m</hi> Richard
+<lb/>Thos. P. Daugherty
+<lb/>John Miller
+<lb/>Samuel M<hi rend="sup">c</hi>Quithy
+<lb/>J. C. Bussey Capt Bath Ranger
+<lb/>S C Bascom
+<lb/>John T. Kimbrough
+<lb/>G L Coyle
+<lb/>W Taylor
+<lb/>J. S. Dury<milestone unit="column" n="1"/><pb/></p>
+<p>Bath County
+<lb/>Remit except costs &amp; fees
+<lb/>Tho E Bramlette</p>
+  </body>
+ </text>
+</TEI>

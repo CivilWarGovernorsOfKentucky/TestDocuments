@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-031-0256"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Adrian Van Sinderen to Daniel C. Wickliffe</title>
+    <title level="a" type="parallel">CWG7996</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Appointments by the Governor, Civil Appointments, 1862-1863</collection>
+      <idno>R1-352 to R1-353</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>New York City, New York County, New York</placeName>
+    <date when="1861-05-28">28 May 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>ADRIAN VAN SINDEREN,
+<lb/>Attorney and Counsellor,
+<lb/>69 Wall Street.
+<lb/>New York, <date when="1863-05-28">28<hi rend="underline"><hi rend="sup">th</hi></hi> May 1863.</date>
+<lb/>Sir -- </p>
+<p>I was appointed a Commissioner for the State of Kentucky <date when="1857-06-26">June 26. 1857,</date> and my commission therefore expired in <date when="1861">1861.</date> I have hitherto neglected to apply for a renewal; but I desire now to say that I should consider a re-appointment as a great favor; and I hope, that, if there is no obstacle in the way, the Governor may accede to my wishes in this regard.</p>
+<p>Yours Respy.
+<lb/><hi rend="underline">Adrian Van Sinderen</hi></p>
+<p>To Hon.
+<lb/>D. C. Wickliffe
+<lb/>Secy. of State.
+<lb/>Frankfort
+<lb/>Ky.<pb/></p>
+<p>New York<figure type="hr"/>
+<lb/>Com<hi rend="underline"><hi rend="sup">r</hi></hi> of Deeds
+<lb/>A. Van Sinderen
+<lb/>(City)
+<lb/>App<hi rend="sup">d</hi> <date when="1863-06-04">June 4. 1863</date></p>
+  </body>
+ </text>
+</TEI>

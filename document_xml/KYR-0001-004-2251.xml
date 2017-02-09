@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2251"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Nicholas Losson, Affidavit</title>
+    <title level="a" type="parallel">CWG6888</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR15-81</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>New Albany, Floyd County, Indiana</placeName>
+    <date when="1865-07-22">22 July 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>State of Indiana
+<lb/>County of Floyd } Sct</p>
+<p>I Nicholas Lawson upon oath Say that I am a resident citizen of New Albany, Indiana, that I am personally and well acquainted with William Ramsey, Junior, having known him intimately for Six years past having rented a part of the house of his Father, William Ramsey, <hi rend="str">Junior</hi> Senior, and lived under the Same Roof in Said house for more than five years, with Said Boy, and was in a situation to know well the character of Said William Ramsey, Junior, and know that the Character of Said Boy was first rate, and his Father and family, were highly respectable people. I kept a confectionary Shop in said Building, and Said Boy ^<hi rend="str">W</hi>^, often done Business for me and was frequently in and about my Shop, and further saith not -- </p>
+<p>N Losson</p>
+<p><figure type="seal"><ab>D. W. LA FOLLETTE
+<lb/>NOTARY PUBLIC
+<lb/>FLOYD COUNTY
+<lb/>INDIANA</ab></figure></p>
+<p>Subscribed and sworn to before me a Notary Public in and for said County and State on this the <date when="1865-07-22">22<hi rend="sup">nd</hi> day of July 1865</date>.</p>
+<p>David W. Lafollete
+<lb/>Notary Public
+<lb/>F. C. Ind.<pb/></p>
+<p>Wm Ramsey Sr
+<lb/>to the Gov. } Affidavit of N Losson</p>
+  </body>
+ </text>
+</TEI>

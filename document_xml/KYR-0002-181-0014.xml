@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-181-0014"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Daniel W. Lindsey, General Orders, No. 9</title>
+    <title level="a" type="parallel">CWG13998</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>General Orders No. 2</collection>
+      <idno>5</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1865-04-05">5 April 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Order</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Adjutant Generals Office
+<lb/>Frankfort <date when="1865-04-05">April 5. 1865</date>.
+<lb/>General Orders
+<lb/>N<hi rend="underline"><hi rend="sup">o</hi></hi> 9.</p>
+<p>A Military Court Martial is hereby ordered to convene at the Inspector Generals Office Frankfort Ky on this the <date when="1865-04-05">5<hi rend="underline">'</hi> day of April 1865</date>, or as soon thereafter as practicable, for the trial of such prisoners as may be brught before them.</p>
+<p>The following Officers are hereby detailed and will constitute said Court viz</p>
+<p><hi rend="underline">Maj C. W. Quiggens</hi>
+<lb/><hi rend="underline">Maj W. H. Hays</hi>
+<lb/><hi rend="underline">Lieut W. E. Co</hi>x <hi rend="underline">Judge Advocate</hi></p>
+<p>No other Officers than those named can be assembled without manifest inquiry to the service</p>
+<p>Said detail will also constitute a Commission to investigate and ascertain the correctness of certain claims laid against the State by all Officers of the 30<hi rend="underline">'</hi> Ky Vol Infy for services rendered the State previous to being mustered into the U. S. service, who will report their opinion as to same. No other Officers than those named can be assembled for this Commission without manifest inquiry to the service Court will sit without regard to hours</p>
+<p>By order of the Governor
+<lb/>D, W, Lindsey 
+<lb/>Adj' Gen<hi rend="sup">l</hi> of Ky</p>
+  </body>
+ </text>
+</TEI>

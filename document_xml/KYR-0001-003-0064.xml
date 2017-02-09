@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-003-0064"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">George W. Monroe to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG1581</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's Official Correspondence File, Military Correspondence, 1863-1867</collection>
+      <idno>BR5-93 to BR5-94</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Plaquemine, Iberville Parish, Louisiana</placeName>
+    <date when="1864-01-03">3 January 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Head Quarters 22<hi rend="underline"><hi rend="sup">nd</hi></hi> Reg. Ky. Vol<hi rend="underline"><hi rend="sup">s</hi></hi>
+<lb/>Plaquemine La
+<lb/><date when="1864-01-03">January. 3<hi rend="underline"><hi rend="sup">d</hi></hi> <hi rend="underline">1864</hi></date>
+<lb/>To His Excellency
+<lb/>Governor Bramlette of. Kentucky
+<lb/>Sir</p>
+<p>On the Banner returned to the Capitol is inscribed the history of the 22<hi rend="underline"><hi rend="sup">nd</hi></hi> Ky. It has been our lot to bear it aloft and to uphold the reputation of the State upon many battle fields.</p>
+<p>At Middle Creek at Pound Gap at Tazewell at Chickasaw Bluff. at Arkansas Post, at Thompsons Hill, at Champions Hill. Black River Bridge, at Vicksburg and at Jackson it has waved in the face of the enemy. This Old flag is dear to us, for beneath its folds. many of our brave comrades have fallen, and sealed their patriotism with their blood. It is dear to us for the victories won under it. It is dear to us because it has never yet been lowered before the enemy, and has never been polluted by traitor hands. We trust therefore that with proud satisfaction you may receive it, greater than that, which was felt even when it was committed to our trust.</p>
+<p>It will be our purpose to preserve the<pb/>
+<lb/>honor of the new one which takes its place untarnished, and when that too shall be returned, may our country again be united, prosperous and happy as of Old, when all delighted to honor the National Banner.</p>
+<p>I am Very Respectfully Governor
+<lb/>Your Obedient Servant
+<lb/>Geo. W. Monroe
+<lb/>Co<hi rend="underline"><hi rend="sup">l</hi></hi> Comndg. 22 Ky. Reg.</p>
+  </body>
+ </text>
+</TEI>

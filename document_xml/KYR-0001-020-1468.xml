@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1468"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">F. M. Webster to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10936</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Amanda Boczar</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG22-46 to MG22-47</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Newport, Campbell County, Kentucky</placeName>
+    <date when="1861-10-31">31 October 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Newport Ky <date when="1861-10-31">Oct<hi rend="underline"><hi rend="sup">r</hi></hi> 31<hi rend="underline"><hi rend="sup">st</hi></hi> 1861</date>
+<lb/>Hon B Magoffin
+<lb/>Frankfort Ky
+<lb/>Dear Sir</p>
+<p>Tho' not personally acquainted with you I have taken the liberty to forward the accompanying ^petition^ on behalf of Charles May.</p>
+<p>Allow me to urge upon your attention the character of the petitioners as showing this to be a meritorious case justly calling for the exercise of the executive clemency -- </p>
+<p>I am most respectfully yours &amp;c.
+<lb/>F. M. Webster -- </p>
+  </body>
+ </text>
+</TEI>

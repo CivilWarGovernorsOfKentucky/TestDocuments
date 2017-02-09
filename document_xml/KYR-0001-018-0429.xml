@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-018-0429"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John W. Finnell to Nathaniel Gaither, Jr.</title>
+    <title level="a" type="parallel">CWG8495</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Military Appointments, 1859-1862</collection>
+      <idno>MG7-47</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1862-08-09">9 August 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><figure type="seal"><ab>UNITED WE STAND, DIVIDED WE FALL.
+<lb/>KENTUCKY.</ab></figure>
+<lb/>Head-Quarters Kentucky Volunteers,
+<lb/>ADJUTANT GENERAL'S OFFICE,
+<lb/>Frankfort, <date when="1862-08-09">August 9 1862</date>.</p>
+<p>Hon: 
+<lb/>Nat Gaither Jr
+<lb/>Sec. State-</p>
+<p>I have iss<hi rend="sup">d</hi> &amp; del<hi rend="sup">d</hi> the following Coms"
+<lb/><table rend="rules">
+<row>
+	<cell>Joseph R. Jones</cell>
+	<cell>2<hi rend="sup">d</hi> Lieut:</cell>
+	<cell>Aug</cell>
+	<cell><date when="1862-08-09">9</date>.</cell>
+	<cell>1862</cell>
+</row>
+<row>
+	<cell>John C. Brent Jr</cell>
+	<cell> -- </cell>
+	<cell> -- </cell>
+	<cell><date when="1862-08-05">5</date>.</cell>
+	<cell> -- </cell>
+</row>
+<row>
+	<cell>G. L. Postlewait</cell>
+	<cell> -- </cell>
+	<cell> -- </cell>
+	<cell><date when="1862-08-09">9</date> -- </cell>
+	<cell>" -- </cell>
+</row>
+<row>
+	<cell>B. F. Wayne</cell>
+	<cell> -- </cell>
+	<cell> -- </cell>
+	<cell><date when="1862-08-09">"</date> -- </cell>
+	<cell>" -- </cell>
+</row>
+<row>
+	<cell>W<hi rend="sup">m</hi> Pearson</cell>
+	<cell> -- </cell>
+	<cell> -- </cell>
+	<cell><date when="1862-08-09">"</date> -- </cell>
+	<cell>" -- </cell>
+</row>
+<row>
+	<cell>Geo. S. Hawkins</cell>
+	<cell> -- </cell>
+	<cell> -- </cell>
+	<cell><date when="1862-08-09">"</date> -- </cell>
+	<cell>" -- </cell>
+</row>
+<row>
+	<cell>John M. Hewitt Jr</cell>
+	<cell>Adjutant</cell>
+	<cell>" -- </cell>
+	<cell><date when="1862-08-09">"</date> -- </cell>
+	<cell>" -- </cell>
+</row>
+<row>
+	<cell>Felix A. Richardson</cell>
+	<cell>2<hi rend="sup">d</hi> Lieut: -- </cell>
+	<cell>" -- </cell>
+	<cell><date when="1862-08-09">"</date> -- </cell>
+	<cell>" -- </cell>
+</row>
+<row>
+	<cell>J. W. Manier -- </cell>
+	<cell>" -- </cell>
+	<cell>" -- </cell>
+	<cell><date when="1862-08-09">"</date> -- </cell>
+	<cell>" -- </cell>
+</row>
+<row>
+	<cell>G. W. Taylor -- </cell>
+	<cell>" -- </cell>
+	<cell>" -- </cell>
+	<cell><date when="1862-08-08">8</date> -- </cell>
+	<cell>" -- </cell>
+</row>
+</table></p>
+<p>Over<pb/></p>
+<p>The following Officer has resigned
+<lb/>Chaplain J. J. Tabbott- date of Com. <date when="1861-12-03">Dec 3. 1861</date></p>
+<p>Resp<hi rend="sup">ly</hi>
+<lb/>John W. Finnell
+<lb/>Adj<hi rend="sup">t</hi> Gen<hi rend="sup">l</hi></p>
+<p><date when="1862-08-09">9. Aug. 1862</date></p>
+  </body>
+ </text>
+</TEI>

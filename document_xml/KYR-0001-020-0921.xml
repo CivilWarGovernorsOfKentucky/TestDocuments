@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0921"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">James F. Buckner et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10389</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG19-464 tp MG19-465</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Hopkinsville, Christian County, Kentucky</placeName>
+    <date when="1861-04-02">2 April 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Hopkinsville Ky <date when="1861-04-02">2<hi rend="sup">nd</hi> Apl 1861.</date>
+<lb/>Govenor Magoffin
+<lb/>Sir</p>
+<p>The undersigned officers and members of the bar, of the Christian Circuit Court, would respectfully ask your Excellency to grant a full pardon to Johnathan Greer, who at the present term of the Christian Circuit Court has been found guilty of manslaughter, and his term of service in the state prison fixed by the jury at five years.</p>
+<p>Without going into the details of the case as proven on the trial, we will only state that the proof, to say the least of it, showed mitigating circumstances sufficient to authorize the interposition of Executive Clemency; M<hi rend="underline"><hi rend="sup">r</hi></hi> Greer is an old man, a husband, and a father, kind, affectionate, just and liberal in all the relations of life; and has always borne the character of a peacable, industrious good citizen; and we have no doubt was betrayed into the commission of the offence of which he has been found guilty, by his fatherly feelings for his sons, who at the time of the <unclear/> were engaged in a deadly conflict with the deceased -- we therefore think his case one that presents peculiar claims to your Excellency's most favourable consideration</p>
+<p>Respectfully &amp;c
+<lb/>James F Buckner
+<lb/>B. H. Bristow
+<lb/>S, M Bernard
+<lb/>John Feland
+<lb/>S A Typert } Members of the Bar<pb/>
+<lb/>M Mayes
+<lb/><hi rend="underline">H. A.</hi> <hi rend="underline">Phelps</hi>
+<lb/>Henry I. Stites
+<lb/><hi rend="underline">G. W. Barbour</hi>
+<lb/>R. T. Petree
+<lb/>H. R. Sittell
+<lb/>A D Rodgers
+<lb/>W. C. Petree
+<lb/>Jno P Ritter
+<lb/>Sam B Greenfield
+<lb/><hi rend="underline">D M Claggett</hi>
+<lb/>D S Hays
+<lb/>J. I. Land
+<lb/>Ben Berry
+<lb/>G. A. Champlin
+<lb/>Jno W. Hays,
+<lb/>Robt M Dillion } Members of the Bar
+<lb/>R. T. M<hi rend="sup">c</hi>Daniel. Sheriff
+<lb/>John C Latham clk
+<lb/>John C Latham Jr D C
+<lb/>Newton Allen Jailor
+<lb/>F. M. Bristow<pb/></p>
+<p>Members of the Bar &amp; officers of the court</p>
+  </body>
+ </text>
+</TEI>

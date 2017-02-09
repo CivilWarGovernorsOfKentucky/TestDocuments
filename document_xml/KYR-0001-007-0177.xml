@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0177"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">J. H. C. Sandidge to Harrison Taylor</title>
+    <title level="a" type="parallel">CWG1842</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Appointments by the Governor, Civil Appointments, 1863-1867</collection>
+      <idno>BR2-23</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Burksville, Cumberland County, Kentucky</placeName>
+    <date when="1864-04-02">2 April 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Burksville Ky.
+<lb/><date when="1864-04-02">April 2, 1864</date>
+<lb/>Hon<hi rend="sup">l</hi> Harison Taylor
+<lb/>Speaker H R. of Kentucky.</p>
+<p>Having been elected to the Office of Commonwealths Attorney in the 15<hi rend="sup">th</hi> Jusidical Dist. I do hereby resign and vacate the Office of Representative in the Legislature of Kentucky from the Counties of Cumberland and Clinton and request a writ of Election to fill the vacancy thus occassioned -- </p>
+<p>I remain with
+<lb/>great respect
+<lb/>Yours Truly,
+<lb/>J. H. C. Sandidge<pb/></p>
+<p>Cumberland &amp; Clinton Counties
+<lb/>Resignation of J. H. C. Sandidge
+<lb/>accepted
+<lb/><date when="1864-04-25">25<hi rend="sup">th</hi> Apl/64</date></p>
+  </body>
+ </text>
+</TEI>

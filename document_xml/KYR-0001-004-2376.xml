@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2376"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Barret et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7013</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR15-295 to BR15-296</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Henderson, Henderson County, Kentucky</placeName>
+    <date when="1865-09-01">1 September 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Henderson Ky
+<lb/><date when="1865-09-01">Sept. 1 1865</date>.
+<lb/>Govn<hi rend="underline"><hi rend="sup">r</hi></hi> Thomas. E Bramlette.</p>
+<p>Your Petitioners would respectfully represent that a Judgment was obtained at the <date when="--06">June</date> term of the Henderson Circuit Court in the name of the Commonwealth of Kentucky against D. N Walden late sheriff of Henderson County for Forty -- Dollars for failing to take sufficient security on a <hi rend="str">capias</hi> <hi rend="str">pro</hi> <hi rend="str">fine</hi> Bench warrant against Charles Henessey -- Mr. Walden took the individual Bond of Henessey -- and sufferd him to go to find his security and did not return -- we are satisfied that Mr Walden acted in good faith and in <hi rend="str">full</hi> lenient discharge of his duty -- but trusted too much to the defendant's honesty to return -- If you can find it consistent with your duty, it would confer a favour on us, the friends of Mr Walden, by remitting the fine</p>
+<p>John Barret Comths atty -- 
+<lb/>D Banks -- Mayor
+<lb/><hi rend="underline">C. W. Hutchin</hi>, County Judge
+<lb/><hi rend="underline">Adam Rankin Circuit Clerk</hi>.
+<lb/>Y, E, <hi rend="underline">Allison</hi> County clk
+<lb/>J. S. Rouse D. S. of H. C.<pb/></p>
+<p>Henderson Cir
+<lb/>vs
+<lb/>D N Walden
+<lb/>$40 -- 
+<lb/>Remitted<date when="1862-09">Sept /65</date>
+<lb/><date when="1865-10-02">2<hi rend="sup">nd</hi> Oct /65</date></p>
+<p>Sent for fee <date when="1865-09-05">5<hi rend="sup">th</hi> Sept</date><pb/></p>
+<p>Your Petitioner D. N. Walden would respectfully state that he acted in good faith &amp; expected the party (Cha<hi rend="underline"><hi rend="sup">rs</hi></hi>. Henessey) to come up promplty with his surity, but upon inquiry some 2 or 3 days after, found that he had left the state He would therefore ask Your Executive Clemency</p>
+<p>Respectfully
+<lb/>D. N. Walden, Late Sheff Henderson Co</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0193"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Sam W. Owens to Unknown</title>
+    <title level="a" type="parallel">CWG8645</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Governor's Official Correspondence File, Petitions for Pardons, Remissions, and Respites, 1862-1863</collection>
+      <idno>R3-291 to R3-292</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Maysville, Mason County, Kentucky</placeName>
+    <date when="1863-01-30">30 January 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Maysville Ky,
+<lb/><date when="1863-01-30">Jany 30<hi rend="underline"><hi rend="sup">th</hi></hi> '63</date>.
+<lb/>My dear friend,</p>
+<p>Although a pleasure, yet you will pardon me for addressing you so frequently in regard to the remission of the fine against M<hi rend="underline"><hi rend="sup">r</hi></hi> Lambden.</p>
+<p>A petition was sent to you many days since, signed by many of your old friends -- doubtless you have not received it; I dislike to trouble you, (knowing your pressing engagements) yet you <hi rend="underline">must</hi> attend to this matter at once -- We well knowing that the fine was an imposition.</p>
+<p>I am, my dear Judge Yrs
+<lb/>Sam W. Owens</p>
+  </body>
+ </text>
+</TEI>

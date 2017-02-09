@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0447"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">James M. Rice et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG4566</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR9-203 to BR9-204</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Dixon, Webster County, Kentucky</placeName>
+    <date when="1864-01-30">30 January 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Dixon Ky <date when="1864-01-30">Jany 30<hi rend="sup">th</hi>/ 64</date>
+<lb/>To his Excelency
+<lb/>Thomas E Bramlet
+<lb/>Governor of Kentucky</p>
+<p>We the undersigned Jurors who were empanelled at the <date when="1863-09">September Term of the Webster Circuit Court for 1863</date> to try Elijah Hayden upon an indictment which charged said Hayden of fellony Would respectfully Represent to your Honor that said charge was only sustained by the confession of the accused and that we are satisfied and believe that under ordinary circumstances the accused would never have commited any fellony or have been guilty of any crime and that What he done was more for the sake of self preservation then for gain or peculation</p>
+<p>Where fore We in connection with <hi rend="str">with</hi> the Judge who tried the cause and those who gave the information would respectfully ask of your excelency that <hi rend="str">that</hi> the said Elijah Hayden be granted a reprieve and that your Honor will pardon the accused and<pb/>
+<lb/>that he be permitted to return to his family wherefore we will ever pray</p>
+<p>James M R<hi rend="underline">ec</hi>e
+<lb/>Jesuh Rice
+<lb/>J E Baker
+<lb/>Samuel W. Cavanah
+<lb/>Alford ^his x mark^ Williams
+<lb/>Alexander Cates
+<lb/>W. R. Staples
+<lb/>Isaac Baker
+<lb/>Anderson Boster
+<lb/>A.. Cornal
+<lb/>Lennel Overly
+<lb/>Squiers Mooney
+<lb/>S U Woodson
+<lb/>James R Johnson
+<lb/>E D M<hi rend="sup">c</hi>Bride J.H.C
+<lb/><note place="right margin">Jurors</note><pb/></p>
+<p>Webster Cir Ct
+<lb/>vs
+<lb/>Elijah Hayden
+<lb/>Felony</p>
+<p>Issue pardon
+<lb/>Tho E Bramlette</p>
+<p>Pardoned
+<lb/><date when="1863-02-23">23d February
+<lb/>186<hi rend="underline">4</hi></date></p>
+  </body>
+ </text>
+</TEI>

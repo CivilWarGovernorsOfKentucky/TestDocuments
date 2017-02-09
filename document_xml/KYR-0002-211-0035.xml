@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-211-0035"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Samuel G. Suddarth, Receipt to John Haly</title>
+    <title level="a" type="parallel">CWG13683</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>Adjt. Gen. &amp; QMG Expenditures, 1864-1865</collection>
+      <idno>QMG Box 11; Bundles of AG &amp; QMG Expenditures 1864-65; Bundle 3</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1864-03-22">22 March 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>NO. 12.<figure type="hr"/>
+<lb/><hi rend="underline">For Hospital</hi>
+<lb/>The State of Kentucky,
+<lb/>To John Haly, Dr.</p>
+<p><date when="1864">1864</date>
+<lb/><table rend="rules">
+<row>
+	<cell>Date of Purchase.</cell>
+	<cell/>
+	<cell>Dollars.</cell>
+	<cell>Cents.</cell>
+</row>
+<row>
+	<cell><date when="1864-01-15">Janry 15</date></cell>
+	<cell>To 2 Cannon Coal Stoves @ $14<hi rend="underline"><hi rend="sup">00</hi></hi><hi rend="sup"> </hi>&amp;#x2713;</cell>
+	<cell>28.</cell>
+	<cell>00</cell>
+</row>
+<row>
+	<cell/>
+	<cell>" 42 lb of Stove pipe @ 20 &amp;#x2713;</cell>
+	<cell>8.</cell>
+	<cell>40</cell>
+</row>
+<row>
+	<cell/>
+	<cell>" Sheet Iron &amp; putting up Stoves.</cell>
+	<cell>2.</cell>
+	<cell>00</cell>
+</row>
+<row>
+	<cell/>
+	<cell>" 1 Cannon Stove &amp;$10<hi rend="underline"><hi rend="sup">00</hi></hi> 35 lb Stove pipe @ 20<hi rend="sup">¢</hi> $7<hi rend="underline"><hi rend="sup">00</hi></hi> &amp;#x2713;</cell>
+	<cell>17.</cell>
+	<cell>00
+<lb/></cell>
+</row>
+<row>
+	<cell/>
+	<cell>" Putting up Stove &amp; cutting Stove pipe hole</cell>
+	<cell>1.</cell>
+	<cell>00</cell>
+</row>
+<row>
+	<cell/>
+	<cell>" 1 Doz pie pans &amp;#x2713; $1<hi rend="underline"><hi rend="sup">20</hi></hi> Dish pan &amp;#x2713; $1<hi rend="underline"><hi rend="sup">25</hi></hi> large Spoon &amp;#x2713; 25<hi rend="sup">¢</hi></cell>
+	<cell>2.</cell>
+	<cell>70</cell>
+</row>
+<row>
+	<cell/>
+	<cell>" 1 Tea Kettle &amp;#x2713; $1<hi rend="underline"><hi rend="sup">50</hi></hi> Wash pan, &amp;#x2713; 50<hi rend="sup">¢</hi> Dipper, &amp;#x2713; 25<hi rend="underline"><hi rend="sup">¢</hi></hi></cell>
+	<cell>2.</cell>
+	<cell>25</cell>
+</row>
+<row>
+	<cell/>
+	<cell>" 1 Wash boiler &amp;#x2713; $3<hi rend="underline"><hi rend="sup">00</hi></hi> 2 Tin pans &amp;#x2713;,60<hi rend="sup">¢</hi></cell>
+	<cell>3.</cell>
+	<cell>60</cell>
+</row>
+<row>
+	<cell/>
+	<cell>" 1 Iron Kettle &amp;&amp;#x2713; Bucket $1<hi rend="underline"><hi rend="sup">30</hi></hi> Coffee Mill $1<hi rend="underline"><hi rend="sup">50</hi></hi></cell>
+	<cell>2.</cell>
+	<cell>80</cell>
+</row>
+<row>
+	<cell/>
+	<cell>" 1 Poker &amp; Shovel,&amp;#x2713; 60<hi rend="underline"><hi rend="sup">¢</hi></hi> Table Spoons&amp;#x2713; &amp; Saw $2<hi rend="underline"><hi rend="sup">00</hi></hi></cell>
+	<cell>2.</cell>
+	<cell>60</cell>
+</row>
+<row>
+	<cell/>
+	<cell>" 2 Mop handles&amp;#x2713;, 70<hi rend="underline"><hi rend="sup">¢</hi></hi> 4 Brooms &amp;#x2713; $1<hi rend="underline"><hi rend="sup">40</hi></hi> Sand paper, 10<hi rend="underline"><hi rend="sup">¢</hi></hi></cell>
+	<cell>2.</cell>
+	<cell>20</cell>
+</row>
+<row>
+	<cell/>
+	<cell>" 1 Doz spit Boxes&amp;#x2713; $4<hi rend="underline"><hi rend="sup">80</hi></hi> <hi rend="sup">1</hi>/<hi rend="sub">2</hi> Doz Candlesticks $1<hi rend="underline"><hi rend="sup">20</hi></hi></cell>
+	<cell>6.</cell>
+	<cell>00</cell>
+</row>
+<row>
+	<cell/>
+	<cell>" Mending Stairway of Middle Store</cell>
+	<cell>2.</cell>
+	<cell>00</cell>
+</row>
+<row>
+	<cell/>
+	<cell/>
+	<cell>$80</cell>
+	<cell>55</cell>
+</row>
+</table></p>
+<p><note place="left margin">Approved
+<lb/>S G Suddarth Q. M. Genl. of Ky.</note></p>
+<p><note place="body">Approved
+<lb/>Tho E Bramlette</note></p>
+<p>I certify that the above account is correct and just; that the services were rendered as stated; and that they were necessary for the public service.</p>
+<p>I. R. Hutchinson
+<lb/>Acting Surgeon
+<lb/><hi rend="str">Quarter-Master Gen. of Ky.</hi></p>
+<p>Received at Frankfort, Kentucky, the <date when="1864-03-22">22 of March, 1864</date>, of S. G. SUDDARTH, Quarter=Master General for the State of Kentucky, the sum of Eighty dollars and fifty five cents, in full of the above account.
+<lb/>(DUPLICATE.)</p>
+<p>John Haly<pb/></p>
+<p>44.
+<lb/>No 12.<figure type="hr"/>
+<lb/>No 54 Abstract. G
+<lb/>Jno Haley
+<lb/>Dollars 80.<hi rend="sup">55</hi>/<hi rend="sub">100</hi>
+<lb/>Paid <date when="1864-03-22">Mch 22 1864</date>
+<lb/>Hospital
+<lb/>J 235
+<lb/>certif no 44</p>
+  </body>
+ </text>
+</TEI>

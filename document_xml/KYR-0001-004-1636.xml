@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1636"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">George M. Thomas et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6273</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR13-94</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Cromwell, Ohio County, Kentucky</placeName>
+    <date when="1865-03-04">4 March 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency The Govenor of the State of Kentucky
+<lb/>Sir:</p>
+<p>We the undersigned petitioners would pray you would remit a fine imposed on Henry Wall for trading without License in Ohio county Ky -- you will see from the enclosed cirtificate that M<hi rend="sup">r</hi> Wall thought he was licensed, and knowing M<hi rend="sup">r</hi> Wall as we do, we don't believe he ever intended to violate any law.</p>
+<p>Respectfully
+<lb/>your Obedient Servants</p>
+<p>Cromwell Ohio Co Ky
+<lb/><date when="1865-03-04">March 4<hi rend="sup">th</hi> 1865.</date></p>
+<p><milestone unit="column" n="2"/><cb n="1"/>D Sandefur
+<lb/>T. J. Cochran
+<lb/>J C B Ramsey
+<lb/>James A Porter
+<lb/>Richard S. Taylor
+<lb/>Jas H Leach
+<lb/><cb n="2"/>Geo M Thomas
+<lb/>B sandefur
+<lb/>W S Keown
+<lb/>N L. Keown
+<lb/>Jno H. Keown
+<lb/>B. T. Albin
+<lb/>Jno Baize Sen<hi rend="sup">r</hi>
+<lb/>Henry Baize
+<lb/>Mathias Baize
+<lb/>W<hi rend="sup">m</hi> Baize
+<lb/>Charles Baize
+<lb/>Abednego Baize
+<lb/>Joseph S Bayze
+<lb/>James B Allin
+<lb/>Thomas B Shults
+<lb/>T. P. Paxton
+<lb/>R Q Daniel
+<lb/>Tho<hi rend="underline"><hi rend="sup">s</hi></hi>, N, Gillstrap
+<lb/>Hedgman Hampton
+<lb/>P H Brown
+<lb/>T. R. Beesley
+<lb/>Luther Rogers
+<lb/>H P Rogers
+<lb/>R K Paxton
+<lb/>B A Ezell<milestone unit="column" n="1"/><pb/></p>
+<p>Ohio Cir Ct
+<lb/>vs
+<lb/>Henry Wall
+<lb/>$30 -- </p>
+<p>Remit</p>
+<p><date when="1865-05-11">11<hi rend="sup">th</hi> May/65</date></p>
+<p>sent for fee
+<lb/><date when="1865-04-07">7<hi rend="sup">th</hi> Apl/65</date></p>
+  </body>
+ </text>
+</TEI>

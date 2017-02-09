@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0413"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John H. Powell to James F. Robinson</title>
+    <title level="a" type="parallel">CWG8865</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Governor's Official Correspondence File, Petitions for Pardons, Remissions, and Respites, 1862-1863</collection>
+      <idno>R4-165 to R4-166</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1863-06-06">6 June 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Frankfort. <date when="1863-06-06">June 6. 1863</date>
+<lb/>To His Excellency
+<lb/>The Governor of Kentucky</p>
+<p>The undersigned, Petitioner to your Excellency, respectfully represents -- that on the <date when="1863-06-02">2<hi rend="sup">d</hi> day of June</date>, a boy named Kirk, without permission, took possession of a skiff, beloning to the undersigned, and while in possession, seriously damaged the same by running ^over the Dam^ The petitioner feeling outraged, made an attack on said Kirk and punished him for which he was fined to the amount -- of five dollars and costs.</p>
+<p>In consequence of the exasperation caused by the seizure of the skiff and the subsequent damages Your petitioner implores Your Excellency to remit the fine -- </p>
+<p>John H Powell<pb/></p>
+<p>We the subscribers recommend the Petitioner to your clemency</p>
+<p>Ja<hi rend="underline"><hi rend="sup">s</hi></hi> P. O'Hara
+<lb/>Ben. S, Myers
+<lb/>G, W, Mathews
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> H. Greenup
+<lb/>J B. F. Johnson
+<lb/>J A Crittenden<pb/></p>
+<p>Franklin J. P. Ct
+<lb/>$5. } Breach</p>
+<p>Fine in this case is remitted <date when="1863-06-06">6 June 1863</date></p>
+<p><hi rend="underline">J F Robinson</hi>
+<lb/>Jno. H. Powell
+<lb/>Iss<hi rend="sup">d</hi> <date when="1863-06-06">June 6. 1863</date></p>
+  </body>
+ </text>
+</TEI>

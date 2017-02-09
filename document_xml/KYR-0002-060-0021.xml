@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-060-0021"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">D. W. Lindsey, Special Orders, No. 76</title>
+    <title level="a" type="parallel">CWG13637</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>Active Militia Records - Capital Guards, North Cumberland Btn., and Three Forks Btn.</collection>
+      <idno>Box 77, Folder 865 NORTH CUMBERLAND BN CO B KSG SPECIAL ORDERS</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1865-09-06">6 September 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Order</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Headquarters Kentucky Volunteers,
+<lb/>Adjutant=General's Office,
+<lb/>Frankfort, <date when="1865-09-06">Sep 6, 1865</date>.
+<lb/>Special Orders
+<lb/>No 76 }</p>
+<p>Lt H L Keesel of Co B North <unclear/> <unclear/>ion will be mustered out as 1<hi rend="sup">s</hi> Lt to date the <date>19 of m<unclear/></date> to complete his record.</p>
+<p>And whereas there is an incomplete muster of the following named officers on file in this office, made by Maj C. W. Quiggins Special Mustering officer for the State, Lt C Haydon State Mustering officer is hereby directed to muster them in, in their respective grades, as of the date set opposite their names</p>
+<p>It appearing from proper information that they have performed the duties as such, by proper authority from the dates mentioned. viz
+<lb/><table rend="rules">
+<row>
+	<cell>H. L, Keesel</cell>
+	<cell>Capt Co B</cell>
+	<cell>to date <date when="1865-03-20">20 March 1865</date></cell>
+</row>
+<row>
+	<cell>Douglas Imes</cell>
+	<cell>1<hi rend="sup">st</hi> Lt (Vice K pro)</cell>
+	<cell><date when="1865-03-20">" 20 " "</date></cell>
+</row>
+<row>
+	<cell>Jno L. Lamb</cell>
+	<cell>2<hi rend="sup">nd</hi> Lt</cell>
+	<cell><date when="1865-03-20">" 20 " "</date></cell>
+</row>
+</table></p>
+<p>By order of the Govenor
+<lb/>D. W. Lindsey
+<lb/>adj Genl of Ky</p>
+  </body>
+ </text>
+</TEI>

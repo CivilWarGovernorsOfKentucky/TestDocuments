@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0943"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">H. A. Morgan et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG5062</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR10-450 to BR10-451</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Metcalfe County, Kentucky</placeName>
+    <date when="1864-06-09">9 June 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Metcalfe County <date when="1864-06-09">June 9<hi rend="sup">th</hi> 1864</date>
+<lb/>To his Excellency, Thomas E. Bramlette,
+<lb/>Governor of the State of Kentucky.</p>
+<p>The undersigned, your petitioner, would respectfully represent unto your Excellency, that at a called Term of the Metcalfe Circuit Court began &amp; held, the week ending Saturday the <date when="1864-06-04">4<hi rend="sup">th</hi> day of June 1864</date>, Joseph T. Whitlow, formerly a citizen of said County of Metcalfe, but now a citizen of Monroe County, was tried, in his absence &amp; without Counsel, upon an indictment charging him with Malicious assault on one Willis Wood, &amp; the Jury returned into Court a verdict of guilty against said Whitlow, &amp; assessed his fine to the Commonwealth at the sum of Fifty Dollars. Your petitioners state, that they are advised, &amp; believe, &amp; it was so established afterwards by proof in said Court in another case, wherein the said Whitlow was a party, that the said Whitlow was not informed of the Said Called term of the Metcalfe Circuit Court; that he had been previously arrested for said assault, upon a warrant issued by C. C. Haney, for the purpose, the said Haney being an acting Justice of the peace for Metcalfe County; that the said Whitlow was regularly tried, before said Haney, on said warrant, by a Jury of said County, &amp; verdict and Judgment rendered against him for Said assault, for the sum of fifteen dollars. Wherefore, petitioners pray your Excellency, to remit so much of said Whitlows fine, as your Excellency may have the power to ^do^ <hi rend="str">remit</hi>. &amp; as in duty bound &amp;c.</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>H. A. Morgan
+<lb/>R B Dohoney
+<lb/>Joseph B Terry
+<lb/>C C Whitlow
+<lb/>Samuel H Nance
+<lb/>John H Sedige
+<lb/><cb n="2"/>J. W. Gorin.
+<lb/>W<hi rend="sup">m</hi> B Allen
+<lb/>R E Grinstead
+<lb/>Alfred Tyler
+<lb/>T H Leslie
+<lb/>P. S. Rush<milestone unit="column" n="1"/><pb/>
+<lb/>J B Martin
+<lb/>J R Martin
+<lb/>J. M Tudor
+<lb/>Allen Hodges
+<lb/>Thomas Estes
+<lb/>J H Norris
+<lb/>Thomas Perkins
+<lb/>James A. Whitlow
+<lb/>Asia Siry
+<lb/>P. D. Kerry
+<lb/>M Wade
+<lb/>John W Padigo
+<lb/>L T Padigo
+<lb/>W W Lyer
+<lb/>Edward Heart
+<lb/>Leonard Heart
+<lb/>Thom Plaza
+<lb/>John Morehead
+<lb/>W Daniel
+<lb/>L R Harbison
+<lb/>Jno R Price
+<lb/>J W Renalds
+<lb/>W H Perkins
+<lb/>B W Right
+<lb/>J T T Hallimore
+<lb/>W<hi rend="sup">m</hi> Hadrian
+<lb/>Joseph W. Pace
+<lb/>John S Gee
+<lb/>C C Harvey
+<lb/>Joseph M<hi rend="underline"><hi rend="sup">c</hi></hi>Guire
+<lb/>Grant Holloway
+<lb/>Denis R <unclear/>
+<lb/>John. U. Young</p>
+<p>Metcalfe Cir Ct
+<lb/>vs
+<lb/>Jos T. Whitlow
+<lb/>Assault
+<lb/>$50-
+<lb/>Remitted $20
+<lb/><date when="1864-07-12">12<hi rend="sup">th</hi> July/64</date></p>
+<p>Remit $20. of fine-</p>
+  </body>
+ </text>
+</TEI>

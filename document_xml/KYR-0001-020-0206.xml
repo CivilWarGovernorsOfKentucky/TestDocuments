@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0206"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John J. McDevitt to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG9674</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG17-158 to MG17-159</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date when="1860-11-19">19 November 1860</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency
+<lb/>The Governor of Kentucky
+<lb/>May it please your Excellency</p>
+<p>A poor woman came to me this morning, stating that her son John Maginty was fined, a few days ago, in one hundred dollars for some difficutly with a fellow laborer -- she also stated, that she paid five dollars to a lawyer, who <hi rend="underline">never</hi> <hi rend="underline">appeared</hi> at all the trial; but that this same lawyer came to her demanding five other dollars which if he got, he promised to send a petition to your Excellency in behalf of her son -- the poor woman was not able to raise this extra amount, and as I know the poor woman and and her family, and that her son is her principal support -- I have taken the liberty to intercede with your Excellency in her behalf -- her son is now away from home fearing to return; Hoping that your Excellency may remit the fine, is the sincere wish of your humble petitioner</p>
+<p>John J. McDevitt
+<lb/>Louisville city Missionary</p>
+<p>Louisville <date when="1860-11-19">Nov 19/60</date><pb/></p>
+<p>M<hi rend="sup">c</hi>Ginty's case
+<lb/>Louisville.</p>
+<p>Respite for 12 mo<hi rend="sup">s</hi> and enclose to <hi rend="str">Mc</hi> M<hi rend="sup">c</hi>Devitt -- </p>
+<p>B, M</p>
+<p>Louisville City Ct
+<lb/>$100 } Misdemeanor
+<lb/>Jno Magenty
+<lb/>Iss<hi rend="sup">d</hi> <date when="1861-12-01">Dec 1 1861</date></p>
+  </body>
+ </text>
+</TEI>

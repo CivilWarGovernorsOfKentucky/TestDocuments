@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-2372"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">C. D. Carr et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG9448</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG25-158</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>We the undersigned are acquainted with Michael B Johnson and know that he has been unfortunate in his business and would Cheerfully recommend his petition to the clemency of her excellency Govenour Magoffin in the remission of said fine</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>C D Carr
+<lb/>L. P. Young
+<lb/>Jno C. Hansbro.
+<lb/>Ed G. Duncanson J S
+<lb/>Jno B Norton
+<lb/>A. G. Hunt
+<lb/>Bryan H Allen
+<lb/><cb n="2"/>Benj A Graves
+<lb/>Cha<hi rend="sup">s</hi> <unclear>Allen Neliffe</unclear>
+<lb/>Edward Lewis
+<lb/>W. D. Boswell
+<lb/>A. H. Robertson
+<lb/>Thos W. Bullock
+<lb/><hi rend="underline">Cha</hi><hi rend="underline"><hi rend="sup">s</hi></hi><hi rend="underline"> B Thomas</hi>
+<lb/>Robt J Breckinridge
+<lb/>Roger W Hanson
+<lb/>George Stoll
+<lb/>Jno C Young
+<lb/>R W Woolley
+<lb/>Z. Gibbons
+<lb/><hi rend="underline">James B Beck</hi><milestone unit="column" n="1"/><pb/></p>
+<p>each
+<lb/><unclear/></p>
+  </body>
+ </text>
+</TEI>

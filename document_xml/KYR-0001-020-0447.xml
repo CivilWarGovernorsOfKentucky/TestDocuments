@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0447"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Ephraim L. Van Winkle to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG9915</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG18-197 to MG18-198</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Somerset, Pulaski County, Kentucky</placeName>
+    <date when="1861-01-08">8 January 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Somerset Ky
+<lb/><date when="1861-01-08">Jany 8<hi rend="sup">th</hi> 1861</date>
+<lb/>Gov, Magoffin
+<lb/>Dear Sir</p>
+<p>Judgments of Commonwealth of J Marcum for $500. rendered in the Wayne Circuit Court at -- Term <date when="1859">1859</date>. upon forfeited bail bond ought I think to be remitted, Marcum followed Beeler (the principal) to Lebenon where he (Beeler) was accidentally Killed otherwise he would have been brought back &amp; tried, Marcum is a poor man industrious &amp; honest, the fine if not remitted will utterly destroy him, this is the Case to which I called your attention when at Frankfort last,</p>
+<p>Comth vs J Webb &amp; others Russell ct ct fine $300 breach of tavern bond -- <pb/>
+<lb/>in this case Webb was more sinned against than sining, his wife was the really guilty person &amp; afterwards left Webb &amp; sued him for divorce -- Considering the prospects of Webbs family &amp; the circumstances of Commission I would respectfully suggest some action in his behalf &amp;<hi rend="sup">c</hi></p>
+<p>Comlh vs Fergasun Clinton
+<lb/>petition will be forwarded as I understand, Permit me to say two worse men dont live in the 6<hi rend="sup">th</hi> Federal Distrcit. They are outlaws of the worst character -- &amp;<hi rend="sup">c</hi> Your reply to Hale meets with universal favor in this country I think Hale rather,, piled up the agony,, and might have had an intimation to that effect<pb/>
+<lb/>without a breach of hospitality I regard your suggestion of a convention of the southern states as <hi rend="str">highly</hi> very appropriate, and well Considered, I cannot refrain from congratulating you for the whole tenor of the letter, I regard it as a great success, and only <hi rend="str">regret</hi> wish we had more such Governors</p>
+<p>Yours Truly
+<lb/>E L Van Winkle<pb/></p>
+<p>Wayne Cir Ct
+<lb/>$500. } For. Recog
+<lb/>J Marcum
+<lb/>Remission Iss<hi rend="sup">d</hi>
+<lb/><date when="1861-01-15">Jany 15. 1861</date></p>
+  </body>
+ </text>
+</TEI>

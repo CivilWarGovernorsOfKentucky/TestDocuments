@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-006-0016"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Thomas E. Bramlette, Agent, Delos T. Bligh</title>
+    <title level="a" type="parallel">CWG1062</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's Official Correspondence File, Requisitions for the Return of Fugitives from Justice, 1863-1867</collection>
+      <idno>BR6-18</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1864-02-08">8 February 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Commission/Appointment</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>IN THE NAME AND BY THE AUTHORITY OF
+<lb/>The Commonwealth of Kentucky,
+<lb/><figure type="seal"><ab>KENTUCKY
+<lb/>UNITED WE STAND DIVIDED WE FALL</ab></figure>
+<lb/>THOMAS E. BRAMLETTE,
+<lb/>GOVERNOR OF SAID COMMONWEALTH.
+<lb/>To all whom these Presents shall come, Greeting:</p>
+<p>Know Ye, That reposing especial trust and confidence in the integrity, diligence, and ability of Delos T. Bligh, I do hereby appoint him AGENT, on the part of this State, to proceed to the State of Missouri for the purpose of demanding and receiving from the proper authorities of said State, Newton Williams, a Fugitive from Justice from the State of Kentucky, charged with Robbery, and I do hereby authorize and direct the said Delos T. Bligh to demand and receive the said Fugitive, bring him to this State, and deliver him to the custody of the Jailor of the county of Carroll Ky.</p>
+<p>In Testimony Whereof, I have caused these letters to be made patent and the Seal of the Commowealth to be hereunto affixed. Done at Frankfort, the <date when="1864-02-08">8<hi rend="sup">th</hi> day of February, in the year of our Lord, one thousand eight hundred and 64, and in the 72<hi rend="sup">nd</hi> year of the Commonwealth.</date></p>
+<p><figure type="seal"><ab>SEAL OF KENTUCKY
+<lb/>UNITED WE STAND DIVIDED WE FALL</ab></figure></p>
+<p>Tho E Bramlette
+<lb/>BY THE GOVERNOR:
+<lb/>E. L. VanWinkle, <hi rend="italic">Secretary of State</hi>.
+<lb/>By Jas R Page
+<lb/>Asst Secty
+<lb/>Commonwealth Office -- WM. E. HUGHES, STATE PRINTER.<pb/></p>
+<p>Received <hi rend="str"><unclear/></hi>Carrolton Ky <date when="1864-02">Feb <gap/> 1864</date> of Delos T. Bligh the within named Newton Williams alias Matteson a fugitive from Justice <hi rend="str">from state of Missouri</hi></p>
+<p>David Owen
+<lb/>Jailor of Carroll Co. Ky</p>
+<p>Missouri
+<lb/>D. L. Bligh
+<lb/>Agent
+<lb/>Ret<hi rend="sup">d</hi>. <date when="1864-02-13">13<hi rend="sup">th</hi> Feby/64</date>
+<lb/></p>
+  </body>
+ </text>
+</TEI>

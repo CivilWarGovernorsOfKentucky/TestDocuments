@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2771"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">C. Daugherty and A. H. Brown to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7408</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR17-30 to BR17-31</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Mill Springs, Wayne County, Kentucky</placeName>
+    <date when="1865-12-22">22 December 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency Thomas E Bramlette
+<lb/>Governor of the Commonwealth of Ky -- </p>
+<p>Your humble petitioners would respectfully represent that at the <date when="1865-04">April Term of the Wayne Circuit Court 1865</date> Charles Daugherty and Alexander H Brown were indicted for the offence of Gaming, and in pursuance of Said indictment Confessed judgment for Twenty Dollars each at the <date when="1865-10">October term 1865</date> of Said Court -- </p>
+<p>They further State the Specific act for which they were indicted was Playing for Home made Sugar at Mill Springs Ky, and that some three or four months previous to the rendition of the above fine inflicted against them, they had formed a resolution to forever abandon the practice of gaming, and have up to this time Strictly Conformed to this resolution -- </p>
+<p>In view of which facts they respectfully petition his Excellency <hi rend="str">by</hi>to the power vested in him as Executive, to remit those fines as far as is practicable
+<lb/>Mill Springs Ky <date when="1865-12-22">Dec 22 1865</date></p>
+<p>Respectfully
+<lb/>C Daugherty
+<lb/>A H Brown</p>
+<p>We whose names are hereunto subscribed endorse the foregoing Statements as true</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>James Denny
+<lb/>T V West
+<lb/>F I Dunnigan
+<lb/>James Ruck
+<lb/>George West -- 
+<lb/><cb n="2"/>Harry Sloan Sr
+<lb/>Burr Castello
+<lb/>J. Smith Frisbie
+<lb/>W<hi rend="sup">m</hi> H Brown
+<lb/>Elihu Taylor<pb/></p>
+<p><milestone unit="column" n="1"/>Wayne Cir Ct
+<lb/>vs
+<lb/>Alex H Brown &amp; Chas Dougherty
+<lb/>$20, each<figure type="hr"/>
+<lb/>Remitted <date when="1865-12-26">26 Dec /65</date></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2837"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">J. M. Sandifer et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7474</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR17-120 to BR17-121</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Somerset, Pulaski County, Kentucky</placeName>
+    <date when="1865-12-04">4 December 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Somerset Ky <date when="1865-12-04">December 4<hi rend="sup">th</hi> 1865</date>
+<lb/>To his Excellency
+<lb/>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> E Bramlette
+<lb/>Gov of Kentucky
+<lb/>Sir</p>
+<p>Your Undersigned Petitioners State that at the late Term of the Pulaski Circuit Court (<date when="--09">September</date>) there was judgement rendered against M E Ingram C A Zachary and Henry Artman of Somerset Ky Upon an Indictment for selling whiskey to John Dutton a Minor, Judgement was rendered upon the confession of the aforesaid parties; and the fine against them amounting to ($50) fifty dollars We therefore Respectfully ask that the S<hi rend="underline"><hi rend="sup">d</hi></hi> ^fine^ be Remitted ^Except^ the Atty fee</p>
+<p><milestone unit="column" n="3"/><cb n="1"/>J M Sandifer
+<lb/>E D Pirch
+<lb/>J. E. Cosson
+<lb/><hi rend="underline">W M</hi><hi rend="underline"><hi rend="sup">c</hi></hi><hi rend="underline">Kee Fox</hi>
+<lb/>W B Moore
+<lb/>W D Carpenter
+<lb/><cb n="2"/>S M Hays
+<lb/>J M Gossett
+<lb/>S. F. Tomlinson
+<lb/>T Q Eastham
+<lb/>Saml. T. Wolsey
+<lb/>O M <unclear/>
+<lb/><cb n="3"/>C W Richardson
+<lb/>Milford Elliot
+<lb/>W M Fox
+<lb/>J J Chesney
+<lb/>C R Bachellor Co atty P C
+<lb/>R Willson
+<lb/>H. H. Gregg<pb/></p>
+<p><milestone unit="column" n="1"/><hi rend="str">A Statement of Daniel Dutton</hi></p>
+<p><hi rend="str">I have permitted my Son John Dutton to Trade for himself Keep Bar Room and have taken a drink with him at Artman Ingram &amp; zacharys Bar therefore ask that Said fine be Remitted</hi>,</p>
+<p>Daniel Dutton states that he is the Father of John Dutton, the minor to whom it is charged that Artman Ingram &amp; Zachary sold the liquor. I have been in the habit of drinking with son in <hi rend="str">all</hi> the groceries in Somerset -- I permitted him to trade and do business himself, and that permission was generally ^Known^ and acted in this County -- He has treated me &amp; I him often -- </p>
+<p>Daniel Dutton<pb/></p>
+<p>Pulaski Cir Ct
+<lb/>vs
+<lb/>M. E Ingram C. A Zachary &amp; Henry Artman
+<lb/>$50,
+<lb/>Tipling
+<lb/>Remitted <date when="1865-12-16">16<hi rend="sup">th</hi> Dec/65</date></p>
+  </body>
+ </text>
+</TEI>

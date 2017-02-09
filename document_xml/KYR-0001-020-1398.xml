@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1398"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">W. T. Downey to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10866</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG21-348 to MG21-349</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Winchester, Clark County, Kentucky</placeName>
+    <date when="1861-09-09">9 September 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Winchester <date when="1861-09-09">Sept 9<hi rend="sup">th</hi> 1861</date>
+<lb/>Gov<hi rend="sup">r</hi> Magoffin
+<lb/>D<hi rend="sup">r</hi> Sir,</p>
+<p>I wrote you some weeks since in reference to a couple of Judgts for the amount of which Mr James H. Ogden of this place stands bound. I learn from him that the letter did not reach you. The Judgts were rendered in the Clark Court for Gaming against Samuel Combs Jr. Combs Repleived them with Ogden as his security and did the week afterwards without property. Ogden is a young man with a large family to support, poor and Respectable. In the condition of the time it will <unclear/> him to meet the Bonds which are now <unclear/> done. He went upon the Bonds, to save Combs who was very young, And if the latter had lived, I have no doubt he would have met the payment promptly. If your Excellency could releive M<hi rend="sup">r</hi> Ogden from the payment of these Judgts it would much oblige</p>
+<p>Yours Respectfully
+<lb/>W. T Downey<pb/></p>
+<p><unclear/></p>
+<p>Remitted
+<lb/>B. M.</p>
+<p>Ja<hi rend="sup">s</hi> H. Ogden</p>
+<p><hi rend="underline">Acted on</hi></p>
+  </body>
+ </text>
+</TEI>

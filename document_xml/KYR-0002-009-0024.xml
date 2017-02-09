@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-009-0024"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">R. Morrow, Special Orders, No. 9</title>
+    <title level="a" type="parallel">CWG11491</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Amanda Boczar</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>45th, 47th, 48th, and 49th Regiments Kentucky Infantry Muster Rolls</collection>
+      <idno>Box 41, Bundle 4</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Lexington, Fayette County, Kentucky</placeName>
+    <date when="1864-01-08">8 January 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Order</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Assistant Adjutant General's Office,
+<lb/>DEPARTMENT OF THE OHIO,
+<lb/>Lexington, Kentucky, <date when="1864-01-08">January 8<hi rend="underline"><hi rend="sup">th</hi></hi>, 1864</date>.</p>
+<p>SPECIAL ORDERS,
+<lb/>No 9 } 3,, ,, ,, The resignation of 1<hi rend="underline"><hi rend="sup">st</hi></hi> Lieut <hi rend="underline">James H. Loh.</hi> Co "B" 45<hi rend="underline"><hi rend="sup">th</hi></hi> Kentucky Mounted Inf, is for the good of the serivce hereby accepted to take effect on the <date when="1864-01-09">(9<hi rend="underline"><hi rend="sup">th</hi></hi>) ninth day of January 1864</date>, He to receive no final payment until he exhibits satisfactory evidence from the Head of the Ordnance Department, and the proper accounting officer of the Treasury, that he has made all prescribed returns and is in no wise indebted to the United States on account of Ordnance.</p>
+<p>BY COMMAND OF MAJOR GENERAL FOSTER.
+<lb/>R. Morrow
+<lb/>Assistant Adjutant General.
+<lb/><note place="left margin">1. 2. 3. 4. 5<figure type="hr"/>
+<lb/><date when="1863-09-01">Septr 1. 1863 </date><figure type="hr"/></note>
+<lb/>Gov. of Ky.<pb/></p>
+<p>45 Infy<figure type="hr"/>
+<lb/>Lieut Loh<figure type="hr"/>
+<lb/>Resigs<figure type="hr"/>
+<lb/>Filed <date when="1864-01-14">Jany 1<hi rend="str">2</hi>4: 1864</date></p>
+  </body>
+ </text>
+</TEI>

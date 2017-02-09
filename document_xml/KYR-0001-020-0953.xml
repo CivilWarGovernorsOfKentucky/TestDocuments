@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0953"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Donan et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10421</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG19-510</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Hart Equity &amp; Criminal Court
+<lb/>Commonwealth
+<lb/>vs } On Indictment for an assault and battery Judgment at the <date when="1861-04">April Term 1861</date> for $40.
+<lb/>Oliver Clark William Clark Fleming Short</p>
+<p>To his excellency B Magoffin Gov. of Kentucky your petitioners citizens of Hart county would respectfully request of your excellency to remit the above mentioned fine believing as we the case is one in which the executive as clemency may be properly exercised</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Jno. Donan
+<lb/>James T. Brown
+<lb/>A M Adair
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Knight J<hi rend="underline"><hi rend="sup">r</hi></hi>
+<lb/>J E Lafferty
+<lb/>H S Shoudy
+<lb/>J W F M paterick
+<lb/>A V Enlow
+<lb/>R. E. Rucker
+<lb/>Robert Armstrong
+<lb/>J. A Markwell
+<lb/>Dr W W Drane
+<lb/>John. W. Key
+<lb/>J B Waddle
+<lb/><unclear/> Tharp
+<lb/>Lewis B knight
+<lb/>W. B. Brown
+<lb/>J. Ryan
+<lb/>W, H, H, Jett
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Knight Sen<hi rend="underline"><hi rend="sup">r</hi></hi>
+<lb/>D. W. W. Ditman
+<lb/><cb n="2"/>R. S. Danron
+<lb/>J, B, Chapline
+<lb/>Ja<hi rend="sup">s</hi> A. Dawson
+<lb/>W, B, Craddock
+<lb/>J, A, Waldeck
+<lb/>John P Lewis
+<lb/>M. Ettlinger
+<lb/>Plesant Purkins
+<lb/>H. D. Jett
+<lb/>William D Richardson
+<lb/>H,, B,, White
+<lb/>J. J. Dawsons,
+<lb/>W<hi rend="sup">m</hi> Gibson
+<lb/>D,, G, Overfell
+<lb/>T. H. Logsden
+<lb/>J. A. Edwards
+<lb/>R. T. Munford
+<lb/>Jans Goin
+<lb/>P Buckner
+<lb/>J. T. S. Brown sr
+<lb/>W, C, M, Thomas
+<lb/>J. P Knight<pb/>
+<lb/><cb n="1"/>J M Stotts
+<lb/>Lewis Caswell
+<lb/>J M Averey
+<lb/>A J Gardner
+<lb/>William. T. Maupin
+<lb/>Jesse Fuqua
+<lb/>Robert T Poor
+<lb/>A Wilkerson
+<lb/>J,, A,, Thomas
+<lb/>F A Smith
+<lb/>Wm M. Wright
+<lb/>A. M. Goodman
+<lb/><cb n="2"/>J. W. Edwards County Atty
+<lb/>John. f. Kerr
+<lb/>George. J. Goodman
+<lb/>G W, Jones
+<lb/>Thomas Higsdon
+<lb/>W. D. Lester
+<lb/>W G Thorpe
+<lb/>W B Thompson
+<lb/>Wm Grubb
+<lb/>Nathan A Mcdowel
+<lb/>B, H Jones<milestone unit="column" n="1"/><pb/></p>
+<p>Hart E &amp; C Ct
+<lb/>Remitted
+<lb/>B. M.
+<lb/>$40 } Assault
+<lb/>Oliver Clark &amp; others
+<lb/>Iss<hi rend="sup">d</hi>. M=<date when="1861-09-07">Sept 7<hi rend="underline"><hi rend="sup">th</hi></hi> 1861</date></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-2186"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Joseph Pfieffer to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG9262</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG24-296</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency B Magoffin Esq<hi rend="sup">r</hi>
+<lb/>govnor of the Commonwealth of Kentucky</p>
+<p>Your Petitioner Joseph Piefeffer stats that he was taken up by the Police court of Frankfort charged with Selling Whisky to A. W. Macklins negro &amp; Fogg -- negro &amp; Henry Murrys negro on Sunday morning between 5 &amp; 6 oclock <hi rend="underline">A. M.</hi> on the <date when="1861-02-03">3rd of February 1861</date> <hi rend="str">he S</hi> and also for his man Selling Whisky your Petitioner States that he has been unwell and thought he had the right for to direct his Slave to waite on any one that came in in the former cases his Roberts was in my house when the 3 negroes came in and I think will State that the negros got no whisky or anything else in my house your Petitioner States that he was fined $20 -- in each case before the police court on the <date when="1861-02-09">9<hi rend="sup">th</hi> day of February 1861</date> Wherefore he prays that you would remit said fines amounting to $80.00 in all,</p>
+<p>Joseph Pfieffer</p>
+<p>We aske that you remit the above fines as your Petitioner is a good citizen and tryes to do right</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>D. M. Jolley
+<lb/>James Shannon
+<lb/>J. Dudley
+<lb/>E.. H. Tole
+<lb/>W<hi rend="sup">m</hi> B Tremere
+<lb/>A F Payne
+<lb/><cb n="2"/>Ja<hi rend="sup">s</hi> P. O'Hara
+<lb/>Nelson Allay
+<lb/><hi rend="underline">W. H Greenup</hi>
+<lb/>A. Kuhr
+<lb/>J. M. Helms
+<lb/>B. F. Johnson<milestone unit="column" n="1"/><pb/>
+<lb/>J. M. Withrow</p>
+<p>If the Governor is satisfied that the liquor was not sold We think the fine ought to be remitted</p>
+<p>Jno. M Harlan</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>John Bolgere Jr
+<lb/>L. W. Winter
+<lb/>H. R. Powell
+<lb/><cb n="2"/><hi rend="underline">Grant Green</hi>
+<lb/>W Vanlandingham
+<lb/><hi rend="underline">M. B. Chism</hi><milestone unit="column" n="1"/><pb/>
+<lb/>Joseph Pfeiffer
+<lb/>vs } Pet
+<lb/>Commonwealth<figure type="hr"/>
+<lb/>Respite 12 mo
+<lb/><hi rend="str">Rejected</hi>
+<lb/>B. M</p>
+  </body>
+ </text>
+</TEI>

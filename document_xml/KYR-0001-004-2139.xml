@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2139"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">James R. W. Smith to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6776</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR14-365 to BR14-366</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date when="1865-07-28">28 July 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Louisville Kentucky
+<lb/><date when="1865-07-28">July 28<hi rend="sup">th</hi> 1865</date>
+<lb/>Thomas E. Bramlette
+<lb/>Governor of Kentucky
+<lb/>Dear Sir</p>
+<p>I beg leave to state to your excellency that I attended to the enclosed petition for Mrs Whalen the Mother of William Whalen now confined in the States prison for the term of one year. Nine of the jurors signed the petition, they did so willingly without the least hesitancy and expected a strong desire for the release of young Whalen. The three jurors whose names do not appear upon the petition are absent from this locality and though all has been done that could be to see them and secure their names -- it has been fruitless owing to their continued absence, one is abroad, one is sojourning in an eastern state and<pb/>
+<lb/>the other is in the upper portion of this or in an adjoining country. there is no fear whatever, but they would sign the petition if they could be reached but as the petition has been delayed longer than was anticipated and the family, and friends anxious for the release of the young man it is forwarded to your excellency by the mother in hope that it will receive a careful consideration and if consistent with your wishes secure an immediate release of the young man.</p>
+<p>Respectfully
+<lb/>Your friend
+<lb/><hi rend="underline">James R W Smith</hi></p>
+  </body>
+ </text>
+</TEI>

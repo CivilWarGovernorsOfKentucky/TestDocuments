@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-018-0319"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John W. Finnell to Nathaniel Gaither, Jr.</title>
+    <title level="a" type="parallel">CWG8385</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Military Appointments, 1859-1862</collection>
+      <idno>MG6-434</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1862-06-06">6 June 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><figure type="seal"><ab>UNITED WE STAND, DIVIDED WE FALL.
+<lb/>KENTUCKY.</ab></figure>
+<lb/>Head-Quarters Kentucky Volunteer Militia,
+<lb/>ADJUTANT GENERAL'S OFFICE,
+<lb/>Frankfort, <date when="1862-06-06">6 June 1862</date>.</p>
+<p>Hon: Nat Gaither Jr. Sec: of State_</p>
+<p>I send thirty nine Commissions for record viz:
+<lb/><table rend="rules">
+<row>
+	<cell>Edward S. Cooper</cell>
+	<cell>Ass<hi rend="sup">t</hi> Sur:</cell>
+	<cell><date when="1862-05-31">31</date></cell>
+	<cell>May</cell>
+	<cell>1862</cell>
+	<cell>#1</cell>
+</row>
+<row>
+	<cell>W<hi rend="sup">m</hi> A Morgan</cell>
+	<cell>2 Lieut</cell>
+	<cell><date when="1862-06-04">4</date></cell>
+	<cell>June</cell>
+	<cell>"</cell>
+	<cell>" 2</cell>
+</row>
+<row>
+	<cell>Daniel O Morin</cell>
+	<cell>" "</cell>
+	<cell><date when="1862-05-03">3</date></cell>
+	<cell>May</cell>
+	<cell>"</cell>
+	<cell>" 3</cell>
+</row>
+<row>
+	<cell>W<hi rend="sup">m</hi> B Johnson</cell>
+	<cell>1 "</cell>
+	<cell><date when="1862-05-03">"</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>" 4</cell>
+</row>
+<row>
+	<cell>Jno. A. Joyce</cell>
+	<cell>2 "</cell>
+	<cell><date when="1862-03-09">2<hi rend="str">2</hi>9</date></cell>
+	<cell>Mar</cell>
+	<cell>"</cell>
+	<cell>" 5</cell>
+</row>
+<row>
+	<cell>Fountaine Goodpaster</cell>
+	<cell>1 "</cell>
+	<cell><date when="1862-03-09">"</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>" 6</cell>
+</row>
+<row>
+	<cell>Jesse Nelson</cell>
+	<cell>2 "</cell>
+	<cell><date when="1862-04-09">9</date></cell>
+	<cell>Ap<hi rend="sup">l</hi></cell>
+	<cell>"</cell>
+	<cell>" 7</cell>
+</row>
+<row>
+	<cell>Jno. Kinney</cell>
+	<cell>1 "</cell>
+	<cell><date when="1862-03-28">28</date></cell>
+	<cell>Mar</cell>
+	<cell>"</cell>
+	<cell>" 8</cell>
+</row>
+<row>
+	<cell>James M<hi rend="underline"><hi rend="sup">c</hi></hi>Christy</cell>
+	<cell>2 "</cell>
+	<cell><date when="1862-03-28">"</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>" 9</cell>
+</row>
+<row>
+	<cell>Tho. Lillys</cell>
+	<cell>" "</cell>
+	<cell><date when="1862-05-02">2</date></cell>
+	<cell>May</cell>
+	<cell>"</cell>
+	<cell>" 10</cell>
+</row>
+<row>
+	<cell>James Blue</cell>
+	<cell>Capt;</cell>
+	<cell><date when="1862-05-02">"</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>" 11</cell>
+</row>
+<row>
+	<cell>David G Howell</cell>
+	<cell>2 Lieut</cell>
+	<cell><date when="1862-03-17">17</date></cell>
+	<cell>Mar</cell>
+	<cell>"</cell>
+	<cell>" 12</cell>
+</row>
+<row>
+	<cell>James Caughlin</cell>
+	<cell>1 "</cell>
+	<cell><date when="1862-03-17">"</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>" 13</cell>
+</row>
+<row>
+	<cell>James M Anderson</cell>
+	<cell>Capt</cell>
+	<cell><date when="1862-03-08">8</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>"14</cell>
+</row>
+<row>
+	<cell>James Sympson</cell>
+	<cell>Sur</cell>
+	<cell><date when="1862-01-05">5</date></cell>
+	<cell>Jan</cell>
+	<cell>"</cell>
+	<cell>" 15</cell>
+</row>
+<row>
+	<cell>Charles M. Sallee</cell>
+	<cell>2 Lieut</cell>
+	<cell><date when="1862-04-19">19</date></cell>
+	<cell>Apl</cell>
+	<cell>"</cell>
+	<cell>" 16</cell>
+</row>
+<row>
+	<cell>Christ<hi rend="sup">o</hi> C. Christie</cell>
+	<cell>1 "</cell>
+	<cell><date when="1862-04-19">"</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>" 17</cell>
+</row>
+</table><pb/>
+<lb/><table rend="rules">
+<row>
+	<cell>Tucker W. Sullivan</cell>
+	<cell>2 Lieut:</cell>
+	<cell><date when="1862-04-18">18</date></cell>
+	<cell>Ap</cell>
+	<cell>1862</cell>
+	<cell>#18</cell>
+</row>
+<row>
+	<cell>Sam G Cabbell</cell>
+	<cell>1 "</cell>
+	<cell><date when="1862-04-23">23</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>" 19</cell>
+</row>
+<row>
+	<cell>W<hi rend="sup">m</hi> L Despain</cell>
+	<cell>2 "</cell>
+	<cell><date when="1862-04-14">14</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>" 20</cell>
+</row>
+<row>
+	<cell>Nathan G Forbush</cell>
+	<cell>1 "</cell>
+	<cell><date when="1862-04-16">16</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>" 21</cell>
+</row>
+<row>
+	<cell>Champness D Butler</cell>
+	<cell>" "</cell>
+	<cell><date when="1862-05-10">10</date></cell>
+	<cell>May</cell>
+	<cell>" </cell>
+	<cell>" 22</cell>
+</row>
+<row>
+	<cell>James M Bradley</cell>
+	<cell>2 "</cell>
+	<cell><date when="1862-05-15">15</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>" 23</cell>
+</row>
+<row>
+	<cell>W<hi rend="sup">m</hi> H Strutton</cell>
+	<cell>1 "</cell>
+	<cell><date when="1862-05-15">"</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>" 24</cell>
+</row>
+<row>
+	<cell>Giles A Gallup</cell>
+	<cell>Capt</cell>
+	<cell><date when="1862-05-15">"</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>" 25</cell>
+</row>
+<row>
+	<cell>Joel S. Veluzet</cell>
+	<cell>2 Lieut.</cell>
+	<cell><date when="1862-04-28">28</date></cell>
+	<cell>Ap</cell>
+	<cell>"</cell>
+	<cell>" 26</cell>
+</row>
+<row>
+	<cell>Patrick G Fisher</cell>
+	<cell>1 "</cell>
+	<cell><date when="1862-04-28">"</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>" 27</cell>
+</row>
+<row>
+	<cell>Ben V. Banks -- </cell>
+	<cell>Capt</cell>
+	<cell><date when="1862-04-19">19</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>" 28</cell>
+</row>
+<row>
+	<cell>W<hi rend="underline"><hi rend="sup">m</hi></hi> S. Johnson</cell>
+	<cell>1 Lieut-</cell>
+	<cell><date when="1862-03-22">22</date></cell>
+	<cell>Mar</cell>
+	<cell>"</cell>
+	<cell>" 29</cell>
+</row>
+<row>
+	<cell>Geo W. Warmoth</cell>
+	<cell>Ass Surg:</cell>
+	<cell><date when="1862-03-20">20</date></cell>
+	<cell>Mar</cell>
+	<cell>"</cell>
+	<cell>" 30</cell>
+</row>
+<row>
+	<cell>A. P. Brown</cell>
+	<cell>2 Lieut -- </cell>
+	<cell><date when="1862-04-17">17</date></cell>
+	<cell>Ap:</cell>
+	<cell>"</cell>
+	<cell>" 31</cell>
+</row>
+<row>
+	<cell>B. F. Powell</cell>
+	<cell>1 -- </cell>
+	<cell><date when="1862-04-17">"</date> -- </cell>
+	<cell>" -- </cell>
+	<cell>" -- </cell>
+	<cell>" 32</cell>
+</row>
+<row>
+	<cell>Matthew Cullen</cell>
+	<cell>2 " -- </cell>
+	<cell><date when="1862-05-04">4</date></cell>
+	<cell>May</cell>
+	<cell>" -- </cell>
+	<cell>"- 33</cell>
+</row>
+<row>
+	<cell>W<hi rend="underline"><hi rend="sup">m</hi></hi> M Bramlett</cell>
+	<cell>" -- "</cell>
+	<cell><date when="1862-05-04">"</date> -- </cell>
+	<cell>" -- </cell>
+	<cell>" -- </cell>
+	<cell>" 34</cell>
+</row>
+<row>
+	<cell>James M Bristow</cell>
+	<cell>" -- "</cell>
+	<cell><date when="1862-05-04">"</date> -- </cell>
+	<cell>" -- </cell>
+	<cell>" -- </cell>
+	<cell>" 35</cell>
+</row>
+<row>
+	<cell>John W. Tuttle</cell>
+	<cell>Capt -- </cell>
+	<cell><date when="1862-05-04">"</date> -- </cell>
+	<cell>"</cell>
+	<cell>" -- </cell>
+	<cell>" 36</cell>
+</row>
+<row>
+	<cell>Geo. W. Roberts</cell>
+	<cell>" -- </cell>
+	<cell><date when="1862-05-04">"</date> -- </cell>
+	<cell>"</cell>
+	<cell>" -- </cell>
+	<cell>" 37</cell>
+</row>
+<row>
+	<cell>Tho M Selby Jr</cell>
+	<cell>Q<hi rend="sup">r</hi> Mas</cell>
+	<cell><date when="1862-05-04">"</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>" 38</cell>
+</row>
+<row>
+	<cell>Geo. W. M<hi rend="sup">c</hi>Clure</cell>
+	<cell>1 Lieut</cell>
+	<cell> -- <date when="1862-05-04">"</date> -- </cell>
+	<cell>"</cell>
+	<cell>" -- </cell>
+	<cell>" 39</cell>
+</row>
+</table>
+<lb/>Very Resp<hi rend="sup">ly</hi>
+<lb/>John W. Finnell
+<lb/>Adj<hi rend="sup">t</hi> Gen<hi rend="sup">l</hi></p>
+  </body>
+ </text>
+</TEI>

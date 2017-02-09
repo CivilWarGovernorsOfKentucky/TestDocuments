@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-003-0012"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">W. T. Poynter to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG1529</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's Official Correspondence File, Military Correspondence, 1863-1867</collection>
+      <idno>BR5-16</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1863-10-07">7 October 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Quarter Master Generals Office
+<lb/>Frankfort <date when="1863-10-07">Oct 7 1863</date>
+<lb/>To His Excellency
+<lb/>Tho<hi rend="sup">s</hi> E Bramlette
+<lb/>Gov<hi rend="sup">r</hi> of Ky
+<lb/>Sir</p>
+<p>I have the honor to report that during the month of September I audited and passed for payment out of the Recruiting Fund, claims which for convenience are classified as follows viz</p>
+<p><table rend="rules">
+<row>
+	<cell>Arsenal</cell>
+	<cell>467.43</cell>
+</row>
+<row>
+	<cell>Army Contingencies</cell>
+	<cell>1448 20</cell>
+</row>
+<row>
+	<cell>Clothing</cell>
+	<cell>22 00</cell>
+</row>
+<row>
+	<cell>Camp Equipage</cell>
+	<cell>214 48</cell>
+</row>
+<row>
+	<cell>Fuel</cell>
+	<cell>141 25</cell>
+</row>
+<row>
+	<cell>Forage</cell>
+	<cell>590 22</cell>
+</row>
+<row>
+	<cell>Hospital</cell>
+	<cell>50 00</cell>
+</row>
+<row>
+	<cell>Office Expense</cell>
+	<cell>135 75</cell>
+</row>
+<row>
+	<cell>Telegraphing</cell>
+	<cell>340 49</cell>
+</row>
+<row>
+	<cell>Printing</cell>
+	<cell>84 22</cell>
+</row>
+<row>
+	<cell>Recruiting</cell>
+	<cell>48 75</cell>
+</row>
+<row>
+	<cell>State Gaurd</cell>
+	<cell>7 50</cell>
+</row>
+<row>
+	<cell>Salaries</cell>
+	<cell>1297 48</cell>
+</row>
+<row>
+	<cell>Straw</cell>
+	<cell>12 00</cell>
+</row>
+<row>
+	<cell>Subsistence</cell>
+	<cell>1667 12</cell>
+</row>
+<row>
+	<cell>Transportation</cell>
+	<cell><hi rend="underline">1527 47 $8054 36</hi></cell>
+</row>
+</table><pb/></p>
+<p>This report embraces only those claims presented between the <date when="1863-09-01">1<hi rend="sup">st</hi></date> and <date when="1863-09-30">30<hi rend="underline"><hi rend="sup">th</hi></hi> days inclusive of September</date>. and amount in the aggregate to Eight-thousand and fifty four dollars and thirty six cents -- </p>
+<p>Resply &amp;
+<lb/>W. T. Poynter
+<lb/>Auditing clerk of Q. M. G. Office</p>
+<p>Report of W. T. Poynter of claims passed by him for paymnt during the month of <date when="1863-09">September 1863</date></p>
+  </body>
+ </text>
+</TEI>

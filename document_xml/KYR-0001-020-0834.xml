@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0834"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Henry J. Stites to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10302</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG19-312</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Hopkinsville, Christian County, Kentucky</placeName>
+    <date when="1861-03-22">22 March 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Hopkinsville
+<lb/><date when="1861-03-22">March 22<hi rend="sup">d</hi> 1861</date>
+<lb/>Gov. Magoffin
+<lb/>Frankfort
+<lb/>Ky.
+<lb/>My dear sir</p>
+<p>At the present term of the Christian Circuit one George Long -- a free man of color -- born and raised in our town was convicted of a misdemeanor and sentenced to pay a fine and to three months imprisonment in the County Jail.</p>
+<p>The offense with which he was charged was an assault upon a white man.</p>
+<p>I am not accurately or minutely informed as to the facts -- that is -- I did not hear the trial. But from the statements of those who were present at the trial and cognizant of the facts I am well persuaded that George<hi rend="sup">s</hi> case <hi rend="str">presents</hi> ^is^ one that is entitled to executive clemency.</p>
+<p>I have known him from childhood. He belonged for many years to a highly respectable family of this place and with whom I have always been intimate. George has always been remarkable for his good behavior and especially for his humility and politeness. His former-owners say that he never was insolent or insubordinant and I have no doubt of the truth of their statements. For many years he lived a close neighbor to me and a more polite humble or better behaved boy I never<pb/>
+<lb/>knew. And until charged with this offense -- although he has been free for many years -- he has never been suspected of any impropriety even the least.</p>
+<p>I believe the community here would be highly gratified that he should be pardoned -- indeed there is a very decided desire that he should. And from my knowledge of George and the information I have of the facts, I do believe his case merits and should recieve the favorable consideration of your excellency</p>
+<p>Very Respfly
+<lb/>Yr friend
+<lb/>Henry J. Stites</p>
+  </body>
+ </text>
+</TEI>

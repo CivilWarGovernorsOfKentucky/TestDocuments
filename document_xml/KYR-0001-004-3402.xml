@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-3402"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Fenley et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG5521</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR42-277 to BR42-278</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Grant County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency T E Bramlette,</p>
+<p>The Undersigned your petitioners would respectfully represent that Perry Kennady was at the <date when="1853-04">April term of the Grant Circuit Court for 1853</date> fined the sum of Sixty dollars for keeping a tipling house and at the <date when="1853-09">September term of said court for 1853</date>, he was fined the further sum of Sixty dollars for a like offense. The said Perry Kennady is a poor man has a family of seven children residing with him. has three sons now in the army of the United States and one son who died in the service- his family are dependant upon his daily labor for a support the said Kennady has since the above fines were imposed upon him been a peacable law abiding man, your petitioners would further represent that in their opinion the case of the said Kennady is such as to demand the interposition of your<pb/>
+<lb/>excellencys clemency</p>
+<p>Wherefore your petitioners would respectfully ask that your excellency remit the fines aforesaid.</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>John Fenley.M.D
+<lb/>Weden Oneal
+<lb/>G. L. Huey
+<lb/>A. F. Hogsett
+<lb/>M. L. Collins
+<lb/>J B Kniffin M. D.
+<lb/>Ja<hi rend="underline"><hi rend="sup">s</hi></hi> T. Taylor
+<lb/>D. E. Craig
+<lb/>C D Reed
+<lb/>Jno. J. Smith
+<lb/>B F, Day
+<lb/>L Fenly
+<lb/>L. F. Dickerson
+<lb/>Tho<hi rend="sup">s</hi> A Franklin C. G. C. C.
+<lb/>N. H. Jeffers clk Grant cir ct
+<lb/>J. W. Linn
+<lb/>J. E. <unclear/>
+<lb/><cb n="2"/>E. H. Smith
+<lb/>W. T. Simmons<milestone unit="column" n="1"/><pb/>
+<lb/>Grant Cir Ct
+<lb/>vs
+<lb/>Perry Kennady
+<lb/>Refused
+<lb/><date when="1864">64</date></p>
+  </body>
+ </text>
+</TEI>

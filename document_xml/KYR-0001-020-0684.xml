@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0684"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Braxton Clark et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10152</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG19-31</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Logan County, Kentucky</placeName>
+    <date when="1861-02-11">11 February 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Logan County Kentucky <date when="1861-02-11">Feb 11<hi rend="sup">th</hi> 1861</date>
+<lb/>To His Excellency the Governor of Kentucky</p>
+<p>Whereas Summerset Cooksey of Logan county Ky has been fined in two cases in the Criminal Court of Said County the fines amount to one Hundred And Twenty Dollars and were assessed Some two or three years ago but have not been paid off Mr Cooksey is an Aged and Verry infirm Man And the Sheriff is now threatening to put him in the county Jail for the fines We therefore Humbly pray you to <hi rend="str">Reprieve</hi> Remit the fines together with the costs we believe it would be an act of Justice as well as Mercy we therefore Respectfully Solicit you to give the case due consideration with as little delay as possible Respectfully &amp;c</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Names
+<lb/>Braxton Clark
+<lb/>Ed. E. Moss
+<lb/>Jno. O. Sloss
+<lb/>J. C. Wilson
+<lb/>L G. Richardson
+<lb/>G Holoway
+<lb/>G <unclear>Vackin</unclear>
+<lb/>H. C. Craften
+<lb/>B Craften
+<lb/>H. H. Blake
+<lb/><cb n="2"/>Names
+<lb/>J M mcendderie
+<lb/>John M mcinderie
+<lb/>J. C. Fodrel
+<lb/>R C Beauchamp
+<lb/>W. D. Fortner
+<lb/>J J. Williams
+<lb/>Silas Edmondson
+<lb/>William Edmondson
+<lb/>William Madden
+<lb/>Eli Graham<milestone unit="column" n="1"/><pb/>
+<lb/>Names
+<lb/>W T Craften
+<lb/>W W Kinge
+<lb/>T Mase
+<lb/>G Malkner
+<lb/>W M Ekins
+<lb/>A Hardison Jr
+<lb/>J. W. Moore
+<lb/>W. G. Hardison</p>
+<p>Logan 
+<lb/>Crim Ct
+<lb/>2 Jugt
+<lb/>each $60
+<lb/>J. Cooksey
+<lb/>Respite 12 mo
+<lb/>B. M.
+<lb/>Iss<hi rend="sup">d</hi> <date when="1861-02-27">Feby 27 '61</date></p>
+  </body>
+ </text>
+</TEI>

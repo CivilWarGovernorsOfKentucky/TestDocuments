@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0161"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">W. Anthony to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG9629</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG17-88 to MG17-89</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Greenville, Muhlenberg County, Kentucky</placeName>
+    <date when="1860-11-16">16 November 1860</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Greenville Ky <date when="1860-11-16">Nov. 16<hi rend="underline"><hi rend="sup">th</hi></hi> 60</date>
+<lb/>Gov<hi rend="underline"><hi rend="sup">r</hi></hi> Magoffin</p>
+<p>At the instance of my friend Jos. Ricketts the counsel of Stephen Duvald convicted in the M<hi rend="sup">c</hi>Lean Circuit Court of Murder, you will allow me to say that I was present at the trial of said Duvald and it was my opinion from the evidence that he is a man of very weak mind and when intoxicated easily misled -- His character as proven was that of a weak simple man and nothing of the felon -- </p>
+<p>He has a kind good old mother whose heart is now almost crushed by the fate of her son -- If any thing was necessary to awaken the sympathy &amp; clemency of your known generous nature, the plea of the good widow would be ample -- </p>
+<p>I wish in her behalf to join in the petition of the Jurors, the Judge of the Court and attorney for the state and respectfully ask the exercise of that clemency which has ever distinguished the Chief Magistrates of our old commonwealth -- </p>
+<p>Respectfully
+<lb/>W. Anthony of Owensboro -- </p>
+  </body>
+ </text>
+</TEI>

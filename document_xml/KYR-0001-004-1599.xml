@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1599"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">O. A. Reynolds to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6236</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR13-36 to BR13-37</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1865-03-20">20 March 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency
+<lb/>Thomas E. Bramlette
+<lb/>Governor of Kentucky</p>
+<p>Your Petitioner would respectfully represent that on the <date when="1863-06-25">25<hi rend="sup">th</hi> day of June 1863</date> he was tried in the Lexington City Court for an assault and Battery Committed on George Lancaster and upon said Trial was fined in the sum of Forty Dollars, That at the trial of the case no witness was introduced except said Lancaster. who made a prejudiced statement of the facts. That the only witness present at the time of the occurrence was Garrett Totten, who at that time was in the state of Indiana. That he sent a notice to said Totten to attend the trial which notice he did not receive until the time of Trial mentioned in the same and which was really the true time. That feeling confident that the facts of the case were in his favor and knowing the inconvenience to which his witness would be placed to attend he went to trial without him. That he has already paid as Costs and fees in said about the sum of Twenty Dollars leaving unpaid about 10$ or 15.$ as costs, in view of these facts your<pb/>
+<lb/>Petitioner would respectfully ask a remission of said fine except as to Costs and fees</p>
+<p>O. A. Reynolds</p>
+<p>Sworn to before me by O A Reynolds <date when="1865-03-20">March 20" 1865</date></p>
+<p>att Jno B Norton c f c c<figure type="hr"/></p>
+<p>I have read the Petition above of O. A. Reynolds and I certify that the facts set out with reference to the sending to me and receipt by me of the notice to attend his trial and time. I was present at the time of the difficulty, and I am decidedly of opinion that Mr Reynolds ought not to have been fined for the occurrence between him and Mr Lancaster</p>
+<p>G. ^his X mark^ Totten</p>
+<p>Witness Jno B Norton</p>
+<p>Sworn to before me by Garrett Totten <date when="1865-03-20">March 20" 1865</date></p>
+<p>att Jno B Norton clk
+<lb/>Fay. Cir Ct.</p>
+<p>I know nothing of the facts of this case but I know O. A. Reynolds and he is a worthy industrious citizen of good character &amp; I would give full credit to his statements</p>
+<p>Jn. B. Huston
+<lb/>J. F. Robinson jr<pb/></p>
+<p>Lexington City Ct
+<lb/>vs
+<lb/>O. A. Reynolds
+<lb/>$40.
+<lb/>Remitted
+<lb/><date when="1865-03-22">22<hi rend="sup">d</hi> Mch/65</date></p>
+  </body>
+ </text>
+</TEI>

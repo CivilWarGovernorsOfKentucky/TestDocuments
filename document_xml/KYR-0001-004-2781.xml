@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2781"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">William E. Russell et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7418</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR17-44</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Columbia, Adair County, Kentucky</placeName>
+    <date when="1865-12-07">7 December 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency Thomas E Bramlette
+<lb/>Governor of Kentucky</p>
+<p>The undersigned represent to Your Excellency that at the <date when="1865-11">November term 1865</date> of the Adair Circuit Court, James Cundiff was adjudged to pay a fine of Twenty five dollars on an Indictment of an assault on the person of B F. Loving. Said Cundiff was an own Cousin of One W<hi rend="sup">m</hi> E Hancock, and Loving (in the absence of Hancock from home) had grossly insulted the wife of said Hancock which was the cause of the assault we pray that said Cundiff be relieved of said fine Except, Costs, and as in duty bound we will ever pray &amp;c,</p>
+<p>Columbia Ky <date when="1865-12-07">Decr 7<hi rend="underline"><hi rend="sup">th</hi></hi> 1865</date></p>
+<p>W<hi rend="underline"><hi rend="sup">m</hi></hi> E. Russell
+<lb/>Jn<hi rend="underline"><hi rend="sup">o</hi></hi> A Peebles
+<lb/>C. T. Dillingham
+<lb/>Will<hi rend="underline"><hi rend="sup">m</hi></hi> F Neat
+<lb/>W. H. Walker
+<lb/>Jo. Coffey
+<lb/>C R Page
+<lb/>James T. Page<pb/></p>
+<p>Copy of the Letter written by Loving
+<lb/><date when="1865-07-29">July 29<hi rend="underline"><hi rend="sup">th</hi></hi> 1865</date>
+<lb/>Mrs Hanco</p>
+<p>Adair Cir Ct
+<lb/>vs
+<lb/>Jas Cundiff
+<lb/>$25
+<lb/>Assault
+<lb/>Remitted <date when="1865-12-11">11 Dec/65</date></p>
+  </body>
+ </text>
+</TEI>

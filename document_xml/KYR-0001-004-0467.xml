@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0467"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Tom. L. Burnam to P. B. Hawkins</title>
+    <title level="a" type="parallel">CWG4586</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR9-233</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Bowling Green, Warren County, Kentucky</placeName>
+    <date when="1864-02-09">9 February 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Bowling Green <date when="1864-02-09">Feby 9<hi rend="sup">th</hi> 64</date>
+<lb/>Col P B Hawkins
+<lb/>Frankfort Ky
+<lb/>D<hi rend="sup">r</hi> Col</p>
+<p>Father tells me this morning that he had suggested to you that you would lay my name before the house in connexion with his &amp; Mr. Pillsburry's. I thought I would write you a line or two, giveing you Some <hi rend="underline">facts</hi>, which you might urge in behalf of my case. If you remember the President issued a proclamation shortly after the evactuation of Bowling Green by the Rebels inviting all, who might be under arms in rebellion, to return to their allegiance in Sixty days.</p>
+<p>I availed myself of said proclamation, haveing had nothing to do whatever with said rebellion, after about the <date when="1862-03-01">1<hi rend="sup">st</hi> of March 1862</date>, though I did not come to Kentucky, untill about the <date when="1862-06-10">10<hi rend="sup">th</hi> of June</date> thereafter. However I have been insides of the Federal lines, Since the <date when="1862-04-01">1<hi rend="sup">st</hi> of April 1862</date>. I have (as you probably know) taken the oath, given bond, as required under said proclamation, and now I find I am <hi rend="underline">idicted</hi> in the Civil Courts, for "<hi rend="underline">Treason" "Conspiring</hi>" &amp;c, when I thought, in availing myself of the President's clemency and returning to my allegiance. I was then released in full. And I hope the clemency of the Legislature will relieve me. If the Legislature is so pressed with buisiness, that she can't act. will you be so kind as to lay my case before the Governor, and ask for a <hi rend="underline">respite</hi> untill the ^next^ session. I could send a petition if it was necessary, but hope your statements &amp;c, will suffice. Your attention to the above will greatly oblige</p>
+<p>Your friend
+<lb/>Tom L. Burnam
+<lb/>x over<pb/></p>
+<p>P.S. Father says if you succeed either before the Legislature, or in obtaing a <hi rend="underline">respite</hi>, that you bring Such papers home with you, when you come.</p>
+<p>T L B
+<lb/>No news. The friends are all well</p>
+<p>Warren Cir Ct
+<lb/>vs
+<lb/>T. L. Burnam
+<lb/>Indicted for Treason
+<lb/>Respited
+<lb/><date when="1864-02-11">11<hi rend="sup">th</hi> Feby 1864</date></p>
+  </body>
+ </text>
+</TEI>

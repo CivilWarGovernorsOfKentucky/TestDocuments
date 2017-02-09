@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-028-0020"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">R. B. Twyman to James F. Robinson</title>
+    <title level="a" type="parallel">CWG7675</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Appointments by the Governor, Military Appointments, 1862-1863</collection>
+      <idno>R2-138 to R2-139</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Paducah, McCracken County, Kentucky</placeName>
+    <date when="1862-08-24">24 August 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Paducah Ky
+<lb/><date when="1862-08-24">Aug. 24<hi rend="sup">th</hi> 1862</date>
+<lb/>Gov. Jas. F Robinson
+<lb/>Frankfort, Ky.
+<lb/>Sir.</p>
+<p>I would most respectfully recommend Dr. A de Lazynski as a proper person for the position of examining Surgeon in the Draft of the Militia in this county, recently ordered by the Federal Government</p>
+<p>As to qualifications, both, as a man of eminent position in his profession, and as an ardent loyal, Union citizen, there is no one his superior in the county.</p>
+<p>Hoping you will give to Dr. L's. claims a favorable consideration,</p>
+<p>I have the honor to be,
+<lb/>Very Respectfully
+<lb/>Your Obt. Serv.
+<lb/>R. B. Twyman</p>
+<p>P.S. I should have stated that<pb/>
+<lb/>Dr. Lazynski was recently acting Senior Assistant Surgeon, in the 6<hi rend="sup">th</hi> Illinois Cavalry, which position he was forced to resign on account of ill health.</p>
+<p>Very Respectfully, &amp;c
+<lb/>R. B. Twyman<pb/></p>
+<p><unclear/> Twyman
+<lb/>letter recommendation
+<lb/>Surgeon</p>
+  </body>
+ </text>
+</TEI>

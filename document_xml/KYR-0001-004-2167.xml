@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2167"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">George W. Thompson to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG6804</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR14-403</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Covington, Kenton County, Kentucky</placeName>
+    <date when="1862-01-08">8 January 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Cov. Ky <date when="1862-01-08">Jan 8<hi rend="sup">th</hi> 1862</date>
+<lb/>To the Honourable Beriah Magoffin
+<lb/>Governor of Kentucky</p>
+<p>Your Petitioner George ,W, Thompson Says that at the <date when="--12">December Term</date> of the Kenton Circuit Court at Covington Ky That he was fined in two Cases fifty dollars Each for selling Liquors to Minors he states that he had a boy hired to attend to his "Bar" and that he sold to one Belin and one Blackburn that he had the consent of Belins father but not in Writing that he thought Blackburn was at Least 22 years old but he has no Doubt that he violated the law but did not Know it at the time nor did he believe he could be fined for what his clerk done in the premises as he had give him possitive orders to sell to no one under the age of 21 years <hi rend="str">he</hi> <hi rend="str">f<unclear/></hi> <hi rend="str"><unclear/></hi> <hi rend="str"><unclear/> <unclear/> <unclear/></hi> <hi rend="str">paid</hi> <hi rend="str">the</hi> <hi rend="str">Comwth</hi> <hi rend="str">attorney</hi> <hi rend="str">his</hi> <hi rend="str">fee</hi> <hi rend="str">and</hi> <hi rend="str">the</hi> <hi rend="str">Costs</hi> <hi rend="str">of</hi> <hi rend="str">suit</hi> and hopes your Honour will release <hi rend="str"><unclear/></hi> <hi rend="str"><unclear/></hi> <hi rend="str"><unclear/></hi> the two fines and your Petitioner will Ever pray &amp;c</p>
+<p>George W Thompson</p>
+<p>I Attended to the trials for Deft in the two cases Mentioned above and the Testimony in Court <hi rend="str">is</hi>was as stated above and I believe the statements of G W Thompson are true</p>
+<p><hi rend="underline">S C Perrin</hi> Atty<pb/></p>
+<p>I am of the opinion that the within is a fitting case for Exexcutive clemency</p>
+<p>W E Arthur
+<lb/>Atty Cw'th</p>
+<p>Kenton Cir. Ct
+<lb/>G W Thompson
+<lb/>Petition<figure type="hr"/>
+<lb/>Respite 12 mo
+<lb/>B, M,
+<lb/>$50 2 cases } selling liquor to minors
+<lb/>Iss<hi rend="sup">d</hi> <date when="1862-01-17">Jany 17 1862</date><figure type="hr"/>
+<lb/>Remitted <date when="1865-08-24">24 Aug 1865</date></p>
+  </body>
+ </text>
+</TEI>

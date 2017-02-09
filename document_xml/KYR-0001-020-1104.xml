@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1104"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Beverly Wilson et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10572</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG20-212</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To the Governor of Kentucky</p>
+<p>The undersigned, your petitioners state that John O'Brien was indicted in the Scott Circuit Court for unlawfully selling liquor; nor found guilty at the <date when="1860-08">August term</date> and fined $60 in default of payment of which he was sent to jail and is now in confinement.</p>
+<p>The facts of the case, as the undersigned are informed, are briefly these: O'Brien was at work on a turnpike road, and a friend of his applied to him to sell him a quart of whiskey. He refused to sell, but <hi rend="underline">gave</hi> the man the liquor. Sometime afterward the man insisted on paying for it and threw down a dime and left. This was the whole offense. He is a poor man with a family of small children who depend upon his daily labor for support, and who would actually suffer for want of the necessaries of life, if his confinement is continued.</p>
+<p>It is therefore hoped that as much of the punishment as is within the power of the execution be remitted</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Beverly Wilson
+<lb/>G<hi rend="underline"><hi rend="sup">eo</hi></hi> W Bates
+<lb/>J E Gregg
+<lb/>E F Cantrill
+<lb/>B T Boswell
+<lb/>S. T Gano
+<lb/>J C Applegate
+<lb/>Sam<hi rend="sup">l</hi> W Thompson
+<lb/>C D Smith
+<lb/>Neersey Nutter
+<lb/><cb n="2"/>John F Cantrill
+<lb/>Alex Carrick
+<lb/>W<hi rend="sup">m</hi> Nutter
+<lb/>Ed Sway
+<lb/>Daniel Gano
+<lb/>Jas. E. Emison
+<lb/>Bat T Thompson
+<lb/>David Lay
+<lb/>James W Samuell
+<lb/>Joshua Talbott
+<lb/>John Beatty<pb/>
+<lb/><cb n="1"/>David Thomson
+<lb/>Jno M Glim
+<lb/>S. Gano
+<lb/>Jno. J. Moore
+<lb/>A Bards
+<lb/>Jno K Houston
+<lb/>John T Griffith
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> H. Salyers
+<lb/>John W Bradly Jr
+<lb/>George W Offutt
+<lb/>L Sharp
+<lb/>A B Barkey
+<lb/>B. F. Williams
+<lb/>Simeon Neale
+<lb/>Wm. F Moos.
+<lb/>Ben F. Bradley
+<lb/>Geo. W. Johnson
+<lb/>L B Offutt
+<lb/>J. S. Lindsey S. S. C
+<lb/>F. A. Ballenger
+<lb/>M. S. Dehoney
+<lb/>A O David
+<lb/>E. B. Senvall
+<lb/>J. F. Payne
+<lb/>B F Elliott
+<lb/>A Mallory
+<lb/><cb n="2"/>B T M Boyd
+<lb/>W. Samuell
+<lb/>S R Thomson
+<lb/>Geo. E. Prewitt
+<lb/>Jonathan Hedger
+<lb/>James Y Kelly
+<lb/>Samuel N Green
+<lb/>William R Webb
+<lb/>A. S. Bradley
+<lb/>R C Adams
+<lb/>Ja<hi rend="sup">s</hi> M Shepard
+<lb/>M Pack
+<lb/>Simeon Griffen
+<lb/>J. F. Robinson
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> A Lindsay
+<lb/>W. C. Graves
+<lb/>P Rankins
+<lb/>J F Neanry
+<lb/>S Y Keem
+<lb/>G. Keem<pb/><milestone unit="column" n="1"/></p>
+<p>Scott Cir Ct
+<lb/>$60. } Tipling
+<lb/>Jno. OBrien
+<lb/>Iss<hi rend="sup">d</hi> <date when="1861-05-22">May 22<hi rend="sup">d</hi> 1861</date></p>
+<p>Remitted 
+<lb/>B. M.</p>
+  </body>
+ </text>
+</TEI>

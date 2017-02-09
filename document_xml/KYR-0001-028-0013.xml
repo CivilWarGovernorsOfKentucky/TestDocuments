@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-028-0013"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John W. Finnell to Daniel C. Wickliffe </title>
+    <title level="a" type="parallel">CWG7668</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Appointments by the Governor, Military Appointments, 1862-1863</collection>
+      <idno>R2-130</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1862-08-22">22 August 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><figure type="seal"><ab>UNITED WE STAND, DIVIDED WE FALL.
+<lb/>KENTUCKY.</ab></figure>
+<lb/>Head-Quarters Kentucky Volunteers,
+<lb/>ADJUTANT GENERAL'S OFFICE
+<lb/>Frankfort, <date when="1862-08-22">Aug 22d 1862.</date>
+<lb/>Hon: D. C. Wickliffe
+<lb/>Sec State
+<lb/>Sir</p>
+<p>Lieut: Col<hi rend="sup">o</hi> Montgomery Howard has resigned (date of Com: <date when="1861-11-18">Nov 18, 1861.)</date></p>
+<p>Lt. James Tyler has resigned (date <date when="1861-11-11">Nov. 11. 1861)</date></p>
+<p>Lt. W<hi rend="underline"><hi rend="sup">m</hi></hi> Gilgore has resigned (date <date when="1861-11-19">Nov 19. 1861.)</date></p>
+<p>Lt. U. T. Merit has reisgned (date <date when="1861-10-08">Oct. 8. 1861.)</date></p>
+<p>Lt. A. Turner has resigned (date <date when="1862-04-08">Ap. 8. 1862.)</date></p>
+<p>Over<figure type="hr"/><pb/></p>
+<p>The following Comms have been issued and delivered viz:</p>
+<p>&amp;#x2713;W<hi rend="underline"><hi rend="sup">m</hi></hi> Knight Captain
+<lb/>&amp;#x2713;Daniel P. Walling 2<hi rend="sup">d</hi>. Lieut:
+<lb/>&amp;#x2713;Elin Logston 2<hi rend="sup">d</hi>. Lieut: Sup: } all dated <date when="1862-08-21">Aug. 21, 1862 -- </date><figure type="hr"/></p>
+<p>&amp;#x2713;John G. Pond Captain
+<lb/>&amp;#x2713;Reuben T. Scott 1st Lieut:
+<lb/>&amp;#x2713;John M. Cotton 2d Lieut
+<lb/>&amp;#x2713;Stephen Stone 2d. Lieut. super } all dated <date when="1862-08-21">Aug. 21, 1862</date><figure type="hr"/></p>
+<p>Very Resply
+<lb/>John W. Finnell
+<lb/>Adj<hi rend="sup">t</hi>. Gen<hi rend="sup">l</hi>. Ken. Vols:</p>
+<p><date when="1862-08-22">22. Aug. 1862</date></p>
+  </body>
+ </text>
+</TEI>

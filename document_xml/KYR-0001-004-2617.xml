@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2617"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Thomas E. Bramlette, Warrant</title>
+    <title level="a" type="parallel">CWG7254</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR16-188 to BR16-189</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1865-10-31">31 October 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Commonwealth of Kentucky,
+<lb/>EXECUTIVE DEPARTMENT.
+<lb/>I, Thomas E. Bramlette,
+<lb/>GOVERNOR OF SAID COMMONWEALTH,
+<lb/>TO ALL SHERIFFS AND CONSTABLES IN SAID COMMONWEALTH, GREETING:</p>
+<p>WHEREAS, It has been made known to me by W<hi rend="sup">m</hi> G Brownlow Governor of the State of Tennessee that a certain John W Scales of said State stands<hi rend="str"> indicted in the</hi> charged by affidavit &amp; warrant <hi rend="str">Court for</hi> issued by W<hi rend="sup">m</hi> H Smith with the crime of Murder a copy of which <hi rend="str">indictment</hi> warrant du<hi rend="str">ly</hi>ly authenticated, is now on file in this Department; and that the said John Scales -- has fled the State of <gap/>, thereby evading the justice of its laws, and is going at large within the limits of the State of Kentucky.</p>
+<p>Know Ye, Therefore, That I, THOMAS E. BRAMLETTE, Governor as aforesaid, do hereby require and enjoin all Sheriffis and Constables within this State to apprehend and arrest the said John W Scales, and upon his apprehension, to bring him before some Circuit Judge of this Commonwealth, that the Said Circuit Judge may proceed, by proper and legal testimony, to inquire into the matter, so far as shall be necessary, to ascertain the identity of the said John W Scales -- and if he is the person mentioned in this, my warrant, <gap/>, that the said Judge may order him to be delivered up to Henry Clark --, who has been duly authorized by the Governor of the State of Tennessee to receive and convey the said John W Scales -- to the State of Tennessee --, to be dealt with according to law: And in case the said Henry Clark -- should not appear to receive him, that the Judge may commit him, the said John W Scales to jail, on the charge aforesaid, to be dealt with according to the law: and that you report forthwith to the Governor of this Commonwealth your proceedings under this warrant. And furthermore, that if the said John W Scales -- shall be committed to the jail of any county in this State, that the Judge so committing him may immediately inform the Governor of this Commonwealth of the comitment thereof, and to what jail he has been committed.</p>
+<p>In Testimony Whereof, I have hereunto set my hand, and caused the Seal of the Commonwealth to be affixed, at FRANKFORT, the <date when="1865-10-31">31<hi rend="sup">st</hi> day of October in the year of our Lord one thousand eight hundred and sixty five</date>, and in the 74<hi rend="sup">th</hi> year of the Commonwealth.</p>
+<p><figure type="seal"><ab>SEAL OF KENTUCKY
+<lb/>UNITED WE STAND DIVIDED WE FALL</ab></figure></p>
+<p>Thos E Bramlette
+<lb/>BY THE GOVERNOR:
+<lb/>E L Van Winkle, SECRECTARY OF STATE.<pb/></p>
+<p><date when="1865-11-03">November 3 1865</date> I have arested the prisner J. W Sales namd in the within proclamation and brought him before the Judge of the First <unclear>Duttiteal</unclear> Destrick of Kentucky and by his ordr have Delivrd Said prisner to Henry Clark as Derected by Said Judge</p>
+<p>J C Calhoun sheriff of McCracken County Ky</p>
+<p>State of Tennessee
+<lb/>Williamson County</p>
+<p>On this <date when="1865-11-08">8<hi rend="sup">th</hi> day of November 1865</date>, Henry Clark produced and delivered to me the body of John W. Scales, to be taken by me as Jailer of said county and said John W. Scales was by me received from him and placed in the county jail of said county under the above mentioned charge. Witness my hand this <date when="1865-11-08">8<hi rend="sup">th</hi> day of November 1865</date>.</p>
+<p>Michael Cody Jailor of Williamson County</p>
+  </body>
+ </text>
+</TEI>

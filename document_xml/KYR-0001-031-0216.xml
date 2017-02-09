@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-031-0216"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">George O. Manchester to James W. Tate</title>
+    <title level="a" type="parallel">CWG7956</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Appointments by the Governor, Civil Appointments, 1862-1863</collection>
+      <idno>R1-299 to R1-300</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>New York City, New York County, New York</placeName>
+    <date when="1863-05-13">13 May 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>MANCHESTER &amp; NEMIRS,
+<lb/>Law Office,
+<lb/>114 NASSAU ST. NEW YORK.
+<lb/><date when="1863-05-13">May 13<hi rend="sup">th</hi> 1863</date>
+<lb/>Ja<hi rend="underline"><hi rend="sup">s</hi></hi> W. Tate Esqr
+<lb/>Asst Sec'y of State
+<lb/>Dear Sir</p>
+<p>Your favor of the <date when="1863-05-08">8<hi rend="sup">th</hi> inst,</date> enclosing commission, came duly to hand. I suppose from the reading of the document that I am authorized to act any where within the state, and am not confined to this county -- If I am in error, please advise me. I enclose my affidavit as required,</p>
+<p>Very respectfully
+<lb/>Your obd't servant
+<lb/>G<hi rend="underline"><hi rend="sup">eo</hi></hi> O, Manchester</p>
+  </body>
+ </text>
+</TEI>

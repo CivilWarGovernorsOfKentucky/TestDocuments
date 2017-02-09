@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1853"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">J. N. Turner et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6490</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR13-421</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Princeton, Caldwell County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Princeton Kentucky
+<lb/>Gov<hi rend="underline"><hi rend="sup">r</hi></hi> Bramlette
+<lb/>Frankfort Ky</p>
+<p>We the undersigned <hi rend="underline">Union</hi> <hi rend="underline">men</hi> Citizens ^of^ the Town of Princeton &amp; county of Caldwell would earnestly &amp; Respectfully ask of your Excellency If not incompatible with your feelings of duty that you pardon and acquit B. T. Gray and Charles Hooper ^&amp; J. O. Hunter^ of the charges made in the (3) Indictments now pending in the Caldwell Circuit Court against them, Very Respectfully &amp;c</p>
+<p>J. N. Turner
+<lb/>Henry Tanay
+<lb/>Roger Tanay
+<lb/>Thomas Hunter
+<lb/>J. C. Barnes clk
+<lb/>Caldwell County Court
+<lb/>W T Talbott Police Judge
+<lb/>of the Town of Princeton
+<lb/>W H Kevil Trustee
+<lb/>Jury fund C C Ky
+<lb/><hi rend="underline">W. D. Marlow</hi> P. M.
+<lb/>A. Reynolds D. Shrff
+<lb/>James a. Carr M. D.
+<lb/><hi rend="underline">T</hi>. <hi rend="underline">L</hi>. <hi rend="underline">M</hi><hi rend="underline"><hi rend="sup">c</hi></hi><hi rend="underline">N</hi>ary M. D.</p>
+<p><hi rend="underline">See</hi> <hi rend="underline">affidavits</hi><pb/></p>
+<p>Petition of B. T. Gray
+<lb/>Charles Hooper &amp; J. O.
+<lb/>Hunter -- to Gov<hi rend="underline"><hi rend="sup">r</hi></hi></p>
+  </body>
+ </text>
+</TEI>

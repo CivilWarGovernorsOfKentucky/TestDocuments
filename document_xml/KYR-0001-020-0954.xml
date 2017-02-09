@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0954"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Nannie Phillips to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10422</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG19-511</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Rochester, Butler County, Kentucky</placeName>
+    <date when="1861-04-29">29 April 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Rochester Ky <date when="1861-04-29">Apr 29</date>
+<lb/>Hon Sir</p>
+<p>Although I take My pen ^this^ morning to address You <hi rend="str">a</hi> I have no language rather no language in the English vocabulary that could portray ^my^ Situation and my feelings. I can only ask you once more to have mercy on me by reStoring my Husband J B Phillips. I ask you in the name of that God whos Mercy we must ^all^ Sooner or later crave. to have Mercy. One month from this <hi rend="str">time</hi> and his time will have expired</p>
+<p>But by that time there May be a call from his Country for him and he may only be released in time to Say farewell an rush to the rescue of his Country in view of the Shortness of his time and Your promises to Father Downing and MySelf in view of the impending crises will you not release him in the courS of this or next week Oh let me See him one more and tell him of all My hopes and all fears</p>
+<p>Rest Nannie Phillips</p>
+<p><note place="left margin">pease forward the enclosed to J B Phillips</note><pb/></p>
+<p>Issue pardon
+<lb/>B. M</p>
+  </body>
+ </text>
+</TEI>

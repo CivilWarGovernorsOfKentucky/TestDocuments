@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2439"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Benjamin L. Perkins to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7076</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR15-388</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Elkton, Todd County, Kentucky</placeName>
+    <date when="1865-09-26">26 September 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>W. B. HARRISON,
+<lb/>ATTORNEY AT LAW,
+<lb/>ELKTON, KY.<figure type="hr"/>
+<lb/>Will give prompt attention to all professional business entrusted to his care.</p>
+<p>ELKTON, KY.
+<lb/><date when="1865-09-26">September 26<hi rend="sup">th</hi>, 1865</date>
+<lb/>To His Excellency Govenor Bramlette
+<lb/>Dr Sir</p>
+<p>At the <date when="1863-04">April term of the Todd Cir court ^1863^</date> Mrs Elizabeth Gibson was fined one hundred Dollars for an assault. The object of this Letter is to prevail upon your Excellency to interpose in behalf of Mrs Gibson and relase her from the payment of said fine Mrs Gibson is a poor widow Lady with a large Family, a portion of them being Girls and dependant upon her for a support She had Two sons scarsely grown when the war broke out and they both joined the Federal Army and remained in the Service until they were honorably discharged, owing partly to this Circumstance (not having the benefit of their Services) she is not able to pay the fine without serious injury. In behalf of a widow woman, thats poor<lb/>
+<lb/>and has furnished Two Sons for the Federal Army to do battle for their flag and their country we beseach your Excellency to remit said fine as an act of mercy towards a poor widowed woman</p>
+<p>Your obt Servant
+<lb/>Ben. L. Perkins
+<lb/>Clk Todd Cir &amp; Co Court</p>
+<p>Todd Cir Ct
+<lb/>vs
+<lb/>Elizabeth Gibson
+<lb/>$100
+<lb/>Assault
+<lb/><date when="1865-10-02">2<hi rend="sup">d</hi> Oct 1865</date></p>
+  </body>
+ </text>
+</TEI>

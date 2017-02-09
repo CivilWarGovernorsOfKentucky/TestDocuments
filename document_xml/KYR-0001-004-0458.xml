@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0458"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">J. H. Price to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG4577</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR9-219</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date when="1864-01-29">29 January 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Louisville <date when="1864-01-29">Jan 29th 1864</date>
+<lb/>Governor Bramlet
+<lb/>Dear Sir</p>
+<p>This will be handed you by Mrs Banks who is the <hi rend="str">husban</hi> wife of William Banks convicted for felony at the <date when="--01">January Term</date> of the Jefferson Circuit Court.</p>
+<p>Robt F. Baird Esqr. a few days ago, laid before you a petition for a pardon for W<hi rend="sup">m</hi> Banks &amp; John M<hi rend="sup">c</hi>Clure, &amp; also a copy of the Indictment in which a count for stealing &amp; a count for receiving knowing the property to be stolen was alledged On the last count the parties were convicted.</p>
+<p>Mr Baird &amp; myself did not defend the parties; they were defended by M<hi rend="sup">r</hi> Joseph Reed formerly of Larue county, &amp; a brother of Senator Rieds, The interest that we take in the case springs from sympathy &amp; nothing else; we heard the trial &amp; from the evidence for &amp; against, we did not think a case for receiving was made out, &amp; the evidence as to the Larceny was clearly in favor of the defendants.</p>
+<p>Your Excellency had with the petition a substantial statement of the<pb/>
+<lb/>testimony &amp; I indulge the hope that a reconsideration of the case by your Excellency will result in the release of the parties.</p>
+<p>I will state a fact that may not be known to your Excellency, namely, that W<hi rend="sup">m</hi> Banks was on Bail for several months &amp; without compulsion came forward &amp; stood his trial</p>
+<p>Verry Respectfully
+<lb/>J. H. Price</p>
+<p>Jefferson Cir Ct
+<lb/><date when="1864">64</date></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1336"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">James F. Robinson, Jr. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG5973</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR12-82 to BR12-83</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Lexington, Fayette County, Kentucky</placeName>
+    <date when="1864-11-10">10 November 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Lexington Ky
+<lb/><date when="1864-11-10">Nov 10<hi rend="sup">th</hi> 1864</date>
+<lb/>To His Excellency
+<lb/>Thos. E. Bramlette
+<lb/>Governor of Kentucky
+<lb/>Dr Sir!</p>
+<p>Jno B. Payne a relative of mine was indicted in the Franklin Court for dealing cards. Mr Payne is the son of a widowed mother and several sisters dependent upon him for a support, he is limited as to means, has settled with Mr Scott the Commonwealths Atty for his part. and I do hope that you will exercise your Executive clemency and remit. that part of his fine due the Commonwealth if not all a part that he may be enabled to pay the bal, his offense was slight compared with those daily committed by persons in our midst high in authority</p>
+<p>Vary Resp
+<lb/>Yr obdt Servt
+<lb/>Jas. F. Robinson jr<pb/></p>
+<p>Franklin Cir Ct
+<lb/>vs
+<lb/>Jno Payne
+<lb/>$500 each
+<lb/>Remitted
+<lb/><date when="1864-11-15">15<hi rend="sup">th</hi> Nov/64</date></p>
+  </body>
+ </text>
+</TEI>

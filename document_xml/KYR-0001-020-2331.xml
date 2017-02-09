@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-2331"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">James Shindler et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG9407</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG25-95</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Hon Thos E. Bramlett, Gov'r of Ky, the undersigned citizens and residents of the city of Louisville Ky would respectfully represent that they are personally acquainted with Paul Garis, (who has been indicted in Nelson circuit Court for larceny and attempting to intice away a slave named Cirella) <hi rend="str">and</hi> <hi rend="str"><unclear/></hi>for several years, having been associated with him in the Masonic Lodge, and other capacietes during that time, and they can state that they have always known him as a man of honor and integrity, and from his general character they fully believe the said charges are utterly groundless and false as well as malicious</p>
+<p>We are also acquainted with Charles J. Vander Espt, (who sends a written affidavit with this) and have known him for sevral years, and have associated with him in the same capacity, and they know him to be a man of honor truth and integrity, and any statement made by him can be implicitly relied on.</p>
+<p>James Shindler
+<lb/><milestone unit="column" n="2"/><cb n="1"/>Benj A Flood
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> A. Warner
+<lb/>Andrew. J. Flanagan
+<lb/>B Griswold Jr
+<lb/>N. P. Kendrick
+<lb/>Dan B. Grable
+<lb/>Lc Larukes
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> B Grable
+<lb/><cb n="2"/>T. Parquier
+<lb/>J. S. Besançon
+<lb/>T,, Besancon
+<lb/><unclear>Eng</unclear> Michot
+<lb/>Louis Michot
+<lb/>J. Victor Besançon
+<lb/>Joseph Pargny
+<lb/>Ja<hi rend="underline"><hi rend="sup">s</hi></hi> H West.<milestone unit="column" n="1"/><pb/>
+<lb/>M. Cassell
+<lb/>Henry Rowland.
+<lb/>George Vaccaro
+<lb/>James H. Pool</p>
+  </body>
+ </text>
+</TEI>

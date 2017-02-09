@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1233"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Hough to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10701</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG21-86 to MG21-87</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Mount Washington, Bullitt County, Kentucky</placeName>
+    <date when="1861-07-04">4 July 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Mt. Washington, Bullitt, Co. Key.
+<lb/><date when="1861-07-04">July, 4<hi rend="sup">th</hi> 1861.</date>
+<lb/>Hon. Beriah M<hi rend="sup">c</hi>Goffin
+<lb/>Gov of Kentucky
+<lb/>Honr'<hi rend="sup">d</hi> Sir</p>
+<p>Accompanying this letter is a petition from the Citizens of Bullitt Co for the remittance of a fine aginst P. Troutman for an assault on L. H. Snapp in which several others were indicted before the Grand Jury and in consequence of the absence of said Troutman {whose wife was dangerously ill and living in Davis Co} and also of several important witnesses myself among the number. The Balance were acquitted and he fined $300.00 &amp; cost which amounts to about $200.00 in said trial -- This is to set the matter before you in its true light. I being one of the main witnesses in the case and knowing all the parties connected with the affair -- know of my own knowledge all who took part in it one and all were as guilty as said Troutman</p>
+<p>I saw the whole transaction from beginning to end and endeavored to dissuade them from doing what they did do viz to Tar and feather Snapp for abusing and outraging his family so much so that neighbors had to interpose but being overpowered by an Excited crowd I followed to see that they done no serious violence consequently was an eyewitness to the whole transaction And know that all were alike guilty and should have showed the fine imposed_ At the time of the trial<pb/>
+<lb/>I was in Indiana and had I been present at the trial I should have stated the facts as above <hi rend="str">des</hi> written -- And in giving these statements at the request of some citizens here in town where the assault was committed I am complying with the sentiments of nearly all the citizens of this vicinity and they all Join in this prayer by placing there signatures to the accompanying petition Said Troutman is known to me to be a poor man with a small family and small means and the payment of this fine will ruin him and leave his family destitute and I <hi rend="str">we</hi> hope and fondly believe you will not withold the Prayer of Your Petitioners</p>
+<p>Yours Very Respectfully
+<lb/>John Hough</p>
+<p>State of Ky 
+<lb/>Bullitt Co } Personaly appeared before me a Justice of the Pease for Bullitt Co. John Hough personaly known to me and being duly sworn Deposes and says the above statements are true and correct in all respects to the best of his knowledge and belief</p>
+<p>John H Hough </p>
+<p>Sworn and Subscribed before me this <date when="1861-07-05">5 day of July at Mt. Washington Key 1861</date></p>
+<p>L R Brown J. P. B C</p>
+  </body>
+ </text>
+</TEI>

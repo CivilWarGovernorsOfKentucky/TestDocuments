@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0820"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">George W. Johnston to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG4939</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR10-267</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date when="1864-05-14">14 May 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Louisville <date when="1864-05-14">May 14<hi rend="sup">th</hi> 1864</date>
+<lb/>His Excellency
+<lb/>Thomas E. Bramlette
+<lb/>Governor &amp;<hi rend="sup">c</hi>.
+<lb/>D<hi rend="sup">r</hi> Sir-</p>
+<p>A Petition has been prepared &amp; I learn will be presented to you signed by the Jury or a number of the Jurors. Who tried the case of young Mr Brown charged with the killing of Goldsmith at the present Term of the Jefferson Circuit Court, asking the Pardon of Brown; The case was first Examined before me and Brown held over to answer. I learned from the Testimony on the Examination, that the killing was the result of a misunderstanding between parties in an attempt to settle a small bill &amp; not the result of any long standing malice or Ill blood, and altho I thought that there was sufficient time between the quarrel &amp; the shooting for Browns hot-blood to <hi rend="str">cool</hi> cool, to Justify his being held to answer yet from his youth &amp; previous quiet demeanor and good conduct, I have come to the conclusion that this is a proper case for Executive clemency and I unite with the Jurors who tried the case in asking that a Pardon may be granted him</p>
+<p>Verry respectfulyl your
+<lb/>Excellency Ob<hi rend="sup">t</hi>. Ser<hi rend="sup">t</hi>
+<lb/>Geo. W. Johnston.</p>
+  </body>
+ </text>
+</TEI>

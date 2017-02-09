@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-018-0001"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Henry C. Anderson to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG8067</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Military Appointments, 1859-1862</collection>
+      <idno>MG6-72</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date when="1860-12-12">12 December 1860</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Louisville Ky <date when="1860-12-12">Dec 12<hi rend="sup">th</hi> 1860</date>.
+<lb/>Sir,</p>
+<p>You will please accept my resignation as "<hi rend="underline">Second</hi> <hi rend="underline">Lieutenant</hi> <hi rend="underline">of</hi> <hi rend="underline">the</hi> <hi rend="underline">National</hi> <hi rend="underline">Blues</hi> <hi rend="underline">Company</hi> <hi rend="underline">B.</hi> <hi rend="underline">Louisville</hi> <hi rend="underline">Battallion</hi>, <hi rend="underline">Kentucky</hi> <hi rend="underline">State</hi> <hi rend="underline">Guard</hi>" as I find it uterly impossible to fulfill all obligations arising from Said office, without a sacrifice to my business.</p>
+<p>I am very Respectfully
+<lb/>Your O<hi rend="underline">bt</hi> Se<hi rend="underline">rvant</hi>
+<lb/>Henry C. Anderson.</p>
+<p>To Hon. Bariah Magoffin
+<lb/>Commander in Chief
+<lb/>Kentucky State Guard</p>
+<p>Dear Sir</p>
+<p>I hereby recommend that 2<hi rend="sup">nd</hi> Lieut H. C. Anderson <hi rend="str">be</hi> resignation be accepted- </p>
+<p>Respt yours &amp;c
+<lb/>A. L. Symmes
+<lb/>Capt. Comd. N. B.<hi rend="underline"><hi rend="sup">s</hi></hi><pb/>
+<lb/>Resignation
+<lb/>H. C. Anderson
+<lb/>2<hi rend="underline"><hi rend="sup">d</hi></hi> Leuit
+<lb/>National Blues
+<lb/>Re<hi rend="sup">d</hi> <date when="1860-12-18">Dec 18 1860</date></p>
+<p>accepted
+<lb/>B. M.</p>
+  </body>
+ </text>
+</TEI>

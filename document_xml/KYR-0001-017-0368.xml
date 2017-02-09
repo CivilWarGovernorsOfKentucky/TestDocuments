@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0368"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">A. Dodson et al., Affidavit</title>
+    <title level="a" type="parallel">CWG2716</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Civil Appointments, 1859-1862</collection>
+      <idno>MG4-341</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Allen County, Kentucky</placeName>
+    <date when="1862-03-04">4 March 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>State of Kentucky Allen County</p>
+<p>We the undersigned being a majority of the Justices of the peace of Allen County, summoned to the court house in said county for the purpose of filling the vacancy occasioned by the resignation of N. K. Pope Presiding Judge of the Allen County Court, certify that we have appointed William Mansfield to fill the unexpired term of said N. K. Pope as Presiding Judge of said Allen County Court</p>
+<p>Witness our hands as Justices of the Peace aforesaid. this <date when="1862-03-04">4<hi rend="underline"><hi rend="sup">th</hi></hi> day of March 1862</date></p>
+<p>A. Dodson J. P.
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Orr J. P.
+<lb/>Ja<hi rend="sup">s</hi>. Mattey J. P.
+<lb/>James Ham J. P.
+<lb/>T. R. Hughes J. P.
+<lb/>E. C Moore J. P.
+<lb/>Jesse S. Godley J. P.<pb/></p>
+<p>State of Kentucky Allen County</p>
+<p>I. R. F. Pulliam, Clerk Protem of the Allen Circuit Court certify that the within is a true copy of the certificate of the Justices of the Peace of Allen county appointing William Mansfield Presiding Judge of the Allen County ^court^ in the place of N. K Pope resigned</p>
+<p>attest Robt F. Pulliam clk
+<lb/><hi rend="underline">protem</hi></p>
+  </body>
+ </text>
+</TEI>

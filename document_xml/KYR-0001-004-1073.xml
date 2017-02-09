@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1073"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Henry County Court, Order</title>
+    <title level="a" type="parallel">CWG5710</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR[11]-156 to BR[11]-157</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Henry County, Kentucky</placeName>
+    <date when="1864-08-15">15 August 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><date when="1864-08-15">Aug 15 1864</date>
+<lb/>Commonwealth of Kentucky
+<lb/>To any Constable of Henry County.</p>
+<p>You are commanded to summon Wyatt I Morias and Emmit Bashaw. of Said County to appear before me or some Magistrate of said County so <hi rend="str">appear be</hi> to answer the charge of committing a breach of the Peace in the town of New Castle on saturday night last by drunken disorderly conduct. and otherwise on that occasion, the day before and since disturbing the peace of good Citizens by drunkeness swearing &amp;c. <date when="1864-08-15">Aug 15 1864</date></p>
+<p>Verdict of the jury"</p>
+<p>"We of the jury agree that the defendants W I Morias &amp; Emmet Bashaw are each guilty of the charges alledged. and that they shall be confined in the county jail for fifteen days and pay costs. W A Holland foreman"</p>
+<p>Whereupon the said defendants were convicted in the following order towit</p>
+<p>"The Commonwealth of Ky</p>
+<p>To the Jailor of Henry County</p>
+<p>I herewith send you the order of W I Morias and Emmet Bashaw of said County brought before me on charge of having committed a breach of the Peace, and you the said jailor, are hereby commanded. to receive them into your jail and custody there to remain for the space of fifteen days unless released. by due process of law</p>
+<p>W<hi rend="sup">m</hi> A Perry J P H C"<pb/></p>
+<p>The foregoing is a true Copy of the records in my office in the Case of the Commonwealth of Ky vs W J Morias and Emmett Bashaw on <date when="1864-08-15">15th Aug 1864</date></p>
+<p>W<hi rend="sup">m</hi> A Perry J. P. H. C
+<lb/><date when="1864-08-22">Aug 22<hi rend="sup">nd </hi>1864</date><pb/></p>
+<p>Henry Co
+<lb/><hi rend="str">Remit</hi> -- </p>
+  </body>
+ </text>
+</TEI>

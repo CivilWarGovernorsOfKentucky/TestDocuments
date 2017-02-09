@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-023-0136"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Unknown, Resolution</title>
+    <title level="a" type="parallel">CWG3049</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, 1859-1862</collection>
+      <idno>MG1-377 to MG1-380</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Annapolis, Anne Arundel County, Maryland</placeName>
+    <date when="1862-02-22">22 February 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Proclamation/Legislation</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>While on this <date when="1862-02-22">22<hi rend="sup">d</hi> day of February</date> the people of the United States are listening to words of peace and conciliation and of solemn warning against sectional contests and jealousies from the Father of their Country, Maryland, one of the States of the Revolution, makes this solemn appeal to the citisens of the legal States of the Union:</p>
+<p>Whereas, we believe that the useless and wicked agitation of the Slavery question, both North and South, has been the ostensible cause of the rebellion now devastating our once happy Country, by affording a pretext to those who have long desired to break up our Government, for putting their long cherished schemes in operation, and by furnishing arguments by which the Southern people have been mislead and betrayed; and</p>
+<p>Whereas we believe that a continuance of such agitation will have a tendency to prevent a cordial return of our Southern brethren to their position in the Union; therefore, be it</p>
+<p>Resolved by the General Assembly of Maryland, that we appeal with united voice to our brethren of the Northern States to discontinue, by every means in their power, all attempts to revive the agitation of this subject, not only productive of no good<pb/>
+<lb/>but as the history of the present shows, fraught with danger and untold evil; that the loyal State of Maryland has a right to insist that her voice be heard on this subject, in which she has so great an interest at stake; that the dissolution of this Union, however much to be deprecated by other States, would fall with tenfold weight upon her; and, that in a spirit of conciliation she calls upon her sisters of the North to frown down every attempt to revise a subject which has, in the hands of wicked and ambitious men, contributed so largely to produce the calamities that have befallen the Nation; that she calls upon them, as co-inheritors of the great patrimony bequeathed to us by our fathers to remove from thier Statute books every enactment calculated to disturb the friendly feeling that should subsist between the people of both Sections of our Country and to rebuke in an unmistakable manner, those of their Representatives in Congress who are wasting their time in devising schemes for the abolition of Slavery in the rebellious States.</p>
+<p><note place="left margin">2<hi rend="underline"><hi rend="sup">nd</hi></hi></note> Resolved, that we believe the great body of the people in the free states have no disposition to interfere with the rights of the slave states and that they are willing to permit those who alone are responsible<pb/>
+<lb/>for and have an interest in the institution of slavery, to manage it as they in their wisdom shall think best for their own welfare and that of their posterity; that if they will hearken to the voice of Maryland and, with a magnanimity becoming of the American character, insist that their own conservative sense of justice be heard and acted upon in the councils of the nation, now that their section has entire control of the Government, they will not only strengthen the hands of the Government in its efforts to crush the rebellion, but will prepare the way for a speedy return to the protection of the Government of those who have been led astray by their traitorous leaders.
+<lb/> 
+<lb/><note place="left margin">3<hi rend="underline"><hi rend="sup">rd</hi></hi></note>Resolved that while our Government is now preparing to strike down with irresistible force the parricidal hands which have been raised for its destruction, it is meet and right that we should welcome back with warm hearts and open arms those who have been seduced from their allegieance by designing men.</p>
+<p><note place="left margin">4<hi rend="sup">th</hi></note> Resolved that the Governor of this State be requested to send a copy of these resolutions to the Executive of each loyal state, and request them to lay the same before their respective Legislatures.</p>
+<p>True copy of the original adopted by<pb/>
+<lb/>the General Assembly of Maryland at its <date when="1862-01">January session, 1862</date>.</p>
+<p>Attest
+<lb/>T. Snowden Thomas,
+<lb/>Clerk, H. of D. Md.</p>
+  </body>
+ </text>
+</TEI>

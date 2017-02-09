@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-022-0025"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Caleb Stinson to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG11951</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>37th - 76th Regiments Enrolled Militia Primary Source Documents (1861-1866)</collection>
+      <idno>Box 80, Folder Box 80, Folder 864- GRAYSON COUNTY Co. D, 2d BN. Muster Rolls Cpt. Wm. Bates, Sr. 45th Rgt. Ky. Militia</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Grayson County, Kentucky</placeName>
+    <date when="1864-10-10">10 October 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Grayson <hi rend="underline">Co</hi> <hi rend="underline">Ky</hi> <date when="1864-10-10"><hi rend="underline">Octr</hi> 10<hi rend="sup">th</hi> 1864</date>
+<lb/>To his Excellency Tho<hi rend="sup">s</hi> E Bramlett Gov of Ky</p>
+<p>Dear Sir the good citizens of this county are pained to hear that the authorities at Frankfort have failed to arm and equpt the detailed company ordered by you through Gen Lindsey, and commanded by <hi rend="underline">Capt</hi> <hi rend="underline">Wm</hi> Bates, he and the Loyal people of this county have spent much time and money in organizing and attempting to get this company into active Service, it is much needed and would have been all the Security we wanted to keep out the lawless scoundrels &amp; guerillas from amongst us</p>
+<p><hi rend="underline">Capt</hi> Bates is a good citizen, and an efficient man and would have obeyed any and all orders from his superiors. he would have controlled his men and acted Solely for the good of his country and the safety and peace of our people</p>
+<p>why the company was not armed is unknown to us it Surely is not because we are not to be trusted with arms for Grayson County is as Loyal a County as there is in Kentucky</p>
+<p>Yours Respectfully Caleb Stinson<pb/>
+<lb/>Grayson Co Ky County Ky
+<lb/><date when="1864-10-10">Oct 10" 1864</date><figure type="hr"/>
+<lb/>Stinson Caleb<figure type="hr"/>
+<lb/>To
+<lb/>The Gov -- <figure type="hr"/></p>
+<p>Says the authorities have failed to arm and equip the company ordered by you and commanded by Capt William Bates -- <figure type="hr"/></p>
+<p>An<hi rend="sup">s</hi> <date when="1864-11-14">Nov<hi rend="sup">r</hi> 14. 1864</date>
+<lb/>on L. B. B. P. 132<figure type="hr"/>
+<lb/>Rec<hi rend="sup">d</hi> A. G. O. <date when="1864-10-31">Oct 31" 1864</date>-</p>
+  </body>
+ </text>
+</TEI>

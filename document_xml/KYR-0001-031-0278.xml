@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-031-0278"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Charles T. Foulks, Oath</title>
+    <title level="a" type="parallel">CWG8018</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Appointments by the Governor, Civil Appointments, 1862-1863</collection>
+      <idno>R1-379</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Philadelphia, Philadelphia County, Pennsylvania</placeName>
+    <date when="1863-06-13">13 June 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>State of Pennsylvania,
+<lb/>City and County of Philadelphia. } S.S.</p>
+<p>I, Charles T. Foulks, duly appointed by the Governor of the State of Kentucky, a Commissioner for the State of Kentucky, resident at No. 115 So. Seventh Street, in the City of Philadelphia, and State of Pennsylvalnia, do solemnly swear that I will well and faithfully execute and perform, all the duties of such Commissioner, under and by virtue of the laws of said State of Kentucky.</p>
+<p>Charles T. Foulks</p>
+<p>Sworn to and subscribed before me, the Prothonotary of the Court of Common Pleas in, and for the City and County aforesaid, this <date when="1863-06-15">15th day of June A. D. 1863.</date></p>
+<p>Fred. G. Wolbert
+<lb/>Prothy
+<lb/><figure type="seal"><ab>COURT OF COMMON PLEAS
+<lb/>PHILADELPHIA, PENNA.</ab></figure></p>
+<p><hi rend="underline">Charles T. Foulks</hi>
+<lb/><hi rend="underline">Commissioner</hi>
+<lb/><figure type="seal"><ab>CHARLES T. FOULKS
+<lb/>COMMISSIONER
+<lb/>FOR
+<lb/>THE STATE OF
+<lb/>Kentucky
+<lb/>PHILADELPHIA
+<lb/>PENNA:</ab></figure></p>
+  </body>
+ </text>
+</TEI>

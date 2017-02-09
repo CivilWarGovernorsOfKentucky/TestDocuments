@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-024-0053"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Thomas M. Vincent to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG12106</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Mitchell A Krock</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>1st - 20th Regiments Kentucky Infantry Primary Source Documents</collection>
+      <idno>Box 8, Folder 13th Ky. Inf.</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Washington, District of Columbia</placeName>
+    <date when="1864-09-28">28 September 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><note place="header">13<hi rend="underline"><hi rend="sup">th</hi></hi> 2</note>
+<lb/>Adjutant General's Office,
+<lb/>Washington, <date when="1864-09-28">September 28<hi rend="underline"><hi rend="sup">th</hi></hi>, 1864.</date>
+<lb/>To His Excellency,
+<lb/>The Governor of Kentucky,
+<lb/>Sir:</p>
+<p>I have the honor to report, that the following named Officers of the Volunteer forces from the State of Kentucky have been discharged at the dates, and for the causes, set opposite their respective names, viz:
+<lb/><table rend="rules">
+<row>
+	<cell>Dead</cell>
+	<cell>Captain</cell>
+	<cell>C. D. Butler</cell>
+	<cell>13 Regt</cell>
+	<cell><date when="1864-06-27">June 27 1864.</date></cell>
+</row>
+<row>
+	<cell>Resigned good of service</cell>
+	<cell>Second Lieut</cell>
+	<cell>A. J. Adkins</cell>
+	<cell>39 "</cell>
+	<cell><date when="1864-09-03">Sept 3 "</date></cell>
+</row>
+<row>
+	<cell>"</cell>
+	<cell>Captain</cell>
+	<cell>T. J. Bush.</cell>
+	<cell>24 "</cell>
+	<cell><date when="1864-09-05">" 5 "</date></cell>
+</row>
+</table></p>
+<p>I am Sir
+<lb/>Very respectfully
+<lb/>Your Ob<hi rend="sup">t</hi> Servant
+<lb/>Thomas M Vincent
+<lb/>Ass<hi rend="underline"><hi rend="sup">t</hi></hi> Adj<hi rend="underline"><hi rend="sup">t</hi></hi> General<pb/></p>
+<p>N<hi rend="underline"><hi rend="sup">o</hi></hi> 179<figure type="hr"/>
+<lb/>Washington City
+<lb/>Report<figure type="hr"/>
+<lb/>Resignations<figure type="hr"/>
+<lb/>Rec<hi rend="sup">d</hi> A. G. O. <date when="1864-09-30">Sept. 30. 1864</date></p>
+  </body>
+ </text>
+</TEI>

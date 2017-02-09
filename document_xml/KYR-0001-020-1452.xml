@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1452"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John S. Nixon to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10920</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Amanda Boczar</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG22-17 to MG22-18</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Covington, Kenton County, Kentucky</placeName>
+    <date when="1861-10-19">19 October 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency,
+<lb/>Beriah Magoffin;
+<lb/>Governor of Ky.
+<lb/>Dear Sir;</p>
+<p>I herewith transmit to you the papers in reference to the pardon of William Nichols, a convict now confined in the penitentiary at Frankfort, and in the name of <hi rend="underline">humanity</hi> <hi rend="underline">implore</hi> your Excellency to give them your attention, at your very earliest convenience.</p>
+<p>The papers are three several petitions, which I have numbered 1, 2, and 3; and also the letter of Hon. John F. Fisk, and my late partner M. M. Benton. The petition N<hi rend="sup">o</hi>. 1. is signed by several members of the bar, the clerk of the court, (M<hi rend="sup">r</hi>. Ellis) the Mayor of ths city (Hon John A. Goodson) the city Marshall, (Clinton Butts) and others, who happened to be present and heard the evidence. This is the petition of the which M<hi rend="sup">r</hi>. Benton speaks in his letter. -- N<hi rend="sup">o</hi>. 2 is signed by the immediate neighbors of Nichols, <hi rend="str">M</hi><hi rend="str"><hi rend="sup">r</hi></hi><hi rend="str">. Geo Phillips</hi> and the description of persons who have signed it certified to by the book=keeper of Messrs. Phillips &amp; Son, his employers. -- <hi rend="underline">No. 3 is signed by all the jurors who tried Nichols' case but one</hi>, and by divers others respectable and well known citizens, among whom is George Phillips, in whose rolling mill Nichols has worked for the last three years.<pb/></p>
+<p>I had intended to have the jurors sign N<hi rend="sup">o</hi>. 1, but the person who had N<hi rend="sup">o</hi>. 3 had obtained the first four jurors' names, before I was aware of the fact, and I thought best to have them all sign the same paper. </p>
+<p>I trust it may be consistent with your Excellency's sense of duty, to restore this man to his distressed and helpless, and now worse than orphan little children, and "the blessing of those ready to perish shall rest upon you"</p>
+<p>Yours Truely
+<lb/><hi rend="underline">John S. Nixon</hi>.</p>
+<p>Covington Ky. <date when="1861-10-19">Oct. 19. 1861.</date></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2274"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">R. F. Prichard et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6911</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR15-119</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Exellency Thomas E Bramlett Governer of the Commonwealth of Kentucky</p>
+<p>Your Petitioners citizens of Lawrence County would represent to your Excellency that on the <date when="1865-07-12">12" day of July 1865</date> before the Hon John M Clayton Judge of the Quarterly Court of Lawrence County, Ira Bernard was upon his plea of "Guilty" fined sixty dollars for the offince of Keeping a tipling house. Your petitioners would further represent that this is the frist conviction against the Bernard for Such an offinse, that a military camp has been for a long period at this place and such offense have been countenanced by Many of the Military officers, that order is now restored and the regular process of law enforced, no apprehensions for the peace and order of the Community is now felt, Your petitioners would respectfully request that the Said fine of Sixty dollars be remitted except so far as Thirty percent thereof And as in duty bound your petitioners will ever pray &amp;c</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Petitioners Names</p>
+<p>The Statements in the foregoing Petition are substantially true &amp; I respectfully recommend that the fine be remitted</p>
+<p>R, F. Prichard
+<lb/>County attny &amp;c
+<lb/><hi rend="underline">Jno</hi> M Clayton J L C C
+<lb/>J. M. Allison S L C
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Bowe
+<lb/>John.W. Keller
+<lb/>H Hale
+<lb/>B Fitzpatrick
+<lb/><cb n="2"/>Petitioners Names
+<lb/>J A Wellman
+<lb/>J D Wellman
+<lb/>Geo. W. Murry
+<lb/>J. Spaulding
+<lb/>Davis Jack
+<lb/>Jasper Williamson
+<lb/><unclear>Lous</unclear> manard
+<lb/>Levi Muncy
+<lb/>John T. Stafford
+<lb/><unclear>anias</unclear> Wilkerson
+<lb/>Bennet Cox
+<lb/>william branham
+<lb/>jesse manard<pb/></p>
+<p><milestone unit="column" n="1"/>Petition of the Citizens of Lawrence County
+<lb/>To Release a fine of $60
+<lb/>vs
+<lb/>Ira Bernard
+<lb/>for <hi rend="underline">Keeping</hi> <hi rend="underline">a</hi> <hi rend="underline">Tipling</hi> <hi rend="underline">house</hi>
+<lb/>Remitted <date when="1865-08-19">19 Aug/65</date></p>
+  </body>
+ </text>
+</TEI>

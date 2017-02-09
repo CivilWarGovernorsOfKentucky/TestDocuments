@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-153-0066"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Boyle to George D. Prentice</title>
+    <title level="a" type="parallel">CWG14188</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>Assistant Adjutant General Letter Book - No. 1 ; 5 Sept 1863 - 2 Feb 1864</collection>
+      <idno>305</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1863-11-17">17 November 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><note place="header">305</note>
+<lb/><date when="1863-11-17">Nov. 17<hi rend="underline"><hi rend="sup">th</hi></hi> <gap/>3</date>
+<lb/>Hon. Geo. D. Prentice
+<lb/>Louisville -- Ky.
+<lb/>Sir,</p>
+<p>The accompanying letter is enclosed to you as Capt. Norris' address is not known -- and I beg you will forward it ot him.</p>
+<p>It is also an answer to the request <unclear/> in your favor to the Governor of the <date when="1863-11-13">13<hi rend="underline"><hi rend="sup">th</hi></hi> inst.</date> It is impossible at present to comply with the request, as no vacancy exists, of the ranks mentioned.</p>
+<p>Respectfully
+<lb/>Your obt Servt
+<lb/><hi rend="underline">John Boyle</hi>
+<lb/>Adjt. Gen. of Ky.</p>
+  </body>
+ </text>
+</TEI>

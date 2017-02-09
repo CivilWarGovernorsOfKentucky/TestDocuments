@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-033-0012"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Edward D. Townsend, Special Orders, No. 31</title>
+    <title level="a" type="parallel">CWG11563</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Andrew P Patrick</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>1st - 2nd Regiments Kentucky Cavalry Muster Rolls</collection>
+      <idno>Box 45, Bundle 1</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Washington, District of Columbia</placeName>
+    <date when="1865-01-20">20 January 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Order</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>SPEICAL ORDERS, No. 31.
+<lb/>WAR DEPARTMENT,
+<lb/>ADJUTANT GENERAL'S OFFICE
+<lb/><hi rend="italic">Washington, </hi><date when="1865-01-20"><hi rend="italic">January 20th</hi>, 1865</date></p>
+<p>(<hi rend="italic">Extract</hi>.)<figure type="hr"/>
+<lb/>19. Leave of absence for thirty days is hereby granted the following officers, paroled Prisoners of War, at the expiration of which they will report in person to the Commanding Officer of Camp Chase, Columbus, Ohio: -- 
+<lb/>Major <hi rend="italic">William N. Owens</hi>, 1st Kentucky Cavalry.<figure type="hr"/></p>
+<p>By order of the Secretary of War:
+<lb/>E. D. TOWNSEND,
+<lb/><hi rend="italic">Assistant Adjutant General.</hi> </p>
+<p>OFFICAL:
+<lb/>E. D. Townsend
+<lb/><hi rend="italic">Assistant Adjutant General.</hi> </p>
+<p>Governor of Kentucky<pb/></p>
+<p>War Department
+<lb/>Adj<hi rend="sup">t</hi> Genl<hi rend="sup">s.</hi> Office
+<lb/>Washington <date when="1865-01-20">Jany 20/65</date><figure type="hr"/>
+<lb/>Townsend E. D. A. A. G.<figure type="hr"/>
+<lb/><hi rend="underline">Order</hi>
+<lb/>granting 30 days leave of absence to Maj W. N. Owens 1' Cav<hi rend="sup">y</hi>.<figure type="hr"/>
+<lb/>Rec<hi rend="sup">d</hi> A. G. O. <date when="1865-01-26">Jany 26. 1865</date></p>
+  </body>
+ </text>
+</TEI>

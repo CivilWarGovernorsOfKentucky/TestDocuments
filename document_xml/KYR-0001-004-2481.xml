@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2481"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Polly Estep to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7118</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR15-447</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Pulaski County, Kentucky</placeName>
+    <date when="1865-10-07">7 October 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency Thos E. Bramlette Governor of the Commonwealth of the Kentucky</p>
+<p>The undersigned Polly Estep your petitioner would respectfully state to your Honor that at the <date when="1865-03">March term 1865</date> of the Pulaski Circuit Court she was indicted by the Grand Jury of Pulaski County for the offense of adultery and that at the <date when="1865-09">Sept term 1865</date> of s'd court judgment for the sum $20 -- was taken against her by default; and state that she was not guilty of the offense charged in s'd indictment and she made no defense to same because she was informed and believed that the charge had to be proven before a judgt would be rendered and was satisfied and knew that no such proof could be made; and she further states that she is an unmarried woman and was at the time the offense was alleged to have been committed and as she is informed and believes could not be guilty of the offense charged. Under the foregoing circumstances your petitioner respectfully asks your Honor to remit the s'd fine of $20 -- </p>
+<p>Polly Estep</p>
+<p>Sworn to before me by Polly Estep this <date when="1865-10-07">7<hi rend="underline"><hi rend="sup">th</hi></hi> day of Oct. 1865</date></p>
+<p>John Wize J P</p>
+<p>We the undersigned respectfully ask your Honor to remit the fine as asked by Polly Estep in the above petition<figure type="hr"/></p>
+<p><milestone unit="column" n="2"/><cb n="1"/>James H Phelps</p>
+<p>the above name is the witness that the Inditment was found</p>
+<p>J davison
+<lb/><cb n="2"/>E. S, Salyer
+<lb/>Robert Jinkens
+<lb/>Henry Dykes
+<lb/>W. H. Davidson
+<lb/>george A Phelps<pb/></p>
+<p><milestone unit="column" n="1"/>I know Somethng of the circumstances under which the Judgement was obtained and I know that Miss Estep is poor and not able to pay the fine and no one wants to see her go to Jail I therefore Join in the petition for remitting the fine</p>
+<p>W. B. Moore</p>
+<p>answer this in haste my post office address is Shopville</p>
+<p>Pulaski Co
+<lb/>Ky
+<lb/>Polly Estepp</p>
+<p>Pulaski Cir Ct
+<lb/>vs
+<lb/>Polly Estep
+<lb/>$20,
+<lb/>Adultery
+<lb/>Remitted <date when="1865-10-17">17<hi rend="sup">th</hi> Oct /65</date></p>
+  </body>
+ </text>
+</TEI>

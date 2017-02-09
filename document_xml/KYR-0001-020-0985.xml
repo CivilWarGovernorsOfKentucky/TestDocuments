@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0985"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">J. E. Bacon et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10453</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG20-44</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Brownsville, Edmonson County, Kentucky</placeName>
+    <date when="1861-04">April 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Brownsville Ky <date when="1861-04">April <gap/> 1861</date>
+<lb/>To His Excelency Honr Beriah Mcgoffin</p>
+<p>Your Petitioners Would Respectfully Represent To your honor that Joseph Lewis Sr was fined at the <date when="1861-03">March</date> Term of the Edmondson Equity &amp; Criminal Court Twenty Dollars for Betting Ten cents on a Game of Chuckluck We would Represent to your honor that Mr Lewis is a very Poore Man and that he has a Large family to support and that his Wife is a very Sickly Wooman and that he is scarcely abel to <hi rend="str">pay</hi> Support his family and that it would be a Great Hardship for him to have to pay the said fine that if he is compeled to pay the fine that it will be Taking it from his Wife and Children We therefore hope that your Honor will Remit the fine as Mr Lewis is not a betting Man he is not in the Habit of Betting and by Remiting it you will confer a Lasting favor on a Poor Man and his family</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>J E Bacon J P E C
+<lb/>Tho<hi rend="sup">s</hi>. F Spilman
+<lb/>J. P. Jackson
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Meredeth S, E, C
+<lb/>James Matison
+<lb/>L W Brown
+<lb/>J W Steward
+<lb/>Jesse C kinser
+<lb/><cb n="2"/>V. H. Jones
+<lb/>M, N, Drake
+<lb/>Amos James
+<lb/>James A, Bledsoe
+<lb/>Edmond Long
+<lb/>Robert Hughley
+<lb/>W, W, Palmer
+<lb/>Moses Houchin
+<lb/>Lewis M Harlip<pb/>
+<lb/><cb n="1"/>R. S. Hayslip
+<lb/>William Weiler
+<lb/>E Mise Johnson
+<lb/>J. D. Houchin
+<lb/>Russell Jones
+<lb/>Danel Henson
+<lb/>S B Hughes
+<lb/>W H Skaggs
+<lb/>Treford Brown
+<lb/>A, J, Lindsey
+<lb/>Basil Skaggs
+<lb/>Robert Closfuill
+<lb/><unclear/> Heath
+<lb/>Asel Houchen
+<lb/>Washington Hanes
+<lb/><unclear/> <unclear/>
+<lb/>Thos. Y. Nichols
+<lb/>S, G, Mateson
+<lb/><unclear/>
+<lb/><unclear/>
+<lb/>W<hi rend="sup">m</hi> <unclear/>
+<lb/>O. Laret
+<lb/><hi rend="underline">J,, W,, Bailey</hi>
+<lb/><cb n="2"/>Thos S. Sanders
+<lb/>Thomas conway
+<lb/>C kinser
+<lb/>P. B. Waters
+<lb/><hi rend="underline">W. H. Burk</hi>
+<lb/>W B Barnes
+<lb/>L. W. Merideth
+<lb/>Larkin J. Procter
+<lb/>John G Buillock
+<lb/>W. F. Frost
+<lb/>J J Johnson<milestone unit="column" n="1"/></p>
+<p>Remitted
+<lb/>B. M
+<lb/>Edmonson E. &amp; C Ct
+<lb/>$20. } Gaming
+<lb/>Jo<hi rend="sup">s</hi>. Lewis Sr
+<lb/>Iss<hi rend="sup">d</hi> <date when="1861-04-09">Apr. 9. 1861</date></p>
+  </body>
+ </text>
+</TEI>

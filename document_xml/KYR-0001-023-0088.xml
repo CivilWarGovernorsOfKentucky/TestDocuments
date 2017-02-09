@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-023-0088"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">William Dennison, Proclamation</title>
+    <title level="a" type="parallel">CWG3001</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, 1859-1862</collection>
+      <idno>MG1-313 to MG1-314</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Columbus, Franklin County, Ohio</placeName>
+    <date when="1861-11-01">1 November 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Proclamation/Legislation</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>PROCLAMATION BY THE GOVERNOR:
+<lb/>APPOINTING A DAY OF
+<lb/>THANKSGIVING AND PRAYER.<figure type="hr"/>
+<lb/>State of Ohio, Executive Department,
+<lb/>COLUMBUS, <date when="1861-11-01">Nov. 1st, 1861</date>.</p>
+<p>Pursuant to the request of the General Assembly of this State, and in accordance with my own sense of gratitude to Almighty God, for the bountiful mercies which He has bestowed upon the people of Ohio, I do hereby designate and set apart 
+<lb/>THURSDAY, THE <date when="1861-11-28">TWENTY-EIGHTH DAY OF NOVEMBER</date>, INSTANT,
+<lb/>As a day of Thanksgiving and Praise to Him for the inestimable privileges of our Civil and Religious Institutions: for protecting our Homes from the ravages of War; and for the manifold Blessings, individual and social, which surround and support us; and I respectfully urge upon all the people, that they refrain from their usual employments on that day, and, in their places of public worship, and at their homes, with grateful acknowledgments, offer fervent prayers to our Heavenly Father, that He may continue to remember us in His mercy; remove the calamities of civil strife which afflict the nation; restore concord between the States, confirming and perpetrating our political Union, and securing to us and to our posterity the privileges and advantages which distinguish a Christian People.</p>
+<p><figure type="seal"><ab>[L.S.]</ab></figure>
+<lb/>In Testimony Whereof, I have hereunto set my hand and caused the Great Seal of the State of Ohio to be affixed, this <date when="1861-11-01">first day of November, in the year of our Lord one thousand eight hundred and sixty-one</date>, of the Independence of the United States the 86th, and of the organization of Ohio th 59th.</p>
+<p>WILLIAM DENNISON.</p>
+<p>By the Governor: 
+<lb/>ADDISON P. RUSSELL, Secretary of State.<pb/></p>
+<p>Ohio<figure type="hr"/>
+<lb/>Proclamation</p>
+  </body>
+ </text>
+</TEI>

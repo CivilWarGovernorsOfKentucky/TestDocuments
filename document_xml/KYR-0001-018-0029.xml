@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-018-0029"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">J. G. Hazlewood and F. B. McClary to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG8095</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Military Appointments, 1859-1862</collection>
+      <idno>MG6-110 to MG6-111</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Mount Vernon, Rockcastle County, Kentucky</placeName>
+    <date when="1861-07-13">13 July 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Mount Vernon Ky
+<lb/><date when="1861-07-13">July 13<hi rend="underline"><hi rend="sup">th</hi></hi> 1861</date>
+<lb/>B Magoffin Gov</p>
+<p>Dear Sir at the <date when="1860-08">august election 1860</date> we were elected Col and Lieut Col of the <hi rend="underline">Enroled</hi> <hi rend="underline">malitia</hi> of Rockcastle county, shortly thereafter we send to the adjutant General our resignation as such, and have never taken upon ourselves the duties of said officers, but have heard nothing as to whether it was received. the offices does not suit us as we are atto<hi rend="sup">s</hi> at law and are generally absent from home when the law requires us to muster.</p>
+<p>I think it would be well to have an election ordered for <date when="1861-08">august next</date> to fill said vacancys (or we have tender you our resignation again) we have plenty competent persons to fill the offices and we would like to see the county organized<pb/>
+<lb/>as the war sport seems to be rampant in our land, and in view of the mighty strugle that is going on it would be well for all to understand the manuel of arms as we know not how soon Ky may engaged in this unatural conflict.</p>
+<p>Your obd<hi rend="underline"><hi rend="sup">nt</hi></hi> servants
+<lb/>J G Hazlewood
+<lb/>F. B. M<hi rend="sup">c</hi>Clary</p>
+<p>To B Magoffin
+<lb/>Governor of Ky<pb/>
+<lb/>Rockcastle Co
+<lb/>Col. &amp; L<hi rend="sup">t</hi>. Col
+<lb/>Resignation
+<lb/><date when="1861-07-19">July 19. 1861</date></p>
+<p>accepted
+<lb/>B. M</p>
+  </body>
+ </text>
+</TEI>

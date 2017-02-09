@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2033"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Young Brown to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6670</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR14-200 to BR14-201</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Henderson, Henderson County, Kentucky</placeName>
+    <date when="1865-06-07">7 June 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Henderson <date when="1865-06-07">June 7"/65</date>
+<lb/>Gov<hi rend="underline"><hi rend="sup">r</hi></hi>
+<lb/>Tho<hi rend="sup">s</hi> E Bramlette
+<lb/>Sir:</p>
+<p>At the <gap/> term of the Henderson Circuit Court <date when="1859">1859</date> one Henry Pointer -- a free negro, was indicted for immigrating to this State. At the <date when="1862-06">June term 1862</date> he was put upon his trial, but the jury failing to agree, the case was continued.</p>
+<p>The facts of the case, as developed by the testimony, are that, many years ago, this man went to Arkansas, with his wife, who was a slave. He remained there till the death of his wife, when he returned to this county, where all his Kinsfolk &amp; friends live. He is a blacksmith by trade, &amp; enjoys a good character. He is temperate, industrious &amp; has passed through the demoralizing influences of the last several years without reproach.</p>
+<p>I am his counsel, &amp;, as such, feel it to be my duty to put his case before you, &amp; give my opinion that it is one that commends itself to excecutive clemency. The negroes of this section of the state are worse than worthless. They come &amp; go from Ky with unchallenged impunity, &amp; it would, it seems to me, be severe that Henry Pointer should<pb/>
+<lb/>suffer the penalty of a law that is in truth obsolete, and, as the world <unclear/>, "more honored in breach than the observance". It would be gratifying to me, &amp; most certainly to my client, if you should favorably consider his case. I herewith send you a copy of the indictment.</p>
+<p>Our court opens on the <date when="---12">12<hi rend="sup">th</hi> of this month</date>, &amp; I should be pleased, therefore, to hear from you, at your earliest convenience.</p>
+<p>Very respectfully
+<lb/>Y<hi rend="sup">r</hi> Ob<hi rend="sup">t</hi> Sv<hi rend="sup">t</hi>
+<lb/><hi rend="underline">John Young Brown</hi><pb/></p>
+<p>Henderson Cir Ct
+<lb/>vs
+<lb/>Henry Pointer
+<lb/>f M C.
+<lb/>Pardoned
+<lb/><date when="1865-06-28">28 June/65</date></p>
+  </body>
+ </text>
+</TEI>

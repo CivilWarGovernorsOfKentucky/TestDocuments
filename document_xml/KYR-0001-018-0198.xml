@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-018-0198"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Thomas. S. Page to Nathaniel Gaither, Jr.</title>
+    <title level="a" type="parallel">CWG8264</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Military Appointments, 1859-1862</collection>
+      <idno>MG6-306</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1862-01-08">8 January 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><figure type="seal"><ab>UNITED WE STAND, DIVIDED WE FALL.
+<lb/>KENTUCKY.</ab></figure>
+<lb/>Head-Quarters Kentucky Volunteer Militia,
+<lb/>ADJUTANT GENERAL'S OFFICE,
+<lb/>Frankfort, <date when="1862-01-08">8 January 1862</date>.</p>
+<p>Hon: 
+<lb/>Nat Gaither Jr
+<lb/>Sec: of State_</p>
+<p>I send Eight Commissions which please prepare &amp; return:</p>
+<p><table rend="rules">
+<row>
+	<cell>1861</cell>
+	<cell><date when="1861-12-16">Dec 16</date>.</cell>
+	<cell>Thomas H. Hamrick</cell>
+	<cell>Major</cell>
+	<cell>1.</cell>
+</row>
+<row>
+	<cell>1862</cell>
+	<cell><date when="1862-01-02">Jan 2</date>_</cell>
+	<cell>Orlando Brown Jr</cell>
+	<cell>Adjudant</cell>
+	<cell>2.</cell>
+</row>
+<row>
+	<cell>1861</cell>
+	<cell><date when="1861-12-30">Dec 30</date>.</cell>
+	<cell>Andrew M<hi rend="underline"><hi rend="sup">c</hi></hi>Campbell</cell>
+	<cell>Captain</cell>
+	<cell>3.</cell>
+</row>
+<row>
+	<cell> </cell>
+	<cell><date when="1861-11-20">Octo 20</date>_</cell>
+	<cell>Thomas H. Hamrick</cell>
+	<cell>D<hi rend="sup">o</hi></cell>
+	<cell>4.</cell>
+</row>
+<row>
+	<cell> </cell>
+	<cell> </cell>
+	<cell>(this you will mark promoted <date when="1861-12-16">16 Dec 1861</date>)</cell>
+	<cell> </cell>
+	<cell> </cell>
+</row>
+<row>
+	<cell> </cell>
+	<cell><date when="1861-12-30">Dec 30</date>_</cell>
+	<cell>George W. Baker</cell>
+	<cell>1<hi rend="underline"><hi rend="sup">st</hi></hi> Lieut</cell>
+	<cell>5.</cell>
+</row>
+<row>
+	<cell> </cell>
+	<cell><date when="1861-11-20">Octo 20</date>_</cell>
+	<cell>Ephraim P. Marty</cell>
+	<cell>D<hi rend="sup">o</hi></cell>
+	<cell>6.</cell>
+</row>
+<row>
+	<cell> </cell>
+	<cell><date when="1861-12-30">Dec 30</date>.</cell>
+	<cell>S. Thompson Corn</cell>
+	<cell>2<hi rend="sup">d</hi> Lieut</cell>
+	<cell>7.</cell>
+</row>
+<row>
+	<cell> </cell>
+	<cell><date when="1861-11-20">Octo 20</date>.</cell>
+	<cell>W<hi rend="sup">m</hi> H. Tyree</cell>
+	<cell>D<hi rend="sup">o</hi></cell>
+	<cell>8.</cell>
+</row>
+</table></p>
+<p>I also send these Commissions for the seals to be affixed.</p>
+<p>Ver Resp<hi rend="sup">y</hi>
+<lb/>Tho S. Page<pb/></p>
+<p>Entered <date when="1862-01-08">Jany 8 1862</date></p>
+  </body>
+ </text>
+</TEI>

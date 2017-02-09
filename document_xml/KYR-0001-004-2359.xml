@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2359"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">William Chambers to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6996</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR15-265 to BR15-266</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency
+<lb/>Thomas E. Bramlette Governor of Kentucky,</p>
+<p>The undersigned respectfully represents, that the Grand jury of Boyle County having returned an Indictment against him for Gaming, he did on the <date when="1865-08-08">8<hi rend="sup">th</hi> day of August 1865</date>, and during the sitting of the Boyle Circuit Court at the instance of the attorney for the Commonwealth's atty, Confess a judgement on Said Indictment for the sum of Five Hundred Dollars, He states that he was charged with setting up a Faro table, in said Indictment, that the Circumstances are about these, being in the town of Danville some Months ago, he went into a room of the Hotel where he was stopping a number of Gentlemen importuned him to deal faro as a matter of amusement for a short time and having nothing particular to do for the time being he Consented, and did play at said game for a short time, for which he was indicted as aforesaid and has Confessed judgement, He would further represent that he<pb/>
+<lb/>is a mechanic by occupation, has a large family, and is poor and that he Cannot pay Said fine of Five Hundred Dollars and Provide for his family, he therefore asks your Excellency to remit said fine.</p>
+<p><hi rend="underline">William Chambers</hi></p>
+<p>We the undersigned, respectfully represent to Your Excellency that we know the petitioner William Chambers, and that we regard his a proper Case for executive clemency</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>I Know nothing of the Merits of the Petition but concur in its prayer</p>
+<p>J F Bell
+<lb/>Jno. S. VanWinkle
+<lb/><cb n="2"/>M T. Chrisman
+<lb/>J. B Nichols
+<lb/><hi rend="underline">M Chiles</hi>
+<lb/>J. P. Young
+<lb/>W R Boie<pb/></p>
+<p><milestone unit="column" n="1"/>Boyle Cir Ct
+<lb/>W<hi rend="sup">m</hi> Chambers
+<lb/>} Petition for remission
+<lb/>Judgt. Boyle ct. ct.
+<lb/>Rendered <date when="1865-08-17">17<hi rend="underline"><hi rend="sup">th</hi></hi> Aug 1865</date>
+<lb/>Five Hundred Dollrs<figure type="hr"/>
+<lb/>Remit except $50. &amp; fees &amp; costs
+<lb/><date when="1865-09-15">15 Sept 1865</date></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2459"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">P. P. Ballard et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7096</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR15-416</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1865-10-11">11 October 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency Thomas E Bramlette Governor of Kentucky</p>
+<p>Your petitions the undersigned would respectfully represent that in the year <date when="1860">1860</date> the Grand jury of Jackson County indicted John W. Hubbard for carrying concealed weapons. And afterwards a judgment was rendered in said Court against Hubbard for the sum of Sixty dollars and costs for the offense. Hubbard is a young man with a widowed mother. and sisters dependant upon him for a support. Has been a Member of the 1<hi rend="sup">st</hi> Ky Cavalry. And as such discharged his duties faithfully &amp; in a satisfactory manner. He is very poor and really unable to pay the fine. With his constitution shattered by Exposure in the Service, we think it a hardship for him to have to pay it and and ask that you remit the Same think that this is <hi rend="str">a</hi> <hi rend="str">case</hi> really a proper case for Executive Clemency <date when="1865-10-11">Oct 11<hi rend="sup">th</hi> 1865</date></p>
+<p><milestone unit="column" n="2"/><cb n="1"/>John W Hubbard is a resident of Madison County And his Post office Richmond</p>
+<p>P P Ballard
+<lb/><cb n="2"/>Boston Dillion Ex Capt 1<hi rend="sup">st</hi> Ky Cav
+<lb/>Thos Rowland
+<lb/>James H. Embry Clerk
+<lb/>Madison County Court
+<lb/>J W Bourne Judge
+<lb/>Madison County Court
+<lb/>R H Johnson, U. S. Assessor
+<lb/>F W Dillion late Capt 1<hi rend="sup">st</hi> Ky cav<pb/></p>
+<p><milestone unit="column" n="1"/>P S Fine Interest &amp; Costs up to the Present date amounts to One Hundred and Thirteen dollars &amp; <hi rend="sup">15</hi>/<hi rend="sub">100</hi></p>
+<p>Jackson Cir Ct
+<lb/>vs
+<lb/>John W Hubbard
+<lb/>$60,
+<lb/>Remitted <date when="1865-10-13">13 Oct 1865</date></p>
+  </body>
+ </text>
+</TEI>

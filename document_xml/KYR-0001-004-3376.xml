@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-3376"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Levi Sigler et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG5495</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR42-239 to BR42-241</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Webster County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his excellency Thomas E Bramlet
+<lb/>Govenor of Kentucky</p>
+<p>Your Petitioners beg leave to state that one Daniel J Christian of Webster County was indicted by the Grand Jury of said County for the offence of Retailing Whiskey without a license and at the <date when="1864-03">March term of the Webster Circuit Court for 1864</date> Said Daniel J Christian was fined in the sum of Sixty dollars for said offence</p>
+<p>We the undersigned Citizens of Webster County would respectfully represent to your Honor that said Christian is a very poor man that he is a cripple having lost his right thumb and with it the use of his right hand that he has a wife and four small children that we believe that the said Christian was actuated by no improper motive in selling whiskey but engaged in the same merely to enable himself the better to support his family wherefore We would respect fully petition your honor that he be released from the payment of said fine that the release would be an act of kindness to him but much more to his wife and infant children Wherefore We pray his release and as in duty will ever pray &amp;C</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Subscribers names
+<lb/>Levi Sigler
+<lb/>Allen Price
+<lb/>Jas M Rice
+<lb/><cb n="2"/>Subscribers names
+<lb/>J. J Sigler
+<lb/>C W Cook<pb/>
+<lb/><cb n="1"/>Subscribers names
+<lb/>W. H. Browning
+<lb/>M C Davis
+<lb/>B Hennen
+<lb/>A. B. Browning
+<lb/>Hiram Martin
+<lb/>John D Morehead
+<lb/>W<hi rend="sup">m</hi> W Asher
+<lb/>Geo. P. Casby
+<lb/>B. L. Winstead
+<lb/>H B Chandler
+<lb/>G W. Stanley
+<lb/>J K Hanasson
+<lb/>H R Baker
+<lb/>S Samuel W Cavanah
+<lb/>G C Gaines
+<lb/>P.. S. Ruark
+<lb/>D. N. Edmondson
+<lb/>Joseph Jenkins
+<lb/>Vanzant S Baker
+<lb/>Albert R. Sigler
+<lb/>Joel M<hi rend="sup">c</hi>Clendon
+<lb/>Isaac Watson
+<lb/>W T Vaughn
+<lb/>J W Campbell
+<lb/>B <unclear/>
+<lb/>David Ellen
+<lb/>John H Bumpass
+<lb/>A Ralam
+<lb/>William <hi rend="str">all</hi> allen
+<lb/><cb n="2"/>Subscribers names
+<lb/>W F Kuyken^dall^
+<lb/>Joseph Dye
+<lb/>Johnson Vaughn
+<lb/>W. P. Newman
+<lb/>George A Powell
+<lb/>Henry Stone
+<lb/>D. C. Yarborugh
+<lb/>James Morehead
+<lb/>W<hi rend="sup">m</hi> <unclear/>
+<lb/>R N <unclear>Charmeal</unclear>
+<lb/>Charles Simeon
+<lb/>P. D. Clayton<milestone unit="column" n="1"/><pb/>
+<lb/><figure type="seal"/>
+<lb/>His Excelency Thomas E Bramlet
+<lb/>Govenor of Kentucky
+<lb/>Frankfort Ky</p>
+<p>Webster Cir Ct
+<lb/>vs
+<lb/>D. J. Christian
+<lb/>Refused <date when="1865"><hi rend="underline">65</hi></date></p>
+  </body>
+ </text>
+</TEI>

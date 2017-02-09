@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2177"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John E. Hamilton to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6814</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR14-413</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Covington, Kenton County, Kentucky</placeName>
+    <date when="1865-07-25">25 July 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Covington <date when="1865-07-25">July 25. 65</date>
+<lb/>To His Exc Gov T E Bramlette
+<lb/>Dear Sir</p>
+<p>Sometime last Dec I was induced to become surety in the triel bond of accused Wa<hi rend="str">g</hi>ng for the Sum of 100$ to appear before the Kenton Cir Court to answer to any indictments that might be found agst him. Wang was present during the 1<hi rend="sup">st</hi> 2 or 3 day's of the term but was induced to volunter in the Army &amp; his trial was forfeited. &amp; I repleved it the other day -- He (Wang) was chg was petit larceny &amp; from the limited knowledge of the case am inclined to the belief that he was wrongfully accused &amp; hope that your Exc will remit said amount &amp; -- </p>
+<p><note place="left margin">Wang was indicted by grand Jury after he volunteered -- <unclear/> never heard of him since he left -- M<hi rend="sup">r</hi> Gray of Moore &amp; Gray attys got me to go in his bond as he stiled the case a malicious one -- </note></p>
+<p>With Respt
+<lb/>Yours Truly -- 
+<lb/>Jno. E. Hamilton
+<lb/>Of firm of Carlisle &amp; Hamilton
+<lb/>Attys.
+<lb/><hi rend="underline">Over</hi> -- <pb/></p>
+<p>Mr. Hamilton was induced to Sign Wang's Bond by my partner M<hi rend="underline"><hi rend="sup">r</hi></hi> Gray. Wang was induced to reenlist in the army having previously served 3 years. We were sure (as we well could be) that Wang would be cleared of the Charges, upon a trial &amp; M<hi rend="underline"><hi rend="sup">r</hi></hi> Hamilton did not sign his bond to enable him to escape justice.</p>
+<p>Respectfully
+<lb/>C <unclear/></p>
+<p>I would be pleased of the prayer of petitioner by granted</p>
+<p><hi rend="underline">M J. Dudley</hi>
+<lb/><hi rend="underline">Geo G. Perkins</hi>.</p>
+<p>I very respectfully join in the request of M<hi rend="sup">r</hi> Hamilton and further, would recommend it</p>
+<p>R. A Athey
+<lb/>Jno. W Finnell
+<lb/>J. G. Carlisle
+<lb/>John F. Fisk</p>
+<p>Kenton Cir Ct
+<lb/>vs
+<lb/>J, E, Hamilton
+<lb/>$100.
+<lb/>Forfeiture
+<lb/>Remitted
+<lb/><date when="1865-08-04">4 Aug /65</date></p>
+  </body>
+ </text>
+</TEI>

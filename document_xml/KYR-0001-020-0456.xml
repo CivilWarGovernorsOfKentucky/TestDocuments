@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0456"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Ferdinand Hock to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG9924</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG18-213</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Kenton County, Kentucky</placeName>
+    <date when="1861-01-09">9 January 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency B Magoffin Govenor of Kentucky -- </p>
+<p>The undersigned would most respectfully represent that he was at the present Term of the Kenton circuit was fined fifty dollars &amp; sentenced to confinement in the county Jail for six months -- under an Indictment for cutting one L. Miller with intent to Kill -- The undersigned does not pretent to say he did not cut said Miller, but he denies that he ^even^ intended to Injure <hi rend="str">es</hi> said Miller He says they were both in a Lager Beer Saloon drinking -- &amp; when they were both very much under the influence of Beer -- they got into a quorrel &amp; said Miller provoked him with words &amp; violence, to such an extent that he with a small dull pocket knife cut said Miller on the cheek without any intent to injure said Miller for he Knew not what ^he was^ <hi rend="str">they were</hi> doing -- He says he is a poor man &amp; has no other means of support except from the labor of his hands that he is entirely unable to pay said fine -- to pay the Commonwealths<pb/>
+<lb/>Attorney his fees &amp; the Clerks costs will be very onerous upon him &amp; will be about as much as he could pay -- but even this he can not pay unless he is released from confinement &amp; permited to go to his daily labor which will be the only means of making the money -- He therefore most respectfully ask that he be released from Jail &amp; from the payment of said fine</p>
+<p>Ferdinand Hock</p>
+<p>F Hock says the statements contained in the foregoing petition are true</p>
+<p>Ferdinand Hock</p>
+<p>Sworn to before me by F Hock this <date when="1861-01-09">9 day of Jan 1861</date></p>
+<p><hi rend="underline">R K Sumerwell</hi>
+<lb/>Notary Public
+<lb/>Kenton C<hi rend="underline"><hi rend="sup">o</hi></hi> Ky</p>
+<p>I recommend the remission of the six months imprisonment -- but I think the $50 fine should be enforced</p>
+<p>W, E, Arthur
+<lb/>Atty for Com'th</p>
+  </body>
+ </text>
+</TEI>

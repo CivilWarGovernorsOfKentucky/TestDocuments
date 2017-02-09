@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-031-0196"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Staughton Lynd, Oath</title>
+    <title level="a" type="parallel">CWG7936</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Appointments by the Governor, Civil Appointments, 1862-1863</collection>
+      <idno>R1-274</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Hamilton County, Ohio</placeName>
+    <date when="1863-04-17">17 April 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>The State of Ohio
+<lb/>Hamilton County } S S</p>
+<p>Staughton Lynd being duly sworn says that he will well and truly execute and perform all the duties of his station under his appointment and commission from the Governor of the Commonwealth of Kentucky as Commissioner of deeds for the State of Kentucky said commission bearing date <date when="1863-04-14">April 14" 1863,</date> &amp; said Lynd residing in the State of Ohio</p>
+<p>Staughton Lynd</p>
+<p>I hereby certify that the foregoing affidavit was this day subscribed &amp; sworn to before me by said Staughton Lynd who is to me well known. Witness my hand and seal of office this this <date when="1863-04-17">17<hi rend="underline"><hi rend="sup">th</hi></hi> day of April A D 1863</date></p>
+<p>John H. Ewing
+<lb/>Notary Public
+<lb/>Ham. Co. Ohio</p>
+<p><figure type="seal"><ab>NOTARIAL SEAL
+<lb/>HAMILTON COUNTY, OHIO.</ab></figure></p>
+<p>Ohio<figure type="hr"/>
+<lb/>Oath of Office
+<lb/>S. Lynd
+<lb/>Com<hi rend="underline"><hi rend="sup">r</hi></hi> of Deeds
+<lb/>Filed <date when="1863-04-18">Apr 18. 1863.</date></p>
+  </body>
+ </text>
+</TEI>

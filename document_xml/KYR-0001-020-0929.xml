@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0929"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Samuel W. Young to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10397</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG19-477</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency Beriah Mcgoffin
+<lb/>Governor of Kentucky.</p>
+<p>The undersigned states that at the <hi rend="str"><unclear/></hi><date when="1859-08">August</date> Term of the Waren Equity &amp; Criminal, he was fined by a Jury $200 on a charge of permitting unlawful gaming in a House. That he prayed an appeal to the court of Appeals -- but for failure to file a copy of the record in sixty days -- The appeal was dismissed -- He files a copy of the opinion together with a copy of the evidence with this petition. He is persuaded injustice has been don him and respectfully asks yr Excellency to inter pose in his behalf &amp; remit the fine -- </p>
+<p>Respectfully
+<lb/>Samuel. W. young<pb/></p>
+<p>Warren E &amp; C. Ct
+<lb/>$200 } Gaming
+<lb/>S. W. Young<figure type="hr"/>
+<lb/>Respited 12 mos
+<lb/>Iss<hi rend="sup">d</hi> <date when="1860-03-08">Mar. 8. 1860</date><figure type="hr"/><hi rend="str">
+<lb/>Iss</hi>Remission Iss<hi rend="sup">d</hi>
+<lb/><date when="1861-04-09">Apr. 9. 1861.</date></p>
+  </body>
+ </text>
+</TEI>

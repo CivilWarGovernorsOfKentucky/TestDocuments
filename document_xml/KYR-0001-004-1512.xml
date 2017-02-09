@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1512"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Butcher to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6149</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR12-345</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Rockcastle County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>State of Kentucky
+<lb/>Rockcastle County
+<lb/>To his Excellency Th<hi rend="sup">o</hi>. E Bramlett Gov<hi rend="sup">r</hi>. of Kentucky</p>
+<p>Your petitioner John Bucher would most respectfully represent to your honour -- That at <date when="1864-02">Feby Term of the Rockcastle Circuit court for Fbey 1864</date> there were two Judg<hi rend="sup">ts</hi>, obtained aganst him, on the charge of gaming &amp; the for retailing for $20. cash, I was absent at the of trial being at time engaged as Waggon Master at the time and was on my way to Cumberland-Gap,</p>
+<p>I send this by our mutial friend Brooks and would be very much obliged to you, if you remit the fines aforesaid</p>
+<p>I remain yours truly
+<lb/>John Bucher<pb/></p>
+<p>Rockcastle Cir Ct
+<lb/>vs
+<lb/>John Butcher
+<lb/>$20. each
+<lb/><date when="1865-02-28">28<hi rend="sup">th</hi> Feby/65</date>
+<lb/>Remit</p>
+  </body>
+ </text>
+</TEI>

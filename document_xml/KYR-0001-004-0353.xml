@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0353"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John J. Heuffman to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG4472</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR9-62 to BR9-63</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Lancaster, Garrard County, Kentucky</placeName>
+    <date when="1863-12-04">4 December 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Lancaster Ky.
+<lb/><date when="1863-12-04">4<hi rend="sup">th</hi> Dec<hi rend="sup">r</hi>. 1863</date>
+<lb/>To His Excellency.
+<lb/>Gov Thos. E Bramlett
+<lb/>Dear Sir:</p>
+<p>He would respectfully state that on the <date when="1862-11-26">26<hi rend="underline"><hi rend="sup">th</hi></hi> day of November 1862</date>, James H Smith was tried before an examining Court for Garrard County for Maliciously shooting Joshua Burdett on the <date when="1862-11-17">17<hi rend="sup">th</hi> of said month</date>, and was held to bail for his appearance at the next succeeding <date when="1863-02">Feby Term</date> of the Garrard Circuit Court in the sum of one thousand dallars. that the undersigned. John J Huffman, M H Gill, S Hopper. J W. Grant &amp; H Jackman, with one other, Richard West, entered as the sureties of Smith in said bond- and one of the principal objects we had in view was to enable Smith to return to his command, he being a Captain in the 12<hi rend="sup">th</hi> Ky U.S. It was thought on the day of trial that Mr. Burdett was recovering from the wound, but unfortunately it proved otherwise. he lingered until about the <date when="1862-12-12">12<hi rend="sup">th</hi> Decr 1862</date> and died. Smith failed to appear<pb/></p>
+<p>in discharge of the recognizance at the <date when="1863-02">Feby Term 1863</date>. and thereupon the bond was declared forfeited, and process was awarded to <date when="1863-08">Augt Term 1863</date>. against the obligers in the bond, &amp; was returned by the Sheriff executed on all but Smith and one of the sureties, Richard West. The latter having in the meantime removed out of the State, and at the <date when="1863-08">Augt Term 1863</date> Judgment was rendered upon the forfeited recognizance against said sureties who had been served with process, towit, Huffman, Hopper, Grant Gill &amp; Jackman</p>
+<p>They would further represent that at the time they entered as sureties aforesaid they believed Mr Burdett was in a fair way to recover and that the bond was sufficient to secure the appearance of Smith. Smith has not been heard of since M<hi rend="sup">r</hi>. B'<hi rend="sup">s</hi> death although a larger reward was offered for his apprehension.</p>
+<p>The amount of the bond &amp; costs for which Judgment was rendered as afs<hi rend="sup">d</hi>. are about to be, and will be coerced out of the said sureties by writ of execution<pb/></p>
+<p>or otherwise unless your Excellency interpose the Executive clemency &amp; remit the same. Such are the facts,- a true &amp; plain history of the case.</p>
+<p>They therefore petition to be released from the obligations of said bond and the Judge aforesaid, or so much thereof as is compatible with law &amp; public Justice.</p>
+<p>John J Heuffman</p>
+<p>In view of the circumstances, &amp; the hardships attending the suretyship as set forth in the foregoing petition, we cherrfully Join in the prayer thereof to His Excellency Gov<hi rend="sup">r</hi>. Bramlett <hi rend="str">for</hi> to remit the penalty impose.
+<lb/><milestone unit="column" n="2"/><cb n="1"/>Garrett Elkin
+<lb/>Jas L Anderson J G C
+<lb/>John S Gill D S G C
+<lb/>Benj F Duncan
+<lb/>Rob<hi rend="sup">t</hi> Elkin
+<lb/>J G Sweeney
+<lb/><cb n="2"/>E. H. Burnside
+<lb/>W. C. Bailey
+<lb/>Jas A. Anderson Cty Atty.
+<lb/>L. R M<hi rend="sup">c</hi>Murtry
+<lb/>Jas. H. <unclear>Mauty</unclear>
+<lb/>R Leslie M<hi rend="sup">c</hi>Murtry
+<lb/>Stephen Mary
+<lb/>J. A. Beazley<milestone unit="column" n="1"/><pb/></p>
+<p>Garrard Cir Ct
+<lb/>vs.
+<lb/>J. J. Huffman &amp; others</p>
+<p>Remit all except costs &amp; fees
+<lb/>Tho E Bramlette
+<lb/>$1000
+<lb/><date when="1863-12-07">7<hi rend="sup">th</hi> Dec/ 63</date></p>
+  </body>
+ </text>
+</TEI>

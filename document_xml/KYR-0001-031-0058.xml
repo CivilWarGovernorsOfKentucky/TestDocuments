@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-031-0058"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">J. M. Wilson to James F. Robinson</title>
+    <title level="a" type="parallel">CWG7798</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Appointments by the Governor, Civil Appointments, 1862-1863</collection>
+      <idno>R1-96</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Hawesville, Hancock County, Kentucky</placeName>
+    <date when="1862-10-18">18 October 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Hawesville Ky <date when="1862-10-18">Oct 18<hi rend="sup">th</hi> 1862</date>
+<lb/>Gov. J. F. Robinson</p>
+<p>Sir=Some time since several of my friends petitioned to your Excellency to appoint me to the office of Justice of the Peace in this the Hawesville District which office has become <hi rend="str">vacant</hi> vacant -- the former Justice having been elected County Judge -- and not having heard from you I have concluded that the Petition has become mislaid I have determined to write you and ask your consideration as to myself in regard to the aforesaid office -- I will merely say that I am and have been all the time a warm lover and advocate of the Union Cause and think I can claim <hi rend="str">with</hi> without impunity to be an honest man and if I receive the office solicited <hi rend="str">to</hi> I will endeavor to discharge the duties imposed upon me with impartiality between man and man -- Your early attention to this is requested as we are in need of a Justice as we have none in town</p>
+<p>Yours respectfully
+<lb/>J. M. Wilson<pb/></p>
+<p>Hancock Co<figure type="hr"/>
+<lb/>J. P.<figure type="hr"/>
+<lb/>Dist N<hi rend="sup">o</hi> 2
+<lb/>App<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1862-11-14">Nov 14 1862</date></p>
+  </body>
+ </text>
+</TEI>

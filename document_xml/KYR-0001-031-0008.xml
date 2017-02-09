@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-031-0008"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">T. Holmes et al. to James F. Robinson</title>
+    <title level="a" type="parallel">CWG7748</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Appointments by the Governor, Civil Appointments, 1862-1863</collection>
+      <idno>R1-36</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency the Governor of Ky</p>
+<p>Your petitioners respectfully represent that there is a vacancy in the office of Justice of the Peace in &amp; for the 2<hi rend="sup">nd</hi> District in Hancock County occasioned by the resignation of John M<hi rend="sup">c</hi>Brown who was Elected and is now Presiding Judge of the Hancock County Court -- Now we respectfully recommend that Milton L. Cooper be Commissioned by Yr Excellency to fill the said vacancy. He is well qualified, and a consistent Union man. And would fill the office we think well. We are citizens of the said District and Union Men. -- </p>
+<p><date when="1862-09-09">Sept<hi rend="sup">r</hi> 9<hi rend="underline"><hi rend="sup">th</hi></hi> 1862</date></p>
+<p><hi rend="underline">T Holmes</hi>
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Dial
+<lb/>Ed Humfrey
+<lb/>G. W. M<hi rend="sup">c</hi>Adams
+<lb/>W<hi rend="underline"><hi rend="sup">at</hi></hi> Longest
+<lb/>Edw Davidson
+<lb/>Chas. B. Bell Sheriff Elected</p>
+  </body>
+ </text>
+</TEI>

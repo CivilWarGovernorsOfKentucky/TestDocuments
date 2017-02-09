@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0902"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Urias M. Offutt to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG5021</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Bradley Strait</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR10-385 to BR10-386</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1864-05-02">2 May 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency Thos E Bramlette Gov of Ky. As the <date when="1863-05">May Term 1863</date> of the Harrison Circuit court Thornton Williams a slave belonging to Urias Offutt was indited for wounding Jno Benee with intent to kill him. The county Judge of Harrison Co admitted the slave to bail to appear at the <date when="1863-11">1<hi rend="sup">st</hi> day of the Nov Term 1863</date> of said court to answer said charge and the said U^M^Offutt became surety in said bail bond. That shortly after he was bailed out of jail he was impresed by the federal authorities and taken to Camp. Nelson. that affiant U M Offutt has not been able to get said negro Thornton back into his possession and Consequently has not been able to comply with the terms of said bail bond. It has been forfeited by the failure of the said slave to appear and affiant will be compelled ^to pay^ the three hundred Dollars amount of the bond unless the said forfeiture is remitted by your Excellency. Said slave is now at Knoxville Tenn and entirly out of the control of affiant and has been ever since he was impressed as afsd. </p>
+<p>Urias M Offutt<pb/></p>
+<p>Sworn in before me by U M Offutt this <date when="1864-05-02">2<hi rend="sup">nd</hi> day of May 1864</date><pb/></p>
+<p>Georgetown <date when="1863-05-03">3<hi rend="sup">d</hi> May 1863</date>
+<lb/>Gov. Thos E. Bramlette</p>
+<p>Dear Sir. I cordially endorse the within petin Mr. U. M. Offut is a gentleman one of our best citizens and a true conservative union man. The negro which a bail was taken against was his consent by the Military Authorities and has made his escape He has lost his his negro. In justice he should not be held liable as he could not prevent the act of the Government</p>
+<p><hi rend="underline">Yours truly</hi>
+<lb/><hi rend="underline">J. F. Robinson</hi></p>
+<p>Harrison Co. 
+<lb/>vs
+<lb/>Uriah Offutt
+<lb/>Forteiture 
+<lb/>remit the forfeiture except 
+<lb/>costs 
+<lb/>Tho E Bramlette 
+<lb/>$300
+<lb/><date when="1864-05-04">4<hi rend="sup">th</hi> May/64</date></p>
+  </body>
+ </text>
+</TEI>

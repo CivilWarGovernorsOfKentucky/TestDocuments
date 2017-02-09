@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1438"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Thomas D. Davis et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6075</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR12-237 to BR12-238</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency Thos E Bramlette
+<lb/>Governor of Kentucky</p>
+<p>Your petitioner Thos D. Davis states that some time before the <date when="1864-06">June Term of the Kenton Circuit Court, ^1864^</date> one Hiram Alexander was arrested and taken before the Mayor of Covington on a charge of assault with intent to rob, and held over to the Kenton circuit court at Covington on a bond of $100<hi rend="underline"><hi rend="sup">00</hi></hi>, He says that at the <date when="1864-06">June term of s<hi rend="underline">d</hi> Court s<hi rend="underline">d</hi></date> Alexander was indicted and failed to appear and the s<hi rend="underline">d</hi> Bond was forfeited Petitioner was his security and after forfeiture on the <date when="1864-09">Sept Term of s<hi rend="underline">d</hi></date> court judgment was taken ag<hi rend="underline">st</hi>. petitioner on sd bond and fi fa has issued. Petitioner says he had a copy of his sd Bond put into the hand of the shff. ^of Kenton Co,^ to arrest and surrender s<hi rend="underline">d</hi> Alexander to the Jailor of s<hi rend="underline">d</hi> County before the indictment was found, He also put a copy of s<hi rend="underline">d</hi> Bond into the hands of the City Marshall of Covington and since the Judgment was taken against ^him^ has succeeded in having him arrested and put into the Jail of s<hi rend="underline">d</hi> County and paid the expense thereof himself. He states that he did all he could to have s<hi rend="underline">d</hi> Alexander arrested and brought to the<pb/>
+<lb/>bar for trial under the s<hi rend="underline">d</hi> indictments, and finally arrested him and reported to the shff. who had a bench warrant for him, and had him lodged in the Jail of the County, where he would be now as petitioner supposes but that he and another prisoner escaped a few days since from s<hi rend="underline">d</hi> jail by cutting through the wall. Petitioner therefore asks your <hi rend="str">H</hi> Excellency to remit by pardon so much of s<hi rend="underline">d</hi> forfeited Bond as your Excellency is by Law authorized to remit and as in duty bound will ever pray</p>
+<p>Respectfully
+<lb/><hi rend="underline">Tho</hi><hi rend="underline"><hi rend="sup">s</hi></hi><hi rend="underline">. D, Davis</hi></p>
+<p>The statements of the above petition are true, Mr. Davis before indictment of Alexander had a copy of the Bond in the hands of the shff and Marshall of Covington and authorizing also the constables of the County to arrest him and finally did have him arrested and paid of his own money therefore $10<hi rend="underline"><hi rend="sup">00</hi></hi> to my knowledge and I am satisfied the exercise of executive clemency will be well used in a pardon of the amount due the state of Ky, thereon</p>
+<p>C, H, <unclear>Rouen</unclear><pb/></p>
+<p>We fully concur in the above prayer and representations</p>
+<p>James B Gray
+<lb/>R. Richardson
+<lb/>J S Scott
+<lb/>S G. Perrin
+<lb/>W. J. Perrin<pb/></p>
+<p>Kenton Cir Ct
+<lb/>vs
+<lb/>Thos D Davis
+<lb/>$100 -- </p>
+<p>Remited
+<lb/><date when="1865-01-04">4<hi rend="sup">th</hi> Jany/65</date></p>
+  </body>
+ </text>
+</TEI>

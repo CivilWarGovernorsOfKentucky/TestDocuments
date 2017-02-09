@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1893"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Isaac Paul to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG11361</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Bradley Strait</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG23-315 to MG23-316</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Mercer County, Kentucky</placeName>
+    <date when="1862-05-13">13 May 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Exelency the Govonor of Kentucky </p>
+<p>Isaac Paul your Petitioner would Respectfully represent that at the <date when="1858-10">October Term 1858</date> of the Mercer Circuit Court a Judgment was recovered in the name of the Commonwealth against him for Sixty dollars fine for keeping a Tipling House that Execution has issued for said debt and costs amounting to Eight dollars and five cents that this affiant is a poor man with a family of Eight children to provide for and is actually unable to pay said fine He respectfully prays that executive Clemency may be extended to him and that your Exelency will remit said fine &amp;c</p>
+<p>Isaac Paul </p>
+<p>Mercer county sct </p>
+<p>Isaac Paul this day made out by the statements above peition
+<lb/><date when="1862-05-13">13 May 1862</date></p>
+<p>O J Portor</p>
+<p>We join in the prayer of the above petition</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>S S M<hi rend="sup">c</hi>Fatridge
+<lb/><cb n="2"/>O S Poston
+<lb/><hi rend="underline">Geo</hi>. O. <hi rend="underline">Hernden</hi> 
+<lb/>S. M<hi rend="sup">c</hi>Brayer 
+<lb/>James D Hawkins
+<lb/>A D Haynes 
+<lb/><hi rend="underline">Tho</hi> <hi rend="underline">Allen</hi> 
+<lb/>Ben. C. <unclear/>
+<lb/>Nimrod Harris<milestone unit="column" n="1"/><pb/></p>
+<p>Mercer Cir Ct 
+<lb/>$60 } Tipling 
+<lb/>Issac G Paul 
+<lb/>Remission Iss<hi rend="sup">d</hi> <date when="1862-05-26">May 26. 1862</date></p>
+  </body>
+ </text>
+</TEI>

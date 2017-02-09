@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1036"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">W. P. Stickley to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10504</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG20-118</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1861-05-28">28 May 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Beriah MaGoffin
+<lb/>Gov of Ky.
+<lb/>Frankfort Ky.</p>
+<p>D<hi rend="sup">r</hi> Sir Enclosed I send you a petition of John Coleman asking and praying the remission of a fine assessed agst him. at the <date when="1860-04">April Term 1860</date> of the Knox Circuit Court, I am well acquainted with Mr Coleman I have always found him to be candid honest &amp; true. and I have no reason to doubt the truth of the statements in his petition he is very poor young man and a cripple he has the care of a very old mother and Aunt on his hands. I know it would be a great sacrifice of his propiety to compell him to pay the fine he has but one horse, and if taken from he will not be able to make his crops. I think if any case was every presented that deserved the interposition of your Excellency. it is this case. A great many of the best citizen have sign his petition I believe every citizen in the county would do so if he would present it but I have advised it was unnecessary. I hope you <pb/>
+<lb/>will remit the fine. Mr Dishman the commonlths atty says to me he wishes you to remit the fine. And would write to you but for time to do so. hopeing you will show Mr Coleman the mercy prayed for</p>
+<p>I am very
+<lb/>Respectfully
+<lb/><date when="1861-05-28"><hi rend="str">May 28 1861</hi></date>
+<lb/>W. P. Stickly
+<lb/><date when="1861-05-28"><hi rend="underline">May 28 1861</hi></date></p>
+  </body>
+ </text>
+</TEI>

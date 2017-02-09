@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0581"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">David Dishman to John Wood</title>
+    <title level="a" type="parallel">CWG10049</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG18-394</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Barbourville, Knox County, Kentucky</placeName>
+    <date when="1861-01-21">21 January 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Barbourvill Ky <date when="1861-01-21">Jan 21<hi rend="underline"><hi rend="sup">st</hi></hi> 1861</date>
+<lb/>Mr John Word
+<lb/>Dear Sir</p>
+<p>Enclosed your will find a petition to the Gov for a remit of a fine against John and Iaace Walter for the sum of ten dollars each you can see in the pertition the cause of it John I am the securty to the replvein ^<unclear/>^ Bond and will have it to pay if the Gov do not remit the same I want you to do all you can to keep me from having it to pay and if the Gov will not remit it get him to respite it as longe as you can</p>
+<p>Your Ob<hi rend="sup">t</hi>
+<lb/>David Dishman</p>
+<p>P. S.
+<lb/>your Family is all well D. G. Pouger is <hi rend="str">difficult</hi> about well</p>
+<p>D Dishman</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1133"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Jacob Friend to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10601</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG20-275</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date when="1861-06-27">27 June 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Louisville Ky <date when="1861-06-27">June 27<hi rend="sup">th</hi> 1861</date>
+<lb/>His Excellency
+<lb/>B Magoffin</p>
+<p>The undersigned petitioner states that he is a Tavern Keeper in the City of Louisville and has been for a long time, and that he was regularly paid his license for the privilege of keeping the Same</p>
+<p>He says that owing to the tightness of money matters and the almost impossibility of Collecting money he could not for a few days get money Enough to pay for his license, and that a short time Elapsed before the Expiration of his old license and the removal of his present license,</p>
+<p>He says that during said time he was fined during the month of <date when="1861-06">June 1861</date> by the City Court of Louisville in two Cases twenty dollars Each for once ^Liquor^ selling without license,</p>
+<p>He says that he renewed his License to keep his tavern again as soon as he possibly could get the money that he is a law abiding citizen and that he has done all he possibly could to conform to the law, that the City has lost none of her revenues by the few days delay in taking out his license and that he trust your Excellency, will in view of all the facts of his case remit said two fines, of Twenty dollars Each, and that he would ^not^ ask the same if he did not know that the fault was not his</p>
+<p>Very Respectfully
+<lb/>Jacob Friend<pb/></p>
+<p>We the undersigned Citizens of Louisville state that we are acquainted with the within petitioner, that we know him to be a good and law abiding citizen, that we believe his statements are true, that we believe his a case that Demands Executive Clemency and therefore unite with him in asking Your Excellency to remit Said two fines</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Jo<hi rend="underline"><hi rend="sup">s</hi></hi> Clement
+<lb/>Ch D Robards
+<lb/>Jno M. Farrar
+<lb/>A Maas
+<lb/>P. H Brulley
+<lb/>J L Brown
+<lb/>D. W. Henderson
+<lb/>Philly A Mullam
+<lb/>Peter Noll
+<lb/><cb n="2"/>W Clark Price
+<lb/>W. A. Clark
+<lb/>J. Garert
+<lb/>J. H. Comels
+<lb/>Jacob Luras
+<lb/>John H. Rowke
+<lb/>Julia Winter
+<lb/>Geo. P. Dosra
+<lb/>W<hi rend="sup">m</hi> Elwany
+<lb/>H Isaccsy
+<lb/>Jno A. H. Dauphlin
+<lb/>Billing &amp; Dreisbach
+<lb/>K. Reisler
+<lb/>Sam<hi rend="sup">l</hi> Matlack
+<lb/>T. F. Evans
+<lb/>J. G. Hunt
+<lb/>J. G. R Hood
+<lb/>A H M<hi rend="sup">c</hi>kay<milestone unit="column" n="1"/></p>
+<p>I know the gentleman who have signed the foregoing Petitions they are citizens of Louisville &amp; highly respectable men</p>
+<p>Geo W. Johnston</p>
+<p>Respite 12 Mos
+<lb/>B. M</p>
+<p>Louisville City Ct
+<lb/>2 Judgts $20 each } Misdemeanor
+<lb/>Jas. Friend</p>
+<p>Iss<hi rend="sup">d</hi> <date when="1861-07-02">July 2. 1861</date></p>
+  </body>
+ </text>
+</TEI>

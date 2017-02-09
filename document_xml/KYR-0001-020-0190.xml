@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0190"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John G. Carlisle and Joe M. Kennedy to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG9658</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG17-132 to MG17-133</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Covington, Kenton County, Kentucky</placeName>
+    <date when="1860-07-27">27 July 1860</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Covington Ky
+<lb/><date when="1860-07-27">July 27 1860</date>
+<lb/>Dear Governor -- </p>
+<p>A young man by the name of Lawrence has called and informs me that no petition has ever been received by you in behalf of Fred. Baker who is now confined in the Penitentiary -- At his request I write to say that a petition asking you to pardon Baker was prepared and very numerously signed -- It was sent to my office to be forwarded to you by me, but as I was at the time absent, it was mailed by J. M. Kennedy Esqr -- who will sign this letter with me -- Baker was tried for stealing a parcel of fruit trees; the evidence was altogether circumstantial, and it was the prevailing opinion among those who heard it <hi rend="str">the evidence</hi>, that he was innocent -- He was himself a dealer in fruit trees and had on hand a large number at the time of his arrest -- The owner of the lost trees examined those of Baker, and thought he identi<pb/>
+<lb/>fied some of his among them -- Baker proved that he had for some time been purchasing trees in the Cincinnati market, but he could not prove that these <hi rend="underline">identical</hi> trees had been bought there. He lived over ten miles from the man who lost the trees, and he showed by two or three witnesses that he was at home until 12 o'clock on the night the trees were taken; and by one witness that he was at home until 2 o'clock in the morning -- This last witness was a huckster who had stopped at Bakers to stay all night -- or until time to start to market in the morning -- On the part of the Commonwealth, it was shown by the owner of the trees that he believed the trees at Bakers were his -- He did not think he could be mistaken -- </p>
+<p>The petition which was sent to you set forth the facts at some length -- Bakers neighbors all speak well of him, and seem to feel great interest in his case -- He is a German and speaks but very little if any, English -- </p>
+<p>Yours very Resptfully
+<lb/>J. G. Carlisle
+<lb/>Joe M Kennedy</p>
+<p>Hon B. Magoffin<pb/></p>
+<p>Bakers case
+<lb/>Pen' (Carlisle)</p>
+  </body>
+ </text>
+</TEI>

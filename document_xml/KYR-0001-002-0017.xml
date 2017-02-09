@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-002-0017"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">E. H. Hobson to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG0881</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Jacob A Glover</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Appointments by the Governor, Military Appointments, 1863-1867</collection>
+      <idno>BR5-336 to BR5-337</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Jessamine County, Kentucky</placeName>
+    <date when="1864-02-12">12 February 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Head-Quarters District <hi rend="str">Northern Central</hi> Ky.
+<lb/>CAMP NELSON,
+<lb/>Jessamine Co., Ky. <date when="1864-02-12">Feby 12<hi rend="sup">th</hi> 1864</date>
+<lb/>Gov Bramlette,
+<lb/>Dear Sir,</p>
+<p>This letter will be handed you by Lt G M Smith, Regimental Quarter Master of the 13<hi rend="underline"><hi rend="sup">th</hi></hi> Ky Inftry. (my old Regt) Lt Smith desires your influence to obtain the position of a Regular Assistant Quarter Mastership. I have known him as an officer and a gentlman, since the War commenced, and cheerfully, reccommend him as worthy the position he aspires. he has been serving as such in the Cavalry Corps for the last six months.</p>
+<p>Any kindness shown the Lt will place me under obligation.</p>
+<p>Your Friend Truly
+<lb/>E. H. Hobson
+<lb/>Brig Genl</p>
+  </body>
+ </text>
+</TEI>

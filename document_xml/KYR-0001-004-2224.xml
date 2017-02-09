@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2224"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Thomas Cantrel to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6861</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR15-40</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1865-08-16">16 August 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His excellency Tho<hi rend="sup">s</hi> E. Bramlet Governor of the Commonwealth of Kentucky</p>
+<p>Your Petitioner would respectfuly represent unto your excellency that at the <date when="1863-10">October term 1863</date>, of the Lawrence Circuit Court a Judment was rendered against your petitioner for sixty dollars upon the charge of Keeping a Tipling house he made no defence to the Indictment knowing that he was guilty. but in excuse of the offence would state that he has a family that are dependent entirely upon his labour for a support, The war had prostrated business of every sort in Sandy Valley it was impossible to get work and to prevent starvation from visiting my wife and children I resorted to the sale of whiskey, for this I was Indicted and fined it was my first offense and shall be the last, If the collection of the Judgment is enforced I will have to go to Jail, and the little that I have will be <unclear/> from my wife and children. The consideration of the premises I earnestly invoke the executive Clemency and as in duty will every &amp;c,</p>
+<p><date when="1865-05-16">August, 16<hi rend="sup">th</hi> 1865,</date>
+<lb/>Thomas Cantrel</p>
+<p>We the undersigned are acquainted with the petitioner and know that his case is deserving of executive interfrarence</p>
+<p>J, F, Stewart
+<lb/>M B Goble
+<lb/>Francis Dobbins<pb/>
+<lb/>John Dobbins
+<lb/>W, B, D, Davis
+<lb/>Wesley Morre
+<lb/>Garland J Morre
+<lb/>Charles D. Swim
+<lb/>Thomas T Wadkins
+<lb/>B Fitzpatrick
+<lb/>Tomas Jefferson Burgess
+<lb/>H C Smith
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Nesbitt
+<lb/>S. T. Moore
+<lb/>C B Moore
+<lb/>Bennet Cox
+<lb/>Wm Mckinster
+<lb/>ed mc graman
+<lb/>J D Moore
+<lb/>Charles Spencer
+<lb/>Thompson Miller
+<lb/><hi rend="underline">J. W. Jones</hi></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-003-0030"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">R. C. Wood to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG1547</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's Official Correspondence File, Military Correspondence, 1863-1867</collection>
+      <idno>BR5-52</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date when="1863-12-12">12 December 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Assistant Surgeon Generals Office,
+<lb/>Louisville, Ky.
+<lb/><date when="1863-12-12">Dec<hi rend="underline"><hi rend="sup">r</hi></hi> 12 1863</date>.
+<lb/>Sir</p>
+<p>I have to acknowledge the receipt of your letter of the 9th inst. requesting me to authorize the transfer of Kentucky Soldiers from the Hospitals in St Louis to Louisville.</p>
+<p>A copy of the inspections to Surgeon Mills, Medical Director Dept. of the Missouri in conformity with your desire, is enclosed for your information.</p>
+<p>I have the honor to be,
+<lb/>Very respectfully,
+<lb/>Your obedient Servant,
+<lb/>R.C. Wood
+<lb/>Ass<hi rend="underline"><hi rend="sup">t</hi></hi> Surgeon General
+<lb/>U. S. Army.</p>
+<p>His Excellency,
+<lb/>T. E. Bramlette
+<lb/>Governor of Kentucky,
+<lb/>Frankfort, Ky.<pb/></p>
+<p>Ass<hi rend="underline"><hi rend="sup">t</hi></hi> Surgeon General's Office
+<lb/>Louisville Ky. <date when="1863-12-12">Dec<hi rend="underline"><hi rend="sup">r</hi></hi> 12<hi rend="sup">th</hi> 1863</date><figure type="hr"/>
+<lb/>Col. R. C. Wood
+<lb/>Ass<hi rend="underline"><hi rend="sup">t</hi></hi> Surgeon General
+<lb/>U. S. Army.<figure type="hr"/></p>
+<p>Relative to transfer of Kentucky sick from St Louis to Louisville Ky.</p>
+  </body>
+ </text>
+</TEI>

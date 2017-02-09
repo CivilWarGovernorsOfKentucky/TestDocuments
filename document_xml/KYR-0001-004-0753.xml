@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0753"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Moses Quisenberry et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG4872</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR10-150</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Hancock County, Kentucky</placeName>
+    <date when="1864-04-27">27 April 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><date when="1864-04-27">Apr. 27, 1864</date>
+<lb/>Handcock County Kentucky
+<lb/>Hon. Tho<hi rend="underline"><hi rend="sup">s</hi></hi> E Bramlett Governor of Ky
+<lb/>Petition }</p>
+<p>We the undersigned Citizens of Handcock County some neighbors of Delany Sander's nowing that he was arriving at in the Handcock Circuit Court for building fence across public roads once no Said Court was fined Sixty two dol<hi rend="underline"><hi rend="sup">s</hi></hi> it appearing that the fence was across the said 62 days the penalty $1 per day. and we State that no injury whatever was done to the public. that the fence was only a few spaces from the old line wherefore the Road was not moved any of consequences and was moved on just as good grounds as it was on at first the ground was perfectly level. where the new road runs. We further State that Sander's is a poor man has a family to Support, and that we believe that he ough to be justly Relieved of this fine as there was no public injury inflicted by the Removeal of the road. Wherefore we as law biding citizens humbly petition your excellency as Governor of the Commonwealth of Ky. having the power to Reprieve <unclear/> <unclear/> to Relieve Said Sanders of Said<pb/>
+<lb/>fine as we think he ought to be as true and impartial citizens of Ky. and have here unto Subscribed our Permis. this <date when="1864-04-29">29th day of April 1864</date></p>
+<p>P. S.
+<lb/>we further State that the information in this case against Sander's was caused by personal judgmt.</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Moses quisenberry
+<lb/>James tompson
+<lb/>robert marton
+<lb/>David ewan
+<lb/>A Sanders
+<lb/>James J boling
+<lb/>James Boling Sr
+<lb/>John Boling
+<lb/>James W. Newton
+<lb/><cb n="2"/>G W Williams
+<lb/>N Hardmen
+<lb/>J A Nation
+<lb/>T Dawson
+<lb/>Geo Ball
+<lb/>H. humerpey
+<lb/>Milton Sanders
+<lb/>James Kelley
+<lb/>David freels
+<lb/>D S Sanders
+<lb/>James S Boling
+<lb/>Asberry Boling
+<lb/>Beachum Boling
+<lb/>Henry Boling
+<lb/>John A Sanders
+<lb/>John quisenberry<milestone unit="column" n="1"/></p>
+<p>Address. Delany Sander's Hugg's Creek
+<lb/>Handcock County Ky</p>
+  </body>
+ </text>
+</TEI>

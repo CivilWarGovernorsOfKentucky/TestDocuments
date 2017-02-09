@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2099"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">W. W. Tice to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6736</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR14-307</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Marshall County, Kentucky</placeName>
+    <date when="1865-07-01">1 July 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>His Excellency
+<lb/>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> E. Bramlette
+<lb/>Governor of Ky.</p>
+<p>We would represent that James Higgins &amp; John Lockhead, who have just been fined by the Marshall Circuit Court the former on a charge of retailing ($20) and the latter for tippling ($60) are both very poor and needy, but clever citizens. Said Higgins is extremely poor and has a family of grand children to Support.</p>
+<p>The offenses were Committed at a time when there was no Courts here nor enforcement of Civil law. Military rule was the law, and Said parties acted under the authority of military orders &amp; permits from Paducah Post. Said fines Should be remitted. <date when="1865-07-01">July 1. 1865</date></p>
+<p>W W Tice
+<lb/>Commonwealths Atty. 1<hi rend="underline"><hi rend="sup">st</hi></hi> J. D. Ky -- </p>
+<p><milestone unit="column" n="2"/><cb n="1"/>D. D. Thompson
+<lb/>N Copeland
+<lb/>H, B, Williams
+<lb/>H. Peel
+<lb/>F M Pool
+<lb/>C Kuykendall
+<lb/>J W <unclear>Browntree</unclear>
+<lb/>James Brandt
+<lb/>John Brandt
+<lb/><cb n="2"/>J. C. Gilbert
+<lb/>John Peel
+<lb/>E. H, Peel
+<lb/>A. P. Nance
+<lb/>G S Jones
+<lb/>L R Finley
+<lb/>J. H Riley
+<lb/>J E Bourland<pb/></p>
+<p><milestone unit="column" n="1"/>Marshall Cir Ct
+<lb/>vs
+<lb/>Jas Higgins
+<lb/>$20
+<lb/>John Lockhead
+<lb/>$60
+<lb/>Remit
+<lb/><date when="1865-10-02">2<hi rend="sup">d</hi> Oct/65</date>
+<lb/>2 cases
+<lb/>Sent for check
+<lb/><date when="1865-07-20">20 July 1865</date></p>
+  </body>
+ </text>
+</TEI>

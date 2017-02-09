@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2889"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Reuben Butler et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7526</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR17-202</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Russell County, Kentucky</placeName>
+    <date when="1865-12-20">20 December 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Russell County, Ky. <date when="1865-12-20">December 20<hi rend="underline"><hi rend="sup">th</hi></hi> 1865</date>
+<lb/>To his Excellency. Tho<hi rend="underline"><hi rend="sup">s</hi></hi> E. Bramblett
+<lb/>Governor of the State of Kentucky
+<lb/>Dear sir:</p>
+<p>Some time previous to the <date when="1861-11">November term of 1861</date> in the aforesaid County, one John W Patterson was Indicted for horse stealing, the case ^came up &amp; 10. of the Jury was for his acquittal^ A bond was required for his appearance at the <date when="1862-04">April term of 1862</date>. and he, Patterson being in the Federal army, and absent from his portion of Country, did not appear, and consequently the bond (which was $<hi rend="str">500.</hi>250) was adjudged to be forfeited, There has been no execution as yet been issued upon the bond as it being the general impression that said Patterson has been dead for some time, as nothing deffinitely has been heard from his since but a little while, after his first trial -- at which time he was at Fort Delaware, We therefore the undersigned petitioners respectfully request your Excellency to remit said fine, believing that by so doing you will there by promote the ends of Justice, and perpetuate the honor &amp; integrity of our beloved State All of which is hereby respectfully sumitted to your Excelency -- Given under our hands this day &amp; date above written</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Reuben Butler
+<lb/>John H Butler
+<lb/>G W More
+<lb/>W M Green
+<lb/>Albert Coffey
+<lb/>Capt Nathan Wells
+<lb/>Asa Wells
+<lb/><cb n="2"/>William Bond
+<lb/>S. P. Collins
+<lb/>A. Jones 
+<lb/>James Pierce<pb/></p>
+<p><milestone unit="column" n="1"/>Direct to
+<lb/>Jamestown Ky
+<lb/>Reuben Butler</p>
+<p>Russell Cir Ct
+<lb/>vs
+<lb/>Reuben &amp; John Butler
+<lb/>$250
+<lb/>Forfeiture
+<lb/>Remitted
+<lb/><date when="1866-01-06">6<hi rend="sup">th</hi> Jany/66</date></p>
+  </body>
+ </text>
+</TEI>

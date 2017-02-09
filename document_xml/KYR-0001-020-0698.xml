@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0698"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John E. Cooper et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10166</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG19-89</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1861-02-15">15 February 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his excellency Gov. B Magoffin</p>
+<p>Your Petitioner John Q Adams represents that at the <date when="1860-08">last August Term of the Rowan Circuit Court 1860</date> 1<hi rend="sup">st</hi> states that he was fined fifty dollars for selling liquor to a slave. 2<hi rend="sup">nd</hi> States that he was also fined at the same court by a Jury of his country fifty dollars for selling liquor to a slave 3<hi rend="sup">d</hi> Your Petitioner State that he was also fined Ten dollars for Keeping a Tipling house Now your Petitioners Represent that during the progress of the Trial in the above named causes that Said John Q Adams was absent from the Court house and he was forced into a trial before he could get his witnesses in although useing his utmost exertions during the progress of the trial to get his witness in to prove himself clear of the above charges <hi rend="str">but</hi> <hi rend="str">they</hi> and he now throws himself upon Your mercy and prays that Your excellency will remit the above fines Your Petitioners Would further Represent that said John.Q. Adams is a poor man and has a Family to support, but not withstanding all that said Adams is an industrious and persevering man. &amp; in all probability will do well in future unless there is too many obstancles thrown in his way and Your Petitioners asks that Your excellency will remit said fines and forever restrain all officers from the collection of the same yours</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>John.E. Cooper
+<lb/><cb n="2"/>E. H. Logan clk<pb/>
+<lb/><cb n="1"/>O. W. Burns
+<lb/>T. J. Y. Hargis
+<lb/>John Hargis atto for Rowan C<hi rend="sup">o</hi>-
+<lb/>James M. Johnson
+<lb/>H. S. Logan
+<lb/>Moses A Hawkins
+<lb/>J A Hieltt
+<lb/>J. V. Richards
+<lb/>Rob<hi rend="underline"><hi rend="sup">t</hi></hi> Wylie
+<lb/>J. W. M<hi rend="sup">c</hi>Glosson S. R. C
+<lb/>Silas Bartlett
+<lb/>H. G. Burns.
+<lb/>James Maddox
+<lb/><cb n="2"/>A Euston c. r. c
+<lb/>Z. R. Johnson
+<lb/>R. F. Johnson
+<lb/>W. R. Oxley
+<lb/>W. W. House
+<lb/>O. H. Trumbo
+<lb/>Mastin Stigall J. P. R C.
+<lb/>John Jennings
+<lb/>B. R. Evans
+<lb/>J. E. Johnson J. P. R. C
+<lb/>Greenup Nickell J. P.
+<lb/>George M<hi rend="sup">c</hi>Donnall
+<lb/>J. W. R. Johnson
+<lb/>W. S. Black P. J. R. Co. Co
+<lb/>Dr. J. H. Stult<milestone unit="column" n="1"/></p>
+<p>Rowan Cir. Ct
+<lb/>2 for $50. one $10 } sellling liquor to a slave
+<lb/>John Q. Adams
+<lb/>Iss<hi rend="sup">d</hi> <date when="1861-02-15">Feby 15. 1861</date></p>
+<p>Respite 12 mo
+<lb/>B. M</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-022-0012"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Lockwood L. Doty to Unknown</title>
+    <title level="a" type="parallel">CWG2910</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Requisitions for the Return of Fugitives from Justice, 1859-1861</collection>
+      <idno>MG7-177 to MG7-178</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Albany, Albany County, New York</placeName>
+    <date when="1861-07-05">5 July 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>STATE OF NEW YORK.
+<lb/>Executive Department.
+<lb/>Albany, <date when="1861-07-05">July 5<hi rend="sup">th</hi> 1861</date>
+<lb/>Sir:</p>
+<p>I am directed by Governor Morgan to ask of you copies of any rules established by you respecting the granting of requisitions for the extradition of persons charged with being fugitives from justice. He also directed me to enclose herewith copies of the regulations of this Department relative to the form of application for requisitions on other States.</p>
+<p>I have the honor to be
+<lb/>Yr. Excellency's Obt Servt
+<lb/>L. L. Doty
+<lb/>Private Secretary<pb/></p>
+<p>Fugitives fr. Justice
+<lb/>New York</p>
+  </body>
+ </text>
+</TEI>

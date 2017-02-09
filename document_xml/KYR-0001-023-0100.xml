@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-023-0100"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Kurfiss et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG3013</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, 1859-1862</collection>
+      <idno>MG1-333</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency<hi rend="str">
+<lb/>To</hi> B. MAGOFFIN,
+<lb/>Governor of the Commonwealth of Kentucky:</p>
+<p>IT is asserted and believed that a body of armed men have it in contemplation to march through a portion of the State, to make an attack upon troops encamped by authority of the United States at Cairo in the State of Illinois. Whether this be absolutely certain or not, we are not able to say. Considering passing events, and the feeling between the North and the South, this seems likely to occur. Therefore, in view of this probability, and the terrible consequences that might flow from such an act, we earnestly request your Excellency to issue a Proclamation forbidding the passage of such armed bodies of citizens over the soil of Kentucky.</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>^Capt^ John Kurfiss
+<lb/>Jeremiah Bush
+<lb/>Adam Rogers
+<lb/>S W Burnett
+<lb/>G Vogt
+<lb/>Jno. W. Switzer
+<lb/>Nicholas Hobbs
+<lb/>F. Harfmann.
+<lb/>H Smith
+<lb/>J Krauth
+<lb/>F Wootmen.
+<lb/><unclear/> <unclear/>
+<lb/>Edward Kleinschmidt
+<lb/>Q Russell
+<lb/>Peter <unclear/>
+<lb/>Stephen Price
+<lb/>M Wisenberger
+<lb/>Henry Sanger
+<lb/>John Dempsey
+<lb/>Philipp Hambel
+<lb/>Thomas Dunne
+<lb/>Joseph Kipp
+<lb/>Michel Wick
+<lb/>Peter Kumph
+<lb/><unclear/> Schoenbörg
+<lb/>James Cooper
+<lb/>Peter Hansel
+<lb/><cb n="2"/>Robert <unclear>Stiver</unclear>
+<lb/>J. B, Stotts
+<lb/>C H Smith
+<lb/>John N Tholl
+<lb/>August. F. Hermann
+<lb/>F Lehman
+<lb/><unclear/> Mercer
+<lb/>Frederis Monk
+<lb/>Saml Morningsiur Esq
+<lb/>John F Lemons
+<lb/>Charles Troll
+<lb/>Jno. F. Gunkel
+<lb/>John Loeser
+<lb/>Chs G Barry
+<lb/>J Ck Tharm
+<lb/>Harry Bower
+<lb/>Jacob Wahl
+<lb/>John Pfalzer
+<lb/>Fredrick Fritz
+<lb/>Jacob Billing
+<lb/>Henry Lemon
+<lb/><hi rend="str">L</hi>Henry Feiler
+<lb/>Ernst Hossfeld
+<lb/>Friedrich Chase
+<lb/><unclear/> <unclear/>
+<lb/>Brunius Grueshabar</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-028-0035"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John W. Finnell to Daniel C. Wickliffe</title>
+    <title level="a" type="parallel">CWG7690</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Appointments by the Governor, Military Appointments, 1862-1863</collection>
+      <idno>R2-166</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1862-09-05">5 September 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><figure type="seal"><ab>UNITED WE STAND, DIVIDED WE FALL.
+<lb/>KENTUCKY</ab></figure>
+<lb/>Head-Quarters Kentucky Volunteers,
+<lb/>ADJUTANT GENERAL'S OFFICE,
+<lb/>Frankfort, <date when="1862-09-05">Sept: 5 1862.</date>
+<lb/>Hon:
+<lb/>D. C. Wickliffe
+<lb/>Sec: of State -- </p>
+<p>I have iss<hi rend="sup">d</hi>. &amp; delivered the following Commissions viz:</p>
+<p>Frederick Slater Captain
+<lb/>Robert Terrill -- 1st Lieut:
+<lb/>Edward H. Green 2d Lieut:
+<lb/>Zeiah Teaney 2d Lieut: } dated <date when="1862-09-04">Sep. 4 1862</date></p>
+<p>Jacob Cozatt Captain
+<lb/>Samuel P. Debaun 1st Lieut:
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> H. Norton 2d Lieut: } dated <date when="1862-09-03">Sep. 3. 1862</date></p>
+<p>W<hi rend="underline"><hi rend="sup">m</hi></hi> Bailey Surgeon dated <date when="1862-09-05">5 Sep: 1862</date></p>
+<p>James A. Rosseau
+<lb/>John Rue Wheat
+<lb/>Geo. R. Price
+<lb/>Peter S. Ruch
+<lb/>Levi Moore
+<lb/>Weeden S. Yates } all 2d. Lieuts: &amp; dated <date when="1862-08-05">Sep: 5. 1862</date></p>
+<p>Over<pb/></p>
+<p>W<hi rend="underline"><hi rend="sup">m</hi></hi> T. Epperson
+<lb/>John C. Green
+<lb/>James Wright
+<lb/>James T. Bramlette } all 2nd Lieuts: &amp; dated <date when="1862-09-05">5 Sep: 1862</date></p>
+<p>Very Resp.<hi rend="sup">y</hi>
+<lb/>John W. Finnell
+<lb/>Adj<hi rend="underline"><hi rend="sup">t</hi></hi> Gen<hi rend="sup">l</hi>. Ken. Vols:</p>
+<p><date when="1862-09-05">5. Sept. 1862</date></p>
+  </body>
+ </text>
+</TEI>

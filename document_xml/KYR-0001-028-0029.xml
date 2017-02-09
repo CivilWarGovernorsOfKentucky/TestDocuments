@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-028-0029"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">William Nelson to James F. Robinson</title>
+    <title level="a" type="parallel">CWG7684</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Appointments by the Governor, Military Appointments, 1862-1863</collection>
+      <idno>R2-188</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date when="1862-09-28">28 September 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Head-Quarters Army of Kentucky,
+<lb/>Louisville,<date when="1862-09-28"> 28<hi rend="sup">th</hi> Sept 1862</date>
+<lb/>To His Excellency
+<lb/>the Governor of the
+<lb/>Commonwealth of Kentucky
+<lb/>Sir,</p>
+<p>I have the honor to request the promotion of Sergeant <hi rend="underline">George R M</hi><hi rend="underline"><hi rend="sup">c</hi></hi><hi rend="underline">Fadden</hi> of Company B. Second regiment of Kentucky volunteer infantry to the grade of <hi rend="underline">Second Lieutenant</hi> in the same company and Regiment for uniform good conduct both in the presence of the enemy and in campaign</p>
+<p>Very Respectfully
+<lb/><hi rend="underline">W. Nelson
+<lb/></hi>Major Genl
+<lb/>Comg<pb/></p>
+<p>Genl Nelson -- </p>
+  </body>
+ </text>
+</TEI>

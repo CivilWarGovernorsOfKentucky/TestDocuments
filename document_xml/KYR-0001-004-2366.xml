@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2366"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Mary Ryan to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7003</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR15-277 to BR15-278</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency
+<lb/>Thos. E. Bramlette
+<lb/>Govenor of Kentucky</p>
+<p>Your petitioner Mary Ryan would respectfully state that she was fined Six hundred dollars $600 -- at Sept Term of the Louisville City Court on an Indictment for Keeping a disorderly house.</p>
+<p>Your petitioner is a poor woman &amp; totaly unable to pay the thirty percent going to the city attorney.</p>
+<p>Formerly the Juries for such offenses imposed fines ranging from $25 to $100 --, but at this term of Court some were fined as high as one thousand dollars. Your petitioner must pay $180 -- the thirty per cent, &amp; also the cost which will amount to at least twenty more.</p>
+<p>Your petitioner must have relief or go to the City work house. She prays your Excellency to remit the fine</p>
+<p>Mary ^her X mark^ Ryan<pb/></p>
+<p>Louisville City Ct
+<lb/>vs
+<lb/>Mary Ryan
+<lb/>$600.
+<lb/>Remit 1/2 the fine -- 
+<lb/><date when="1865-09-16">16 Sept 1865</date></p>
+  </body>
+ </text>
+</TEI>

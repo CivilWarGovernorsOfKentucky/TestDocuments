@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0986"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">William B. Jones to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10454</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG20-45</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Tompkinsville, Monroe County, Kentucky</placeName>
+    <date when="1861-04-04">4 April 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Tompkinsville Ky <date when="1861-04-04">4<hi rend="sup">th</hi> April 1861</date>
+<lb/>To the Governor of Ky</p>
+<p>A short time since one Theodore Moores who was committed for further trial by an examining Court in Monroe County on a charge of Grand larceny (stealing five dollars) executed with Sureties a bail bond for his appearance &amp;C. at the <date when="1861-04">April term 1861,</date> of the Monroe Equity and Criminal Court. The penalty of said bond being three hundred dollars, He forfeited said bond by failing to appear at the term now in Session. He is a young man without means, and although well raised has unfortunately, fallen into bad habits, His relations who reside in Tennessee are all respectable and his father who is a <hi rend="underline">model</hi> <hi rend="underline">gentleman</hi>, is exceedingly mortified, and distressed at the conduct of his son</p>
+<p>The father though a man of moderate means and not the bail of his son, has paid of the penalty of the bond two hundred and fifty Dollars leaving unpaid but fifty dollars, A petition will be presented asking a remission of fifty dollars of Said penalty, I am fully Satisfied that it would be not only proper, but eminently Just, that you Should remit fifty dollars of Said penalty, and I do Sincerely hope you may See the matter in the Same light and grant the prayer of the petitioners</p>
+<p>Respectfully
+<lb/>W<hi rend="sup">m</hi> B Jones Atty for the Comth,</p>
+<p>I concur in the above recomendation</p>
+<p>Charles Green
+<lb/>Judge E &amp; C. Court</p>
+  </body>
+ </text>
+</TEI>

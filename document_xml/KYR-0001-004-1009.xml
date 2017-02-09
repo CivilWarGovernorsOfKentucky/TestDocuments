@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1009"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Robert J. Elliott to Bolling</title>
+    <title level="a" type="parallel">CWG5646</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR11-60</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date when="1864-06-15">15 June 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><figure type="seal"><ab>CITY OF LOUISVILLE
+<lb/>PROGRESS
+<lb/>KENTUCKY</ab></figure></p>
+<p>Mayor's Office,
+<lb/>Louisville, Ky., <date when="1864-06-15">June 15th 1864</date>
+<lb/>Friend Bolling.</p>
+<p>Can I, without trespassing too much on your kindness, again request another favor of you? I'll risk it; so here goes. The Inclosed petition to the Governor, I would be pleased if you would present for me. It is lengthy, but not too long to present a fair statement of a case deserving Executive Clemency. The statement of the clerk, accompanying it, shows that the statements in the petition are sustained by the <hi rend="underline">record</hi>, which I apprehend would dispence with any further statement or that of any of our Citizens should join in the prayer of the petitioner. I hope our worthy Executive may find sufficient relief from his Engagements &amp; especially the Military troubles, to have time to read the petition.</p>
+<p>I would be glad to have the remission, if granted, mailed to my address</p>
+<p>Yrs very truly. Robt J. Elliott.</p>
+  </body>
+ </text>
+</TEI>

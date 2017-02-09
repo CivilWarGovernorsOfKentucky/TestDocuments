@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1523"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">M. H. Carson et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6160</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR12-360 to BR12-361</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Smithland, Livingston County, Kentucky</placeName>
+    <date when="1865-02-28">28 February 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Smithland Ky <date when="1865-02-28">Feb'y 28<hi rend="sup">th</hi> 1865</date>
+<lb/>To Thomas E Bramlette
+<lb/>Gov<hi rend="sup">r</hi> of Kentucky</p>
+<p>Your Petitioners respectfully State that at the <date when="1865-02">Feb'y Term 1865</date> of the Livingston Circuit Court, W, W, Bellamy was indicted by the Grand Jury for said County charging him with having Stolen one fifty dollar bill &amp; one five dollar bill from D<hi rend="sup">r</hi> Gaunter, your Petitioners state that W W Bellamy is of excellent family, &amp; his mother, a widow is a most worthy Lady that W W Bellamy is a young man and has born an excellenct character, moved in the first circle of society and proverbial for honesty and integrity, but within a year or eighteen months past he unfortunately imbibed the habit of drinking sometimes to excess, That the facts in relation to the affair of the money, are these, that for several days previous to the occurance W W Bellamy and D<hi rend="sup">r</hi> Gaunter had been on a drinking frolic together, both being intoxicated from morning 'till night That on morning of the occurence, which was on the third day of their drinking frolic they were very much intoxicated and about eleven oclock they seperated and went, or rather were helped to bed. That Gaunter awoke from his drunken Slumbers first and missed his money &amp; then reported to the Landlord that he had been robbed the Landlord &amp; Gaunter then went to W W Bellamy's room &amp; awoke him from his drunken sleep they then accused him of having Guanter's money but replied that he did not remember to have had D<hi rend="sup">r</hi> Gaunter's money and had no money but his own, he was then by his own suggestion searched and the fifty five dollars found in the pocket of his pants about two hours before this he had one hundred dollars in small bills<pb/>
+<lb/>but when searched had no money except the fifty five dollars claimed by Gaunter, he disclaimed any knowledge of how he obtained the money, or what he had done with his own money, Gaunter could give no account of the affair, and both of them say that they were too much intoxicated to remember whether they had changed money that morning with each other Gaunter was not searched or examined as to whether he had other money in his possession, but had the same been done the affair might have been explained W W Bellamy then underwent a hurried examination even before himself or Gaunter had fully recovered from drunkenness, &amp; was held to bail or thereupon the said indictment was found against him Your Petitioners state that they firmly believe that W W Bellamy got possession of the money inocently and while himself &amp; Guanter were too drunk to recollect or explain it your Petitioners therefore respectfully appeal to that clemency so fully characteristic in your noble nature, in behalf of M<hi rend="sup">r</hi> Bellamy that he may be relieved of this unfortunate dilemma, though never so innocent</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Doctor M. H. Carson
+<lb/><hi rend="underline">Jno. T. Bunch</hi>
+<lb/><cb n="2"/>D. B. Sanders M. D.
+<lb/>Tom M Davis, Merchant
+<lb/>C S Lyon Do
+<lb/>W M Gray Do
+<lb/>Rev D. A. Beardsley
+<lb/>S. K. Green farmer
+<lb/>W. C. Ellis Merchant
+<lb/>A. A. Grayot Merchant
+<lb/>D. L. Sanders Atty at Law
+<lb/>John Lust
+<lb/>A. H. Bigham<milestone unit="column" n="1"/><pb/></p>
+<p>Livingston Cir Ct
+<lb/>vs
+<lb/>W W Bellamy
+<lb/>Pardoned
+<lb/><hi rend="underline">Pardon</hi>
+<lb/><date when="1865-03-08">8<hi rend="sup">th</hi> Mch/65</date></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0902"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">R. M. Marshall to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10370</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG19-434</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency Beriah Magoffin
+<lb/>Governor of the state of Kentucky</p>
+<p>Your Petitioners citizens of Mason County Kentucky would respectfully represent unto your Excellency that on the <date when="1860-10-06">6<hi rend="sup">th</hi> <hi rend="str">the</hi> day of <hi rend="str">March</hi> October AD 1860.</date> Marquis De. Layfayette Collins was convicted of a breach of the Peace before W<hi rend="underline"><hi rend="sup">m</hi></hi> P. Ray Esq. a justice of the Peace in and for Mason county aforesaid. and fined the sum of Fourteen Dollars. Your Petitioners would represent that the said Collins is a boy aged about Eighteen <hi rend="str">Dollars</hi> years and that he is very poor. that his Parents are also very poor and unable without sacrificing some of their household furniture to pay said fine That the Father &amp; Mother of said Collins became bail for him for the payment of said fine which is now about due. and unless they are relieved therefrom by the act of your Excellency they will lose all they have. In view there<hi rend="str">from</hi> of all the facts in the case your Petitioners would resepctfully reuqest your Excellency to release John Collins &amp; Tabitha Collins from the payment of said Bail</p>
+<p>R. M. Marshall<pb/></p>
+<p><milestone unit="column" n="2"/><cb n="1"/>William Forman
+<lb/>Wilfred Ball
+<lb/>M A Mullikin
+<lb/>Willis Ballenger
+<lb/>Samuel P Combess
+<lb/>M I. Collins
+<lb/>J. W. Gault
+<lb/>Thos. Stevenson
+<lb/>Lewis Jefferson
+<lb/>James S Bratton
+<lb/>Manuel Matilla
+<lb/>Charles E Dye
+<lb/>James Anderson
+<lb/>Jefferson Watson
+<lb/>John Piles
+<lb/>Abner Hall
+<lb/>M. T Dise
+<lb/>W S Fowler
+<lb/>J C Wheeler
+<lb/>J, S, White
+<lb/>Tho<hi rend="sup">s</hi> Dye
+<lb/>Thomas. R. Griffith
+<lb/>James. D. Bratton
+<lb/>David Douglas
+<lb/>Jas H Grigsby
+<lb/>S C, Watson
+<lb/>John Wheeler
+<lb/><cb n="2"/>B. E. Pumpelly
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> R Browning
+<lb/>John S Ball
+<lb/>H B Cracraft
+<lb/>Alfred Terrel
+<lb/>Charles B Carrol
+<lb/>John Riley<milestone unit="column" n="1"/><pb/></p>
+<p>Mason J P
+<lb/>Respite 20 mo
+<lb/>B. M
+<lb/>$14 } Breach
+<lb/>Marquis De Lafayette Collins
+<lb/>Iss<hi rend="sup">d</hi> <date when="1861-04-17">Apr 17 1861</date></p>
+  </body>
+ </text>
+</TEI>

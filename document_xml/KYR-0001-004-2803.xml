@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2803"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Edward Elston to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7440</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR17-69 to BR17-70</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Fleming County, Kentucky</placeName>
+    <date when="1865-12-06">6 December 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency Thomas E Bramlette 
+<lb/>Governor of Kentucky:</p>
+<p>Your Petitioner Edward Elston respectfully represents that he was fined the sum of <hi rend="underline">Twenty five</hi> dollars and costs in the <hi rend="str">Justices</hi> Court of L. B. Cox Judge of the Fleming County Court for an alleged assault &amp; battery and breach of the peace -- He states that the persons with whom the difficulty took place were imposing upon and attempting to wrong and oppress his brother in law who is an exceedingly small and feeble young man, really a dwarf -- and he came to the relief of his said brother in law, and defended him from the wrong attempted to be perpetrated on him -- The assault was really commenced by the other party But they it seems applied for a warrant &amp; included both him and his brother in law in it -- and thus he was placed at the mercy of the<pb/>
+<lb/>prosecuting witnesses and was deprived of the testimony of his brother in law, who would have relieved him of all blame. He had no interest in the matter, and was acting from sympathy and kindness of his feeble brother in law who was being wronged by the prosecuting witnesses -- Wherefore he respectfully asks that the Executive will interpose in his behalf &amp; grant him a pardon from said judgment</p>
+<p>Edward Elston</p>
+<p>sworn to before me this <date when="1865-12-06">6<hi rend="sup">th</hi> day of December 1865</date> by Edward Elston</p>
+<p>John M Harbeson C, F, C, C</p>
+<p>James Strode says he is the brother in law of Edward Elston referred to above -- He is twenty five years old and weighs less than one hundred pounds -- and quite feeble -- The facts as stated by Elston above are true<pb/>
+<lb/>but he was made a party and not permited to testify on the trial, and prosecuting witnesses had it all their own way. He hopes the Governor will pardon Mr Elston who only came to his assistance</p>
+<p>Respectfully
+<lb/>James R Strode</p>
+<p>sworn to me by James Strode this <date when="1865-12-06">6<hi rend="sup">th</hi> Decr 1865</date></p>
+<p>John M Harbeson c f c c </p>
+<p>The Undersigned citizens of Fleming County respectfully concur in the foregoing application and recommend the pardon of Edward Elston -- <date when="1865-12-06">Decr 6<hi rend="sup">th</hi> 1865</date></p>
+<p><milestone unit="column" n="2"/><cb n="1"/><hi rend="underline">Tho</hi><hi rend="underline"><hi rend="sup">s</hi></hi><hi rend="underline"> J. Throop</hi> (Mason Co)
+<lb/>D. K. Weis
+<lb/>L. F. Warden
+<lb/>W H Wadsworth
+<lb/>(of Mason)
+<lb/>A. E. Cole
+<lb/>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> L Given
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> H. Cord
+<lb/><cb n="2"/>E. C Phister (Mason Cty)
+<lb/>W O Phillips
+<lb/><hi rend="underline">L, B, Cox</hi>
+<lb/>M M Teague
+<lb/>John M Harbeson
+<lb/><hi rend="underline">John Alexander</hi><pb/>
+<lb/><milestone unit="column" n="1"/>Charles Marshall</p>
+<p>Fleming County Court
+<lb/>vs
+<lb/>Edward Elston
+<lb/>$25
+<lb/><hi rend="str">R</hi>Assault &amp; -- 
+<lb/>Remitted <date when="1865-12-11">11 Dec/65</date></p>
+  </body>
+ </text>
+</TEI>

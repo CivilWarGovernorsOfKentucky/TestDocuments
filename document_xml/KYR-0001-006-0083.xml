@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-006-0083"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">W. M. Stoops et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG1129</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's Official Correspondence File, Requisitions for the Return of Fugitives from Justice, 1863-1867</collection>
+      <idno>BR6-106</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Calloway County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency Thos. E. Bramlette
+<lb/>Governor of the State of Ky</p>
+<p>We the undersigned loyal citizens of the State of Ky and county of Calloway do hereby represent that one David, M<hi rend="underline"><hi rend="sup">c</hi></hi>Gahn, is indicted as charged in indictment herewith enclosed and is now running at Large and an attempt has been made to arrest him, and he now threatens any and all persons whether officers or not who Shall attempt his arrest now we pray your Excellency to authorize the Sheriff of this county also one constable S. A. Miller to follow the Said David M<hi rend="underline"><hi rend="sup">c</hi></hi>Gahn and arrest him wherever he may be found Either in or out of the State, and that you inform by Proclamation or otherwise the Govenors of Tennessee &amp; Illinois that Such a Person is within there limits, and we want, his delivery over to the civil, authorities of this State to be dealt with according to Law</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>W M Stoops
+<lb/>Wm. P. Guthrie
+<lb/>Gilbert, Harding
+<lb/>N. H. Ryan
+<lb/>Joseph Miller
+<lb/>W H. Daely
+<lb/><cb n="2"/>J. E. Miller County Attorney
+<lb/>John, S, Wilcox
+<lb/>E. C. Starkes
+<lb/>J. B. England Clk C. C. C
+<lb/>Jas Jones
+<lb/>S McKnight<milestone unit="column" n="1"/><pb/></p>
+<p>Requisition on Governor of Tennessee for David M<hi rend="sup">c</hi>Gaha Grand Larceny &amp; appt<hi rend="sup">d</hi>. L. A Miller agent
+<lb/><date when="1865-10-24">24 Oct/65</date></p>
+<p>The object of this petition is that the Governor of Kentucky demand the surrender of the refugee McGahn from the Governor of Tennessee and that L. A. Miller be appointed to arrest and receive him from the authorities of Tennessee, where the accused has taken refuge,</p>
+<p>R. K. Williams</p>
+  </body>
+ </text>
+</TEI>

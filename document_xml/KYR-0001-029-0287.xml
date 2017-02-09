@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0287"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Welcome Mullins to James F. Robinson</title>
+    <title level="a" type="parallel">CWG8739</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Governor's Official Correspondence File, Petitions for Pardons, Remissions, and Respites, 1862-1863</collection>
+      <idno>R3-421 to R3-422</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Laurel County, Kentucky</placeName>
+    <date when="1863-03-09">9 March 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>His Excellency Governor Robinson</p>
+<p>Your Petitioner Welcome Mullins States that at the <date when="1861-03">March Term 1861</date> of the Laurel Circuit Court he was fined $50. Upon an Indictment for carrying concealed Weapons and also $15. upon an Indictment for disturbing religions worship -- and upon the last mentioned fine he obtained a <hi rend="underline">respite</hi> which expired on the <gap/> day of <date when="1863">1863</date>. and the sheriff of Laurel County now has execution against petitioner and is endeavoring to make the money for both fines and costs off of him and his Securities -- in regard to the $50. he refers to the petition on file in the office of secretary of state of Wesley Mullins upon which a fine of $50. was respited against Wesley -- and he says that the same facts made in his case and the same reasons are urged for a remittance -- and in addition to the statements made in his petition on which the respite in each case was granted he says, that he is less able to pay the fines now than then, that the Rebel Army under Kirby Smith on their retreat from Ky. took every thing in a manner that he had -- and it is now utterly out of his power to pay said fine and costs -- He repeats all the statements made in his original petition and says they are true -- He says that it will greatly oppress him to pay as much even as the costs -- He then prays that your Excellency <hi rend="underline">remit</hi> the said fines -- </p>
+<p>Welcome Mullins</p>
+<p>Sworn to before me by Welcome Mullins this <date when="1863-03-09">9" day of March 1863</date>.</p>
+<p>Rhaland Hodges J P</p>
+<p>We are citizens and neighbors of Welcome Mullins and have no hesitation in saying that the<pb/>
+<lb/>facts stated in the foregoing petition are true and that the fines ought to be remitted.</p>
+<p>philip swaner
+<lb/>R L Carter
+<lb/>J J Blalek
+<lb/>W Jones
+<lb/>B M porter
+<lb/>J swaner
+<lb/>James Cethers
+<lb/>P,, wadkins
+<lb/>C wadkins
+<lb/>J peters
+<lb/>Wm Y Jones
+<lb/>Merrit Whitt
+<lb/>G W Givens
+<lb/>H C <unclear/>
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> L. Barnett<pb/></p>
+<p>Laurel Cir Ct</p>
+<p>Fifty dollar fine remitted also all of the fifteen except Five dollars.</p>
+<p>J F Robinson</p>
+<p>$50
+<lb/>$15
+<lb/>Welcome Mullins
+<lb/>Iss<hi rend="sup">d</hi> <date when="1863-04-28">Apr. 28. 1863</date></p>
+  </body>
+ </text>
+</TEI>

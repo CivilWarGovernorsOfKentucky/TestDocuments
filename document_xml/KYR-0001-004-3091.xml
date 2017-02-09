@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-3091"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">E. J. Bullock to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG5210</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR16-236 to BR16-237</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Paducah, McCracken County, Kentucky</placeName>
+    <date when="1865-11-06">6 November 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Paducah Ky <date when="1865-11-06">Nov<hi rend="sup">r</hi>. 6<hi rend="sup">th</hi> 1865</date>
+<lb/>To his Excellency
+<lb/>Tho<hi rend="sup">s</hi>. E Bramlette.
+<lb/>D<hi rend="sup">r</hi> Sir</p>
+<p>I have upon principal abstained from asking of you the pardon or remission of offenders charged with crime in this portion of the State. I would not present the application of W<hi rend="underline"><hi rend="sup">m</hi></hi> Miles which accompanies this letter but for the fact that I have been concerned in the trials which have taken place and feel a moral certainty that the young man is not guilty in act; although I think he yielded to the temptation at first presented. but seperated himself before the robbery was consumated</p>
+<p>He has been out of the country in the Federal Army and his return home will revive all<pb/>
+<lb/>the embittered feelings of the past which are now so rapidly subsiding and which the peace and harmony of our community demands shall be suppressed and kept in subjection. I say to you in that I do honestly believe that a quiet pardon of W<hi rend="sup">m</hi> Miles by which all further investigation into the acts connected with that robbery may be stopped, will be accepted by the great body of this community as proper and right</p>
+<p>I sincerely hope you will feel yourself at liberty to grant this request and with assurances of my continued personal regard and <hi rend="underline">desire to serve you</hi> believe me</p>
+<p>Your <hi rend="underline">friend</hi> and
+<lb/>Mo. ob. servant
+<lb/>E. J Bullock<pb/>
+<lb/>Gov<hi rend="sup">r</hi>. T. E. Bramlette
+<lb/>Frankfort
+<lb/>Ky</p>
+  </body>
+ </text>
+</TEI>

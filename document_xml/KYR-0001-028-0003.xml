@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-028-0003"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">James R. Hallam to James F. Robinson</title>
+    <title level="a" type="parallel">CWG7658</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Appointments by the Governor, Military Appointments, 1862-1863</collection>
+      <idno>R2-116 to R2-117</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Columbus, Franklin County, Ohio</placeName>
+    <date when="1862-08-19">19 August 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Camp Chase Prison No 2
+<lb/>Columbus O. <date when="1862-08-19">Aug. 19. 1862</date>
+<lb/>Dr Sir,</p>
+<p>In my letter to you of yesterday I overlooked the fact, that although you have known me personally for twenty years, you have not had the means of knowing my position since the rebellion. I therefore add this note referring you to Senator Baker of Campbell, Adjt. Gen<hi rend="sup">l </hi>J. W. Finnell, &amp; Senator Thornton F. Marshall, who have had oppoortunities to know my sentiments</p>
+<p>My whole object, as you will doubtless understand, is to procure if possible the influence of the Executive<pb/>
+<lb/>of my state, <hi rend="str">that</hi> to obtain from the powers at Washington, <hi rend="str">I have</hi> an investigation of my case, that I may have a chance of relief from an unjust &amp; cruel imprisonment, which I have suffered for a long month without semblance of charge against me, at great pecuniary sacrifice to so poor a man as I am</p>
+<p>Very Resply,
+<lb/>Your Obt serv<hi rend="underline"><hi rend="sup">t</hi></hi>
+<lb/>James R. Hallam</p>
+<p>Hon. James F. Robinson
+<lb/>Governor of Ky
+<lb/>Frankfort
+<lb/>Ky.<pb/></p>
+<p>J. R. Hallam
+<lb/>asking and to be released
+<lb/>from Camp Chase</p>
+  </body>
+ </text>
+</TEI>

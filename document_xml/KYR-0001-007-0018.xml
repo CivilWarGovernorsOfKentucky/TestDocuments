@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0018"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Unknown to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG1683</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Appointments by the Governor, Civil Appointments, 1863-1867</collection>
+      <idno>BR1-395</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Bardstown, Nelson County, Kentucky</placeName>
+    <date when="1863-09-30">30 September 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Bardstown <date when="1863-09-30">Sept 30<hi rend="sup">th</hi> 1863</date>
+<lb/>Gov<hi rend="sup">r</hi> Bramlette
+<lb/>Dear Sir</p>
+<p>Districts N<hi rend="sup">o</hi>. 6 and 10 in Nelson County failed at the regular Election to Elect Justices of the Peace &amp; hence there are vacancies in each district to be filled. I would respectfully recommend as suitable persons in election precinct N<hi rend="sup">o</hi>. 6 the following gentleman as suitable to fill same vacancy viz Dennis Purcell and Marshall Brown and in precinct N<hi rend="sup">o</hi>. 10 Squire Murphy and William Hardman.</p>
+<p>And while addressing you, I would be pleased to call your attention to the Law in regard to appointing Judges of Election, as the Law stands, my construction of it has forced me to appoint Justices of the Peace, when if I had believed myself priveleged to pass over them I should have appointed others. Some change I think necessary by our next Legislature in order to secure truly Loyal men as Judges of Election.</p>
+<p>Most Rest Your &amp;c
+<lb/>T P Linthucum Judge
+<lb/>of the Nelson County Court<pb/>
+<lb/>Nelson Co
+<lb/>J. P.
+<lb/>Appt<hi rend="sup">d</hi>
+<lb/><date when="1863-10-05">5<hi rend="sup">th</hi> Oct/63</date></p>
+  </body>
+ </text>
+</TEI>

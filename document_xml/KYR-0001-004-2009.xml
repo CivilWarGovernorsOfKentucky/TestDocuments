@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2009"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">W. R. Smith et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6646</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR14-165</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Pulaski County, Kentucky</placeName>
+    <date when="1865-06-19">19 June 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency Thos E Bramlette
+<lb/>Governor of the Commonwealth of Kentucky</p>
+<p>Whereas at the <date when="1864-03">March Term of the Pulaski Circuit Court 1864</date>. A Fine was assessed in favor of the Commonwealth in two cases against Albert Simpson For tipling of $60<hi rend="underline"><hi rend="sup">00</hi></hi> each. the undersigned Petitioners would respectfully request Your Honor to remit said fines. Said Simpson is a verry poor man and is not able to pay said fines and support his large family of children and by so doing you will much oblige your Humble Petitioners</p>
+<p><date when="1865-06-19">June 19<hi rend="sup">th</hi> 1865</date> -- 
+<lb/><milestone unit="column" n="2"/><cb n="1"/>W R Smith
+<lb/>J C Owens
+<lb/>G. T. W. Barnell
+<lb/>John Whitaker
+<lb/>E, S, Brinkley
+<lb/>Cy. Childers
+<lb/>J. Adkins
+<lb/>J. Debord
+<lb/>W. Woodall
+<lb/>W. M. Lasley
+<lb/>W. R. Bullock
+<lb/>J. R. Minze
+<lb/>W. R. Smith
+<lb/>Samuel Woodall
+<lb/>Thomas Whitson
+<lb/>George W. Burdine
+<lb/>Shedrick Stogsdill
+<lb/><cb n="2"/>J. E. Cosson
+<lb/>S. H. Kemper J P
+<lb/>James R Adams
+<lb/>William Jackson
+<lb/>James woodall
+<lb/>J M Barnett
+<lb/>Freeman K Phelps
+<lb/>T A Warren
+<lb/>J C Patton
+<lb/>Bolen Bullock
+<lb/>Peter. S. Brady
+<lb/>Peter Campbell
+<lb/>Stephen Galyen
+<lb/>Joseph Senell
+<lb/>John Roberts
+<lb/>James Senell
+<lb/>A C Ping
+<lb/>William R Mize
+<lb/>henry McClure
+<lb/>H. H. Brinkley<pb/>
+<lb/><milestone unit="column" n="1"/>Gov Tho<hi rend="sup">s</hi> E Bramlette</p>
+<p>The facts set forth in the within Petition are Substantially true &amp; the Petitioner is A fit Subject for Exec^u^tive Clemency,</p>
+<p>J. M. Barnett.
+<lb/>address, Dallas
+<lb/>Ky</p>
+<p>Pulaski Cir Ct
+<lb/>vs
+<lb/>Albert Simpson
+<lb/>$60,
+<lb/>Remit $30 -- in each case or one half the fine -- 
+<lb/>T E B
+<lb/><date when="1865-08-10">10<hi rend="sup">th</hi> Aug/65</date>
+<lb/>sent for fee
+<lb/><date when="1865-07-20">20 July/65</date></p>
+  </body>
+ </text>
+</TEI>

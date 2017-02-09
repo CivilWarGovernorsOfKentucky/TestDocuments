@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0600"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">William T. Samuels to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG4719</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR9-454</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1864-03-21">21 March 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Auditor's Office, Kentucky.
+<lb/><milestone unit="column" n="2"/><cb n="1"/>WILLIAM T. SAMUELS,
+<lb/>Attorney at Law &amp; General Collecting Agent,
+<lb/>FRANKFORT, KY.
+<lb/>&amp;#9758 Special attention given to the collection of all claims confided to him throughout the State of Kentucky.
+<lb/><cb n="2"/><milestone unit="column" n="2"/><cb n="1"/>WILLIAM T. SAMUELS, Auditor.
+<lb/>EDGAR KEENON, Ass't Auditor.
+<lb/>James M. Withrow, Clerk.
+<lb/>Uberto Keenon, Clerk.
+<lb/>R. R. Bacon, Clerk.
+<lb/><cb n="2"/>John A Crittenden, Clerk.
+<lb/>Jno. W. Pruett, Jr., Clerk.
+<lb/>Charles T. Miller, Clerk.
+<lb/>John L. Sneed, Clerk.<milestone unit="column" n="1"/><figure type="hr"/>
+<lb/>Frankfort, Ky., <date when="1864-03-21">March 21, 1864</date>.
+<lb/>Hon. Tho. E. Bramlette
+<lb/>Gov. of Ky.
+<lb/>Dr. Sir</p>
+<p>N. N. Johnson Sheriff of Webster County for <date when="1861">1861</date>, this day paid balance on Rev. <date when="1861"><hi rend="str">1861</hi></date> for said year, with Interest and costs, and now prays your Excellency, to be relieved from the payment of Six Hundred &amp; Sixty Nine 60/100 Dollars (669.60/100) this being the amount adjudged against him, for the nonpayment of the Revenue, for said County &amp; year, at the time required by Law</p>
+<p>Resply,
+<lb/>W<hi rend="sup">m</hi>. T. Samuels
+<lb/>Auditor<pb/></p>
+<p>Franklin Cir Ct
+<lb/>vs
+<lb/>N. N. Johnson
+<lb/>Shff of Webster Co
+<lb/>$669.<hi rend="underline"><hi rend="sup">60</hi></hi>
+<lb/>Damages
+<lb/><date when="1864-03-21">21<hi rend="sup">st</hi> Mch. 1864</date></p>
+  </body>
+ </text>
+</TEI>

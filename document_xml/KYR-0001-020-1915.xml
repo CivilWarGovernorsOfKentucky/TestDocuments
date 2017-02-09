@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1915"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">J. H. Scholl et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG11383</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Bradley Strait</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG23-346 to MG23-347</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his excellency
+<lb/>B Magoffin Gov of Ky</p>
+<p>The undersigned Petitioners state that, A Phipps at the <date when="1861-03">March Term 186<hi rend="str">2</hi>1</date> of this Court was fined $50. He is a clever man. industrious and has a family. We request the Gov. to remit the fine. especially as he is a harmless inoffensive man.</p>
+<p>J. H. Scholl
+<lb/>R. Apperson Jr.
+<lb/>Thos. S<unclear/>
+<lb/>J. H. Boone
+<lb/>M Stewart 
+<lb/>W M Combs 
+<lb/>Ja<hi rend="sup">s</hi> B Hardwick
+<lb/>T. F. <unclear/></p>
+<p>Dear Governor I wrote the above petition, the people of Powell tell me the fine should be remitted, and, as I know Phipps to be a harmless inoffensive, hard working man ignorant of law I hope you will grant him, all the clemency you can &amp; remit the fine</p>
+<p>Yours Truly <unclear>J M Nesbitt</unclear> Com<hi rend="sup">th</hi> Atto<pb/></p>
+<p>Powell Cir Ct
+<lb/>$50<figure type="hr"/>
+<lb/>A. Phipps
+<lb/>Remission Iss<hi rend="sup">d</hi> <date when="1862-05-29">May 29, 1862</date></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-3084"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Henry Grave et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG5203</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR43-215</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Jefferson County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency Thomas E Bramlette
+<lb/>Gov of Ky</p>
+<p>Your petitioner Henry Grave would respectfully State that his nephew William Lohn. had been staying with him for two months in the year <date when="1864">1864</date> at which time he stole some articles from your petitioner at which he was greatly greaved and considered it his duty to prosecute him.</p>
+<p>Petitioner further states that on the <date when="1865-05-30">30<hi rend="underline"><hi rend="sup">th</hi></hi> day of May 1865</date> said Lohn was convicted of the crime of <gap/> a felony in the Jefferson Circuit Court and Sentenced to the penitentiary for four years. Petitioner says that since his conviction he has written several Letters beging your petitioner (his Uncle) to do some thing for him promising to act right and proper in future. Your petitiioner thinks that he ^has^ suffered long enough and as this was the first act in which he committed so great a wrong. he earnestly prays your Excellency to exercise your Executive clemency and grant said Lohn a parden.</p>
+<p>Your furter states that the relations of said Lohn are well off and that he can get imployment as soon as he comes home all of which he respectfully submits</p>
+<p>Henry Grave<pb/></p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Names
+<lb/>F G Dannicker
+<lb/>Byron Brown
+<lb/>L. A. Wood.
+<lb/>W<hi rend="sup">m</hi> Clement. J P
+<lb/>E. W. Rutledge, C J C
+<lb/>M. Lichter
+<lb/>T O Muench
+<lb/>B H <unclear/>
+<lb/>Fred Wobbe
+<lb/>Andrew Sprigelbery D S G. C.
+<lb/><cb n="2"/>Names
+<lb/>Philip Tomppert Mayor
+<lb/>Harry Stuckey Clk Lou C. ct
+<lb/><hi rend="str">S A Atchinson jr</hi>
+<lb/>S.A. Atchinson jr.
+<lb/>G. E Thomann
+<lb/>H. Greve.
+<lb/>R A Shrader
+<lb/>M M Hubbard.
+<lb/>H Beuhter
+<lb/>John Oldiges
+<lb/>Jefferson Cir Ct
+<lb/>W<hi rend="sup">m</hi> Lohn<figure type="hr"/>See Capt Todd about this in a day or two<figure type="hr"/></p>
+  </body>
+ </text>
+</TEI>

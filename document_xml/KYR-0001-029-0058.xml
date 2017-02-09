@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0058"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">H. Taylor to James F. Robinson</title>
+    <title level="a" type="parallel">CWG8510</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Governor's Official Correspondence File, Petitions for Pardons, Remissions, and Respites, 1862-1863</collection>
+      <idno>R3-94</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1862-08-29">29 August 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Frankfort <date when="1862-08-29">Aug. 29. 1862</date>
+<lb/>Gov<hi rend="sup">r</hi> Robinson.</p>
+<p>D<hi rend="underline"><hi rend="sup">r</hi></hi> Sir. The within Communication is from M<hi rend="underline"><hi rend="sup">r</hi></hi> Savage recently elected County judge in my county. The man Hedges to whom he alludes was recently engaged in tearing down and burning a house of ill fame in his neighborhood, and was fined in the Mason Circuit at its last <date when="--07">July</date> term $188 for his share in the matter He was unable to either pay or replevy the fine and is in jail. I as protem altr. for the Commwlth <unclear>promoted</unclear> him and four others all of whom were fined. Hedges is a poor miserable creature, without much sense &amp; perhaps has been punished sufficiently. he has now been in jail altogether about 3 months. His two sons have volunteered and gone to the army, and on his wifes account I think it would be well to let him out. I would be glad if you would release him.</p>
+<p>I am very Respectfully
+<lb/>Your Obt Servt
+<lb/><hi rend="underline">H. Taylor</hi><pb/></p>
+<p>Remitted &amp; returned
+<lb/>J F Robinson</p>
+  </body>
+ </text>
+</TEI>

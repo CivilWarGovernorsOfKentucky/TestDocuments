@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1254"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">W. W. Cleary et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10722</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG21-124</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1861-07-07">7 July 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency Gov Magoffin:</p>
+<p>The undersigned would state that Washington Cunningham &amp; Lewis Wheeler were guilty of a breach of the peace, by fighting together, on or about the <date when="1861-04-07"><hi rend="str">1</hi>7<hi rend="sup">th</hi> of April 1861,</date> that on the <date when="1861-04-12">12<hi rend="sup">th</hi> of same month</date> Washington Cunningham was tried for the offence and fined there for $11 <hi rend="sup">45</hi>/<hi rend="sub">100</hi> <hi rend="str">which</hi> and costs: that the fine was replevied before Jas. T. Smith, a Justice of the Peace for Harrison County, by William Cunningham, on the same day, the repleivin bond amounting to $15 <hi rend="sup">55</hi>/<hi rend="sub">100</hi>, that William Cunningham replevied the fine &amp; cost aforesaid for Washington Cunningham, upon the promise of the latter that he would work for the former until his labor would pay the repleavin bond, when William would discharge it, that Washington has abandoned the service of William &amp; refuses to perform the labor he promises to do; that Washington has no property and that the replevin bond must be paid if at all by William Cunningham, who is a poor man dependent upon his daily labor for a support for himself &amp; family. We would state that the guilty will not be punished, but the innocnet, if William Cunningham is compelled to pay the replevn bond. We therefore pray your Excellency to remit all the fine except the officers fees and as in duty bound will ever pray.
+<lb/><date when="1861-07-07">July 7<hi rend="sup">th</hi> 1861_</date></p>
+<p>W. W. Cleary
+<lb/>W<hi rend="sup">m</hi> M White C H C
+<lb/>John Trimble
+<lb/>T R Rankin
+<lb/>W G Bernard<pb/>
+<lb/>Paul. King
+<lb/>P. Wherritt Clk. H C C
+<lb/>H Magee
+<lb/>Sam<hi rend="sup">l</hi> M Bell
+<lb/>W. T. Beaseman
+<lb/>L Ceasor
+<lb/>Lucius Desha
+<lb/>Tho<hi rend="sup">s</hi> P. Garnett
+<lb/>Rob<hi rend="sup">t</hi> H Innes
+<lb/>John Williams
+<lb/>Will. M. Miller
+<lb/>Robert Thompson
+<lb/>C. A. Nebriter
+<lb/>James Slade
+<lb/>Robert Kimbriagle
+<lb/>T. A. Taylor
+<lb/>Ja<hi rend="sup">s</hi> T. Smith J P
+<lb/>P,, W,, Owsley
+<lb/>V E. E M Johnson
+<lb/>A F Whiteson
+<lb/>Thomas Kearns
+<lb/>J. D. Balson M D
+<lb/>Daniel P Kearns
+<lb/>E M Harn
+<lb/>Henry Williamson
+<lb/>M. T. Wigleworth<pb/></p>
+<p>Remitted
+<lb/>B M</p>
+<p>Harrison J P
+<lb/>$15<hi rend="underline"><hi rend="sup">55</hi></hi> Replev Bond
+<lb/>W<hi rend="sup">m</hi> Cunningham</p>
+<p>Iss<hi rend="sup">d</hi> <date when="1861-07-18">July 18 1861</date></p>
+  </body>
+ </text>
+</TEI>

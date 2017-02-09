@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-031-0067"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">James Williams to James Robinson</title>
+    <title level="a" type="parallel">CWG7807</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Appointments by the Governor, Civil Appointments, 1862-1863</collection>
+      <idno>R1-107 to R1-108</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Campton, Wolfe County, Kentucky</placeName>
+    <date when="1862-11-26">26 November 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>James Gates, Cin.</p>
+<p>Campton Wolfe <hi rend="underline"><hi rend="sup">Co</hi></hi> Ky
+<lb/><date when="1862-11-26">N<hi rend="underline"><hi rend="sup">ovr</hi></hi> 26<hi rend="underline"><hi rend="sup">th</hi></hi> 1862</date>
+<lb/>G<hi rend="underline"><hi rend="sup">ov</hi></hi> Roberson
+<lb/>Sir</p>
+<p>At the last term of the county court for Wolfe County it was ordered by the court that John B. Nickell be recommended to your honor as a Suitable person to be commissioned Justice of the peace in the 2<hi rend="underline"><hi rend="sup">nd</hi></hi> District -- Wolfe County Ky, to fill the vacancy created by the resignation of Andrew P. Lacey in s<hi rend="underline"><hi rend="sup">d</hi></hi> District, please forward commission</p>
+<p>James Williams
+<lb/>C W C C<pb/></p>
+<p>Wolfe Co<figure type="hr"/>
+<lb/>attended to</p>
+  </body>
+ </text>
+</TEI>

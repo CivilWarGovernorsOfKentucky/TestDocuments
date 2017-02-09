@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0241"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">George Scott to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG1906</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Appointments by the Governor, Civil Appointments, 1863-1867</collection>
+      <idno>BR2-108 to BR2-109</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Lexington, Fayette County, Kentucky</placeName>
+    <date when="1864-07-07">7 July 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Lexington Ky <date when="1864-07-07">July 7<hi rend="sup">th</hi> 1864</date>
+<lb/>To His Excellency
+<lb/>Thos E. Bramlett Governor of Kentucky.
+<lb/>Sir,</p>
+<p>I would respectfully solicit the appointment of Notary Publick for Fayett County, my Son Go<hi rend="sup">e</hi> Stoll Jr. &amp; myself occupy the same office he has the appointment of Notary from you he is necessary absent sometimes when it would be a conveniance to the publick if I could act, I have held the office of Constable for a number of years, but now there is very little doing in my business, it becomes me to make every little I can, if you do not think it incompatable with your Duty I would be under obligation to you for the appointmet, J. W. Prewitt of Frankfort is well acquainted with me. I shall ask him to call on you,</p>
+<p>Very Respectfully
+<lb/>George, Stoll<pb/></p>
+<p>Fayette Co
+<lb/>Notary Public
+<lb/>G Stoll Jr
+<lb/>appt<hi rend="sup">d</hi>
+<lb/><date when="1864-07-08">8<hi rend="sup">th</hi> July/64</date></p>
+  </body>
+ </text>
+</TEI>

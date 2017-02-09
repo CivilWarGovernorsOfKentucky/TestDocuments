@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-2371"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Hugh Donnelly to Beriah Magoffin </title>
+    <title level="a" type="parallel">CWG9447</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG25-156 to MG25-157</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To the Honorable Beriah Magoffin
+<lb/>Frankfort Ky-</p>
+<p>Your petitioner, Hugh Donally, would respectfully submit to your consideration the following statement of facts. On the <date when="1861-03-08">8<hi rend="sup">th</hi> day of March 1861</date> he was tried in the City Court of Lexington Ky for an assault and battery upon the person of -- Hughes, and was fined $25 &amp; costs. The only person proving the assault was Mr Hughes himself. Two witnesses, perfectly respectable, contradicted Hughes on several material points. These witnesses, John Rodgers, John McCoy &amp; James Gormley, proved that Donnelly, on the night of the alleged assault, was in such a state of intoxication that he did not and could not know what he was doing -- was perfectly <hi rend="underline">insane</hi> from the effects of liquor That Donnelly was not acquainted with Huges, and consequently could have had no motive in making the alleged assault They also proved that Donnally is an orderly and temperate man and very seldom indulges in spiritous Liquor. He would therefore humbly and respectfully pray for a remission of said fine -- </p>
+<p>Hugh Donnelly<pb/></p>
+<p>We the undersigned would respectfully recommend a remission of the fine before mentioned.</p>
+<p><hi rend="underline">Speed S. Goodloe</hi></p>
+<p>I know nothing of the facts but join in the recommendation</p>
+<p>R W Woollly
+<lb/><hi rend="underline">Cha</hi><hi rend="underline"><hi rend="sup">s</hi></hi><hi rend="underline"> P Thomas</hi>
+<lb/>R J Breckindrige
+<lb/>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> W, Bullock
+<lb/>Bryan H Allen
+<lb/>B T Grace
+<lb/><hi rend="underline">James B Beck</hi>
+<lb/>Cha<hi rend="sup">s</hi> Wheatly</p>
+<p>Hugh Donnelly
+<lb/>fine 25. Lex City
+<lb/>Court Respite 12 Mo
+<lb/>Iss<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1864-03-14">Mch 14/64</date></p>
+  </body>
+ </text>
+</TEI>

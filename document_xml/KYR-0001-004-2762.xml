@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2762"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John S. McGrew to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7399</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR17-14 to BR17-15</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Lexington, Fayette County, Kentucky</placeName>
+    <date when="1865-11-10">10 November 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Lexington <date when="1865-11-10">Nov 10<hi rend="sup">th</hi> 1865</date>
+<lb/>To His Excellency
+<lb/>Thomas E Bramlette
+<lb/>Governor State of Ky
+<lb/>Sir </p>
+<p>I have the honor to transmit to You a copy of the report that I made some three months ago to Brevt Maj Genl Jos K Barnes Surgeon General U S army at Washington City D C in regard to the condition of the U S Property at Harrodsburg Ky. Known as the <hi rend="underline">Military</hi> <hi rend="underline">Asylum</hi> grounds together with the report of Surgeon Goldsmith of Louisville on the subject of establishing homes for the invalid soldiers who have returned from the war scared &amp; maimed in defense of their Country.</p>
+<p>The General Government has donated to the State of Ohio the buildings and grounds Known as "Tripler Hospital" for the purpose above named,</p>
+<p>Indiana is also establishing an institution for the care of its wounded and mutilated Soldiers who have given their every thing but their lives for their Country. Kentucky should not be behind her neighbors<pb/>
+<lb/>in this matter -- </p>
+<p>If the General Government Cannot be induced to refit the above named property for the purpose it was originally intended, the Legislature of Kentucky ought to make an effort to have the Government donate the property to the State and with the addition of the adjoining property judiciously managed, it could be made one of the most desirable retreats for the invalid Soldier in the Country.</p>
+<p>Knowing your ability to induce some action in this matter</p>
+<p>I am truy
+<lb/>Your obt Srvt
+<lb/>Jno S M<hi rend="sup">c</hi>Grew</p>
+<p>To Hon Thos E Bramlette
+<lb/>Govr State Ky</p>
+  </body>
+ </text>
+</TEI>

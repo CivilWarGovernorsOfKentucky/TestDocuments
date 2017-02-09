@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0954"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">W. W. Graham, Receipt to Benjamin L. Wise</title>
+    <title level="a" type="parallel">CWG5073</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR10-470</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1864-06-15">15 June 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><date when="1864-06-15">June 15 1864</date></p>
+<p>Rec of Benj ^L^ Wise four dollars for two hats taken from my store in Peaks Mill by said Benj ^L^ Wise in full of my price in Peake mill for sd hats. said hats cost in about $1.50 apiece in U. S. Money</p>
+<p><date when="1864-03">Febr 1864</date>
+<lb/><hi rend="underline">W W. Graham</hi></p>
+<p>Understanding that Wise did very honorable service in the recent defense of Frankfort, we recommend him to the Governor for Pardon before trial.</p>
+<p><date when="1864-06-27">June 27, 1864</date>.</p>
+<p>John L. Scott. com. atty.
+<lb/>W. W. Graham<pb/></p>
+<p>Indided for Grand Larceny,
+<lb/><date when="1863-10">Oct term/63</date>
+<lb/>Franklin Circuit Court.
+<lb/>not yet tried.</p>
+  </body>
+ </text>
+</TEI>

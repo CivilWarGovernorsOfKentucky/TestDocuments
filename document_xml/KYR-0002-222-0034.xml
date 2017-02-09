@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-222-0034"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Unknown, Note</title>
+    <title level="a" type="parallel">CWG13723</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>Misc. QM Expenditures, 1863-1865</collection>
+      <idno>QMG Box 10; 1863 Office Expenses - Telegraph, Stationary - Transportation - Ordinance Stores; Bundle 5</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Note</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Abs P
+<lb/>5<hi rend="sup">th</hi> Installment.
+<lb/>Exhibits.
+<lb/><hi rend="underline">Voucher 80</hi></p>
+<p><table rend="rules">
+<row>
+	<cell> </cell>
+	<cell> </cell>
+	<cell>Vou</cell>
+	<cell>164</cell>
+</row>
+<row>
+	<cell>"</cell>
+	<cell>123</cell>
+	<cell>"</cell>
+	<cell>179</cell>
+</row>
+<row>
+	<cell>"</cell>
+	<cell>154</cell>
+	<cell>"</cell>
+	<cell>180</cell>
+</row>
+<row>
+	<cell/>
+	<cell> </cell>
+	<cell>"</cell>
+	<cell>182</cell>
+</row>
+<row>
+	<cell>"</cell>
+	<cell>158</cell>
+	<cell>"</cell>
+	<cell>183</cell>
+</row>
+<row>
+	<cell> </cell>
+	<cell>159</cell>
+	<cell>"</cell>
+	<cell>191</cell>
+</row>
+<row>
+	<cell>"</cell>
+	<cell>160</cell>
+	<cell/>
+	<cell/>
+</row>
+<row>
+	<cell>"</cell>
+	<cell>161</cell>
+	<cell/>
+	<cell/>
+</row>
+<row>
+	<cell/>
+	<cell>162</cell>
+	<cell/>
+	<cell/>
+</row>
+</table></p>
+<p>Ab P.</p>
+  </body>
+ </text>
+</TEI>

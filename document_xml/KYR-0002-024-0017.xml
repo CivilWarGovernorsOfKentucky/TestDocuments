@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-024-0017"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Edward D. Townsend, Special Orders, No. 143</title>
+    <title level="a" type="parallel">CWG12071</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Mitchell A Krock</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>1st - 20th Regiments Kentucky Infantry Primary Source Documents</collection>
+      <idno>Box 7, Folder 4th Ky. Inf. - Misc.</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Washington, District of Columbia</placeName>
+    <date when="1864-04-09">9 April 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Order</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>WAR DEPARTMENT,
+<lb/>ADJUTANT GENERAL'S OFFICE,
+<lb/><date when="1864-04-09"><hi rend="italic">Washington, April</hi> 9<hi rend="italic">th</hi>, 1864.</date>
+<lb/>SPECIAL ORDERS,
+<lb/>No. 143.
+<lb/><hi rend="italic">(Extract.)</hi><figure type="hr"/></p>
+<p>28. At the request of the Governor of Kentucky, the following enlisted men are hereby honorably discharged the service of the United States, to enable them to accept commissions in Kentucky regiments: -- 
+<lb/>Private <hi rend="italic">Henry P. Merrill</hi>, Company "A," 22d Michigan Volunteers.
+<lb/>Private <hi rend="italic">Allen S. Whetstone</hi>, Company "A," 104th Ohio Volunteers.<figure type="hr"/></p>
+<p>By order of the Secretary of War:
+<lb/>E. D. TOWNSEND
+<lb/><hi rend="italic">Assistant Adjutant General.</hi></p>
+<p>OFFICIAL:
+<lb/>E D Townssend
+<lb/><hi rend="italic">Assistant Adjutant General.</hi></p>
+<p>Governor of Kentucky<pb/></p>
+<p><note place="header"><hi rend="underline">4: Infy</hi></note>
+<lb/>War Department
+<lb/>Adjutant Generals Office
+<lb/>Washington <date when="1864-04-09">April 9. 1864.</date><figure type="hr"/>
+<lb/>Townsend E. D.
+<lb/>A. A. G -- <figure type="hr"/></p>
+<p>At the request of the Governor of Kentucky the following enlisted men are hereby honorably discharged the service of the United States to enable them to accept commissions in <unclear/> Ky Regiments.</p>
+<p>Priv Henry P. Merrill Co<hi rend="sup">y.</hi> A 22<hi rend="underline"><hi rend="sup">nd</hi></hi> Mich<figure type="hr"/>
+<lb/>" Allen S. Whetstone Co<hi rend="sup">y</hi>. A 104 Ohio.<figure type="hr"/></p>
+<p>Rev<hi rend="underline"><hi rend="sup">d</hi></hi> A. G. O <date when="1864-04-20">April 20. 1864</date>.</p>
+  </body>
+ </text>
+</TEI>

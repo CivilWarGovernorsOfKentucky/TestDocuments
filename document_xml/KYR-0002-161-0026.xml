@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-161-0026"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Thomas E. Bramlette to Charles D. Pennebaker</title>
+    <title level="a" type="parallel">CWG13939</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>Adjutant General Letter Book - No. 10 ; 10 Feb - 16 March 1865</collection>
+      <idno>176</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1865-02-23">23 February 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><note place="header">176</note></p>
+<p>Papers of the Warren Co Committee in regard to a correction of their quota referred to Col C. D Pennebaker state agent at Washington D C <date when="1865-02-23">Feby 23<hi rend="underline"><hi rend="sup">d</hi></hi> 1865</date></p>
+<p>State of Kentucky
+<lb/>Executive Department
+<lb/>Frankfort Ky
+<lb/><date when="1865-02-23">Febry 23<hi rend="underline"><hi rend="sup">d</hi></hi> 1865</date></p>
+<p>Respectfully referred to Col C. D. Pennebaker State Agent, who will at once submit these -- papers to Brig General James B Fry. Pro Mar<hi rend="underline"><hi rend="sup">s</hi></hi> Gen<hi rend="sup">l</hi> U S. and request that an order be issued changing the quota assigned Warren Co Ky, in accordance with the within statements.</p>
+<p>Tho E Bramlette
+<lb/>Governor of Ky</p>
+  </body>
+ </text>
+</TEI>

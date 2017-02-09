@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-006-0089"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Wiley P. Fowler to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG1135</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's Official Correspondence File, Requisitions for the Return of Fugitives from Justice, 1863-1867</collection>
+      <idno>BR6-113</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Morganfield, Union County, Kentucky</placeName>
+    <date when="1865-10-28">28 October 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Morganfield Ky. <date when="1865-10-28">Oct. 28<hi rend="sup">th</hi>. 1865</date>
+<lb/>Gov. Tho<hi rend="sup">s</hi>. E. Bramlett
+<lb/>Dear Sir</p>
+<p>Please find enclosed copy of Indictment found in this court against <gap/> Guess and others for robery, the same notorious personage who is the subject of a recent corrispondence.</p>
+<p>Information is received here, that he is now in Evansville Indiana; and has been for some days, and perhaps intends remaining there. He and the most of his band, as the civil officers inform me, have fled the comth.</p>
+<p>The object is to get a requisition upon the Governor of Indiana and have him brought to Ky. to answer.</p>
+<p>Mr Barrett &amp; Mr Clay are both absent &amp; would if either were here have performed this duty.</p>
+<p>Most respectfully
+<lb/>Your frd &amp; obdt servt
+<lb/>W. P. Fowler<pb/></p>
+<p>Requisition upon Gov of Indiana for James Guest &amp; <gap/> apptd. Agent
+<lb/><date when="1865-11-04">4<hi rend="sup">th</hi> Nov 1865</date></p>
+  </body>
+ </text>
+</TEI>

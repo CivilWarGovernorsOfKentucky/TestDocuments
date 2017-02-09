@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-153-0099"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Boyle to Sanders D. Bruce</title>
+    <title level="a" type="parallel">CWG14221</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>Assistant Adjutant General Letter Book - No. 1 ; 5 Sept 1863 - 2 Feb 1864</collection>
+      <idno>472</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1864-01-20">20 January 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><note place="header">472</note>
+<lb/><date when="1864-01-20">Jany. 20<hi rend="underline">"</hi>. <gap/>4.</date>
+<lb/>Col. S. D. Bruce
+<lb/>20<hi rend="underline">"</hi> Ky. Inf<hi rend="underline"><hi rend="sup">y</hi></hi> Vols.
+<lb/>Louisville
+<lb/>Sir,</p>
+<p>Yours of the <date when="1864-01-19">19<hi rend="underline"><hi rend="sup">"</hi></hi> instant</date> received. Capt. Walcott. did not represent, that the Certificate given by you was designed to recommend him for promotion, nor did he communicate in any way with this Department, asking for the promotion. He was commissioned by the Governor upon the recommendation of Major Waller, and your Certificate of his qualifications as an officer.</p>
+<p>Respectfully
+<lb/>Your obd<hi rend="underline"><hi rend="sup">t</hi></hi> Serv<hi rend="underline"><hi rend="sup">t</hi></hi> -- 
+<lb/><hi rend="underline">John Boyle</hi>
+<lb/>Adj<hi rend="sup">t</hi> Gen<hi rend="sup">l</hi> of Ky</p>
+<p>By
+<lb/>Cha<hi rend="sup">s</hi> Haydon
+<lb/>Clk</p>
+  </body>
+ </text>
+</TEI>

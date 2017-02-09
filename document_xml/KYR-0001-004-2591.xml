@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2591"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Ben H. Allen et al. to Unknown</title>
+    <title level="a" type="parallel">CWG7228</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR16-142</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Henry County, Kentucky</placeName>
+    <date when="1865-10-28">28 October 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><date when="1865-10-28">Oct 28th 1865</date>
+<lb/>Henry Co Ky</p>
+<p>We the undersigned whose names are here unto enrolled petition the release of Lewis Smith from the indictments of government which now stand against him</p>
+<p><milestone unit="column" n="2"/><cb n="1"/><hi rend="str">H L Yager</hi> I am on the other paper
+<lb/>Ben H. Allen
+<lb/>John Libby
+<lb/>Geo W Lawrence
+<lb/>Wm G Berry
+<lb/>William Scott
+<lb/>J F. Strothers Clergyman
+<lb/>A Lancaster
+<lb/>J. R Logan
+<lb/>John C. <unclear>Vennice</unclear>
+<lb/>W, B Combs
+<lb/>J B Scott
+<lb/>W, F, Scott
+<lb/>J S Turner
+<lb/>E Cox
+<lb/>W S Williams
+<lb/>A. F. Dunn
+<lb/>Jo. S. Sims
+<lb/>Joel Jackson
+<lb/>J, F, Martin, Clergyman
+<lb/>J. S. Mitchell
+<lb/>William Burnett
+<lb/>Grif Sams
+<lb/>Marsial <unclear>Esters</unclear>
+<lb/>T, P, Jones
+<lb/>Haden Jones
+<lb/>Josiph Duglis
+<lb/>Thomas Morgan
+<lb/>Joseph. S. Chilten
+<lb/>Jacob Smith
+<lb/>W P Maddox
+<lb/><cb n="2"/>Tho<hi rend="sup">s</hi>.P Ford
+<lb/>Jesse Coombs
+<lb/>Thomas H Coombs
+<lb/>John S Jenkins J, P,
+<lb/>James Roberson
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> O. Coleman
+<lb/>F M Smith
+<lb/>Rev Jacob Hugley
+<lb/>Jol. Beasley
+<lb/>Augustus Beasley
+<lb/>John Beasley
+<lb/>S C Yager
+<lb/>B. Sidebottoms
+<lb/>A. B. Smith
+<lb/>W N, Smith
+<lb/>Adison Mitchael
+<lb/>Elijah Willhoite
+<lb/>Bird Pruette
+<lb/>Allen Burton
+<lb/>Henry M<hi rend="sup">c</hi>Elwain
+<lb/>F Willis
+<lb/>John J. Morgan
+<lb/>Nathaniel Shepard
+<lb/>W R Morgan
+<lb/>F M Abbott
+<lb/>John A Burnett
+<lb/>Jas M Branch
+<lb/>E N <unclear>Garratt</unclear>
+<lb/>B G Wright <unclear/></p>
+<p>If you wish it I can get ma^n^y more names</p>
+  </body>
+ </text>
+</TEI>

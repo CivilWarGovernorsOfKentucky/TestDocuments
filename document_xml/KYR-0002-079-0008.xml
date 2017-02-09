@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-079-0008"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">J. R. Thomas to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG14007</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>Enrolled Militia Records 1864 - 1865 ; Adair, Allen, Boyle, Daviess, Garrard, Owen, Pendleton, and Shelby counties</collection>
+      <idno>Flat Box 7, Folder 863-65 MARION COUNTY Recruiting &amp; Raising Co. 1st Ky Militia</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Lebanon, Marion County, Kentucky</placeName>
+    <date when="1863-10-18">18 October 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Ano 24
+<lb/>Lebanon <date when="1863-10-18">Octr 18/1863</date>
+<lb/>Govr T. E. Bramlette</p>
+<p>Dear sir W. J. Lisle refuses to accept the position of Lieut Col of Militia -- </p>
+<p>Please send a commission to F. B. Merrimee immediately -- Will have the regiment organized this week -- </p>
+<p>yours &amp;c J. R. Tho<hi rend="underline">m</hi>as<pb/></p>
+<p>Marion<figure type="hr"/>
+<lb/>Marion Co,,y <date when="1863-10-18">Oct 18/63</date><figure type="hr"/>
+<lb/>J R Thomas<figure type="hr"/>
+<lb/>W J Lisle declines Lt Coly of this Co,,y &amp; F B Merrimee appointed instead<figure type="hr"/>
+<lb/>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> I. G. O. <date when="1863-10-20">Oct 20. 1863</date></p>
+<p>write and ask Merrimee's name in full -- Tell Thomas to have Lisle write us declining his appt.
+<lb/><hi rend="underline">Boyle</hi></p>
+  </body>
+ </text>
+</TEI>

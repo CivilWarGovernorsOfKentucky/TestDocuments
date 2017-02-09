@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0615"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Patrick Wall to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10083</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG18-444</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Logan County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency B. Magoffin Governor of the Commonwealth of Kentucky:</p>
+<p>Patrick Wall by way of amendment to his petition heretofore sent to your Excellency States:</p>
+<p>That he deposted $25 in hire of Bail for his appearance at the <date when="1860-07">July Term 1860</date> of the Logan Equity and Criminal Court to answer the charge of Grand Larceny That at the Said <date when="--07">July Term</date> the Grand Jury failed to find any Indictment against him and leaving So failed he became Entitled to the money deposited, and this right could not be destroyed by the action of a Grand Jury Subsequent to <date when="--07">July the term</date> at which he was bound to appear</p>
+<p>He states that the Comlths Attorney has recieved his portion of the 25$ which was declared forfeited at <date when="1861-01">January Term 1861</date> the balance is still in the hands of the clerk of the Court <hi rend="underline">unreported</hi> as part of the Jury Fund in order to await the action and direction of your Excillency and he prays that the Forfeiture be remitted</p>
+<p>Patrick Wall
+<lb/>By T P A Bibb
+<lb/>his attorney</p>
+<p>Please direct the remission to T. P. A Bibb
+<lb/>Russellville
+<lb/>Ky<pb/></p>
+<p>Thirty per cent of the $25 forfeited has been paid to the Comlths Atty the balance is in my hands not yet <hi rend="str">transferred</hi> <hi rend="str">to</hi> ^Reported by me as^ the Jury Fund Trustee.</p>
+<p><date when="1861-02-21">Feb. 21<hi rend="sup">st</hi> 1861</date>
+<lb/>David Morton, Clerk of
+<lb/>Logan Equity &amp; Criml Court &amp; Trustee</p>
+<p>Dear Governor</p>
+<p>you perceive that the money has not yet passed into the Jury Fund and a Remission will therefore have the effect to refund to ^me as^ Walls ^Attorney^ the comment except the part paid to Comlths Atty -- I think it very hard to Indict the man and grab his money too -- The Comlth ought to have Indicted at <date when="--07">July Term</date> -- after that she had no right to the money</p>
+<p>T P Atticus Bibb</p>
+<p>I do not perceive any constitutional barrier in the way of the Executive pardon in this case -- A Judgment of forfeiture seems to have been rendered -- and although the money forfeited is somewhat nearer its final destination if there was no remission ^ than if it was in the Petitioners pocket^ yet the Trustee of the Jury fund says he has not as yet reported the money as having come to, or as forming a part of that fund. I am inclined to think a remission would <hi rend="str">not</hi> reach it.</p>
+<p><hi rend="underline">A. J. James Atto Gen</hi><hi rend="underline"><hi rend="sup">l</hi></hi></p>
+  </body>
+ </text>
+</TEI>

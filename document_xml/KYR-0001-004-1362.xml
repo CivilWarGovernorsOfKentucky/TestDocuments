@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1362"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Mason B. Parker to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG5999</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR12-117-1</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1864-12-01">1 December 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To the Governor of Kentucky</p>
+<p>at the <date when="1864-10">October</date> Term of the Mason Circuit Court Daniel Kirk was fined Two Hundred Dollars for permitting gaming in a House in which he was acting as Bar Keeper. Mason B. Parker owned the House and has the fine to pay, as Kirk is worth nothing whatever Parker was not at home when the gaming took place Kirk is a clever and yielding man, and has by his cleverness got him self fined and being insolvent I am compelled to pay for his folly and wrong. I there fore respectfully petition your excellency to remit so much of that fine as is coming to the state <date when="1864-12-01">Dec 1<hi rend="sup">st</hi> 1864</date></p>
+<p>Mason B Parker</p>
+<p>I recommend the governor to grant the above petition <hi rend="str">Dec 1</hi><hi rend="str"><hi rend="sup">st</hi></hi><hi rend="str"> 1864</hi> - I believe the facts as stated above are true -- </p>
+<p>Geo M Thomas
+<lb/>atto for Comth</p>
+<p><date when="1864-12-01">Decr 1 1864</date><pb/></p>
+<p>Mason Cir Ct
+<lb/>vs
+<lb/>Daniel Kirk
+<lb/>$200,
+<lb/>Remit<figure type="hr"/>
+<lb/><date when="1864-12-07">7<hi rend="sup">th</hi> Dec /64</date></p>
+  </body>
+ </text>
+</TEI>

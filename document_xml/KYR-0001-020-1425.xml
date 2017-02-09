@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1425"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">E. L. Barbee to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10893</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Amanda Boczar</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG21-389</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Taylor County, Kentucky</placeName>
+    <date when="1861-09-16">16 September 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>State of Kentucky
+<lb/>Taylor County</p>
+<p>E S Barbee states that he was attorny for James C Wood in a prosecution in the Taylor circuit court charged with maliciously stabbing Thos Cox, that he appeared for Wood before the court of inquiry and attended to having witnesses summoned for him for the circuit court, that he remembered that one of the witnesses for the Comlth. on the inquiry stated that Cox had a knife drawn at the time he was stabed and affiant was under the impression that it was Joel Noel and had him Summoned for Deft, but after going into the trial he learned that he was mistaken, that Ed Yates was the witness who made the said statement, who was not in attendance, at the final trail that Yates was not in consequence of said mistake summoned for Deft, that he had been summond for comlth and was recognised, but did not attend, he further<pb/>
+<lb/>States that he was the only attorney Deft wood had employed and that he wood had no friend or relations who paid any attention to the preparation of his case and believes that he did not have a fair chance on account of having friends to procure the attendance of his witnesses Deft being in jail and having no chance himself to get them</p>
+<p>E S Barbee </p>
+<p>Sworn to by E S Barbee before me this <date when="1861-09-16">16th of Sept 1861</date></p>
+<p>Geo. W. Montague Clk
+<lb/>Taylor Circuit Court</p>
+<p>Jas C Wood
+<lb/>Petition
+<lb/>Affidavit of E S Barbee
+<lb/></p>
+  </body>
+ </text>
+</TEI>

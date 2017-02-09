@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-032-0002"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">James F. Robinson to Unknown</title>
+    <title level="a" type="parallel">CWG7643</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Governor's Official Correspondence File, 1862-1863</collection>
+      <idno>R1-4 to R1-5</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1863-02-17">17 February 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>EXECUTIVE DEPARTMENT,
+<lb/>Frankfort, Ky., <date when="1863-02-17">February 17, 1863</date>.
+<lb/>Dear Sir:</p>
+<p>At the request of the General Assembly, I herewith transmit to you the inclosed Resolution.</p>
+<p>Respectfully,
+<lb/>J. F. ROBINSON.
+<lb/>Hon<gap/><pb/></p>
+<p>RESOLUTION NO. 91.
+<lb/>RESOLUTION CONERNING TOLLS DUE THE STATE OF KENTUCKY BY THE UNITED STATES.</p>
+<p><hi rend="italic">Resolved by the General Assembly of the Commonwealth of Kentucky,</hi> That our Senators in Congress be instructed, and our Representatives requested, to procure the passage of an act directing the payment of tolls to the State on her slackwater navigation, turnpike roads, and bridges, where the same have been used for the transportation of troops, forage or army stores.</p>
+<p><hi rend="italic">Resolved</hi>, That his Excellency, the Governor of the Commonwealth, be requested to forward to each of our Senators and Representatives in Congress a copy of these Resolutions.</p>
+<p>RICHARD A. BUCKNER, <hi rend="italic">Speaker of the H.R</hi>.
+<lb/>JOHN F. FISK, <hi rend="italic">Speaker of the Senate.</hi>
+<lb/>J. F. ROBINSON.
+<lb/>By the Governor,
+<lb/>D. C. WICKLIFFE, Secretary of State.</p>
+<p>Approved <date when="1863-02-13">February 13, 1863</date>.<pb/></p>
+<p>Resolution in regard to "Tolls" due Ky. by the U. S.
+<lb/>Sent <date when="1863-02-17">17. Feby 1863</date></p>
+  </body>
+ </text>
+</TEI>

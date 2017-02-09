@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1673"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">James A. Snapp and Isaac Snapp et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6310</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR13-149 to BR13-150</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1865-04-12">12 April 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To Hon Thomas E. Bramblette Governor of Kentucky</p>
+<p>Your Petitioners James A Snapp &amp; Isaac Snapp citizens of Nicholas County state that at the <date when="1865-03">March term 1865</date> ^of the Nicholas Circuit Court^ they were fined by a Judgement of said court the sum of Three Hundred Dollars for an alledged breach of a Tavern License, They say that they were not in fact guilty of said charge, but they had no means to explain the circumstances, by proof, proved against them upon which the verdict of the jury was rendered, The costs of the prosecution &amp; the Comission of the Commonwealths attorney amount to more than they are really able to pay in justice to their families -- They pray his Excellency to remit said fine</p>
+<p><date when="1865-04-12">April 12 1865,</date></p>
+<p>James A Snapp
+<lb/>Isaac Snapp</p>
+<p>The undersigned citizens of Nicholas County acquainted ^with^ the above named Petitioners &amp; with their circumstances &amp; the facts of the case referred to, have no hesitation in joining in their petition to the Executive to remit said fine; Said Petitioners are poor men in humble circumstances, but quiet peacable law-abiding Citizens, and in view of all the facts &amp; circumstances of the case think the fine should be remitted</p>
+<p><hi rend="underline">W. P. Ross</hi>
+<lb/><hi rend="underline">W</hi><hi rend="underline"><hi rend="sup">m</hi></hi><hi rend="underline">. W. Howard</hi> <hi rend="underline">Clerk. N. Cir.</hi> Ct.
+<lb/>Jno A. Campbell Clk. Co Ct.
+<lb/>Elijah West P J N C C
+<lb/>Thomas Kennedy
+<lb/>A. W. Blair s. n. C
+<lb/>R B Kidder
+<lb/>Fitch Munger<pb/></p>
+<p>Nicholas Cir Ct
+<lb/>vs
+<lb/>Jas A. &amp; Isaac Snapp
+<lb/>$300 -- 
+<lb/><date when="1865-05-03">3<hi rend="sup">d</hi> May 1865</date></p>
+<p>sent for fee <date when="1865-04-24">24<hi rend="sup">th </hi>Apl.</date></p>
+  </body>
+ </text>
+</TEI>

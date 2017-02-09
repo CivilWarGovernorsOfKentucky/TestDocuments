@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0887"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Duncan Harding to Shanahan and Cleary</title>
+    <title level="a" type="parallel">CWG10355</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG19-395 to MG19-396</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Carlisle, Nicholas County, Kentucky</placeName>
+    <date when="1861-03-26">26 March 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Carlisle, Kenty <date when="1861-03-26">March 26<hi rend="sup">th</hi> 1861</date>
+<lb/>Mess Shanahan and Cleary H R</p>
+<p>Gent this will be handed to you by Mr Wm Ricketts of Nicholas Co who has a Petition praying for the Remission of a Judgement obtaind against him in the Nicholas Circuit Court on a forfeited Bond for the appearance of his Sonn who Shot Jas Still of this County, Mr Ricketts has gotten into this difficulty Solely on account of a Reckless youth, <hi rend="str">and</hi> Mr Ricketts himself has been none <unclear>trouble</unclear> me he has done no more than a Father would do for a Son, Mr Ricketts is a man of only moderate means and the Collection of this amount off of him with what he has already paid would be ruinous to him, Mr Ricketts has laboured hard to raise a large Family he is a man of strict morality and<pb/>
+<lb/>an honest upright man and if you can do any thing for him with the Gov <hi rend="str">for him</hi> you would at least Recieve the thanks of one of your consttuents if I thought the Judgement ought not to be remitted, I would not write to you to aid, him</p>
+<p>yours Truly
+<lb/>Duncan Harding</p>
+<p>P S Mr Ricketts is one of our Friends a stand up man</p>
+  </body>
+ </text>
+</TEI>

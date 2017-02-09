@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2301"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">J. F. Stephenson to Ephraim L. Van Winkle</title>
+    <title level="a" type="parallel">CWG6938</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR15-180</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Albany, Clinton County, Kentucky</placeName>
+    <date when="1865-08-23">23 August 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Albany Ky <date when="1865-08-23">Aug the 23<hi rend="sup">rd</hi> 1865</date>
+<lb/>E. L. Vanwinkle
+<lb/>Sect of State
+<lb/>Dear Sir,</p>
+<p>I inclose coppy of the Indictment and $2, the fee, for making the papers and if there is any other charges inform me and I will send the call immediately. the amount of the Bond is $300.<hi rend="sup">00</hi> three hundred Dollars. M<hi rend="underline"><hi rend="sup">r</hi></hi> Vanwinkel, you will pleas forward the papers to me, and I will go to James-town, and attend to the matter myself. pleas do not delay as I am anxious to get it up in due time, and I will be under many Obligations to you</p>
+<p>I Remain Respectfully
+<lb/>your obdt, Servt,
+<lb/>J<hi rend="underline"><hi rend="sup">as</hi></hi> F. Stephenson
+<lb/>Cap<hi rend="underline"><hi rend="sup">t</hi></hi> Co "E" S. C.
+<lb/>Batt.</p>
+<p>P, S, I guess it will be proper to make out the papers on the name of James.M. Stephenson as the indictment appies to me and gives my name that match <unclear>sons</unclear>.</p>
+<p>J. F, S.</p>
+  </body>
+ </text>
+</TEI>

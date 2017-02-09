@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0460"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">J. H. Wilkinson to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG2125</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Appointments by the Governor, Civil Appointments, 1863-1867</collection>
+      <idno>BR2-403 to BR2-404</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Cadiz, Trigg County, Kentucky</placeName>
+    <date when="1865-06-12">12 June 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Cadiz, Trigg Co. Ky
+<lb/><date when="1865-06-12">June 12<hi rend="sup">th</hi> 1865</date>
+<lb/>To His Excellency
+<lb/>Gov. Bramlette:</p>
+<p>The office of Magistrate in District No. 2. Trigg County, has become vacant by the death of Lemuel Byrom Esqr, and it is very important that the vacancy shall be <hi rend="underline">immediately</hi> filled by the appointment of a suitable and competent person; I would recommend Mr. H. W. Smith of said District, who is every way worthy and ^well^ qualified for the position, and I believe his appointment will give general satisfaction to the people.</p>
+<p>Very truly
+<lb/>your obt. Servant
+<lb/>J. H. Wilkinson</p>
+<p>Gov. Bramlette</p>
+<p>Dear Sir H. W. Smith who is recomended for the appointment of magistrate in the 2<hi rend="sup">nd</hi> district in which I reside) by Judge J. H. Wilkinson who is the presiding Judge of the Trigg Co. Court. is in my opinion will qualified for said office &amp; I write with the Judge in recommending his<pb/>
+<lb/>appointment to said office</p>
+<p>I am yours &amp;c
+<lb/>Sam<hi rend="sup">l</hi> Larkins<pb/></p>
+<p>Justice Peace
+<lb/>Trigg Co
+<lb/>H. W. Smith
+<lb/>appt<hi rend="sup">d</hi>
+<lb/><date when="1865-06-27">27 June/65</date></p>
+  </body>
+ </text>
+</TEI>

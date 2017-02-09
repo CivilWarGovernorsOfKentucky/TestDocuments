@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0117"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Samuel Geisler to James F. Robinson</title>
+    <title level="a" type="parallel">CWG8569</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Governor's Official Correspondence File, Petitions for Pardons, Remissions, and Respites, 1862-1863</collection>
+      <idno>R3-182 to R3-183</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Newport, Campbell County, Kentucky</placeName>
+    <date when="1862-11-09">9 November 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Newport Ky <date when="1862-11-09">Nov. 9<hi rend="underline"><hi rend="sup">th</hi></hi> '62</date>
+<lb/>Sir</p>
+<p>Inclosed you will find a petition of some of the most respectable Citizen of Newport on behalf of C. Redinger who was found guilty, as ^you^ will see therefrom, of the offence of selling Liquor to Minors. M<hi rend="underline"><hi rend="sup">r</hi></hi> Redinger is a poor man and unable to pay his fine, he therefore takes this method of saving himself from total ruin, which would be the consequence if is compelled to pay the fine, if you will therefor exercise your leniety and remit the commonwealths portion of his fine you<pb/>
+<lb/>will receive the blessing of a poor man and his familly.</p>
+<p>If you will attend this matter soon and let me know the result you will oblige your Exellencys</p>
+<p>Humble and Ob'd. Ser't.
+<lb/>Sam'l Geisler
+<lb/>Atty at Law.</p>
+<p>To his Exellency Governor Robinson of Kentucky.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2326"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Sarah Bell to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6963</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR15-216</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date when="1865-09-20">20 September 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency the Governor of Kentucky Thomas E Bramlette</p>
+<p>The petitioner Sarah Bell states that She is a widow with one daughter: being in the City of Louisville on <hi rend="str">Chen</hi>Shelby street, and she has striven to support herself: and family without, giving offense to any one:</p>
+<p>She states that at the last Term of the City Court of Louisville She was indicted and fined the Sum of $100.00 and costs: which are very heavy in said Court:</p>
+<p>She says that no one of her neighbors ever complained: and that two -- Watchmen alone gave evidence against her: and they they both bore witness that your petitioner was peaceable and orderly in her department, and that they never Knew of any disturbance at her house: But that her house had the reputation of being a house of prostitution; and therefore it was insisted that it was a Disorderly house:</p>
+<p>The petitioner states that it is very hard upon her to pay this fine, when as she verily believes that the Public-good is not sought atall by the officers making the presentment but only that they may gratify personal feeling relying upon the enlightened consideration which your Excellency would give to such a matter: She humbly begs that you would interpose your Executive clemency and remit the said fine to her:</p>
+<p>Respectfully
+<lb/>Sarah Bell</p>
+<p>State of Kentucky
+<lb/>Jef co Sct.</p>
+<p>Sarah Bell states that the above petition is true:</p>
+<p>Sarah Bell</p>
+<p>sworn to befor me on thiss <date when="1865-09-20">20' of Sept 1865</date> J Connell J P J C<pb/></p>
+<p>Louisville City Ct
+<lb/>vs
+<lb/>Remit all but Ten dollars, costs &amp; fees
+<lb/>Sara Bell
+<lb/>$100,
+<lb/>Disorderly House
+<lb/><date when="1865-09-28">28<hi rend="sup">th</hi> Sept/65</date></p>
+  </body>
+ </text>
+</TEI>

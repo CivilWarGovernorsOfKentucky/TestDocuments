@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-222-0017"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Samuel G. Suddarth, Receipt to Zachariah W. Owen</title>
+    <title level="a" type="parallel">CWG13706</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>Misc. QM Expenditures, 1863-1865</collection>
+      <idno>QMG Box 10; 1863 Office Expenses - Telegraph, Stationary - Transportation - Ordinance Stores; Bundle 3</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1863-09-22">22 September 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>No 22
+<lb/>The State of Kentucky
+<lb/>To Zachariah W owen Dr</p>
+<p><table rend="rules">
+<row>
+	<cell><date when="1862">1862.</date></cell>
+	<cell/>
+	<cell>Dollars</cell>
+	<cell>cents</cell>
+</row>
+<row>
+	<cell><date when="1862-08-21">Augt 21st</date></cell>
+	<cell>For Transportation of thirty four recruits of Cap. J R. Jacobs company 14<hi rend="sup">t</hi>h Ky Cavalry from Red river Iron works Powell co Ky to Mt Stering, fourteen miles at 2 ct per mile</cell>
+	<cell>9</cell>
+	<cell>52</cell>
+</row>
+<row>
+	<cell/>
+	<cell>nine dollars and fifty two cents</cell>
+	<cell>9</cell>
+	<cell>52</cell>
+</row>
+</table></p>
+<p><note place="body">Approved
+<lb/>By order of the Governor
+<lb/>Jno. W Finnell
+<lb/>Adjt Genl Ky Vols</note></p>
+<p>I certify that the above account is correct and just; that the services were rendered as stated: and that they were a necessary for the public service</p>
+<p>Jos. W. Stivers. Lt &amp; recruiting officer </p>
+<p>Received at Frankfort on, the <date when="1863-09-22">22 of Sept, 1863,</date> of S. G. Suddarth Quartermaster ^Genl^ Kentucky volunteers the sum of nine Dollars and fifty two cents, in full of the above account.</p>
+<p>Z. W. Owen<pb/></p>
+<p>No 22.
+<lb/>no 3 abstr U 
+<lb/>Zachariah. W. owen</p>
+<p>Dollars 9 -- <hi rend="sup">52</hi>/<hi rend="sub">100</hi>
+<lb/>Paid <date when="1863-09-22">Sept 22 63</date>
+<lb/>AC
+<lb/>Transportation
+<lb/>J231</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0261"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">George Wolford and Worthington Frothingham to Unknown</title>
+    <title level="a" type="parallel">CWG2609</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Civil Appointments, 1859-1862</collection>
+      <idno>MG4-191 to MG4-192</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Albany, Albany County, New York</placeName>
+    <date when="1861-12-02">2 December 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Albany, <date when="1861-12-02">December 2d, 1861.</date></p>
+<p>The undersigned have this day associated themselves, as partners, under the firm name of
+<lb/>WOLFORD &amp; FROTHINGHAM,
+<lb/>in the Practice of Law, in all its branches, in the State and United States Courts. They will also give prompt attention to Collections, Investing Moneys, Negotiating Loans, Conveyancing, &amp;c., &amp;c.; and, having Correspondents at Boston, Providence, Philadelphia, Cleveland, Detroit, Milwaukee, Iowa City and St. Paul, they will give their attention to such Legal Business as may arise in those localities, and which may be intrusted to their care.</p>
+<p>GEORGE WOLFORD.
+<lb/>WORTHINGTON FROTHINGHAM.</p>
+<p>N. B. -- Office No. 69 State Street, where hereafter Mr. Wolford will have his Chambers for the transaction of his official business as Albany County Judge.
+<lb/></p>
+  </body>
+ </text>
+</TEI>

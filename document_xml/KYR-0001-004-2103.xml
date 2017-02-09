@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2103"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">M. Jeff Roach et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6740</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR14-311 to BR14-312</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Greenville, Muhlenberg County, Kentucky</placeName>
+    <date when="1865-07-10">10 July 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Greenville Ky <date when="1865-07-10">July 10<hi rend="sup">th</hi> 1865</date>.
+<lb/>Thomas E Bramlett
+<lb/>Governor of Ky</p>
+<p>Dear Sir: We the undersigned citizens of Muhlenberg County <hi rend="str">I</hi> most earnestly and respectfully request you to interpose executive clemency in favor of Thomas Jenkins of this county and release him of so much of a Judgement of the Muhlenberg Circuit Court in favor of the Commonwealth and against Said Jenkins for $80, rendered at its last May term as lies in your power. Mr J. was tried and found guilty of shooting at Henry Jenkins without wounding. There had long been a <hi rend="str">f</hi> dificulty between the two Jenkins Thomas Jenkins did not shoot untill he had been struck two blows by Henry with a heavy plank felling him to his Knees when he at once arose and fired two shots at Henry who was running. Mr Jenkins is a good citizen; and a loyal man; and Since the recounter has become a permanent criple by the maiming of his <hi rend="str">right</hi> left hand; by accident We therefore hope and expect that you will release him of said Judgments except fees. Respectfully Yours</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>M Jeff Roach
+<lb/><cb n="2"/>Jesse H Reno ^cir ct^ clk
+<lb/>B J Shaver P J M C C
+<lb/>Joseph Ricketts
+<lb/>N J Harris
+<lb/>B. E. Tillman county Aty
+<lb/>Tho. J. Jones clk Co Ct<pb/></p>
+<p><milestone unit="column" n="1"/>Muhlenberg Cir Ct
+<lb/>vs
+<lb/>Tho<hi rend="sup">s</hi> Jenkins
+<lb/>shooting
+<lb/>$80.
+<lb/>Remitted
+<lb/><date when="1865-09-28">28<hi rend="sup">th</hi> Sept/65</date></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-3378"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">R. J. Moseley et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG5497</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR42-243 to BR42-244</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Ohio County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>We the undersigned citizens of Ohio County Ky. would <hi rend="str">would</hi> respectfully represent to his Excellency Thomas E. Bramlett Govenor of Ky. That at the <date when="1864-03">March Term 1864</date> of the Ohio Circuit Court there was three judgments obtained by the Commonwealth against James W. Daniel.</p>
+<p>viz= For permitting gaming in his hourse fine $75- and costs. Breach of tavern bond $150- &amp; cost, Permitting gaming on his premises $75- &amp; costs, one half of said judgments have been remitted by your honor. That said Daniel has paid all the costs in the prosecutions, including attorneys 30 percent. That we are well acquainted with said Daniel and know him to be a very poor man. having but very little property if any at all and a large family to support. that if he is made to pay the fine he will be entirely broken up and his family brought to want. That he lives in a very poor portion of the County and may possibly have been guilty as charged, but if guilty we believe he was ignorant of the fact. that he did not violate the law intentionally. We would now respectfully request that you remit the remainder of the judgmetns.</p>
+<p>R J moseley clk O. C. C.
+<lb/>Zane K. Cox D. C.
+<lb/>H. L. Morton Clk Ohio Cir Ct<pb/>
+<lb/><stamp type="postage">HARTFORD
+<lb/><date when="--05-08">MAY
+<lb/>8</date>
+<lb/>KY.</stamp></p>
+<p>Thomas E. Bramlett Govenor of Ky
+<lb/>Frankfort
+<lb/>Kentucky</p>
+<p>Refused<pb/>
+<lb/>Ohio Cir Ct
+<lb/>vs
+<lb/>Jas W. Daniel</p>
+  </body>
+ </text>
+</TEI>

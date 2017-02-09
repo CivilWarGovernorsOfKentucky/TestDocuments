@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0168"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Patrick Engles to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG4287</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR8-272</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1863-10-26">26 October 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Frankfort, Ky <date when="1863-10-26">Oct. 26<hi rend="underline"><hi rend="sup">th</hi></hi> 1863</date>
+<lb/>Hon Gov of the State of Kentucky
+<lb/>Dear Sir</p>
+<p>The undersigned respectfull ask<hi rend="sup">s</hi> you to Grant him a pardon so that I may become a useful man to my friends &amp; family, in <date when="1859">1859</date>, I was convicted in the circuit court, of, Harrison County for the term of four years, for Stealing a horse, I was Drunk and had no intention of stealing the hourse, I <hi rend="str">have</hi> caught the hourse on the road, with his saddle on his back and road him to, town, I have been good prisoner and refer to M<hi rend="sup">r</hi>. Whitesides, or any of the other Keepers my term expires on <date when="--11-29">Sunday 29th of Nov</date></p>
+<p>With Grate Respc
+<lb/>Patrick Engles</p>
+<p>Gov Bramlett</p>
+<p>Engles has been a well behaved man in prison and that far is I think intitled to Executive clemency</p>
+<p>Respy yrs
+<lb/>H I Todd<pb/></p>
+<p>Pardon
+<lb/>Harrison Cir Ct
+<lb/>vs
+<lb/>Patrick Engles
+<lb/>Pardoned
+<lb/><date when="1863-11-28">28<hi rend="sup">th</hi> Nov/ 63</date></p>
+<p>Pardon granted to be sent up to H. I. Todd
+<lb/>Tho E Bramlette</p>
+<p>Hon Gov of State of Kentucky
+<lb/>Rd of Capt. H I Todd Keeper</p>
+  </body>
+ </text>
+</TEI>

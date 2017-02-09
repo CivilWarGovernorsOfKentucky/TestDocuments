@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0346"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Anson N. Hoskins, Oath</title>
+    <title level="a" type="parallel">CWG2011</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Appointments by the Governor, Civil Appointments, 1863-1867</collection>
+      <idno>BR2-245 to BR2-246</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Philadelphia, Philadelphia County, Pennsylvania</placeName>
+    <date when="1865-01-31">31 January 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>United States of America
+<lb/>Commonwealth of <hi rend="underline">Pennsylvania</hi>
+<lb/>City of Philadelphia } S.</p>
+<p>I Anson N Hoskins duly appointed and commissioned by the Governor of the state of Kentucky a Commissioner for the said state of Kentucky resident in the City of Philadelphia in the said Commonwealth of Pennsylvania do solemnly affirm I will well and faithfully execute and perform all the duties of said Commissioner of Deeds &amp;c under and by virtue of the Laws of the said State of Kentucky.</p>
+<p>A N Hoskins</p>
+<p><figure type="seal"><ab>A N HOSKINS
+<lb/>COMMISSIONER
+<lb/>OF DEEDS &amp;C</ab></figure></p>
+<p>Affirmed and subscribed before me this <date when="1865-01-31">31<hi rend="underline"><hi rend="sup">st</hi></hi> day of January 1865</date>. -- </p>
+<p>Fred G Nolbert</p>
+<p><stamp type="revenue"/>
+<lb/><figure type="seal"><ab>A N HOSKINS
+<lb/>COMMISSIONER
+<lb/>OF DEEDS &amp;C</ab></figure></p>
+<p><figure type="seal"><ab>COURT OF COMMON PLEAS
+<lb/>PHILADELPHIA, PENN<hi rend="underline"><hi rend="sup">A</hi></hi></ab></figure></p>
+<p>Prothonotary of the Court of Common Pleas for the City &amp; County of Philadelphia &amp; Commonwealth of Pennsylvania<pb/></p>
+<p>Comr Deeds
+<lb/>Oath of
+<lb/>A. N. Hoskins
+<lb/>Pennsylvania
+<lb/>filed
+<lb/><date when="1865-03-22">22<hi rend="sup">d</hi> Mch/65</date></p>
+  </body>
+ </text>
+</TEI>

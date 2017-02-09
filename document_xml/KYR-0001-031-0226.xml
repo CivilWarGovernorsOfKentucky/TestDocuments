@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-031-0226"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Isham Hendersen to James F. Robinson</title>
+    <title level="a" type="parallel">CWG7966</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Appointments by the Governor, Civil Appointments, 1862-1863</collection>
+      <idno>R1-310 to R1-311</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date when="1863-05-04">4 May 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>"Louisville Journal" Office
+<lb/>Louisville Ky
+<lb/><date when="1863-05-04">May 4<hi rend="sup">th</hi> 1863</date>
+<lb/>To his Excellency
+<lb/>Gov<hi rend="underline"><hi rend="sup">r</hi></hi> Ja<hi rend="underline"><hi rend="sup">s</hi></hi> F. Robinson
+<lb/>Frankfort Ky</p>
+<p>Sir, Capt Jenkins the Post Quartermaster here has need for a notary Public in his office. He has asked me to apply for a commission for M<hi rend="underline"><hi rend="sup">r</hi></hi> W. C Averill, ^one of his^ clerks I hope you will find no objection to his appointment.</p>
+<p>Very Resfly
+<lb/>Isham Henderson<pb/></p>
+<p>Jefferson Co<figure type="hr"/>
+<lb/>Notary
+<lb/>W. C. Averill
+<lb/>Com Iss<hi rend="sup">d </hi><date when="1863-05-05">May 5<hi rend="underline"><hi rend="sup">th</hi></hi> 1863.</date></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1473"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Charles P. Davenport to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6110</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR12-288</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency
+<lb/>Thomas E. Bramlette
+<lb/>Govenor of Kentucky</p>
+<p>Your petitioner Chas. Davenport would respectfully state that he was tried at the <date when="1865-01">January</date> Term of the Jefferson Circuit Court upon a charge of <hi rend="underline">Malicious</hi> <hi rend="underline">shooting</hi>. &amp; convicted to the Penitentiary for one year, <hi rend="underline">the</hi> lowest <hi rend="underline">term</hi></p>
+<p>Your petitioner does not deny the shooting, but disclaims all malice, &amp; does regret the affair beyond the power of language to describe, The shooting was purely accidental no cause, no anger, not a word having passed, After the shooting your petitioner did all in his power to relieve the sufferings of the wounded person.</p>
+<p>Your petitioner has served three years in the 14<hi rend="sup">th</hi> Kentucky Regiment raised by Col Laban Moore in the Mountain counties of Kentucky on the Big Sandy River.</p>
+<p>As the shooting was accidental and no evil intention existed at the time your petitioner prays your Excellency to grant him a pardon &amp; save him from the disgrace<pb/>
+<lb/>that attaches to a Penitentiary convict.</p>
+<p>Your Excellency Commissioned all of the officers of the 14<hi rend="sup">th</hi> Reg. &amp; it may be that some of them may be in Frankfort when this reaches you, if <unclear>it</unclear> should be so you are respectfully refered to them as to my character as a man &amp; a soldier. If any in my Regiment imputes to me any thing dishonorable or unsoldier like I withdraw this petition for pardon. Your Excellency is respectfully refered to the names of the Jurors who tried my case, Again I pray your Excellency to grant me a pardon that I may not be disgraced fore ever</p>
+<p>Chas P Davenport</p>
+<p>Jefferson Cir Ct
+<lb/>vs
+<lb/>Cha<hi rend="sup">s</hi> P Davenport
+<lb/>Pardoned
+<lb/><date when="1865-02-14">14<hi rend="sup">th</hi> Feby/65</date></p>
+<p>Pardon</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,650 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-222-0065"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">William Bowling, Ledger</title>
+    <title level="a" type="parallel">CWG13754</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>Misc. QM Expenditures, 1863-1865</collection>
+      <idno>QMG Box 10; Folder 1864 Subsistence &amp; Supplies, Lists of Stores Purchased &amp; Transportation; Bundle 3</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Franklin County, Kentucky</placeName>
+    <date when="1864-02-01">1 February 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Statement of amount of money Disbursed by W<hi rend="underline"><hi rend="sup">m</hi></hi> Bowling on account of Col Wilson's Regiment Ky. Vols. which remains unaccounted for.
+<lb/><table rend="rules">
+<row>
+	<cell/>
+	<cell/>
+	<cell/>
+	<cell>$</cell>
+	<cell/>
+</row>
+<row>
+	<cell/>
+	<cell>Jacob Kibby</cell>
+	<cell>Voucher</cell>
+	<cell>408</cell>
+	<cell>12</cell>
+</row>
+<row>
+	<cell/>
+	<cell>" "</cell>
+	<cell>"</cell>
+	<cell>21</cell>
+	<cell>00</cell>
+</row>
+<row>
+	<cell/>
+	<cell>" "</cell>
+	<cell>"</cell>
+	<cell>57</cell>
+	<cell>48</cell>
+</row>
+<row>
+	<cell/>
+	<cell>" "</cell>
+	<cell>"</cell>
+	<cell>4</cell>
+	<cell>75</cell>
+</row>
+<row>
+	<cell/>
+	<cell>" "</cell>
+	<cell>"</cell>
+	<cell>4</cell>
+	<cell>65</cell>
+</row>
+<row>
+	<cell/>
+	<cell>Heny K. Osenton</cell>
+	<cell>"</cell>
+	<cell>25</cell>
+	<cell>00</cell>
+</row>
+<row>
+	<cell><hi rend="underline">not Paid</hi></cell>
+	<cell>" " "</cell>
+	<cell>"</cell>
+	<cell>✓ 20</cell>
+	<cell>00</cell>
+</row>
+<row>
+	<cell/>
+	<cell>John Worthington. Jr.</cell>
+	<cell>"</cell>
+	<cell>15</cell>
+	<cell>00</cell>
+</row>
+<row>
+	<cell/>
+	<cell>J. B. Ward</cell>
+	<cell>"</cell>
+	<cell>33</cell>
+	<cell>00</cell>
+</row>
+<row>
+	<cell/>
+	<cell>W<hi rend="underline"><hi rend="sup">m</hi></hi> D. Jones</cell>
+	<cell/>
+	<cell>20</cell>
+	<cell>80</cell>
+</row>
+<row>
+	<cell/>
+	<cell>John N. Hord</cell>
+	<cell/>
+	<cell>33</cell>
+	<cell>00</cell>
+</row>
+<row>
+	<cell/>
+	<cell>Elijah Scott</cell>
+	<cell/>
+	<cell>5</cell>
+	<cell>00</cell>
+</row>
+<row>
+	<cell/>
+	<cell>George Nethercutt</cell>
+	<cell/>
+	<cell>8</cell>
+	<cell>25</cell>
+</row>
+<row>
+	<cell/>
+	<cell>Susan Henry</cell>
+	<cell/>
+	<cell>10</cell>
+	<cell>00</cell>
+</row>
+<row>
+	<cell/>
+	<cell>James L. Gibson</cell>
+	<cell/>
+	<cell>49</cell>
+	<cell>60</cell>
+</row>
+<row>
+	<cell/>
+	<cell>C. N. Davis</cell>
+	<cell/>
+	<cell>32</cell>
+	<cell>28</cell>
+</row>
+<row>
+	<cell/>
+	<cell>James G. Davis</cell>
+	<cell/>
+	<cell>37</cell>
+	<cell>76</cell>
+</row>
+<row>
+	<cell/>
+	<cell>James Alexander</cell>
+	<cell/>
+	<cell>33</cell>
+	<cell>60</cell>
+</row>
+<row>
+	<cell/>
+	<cell>Marinas King</cell>
+	<cell/>
+	<cell>29</cell>
+	<cell>87</cell>
+</row>
+<row>
+	<cell/>
+	<cell>John Clark</cell>
+	<cell/>
+	<cell>65</cell>
+	<cell>60</cell>
+</row>
+<row>
+	<cell/>
+	<cell>John C. Ball</cell>
+	<cell/>
+	<cell>100</cell>
+	<cell>17</cell>
+</row>
+<row>
+	<cell/>
+	<cell>" " "</cell>
+	<cell/>
+	<cell>6</cell>
+	<cell>80</cell>
+</row>
+<row>
+	<cell/>
+	<cell>" " "</cell>
+	<cell/>
+	<cell>2</cell>
+	<cell>25</cell>
+</row>
+<row>
+	<cell/>
+	<cell>William M<hi rend="sup">c</hi>Kinney</cell>
+	<cell/>
+	<cell>28</cell>
+	<cell>84</cell>
+</row>
+<row>
+	<cell/>
+	<cell/>
+	<cell/>
+	<cell>1042</cell>
+	<cell>.43</cell>
+</row>
+</table><pb/>
+<lb/><table rend="rules">
+<row>
+	<cell/>
+	<cell/>
+	<cell/>
+	<cell>1040.</cell>
+	<cell>43</cell>
+</row>
+<row>
+	<cell/>
+	<cell>Patterson Wilburn</cell>
+	<cell>Voucher</cell>
+	<cell>98</cell>
+	<cell>60</cell>
+</row>
+<row>
+	<cell/>
+	<cell>William Stratton</cell>
+	<cell>"</cell>
+	<cell>29</cell>
+	<cell>64</cell>
+</row>
+<row>
+	<cell/>
+	<cell>Samuel <unclear>Earrman</unclear></cell>
+	<cell>"</cell>
+	<cell>20</cell>
+	<cell>90</cell>
+</row>
+<row>
+	<cell/>
+	<cell>Hiram Dawson</cell>
+	<cell>"</cell>
+	<cell>5</cell>
+	<cell>50</cell>
+</row>
+<row>
+	<cell/>
+	<cell>C. O. Richey</cell>
+	<cell>"</cell>
+	<cell>3</cell>
+	<cell>25</cell>
+</row>
+<row>
+	<cell/>
+	<cell>B. F. Morris</cell>
+	<cell>"</cell>
+	<cell>18</cell>
+	<cell>58</cell>
+</row>
+<row>
+	<cell/>
+	<cell>Henry Easterly</cell>
+	<cell>"</cell>
+	<cell>18</cell>
+	<cell>02</cell>
+</row>
+<row>
+	<cell/>
+	<cell>H. Herold</cell>
+	<cell>"</cell>
+	<cell>4</cell>
+	<cell>98</cell>
+</row>
+<row>
+	<cell/>
+	<cell>Jonathan Davis</cell>
+	<cell>"</cell>
+	<cell>137</cell>
+	<cell>81</cell>
+</row>
+<row>
+	<cell><hi rend="underline">not paid</hi></cell>
+	<cell>Sebastan Eifort</cell>
+	<cell>"</cell>
+	<cell>28</cell>
+	<cell>00</cell>
+</row>
+<row>
+	<cell/>
+	<cell>Geo. W. Long</cell>
+	<cell>"</cell>
+	<cell>3</cell>
+	<cell>00</cell>
+</row>
+<row>
+	<cell/>
+	<cell>John M<hi rend="sup">c</hi>Guire</cell>
+	<cell>"</cell>
+	<cell>2</cell>
+	<cell>50</cell>
+</row>
+<row>
+	<cell/>
+	<cell>" "</cell>
+	<cell>"</cell>
+	<cell>4</cell>
+	<cell>00</cell>
+</row>
+<row>
+	<cell/>
+	<cell>C. C. Canifax</cell>
+	<cell/>
+	<cell>3</cell>
+	<cell>30</cell>
+</row>
+<row>
+	<cell/>
+	<cell>H. K Osenton</cell>
+	<cell/>
+	<cell>2</cell>
+	<cell>50</cell>
+</row>
+<row>
+	<cell/>
+	<cell>W<hi rend="underline"><hi rend="sup">m</hi></hi> Womack</cell>
+	<cell/>
+	<cell>3</cell>
+	<cell>00</cell>
+</row>
+<row>
+	<cell/>
+	<cell>W<hi rend="underline"><hi rend="sup">m</hi></hi> G. Counts</cell>
+	<cell/>
+	<cell>2</cell>
+	<cell>16</cell>
+</row>
+<row>
+	<cell/>
+	<cell>W<hi rend="underline"><hi rend="sup">m</hi></hi> Deal</cell>
+	<cell/>
+	<cell>1</cell>
+	<cell>72</cell>
+</row>
+<row>
+	<cell/>
+	<cell>Aaron Newell</cell>
+	<cell/>
+	<cell>1</cell>
+	<cell>87</cell>
+</row>
+<row>
+	<cell/>
+	<cell>C. H. Stewart</cell>
+	<cell/>
+	<cell>1</cell>
+	<cell>25</cell>
+</row>
+<row>
+	<cell/>
+	<cell>Abe Anglin</cell>
+	<cell/>
+	<cell/>
+	<cell>75</cell>
+</row>
+<row>
+	<cell/>
+	<cell>Thomas I. Berry</cell>
+	<cell/>
+	<cell>1</cell>
+	<cell>90</cell>
+</row>
+<row>
+	<cell/>
+	<cell>Corbet &amp; Say</cell>
+	<cell/>
+	<cell>1</cell>
+	<cell>50</cell>
+</row>
+<row>
+	<cell/>
+	<cell>B. F. Crawford</cell>
+	<cell/>
+	<cell>96</cell>
+	<cell>21</cell>
+</row>
+<row>
+	<cell/>
+	<cell>" " "</cell>
+	<cell/>
+	<cell>19</cell>
+	<cell>25</cell>
+</row>
+<row>
+	<cell/>
+	<cell>" " "</cell>
+	<cell/>
+	<cell>12</cell>
+	<cell>93</cell>
+</row>
+<row>
+	<cell/>
+	<cell>Geo. W. Littlejohn</cell>
+	<cell/>
+	<cell>76</cell>
+	<cell>53</cell>
+</row>
+<row>
+	<cell/>
+	<cell/>
+	<cell/>
+	<cell>1630</cell>
+	<cell>08</cell>
+</row>
+</table><pb/>
+<lb/><table rend="rules">
+<row>
+	<cell/>
+	<cell>Geo W. Littlejohn</cell>
+	<cell/>
+	<cell>7</cell>
+	<cell>32</cell>
+</row>
+<row>
+	<cell>not paid</cell>
+	<cell>W<hi rend="underline"><hi rend="sup">m</hi></hi> J. Hix</cell>
+	<cell/>
+	<cell>35</cell>
+	<cell>84</cell>
+</row>
+<row>
+	<cell/>
+	<cell>John Z. Duly</cell>
+	<cell/>
+	<cell>7</cell>
+	<cell>00</cell>
+</row>
+<row>
+	<cell/>
+	<cell>N. B. M<hi rend="sup">c</hi>Clelland</cell>
+	<cell/>
+	<cell>36</cell>
+	<cell>00</cell>
+</row>
+<row>
+	<cell/>
+	<cell>J. B. Welsh</cell>
+	<cell/>
+	<cell>32</cell>
+	<cell>00</cell>
+</row>
+<row>
+	<cell/>
+	<cell>W<hi rend="underline"><hi rend="sup">m</hi></hi>. R. Shepherd</cell>
+	<cell/>
+	<cell>25</cell>
+	<cell>00</cell>
+</row>
+<row>
+	<cell/>
+	<cell>J. B. Welsh</cell>
+	<cell/>
+	<cell>94</cell>
+	<cell>77</cell>
+</row>
+<row>
+	<cell/>
+	<cell>David I. Gee</cell>
+	<cell/>
+	<cell>1</cell>
+	<cell>31</cell>
+</row>
+<row>
+	<cell/>
+	<cell>W<hi rend="underline"><hi rend="sup">m.</hi></hi> D. Ball</cell>
+	<cell/>
+	<cell>6</cell>
+	<cell>50</cell>
+</row>
+<row>
+	<cell/>
+	<cell>" "</cell>
+	<cell/>
+	<cell>31</cell>
+	<cell>50</cell>
+</row>
+<row>
+	<cell/>
+	<cell>Hiram Pope</cell>
+	<cell/>
+	<cell>26</cell>
+	<cell>80</cell>
+</row>
+<row>
+	<cell/>
+	<cell>Olivia Rice</cell>
+	<cell/>
+	<cell>12</cell>
+	<cell>50</cell>
+</row>
+<row>
+	<cell/>
+	<cell>J. T. Eastham</cell>
+	<cell/>
+	<cell>6</cell>
+	<cell>93</cell>
+</row>
+<row>
+	<cell/>
+	<cell>Jacob Walker</cell>
+	<cell/>
+	<cell>27</cell>
+	<cell>20</cell>
+</row>
+<row>
+	<cell/>
+	<cell>B. F. Shepherd</cell>
+	<cell/>
+	<cell>75</cell>
+	<cell>20</cell>
+</row>
+<row>
+	<cell/>
+	<cell>W<hi rend="underline"><hi rend="sup">m</hi></hi>. L. England</cell>
+	<cell/>
+	<cell>80</cell>
+	<cell>25</cell>
+</row>
+<row>
+	<cell/>
+	<cell>W<hi rend="underline"><hi rend="sup">m</hi></hi> D. Jones</cell>
+	<cell/>
+	<cell>692</cell>
+	<cell>50</cell>
+</row>
+<row>
+	<cell/>
+	<cell>Edward I. Wilson</cell>
+	<cell>Receipt</cell>
+	<cell>50</cell>
+	<cell>00</cell>
+</row>
+<row>
+	<cell/>
+	<cell>Edward I. Wilson</cell>
+	<cell>expenses recruiting</cell>
+	<cell>100</cell>
+	<cell>00</cell>
+</row>
+<row>
+	<cell/>
+	<cell>W<hi rend="underline"><hi rend="sup">m</hi></hi> Bowling.,</cell>
+	<cell>Transportation &amp;c incured by self in recruiting and organizing companies and disbursing money. exclusive of subsistence</cell>
+	<cell>169</cell>
+	<cell>00</cell>
+</row>
+<row>
+	<cell/>
+	<cell/>
+	<cell>Blank books, paper &amp;c used now being furnished by the Department.</cell>
+	<cell>6</cell>
+	<cell>00</cell>
+</row>
+<row>
+	<cell/>
+	<cell/>
+	<cell/>
+	<cell>3153</cell>
+	<cell>70</cell>
+</row>
+<row>
+	<cell/>
+	<cell/>
+	<cell/>
+	<cell>3062</cell>
+	<cell>33</cell>
+</row>
+<row>
+	<cell/>
+	<cell/>
+	<cell/>
+	<cell>91</cell>
+	<cell>37</cell>
+</row>
+</table><pb/></p>
+<p>The State of Kentucky
+<lb/>Franklin County } Sct.</p>
+<p>On this <gap/> day of <date when="1864-02">February, 1864</date>, before the undersigned authority within and for the county and state aforesaid, personally appeared William Bowling and being by me first duly sworn made the following statements on oath. That in the fall of <date when="1861">1861,</date> and winter of, <date when="1862">1862,</date> there was advanced to him by the Military Board of the state of Kentucky the sum of Twelve thousand three hundred and fifty-five Dollars ($12355.<hi rend="sup">00</hi>/<hi rend="sub">100</hi>) for the purpose of recruiting and subsisting volunteers for the United states army, and was directed by the said Military Board to advance one month's pay to the volunteers then in Camp at Grayson Kentucky under Col. Edward I. Wilson, and to pay the expenses of recruiting and subsisting same until they should be organized into a regiment, that he proceeded to Grayson with the money and mustered in and paid each officer and soldier one months pay in advance, that he disbursed in this way Somewhere about Six thousand Dollars. that he also paid some expenses for recruiting, There being<pb/>
+<lb/>no Quartermaster's or Commissary Department from which to procure supplies, by direction of the Military Board he subsisted the men by purchasing supplies for them in the Neighborhood of the Camp and subsisted them in this way from the <date when="1861-10-15">15<hi rend="underline"><hi rend="sup">th</hi></hi> day of October. 1861.</date> to about the <date when="1861-12-08">8<hi rend="underline"><hi rend="sup">th</hi></hi></date> or <date when="1861-12-10">10<hi rend="underline"><hi rend="sup">th</hi></hi> of December, 1861,</date> when the regiment went to Camp Swigert for the purpose of organizing -- Affiant states further that on the <gap/> day of <date when="1862-05">May. 1862.</date> he made a partial settlement with the said Military Board and accounted to them for the sum of Nine thousand two hundred and ninety-two dollars and Sixty-seven cents ($9.292. <hi rend="sup">67</hi>/<hi rend="sub">100</hi>) producing vouchers which they accepted for that amount, that the claims at that time had not all been adjusted he was therefore directed by said military board to pay off and adjust all the claims for recruting and subsisting said Regiment of volunteers -- That about the <date when="1862-09-30">30<hi rend="underline"><hi rend="sup">th</hi></hi> day of september 1862</date>, before affiant had been able to settle and adjust said claims John Morgan with a large force of rebels captured the town of Grayson where affiant then had his office and papers. and broke into his office and destroyed and carried away<pb/>
+<lb/>Every paper, blank &amp;c. pertaining to Military affairs -- except a few vouchers and receipts which hapened to not be in this office at the time That his books Duplicates reports invoices requisitions and correspondence except the vouchers and receipts above named were all captured and destroyed at least affiant has never been able to recover them -- that an account of said capture and destruction of affiant books and papers he has been and is now unable to account in a satisfactory manner <hi rend="str">or</hi> according to the army regulations for all the articles bought or other expenses incured in recruiting and subsisting said regiment -- </p>
+<p>He herewith presents a list of vouchers receipts and statement of expenditures together with the vouchers and receipts all of which have been paid excepted $28.<hi rend="sup">84</hi>/<hi rend="sub">100</hi> to W<hi rend="underline"><hi rend="sup">m</hi></hi>. I Hix $20.<hi rend="sup">00</hi>/<hi rend="sub">100</hi> to H. K. Osenton and $28.<hi rend="sup">00</hi>/<hi rend="sub">100</hi> to Sebastian. Eifort. He further says that the articles bought and for which he presents vouchers and receipts were all necessary for the public service and were actually used by said regiment. and that the other expenditures upon said list were necessary for the public service and are all reasonable and just and have all been<pb/>
+<lb/>paid by affiant -- He says that he faithfully and honestly disbursed the whole amount of money advanced him by the Military Board, in the public service -- and in the manner directed by said board, and that no uselses or unnecessary ^expense^ was incured to affiants knowledge -- That after organization of said Regt. Col Wilson having been beaten for Colonel he went away from the neighborhood of Grayson and utterly refused to approve a single paper or assist in any manner in settling up the business pertaining to the regiment -- That after the partial settlement above refered to with the Military Board ^he presented to said board^ vouchers amounting to the sum of Seven hundred and seventy-two Dollars and seventy-five cents ($772.<hi rend="sup">75</hi>/<hi rend="sub">100</hi>) which were accepted and approved but affiant has not as appears from their books been creditied with <hi rend="str">that</hi> them -- These vouchers were paid by special directions of the board. He further says that for more than two years succeeding the time his papers and books were captured by John Morgan he was compeled to stay away from Carter county the greater protion of the time and could do no business there -- That many of the officers<pb/>
+<lb/>commandants of companies and detachments of recruits to whom the suppliers were issued and who used the same, are dead or removed to parts unknown -- That every single dollar advanced to him has been disbursed and expended by him for the public service and in the manner directed by the board -- So advancing the same -- </p>
+<p>W<hi rend="underline"><hi rend="sup">m</hi></hi> Bowling</p>
+<p>Subscribed and sworn to before me by William Bowling this <date when="1864-02-01">1<hi rend="underline"><hi rend="sup">st</hi></hi> day of February, 1864.</date></p>
+<p>Witness my hand and official seal the day and year last afore-said -- </p>
+<p>Robert R Taylor
+<lb/>Notary Public</p>
+<p><stamp type="revenue"/><note place="stamp"><unclear/>J B
+<lb/><date when="1864">1864</date></note>
+<lb/><figure type="seal"/><pb/></p>
+<p>Account Current
+<lb/><hi rend="underline">of</hi> 
+<lb/><hi rend="underline">W</hi><hi rend="underline"><hi rend="sup">m</hi></hi><hi rend="underline"> Bowling</hi>
+<lb/><hi rend="underline">Disbursing Officer Ky</hi>.</p>
+<p>Executive office
+<lb/><date when="1864-02-02">Feby 2 1864</date></p>
+<p>This account of the disbursement of the funds place in the hands of Col Bowling comes within the equitable rule intended to be established by the Legislature; and I am satisfied that Col B has properly disbursed the same &amp; cannot now obtain the formal vouchers the Quarter Master Genl is therefore direct to square the a¢ of Col B &amp; give him a <unclear/></p>
+<p>Tho E Bramlette
+<lb/>Govr</p>
+  </body>
+ </text>
+</TEI>

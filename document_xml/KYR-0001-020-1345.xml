@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1345"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John H. Kemper to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10813</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG21-263</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1861-08-25">25 August 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his excellency B Magoffin Governor of Ky</p>
+<p>Your petitioner Jno H Kemper, would respectfully represent that he was fined before James T Ford Esq on the <date when="1861-07-09">9 day of July 1861.</date> on a warrant for keeping a tipling house the sum of $20 -- ^for retailing^ He further represents that he was innocent of the charge and the same could only be proved against him by irresponsable witnesses who were greatly prejudiced against him. He also states that the whole affair was conceived and carried on by the prosecutor and witnesses against him altogether through malice, ^A remission of the fine is respectfully asked^. He positively alledges that he is innocent of the charge, this <date when="1861-08-25">25th Aug 1861,</date></p>
+<p>Jno H Kemper </p>
+<p>Sworn to before me by Jno H Kemper this <date when="1861-08-25">25th Aug 1861.</date></p>
+<p>James G Hutton <unclear>J P C</unclear></p>
+<p>I was attorney for Mr Kemper in the above cause and from the facts and <hi rend="str">the</hi> circumstances surrounding the same I am satisfied that Mr Kemper is innocent of having violated the Law and I really believe the fine ought to be remitted</p>
+<p><hi rend="underline">Tho</hi><hi rend="underline"><hi rend="sup">s</hi></hi><hi rend="underline"> R Wenshaw</hi><pb/></p>
+<p>Govenor</p>
+<p>I attended to the prosecution for the commonwealth against Mr Kemper &amp; was so well satisfied from the manner of the prosecuters &amp; witneeses ^that^ Mr Kemper ought not to suffer the penalties of the law I released the 30 percent due me as county attorney &amp; I sincerly hope your excellency will remit the fine as I believe in Justice it ought to be done</p>
+<p>John Hawkins ctty atto
+<lb/>For Floyd County</p>
+<p>I was the Justice who tried Mr Kemper on the within charge and I give it as my opinion, that the whole affair was carried on through prejudis. In fact from what I could see mallice was the only element in the case. <date when="1861-08-25">25th Aug 1861</date></p>
+<p>Ja<hi rend="sup">s</hi> T Ford J. P. F. C.</p>
+<p>John H Kemper
+<lb/>To } Petition
+<lb/>Flody J. P.
+<lb/>Govener</p>
+<p>Remitted
+<lb/>B. M</p>
+<p>$20.</p>
+<p>Iss<hi rend="sup">d</hi> <date when="1861-09-10">Sept 10. 1861</date></p>
+<p>Burns</p>
+  </body>
+ </text>
+</TEI>

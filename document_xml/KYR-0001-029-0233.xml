@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0233"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">J. N. B. Harwick et al. to James F. Robinson</title>
+    <title level="a" type="parallel">CWG8685</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Governor's Official Correspondence File, Petitions for Pardons, Remissions, and Respites, 1862-1863</collection>
+      <idno>R3-350</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Powell County, Kentucky</placeName>
+    <date when="1863-02-15">15 February 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To James F Robinson Governor of the Commonwealth of Kentucky</p>
+<p>The undersigned Petitioners would beg leave to ^Represent to^ Youre Excelency that at the <date when="1861-03">March Term 1861</date> of the Powell Circuit Court that the Commonwealth obtained a Judgement against Narzimba Holmes for <hi rend="str">twenty</hi> ^fifty^ dollars for carring concealed weapons and we would further Represent to youre Excellency that Mr Holmes is one among and best Loyal man and a verry poore man with a ^family^ to Entirely Dependant upon him for <unclear/> and it will be verry oppressive on him and his family if he was to Pay and we would further represent to youre Excellency that Mr Holmes lives in a Section of Country that He has to be constantly on the dodge to keep out of the <hi rend="str">Hands of</hi> hands of the Rebbles and in view of all the facts we think that his case Presents Strong grounds for the Exercise of Executive Clemency and we would Respectifully ask your Excellency to remit said fine</p>
+<p><date when="1863-02-15">Feb 15<hi rend="sup">th</hi> 1863</date>
+<lb/>J N B Hardwick J P C C
+<lb/>J. H. Schollck T C C
+<lb/>John F Holley J P C
+<lb/>George Knox
+<lb/>Madesan Stewart
+<lb/>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> C. Judy <hi rend="underline">C P C C</hi><pb/></p>
+<p>Powell Cir. Ct
+<lb/>Narzimba Holmes Pettn
+<lb/>$50 } Weapons
+<lb/>Fine Remitted
+<lb/>J F Robinson
+<lb/>Iss<hi rend="sup">d</hi> <date when="1863-02-21">Feby 21<hi rend="underline"><hi rend="sup">st</hi></hi> 1863</date></p>
+  </body>
+ </text>
+</TEI>

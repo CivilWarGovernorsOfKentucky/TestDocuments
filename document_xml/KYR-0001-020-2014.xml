@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-2014"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Young Brown to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG9090</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG24-11 to MG24-12</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Henderson, Henderson County, Kentucky</placeName>
+    <date when="1862-06-14">14 June 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Henderson <date when="1862-06-14">June 14 1862</date>
+<lb/>My Dear Sir:</p>
+<p>I have been requested to forward to you the enclosed petition, &amp; letter, praying the pardon of W G Yancey, convicted on this day, under an indictment for Grand Larceny, to serve one year in the penitentiary -- </p>
+<p>As you will perceive, the jury unanimously unite in the request of your excellency -- I think the case earnestly merits your clement consideration -- &amp; I cordially join my friend Col Jno T Bunch in urging you to pardon the unfortunate young man -- If it were supposed that it would have any greater weight with you<pb/>
+<lb/>the names of a hundred of our best citizens could be added to the petitioon, but as the Jury heard all the evidence &amp; <hi rend="str">are</hi> were fully familiar with all the Circumstances attending the case, it was believed then unanimous prayer would be sufficient -- Hoping that you may feel it consistent with your feelings of duty to grant the request of your friends. I am, with assurances of high esteem -- </p>
+<p>Truly Yr Friend
+<lb/>John Young Brown</p>
+<p>P.S.
+<lb/>Please mail your reply to<pb/>
+<lb/>me at your <hi rend="underline">earliest</hi> <hi rend="underline">Convenience</hi>. This Young man has not yet been sent to Frankfort, &amp; will not be, until we hear from you</p>
+<p>Yours <unclear/>
+<lb/>J Y. B</p>
+<p>Hon B Magoffin
+<lb/>Frankfort, Ky</p>
+  </body>
+ </text>
+</TEI>

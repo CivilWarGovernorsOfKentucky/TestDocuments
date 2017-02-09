@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0944"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">S. W. Abbott, Affidavit</title>
+    <title level="a" type="parallel">CWG10412</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG19-495 to MG19-496</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Hopkinsville, Christian County, Kentucky</placeName>
+    <date when="1861-04-08">8 April 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>State of Kentucky
+<lb/>Hopkinsville Christian County</p>
+<p>Personally appeared S W Abbott before me D S Hays Police Judge of Hopkinsville and made oath that he was well acquainted with Stephen Shelton &amp; Addison Ferrill who were Killed in a general meelee at Bainbridge in Christain County on the <gap/> day of <gap/> <date when="1858">1858.</date> That he first became acquainted with the old man D A Ferrell -- his son Addison Ferrell &amp; Peter F Clark son in Law to D A Ferrell and Stephen Shelton was when on their way removing from Virginia to Christian County that they had encamped about one mile east of Hopkinsville the men comming into Town for something to drink it was not long before the old man D A Ferrell -- Addison Ferrell Peter F Clark &amp; Shelton were all engaged in a general fight with Some of our peacable Citizens. -- that they settled in the neighborhood of Jonathan Greers about Six or seven miles west of Hopkinsville -- they Seldom came to Town after this without having a difficulty with some of our Citizens -- and were fined for there misconduct -- that they were regarded in the neighborhood when they lived as Very quarrelsome men going armed -- and Charged with shooting at others -- and Peter F Clark was indicted for shooting at with intent to Kill <gap/> Greer one of the Sons of Jonathan Greer<pb/>
+<lb/>and has fled leaving &amp; his Bail in the Case responsible -- </p>
+<p>I regarded these two men that were killed as very quarrelsome and dangerous men -- </p>
+<p>S. W. Abbott</p>
+<p>Sworn to before me by S W Abbott this <date when="1861-04-08">8<hi rend="sup">th</hi> day of Apl 1861</date></p>
+<p>D S Hays Police Judge<pb/></p>
+<p>Christian Cir. Ct
+<lb/>Issue pardon
+<lb/>B. Magoffin
+<lb/>Jonathan Greer
+<lb/>Manslaughter
+<lb/>5 yrs. Penty
+<lb/>Iss<hi rend="sup">d</hi> <date when="1861-04-16">Apr 16. 1861</date></p>
+  </body>
+ </text>
+</TEI>

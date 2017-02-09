@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0260"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">W. R. Hydes, Jr. et al. to James F. Robinson</title>
+    <title level="a" type="parallel">CWG8712</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Governor's Official Correspondence File, Petitions for Pardons, Remissions, and Respites, 1862-1863</collection>
+      <idno>R3-386 to R3-387</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency J. F. Robinson
+<lb/>Governor of the State of Kentucky.</p>
+<p>The petitioners would respectfully represent to your Excellency that G. G. Knapper was indicted in the City Court of Louisville for an assault committed on the person of E. Noll and at the <date when="1862-10">October Term of said Court 1862</date>, was fined in the sum of Fifty dollars, the commissions on the amount and costs of the case amount to nearly thirty dollars and Mr. Knapper is a poor man with a family to support. We are well acquainted with Mr. Knapper, he is an inoffensive man, and we never knew him in a difficulty before. We are acquainted with the facts of this case and feel fully warranted in saying that the assault was not of an aggravated character. We respectfully ask your Excellency to remit the fine against the said G. G. Knapper.</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>W. R Hydes Jr
+<lb/><hi rend="underline">Phil Tomppert Jr</hi>
+<lb/>W<hi rend="sup">m</hi> Springer
+<lb/>Marcus Cohen
+<lb/>Lewis <unclear/>
+<lb/>Theodor Droppelmann</p>
+<p><cb n="2"/>Mr Knapper is a quiet &amp; industrious man &amp; from all the circumstances known before the trial &amp; from what I have learned <hi rend="underline">since the trial</hi>, I think a remission of $25 -- of the fine would be well Enough.</p>
+<p>W, G, Reasor, City Atto
+<lb/>Geo. W. Johnston<pb/></p>
+<p><milestone unit="column" n="1"/>L. Rosenthal
+<lb/><unclear/> <unclear/>
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Dargel
+<lb/>W Huebner
+<lb/>Joseph Schmelz
+<lb/>W Kaufmann
+<lb/>Cha<hi rend="underline"><hi rend="sup">s</hi></hi> Rehner
+<lb/>G H Hollenhamer
+<lb/>Theodore Gross
+<lb/>Frantz Waller
+<lb/>H Smith
+<lb/>J. F. Frick
+<lb/>H. Seekamp
+<lb/>H. Wibben
+<lb/>P. Wahl
+<lb/>W B. Rammers
+<lb/>Ch Illey
+<lb/>J. Seiff<pb/></p>
+<p>Louisville City Ct
+<lb/>G G. Knapper
+<lb/>Pettn for Rem of fine</p>
+<p>Twenty five dollars of the fine remitted</p>
+<p>$25.00
+<lb/><hi rend="underline">J F Robinson</hi>
+<lb/>$50 } assault
+<lb/>Iss<hi rend="sup">d</hi> <date when="1863-02-09">Feby 9. 1863</date></p>
+  </body>
+ </text>
+</TEI>

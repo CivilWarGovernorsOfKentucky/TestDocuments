@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-181-0002"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">William H. Hays, General Orders, No. 1</title>
+    <title level="a" type="parallel">CWG13986</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>General Orders No. 2</collection>
+      <idno/>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1865-03-30">30 March 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Order</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Headquarters Kentucky State Guard,
+<lb/>INSPECTOR GENERAL'S OFFICE,
+<lb/>Frankfort, Ky., <date when="1865-03-30">March, 30, 1865</date>.
+<lb/>GENERAL ORDERS
+<lb/>No. 1.</p>
+<p>I. Having been appointed and commissioned by his Excellency, the Governor, Inspector General for the State of Kentucky, and having entered upon the discharge of the duties of the same, with my Headquarters at Frankfort, Ky., all communications in regard to the organization of the Enrolled Militia, and of companies of Active Militia in each regimental district, to form the Kentucky National Legion, will be addressed to these Headquarters.</p>
+<p>II. An act of the Legislature to organize and discipline the Militia of Kentucky, approved <date when="1865-03-04">March 4, 1865</date>, directs that the Active Militia shall be styled the "Kentucky National Legion," and shall be composed of all companies organized in the different regimental districts in the State.</p>
+<p>For the purpose of organizing the Active Militia, and having them ready for active duty in the field, the Governor and Commander-in-Chief of the Militia orders that one company of Active Militia be immediately organized in each regimental district.</p>
+<p>The first and second wards of Louisville will compose a regimental district; the third and fourth wards a regimental district; the fifth and sixth wards a regimental district; the seventh, eighth, and ninth wards a regimental district; the tenth, eleventh, and twelfth wards a regimental district. The other districts in the State will remain as heretofore ordered, each county being considered a regimental district, except where two or more have been formed into one district.</p>
+<p>The "Kentucky National Legion" should be composed of the best men in the State. They elect their own officers, and it is hoped and believed that they will elect such only as will reflect credit upon the State and upon themselves.</p>
+<p>WM. H. Hays,
+<lb/><hi rend="italic">Inspector General of Kentucky</hi>.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-031-0037"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">D. P. Robb to James F. Robinson</title>
+    <title level="a" type="parallel">CWG7777</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Appointments by the Governor, Civil Appointments, 1862-1863</collection>
+      <idno>R1-82</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Versailles, Woodford County, Kentucky</placeName>
+    <date when="1862-11-03">3 November 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Versailles Ky
+<lb/><date when="1862-11-03">Nov 3<hi rend="sup">rd</hi> 1862</date>
+<lb/>Gov J F Robinson</p>
+<p>I hereby resign the office of Police Judge of the town of Versailles Ky</p>
+<p><hi rend="underline">D P Robb</hi></p>
+<p>I would hearby recommend the appoiontment of H H Culbertson as a suitable person for the office of Police Judge of Versailles Mr Culbertson is a true Union man &amp; will be very acceptable to the people</p>
+<p><hi rend="underline">D P Robb</hi><pb/></p>
+<p>Versailles<figure type="hr"/>
+<lb/>Po. Judge
+<lb/>H H Culbertson
+<lb/>App<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1862-11-07">Nov. 7. 1862</date></p>
+  </body>
+ </text>
+</TEI>

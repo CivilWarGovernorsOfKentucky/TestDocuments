@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0491"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John B. Bibb to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG4610</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR9-281 to BR9-282</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency Gov<hi rend="sup">r</hi> Bramlette</p>
+<p>Your petitioner John B Bibb would respectfully submit the following statement, &amp; petition for relief. Some Ten or Twelve years ago. he was the owner of a Servant named Jim, who had been a faithful man to the petitioner &amp; upon his request he sold or agreed with the servant, that upon the payment of so much money he might go free, the money was made &amp; paid by the Servant &amp; he gave him a paper accordingly. The boy had a wife &amp; children in Ky &amp; in Henderson &amp; continued to live in said county, at the <date when="1860-06">June term of 1860</date> or <date when="1861-06">61</date> of the Court of Henderson this Pet<hi rend="underline"><hi rend="sup">nr</hi></hi> was presented &amp; at <date when="1863-12">December term 1863</date> he was fined in Three cases <hi rend="str"><unclear/></hi> forty Dollars in each case, your petitioner is too well known to your excellency for him to assure you that it was<pb/>
+<lb/>no disrespect to the laws of his state, but kind feelings to a faithful Servant which caused him to thus suject himself to the penalties and most respectfully asks your excellency to interpose &amp; release him of the fine,</p>
+<p>Very respectfully
+<lb/>Yours Truly
+<lb/>Jn<hi rend="sup">o</hi>. B. Bibb</p>
+<p>I was atty for Mr Bibb in the Henderson Circuit Court &amp; know the facts as set forth in this petition to be true &amp; I write in said petition</p>
+<p>Jn<hi rend="sup">o</hi>. T. Bunch<pb/></p>
+<p>Henderson Cir Ct
+<lb/>vs
+<lb/>J. B. Bibb
+<lb/><date when="1864-02-03">3<hi rend="sup">rd</hi> Feby 18<hi rend="underline">6</hi>4</date>
+<lb/>3 Judgts of $40 each</p>
+<p>Remit except fees &amp; costs
+<lb/>Tho E Bramlette</p>
+  </body>
+ </text>
+</TEI>

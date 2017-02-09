@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2663"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">W.R. Boice to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7300</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR16-286 to BR16-287</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1865-11-08">8 November 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency
+<lb/>Thomas E. Bramlette
+<lb/>Governor of Kentucky.</p>
+<p>Your petitioner, William R Boice, of Danville, Boyle County, Ky, respectfully shows, that one <hi rend="underline">John Hudson</hi> was indicted in the Mercer Circuit Court for <hi rend="underline">Stealing</hi>, and being admitted to bail, your petitioner became his surety for his appearance &amp;. The deft Hudson having failed to appear, his bond was, of Course, forfeited, and at the <date when="1865-05">May Term 1865</date> of said Court a Judgment was rendered against your petitioner alone for $80 besides cost. Upon which fifa has been issued, and is now in the hands of the sheriff of Boyle County, who is pressing its Collection.</p>
+<p>Your petitioner states that at the opening of the term of the Mercer Circuit Court, and at the time said Hudson was, by his bond, bound to Appear in Said Court, and answer said charge, he Said Hudson, was confined in the Jail of Franklin County, on some charge unknown to your petitioner, and for that cause, and that cause only as yr petitioner beleives, he failed to enter his appearance &amp; answer the charge as required by Said Bond.<pb/></p>
+<p>Beleiving that this is a case in which the Executive may interpose rightfully, he therefore respectfully asks your Excellency to <hi rend="underline">remit</hi> so much of said Judgment as by law may be remitted by the Governor, And as in duty bound he Will ever pray &amp;</p>
+<p>W R Boice<figure type="hr"/></p>
+<p>The Undersigned respectfully unite with W R Boice in the prayer of the foregoing Petition. <date when="1865-11-08">Nov 8<hi rend="sup">th</hi> 1865</date></p>
+<p>M T Chrisman
+<lb/>R P Jacobs.
+<lb/>J. B. Nichols, Clerk
+<lb/>T. P. Young
+<lb/>I G. Bibb
+<lb/>M Chiles
+<lb/>A Chiles
+<lb/><hi rend="underline">Clifton Rodes</hi></p>
+<p>This is the Case in Which yr Excellency agreed to remit the fine</p>
+<p>J F Bell
+<lb/>W R Orear<pb/></p>
+<p>Mercer Cir Ct
+<lb/>vs
+<lb/>W<hi rend="sup">m</hi> R Boice
+<lb/>$80,
+<lb/>Forfeiture
+<lb/>Remitted <date when="1865-11-13">13<hi rend="sup">th</hi> Nov/<hi rend="underline">65</hi></date></p>
+  </body>
+ </text>
+</TEI>

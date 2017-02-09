@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0005"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">S. S. Patterson et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG1670</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Appointments by the Governor, Civil Appointments, 1863-1867</collection>
+      <idno>BR1-379</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To Govner Bramlett</p>
+<p>We the undersined Union men of District No 5 Pendletn county Ky ast you in the names of many others to give to W<hi rend="sup">m</hi> Gardner a unflinching Union man the office of Magistrate in this district <hi rend="str">occson</hi> to fill the vacancy occassioned by the resignation of S. S. Patterson</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>S. S. Patterson
+<lb/>J. H. Dahlenburg
+<lb/>C. T. Daniel
+<lb/>Franklin Vallandingham
+<lb/>Ebens. S. Simpson
+<lb/>David Mileham
+<lb/>Joseph Mullins
+<lb/>Gabrel. Speagle.
+<lb/>George Speagle
+<lb/>W. W. Hydlott
+<lb/>William. Seales.
+<lb/>R. Mann
+<lb/>J. Vastine
+<lb/>James. Vastine
+<lb/>Teter. F. Grant
+<lb/>J. N. Dougherty
+<lb/>Thos. Hetmon
+<lb/>H. Dahlenburg
+<lb/><cb n="2"/>Wm. Gohlen
+<lb/>James Conley
+<lb/>R. Simpson
+<lb/>J. Simpson
+<lb/>E. Simpson
+<lb/>B. N. Wilson
+<lb/>W. Midleton
+<lb/>S. Tomblin
+<lb/>Wm. Tomblin
+<lb/>T. Winn
+<lb/>C. Whitesides
+<lb/>James. Piner
+<lb/>Wm. oliver
+<lb/>Amon. Reynolds
+<lb/>J. T. Vallandingham
+<lb/>Wm. Gardner</p>
+  </body>
+ </text>
+</TEI>

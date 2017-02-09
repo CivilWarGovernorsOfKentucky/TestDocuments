@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2495"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">W. H. Medley et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7132</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR15-467 to BR15-468</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Lebanon, Marion County, Kentucky</placeName>
+    <date when="1865-10-16">16 October 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Lebanon <date when="1865-10-16">October 16/65</date>
+<lb/>To his Excellency Thomas E. Bramlette -- </p>
+<p>your petitioners would respectfully state that at the <date when="1865-06">June term 1865</date> of the Marion circuit court William Chambers was indicted by the Grand jury of said county and charged with having "set up" a faro bank in said county -- At the <date when="--08">August</date> term of the Marion circuit court said Chambers confessed a judgment in favor of the commonwealth against himself for five Hundred dollars -- Your petitioners are informed that said Chambers is a man of family and in indigent circumstances, however they only learn this from report and have no personal knowledge of the fact -- Under all the circumstances your Petitioners are of opinion that the case of said Chambers is one in which they can coscientiously ask the interposition of Executive clemency -- your petitioners all residents of and loyal citizens of Marion county therefore respectfully ask the remission of the judgment against said Chambers -- </p>
+<p><milestone unit="column" n="2"/><cb n="1"/>W H Medley
+<lb/>Alf A. <unclear>Riter</unclear>
+<lb/>J Walker
+<lb/>Jas King
+<lb/>T A Luckett
+<lb/>John T Merimee
+<lb/>F M Chandler
+<lb/>R A Burton
+<lb/>H B. Ray
+<lb/><hi rend="underline">J. Henry. Kirk</hi>
+<lb/><cb n="2"/>J. R. Thomas
+<lb/>R. L. OBryan
+<lb/>F D. Greenwell
+<lb/>B. W. Elder
+<lb/>Edward <unclear>Raney</unclear>
+<lb/>E. A. Byrne
+<lb/>J. W. Jarboe
+<lb/>John H. <unclear/>
+<lb/>Robert OBryan
+<lb/>T. C. Jackson
+<lb/><milestone unit="column" n="1"/>x W<hi rend="underline"><hi rend="sup">m</hi></hi> Gardner
+<lb/>Henry Gardner
+<lb/>J. W. Gardner
+<lb/>B F Violett
+<lb/>J G Campbell<pb/></p>
+<p>Marion Cir Ct
+<lb/>vs
+<lb/>W<hi rend="sup">m</hi> Chambers
+<lb/>$500,
+<lb/>Faro
+<lb/>Remitted <date when="1865-10-23">23<hi rend="sup">d</hi> Oct 1865</date></p>
+  </body>
+ </text>
+</TEI>

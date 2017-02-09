@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0090"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Thompson &amp; Nesmith to Ephraim L. Van Winkle</title>
+    <title level="a" type="parallel">CWG1755</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Appointments by the Governor, Civil Appointments, 1863-1867</collection>
+      <idno>BR1-484</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Cincinnati, Hamilton County, Ohio</placeName>
+    <date when="1864-01-11">11 January 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>E. A. THOMPSON.
+<lb/>T. A. NESMITH.
+<lb/>Law and Collection Office
+<lb/> -- OF -- 
+<lb/>THOMPSON &amp; NESMITH,
+<lb/>ATTORNEYS AT LAW,
+<lb/>NO. 25 WEST THIRD ST., CINCINNATI.
+<lb/>For the Collection of Claims and the transaction of Legal Business in all parts of the United States and Canadas.
+<lb/>Cincinnati, <date when="1864-01-11">Jan 11 18<hi rend="str">5</hi>64</date>
+<lb/>Hon E. L. Vanwinkle
+<lb/>Secretary of State
+<lb/>Frankfort, Ky.
+<lb/>Dear Sir:</p>
+<p>We desire to get Tho<hi rend="sup">s</hi>. W. Hulbert appointed a Commissioner of Kentucky for the State of Ohio. He is a young member of the Bar here, at present employed in my office, in every respect qualified for the office: and his appointment will be a convenience to the business men in this vicinity, there being at present no Kentucky Commissioner near to our office.</p>
+<p>Yours Truly
+<lb/>Thompson &amp; Nesmith
+<lb/>H<pb/></p>
+<p>Wrote for fee
+<lb/><date when="1864-01-13">13<hi rend="sup">th</hi> Jany/64</date></p>
+  </body>
+ </text>
+</TEI>

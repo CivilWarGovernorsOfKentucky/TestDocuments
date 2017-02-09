@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1155"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">P. Spragens et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG5792</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR11-272 to BR11-273</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1864-08-14">14 August 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excy
+<lb/>Thomas E Bramlette
+<lb/>Governor &amp;c
+<lb/>Frankfort Ky
+<lb/>Sir</p>
+<p>By the Judgment of W R Carson a Justice of the peace for Lincoln County the undersigned was fined $22, for a breach of the peace occasioned by striking Joseph Hughes -- Hughes called publicly to the face of your petitioner that he yr. petitioner was a <hi rend="underline">damned liar</hi> &amp; <hi rend="underline">a damned Thief</hi> and there upon your petioner struck him -- for this &amp; only this he was fined -- </p>
+<p>The insult was unprovoked &amp; the quarrel very sudden he prays for the remission of the fine</p>
+<p>P. Spragens</p>
+<p><date when="1864-08-14">14 august 1864</date></p>
+<p>The undersigned concur in the petition of P Spraggins</p>
+<p>Joshua F Bell
+<lb/>T, P, Hill
+<lb/>M. J. Dunham
+<lb/>J E Huffman
+<lb/><hi rend="underline">Fon T Fox</hi>
+<lb/>M H Owsley<pb/></p>
+<p>Lincoln Co
+<lb/>vs
+<lb/>P. Spragens
+<lb/>$22 -- 
+<lb/>Breach Peace
+<lb/>Remit
+<lb/><date when="1864-09-24">24<hi rend="sup">th</hi> Sept/64</date></p>
+<p>There are many better men than Spraggins but he is truthful -- his veracity can not be questioned I trust you may regard it consistent with propriety to give him the remission</p>
+<p>JFB</p>
+  </body>
+ </text>
+</TEI>

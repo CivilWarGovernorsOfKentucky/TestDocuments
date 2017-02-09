@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1236"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Murphy to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10704</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG21-92 to MG21-93</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Carlisle, Nicholas County, Kentucky</placeName>
+    <date when="1861-07">July 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency, Beriah MaGoffin, Governor of the Commonwealth of Kentucky -- </p>
+<p>Your Petitioner, John Murphy, would respectfully state, That at the <date when="1860-03">March term 1860,</date> of the Nicholas Circuit Court, your Petitioner was -- fined Sixty dollars under an Indictment, for Keeping a Tippling House, and the proof to establish the charge was the testimony of a single witness, that he had bought &amp; drank liquor in your Petitioner's store, on several occasions -- and that witness was an enemy of your Petitioner, as stated in his original petition more than a year ago.</p>
+<p>Your Excellency respited said Judgement for 12 months excepting the costs and fees, which have been paid -- and your Petitioner again respectfully asks your Excellency to remit the balance of the fine unpaid which, is Forty dollars, as the Respite has expired -- He refers to his original Petition and the list of signers, and will take it as a great favour, being nothing more than justice to himself, if your Excellency will remit the same.</p>
+<p><hi rend="underline">John Murphy</hi>.
+<lb/>Carlisle, <date when="1861-07">July 1861.</date><pb/></p>
+<p>Nicholas Cir. Ct
+<lb/>$60. } Tipling
+<lb/>John Murphy</p>
+<p>Remission Iss<hi rend="sup">d</hi> <date when="1861-08-15">Aug 15. 1861</date></p>
+  </body>
+ </text>
+</TEI>

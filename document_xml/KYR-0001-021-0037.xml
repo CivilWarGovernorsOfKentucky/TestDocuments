@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-021-0037"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Y. Wallace, J. R. Witty, and R. H. Young, Affidavit</title>
+    <title level="a" type="parallel">CWG3107</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Apprehension of Fugitives from Justice Papers, 1859-1862</collection>
+      <idno>MG8-127</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1861-08-08">8 August 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Commonwealth of Kentucky Sct.</p>
+<p>We Jno. Y Wallace, J R Witty, &amp; R H Young, duly authorized to compare the poll books for the County of Metcalfe certify that at an Election held in said County on the <date when="1861-08-05">5th day of August 1861,</date> James H Garrard received Nine hundred and fifteen (915) votes for the office of State Treasurer of Kentucky.</p>
+<p>Given under our hands this <date when="1861-08-08">8th day of August 1861.</date></p>
+<p>John Y. Wallace P J M C C
+<lb/>J R Witty S M C
+<lb/>R H Young Clk<pb/></p>
+<p>Election Certificate
+<lb/>State Treasurer<figure type="hr"/>
+<lb/><date when="1861-08">1861. Aug.</date></p>
+  </body>
+ </text>
+</TEI>

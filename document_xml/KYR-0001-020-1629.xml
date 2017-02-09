@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1629"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Larkin Williams et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG11097</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Andrew P Patrick</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG22-285</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Knox County, Kentucky</placeName>
+    <date when="1862-01-29">29 January 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency Beriah Magoffin 
+<lb/>Governor of the Commonth of Kentucky</p>
+<p>Your Petitioner Larkin Williams would most respectfully represent unto your Excellency that at the <date when="1861-04">April Term 1861</date> of the Knox Circuit Court he was fined fifty dollars for carrying concealed deadly weapons. He says that <hi rend="str">he</hi> his wife was in such condition that he could not attend to the trial of the case. He says that through predjudice ill will and a very bad haird man a witness in the <unclear>cause</unclear> swore that the petitioner did carry concealed a pistol. He says that the Pistol was handed to him by a friend to leave at a certain place and that he only had the pistol for that purpose and that he never carried it concealed and only had it in his possession about one half hour. He says that the witness who testified against him he could impeach by more reputable men in Knox County than could fit in the Courthouse at one time and his character is so notoriously bad that he thinks strange that the Court did not take judicial notice of it. He says that he is a poor man and that it will cause a great sacrafice of his property to have this fine to pay That he is a man<pb/>
+<lb/>of a family and that he has to make a living for them by the sweat of his brow He says that it is a moral impossibility to get money in this county <hi rend="str">and</hi> since the recent unprecedented panic set in the premises consider he prays that his Excellency may extend to him the arm of his Executive clemency and he prays for a remission of the fine.</p>
+<p>Larkin Williams </p>
+<p>Sworn to before me by Larkin Williams <date when="1862-01-29">January 29 1862</date></p>
+<p>Ja<hi rend="sup">s</hi> F Goshen J P</p>
+<p>We the undersigned citizens of Knox County would like to see your Excellency remit the fine against Mr Williams</p>
+<p><milestone unit="column" n="2"/><cb n="1"/> F. P. Stickley 
+<lb/>O P Herndon</p>
+<p>Ja<hi rend="sup">s</hi> F Goshen this man Rasnik ^witness in said case^ is my Nephew &amp; the above statements are true</p>
+<p><hi rend="str"><unclear/></hi>
+<lb/>T. J. Baughman
+<lb/>Isaac James
+<lb/>Samuel Morris
+<lb/>M. W. Smith
+<lb/>Sanford Skaggs
+<lb/>William Courtney
+<lb/>Solomon M Smith
+<lb/>H. Cath 
+<lb/>John Gooden
+<lb/>Tho<hi rend="sup">s</hi> T Payne
+<lb/>Abijah Hoskins
+<lb/><cb n="2"/> John Burnfire
+<lb/>R Mitchell
+<lb/>Anderson Tawaller
+<lb/>Lewis Hill
+<lb/>W B Anderson
+<lb/>R Helton
+<lb/>A E Payne
+<lb/>Elias Botner
+<lb/>Burton Merer</p>
+  </body>
+ </text>
+</TEI>

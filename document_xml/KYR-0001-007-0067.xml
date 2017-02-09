@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0067"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Alister M. Grant, Deposition</title>
+    <title level="a" type="parallel">CWG1732</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Appointments by the Governor, Civil Appointments, 1863-1867</collection>
+      <idno>BR1-455 to BR1-456</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Philadelphia, Philadelphia County, Pennsylvania</placeName>
+    <date when="1863-11-04">4 November 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Commonwealth of Pennsylvania.
+<lb/>City and County of Philadelphia Sct.</p>
+<p>Alister M. Grant, being duly sworn according to law deposes and says that he will well and truly Execute and perform all the duties of his Station as Commissioner of Deeds to take the acknowledments of Deeds &amp;c. in Pennsylvania for the State of Kentucky.</p>
+<p>Alister M. Grant.</p>
+<p>City of Philadelphia Sct.</p>
+<p>And now the <date when="1863-11-04">Fourth day of November A.D. 1863</date> before me James M<hi rend="sup">c</hi>Cahan one of the Alderman in and for the City of Philadelphia and Ex-officio a justice of the peace and duly authorized to administer oaths personally appeared the above named Alister M. Grant who being duly sworn according to law deposes and says that the facts above set fourth are true__</p>
+<p>James McCahan
+<lb/>Alder
+<lb/><stamp type="revenue"/><note place="stamp">J M C 
+<lb/><date when="1863-11-04">Nov 4 1863</date></note><pb/></p>
+<p>Pennsylvania
+<lb/>Oath
+<lb/>AM Grant
+<lb/>Comr of Deeds</p>
+  </body>
+ </text>
+</TEI>

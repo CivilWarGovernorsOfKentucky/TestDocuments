@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-018-0293"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John W. Finnell to Nathaniel Gaither, Jr.</title>
+    <title level="a" type="parallel">CWG8359</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Military Appointments, 1859-1862</collection>
+      <idno>MG6-406</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1862-04-25">25 April 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><figure type="seal"><ab>UNITED WE STAND, DIVIDED WE FALL.
+<lb/>KENTUCKY.</ab></figure>
+<lb/>Head-Quarters Kentucky Volunteer Militia,
+<lb/>ADJUTANT GENERAL'S OFFICE,
+<lb/>Frankfort, <date when="1862-04-25">25 April 1862</date>.</p>
+<p>Hon: 
+<lb/>Nat Gaither Jr
+<lb/>Sec: of State_ (Extract &amp;<hi rend="sup">c</hi>)</p>
+<p>The following officers having been reported on adversely by Board of Examination and the President having approved the reports, are discharged the service to take effect <date when="1862-04-14">April 14<hi rend="sup">th</hi> 1862</date>-
+<lb/>Major W<hi rend="sup">m</hi> A. Coffey (date of Com: <date when="1861-10-28">28 October 1861</date>)
+<lb/>Capt: Francis B. Alexander D<hi rend="sup">o</hi> <date when="1861-12-02">2 Dec<hi rend="sup">r</hi> 1861</date>)
+<lb/>Capt: Boston Dillion D<hi rend="sup">o</hi> <date when="1861-10-28">28 October 1861</date>)</p>
+<p>Very Resp<hi rend="sup">ly</hi>
+<lb/>John W. Finnell
+<lb/>Adj<hi rend="sup">t</hi> Gen<hi rend="sup">l</hi><pb/></p>
+<p>Entered <date when="1862-04-25">25. Apr 1862</date></p>
+  </body>
+ </text>
+</TEI>

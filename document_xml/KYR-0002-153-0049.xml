@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-153-0049"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Boyle to W. H. Sidell</title>
+    <title level="a" type="parallel">CWG14171</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>Assistant Adjutant General Letter Book - No. 1 ; 5 Sept 1863 - 2 Feb 1864</collection>
+      <idno>221</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1863-11-03">3 November 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><note place="header">221</note>
+<lb/><date when="1863-11-03">Nov. 3<hi rend="underline"><hi rend="sup">rd</hi></hi> <gap/>3</date>
+<lb/>Maj. W. H. Sidell -- U. S. A.
+<lb/>A. A. Pro. Mar. Genl.
+<lb/>Louisville -- Ky.
+<lb/>Major,</p>
+<p>Your communication to the Governor has been referred to this Department. It has been determined to make each County in the State a sub-District -- within the meaning of the Provost Marshal General, and arrangements are now making to accurately determine the quota of each county under the late call.</p>
+<p>For this prupose of general order will issue in a few days -- as soon as possible -- assigning the number to be raised in each sub-District -- and you shall be supplied with it.</p>
+<p>Respectfully,
+<lb/>Your ob't serv't
+<lb/><hi rend="underline">John Boyle</hi>
+<lb/>Adj't. Gen of Ky</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1212"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Nancy Jane Smith et al. to Thoams E. Bramlette</title>
+    <title level="a" type="parallel">CWG5849</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR11-362 to BR11-363</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Stanford, Lincoln County, Kentucky</placeName>
+    <date when="1864-09-13">13 September 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Stanford Kentucky
+<lb/><date when="1864-09-13">Septr 13<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date>
+<lb/>To His Excellency
+<lb/>Gov. Tho<hi rend="sup">s</hi> E. Bramlette
+<lb/>Frankfort Ky.
+<lb/>Dear Sir.</p>
+<p>Your petitioners Nancy Jane Smith and Margaret Ann Smith, would repsectfully represent to your Excellency. that they were indicted and fined $20, each. at the present term of the Lincoln Circuit Court for retailing. They state that they are very poor and to some extent helpless -- Both of their husbands belong to the army or did belong to the army. The husband of Margaret Ann died in the army and the husband of the other was cripled in the army, and is unable to labor for a support -- Such whiskey as they sold was done purely to mantain themsleves -- they hope your Excellency will deem this a fit case for executive clemency.</p>
+<p>Respectfully
+<lb/><milestone unit="column" n="2"/><cb n="1"/>A G Huffman M D
+<lb/>J. W. Hughs
+<lb/>W. B. Berry. J. P.
+<lb/>D M Lyon
+<lb/>R Blain
+<lb/>Isaac Singleton
+<lb/>Geo W Evans
+<lb/>Joe. Severance
+<lb/><cb n="2"/>Nancy Jane Smith
+<lb/>Margaret Ann Smith
+<lb/>J B Arnold
+<lb/>George M<hi rend="sup">c</hi>Roberts MD
+<lb/>H P Young
+<lb/>Wesley Rout
+<lb/>Alfred Skinner
+<lb/>D. W. Vanderveer<milestone unit="column" n="1"/><pb/>
+<lb/>L. Landram
+<lb/>Martin, C. Ross
+<lb/>W C Powell<pb/></p>
+<p>Lincoln Cir Ct
+<lb/>vs
+<lb/>N. J. &amp; M A. Smith
+<lb/>Tipling
+<lb/>Remit
+<lb/>$50 each
+<lb/><date when="1864-09-24">24<hi rend="sup">th</hi> Sept/64</date></p>
+  </body>
+ </text>
+</TEI>

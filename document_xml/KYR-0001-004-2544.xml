@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2544"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Mary Ryan to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7181</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR16-68 to BR16-69</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date when="1865-10">October 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Louisville Ky <date when="1865-10">Oct<hi rend="underline"><hi rend="sup">or</hi></hi> 1865</date>
+<lb/>To
+<lb/>Hon. Thos. E Bramlette
+<lb/>Governor of Kentucky
+<lb/>Sir</p>
+<p>I would respectfully state that on the <date when="--09-13">13<hi rend="underline"><hi rend="sup">th</hi></hi> day September</date> I was fined ($600 <hi rend="sup">x</hi>/<hi rend="sub">100</hi>) Six hundred dollars -- on an Indictment found against me by the Grand Jury of the City Court of Louisville I would respectfully state that I have paid thereon ($100 <hi rend="sup">x</hi>/<hi rend="sub">100</hi>) one hundred dollars</p>
+<p>I suggest that the sum thus paid is <hi rend="str">likely</hi> sufficient -- I am poor not keeping that character of house called first class<hi rend="str">;</hi> -- a house where wealth is used to gild the immorality and lure the youth into them, and from paths of virtue</p>
+<p>I shall obtain the signatures of some of the citizens to join in my prayer for this exercise of the Executive clemency</p>
+<p>I shall ever pray &amp;c.
+<lb/>Mary Ryan</p>
+<p>We the undersigned citizens of Louisville would respectfully request your Excellency to grant the prayer of the petitioner</p>
+<p>W<hi rend="underline"><hi rend="sup">m</hi></hi> Hipwell<pb/></p>
+<p>Louisville City Ct
+<lb/>vs
+<lb/>Petition for Remission of fine
+<lb/>against
+<lb/>Mary Ryan
+<lb/>for $600,
+<lb/>Remitted <date when="1865-11-06">6<hi rend="sup">th</hi> Nov 1865</date></p>
+  </body>
+ </text>
+</TEI>

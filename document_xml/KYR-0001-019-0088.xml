@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0088"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">J. M. Jolly to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG1394</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Military Correspondence, 1859-1862</collection>
+      <idno>MG5-161</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Flag Spring, Campbell County, Kentucky</placeName>
+    <date when="1861-06-14">14 June 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his excelency ^the^ Govenor Magoffin</p>
+<p>I herewith sind you the permit of the County Judge of Campbell County for the Flag Spring home guards to obtain arms please attend to this as soon as convenant that the guards may be furnished with arms we are located on the Ohio River in the uper end of Campbell Co our location and Suroundin elements across the River render it important for us to be armed If it is in your power to furnish arms Send by the way of <hi rend="str">Covington &amp; Lexing</hi> Lexington ^on^ Rail Road to Butler Station care of J M <hi rend="str">Jo</hi> Jolly Covington &amp; Lexington Rail Road</p>
+<p>if the arm can be furnished please notify J M Jolly Flagspring Ky</p>
+<p><hi rend="underline">J M Jolly</hi> / <hi rend="underline">Captain</hi> <hi rend="underline">Guards</hi>
+<lb/><date when="1861-06-14">June 14<hi rend="sup">t</hi> 1861</date></p>
+  </body>
+ </text>
+</TEI>

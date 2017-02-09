@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-006-0064"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Thomas Smith to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG1110</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's Official Correspondence File, Requisitions for the Return of Fugitives from Justice, 1863-1867</collection>
+      <idno>BR6-78</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Lexington, Fayette County, Kentucky</placeName>
+    <date when="1865-06-05">5 June 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency the Governor of Kentucky</p>
+<p>Thomas Smith, your petitioner states that he became surety for James Gartlin's appearance in the Fayette Circuit Court at its <date when="1865-02">February term for the present year</date>, that said Gartlin failed to appear at said Court, the bond for his appearance being forfeited, that said Gartlin has escaped from the state of Kentucky and is now in the State of Ohio ^<hi rend="underline">a</hi> <hi rend="underline">fugitive</hi> <hi rend="underline">from</hi> <hi rend="underline">justice</hi>^, that there is an indictment against said Gartlin wherein he is charged with receiving stolen property knowing it to be stolen, that said indictment was found by a regularly constituted Grand Jury of the County of Fayette, in the Fayette Circuit Court and is the same indictment, upon which a bench warrant was issued whereon he was arrested when the above mentioned bond was executed. Your petitioner respectfully prays that Your excellency will take such steps as are necessary to secure the presence of said James Gartlin in the Fayette Circuit Court which is to convene on the <date when="1865-06-12">12<hi rend="underline"><hi rend="sup">th</hi></hi> inst,</date> Your petitioner went on said Gartlin's bond believing that he would make his appearance and he having failed to comply with his bond by appearing in Court your petitioner thinks it his duty to do all in his power to have the delinquient brought to jus-<pb/>
+<lb/>tice that he may be punished if guilty and that the Court may, if he thinks proper, <hi rend="underline">have</hi> <hi rend="underline">the</hi> <hi rend="underline">right</hi> <hi rend="underline">to</hi> <hi rend="underline">remit</hi> the amount of the bail bond which the Court can only do by a surrender of the accused. All which is respectfully submitted.</p>
+<p>Lexington Ky <date when="1865-06-05">June 5, 1865</date></p>
+<p>Tho<hi rend="sup">s</hi> Smith</p>
+<p>Thomas Smith says that all the statements contained in the foregoing peition are true.</p>
+<p>Tho<hi rend="sup">s</hi> Smith</p>
+<p>Sworn &amp; subscribed before me this <date when="1865-06-05">5<hi rend="sup">th</hi> June 1865.</date></p>
+<p>L. Gibbons
+<lb/>Notary Public</p>
+<p><stamp type="revenue">L. G
+<lb/><date when="1865-06-05">June 5</date></stamp>
+<lb/><figure type="seal"><ab><unclear>GIBBONS</unclear> NOTARY PUBLIC
+<lb/>ATTY &amp;.
+<lb/>COUNSELOR
+<lb/>AT LAW
+<lb/><unclear>LEXINGTON KY</unclear></ab></figure></p>
+<p>Requisition upon Governor of Ohio for Jas Gartlin &amp; appt<hi rend="sup">d</hi>. J. S. Masonery Agent
+<lb/><date when="1865-06-07">7<hi rend="sup">th</hi> June 1865</date></p>
+  </body>
+ </text>
+</TEI>

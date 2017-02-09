@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2265"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Charles Whaley et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6902</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR15-121</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency
+<lb/>Gov. Thos E Bramlette
+<lb/>Governor</p>
+<p>The undersigned would respectfully represent, that R W Sharp of Bath County, kept a grocery in the town of Bethel in said County, and that he had no license to retail spirituous liquors, but that some Federal Soldiers came to his grocery in the year <date when="1864">1864</date> &amp; demanded whisky. He told them he could not sell by the drink, and they, by threats of violence, <hi rend="underline">forced</hi> him to sell in that way. And that an enemy of his presented him to the Grand jury of the County, which indicted him and the Court fined him <hi rend="underline">Seventy</hi> <hi rend="underline">five</hi> dollars. Mr Sharp is a poor man &amp; now labors on a farm to support his little family. Therefore your petitioners would humbly pray your Excellency to remit said fine, &amp; thus relieve one who is unable to pay.</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Chas Whaley
+<lb/>T Bumfield
+<lb/>James <unclear>MC<hi rend="underline"><hi rend="sup">c</hi></hi>ue</unclear>
+<lb/>Oliver Lander
+<lb/>Geo Lane</p>
+<p>I am informed that the above petition is true</p>
+<p>D R Jones
+<lb/><cb n="2"/>J. S. Rainey
+<lb/>C P Van Pelt
+<lb/>Jas,, Caldwell
+<lb/>A M Jones
+<lb/>D, S, Lockridge
+<lb/>D M Richart
+<lb/>Samuel Rogers
+<lb/>James Smothers
+<lb/>J R Wren
+<lb/>John B Durham
+<lb/>T A Simpson
+<lb/>R G Tharpe<pb/></p>
+<p><milestone unit="column" n="1"/>Bath Cir Ct
+<lb/>vs
+<lb/>R. W. Sharp
+<lb/>$75,
+<lb/>Tipling
+<lb/><date when="1865-08-15">15 Aug/65</date></p>
+<p>Sent for fee <date when="--07-28">28 July</date></p>
+  </body>
+ </text>
+</TEI>

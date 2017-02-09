@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1210"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">A. Hensley et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG5847</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR11-358 to BR11-359</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excy Thos E. Bramlette Govr of the Com'th of Kentucky</p>
+<p>Your petitioners respectfully represent to your Exc'y that James W. Alley a youth about sixteen years of age, by some means unknown to his parents obtained spiriteous liquor enough to intoxicate him, and that while intoxicated at about, one or two oclock at night, got into a fuss and quarrel, and made a loud noise in the bar room of the <hi rend="str">c</hi>Capitol Hotel, and assaulted and other boy there, at the time by drawing a worthless little pistol, and snapping it at him -- The boy Alley was very drunk at the, and for the assault and other breach of the peace, he was fined in the Police Court of the city of Frankfort ten dollars and again fined the sum of fifty dollars for carrying concealed a deadly weapon without lawful excuse Now in as much as said Alley has heretofore been a peacable, orderly and sober boy, and this is his first offense against the law, or good morals, and bears the character of a good boy -- and has no means<pb/>
+<lb/>of his own wherewith to satisfy said fine and costs, &amp; in view of the fact that his father would be compelled to pay the fine and costs for his son, we would respectfully recommend unto your Excy and solicit, that said fine be remitted or so much thereof as to your Excy shall seem just and expedient In view of the premises Respectfully your obedient servants -- </p>
+<p><milestone unit="column" n="2"/><cb n="1"/>A Hensley
+<lb/>Jno. M. Hewitt
+<lb/>W H Hammon
+<lb/><cb n="2"/><hi rend="underline">P. U. Major</hi>
+<lb/><hi rend="underline">Jas S Sneed</hi>
+<lb/>A. Th. Dudley
+<lb/>W<hi rend="sup">m</hi> B Tremore
+<lb/>A, Connelly
+<lb/>Ja<hi rend="sup">s</hi>. P. O'Hara
+<lb/>W A Gaines
+<lb/>John W Russell
+<lb/>J. M. Helm
+<lb/><hi rend="underline">James Harlan Jr</hi><milestone unit="column" n="1"/><pb/></p>
+<p>Frankfort Police Ct
+<lb/>vs
+<lb/>Jas W. Alley
+<lb/>2 judgt 
+<lb/>Remit<figure type="hr"/>
+<lb/>$10 &amp; $50 -- 
+<lb/><date when="1864-09-06">6<hi rend="sup">th</hi> Sept/64</date></p>
+  </body>
+ </text>
+</TEI>

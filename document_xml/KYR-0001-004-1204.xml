@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1204"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Wesley Burnett to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG5841</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR11-351</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Trimble County, Kentucky</placeName>
+    <date when="1864-09-16">16 September 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To the Honorable Tho<hi rend="sup">s</hi> E. Bramlette
+<lb/>Governor of Kentucky</p>
+<p>Your petition Wesley Burnett of Trimble county Kentucky would most respectfully represent, that at the <date when="1864-05">May term</date> of the Trimble circuit court he was fined the sum of Twenty five ^Dollars^ for betting a treat on a game at cards, He says he and his friends were amusing themselves as he thought and Some person present reported that they were betting money, which was not the case, He therefore prays your honor to remit said fine as he is a very poor man, and is not in the habit of gambling</p>
+<p>And as in duty bound will ever pray &amp;,c, &amp;,c,
+<lb/><date when="1864-09-16">Sept 16. 1864</date> -- Wesley Burnett</p>
+<p>We the undersigned citizens of Trimble county Ky join the petition in his prayer &amp;c. &amp;c.</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>S. Gatewood
+<lb/>D R Lune
+<lb/>J. S. Ladd
+<lb/>Y. B. Hunt
+<lb/><hi rend="underline">S. G. Peck</hi>
+<lb/><cb n="2"/>W. Stratton
+<lb/>Jacob Downs
+<lb/>J B Pierce
+<lb/>T. B. Gatewood
+<lb/><hi rend="str">Union
+<lb/>men</hi><milestone unit="column" n="1"/><pb/>
+<lb/><hi rend="underline">F. A. Adams</hi>
+<lb/>Whitfield Singer
+<lb/>J. W. Stewart
+<lb/>Stephen T Yeager
+<lb/>G. W. Arington
+<lb/>T M M<hi rend="sup">c</hi>Carty
+<lb/>B C Yeager
+<lb/>Fleming Yeager
+<lb/>A J Bartlett
+<lb/>Joseph straton
+<lb/>G. W. Perkinson
+<lb/>James <unclear>Cimalena</unclear>
+<lb/>J. G Chalford
+<lb/>J T Shipherd
+<lb/>B M Hunter
+<lb/>D, B, Johnson</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1672"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John W. Woodward et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG11140</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Andrew P Patrick</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG22- [no leaf #]</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Metcalfe County, Kentucky</placeName>
+    <date when="1862-01-31">31 January 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><date when="1862-01-31">Jany 31<hi rend="sup">st</hi> 1862</date> Metcalfe County Ky
+<lb/>To Your Excellency</p>
+<p>Govener Beriah Mcgoffin your petioner W<hi rend="underline"><hi rend="sup">m</hi></hi> R Terry haveing Bin Indbted &amp; Judgment Rendered against him in the Barren Equity &amp; criminal Court on the Testimony of only one witness sd Terry your Petitoner was accused of Being guilty of keeping a Tipling house for a Least Three months in succession,, your petioner Is a farmer and a crippled man he has a small farm and a wife &amp; Four children he is a pore But honest hard working Inoffenceive man of Civil habits and a good Neighbor and we the undersigned do Believe that he deserves <hi rend="str">Your</hi>the clemency vested in you by the Laws of Ky your petitioner sends this petition to you Greeting &amp; praying you to Release his fine also pleading to be not Guilty of the charges made against him and the undersigned do here by set our Names as Testimony &amp; are of the Belief that your petitioner Is Innocent of those charges made against him an Richly Deserves your clemency -- </p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Names
+<lb/>Jno W Woodward
+<lb/>Julius Woodward
+<lb/>J. D. Baird
+<lb/>A Sirey 
+<lb/>C,, W,, Clark
+<lb/>A. B. Clark
+<lb/>Reuben S Edwards
+<lb/>T J Edwards
+<lb/>John R Edwards
+<lb/>James J Clark
+<lb/>Edmend H Clark
+<lb/>Jonathan Clark
+<lb/>Burid Hensley
+<lb/><cb n="2"/>Names
+<lb/>Tho<hi rend="sup">s</hi> E Young
+<lb/>Samuel R Young
+<lb/>John W. Hensley
+<lb/>Robert Shirley
+<lb/>Samuel Hensley
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> P Estes
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> S. Smith
+<lb/>Henry. Clark
+<lb/>Joseph. Henry 
+<lb/>James.R. Henry
+<lb/>Thomas. Henry
+<lb/>James L. Strong
+<lb/>Samuel W. Scott<pb/>
+<lb/><cb n="1"/>Names
+<lb/>Anderson Farrell
+<lb/>Milton Willis
+<lb/>John. P Withrow
+<lb/>John M Yates
+<lb/>W D Counts
+<lb/><cb n="2"/>Names</p>
+<p><milestone unit="column" n="1"/>Send to J M Yates at Columbia care H C Reed<pb/></p>
+<p><unclear>Ru</unclear> T. T. Alexander
+<lb/>Barren E &amp; C Ct
+<lb/>Remitted
+<lb/>B. M. 
+<lb/>$60 } Tipiling 
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> R. Terry 
+<lb/>Iss<hi rend="sup">d</hi> <date when="1862-02-25">Feby 25<hi rend="underline"><hi rend="sup">th</hi></hi> 1862</date></p>
+  </body>
+ </text>
+</TEI>

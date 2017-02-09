@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-222-0028"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John W. Finnell, Receipt to Harrison Moore</title>
+    <title level="a" type="parallel">CWG13717</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>Misc. QM Expenditures, 1863-1865</collection>
+      <idno>QMG Box 10; 1863 Office Expenses - Telegraph, Stationary - Transportation - Ordinance Stores; Bundle 3</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1863-03-20">20 March 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>NO. 12.<figure type="hr"/>
+<lb/>The State of Kentucky,
+<lb/>To Harrison Moore Dr.</p>
+<p><table rend="rules">
+<row>
+	<cell><date when="1862">1862.</date></cell>
+	<cell>For</cell>
+	<cell>DOLLARS.</cell>
+	<cell>CENTS.</cell>
+</row>
+<row>
+	<cell><date when="1862-11-12">Nov. 12.</date></cell>
+	<cell>(75) Seventy five cord Wood at one Dollar per cord</cell>
+	<cell>75.</cell>
+	<cell>00</cell>
+</row>
+<row>
+	<cell/>
+	<cell>Irvine Ky <date when="1863-04-01">April 1. 1863</date></cell>
+	<cell/>
+	<cell/>
+</row>
+<row>
+	<cell/>
+	<cell>For use 2<hi rend="sup">d</hi> &amp; 3<hi rend="sup">d</hi> Battalions 14<hi rend="sup">th</hi> Regt Ky Vol Cavalry</cell>
+	<cell/>
+	<cell/>
+</row>
+<row>
+	<cell/>
+	<cell>Seventy Five Dollars</cell>
+	<cell>$75</cell>
+	<cell>00</cell>
+</row>
+</table><figure type="hr"/></p>
+<p><note place="left margin">Approved 
+<lb/>By order of the Governor
+<lb/>Adjt Genl Ky Vols</note></p>
+<p>I certify that the above account is correct and just; that the articles were furnished as stated; and that they were a necessary for the public service.</p>
+<p>Jones A Crawford
+<lb/>Lt &amp; A. Q. M 2 &amp; 3 Batt 14 Ky Cav</p>
+<p>Received at Frankfort on, the <date when="1863-03-20">20<hi rend="underline"><hi rend="sup">th</hi></hi> of March, 1863,</date> of John W Finnell, <hi rend="str">Quarter-master</hi> Adjutant General Kentucky Volunteers, the sum of Seventy five -- Dollars and -- Cents, in full of the above account.</p>
+<p>Harrison Moore</p>
+<p>(DUPLICATE.)<pb/></p>
+<p><hi rend="str">39</hi>No 41
+<lb/>NO. 12.<figure type="hr"/>
+<lb/>No. 63 Abstract <hi rend="str">B</hi> A Qr. 186
+<lb/>Harrison Moore
+<lb/>Dollars 75<hi rend="sup">00</hi>/<hi rend="sub">100</hi>
+<lb/>Paid <hi rend="str">March 20</hi><hi rend="underline"><hi rend="str"><hi rend="sup">th</hi></hi></hi><hi rend="str"> 1863</hi>
+<lb/>allowed <date when="1863-08-08">Aug 8. 1863</date>
+<lb/>J212
+<lb/>J 10 J W F
+<lb/>39</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-2248"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Salyer et al. to Unknown</title>
+    <title level="a" type="parallel">CWG9324</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG24-404</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><milestone unit="column" n="2"/><cb n="1"/>John Salyer
+<lb/>John Salyer
+<lb/>John Wall <unclear>K M E</unclear>
+<lb/>Jorge ron
+<lb/>David Salyer
+<lb/>William Howard
+<lb/>Rubin Arnett
+<lb/>Jackson Arnett
+<lb/>William W. Jones
+<lb/>Harrison Arnett
+<lb/>David Arnett
+<lb/>Reuben Arnett
+<lb/>William Joseph
+<lb/>gardner slusher
+<lb/>David Brawn 16
+<lb/>Johnson Whikls
+<lb/>John Son Whitaker
+<lb/>Morgan Whitaker
+<lb/>David Whitaker
+<lb/>Eliza Whitaker
+<lb/>John Prater
+<lb/>louis H O Ward
+<lb/>Brige Shepard
+<lb/>Stephen Arnett
+<lb/>has Burke
+<lb/>Henry H Hale
+<lb/>F A Whitaker
+<lb/>Elygy Conly
+<lb/>John Row
+<lb/>William vodkines
+<lb/><cb n="2"/>Abner Joseph
+<lb/>William Row
+<lb/>J Sack wodbines
+<lb/>Samuel Carpenter
+<lb/>James owens
+<lb/>J Sackron
+<lb/>Sam Baley
+<lb/>James Baley
+<lb/>John Baley Sr
+<lb/>Henry Baley
+<lb/>Joseph Baley
+<lb/>John Baley
+<lb/>AnDrew Baley
+<lb/><unclear>Jaac</unclear> Getcher
+<lb/>William flint
+<lb/>William brown
+<lb/>Thos S John
+<lb/>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> J. Vaughan<pb/>
+<lb/><cb n="1"/><hi rend="str">Alex R Patter</hi>
+<lb/><unclear/> B <unclear/>
+<lb/>lemuel baley
+<lb/>William <unclear/>
+<lb/><unclear/> b <unclear>vandefact</unclear>
+<lb/>Samuel Ranard
+<lb/>Larkin Howard
+<lb/>Nathan Howard
+<lb/>Martin V Salyer
+<lb/>James I whitker
+<lb/>Hiram walters
+<lb/>Allen Craft
+<lb/>Daniel Craft
+<lb/><cb n="2"/>W<hi rend="underline"><hi rend="sup">m</hi></hi> F. Hill</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-3115"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">J. Dewitt Duncan to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG5234</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR41-283</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Louisville Ky-
+<lb/>Your Excellency</p>
+<p>Will will pardon my presumption in thus addressing you on tomorrow or next day I hope to have the honor of submitting to you a petition for the pardon of a negro girl now confined in the Ky prision In it I have endeavored to make a plane statement of the case.</p>
+<p>It is the custom here for lawyers to sign each others petitions &amp; I first adopted that plan but concluded I would get no more signatures, but write you on the matter for it is no trouble in the <unclear/> <hi rend="str">th</hi> to get a petition signed, you &amp; I well knowing the way in which such things are done. I shall ask no pardon except when I ask in faith, believing it for the best, &amp; I shall always in so doing make you a plain &amp; candid statement accompanyd with citizens signatures when the necessity of the case demands- or when Your Excellency<hi rend="str">s</hi> request it. The case above mentioned is that of Joanna Bell which I hope your Excellency will take in a favorable light-</p>
+<p>Sincerely Yours
+<lb/>J DeWitt Duncan</p>
+  </body>
+ </text>
+</TEI>

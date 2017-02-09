@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-003-0086"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">E. H. Hobson to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG1603</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's Official Correspondence File, Military Correspondence, 1863-1867</collection>
+      <idno>BR5-134 to BR5-135</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Cave City, Barren County, Kentucky</placeName>
+    <date when="1864-03-05">5 March 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Head Quarters S G Ky
+<lb/>Cave City <date when="1864-03-05">Mch 5<hi rend="sup">th</hi> 1864</date>
+<lb/>Thom E Bramlett
+<lb/>Gov of Kentucky
+<lb/>Sir</p>
+<p>The 37<hi rend="sup">th</hi> Ky Mounted Inft has greatly improved, Since Col C J <unclear>Hann</unclear> took command this Regt has recd its Horse equipments and enfield rifles but to make them more efficient would most respectfully Suggest that you arm two or four comp<hi rend="sup">ns</hi> of the regt with Ballard Carbines or muskatoons I am anxious to have the Regt mounted and send them to the Cumberland to protect the Border Counties. the notorious Gurilla Capt Richardson and nine of his men will arrive here to day as Prisoners, they Justly merit and I hope will be punished with death give Col Hansons wishes your favourable consideration.</p>
+<p>Very respectfully
+<lb/>E. H. Hobson Brig Genl<pb/></p>
+<p><unclear/> Dist Ky.
+<lb/>Louisville Ky.
+<lb/><date when="1864-03-06">Mar 6 1864</date></p>
+<p>Respectfully approved and forwarded with the request that the guns be supplied at once if possible</p>
+<p>S. G Burbridge
+<lb/>Brig Genl</p>
+  </body>
+ </text>
+</TEI>

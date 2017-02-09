@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-031-0192"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Thomas Powell to James F. Robinson</title>
+    <title level="a" type="parallel">CWG7932</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Appointments by the Governor, Civil Appointments, 1862-1863</collection>
+      <idno>R1-270</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Cincinnati, Hamilton County, Ohio</placeName>
+    <date when="1863-04-10">10 April 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Cincinnati Law &amp; Collection Office,
+<lb/>Established A. D. 1849
+<lb/>ROOM No.<hi rend="str"> 9</hi> 12,
+<lb/>MASONIC TEMPLE.
+<lb/>Masonic Temple
+<lb/>THOMAS POWELL, Attorney at Law,
+<lb/>United States Commissioner, Notary Public Commissioner for the States of New York, Pennsylvania, Maryland, Kentucky, Indiana &amp;c.
+<lb/>Master Commissioner of the Courts &amp;c. &amp;c.
+<lb/>Cincinnati, Ohio. <date when="1863-04-10">April 10, 1863</date>
+<lb/>Governor Robinson
+<lb/>Frankfort Ky.</p>
+<p>Sir, My Commission as Commissioner for the Commonwealth of Kentucky, residing in Cincinnati, Ohio expired on the <date when="1863-03-25">25<hi rend="sup">th</hi> of last month.</date> I would very much like to have a re-appointment and herewith enclose five dollars the am't required to be paid by law for the same.</p>
+<p>With great respect, I am
+<lb/>Truly and Respectfully,
+<lb/>Yours &amp;c
+<lb/><hi rend="underline">Thomas Powell</hi><pb/></p>
+<p>Ohio<figure type="hr"/>
+<lb/>Com<hi rend="underline"><hi rend="sup">r</hi></hi> of Deeds
+<lb/>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> Powell
+<lb/>Cincinnati
+<lb/>App<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1863-04-14">Apr 14. 1863</date></p>
+  </body>
+ </text>
+</TEI>

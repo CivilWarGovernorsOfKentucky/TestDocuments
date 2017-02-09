@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0723"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Alvis Burnett to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10191</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG19-127</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1861-03-18">18 March 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency the Govenor of the Commonwealth of Kentucky your petitioner Alves Burnett would Respectfully represent that at the <date when="--11">last November</date> election He and Some other Young Men was engaged in a political discussion in which a fist fighte insued in which your petitioner partisipated for the purpose of rescuing or Saving a relation from Serious injury</p>
+<p>your petitioner acted under excitement and may of acted imprudently at the time for which he was Tride before N B Jones Judge of Laurel County Court and fined four dollars He states that there was no Injury done in the fight that this is the only fight or dificulty that he ever had that he is a poore boy has no means to Spair To pay the fine altho the amount is Small</p>
+<p>He therefore asks that the fine be remitted</p>
+<p>Alvis Burnett</p>
+<p>Sworn to before me by Alves Burnett the <date when="1861-03-18">18<hi rend="sup">th</hi> day of March 1861</date></p>
+<p>N. B. Jones J. L. C. C</p>
+<p>we are well acquainted with Alvis Burnett know him to be a young man of good morals and never herd of his having a dificulty with any one except the one here referred To,</p>
+<p>Levi Jackson
+<lb/>N. B. Jones J. L. C. C<pb/></p>
+<p>Remitted
+<lb/>B. M
+<lb/>Laurel Co Ct
+<lb/>$4
+<lb/>Alvis Burnett
+<lb/>Iss<hi rend="sup">d</hi> <date when="1861-04-04">Apr 4. 1861</date></p>
+  </body>
+ </text>
+</TEI>

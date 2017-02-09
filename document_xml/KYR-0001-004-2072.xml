@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2072"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Joseph Croxton to Thomas E. Bralmlette</title>
+    <title level="a" type="parallel">CWG6709</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR14-265 to BR14-266</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date when="1865-07-05">5 July 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Louisville Ky. <date when="1865-07-05">July 5<hi rend="sup">th</hi> 1865</date> -- 
+<lb/>To His Excellency.
+<lb/>Thomas E Bramlette
+<lb/>Governor of Kentucky.
+<lb/>Louisville City Court
+<lb/>Governor.</p>
+<p>On the <gap/> of <date when="1865-06">June 1865</date> I was upon a confessed judgment fined five Hundred dollars for dealing a game of "Faro" in the city of Louisville. I am really unable to pay the whole sum and my desire is that you will remit me that portion which goes to the Commonwealth. I appeal solely to your Executive clemency.</p>
+<p>Yours with much respect,
+<lb/>Joseph. Croxton</p>
+<p>We the undersigned join earnestly in the above prayer of the Petitioner and respectfully ask the remission sought.</p>
+<p>W K Thomas
+<lb/>Pat Dillon M, C, C, L
+<lb/>Geo W. Johnston,
+<lb/>W. G. Reasor City Atto.
+<lb/>Phil Tomppert Jr C. C. C. L.
+<lb/>D. L. Bligh<pb/></p>
+<p>I Respectfully request Gov Bramlette to remit the fine mentioned in the petition</p>
+<p>W. G Reasor
+<lb/>City Atto.
+<lb/>Jas P Harbeson City Judge</p>
+<p>Louisville City Ct
+<lb/>vs
+<lb/>Joseph Croxton
+<lb/>$500,
+<lb/>dealing faro
+<lb/><date when="1865-09-11">11 Sept 1865</date>
+<lb/>Sent for fee <date when="--08-30">30 Aug</date></p>
+  </body>
+ </text>
+</TEI>

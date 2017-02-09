@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1262"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">J. M. Shackelford to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10730</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG21-132</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Madisonville, Hopkins County, Kentucky</placeName>
+    <date when="1861-07-08">8 July 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Madisonville Ky <date when="1861-07-08">July 8<hi rend="sup">th</hi> 1861</date>
+<lb/>Hon B Magoffin
+<lb/>Dear Sir</p>
+<p>I have joined in the petition of B Armstrong to have your Excellency remit the judgment of $400 -- vs him in the Caldwell Circuit Court upon a bail bond for his son who has deceived his old father disgraced himself and family and left the country. I have known the old man for years. And know him to be an honest good reliable citizen and I fully endorse the statements of Mr. Head and his neighbors. I can assure you that his is certainly one of those cases in which Executive clemency should interpose without it he is ruined. And will go down to the grave not only filled with sorrow and grief, but in want if he does not find in your Excellency that relief which I trust he will receive. Do grant him this favor. And he will Ever remember you Kindly and thankfully and your action in the promises will be appreciated by a host of friends</p>
+<p>Yours Truly
+<lb/>J M Shackelford<pb/></p>
+<p>We fully concur in the within statement of J. M Shackelford and earnestly request your excellency to remit the Judgment against Benjamin Armstrong <hi rend="underline">You cannot do wrong</hi> <hi rend="underline">in doing</hi> <hi rend="underline">so</hi> <hi rend="underline">as this old</hi> ^man^ <hi rend="underline">is honest poor &amp; worthy in every</hi> <hi rend="underline">respect.</hi></p>
+<p><hi rend="underline">Orlean Bishop</hi>
+<lb/>J. B. Earle
+<lb/>O. Waddill
+<lb/>W,, Bradley
+<lb/>George C Bronaugh</p>
+<p>Hon B Magoffin
+<lb/>Frankfort Ky</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-117-0081"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Boyle to William H. Randall</title>
+    <title level="a" type="parallel">CWG13910</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Christina K Adkins</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>Adjutant General Letter Book - No. 3 ; 9 April - 25 May 1864</collection>
+      <idno>60-61</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1864-04-19">19 April 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><note place="header">60</note>
+<lb/><date when="1864-04-19">April 19<hi rend="underline"><hi rend="sup">th</hi></hi> <gap/>4</date>
+<lb/>Hon W. H. Randall
+<lb/>Washington, D.C.
+<lb/>Sir,</p>
+<p>The only official information, we have of the death of Captain Edmond Jones 24<hi rend="underline"><hi rend="sup">th</hi></hi> Ky vol Inf, will be found in extract of letter from Lt Col J. S. Hurt, viz:</p>
+<p>Head Quarters 24<hi rend="underline"><hi rend="sup">th</hi></hi> Ky vol Inf
+<lb/>Camp Keenon. <date when="1863-01-19">January 19<hi rend="underline"><hi rend="sup">th</hi></hi> 1863</date>
+<lb/>Jno. W. Finnell
+<lb/>Adjt Gen of Ky</p>
+<p>I respectfully recommend to his Excellency James F. Robinson Governor of the Commonwealth of Kentucky, Robert G Potter to be appointed &amp; commissioned as Captain of company "H" of this regiment, to fill the vacancy occasioned by the <hi rend="underline">decease of Capt Edmond Jones, who died in <date when="1862-04">april</date> or <date when="1862-05">may 1862</date></hi>. x x x x x x x x</p>
+<p>J. S. Hurt
+<lb/>Lt Col Comding 24<hi rend="underline"><hi rend="sup">th</hi></hi> regt Ky Vols<pb/></p>
+<p>Very respectfully
+<lb/><hi rend="underline">John Boyle</hi>
+<lb/>Adjt Gen of Ky</p>
+  </body>
+ </text>
+</TEI>

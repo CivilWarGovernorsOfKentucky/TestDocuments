@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1770"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">W. H. Pettus et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6407</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR13-290</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Somerset, Pulaski County, Kentucky</placeName>
+    <date when="1865-05-30">30 May 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Somerset Ky, <date when="1865-05-30">May. 30th 1865</date>
+<lb/>To his Excellency Thomsa E Bramlett,
+<lb/>Govenor of Kentucky</p>
+<p>Sir Your Petitioners would respectfully represent that at the <date when="1865-03">March term 1865</date> of the Pulaski Circuit Court a Judgement was rendered against William A Girdler for the sum of Fifty dollars on forfeited recognizance. the said Girdler being the surety of Levi Rothschild in bail bond,</p>
+<p>We would respectfully represent that was by no fault of the said surety the said Rothschild did not appear in court to answer the charge against him, And that the said William A Girder is a very poor man, and unable to pay the Judgment against him with very great inconvenience -- </p>
+<p>We therefor ask your Excellency to remit the said Judgment on forfeited recognizance except the attorneys fees and costs -- </p>
+<p><note place="left margin">Please mail reply to W H Pettus, Somerset Ky,^</note></p>
+<p>W. H. Pettus
+<lb/><hi rend="underline">W. M</hi><hi rend="underline"><hi rend="sup">c</hi></hi><hi rend="underline">Kee. Fox</hi>
+<lb/>Lewis Patteson
+<lb/>W. B. Moore</p>
+  </body>
+ </text>
+</TEI>

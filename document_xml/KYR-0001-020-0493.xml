@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0493"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">William W. Herndon et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG9961</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG18-266</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>McCracken County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency B MaGoffin
+<lb/>Governor of Kentucky</p>
+<p>The undersigned Citizens of M<hi rend="sup">c</hi>Cracken County,</p>
+<p>Respectfully, State that at the <date when="1860-01">Jany term of the M<hi rend="sup">c</hi>Cracken Equity &amp; Criminal Court 1860</date>, W<hi rend="sup">m</hi> Mullins was fined for disturbing religious worship and at the Same term he was fined for a Breach of the Peace, D. C. Wilcox replevied Said fines, the amount of the first is $62.35 &amp; the last $37.71. Mullins has no property, and Wilcox will have to pay the fines unless your Excellency will release him from the Same which Your petitioners respectfully ask as it would be hard and unjust for Wilcox to pay. Said fines -- </p>
+<p>Names -- 
+<lb/><milestone unit="column" n="2"/><cb n="1"/>W<hi rend="sup">m</hi> W. Herndon
+<lb/>John Keebler
+<lb/>Scott <unclear>Saurir</unclear>
+<lb/>Joel Johns 
+<lb/>T. J. Lovelace
+<lb/>Jno Farrar
+<lb/>W F Norton
+<lb/>R S Ratcliffe
+<lb/><cb n="2"/>G F McClelland
+<lb/>A. B. Kinkead
+<lb/><hi rend="underline">R O Woodfolk</hi>
+<lb/>G T Dabb
+<lb/>J. Y. Quigley
+<lb/>Geo, A, Allen
+<lb/><hi rend="underline">John Q. A. King</hi><pb/></p>
+<p>Remitted
+<lb/>B, M
+<lb/>Is<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1861-01-11">Jay 11. 1861</date></p>
+  </body>
+ </text>
+</TEI>

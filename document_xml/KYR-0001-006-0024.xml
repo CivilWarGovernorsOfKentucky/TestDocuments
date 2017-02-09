@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-006-0024"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">George C. Drane to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG1070</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's Official Correspondence File, Requisitions for the Return of Fugitives from Justice, 1863-1867</collection>
+      <idno>BR6-26</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Franklin County, Kentucky</placeName>
+    <date when="1864-03-16">16 March 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>State of Kentucky,
+<lb/>Gallatin Circuit Court:</p>
+<p>Whereas it has been made known to me that William Ross, who stands indicted in the Gallatin Circuit Court for the murder of Wm. H. Kelly on the <date when="1859-07-06">6th of July, 1859</date>, has twice been arrested on said charge and confined in the Jail of Gallatin County, and has twice broken and escaped from said Jail, and is now at large and unpunished in the State of Missouri, in open defiance of justice and the laws of this Commonwealth: and whereas it is represented to me that said murder was committed by the said Ross shooting said Kelly while Kelly was plowing in the field, from ambush, I therefore request the Governor of Kentucky to offer a suitable reward for the apprehension of said fugitive.</p>
+<p>Given under my hand, as Judge of the Gallatin Circuit Court, at Warsaw, Gallatin County, Ky., this <date when="1864-03-16">16th of March, 1864</date>.</p>
+<p>Geo. C. Drane
+<lb/>Ct Judge 8<hi rend="underline"><hi rend="sup">th</hi></hi> Jud Dis</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2485"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John S. Sallee et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7122</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR15-453</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Monticello, Wayne County, Kentucky</placeName>
+    <date when="1865-10-17">17 October 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Monticello Ky <date when="1865-10-17">17<hi rend="sup">e</hi> Oct 1865</date>
+<lb/>To his Excellency T E Bramlette Gov of Ky</p>
+<p>your petitioners Joseph H Bond &amp; Henry A Huffaker would State to your Excellency that during the Sprihg of the present year they were engaged in a grocery business in the Town of Monticello that they procured a government Licens from the United States assessor and was ignorant of the fact that any other Licens had to be prcoured and at the Apl Term an Indictment was found against them in the Wayne circuit court for Tipling and at the <date when="--10">October</date> Term they were fined $35 they are now out of any such business and ask your excellency to <hi rend="str">remit</hi> relieve them of Said fine as they were acting at the time they were retailing in good faith &amp; did not wish intend nor desire to violate the law</p>
+<p>Jnos S Sallee
+<lb/>L. J. Stephenson
+<lb/>F M Sumpter
+<lb/>H Huffaker
+<lb/>H W Tuttle
+<lb/>Flemming Bates
+<lb/>B, F, Flemming
+<lb/>Thos. A. Bates
+<lb/>Richard Burnett
+<lb/>James A Phillips.
+<lb/>C, A, Cox
+<lb/>Jas Berry
+<lb/>William L. Warden
+<lb/>William. T. Burk<pb/></p>
+<p>Wayne Cir Ct
+<lb/>vs
+<lb/>Jos H Bond
+<lb/>$35
+<lb/>Tipling
+<lb/><date when="1865-10-23">23 Oct /65</date></p>
+<p>Remit</p>
+  </body>
+ </text>
+</TEI>

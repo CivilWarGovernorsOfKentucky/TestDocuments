@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-031-0197"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">James E. Temple, Oath</title>
+    <title level="a" type="parallel">CWG7937</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Appointments by the Governor, Civil Appointments, 1862-1863</collection>
+      <idno>R1-275</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Shelby County, Tennessee</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>State of Tennessee
+<lb/>Shelby County</p>
+<p>I James E. Temple a Commissioner appointed by the Governor of the State of Kentucky in and for the State of Tennessee resident at Memphis in pursuance of the act of the general Assembly of the Commonwealth of Kentucky entitled an act to adopt the revised Statues approved <date when="1852-01-07">January 7<hi rend="sup">th</hi> 1852</date> for the State of Kentucky do solemnly swear that I will ^well^ and -- faithfully discharge all -- the duties appertaining to the said office of Commissioner -- according to the laws of the State of Kentucky so help me God</p>
+<p>James E Temple
+<lb/>Commissioner for Kentucky</p>
+<p>Sworn to and subscribed before me at Memphis this <date when="1863-04-16">16<hi rend="sup">th</hi> April 1863</date></p>
+<p>P. M. Dickinson J. P. S. C.
+<lb/><hi rend="underline">James E Temple</hi></p>
+<p><figure type="seal"><ab>JAMES E TEMPLE
+<lb/>COMMISSIONER FOR THE STATE OF Kentucky
+<lb/>MEMPHIS. TENN.</ab></figure><pb/></p>
+<p>Tennessee <figure type="hr"/>
+<lb/>Oath of office
+<lb/>Ja<hi rend="underline"><hi rend="sup">s</hi></hi> E. Temple
+<lb/>Memphis
+<lb/>Filed <date when="1863-04-21">Apr 21<hi rend="underline"><hi rend="sup">st</hi></hi> 1863.</date></p>
+  </body>
+ </text>
+</TEI>

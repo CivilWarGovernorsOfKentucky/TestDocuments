@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1834"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">J. D. James et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6471</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR13-394</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency Governor Bramlett. The undersigned would respectfully represent that at the <date when="1865-04">April Term 1865</date> of the Lawrence Circuit Court a judgment was rendered against Saml Short in the Lawrence Circuit Court for Two hundred dollars for permitting gaming upon his premises The facts wer these, The said Short had rented a house in the Town of Louisa for the purpose of Keeping a grocery store there was two rooms in the house only one of which the said Short occupied the other he had rented to a man by the name of Martin and Martin had permitted the gaming in the room without the Consent of Short, Martin was the only man by whom Short could prove the renting of the room and he had left the country other witnesses proved however in the trial of the men for playing there that Martin had permitted them to play, believing that Short was not guilty we ask your excellency to remitt thee fine assessed against him</p>
+<p>J. D. James
+<lb/>John M Burns
+<lb/>J. Bartrum
+<lb/>John M Rice</p>
+<p>I have been assured &amp; believe that Martin would have proved as stated in the petition, could it have been possible for Short to have had him present, for which reason I sign this petition</p>
+<p>J. S. Dury
+<lb/>Com<hi rend="underline"><hi rend="sup">th</hi></hi> Atty.<pb/></p>
+<p>Lawrence Cir Ct
+<lb/>vs
+<lb/>Saml Short
+<lb/>$200,</p>
+<p>Remit
+<lb/><date when="1865-05-31">31<hi rend="sup">st</hi> May/65</date></p>
+  </body>
+ </text>
+</TEI>

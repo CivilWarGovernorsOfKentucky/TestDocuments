@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0711"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">James M. Crawford to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG4830</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR10-87</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency Thomas. E. Bramlette Governor of the Commonwealth of Kentucky</p>
+<p>Your Petitioner James M Crawford States that at the <date when="1864-02">February Term 1864</date> of the Rockcastle Circuit Court. He was fined $200.00 for Permitting Gaming upon his premsies, which offense was committed by Persons and not Notice by your petitioner owing to the confused state of the Country, caused by the Rebellion. Your petitioner states that he is a Loyal citizen, and a Poor man, and asks your Excellency to remit his fine, as in Duty bound he will ever Pray</p>
+<p>James M Crawford</p>
+<p>We the undersigned citizens of Rockcastle county join in the Petition of James M Crawford and ask your Excellency to remit his fine</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Charles A Redd
+<lb/>W. M. Fish C. R. C. C
+<lb/>M J. Cook
+<lb/>R. R. Hackney
+<lb/>W M. Saunders
+<lb/>Tho<hi rend="underline"><hi rend="sup">s</hi></hi>. M. Redd
+<lb/>F B M<hi rend="sup">c</hi>Clary
+<lb/>James G Carter
+<lb/><cb n="2"/>R. Boyd Citizen of Laurel
+<lb/>Edwin Shivel
+<lb/>W<hi rend="sup">m</hi> M<hi rend="sup">c</hi>Clure SRC
+<lb/>M. A. Brooks
+<lb/>Ja<hi rend="sup">s</hi> E Jones
+<lb/>E T Fish
+<lb/>D. G. Colyer<milestone unit="column" n="1"/><pb/></p>
+<p>Gov Bramblett
+<lb/>Dear</p>
+<p>Sir I hope that you will remit the fine mentioned in the Petition</p>
+<p>Your friend Truly
+<lb/>G Pearl</p>
+<p>Rockcastle Ct Ct
+<lb/>vs
+<lb/>James M Crawford
+<lb/>Remit except fees &amp; costs
+<lb/>Tho E Bramlette
+<lb/><date when="1864-04-26">26<hi rend="sup">th</hi> Apl/64</date>
+<lb/>$200-
+<lb/>Gaming</p>
+  </body>
+ </text>
+</TEI>

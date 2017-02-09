@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1112"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">G. Terry to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10580</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG20-220</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1861-05-23">23 May 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Hon B Magoffin</p>
+<p>At the <date when="1861-04">April</date> term of the Todd Circuit Court W<hi rend="underline"><hi rend="sup">m</hi></hi> Pettus was indicted for Keeping a gambling house, the proof on the trial was that Pettus had a grocery in the Town of Trenton, that he paid but little attention to the grocery himself, but had a clerk to attend to it,, and one day some youths steped into the grocery, and one proposed to the other to throw <hi rend="underline">high</hi> <hi rend="underline">die</hi>, for Cigars, the die was thrown, the Cigars bought, When the the proposition was made to throw for Cigars, the clerk told them that there was to be no betting in that house, that it was positively forbidden, Just after the <hi rend="underline">die</hi> was thrown Pettus steped in and on learning what was going on ordered the young men to leave his house,,</p>
+<p>This is the Substance of the proof, the Jury who tried the case found him guilty and assessed his fine at $200.. At the instance of the Jurors a petition was drawn &amp; signed by all of them asking your Excellency to <hi rend="str">remit</hi> release the fine, Some of the Jurors told me that they never would have agreed to the verdict had it not been understood in the Jury room that, they were all to petition<pb/>
+<lb/>for a release of the fine &amp; that the Same would be releaved, The Commonwealths attorney wrote a letter in which he stated the fine ought to be releaved</p>
+<p>This petition together with the letter was sent about the 1<hi rend="sup">st</hi> of <date when="1861-05">May</date> or <unclear>last</unclear> of <date when="1861-04">April,</date> but has been mislaid &amp; not acted upon, The above are the facts of the case, as Known to me and I make a statement of them as a basis for your action
+<lb/><date when="1861-05-23">May 23 1861,</date></p>
+<p><hi rend="underline">G. Terry</hi></p>
+<p>Todd Cir. Ct
+<lb/>$200 } Gaming
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Petus
+<lb/>Remission Iss<hi rend="sup">d</hi> <date when="1861-05-24">May 24 1861</date></p>
+  </body>
+ </text>
+</TEI>

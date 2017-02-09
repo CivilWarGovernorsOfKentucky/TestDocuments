@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0391"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">George Keeser to James F. Robinson</title>
+    <title level="a" type="parallel">CWG8843</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Governor's Official Correspondence File, Petitions for Pardons, Remissions, and Respites, 1862-1863</collection>
+      <idno>R4-131 to R4-132</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Boyd County, Kentucky</placeName>
+    <date when="1863-05-02">2 May 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his excellency James F Robinson Governor of the Commonwealth of Kentucky. Your petitioner George Keeser states that at the last <date when="--04">April</date> Term of the Boyd Circuit Court he was fined the sum of $60 -- on the charge of Keeping a tipling House in Boyd County -- Your petitioner was not informed that there would be a court for the trial of causes at said Term, he in consequence did not attend. he says he is satisfied he had a valid defense if he had presented the same, he knows that he is not Guilty. he say the judgement was rendered by default on his part -- he is poor -- he ask your excellency to remit the penalty or fine assessed -- </p>
+<p>Yours &amp;c
+<lb/>George Keeser</p>
+<p>I James W. Riley clerk of the Boyd Circuit Court do certify that in the prosecution above describe a that Judgement was rendered against George Keeser without his making defense to the same &amp; was not presant -- this <date when="1863-05-02">May 2<hi rend="underline"><hi rend="sup">nd</hi></hi> 1863</date> &amp; that George Keeser is worthy of credit as to statements made by him </p>
+<p>Ja<hi rend="sup">s</hi> M Riley C B C C</p>
+<p>We the undersign ask your excellency to remit the fine of $60 -- rendered gainst <hi rend="str">him</hi>George Keeser at the <date when="1863-04">April Term 1863</date> of the Boyd circuit court -- we think it is right=</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>James W Riely
+<lb/>Tho<hi rend="sup">s</hi> E Henderson
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Ely
+<lb/>J. G. Sawntain
+<lb/>W<hi rend="sup">m</hi> Cox
+<lb/><cb n="2"/>N A Brown
+<lb/>G, W, Brown
+<lb/>Owen Adkins
+<lb/>John Fauconer
+<lb/>R Waterman<pb/>
+<lb/><milestone unit="column" n="1"/>James Seaton
+<lb/>Richard Scott
+<lb/>John B. Wellman
+<lb/>Ja<hi rend="sup">s</hi>.D. Jones
+<lb/>R Eastham
+<lb/>W A Foster
+<lb/><hi rend="underline">Ja</hi><hi rend="underline"><hi rend="sup">s</hi></hi><hi rend="underline"> S Wise</hi>
+<lb/>L T Moore
+<lb/>H Savis
+<lb/>C S M<hi rend="underline"><hi rend="sup">c</hi></hi>Connell
+<lb/>J. C Burks
+<lb/>John D Murphy
+<lb/>Tho<hi rend="sup">s</hi> Q Ewing
+<lb/>John H Ford.<pb/></p>
+<p>Cattletsburg Ky -- 
+<lb/><date when="1863-05-04">May 4<hi rend="sup">th</hi> 1863</date></p>
+<p>The foregoing petition is signed by the best citizens of Boyd County -- including L. T. Moore who was judge that set at the <date when="--04">April</date> term last of the Boyd circuit court in absence of R Apperson Sr the judge Moore presided in cause of Keeser -- C L M<hi rend="sup">c</hi>Connel Presiding judge of the Boyd County Court -- J D Jones County attorney J W Riley clerk of the County &amp; circuit court -- </p>
+<p>George N, Brown<pb/></p>
+<p>George Keeser
+<lb/>to } Petition for release of Fine
+<lb/>Gov Ja<hi rend="underline"><hi rend="sup">s</hi></hi> F Robinson<figure type="hr"/>
+<lb/>Boyd Cir. Ct
+<lb/>Fine remitted except Ten dollars &amp; costs
+<lb/><hi rend="underline">J F Robinson</hi>
+<lb/>$60 } Tipling
+<lb/>Iss<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1863-05-14">May 14<hi rend="underline"><hi rend="sup">th</hi></hi> 1863</date></p>
+  </body>
+ </text>
+</TEI>

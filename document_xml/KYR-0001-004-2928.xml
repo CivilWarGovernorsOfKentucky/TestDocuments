@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2928"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">H. G. Petrie to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7565</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR17-258 to BR17-259</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Elkton, Todd County, Kentucky</placeName>
+    <date when="1865-12-29">29 December 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Elkton Ky <date when="1865-12-29">Dec<hi rend="sup">r</hi> 29<hi rend="sup">th</hi>/65</date>
+<lb/>To
+<lb/>His Excellency. Thos E Bramlette.</p>
+<p>I send herewith a petition asking Your Excellency to remit a fine of $200 rendered against D<hi rend="sup">r</hi> George A Harrel in favor of the Commonwealth by the Todd Circuit Court at its <date when="1865-10">October term 1865</date> D<hi rend="sup">r</hi> Harrel has paid to the Comlths atty his part of the fine &amp; Hopes you will relieve him from the payment of the balance The taking of the Sugar Occurred near this place &amp; all the facts are well known ^here^ &amp; I can safely say there is not a man in the County that desires now to see Young Harrel punished, and I trust you will feel authorized to interpose for him. If the fine is remitted Mr. Kennedy our Representative will pay the fee of the Sec when he goes<pb/>
+<lb/>up. If necessary, I can with some trouble procure affidavits showing that Harrel acted under a posative order of his superior officer &amp; Mr Downey, received from Harrel's father a very <hi rend="underline">large</hi> <hi rend="underline">price</hi> for his sugar. Independant of all these facts I think the policy of the County if not the law is opposed to punishing rebel soldiers for acts of this kind</p>
+<p>With High esteem
+<lb/>I am Your Obt servt
+<lb/>H G Petrie</p>
+  </body>
+ </text>
+</TEI>

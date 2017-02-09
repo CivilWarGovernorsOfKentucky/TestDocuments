@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-031-0261"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Robert Neal et al. to James F. Robinson</title>
+    <title level="a" type="parallel">CWG8001</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Appointments by the Governor, Civil Appointments, 1862-1863</collection>
+      <idno>R1-358</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Foster, Bracken County, Kentucky</placeName>
+    <date when="1863-05-15">15 May 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Foster Bracken County Ky <date when="1863-05-15">May 15<hi rend="sup">th</hi> 1863</date>
+<lb/>To The Honorable Governor of the State of Ky Sir</p>
+<p>We the undersigned members of the Board of Trustees of the Town of Foster herewith send you the Poll Books and certificates of an election ordered and held by us on Friday <date when="1863-05-08">May 8<hi rend="underline"><hi rend="sup">th</hi></hi> 1863</date> for the purpose of electing a police Judge to fill the vacancy occasioned by the absence of Jesse Gray former incumbent Mr. Gray not having made a formal resignation it is but due to your Honor to explain to you the cause of the vacancy which is as follows. Mr Gray left this place some two months ago for an indiffinite Period for the Purpose as he stated of taking service in the Gun boats either as Pilot or Captain, which service he writes, he immediately obtained upon reaching Cairo believing that he could not act as Judge and at the same time be on the Mississippi in the Gun boat service, and feeling our need of a Judge we formaly declared the office vacant and called the Election which result we herewith enclose duly certified all of which we respectfully submit hoping you will commission the Judge elect at your Earliest convenience</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>G. S. Kimberly
+<lb/>Clk of the Board
+<lb/><cb n="2"/>Robert Neal
+<lb/>A. W. Schoolfield
+<lb/>Jos. H H Reed
+<lb/>O C Pollock M. D. } Trustees<milestone unit="column" n="1"/><pb/></p>
+<p>The Police Judge of Foster holds his office for the Term of 4 years (<hi rend="underline">1 Acts 1859-60 p. 350</hi>)</p>
+<p>Nothing stated within shows that a vacancy existed at the time of the election to supply the place of the former incombent</p>
+<p>The Trustees have not the power of removal from office of the Police Judge -- This must be done by indictment or impeachment.</p>
+<p>The papers do not, in my opinion, show that M<hi rend="underline"><hi rend="sup">r</hi></hi> Markley is entitled to be commissioned as Police Judge of Foster.</p>
+<p><hi rend="underline">A. J. James</hi> Att General</p>
+<p>Foster<figure type="hr"/>
+<lb/>Wanting app<hi rend="underline"><hi rend="sup">t</hi></hi> of Police Judge refused see opinion of Atty Genl.
+<lb/>Ans<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1863-06-02">June 2. 1863</date></p>
+  </body>
+ </text>
+</TEI>

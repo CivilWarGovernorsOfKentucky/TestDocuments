@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-018-0196"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John W. Finnell to Nathaniel Gaither, Jr.</title>
+    <title level="a" type="parallel">CWG8262</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Military Appointments, 1859-1862</collection>
+      <idno>MG6-304</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1862-01-07">7 January 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><figure type="seal"><ab>UNITED WE STAND, DIVIDED WE FALL.
+<lb/>KENTUCKY.</ab></figure>
+<lb/>Head-Quarters Kentucky Volunteer Militia,
+<lb/>ADJUTANT GENERAL'S OFFICE,
+<lb/>Frankfort, <date when="1862-01-07">7 January 1862</date>.</p>
+<p>Hon: Nat Gaither Jr
+<lb/>Sec: of State_</p>
+<p>I send four Commissions, which please arrange &amp; return </p>
+<p><table rend="rules">
+<row>
+	<cell>1862</cell>
+	<cell><date when="1862-01-01">Jan 1</date>_</cell>
+	<cell><hi rend="underline">Steven</hi> G. Burbridge</cell>
+	<cell>Colonel</cell>
+	<cell>1</cell>
+</row>
+<row>
+	<cell> </cell>
+	<cell><date when="1862-01-01">"</date></cell>
+	<cell>Cicero Maxwell</cell>
+	<cell>L<hi rend="sup">t</hi> Colonel</cell>
+	<cell>2</cell>
+</row>
+<row>
+	<cell> </cell>
+	<cell><date when="1862-01-01">"</date></cell>
+	<cell>Isaac Calhoon</cell>
+	<cell>Major</cell>
+	<cell>3</cell>
+</row>
+<row>
+	<cell> </cell>
+	<cell><date when="1862-01-01">"</date></cell>
+	<cell>Andrew J. Wells</cell>
+	<cell>D<hi rend="sup">o</hi></cell>
+	<cell>4</cell>
+</row>
+</table></p>
+<p>Very Resp<hi rend="sup">y</hi>
+<lb/>John W. Finnell
+<lb/>Adj<hi rend="sup">t</hi> Gen<hi rend="sup">l</hi><pb/></p>
+<p>Entered <date when="1862-01-07">Jany 7. 1862</date></p>
+  </body>
+ </text>
+</TEI>

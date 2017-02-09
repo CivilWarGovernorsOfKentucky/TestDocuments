@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-028-0009"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">J. F. Rodgers to James F. Robinson</title>
+    <title level="a" type="parallel">CWG7664</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Appointments by the Governor, Military Appointments, 1862-1863</collection>
+      <idno>R2-125</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Rough and Ready, Anderson County, Kentucky</placeName>
+    <date when="1862-08-21">21 August 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Rough &amp; Ready Anderson Co. Ky
+<lb/><date when="1862-08-21">Aug 21st 1862</date>
+<lb/>Gov Jas. F. Robinson
+<lb/>Dear Sir</p>
+<p>this is in reference to an appointment as Surgeon in the U.S. <hi rend="str">a</hi>Army</p>
+<p>Believing that you have the appointing power I solicit the appointment and refer you to D<hi rend="sup">r</hi> W<hi rend="underline"><hi rend="sup">m</hi></hi>. C. Sneed and Hon Jas. Harlan as to my moral character qualifications and fitness for the position</p>
+<p>yours very
+<lb/>Respectfully
+<lb/>J. F. Rodgers M D.<pb/></p>
+<p>J. F Rogers M D
+<lb/>Rough &amp; Ready
+<lb/>to be ans<hi rend="sup">d</hi></p>
+  </body>
+ </text>
+</TEI>

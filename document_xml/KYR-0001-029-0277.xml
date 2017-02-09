@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0277"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">F. B. Trussell et al. to James F. Robinson</title>
+    <title level="a" type="parallel">CWG8729</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Governor's Official Correspondence File, Petitions for Pardons, Remissions, and Respites, 1862-1863</collection>
+      <idno>R3-409 to R3-410</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Maysville, Mason County, Kentucky</placeName>
+    <date when="1863-03-16">16 March 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><date when="1863-03-16">March <unclear>16</unclear> 1863</date>.
+<lb/>To His Excellency
+<lb/>Ja<hi rend="underline"><hi rend="sup">s</hi></hi> F. Robinson,
+<lb/>Governor of Kentucky:</p>
+<p>The undersigned Petitioners, Citizens of Maysville, &amp; Mason County, would respectfully represent to your honor that at the <date when="1862-04">April Term of the Mason Circuit Ct. 1862</date>. Three Recognizance Bonds amounting in agregate to the sum of Six Hundred Dollars &amp; upon which Isaiah &amp; Harvey Grigsby, were the sureties, were duly declared forfeited by the Court upon a failure of the condition specified. </p>
+<p>The Bonds were given for the appearance -- at a former Term of said Court of John, &amp; Samuel Grigsby, who were Indicted for having Counterfeit money in their possession &amp; attempting to pass the same. Neither of them were men of any learning &amp; probably did not know the money was counterfeit. ^These Indictments have all been filed away by the Commonwealth's Attorney.^ John Grigsby, was there, and is now (if living) a soldier in the Federal Army, &amp; at the Term of Court when he was to appear here -- was in the State of Tennessee, and could not get a furlough to ^come back to^ Ky. &amp; attend Ct. Sam<hi rend="underline"><hi rend="sup">l</hi></hi> Grigsby, joined the Federal Army since he was Indictment, &amp; is still in the service.</p>
+<p>Both the Grigsby's who are the sureties on the Bonds, are men of limited means with families of small children dependent upon the,. and could not now raise the amount of the Bonds by the sale of the whole of their property.</p>
+<p>We think these facts present a proper case for the exercise of your Executive Clemency, and respectfully petition you to remit so much of the Bond as would go to the Commonwealth.</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Names
+<lb/>F, B, Trussell
+<lb/>W. H Savage
+<lb/>T. C. Campbell
+<lb/><cb n="2"/>Names
+<lb/>Emery Whitaker
+<lb/>J. K. Sunwall<pb/>
+<lb/><cb n="1"/><hi rend="underline">Tho</hi><hi rend="underline"><hi rend="sup">s</hi></hi><hi rend="underline"> J. Throop</hi>
+<lb/>Geo. W. Dulser
+<lb/><hi rend="underline">Jn</hi><hi rend="underline"><hi rend="sup">o</hi></hi><hi rend="underline"> M Duke</hi> Jr
+<lb/><cb n="2"/>Robt. A. Cochran
+<lb/>W W Baldwin
+<lb/>Keith Berry
+<lb/>W M Beckner
+<lb/>W. S, Frank
+<lb/>Will P. Coons
+<lb/>H. P. Whitaker
+<lb/>S. T. Hunt
+<lb/>J. G Hickman
+<lb/>A. B. Cole.
+<lb/>Jno. R. Clarke</p>
+<p><milestone unit="column" n="1"/>I prosecuted the Grigsbys as attorney for the Commonwealth protem, and altho as a general thing I am for making men stand up to obligations of the sort, yet in this case I know the Grigsbys are unable to pay without impoverishing their families, which are large and helpless, and upon that ground would appeal to the clemency of the Executive in their behalf. </p>
+<p><hi rend="underline">H. Taylor</hi><pb/></p>
+<p>Mason Cir Ct</p>
+<p>Pettn of Citizens of Maysville for remission of forfeiture of Grigsbys</p>
+<p>$600 } Forfeiture</p>
+<p>One half remitted of amt of bonds. Remainder &amp; costs to be collected</p>
+<p><hi rend="underline">J F Robinson</hi>
+<lb/>Iss<hi rend="sup">d</hi> <date when="1863-06-17">June 17. 1863</date>.</p>
+  </body>
+ </text>
+</TEI>

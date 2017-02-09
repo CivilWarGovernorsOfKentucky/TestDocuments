@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0080"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Reuben Ridgeway to James F. Robinson</title>
+    <title level="a" type="parallel">CWG8532</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Governor's Official Correspondence File, Petitions for Pardons, Remissions, and Respites, 1862-1863</collection>
+      <idno>R3-126 to R3-127</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Jefferson County, Kentucky</placeName>
+    <date when="1862-09-11">11 September 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency
+<lb/>The Governor of Kentucky:</p>
+<p>Your petitioner, Reuben Ridgeway, respectfully states that he is the father of George Ridgeway, who is now in the Jefferson County Jail, where he has been confined for nearly four months, viz: since the <date when="1862-05-13">13<hi rend="sup">th</hi> May 1862</date>.</p>
+<p>That about the <gap/> day of <date when="1862-05">May 1862</date>, your petitioner's said son &amp; three other persons, Jeff Rogers, Lowdy Howard &amp; John Gray, were indicted in the Jefferson Circuit Court for a misdemeanor, assaulting a man named Casper Kromer, and, on the <date when="1862-05-13">13<hi rend="sup">th</hi></date> of said month, said indictment was tried and, by the verdict of the Jury each of the parties was found guilty &amp; fined $200 and 2 years imprisonment in the County Jail; and, on said day, each of said parties was imprisoned, as required by said verdict.</p>
+<p>Your petitioner states that he is altogether ignorant of the Circumstances Connected with said assault, but is informed &amp; believes that there are extenuating matters Concerning all of the parties Except Rogers -- and all of said parties, except your petitioner's said son, have been released from Confinement -- Rogers having given bond &amp; appealed to the Court of Appeals, and Howard &amp; Gray having been released by order of<pb/>
+<lb/>your Excellency. Your petitioner is further informed that his Honor, Judge Muir, subscribed a written statement to your Excellency on the petition of the aforesaid Gray (to which statement your petitioner begs leave to refer your Excellency) to the effect that said Judge is satisfied that said Gray, Howard and your petitioners son ought to be pardoned. In tender consideration of the premises, and forasmuch as his Honor, Judge Muir, who presided at the trial &amp; is fully Conversant with the Case, has expressed his belief as above stated -- and, further, as your petitioner's said son has already been confined nearly four months, &amp; the other parties have already been released, your petitioner humbly prays your Excellency to remit the Commonwealth's part of the aforesaid fine and to pardon his son from further imprisonment; and, as in duty bound, he ever will &amp;c.</p>
+<p>Reuben Ridgway</p>
+<p>Sworn to before me <date when="1862-09-11">Sept 11<hi rend="sup">th</hi> 1862</date>
+<lb/>Robt J. Elliott N P. J. C.</p>
+<p>I certify that George Ridgeway has been confined as and for the cause stated in the petition above -- that he is still in Jail, while the other parties have been released therefrom, as stated in said petition. <date when="1862-09-11">Sept 11. 1862</date>.</p>
+<p>W T E Thomas J J C<pb/></p>
+<p>Jefferson Cir. Ct
+<lb/>George Ridgway's Petition<figure type="hr"/>
+<lb/>$200. &amp; 2 ys in Co. Jail<figure type="hr"/></p>
+<p>Respite for one Year from this date <date when="1862-09-11">11<hi rend="sup">th</hi> Sept. 1862</date></p>
+<p>J F Robinson
+<lb/>Iss<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1862-09-11">Sept 11. 1862</date></p>
+  </body>
+ </text>
+</TEI>

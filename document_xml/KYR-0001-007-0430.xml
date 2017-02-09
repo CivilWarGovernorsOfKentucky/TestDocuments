@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0430"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John McClaren, Oath</title>
+    <title level="a" type="parallel">CWG2095</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Appointments by the Governor, Civil Appointments, 1863-1867</collection>
+      <idno>BR2-356 to BR2-358</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Allegheny County, Pennsylvania</placeName>
+    <date when="1865-04-01">1 April 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>The State of Pennsylvania
+<lb/>Allegheny County } SS:</p>
+<p>I John M<hi rend="sup">c</hi>Claren duly appointed by the Governor of the State of Kentucky, a Commissioner for the State of Kentucky, resident at Pittsburgh, in the state of Pennsylvania, do solemnly swear, that I will well and faithfully Execute and perform all the duties of such Commissioner under and by virtue of the laws of ^the^ state of Kentucky.</p>
+<p>John M<hi rend="sup">c</hi>Claren</p>
+<p>Sworn &amp; Subscribed before me this <date when="1865-04-01">1<hi rend="sup">st</hi> day of April A. D 1865</date></p>
+<p>Wilson McCandless
+<lb/>U S District Judge</p>
+<p><stamp type="revenue"/><note place="stamp">W. M<hi rend="sup">c</hi>C.
+<lb/><date when="1865-04-01">April 1<hi rend="sup">st</hi>
+<lb/>1865</date></note></p>
+<p>United States of America
+<lb/>Western Dist. of Penna } SS.</p>
+<p>I S. C. M<hi rend="sup">c</hi>Candless, Clerk of the District Court of the United States for said District, do hereby certify that I am well acquainted with the handwriting of the Hon. Wilson M<hi rend="sup">c</hi>Candless, whose name is subscribed to the foregoing affidavit, and that the signature to the same is in his proper handwriting. I do further certify that he was at the time of signing the same Judge of the U.S. Dist. Court for the Western District of Pennsylvania.</p>
+<p>Witness my hand and the seal of said Court at Pittsburgh Pa, this <date when="1865-04-01">1<hi rend="underline"><hi rend="sup">st</hi></hi> day of April A. D. 1865</date></p>
+<p>S. C. M<hi rend="sup">c</hi>Candless, Clerk
+<lb/><stamp type="revenue"/><note place="stamp">S. C. M<hi rend="sup">c</hi>C.
+<lb/><date when="1865-04-01">April 1<hi rend="underline"><hi rend="sup">st</hi></hi>
+<lb/>1865</date></note><pb/></p>
+<p>Pennsylvania
+<lb/>Com<hi rend="sup">r</hi> Deeds
+<lb/>Oath of John M<hi rend="sup">c</hi>Claren
+<lb/>filed <date when="1865-04-06">6<hi rend="sup">th</hi> Apl 1865</date><pb/></p>
+<p>John M<hi rend="sup">c</hi>Claren
+<lb/>Commissioner</p>
+<p><figure type="seal"><ab>COMMISSIONER FOR THE STATE OF KENTUCKY
+<lb/>JOHN M<hi rend="sup">C</hi>CLAREN
+<lb/>PITTSBURG, PA.</ab></figure><pb/></p>
+<p>Comr Deeds
+<lb/>John M<hi rend="sup">c</hi>Claren
+<lb/>signature &amp; seal as Com for Ky</p>
+  </body>
+ </text>
+</TEI>

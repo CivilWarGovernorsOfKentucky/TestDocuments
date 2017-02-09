@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0873"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">P. H. Campbell to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG4992</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR10-340 to BR10-341</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1864-05">May 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his excellency the Governor of Kentucky</p>
+<p>Your petitioner P. H. Campbell respectfully represents that heretofore at the <date when="1856-05">May <gap/> Term 1856</date> of the Owen Circuit Court he was indicted by the grand jury for shooting at with intent to kill one Henry E. Abbott afterwards the case was put on hearing at the <date when="1858-11">Novr Term of the Court 1858</date>. and <hi rend="str">there</hi> the jury disagreed &amp; there was no verdict rendered. At a subsequent Term of the Court the petitioner was persuaded to confess and did confess a judgment for $<hi rend="str">75</hi>^80^. Under the promise that suitable efforts would be made to procure a release by the Governor of the fine. He knew that the percentage allowed by the law to the prosecuting attorney could not be remitted &amp; that the costs must also be paid and he has accordingly paid the costs and 25$ to the com<hi rend="sup">ths</hi> attorney and he obtained only a respite for the balance. Very recently an execution has issued and is in the hands of the sheriff who will proceed to coerce pay<hi rend="sup">t</hi> unless your excellency <hi rend="str">will</hi> shall interfere Petitioner herewith present a copy of the indictment and judgement in Said case as part hereof. He says that he did shoot at said Abbott but it was in self defense Abbott made demonstrations against him with stones &amp; swore he would kill him and in order to protect himself he did shoot with a small pistol but inflicted<pb/>
+<lb/>no wound &amp; Abbott fled in alarm: there was no person present to witness the affair and Abbott was so alarmed that he verily believed he was not capable <hi rend="str">of</hi> of noting the occurences and under the whole circumstances exaggerated the affair as it regarded the conduct of this petitioner. Under this state of case it was thought by your petitioner friends that it was best for him to confess judgment &amp; rely upon the executive clemency which he did as before stated</p>
+<p>He says he has a large and expensive family is in poor health himself and labouring under considerable pecuniary embarassment and the pay<hi rend="sup">t</hi> of this claim would seriously distress and injure him Wherefore he prays that said fine may be remitted. <date when="1864-05">May <gap/> 1864</date></p>
+<p>P. H. Campbell</p>
+<p>The undersigned respectfully ask that the above named fine may be remitted</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>J A Duncan
+<lb/>Geo C Roberts
+<lb/>D <unclear/>
+<lb/>L. Sandford
+<lb/>J. T Roberts
+<lb/>W. B. Roberts
+<lb/>Geo. S. Low
+<lb/><cb n="2"/><hi rend="underline">Tho</hi><hi rend="underline"><hi rend="sup">s</hi></hi><hi rend="underline"> A. Berryman</hi>
+<lb/>J P Sparks
+<lb/>P. U. Major
+<lb/><hi rend="underline">J. J. Lanoram</hi>
+<lb/><hi rend="underline">Tho N Lindsey</hi>
+<lb/>W. H. Sandford
+<lb/>A. P. Grover</p>
+  </body>
+ </text>
+</TEI>

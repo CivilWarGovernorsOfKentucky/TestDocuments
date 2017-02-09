@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2201"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">P. D. Yeiser to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6838</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR15-9 to BR15-10</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Livingston County, Kentucky</placeName>
+    <date when="1865-08-23">23 August 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>State of Kentucky
+<lb/>Livingston County</p>
+<p>P D Yeiser States that in the latter part of the year <date when="1860">1860</date> or first of <date when="1861">1861</date>, he became bail in the Lyon circuit Court in the Sum of $<gap/> for the appearance in that court for trial of <gap/> Ballentine charged by indictment with malicious Stabbing -- at the time Ballentine was but a boy only 16 or 17 years old &amp; a notably good boy at that decidedly loyal, was followed up &amp; hunted &amp; waylaid in the night time by a young man older than himself named Terril, a fight <unclear>ensued</unclear> in the night time &amp; Ballentine Stabbed Terril not killing him &amp; was indicted</p>
+<p>Ballantine being poor, really loyal &amp; his parents sober clean &amp; respectable I went his bail to keep him out of jail -- In the Summer of <date when="1861">1861</date> when it became dangerous for Union men to stay in Lyon County the Young man Ballentine came and asked me if I would consent for him to leave until the next court &amp; I did so &amp; before the next court he joined an Illinois Regiment. I do not know the Number thereof, he has served faithfully ever since was in the Nashville fight under Genl Thomas a few months ago -- I hear since he is dead but cant find the proof -- during the war his family are scattered &amp; I cant find where they live -- Now the atty for the com<hi rend="sup">l</hi>. is trying to get a Judgment against me &amp; I wish a pardon so as to prevent it<pb/>
+<lb/>I say positively and emphatically Ballantine never placed in my hand or under my control either directly or indirectly money, property or anything else to indeminify me in the bail that the same is about to prove a total loss <hi rend="str">to</hi> <hi rend="str">me</hi> I have not even rec<hi rend="sup">d</hi> one cent in the way of a fee or otherwise from Ballantine</p>
+<p>P. D Yeiser</p>
+<p><stamp type="revenue"/><note place="stamp"><unclear/></note></p>
+<p>Subscribed Sworn to by P D Yeiser before me <date when="1865-08-23">aug 23<hi rend="sup">d</hi>/65</date></p>
+<p><unclear/> <unclear>Bates</unclear> J. P</p>
+<p><stamp type="revenue"/><note place="stamp"><unclear/></note></p>
+<p>J M Bush says he beleve the above statements are true</p>
+<p>J M Bush</p>
+<p>Sworn to by J M Bush this <date when="1865-08-24">24<hi rend="sup">th</hi> aug 1865</date></p>
+<p>M Beverly J, P, L, C<pb/></p>
+<p>Lyon Cir Ct
+<lb/>Remit vs<figure type="hr"/>
+<lb/>P. D. Yeiser
+<lb/>$300,
+<lb/><date when="1865-06">June term/65</date>
+<lb/><date when="1865-10-24">24 Oct/65</date></p>
+<p>Sent for fee &amp; amt of forfeiture <date when="1865-09-29">29 Sept/65</date></p>
+  </body>
+ </text>
+</TEI>

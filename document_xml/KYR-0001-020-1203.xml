@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1203"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Bailey et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10671</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG21-42</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excelency Beriah Magoffin Esqr
+<lb/>Govenor of the Commonwealth of Kentucky</p>
+<p>Whereas John Robberts was indicted one at the <date when="1861-05">May term of the owsley Circuit Court 1861</date> was tried and found guilty of carrying consealed deadly weapons to wit a pistol. ^one fined $50.^ your petitioners would respectfully state to your Excelency that he is avry pore man with a wife and several small children. owing to the scarsety of money and his poverty if the Collection of s<hi rend="sup">d</hi> fine is forced he would be forced to go to prison for s<hi rend="sup">d</hi> fine</p>
+<p>now we your petitioner would respectfully request your Excellency to remit So much of S<hi rend="sup">d</hi> fine as your Excelency has the power to remit believing it is a case worthy of your Excelencys Clemency</p>
+<p><milestone unit="column" n="3"/><cb n="1"/>John Bailey=
+<lb/>E Main
+<lb/>T J Greer
+<lb/>John W Brandenburgh
+<lb/>Joseph <unclear/>
+<lb/>Shelton White
+<lb/>T Stone 
+<lb/>L. W. Blount 
+<lb/>B N Lutz
+<lb/>Ben Mcgee
+<lb/>Z Phillips
+<lb/><cb n="2"/>B F Phillips
+<lb/>H C Jones
+<lb/><cb n="3"/>E. G. <unclear>Crioucly</unclear>
+<lb/>James Moris
+<lb/>Mitchell Gum
+<lb/>A Gum
+<lb/>Wm Baldwin
+<lb/>H D<hi rend="str">aniel</hi> Daniel
+<lb/>Jno Hyden
+<lb/>Robt Wilson
+<lb/>John Beatty
+<lb/>Benjn Butners
+<lb/><unclear/>
+<lb/>E. R. Begley
+<lb/>Elihu Durben
+<lb/><hi rend="str">S G White</hi><milestone unit="column" n="1"/><pb/>
+<lb/>A B Hampton
+<lb/>W. S. M<hi rend="sup">c</hi>Guire
+<lb/>K f. Hargis
+<lb/>James Hacker
+<lb/>H J. Clark
+<lb/>J O Lyttle
+<lb/>Robert B.
+<lb/>J W Daniel
+<lb/>W<hi rend="sup">m</hi> M. Fulkerson
+<lb/>A. B. Gilbert
+<lb/>J. H Gabbard
+<lb/>Wm C Judd
+<lb/>J. E. Gibson
+<lb/>M Q Mize
+<lb/>Ostin Palmer
+<lb/>H F Woosly
+<lb/>J. W. Moore
+<lb/>Silas Boures.
+<lb/>T J Treadway
+<lb/>E B Treadway Sheriff
+<lb/>G Bleaffs clk</p>
+<p>Remitted
+<lb/>B. M</p>
+<p>Issd <date when="1861-06-24">June 24</date></p>
+  </body>
+ </text>
+</TEI>

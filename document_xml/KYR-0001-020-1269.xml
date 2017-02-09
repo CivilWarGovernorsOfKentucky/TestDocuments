@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1269"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Albert Shannon to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10737</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG21-143</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency Beriah MaGoffin
+<lb/>Governor of Kentucky</p>
+<p>Your petitioner Albert Shannon would respectfully represent to your Excellency that on the <gap/> day of <date when="1861-07">July 1861</date> he was tryed before John R Graham Esq Police Judge of the city of Frankfort upon a warrant charging your petitioner with having committed a Breach of the peace in the said City on the night of the <gap/> day of <date when="1861-07">July 1861</date> <hi rend="str">by loud</hi> Your petitioner would represent that he was on said warrant fined The Sum of five dollars &amp; costs. &amp; would respectfully ask that your Excellency will exercise Executive Clemency towards him by remitting so much of said fine as is not due to the officers of said City</p>
+<p>Respectfully
+<lb/>Albert Shannon</p>
+<p>We the undersigned would respectfully unite with Albert Shannon his above Petition -- </p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Will H. Sneed
+<lb/><hi rend="underline">Gray &amp; Todd</hi>
+<lb/>W W Stephens 
+<lb/><cb n="2"/>H I Todd
+<lb/>A Kahr
+<lb/>P <hi rend="underline">Joyce</hi><milestone unit="column" n="1"/><pb/></p>
+<p>Frankfort Po. Ct<figure type="hr"/>
+<lb/>A Shannon
+<lb/>Petition to the governor<figure type="hr"/></p>
+<p>Respite 12 Mo<hi rend="sup">s</hi>
+<lb/>B M</p>
+<p>$5. } Breach</p>
+<p>Iss<hi rend="sup">d</hi> <date when="1861-07-16">July 16 1861</date></p>
+  </body>
+ </text>
+</TEI>

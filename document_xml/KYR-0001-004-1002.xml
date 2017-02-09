@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1002"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Unknown, Ledger</title>
+    <title level="a" type="parallel">CWG5639</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR11-49</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Union County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>James R. Hughes
+<lb/>Clerk Union Circuit Court Dr
+<lb/><table rend="rules">
+<row>
+	<cell>Taxes from <date when="1855-10-14">14. October 1855</date> to<lb/>
+<lb/><date when="1856-04-29">29. April 1856.</date></cell>
+	<cell>108.7</cell>
+	<cell/>
+</row>
+<row>
+	<cell>from <date when="1856-04-30">30 April. 1856</date> to<lb/>
+<lb/><date when="1856-08-30">30 August 1856</date></cell>
+	<cell>46.00</cell>
+	<cell/>
+</row>
+<row>
+	<cell>Cr:</cell>
+	<cell>$154</cell>
+	<cell/>
+</row>
+<row>
+	<cell/>
+	<cell><hi rend="str">7 70</hi></cell>
+	<cell/>
+</row>
+<row>
+	<cell>By. Commission on $154 @ 5%</cell>
+	<cell/>
+	<cell>7 70</cell>
+</row>
+<row>
+	<cell>" Payment. to Treas fund. <date when="1856-04">Apl '56</date></cell>
+	<cell/>
+	<cell>55 <hi rend="str">50</hi>00</cell>
+</row>
+<row>
+	<cell>" Postage</cell>
+	<cell/>
+	<cell> 45</cell>
+</row>
+<row>
+	<cell>By. Balance</cell>
+	<cell/>
+	<cell>90.85</cell>
+</row>
+<row>
+	<cell/>
+	<cell>$ 154.70</cell>
+	<cell>$154.00</cell>
+</row>
+<row>
+	<cell>To Balance Amt of Judgment</cell>
+	<cell>90.85</cell>
+	<cell/>
+</row>
+<row>
+	<cell>Cr</cell>
+	<cell/>
+	<cell/>
+</row>
+<row>
+	<cell>By Payment. <date when="1864-01-02">January 2. 1864</date></cell>
+	<cell/>
+	<cell>35 50</cell>
+</row>
+<row>
+	<cell>" Balance.</cell>
+	<cell/>
+	<cell>55.35</cell>
+</row>
+<row>
+	<cell/>
+	<cell>$ 90 85</cell>
+	<cell>$ 90.85</cell>
+</row>
+<row>
+	<cell>To Balance</cell>
+	<cell>55.35</cell>
+	<cell/>
+</row>
+</table><pb/></p>
+<p><date when="1856">1856</date></p>
+  </body>
+ </text>
+</TEI>

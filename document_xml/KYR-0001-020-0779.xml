@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0779"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">J. W. A. McGavory to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10247</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG19-212</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Hopkinsville, Christian County, Kentucky</placeName>
+    <date when="1861-04-08">8 April 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Hopkinsville Ky <date when="1861-04-08">April 8th 1861</date>
+<lb/>His Exelency
+<lb/>Gov. Magoffin</p>
+<p>Sir Mr Johnathan Greer of this County has been condenced to serve a Term in the Penetentiary for manslaughter the Circumstances of the case are Such without attempting to go in to particulars that the simpathies of the community are Entirely In his favor &amp; It is the General opinion that It is a Case in which your Clemency might be Exercised without Detriment to the Public Good. as you will be Informed from other Sources. Mr Greer Is an old man with a Large Family Dependent upon him for support &amp; <unclear/> Circumstances being originally in a Pecunary point of view quite Limited the Expenses attending his defence he the lease. We which he has been condemned has Ruined him Pecuinarly &amp; It would Cause Distress to his Family from that source as well as the Disgrace attached to his Serving In the Penetentiary. I have Personaly Known Mr Greer from my Boyhood up to the Present time &amp; he has always born a Good Moral Character up to the time of this unfortunate Circumstance</p>
+<p>Respefuly
+<lb/>J W A M<hi rend="sup">c</hi>Gavory P M</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0330"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John M. Harlan et al. to James F. Robinson</title>
+    <title level="a" type="parallel">CWG8782</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Governor's Official Correspondence File, Petitions for Pardons, Remissions, and Respites, 1862-1863</collection>
+      <idno>R4-33</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Henry County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>State of Kentucky Henry County
+<lb/>To the Honorable Governor of Kentucky J. F Robinson</p>
+<p>The justices of the Peace in and for Henry County had a fine of ten dollars ($10) imposed on each by the honorable Circuit Court at its <date when="1863-04">April term 1863</date> for failing to make due reports to the trustee of the jury fund at previous courts, The justices your petitioners do not deny that they failed to make reports as required by law but claim that they have failed with no intent to offer contempt to the authorities, but owing in part to the habit of the circuit Judge adjourning his court for the last two or three years on the first and second days of its term, thereby suspending the ordinary judicial business. As well Political disturbances, The justices of the said county petion and pray your honor to remit them the said fine of ten dollars as Stated above and dismiss the same from the order of the court imposing the same. We the undersigned member of the bar at New Castle petition that the same be Remitted</p>
+<p><milestone unit="column" n="2"/><cb n="1"/><hi rend="underline">John M Harlan</hi>
+<lb/>J N Webb
+<lb/><cb n="2"/>J,, P, Sparks
+<lb/>E D E Haren
+<lb/>E P. Sherman
+<lb/>Z. Wheat
+<lb/>C M Mathews
+<lb/><hi rend="underline">H. M. Buckley</hi>
+<lb/>B. Selby
+<lb/><hi rend="underline">J N. Oliver</hi>
+<lb/>J, W, Barhaw
+<lb/>N S Pryor<pb/></p>
+<p>Henry Cir Ct</p>
+<p>On half fine agst each remitted</p>
+<p>J F Robinson
+<lb/>$10 each
+<lb/>Send to Mr Sparks
+<lb/>Iss<hi rend="sup">d</hi> <date when="1863-04-18">Apr. 18<hi rend="underline"><hi rend="sup">th</hi></hi> 1863</date></p>
+  </body>
+ </text>
+</TEI>

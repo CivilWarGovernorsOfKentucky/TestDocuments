@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2347"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">J. R. Thomas to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6984</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR15-250</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Lebanon, Marion County, Kentucky</placeName>
+    <date when="1865-09-04">4 September 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Lebanon <date when="1865-09-04">Sep 4th 1865</date>
+<lb/>Gov<hi rend="sup">r</hi> Thos E. Bramlette</p>
+<p>Dear sir the principle in the within petition W. J. Young is a sober honest good citizen -- And not addicted to the vice of gaming nor does he permit it about his house -- He resides in Raywick in this county in that portion of the county infested and overran by guerillas and he informs me (and I Presume tis true) that during that time he could not control his guests -- For several months the Federal forces afforded no protection to that portion of the county where he resides -- And he was compeled to submit to many things, of which he did not approve Mr Young is a young man of good character and is highly respected by his neighbors and friends -- </p>
+<p>He is a loyal Union man and a very deserving <hi rend="str">good</hi> ^citizen^ -- <hi rend="str">His</hi> <hi rend="str">neigh</hi> The offence charged was permitting gaming for "drinks" for the party playing -- His neighbors say and assure me that since the restoration of Law and order he permits no Kind of gaming about his house There has never been any complaint of Mr Young Except in this one instance playing for drinks -- </p>
+<p>Your ob
+<lb/>J. R. <hi rend="underline">Thomas</hi></p>
+  </body>
+ </text>
+</TEI>

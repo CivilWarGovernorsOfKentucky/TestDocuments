@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2468"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">William V. Loving and James T. Donaldson to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7105</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR15-431 to BR15-432</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency.
+<lb/>Governor Bramlette</p>
+<p>Your petitioners, the subscribers, would respectfully state &amp; represent that at the <date when="1864-07">July term 1864</date>, a Judgment was rendered against John S. Greathouse for the sum of two hundred dollars, for keeping a tipling house, for three months &amp; at the <date when="1865-02">Feby term 1865</date> of the Warren Circuit Court a Judgment was rendered against him said John S. Greathouse, for the sum of twenty dollars for retailing spirituous liquors -- We are advised that the said Greathouse was under age at the time of his violating the law a aforesaid &amp; is very much mortified that these judgments should be &amp; remain upon the records of the Country &amp; against him. He has left the County, has no ability to pay the above fines -- he attempted to "work his passage" at a high school his health failed &amp; he is now rusticating &amp; represented as in very bad, if not declining health. The facts considered, we respectfully pray a remission of the foregoing &amp; above fines &amp; Judgments</p>
+<p><hi rend="underline">W</hi><hi rend="underline"><hi rend="sup">m</hi></hi><hi rend="underline"> V. Loving</hi>
+<lb/><hi rend="underline">Jas T Donaldson</hi></p>
+<p>I do not recollect the facts of this Case but from the endorsement &amp; recommendation above I recommend executive clemency.</p>
+<p>W<hi rend="sup">m</hi> B Jones atty for the Comth
+<lb/>A W Graham<pb/></p>
+<p>Both of the within Judgments were rendered by default the Defendant not appearing to make defense</p>
+<p>L L Cooke C W C C</p>
+<p>I know nothing of the facts but in consideration of the youth of Greathouse unite in requesting a remission of the fines</p>
+<p>J, R, Underwood<pb/></p>
+<p>Hon Tho<hi rend="underline"><hi rend="sup">s</hi></hi> E Bramlett
+<lb/>Frankfort
+<lb/>Kentucky</p>
+<p><figure type="postmark"><listPlace><place><placeName><unclear/></placeName></place></listPlace></figure>
+<lb/><figure type="postmark"><listPlace><place><placeName> BOWLING GREEN
+<lb/><unclear/>
+<lb/><unclear/>
+<lb/>KY</placeName></place></listPlace></figure></p>
+<p>Warren Cir Ct
+<lb/>vs
+<lb/>John S. Greathouse
+<lb/>$200. Tipling
+<lb/>$20. Retailing
+<lb/><date when="1865-10-18">18 Oct /65</date>
+<lb/>Remit</p>
+  </body>
+ </text>
+</TEI>

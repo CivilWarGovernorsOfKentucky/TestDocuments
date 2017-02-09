@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-031-0131"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Unknown, Note</title>
+    <title level="a" type="parallel">CWG7871</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Appointments by the Governor, Civil Appointments, 1862-1863</collection>
+      <idno>R1-181</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1863-01-27">27 January 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Note</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><hi rend="underline">Notarie</hi>s to be confirmed<lb/>
+<lb/><table rend="rules">
+<row>
+	<cell>W. B. Holce</cell>
+	<cell>P<hi rend="underline"><hi rend="sup">d</hi></hi></cell>
+	<cell>Jeff<hi rend="underline"><hi rend="sup">n</hi></hi> Co</cell>
+	<cell/>
+</row>
+<row>
+	<cell>Cha<hi rend="underline"><hi rend="sup">s</hi></hi> P. Rudd</cell>
+	<cell>P<hi rend="underline"><hi rend="sup">d</hi></hi></cell>
+	<cell>" "</cell>
+	<cell/>
+</row>
+<row>
+	<cell>R. T. Durrett</cell>
+	<cell><hi rend="underline">Pd</hi></cell>
+	<cell>" "</cell>
+	<cell>(Com<hi rend="sup">d</hi> <date when="1863-01-23">Jan 23.</date>)</cell>
+</row>
+<row>
+	<cell>White W. Forman</cell>
+	<cell/>
+	<cell>Bourbon</cell>
+	<cell> -- </cell>
+</row>
+<row>
+	<cell>W. T. Simmons</cell>
+	<cell/>
+	<cell>Grant "</cell>
+	<cell/>
+</row>
+<row>
+	<cell>J. Q. A King</cell>
+	<cell/>
+	<cell>M<hi rend="sup">c</hi>Cracken "</cell>
+	<cell>(Iss<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1863-01-22">22. Jany</date>)</cell>
+</row>
+<row>
+	<cell>Rob<hi rend="underline"><hi rend="sup">t</hi></hi> P. Jacobs</cell>
+	<cell/>
+	<cell>Boyle "</cell>
+	<cell>(" ")</cell>
+</row>
+<row>
+	<cell>W<hi rend="underline"><hi rend="sup">m</hi></hi> Beadles</cell>
+	<cell/>
+	<cell>Graves "</cell>
+	<cell>(" ")</cell>
+</row>
+<row>
+	<cell>Garrett P. Arbegast</cell>
+	<cell/>
+	<cell>Jeff<hi rend="underline"><hi rend="sup">n</hi></hi> "</cell>
+	<cell>(" ")</cell>
+</row>
+<row>
+	<cell>Tho. C. Woods</cell>
+	<cell/>
+	<cell>Marion "</cell>
+	<cell/>
+</row>
+</table><pb/></p>
+<p>Notaries<figure type="hr"/>
+<lb/>Notaries
+<lb/>Confirmed
+<lb/><date when="1863-01-27">Jany 27. 1863,</date></p>
+  </body>
+ </text>
+</TEI>

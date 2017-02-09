@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-031-0115"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">F. X. Dengler to James W. Tate</title>
+    <title level="a" type="parallel">CWG7855</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Appointments by the Governor, Civil Appointments, 1862-1863</collection>
+      <idno>R1-162 to R1-162-1</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Cincinnati, Hamilton County, Ohio</placeName>
+    <date when="1862-12-17">17 December 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Cincinnati <date when="1862-12-17">December 17<hi rend="underline"><hi rend="sup">th</hi></hi> 1862.</date>
+<lb/>Dear Sir!</p>
+<p>This day your kind notification came to hand and as I had already made up my mind to have my commission (expiring on the <date when="1863-02-02">2<hi rend="underline"><hi rend="sup">nd</hi></hi> day of February 1863)</date> renewed, if the authority of the State should see fit, I hereby enclose the State Tax of $5.00. and respectfully ask that my commission may be renewed and sent to me.</p>
+<p>Very Respetfully
+<lb/>F. X. Dengler.</p>
+<p>To Jas W. Tate
+<lb/>Asst Secretary of the State of Kentucky.<pb/></p>
+<p>Ohio
+<lb/>Com<hi rend="underline"><hi rend="sup">r</hi></hi> of Deeds
+<lb/>F. X. Dengler
+<lb/>(Cin)
+<lb/>Com Iss<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1863-01-12">Jany 12. 1863</date></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-023-0086"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">William Sprague, Proclamation</title>
+    <title level="a" type="parallel">CWG2999</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, 1859-1862</collection>
+      <idno>MG1-318 to MG1-319</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Providence, Providence County, Rhode Island</placeName>
+    <date when="1861-11-15">15 November 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Proclamation/Legislation</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>State of Rhode Island and Providence Plantations.<figure type="hr"/>
+<lb/>A PROCLAMATION.
+<lb/>BY THE GOVERNOR.<figure type="hr"/></p>
+<p>In accordance with the law and long established usage, I, WILLIAM SPRAGUE, Governor of the State of Rhode Island and Providence Plantations, do appoint THURSDAY, <date when="1861-11-28">November the 28th, 1861</date>, to be observed as a day of
+<lb/>Thanksgiving and Praise to Almighty God.</p>
+<p>And I earnestly request all of the people of this State to abstain from their ordinary occupations on that day, and assemble in their respective places of worship, with a solemn sense of their duties and their privileges, to offer up unto Him a hearty tribute of gratitude and praise for the mercies and blessings of the past year; and with earnest prayer, ask that He may guide our troops to victory, deliver our country from all her enemies, and so direct the administration of our national affairs as to promote the best interests and happiness of our whole people.</p>
+<p>In Testimony whereof, I have hereto set my hand, and affixed the seal of the State, at Providence, this <date when="1861-11-15">fifteenth day of November A. D. 1861</date>, and the Independence of the United States the eighty-sixth.
+<lb/><figure type="seal"/></p>
+<p>WILLIAM SPRAGUE.</p>
+<p>BY HIS EXCELLENCY THE GOVERNOR:
+<lb/>JOHN R BARTLETT, <hi rend="italic">Secretary of State</hi>.<pb/></p>
+<p>Rhode Island<figure type="hr"/>
+<lb/>Proclamation</p>
+  </body>
+ </text>
+</TEI>

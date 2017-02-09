@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-2125"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">William Walter et al. to Unknown</title>
+    <title level="a" type="parallel">CWG9201</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG24-194</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>William Walter
+<lb/>Dardon Morris
+<lb/>M F Swetnam
+<lb/>Robert Walter
+<lb/>R<unclear/> Swan
+<lb/>N. F. Swetnam
+<lb/>E M Swetnam
+<lb/>Jesse <unclear/> Stram
+<lb/>James Graham
+<lb/>G B Graham
+<lb/>G E Graham
+<lb/>L M Graham
+<lb/>David Wellman
+<lb/>L F Wellman
+<lb/>Wint fred Halbook
+<lb/>JAmes <hi rend="underline">Adering</hi>
+<lb/>S. D. Sergent
+<lb/><unclear/> <unclear/>
+<lb/>W William T Smith
+<lb/>W James tompson
+<lb/><unclear/> H young
+<lb/>James Grubb
+<lb/>Andrew Woods
+<lb/>Jesse Grifith
+<lb/>Edward Egethen
+<lb/>Wm A Roberts
+<lb/>T Roberts
+<lb/>James Belcher<pb/></p>
+<p>Lyons Case
+<lb/>Pen<hi rend="sup">y</hi></p>
+  </body>
+ </text>
+</TEI>

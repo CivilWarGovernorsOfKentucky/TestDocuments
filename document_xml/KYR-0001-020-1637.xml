@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1637"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">George B. Hodge et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG11105</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Andrew P Patrick</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG22-297</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Campbell County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To Hon Beriah Magoffin
+<lb/>Governor of Kentucky,</p>
+<p>We the Undersigned Citizens of Newport would respectfully State that on the <date when="1860-12-26">26<hi rend="underline"><hi rend="sup">th</hi></hi> day of December 1860</date> M<hi rend="sup">r</hi> John Dilling was fined in the Sum of Fifty Dollars by J. B. Payne, a Justice of the peace for the 1<hi rend="sup">st</hi> District of Newport in Campbell County The offense for which he was So fined was Selling liquor to minors. The facts in the case were that while Said Dilling was in Cincinnati Ohio, a boy came into his store with a Bottle &amp; purchased from M<hi rend="underline"><hi rend="sup">rs</hi></hi> Dilling 3 cents worth of whiskey. and <hi rend="str">for it</hi> carried it off from the premises to the home of his parents. M<hi rend="sup">r</hi> Dilling we can State from our personal Knowledge of many years, is an honest industrious, law abiding Citizens a man whose character is above reproach. He is and has been but a short time Engaged in the Merchandising of groceries &amp; soft goods and obtained Merchants License to retail liquor by the quart. He would not we are confident violate the law Knowingly. We recommend him to the Executive clemency as one in whose behalf it ought to be exercised_</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Signed names
+<lb/>George B Hodge
+<lb/>Geo Artiman
+<lb/><hi rend="underline">H D Helm</hi>
+<lb/>H. Duchman
+<lb/>H M Webster
+<lb/>Geo. R. Redwins
+<lb/><hi rend="underline">F. A. Boyd</hi>
+<lb/>J. Q. A. Foster
+<lb/><cb n="2"/>J. M. Boyd<pb/></p>
+<p><milestone unit="column" n="1"/>Campbell J. P.
+<lb/>Rspite 12 Mo
+<lb/>B. M
+<lb/>Iss<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="--01-03">Jay 3</date>
+<lb/>$50. } Selling liquor to Minors
+<lb/>John Dilling
+<lb/>Remission Iss<hi rend="sup">d</hi> <date when="1862-01-17">Jany 17. 1862</date></p>
+  </body>
+ </text>
+</TEI>

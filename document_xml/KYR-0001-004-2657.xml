@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2657"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">W. C. Gilliss et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7294</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR16-273 to BR16-274</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency
+<lb/>Thos. E. Bramlet
+<lb/>Gov of Kentucky</p>
+<p>Your Petitioner Wade Vannoy would most respectfully represent that some four or five years ago He was indicted in the whitley circuit court for illegal gaming That Some time after the indictment -- He became a Soldier in the Union Army, and Served as Such for <gap/> years and was Honorably discharged -- </p>
+<p>That at the present (<date when="1865-08">August 1865</date>) Term of the Court He was fined $20 -- and cost for said gaming -- He would most respectfully say that He is not a gambler -- That the amount bet on the game was a mere trifle, He is a very poor man with a family, and to pay the fine at this time would be oppressive on Him</p>
+<p>He would therefore ask your Excellency to remit the Same He promises most faithfully that He will not call for a similar favour again<pb/></p>
+<p>We the undersigned citizens of Whitley County are acquainted with the Petitioner Wade Vannoy and believe the statements in His Petition are true, and respectfully ask Your Excellency to remit the Same -- </p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Names
+<lb/>W. C. Gilliss
+<lb/>J E Harman
+<lb/>Luke Moore
+<lb/>Tyrel Foley clerk of Whitley county court
+<lb/><cb n="2"/>Names<pb/></p>
+<p><milestone unit="column" n="1"/>Gov Bramblet
+<lb/>Dear sir</p>
+<p>I hope that you will remit this fine</p>
+<p>your friend truly
+<lb/>Granville Pearl
+<lb/>H F Finley
+<lb/>J, C, Watkins clk
+<lb/><hi rend="underline">W. H. Randall</hi>
+<lb/>John G. Eve</p>
+<p>Whitley Cir Ct.
+<lb/>vs
+<lb/>Wade Vannoy
+<lb/>To } Petition for Pardon
+<lb/>Gov. of Kentucky<figure type="hr"/>
+<lb/>$20,
+<lb/>Gaming
+<lb/><date when="1865-11-30">30th Novr/65</date></p>
+<p>Sent for fee <date when="1865-09-01">1 Sep</date></p>
+  </body>
+ </text>
+</TEI>

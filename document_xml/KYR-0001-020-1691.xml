@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1691"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">J. G. Carlisle to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG11159</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Andrew P Patrick</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG22-377 to MG22-378</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Covington, Kenton County, Kentucky</placeName>
+    <date when="1862-02-18">18 February 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Covington Ky
+<lb/><date when="1862-02-18">Feb. 18 1862</date>
+<lb/>Dear Govenor</p>
+<p>I intended to see you again on yesterday morning in relation to the fines against James G. Everett, but had no time before the arrival of the cars. The executions are now out against him, and, unless relieved, his property will be sacrificed in spite of all he can do to prevent it. It will be just as much as he can do to pay off the costs and attorneys percentage -- </p>
+<p>There are two fines against him -- one for $60 and costs and the other for $200 and costs -- both in the Kenton Circuit Court at Independence -- If you can remit them, you will confer a great favor upon an industrious citizen and probably save his family from ruin, or at least from many hardships.</p>
+<p>Very Truly Your Friend
+<lb/>J. G. Carlisle</p>
+<p>Hon B. Magoffin 
+<lb/>Frankfort Ky<pb/></p>
+<p>Sec will hand me the papers in these cases -- They were respited -- 
+<lb/>B. M</p>
+  </body>
+ </text>
+</TEI>

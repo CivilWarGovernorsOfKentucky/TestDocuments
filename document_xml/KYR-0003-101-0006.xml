@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0003-101-0006"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Daniel W. Lindsey to Charles W. Quiggins</title>
+    <title level="a" type="parallel">CWG14436</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Christina K Adkins</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Historical Society</repository>
+      <collection>Charles W. Quiggins papers</collection>
+      <idno/>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1864-09-01">1 September 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><figure type="seal"><ab>UNITED WE STAND DIVIDED WE FALL</ab></figure>
+<lb/>STATE OF KENTUCKY.
+<lb/>Head-Quarters Kentucky Volunteers,
+<lb/>ADJUTANT GENERAL'S OFFICE,
+<lb/>Frankfort, <date when="1864-09-01">Sept 1<hi rend="underline"><hi rend="sup">st</hi></hi>, 1864</date>.
+<lb/>Maj Chas. W. Quiggins
+<lb/>Capital Guard Regt
+<lb/>Paris Ky.
+<lb/>Major.</p>
+<p>The Governor has decided that recruiting officers have no authority to enlist men out of the Capital Guard Regt, but that they must go out and enlist citizens. This is done to preserve discipline among our men as they are now in active <hi rend="str">duty</hi> service, and not for the purpose of discouraging enlistments in the US service. You will therefore notify any officer who attempts to recruit them that a transfer will not be made.</p>
+<p>Very Respectfully
+<lb/>D. W. Lindsey
+<lb/>Inspector &amp; Adjt Gen<hi rend="sup">l</hi> Ky<pb/></p>
+<p><date when="1864-09-01">Sept. 1st 16<hi rend="str">5</hi>4</date>
+<lb/><date when="1864-09-01">Sep 1</date></p>
+  </body>
+ </text>
+</TEI>

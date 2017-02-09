@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1999"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Ben Duke to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6636</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR14-149 to BR14-150</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date when="1865-06-15">15 June 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Louisville Ky -- <date when="1865-06-15">June 15<hi rend="underline"><hi rend="sup">th</hi></hi> 1865</date>
+<lb/>To his Excelency
+<lb/>Thos, E, Bramlett Gov, of Ky -- </p>
+<p>Your Petitioner Ben Duke (a free man of Col,) States that he went on a Bail Bond for Henry King a Free man (who was charged with taking a horse Blanket) in the <hi rend="str"><unclear/></hi>Jefferson Circuit Court to answer an inditment at the last <date when="1865-05">May</date> term of said court -- Bond for three hundred Dollars -- The case was called &amp; Henry King failed to answer Bond forfeited &amp; sums. issued &amp;C -- Your petitioner is sixty two years old has lived here all his life &amp; this is the first time he has ever ben in court -- He went on the bond in good faith to befriend his feller man who was confined in Jail &amp; who promised by all that was sacred to appear in discharge of his bond -- but has failed, &amp; it is thrown on him, If I was able I would not call on you to relieve me -- but my heath has failed me &amp; I have but little to live on &amp; to pay the bond would be impossible I am not able<pb/>
+<lb/>to work, &amp; what little I have been enabled to hoard up in this unfiendly world is indispensible to feed my family. I hope to be able to show to you by my friends who know me &amp; know you, that I am worthy of Execative clemency -- I most humbly ask that the bond be remitted &amp; that I may not be required to pay it -- If in the exercise of your pardoning power you can feel authorized to do so, your petitioner will pledge all that is sacred &amp; honorable to arrest &amp; bring to trilal Henry King who has forfited his bond; I was ignorant &amp; had no thought Henry would do me as he did -- </p>
+<p>I most humbly pray that your <hi rend="str">interfere</hi> pardon &amp; remit the bond</p>
+<p>Ben ^his X mark^ Duke</p>
+<p>Attest
+<lb/>S, M, Bernard</p>
+<p>Subscribed &amp; Sworn to before me by Ben Duke <date when="1865-06-16">June 16<hi rend="underline"><hi rend="sup">th</hi></hi> 1865</date></p>
+<p>S, M, Bernard
+<lb/>N P Ky
+<lb/><figure type="seal"><ab>S. M. BERNARD
+<lb/>NOTARY PUBLIC
+<lb/>STATE OF KENTUCKY</ab></figure></p>
+  </body>
+ </text>
+</TEI>

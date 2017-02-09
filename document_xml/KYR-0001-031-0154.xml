@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-031-0154"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">L. M. Bruce to Preston Sparks</title>
+    <title level="a" type="parallel">CWG7894</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Appointments by the Governor, Civil Appointments, 1862-1863</collection>
+      <idno>R1-210</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>New Castle, Henry County, Kentucky</placeName>
+    <date when="1863-02-18">18 February 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>New Castle Ky. <date when="1863-02-18">Feb. 18<hi rend="sup">th</hi> 1863</date>
+<lb/>Hon. Preston Sparks
+<lb/>Dear Sir;</p>
+<p>I write to ask a favor at your hands, which I doubt not you have the ability to confer, and which I have every reason to believe you will exert yourself to accomplish.</p>
+<p>It is, that you see the Governor and exert your influence with him to procure me the office of Notary Public.</p>
+<p>Concerning my loyalty I need say nothing to you -- since you know what I have borne as flagmaster here, and how I have constantly stood up for the Union and constitution against all foes from all quarters.</p>
+<p>By a little friendly exertion on your part, you might be the means of affording me timely help from embarrassment by procuring me an office which, I think might be made remunerative at this place.</p>
+<p>Truly Yours &amp;c.
+<lb/>L. W. Bruce</p>
+  </body>
+ </text>
+</TEI>

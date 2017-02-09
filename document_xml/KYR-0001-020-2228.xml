@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-2228"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Samal Isaac et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG9304</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG24-361 to MG24-362</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excelency Berriah Magoffin We The undersigned citizens <hi rend="str">of</hi> would most Respectfully represent to your excellency that John Powell was at <date when="--06">the last June term</date> of the Jackson circuit court Sentencenced to the penitentiary for the term of two years charged with stealing hogs and the testimony seemed to go to guilt though there was some evidence to the contrary we will say to you that Mr Powell has left a large family with out any means to support on and we are of the opinion that you if you will only conferer the pinion of a large majority of the citizens of said feelins on the part of the Commonwealth witneses on trial </p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Names
+<lb/>Samal Isaac
+<lb/>H. H Fowler
+<lb/>Jacob Van winkle
+<lb/><unclear>Madrit Babril</unclear>
+<lb/>Thomas Martin
+<lb/><cb n="2"/>Names
+<lb/>richard Carty
+<lb/>C S. Martin
+<lb/>J. M. Wood
+<lb/>James Gain<pb/>
+<lb/><milestone unit="column" n="1"/>M. N Forbes
+<lb/>Henry Moines J P.
+<lb/>Wm B Cayle
+<lb/>Richard ^his X mark^ <unclear/>
+<lb/>James ,P, Lainhart
+<lb/>George Blanton
+<lb/>Isaac Issacks
+<lb/>Silas Hisel
+<lb/>Jesse humphy
+<lb/>George Rogers
+<lb/><unclear/> Sentend
+<lb/>tomes risten</p>
+  </body>
+ </text>
+</TEI>

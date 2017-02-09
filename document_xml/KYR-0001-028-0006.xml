@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-028-0006"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John W. Finnell to Daniel C. Wickliffe</title>
+    <title level="a" type="parallel">CWG7661</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Appointments by the Governor, Military Appointments, 1862-1863</collection>
+      <idno>R2-121</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1862-08-20">20 August 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><figure type="seal"><ab>UNITED WE STAND, DIVIDED WE FALL.
+<lb/>KENTUCKY.</ab></figure>
+<lb/>Head-Quarters Kentucky Volunteers,
+<lb/>ADJUTANT GENERAL'S OFFICE,
+<lb/>Frankfort, <date when="1862-08-20">Aug 20 1862</date>.
+<lb/>Hon:
+<lb/>D. C. Wickliffe
+<lb/>Sec: State
+<lb/>Sir</p>
+<p>I have issued &amp; delivered the following Commissions viz:<table rend="rules">
+<row>
+	<cell>Robert W. Compton</cell>
+	<cell>Q. Master</cell>
+	<cell>date <date when="1862-08-20">Aug 20. 1862</date></cell>
+</row>
+<row>
+	<cell>James A. Dawson</cell>
+	<cell>Adjutant</cell>
+	<cell>" " " "</cell>
+</row>
+<row>
+	<cell>Tho. H. Moore </cell>
+	<cell>2<hi rend="underline"><hi rend="sup">d</hi></hi> Lieut</cell>
+	<cell>" " " "</cell>
+</row>
+<row>
+	<cell>Ezra H. Kilpatrick</cell>
+	<cell>2<hi rend="underline"><hi rend="sup">d</hi></hi> Lieut</cell>
+	<cell>" " " "</cell>
+</row>
+<row>
+	<cell>David A. Harvey</cell>
+	<cell>1st Lieut</cell>
+	<cell><date when="1862-08-16">" " 16 "</date></cell>
+</row>
+<row>
+	<cell>John Walls</cell>
+	<cell>1st Lieut</cell>
+	<cell><date when="1862-08-12">" " 12 "</date></cell>
+</row>
+<row>
+	<cell>Luther Hale</cell>
+	<cell>2d Lieut</cell>
+	<cell>" " " " </cell>
+</row>
+<row>
+	<cell>John T. Fleming</cell>
+	<cell>Surgeon</cell>
+	<cell><date when="1862-08-20">" " 20 "</date></cell>
+</row>
+</table><figure type="hr"/></p>
+<p>Over <pb/>
+<lb/><table rend="rules">
+<row>
+	<cell>Lieut: Davis A. Harvey</cell>
+	<cell>Pro:</cell>
+	<cell>date Com: <date when="1861-10-08">Octo. 8. 1861</date></cell>
+</row>
+<row>
+	<cell>Lieut: John Wall</cell>
+	<cell>Pro:</cell>
+	<cell>" "<date when="1861-12-12"> Dec 12, 1861</date></cell>
+</row>
+<row>
+	<cell>Lieut: Charles W. Huffaker</cell>
+	<cell>resig:</cell>
+	<cell>" " <date when="1862-10-28">Oct 28, 1861</date></cell>
+</row>
+</table></p>
+<p>I am
+<lb/>Resply
+<lb/>Johhn W. Finnell
+<lb/>Adj<hi rend="sup">t</hi> Gen<hi rend="sup">l</hi>.</p>
+  </body>
+ </text>
+</TEI>

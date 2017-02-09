@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1106"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">A. W. Bugler et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10574</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG20-214</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date when="1861-04-25">25 April 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Your Petitioner A: W. Bugbee respectfully represents to His Excellency the Governor of Kentucky; that in <date when="1860-05">May 1860,</date> he was drawing ale to sell in the City of Louisville by the bottle, and by the glass, which was the pure ale and he was doing nothing else. Desirous of complying with the City laws he called in several members of the City Council to taste the ale, So that it might be determined, whether it was necessary for your Petitioner to take out a license to keep a tavern, and that committee ^or members of the council^ recommended your Petitioner to get a certificate from <hi rend="str">a</hi> Physicians, that the ale was useful for medicinal purposes, and by this means an ale license could be obtained costing $50- instead of a tavern license costing $150 dollars which would meet the case. Six or Seven Physicians did give the certificate required. When the whole matter was laid before the council, that body refused to grant the licnse on the ground that it might establish a bad precedent. While the matter was under consideration, three warrants were issued from the Louisville City Court for selling ale without license, but a previous one had been issued, judgment taken and fine paid. When the Council refused the license, the business was stopped, and your Petitioner went to Nashville Tenessee The three warrants were served just before<pb/>
+<lb/>your Petition left and he was fined in his absence $10 dollar on each warrant; $30 dollars in all. The fines were imposed on the <date when="1860-07-12">12<hi rend="sup">th</hi> of July 1860.</date> Capias's were issued against <hi rend="str">against</hi> your Petitioner on yesterday, (he in the mean time having returned to Louisville) and the Same were replevied with Silas F. Miller Security. Your Petitioner respectfully requests a remission of the fines
+<lb/>Louisville <date when="1861-04-25">April 25<hi rend="sup">th</hi> 1861.</date></p>
+<p>A. W. Bugbee</p>
+<p>We request the Governor of Kentucky to grant the prayer of the above Petition.</p>
+<p>Jacob L. Sompers
+<lb/>Silas F Miller
+<lb/>J. B Walker</p>
+<p>Louisville City Ct
+<lb/>$30. -- 3 Judgts
+<lb/>A. W. Bugbee</p>
+<p>Remitted
+<lb/>B. M</p>
+<p>Iss<hi rend="sup">d</hi> <date when="1861-05-03">May 3. 1861</date></p>
+  </body>
+ </text>
+</TEI>

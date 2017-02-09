@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-006-0092"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">William G. Brownlow, Requisition</title>
+    <title level="a" type="parallel">CWG1138</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's Official Correspondence File, Requisitions for the Return of Fugitives from Justice, 1863-1867</collection>
+      <idno>BR6-117 to BR6-117C</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Nashville, Davidson County, Tennessee</placeName>
+    <date when="1865-10-28">28 October 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><figure type="seal"><ab>XVI.
+<lb/>AGRICULATURE.
+<lb/>COMMERCE.</ab></figure>
+<lb/>State of Tennessee,
+<lb/>EXECUTIVE DEPARTMENT.<figure type="hr"/>
+<lb/>To His Excellency the Governor of the State of Kentucky</p>
+<p>Sir: It has been made known to me that a certain John W. Scales, of our County of Williamson, stands charged with having, in the month of <date when="1865-09">September, 1865,</date> with having committed the crime of murder as will more fully appear from an authenticated copy of a states warrant herewith transmitted: And whereas, it has been made known to me that the said John W. Scales has fled from justice, and is now running at large in the State of Kentucky:</p>
+<p>Now, Therefore, I, William G. Brownlow, Governor of the State of Tennessee, in pursuance of the Act of Congress, entitled "An Act respecting Fugitives from Justice," do hereby demand that your Excellency will please cause the said John W. Scales to be arrested, if to be found within the limits of the State over which you preside, and have him safely delivered to Henry Clark, who is appointed Agent on the part of this State to receive the said fugitive from the civil authorities of the State of Kentucky, to the end that he may be brought to the State of Tennessee and dealt with according to law.</p>
+<p><figure type="seal"><ab>THE GREAT SEAL OF THE STATE OF TENNESSEE
+<lb/>XVI
+<lb/>AGRICULTURE
+<lb/>COMMERCE
+<lb/>1796</ab></figure></p>
+<p>InTestimony Whereof, I have hereunto set my hand, and caused the Great Seal of the State to be affixed, at Nashville, on the <date when="1865-10-28">28<hi rend="sup">th</hi> day of October, 1865.</date></p>
+<p>BY THE GOVERNOR:
+<lb/>W. G. Brownlow
+<lb/>A. J. Fletcher
+<lb/>SECRETARY OF STATE.<pb/></p>
+<p>State of Tennessee
+<lb/>Williamson County</p>
+<p>To any lawful Officer of the State Information on oath having been made to me that the offence of murder has ^been^ committed on the body of A S. Oglevie ^on the <date when="1865-09-16">16<hi rend="sup">th</hi> day of Sept 1865^</date> and accusing John W. Scales thereof you are therefore commanded in the name of the State Forthwith to arrest Said Scales and bring him before me or some other magistrate of Said county to answer the charge given under my hand and Seal this ^the^ <date when="1865-09-17">17 day of Sept 1865</date></p>
+<p>W<hi rend="underline"><hi rend="sup">m</hi></hi>. N. Smith J. P. of Williamson county</p>
+<p>After being dewly Sworn I deputise David Ralston To Execute this writ as an officer<pb/></p>
+<p>State of Tennessee
+<lb/>Williamson County</p>
+<p>I William Cummins clerk of the County Court of said County, do Certify, that William N. Smith, whose genuine signature appears to the foregoing Warrant, is and was at the time signing the same, an acting Justice of the Peace, in and for said County, duly elected commissioned and qualified; and that full faith and credit are due his official acts.</p>
+<p><figure type="seal"><ab>WILLIAMSON COUNTY
+<lb/>TENNESSEE</ab></figure></p>
+<p>In testimony of all which I have hereunto set my hand and affixed <hi rend="str"><unclear/></hi>my official Seal at office, this <date when="1865-10-27">27<hi rend="sup">th</hi> day of October 1865.</date></p>
+<p>Wm Cummmins Clk<pb/></p>
+<p>I, ANDREW J. FLETCHER, Secretary for the State of Tennessee, do hereby certify that W<hi rend="sup">m</hi> Cummins, whose official signature is subscribed to the above certificate, and whose seal of office clerk &amp;c is affixed thereto, was at the time the same were so subscribed and affixed, a legally elected, qualified, and commissioned Clerk for the County of Williamson in said State of Tennessee.</p>
+<p><figure type="seal"><ab>THE GREAT SEAL OF THE STATE OF TENNESSEE
+<lb/>XVI.
+<lb/>AGRICULATURE.
+<lb/>COMMERCE.
+<lb/>1796</ab></figure></p>
+<p>IN TESTIMONY WHEREOF, I have hereunto set my official signature, and, by order of His Excellency the Governor, affixed the Great Seal of the State of Tennessee, at the Executive Department, in Nashville, on the <date when="1865-10-28">28 day of October, 1865</date></p>
+<p>A. J. Fletcher
+<lb/>SECRETARY OF STATE.<pb/></p>
+<p>Requisition from Gov of Tennessee
+<lb/>Warrant issued <date when="1865-10-30">30<hi rend="sup">th</hi> Oct 1865</date></p>
+<p>States warrant
+<lb/>vs
+<lb/>John W. Scales</p>
+  </body>
+ </text>
+</TEI>

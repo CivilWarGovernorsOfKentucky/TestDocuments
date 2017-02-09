@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-153-0100"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Boyle to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG14222</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>Assistant Adjutant General Letter Book - No. 1 ; 5 Sept 1863 - 2 Feb 1864</collection>
+      <idno>480 to 481</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1864-01-23">23 January 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><note place="header">480</note>
+<lb/><date when="1864-01-23">Jan 23<hi rend="underline"><hi rend="sup">rd</hi></hi> <gap/>4</date>
+<lb/>His Excellency
+<lb/>Tho<hi rend="sup">s</hi> E. Bramlette -- 
+<lb/>Governor of Ky.
+<lb/>Frankfort -- Ky.
+<lb/>Governor,</p>
+<p>In response to the communication of Stephen N. M<hi rend="sup">c</hi>Intire -- Co "F" -- 24<hi rend="underline"><hi rend="sup">th</hi></hi> Ky. Vols -- tendering his resignation because of Capt. T. J. Bush<hi rend="underline"><hi rend="sup">s</hi></hi> appointment, and bearing several endorsements -- enclosed to your Excellency -- and referred to this office, I make the following statements.</p>
+<p>T. J. Bush was commissioned 1<hi rend="underline"><hi rend="sup">st</hi></hi> Lieut -- 24<hi rend="underline"><hi rend="sup">th</hi></hi> Ky. Vols on <date when="1861-12-30">30<hi rend="underline"><hi rend="sup">th</hi></hi> Dec. 1861</date> -- but never assigned to a company. Being assigned to the only exisiting vacancy when the matter was laid before this Department on <date when="1863-09-03">3<hi rend="underline"><hi rend="sup">rd</hi></hi> Sept. 1863</date> -- it was found that he was the ranking officer of the Co. by nearly one year -- Lieut M<hi rend="sup">c</hi>Intire having been commissioned <date when="1862-11-08">Nov. 8<hi rend="underline"><hi rend="sup">th</hi></hi> 1862</date> -- and he was consequently commissioned as Captain. Attention was called to this matter by Brig. Gen. Boyle -- then comm'd'g Dist. of Ky. who pronounced Bush a meritorious officer. The date of his<pb/>
+<lb/>commission as Lieut -- being the oldest officer of his rank in the regiment -- and unassigned to a company -- justtified his promotion above those whom he ranked. It is not within the province of this Department to enquire if each officer remains with his command, or is doing service in some other way. It is presumed if he is on detached duty -- his commanding officers think he can best serve the cause by being so detached. We, at least, have no decision in the matter, and cannot be responsible for the results.</p>
+<p>As to the paltry and indelicate insinuation that political reasons influenced the promotion of Bush, it is scarcely necessary to pronounce it false -- his promotion was made on the recommendation of his commanding officer, and because he was in the direct line for pormotion. Had an officer of inferior rank been exalted above him such charge might indeed have received color from the fact.</p>
+<p>Respectfully
+<lb/>Your obe't Serv't
+<lb/><hi rend="underline">John Boyle</hi>
+<lb/>Adjt. Gen. of Ky.</p>
+  </body>
+ </text>
+</TEI>

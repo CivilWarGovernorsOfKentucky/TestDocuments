@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2975"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">J. D. Browning et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7612</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR43-61 to BR43-62</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency Thomas Bramlett 
+<lb/>Gov<hi rend="str">er</hi> of Kentucky -- </p>
+<p>The undersigned Citizens of Madisonville &amp; Hopkins County would respectfully represent that our Fellow Citizen Benjamin J Pritchett -- was fined a few days Since In our police-Court, the Sum of ten Dollars on a charge, of assaling -- One of our Citizens by drawing a gun with in probable distance for the gun to carry --. We understand that Mr Pritchett, did draw or raise his gun but believe it was not with the intention -- of shooting as the gun was unloded and otherwise out of repair -- we Know M<hi rend="underline"><hi rend="sup">r</hi></hi> Pritchett to be A very poor man, and that he has a large and helpless Family -- and think him in Evry way -- deserving Executive clemency</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>J D Browning
+<lb/>John. T. Scott
+<lb/>Jn<hi rend="sup">o</hi> G. Morton
+<lb/>J. N. Taliafarro J. P.
+<lb/>N. M. Holeman
+<lb/>F. M. Nisbet Trustee
+<lb/>J. Q. Adams ,,
+<lb/>J C Nisbet,, M,, D,,
+<lb/>H. F. Bourland
+<lb/><cb n="2"/>James H. Pritchett
+<lb/>J. B. Ross
+<lb/>A K Bradley Co atty Protem<pb/></p>
+<p><milestone unit="column" n="1"/>Madisonville Polic
+<lb/>Ct vs
+<lb/>B. J. Pritchard</p>
+<p>refused</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1541"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Sarah Jane Harrison and Nancy Tucker, Jr., Affidavit</title>
+    <title level="a" type="parallel">CWG6178</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR12-384 to BR12-385</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Casey County, Kentucky</placeName>
+    <date when="1865-03-07">7 March 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>State of Kentucky
+<lb/>Casey County <hi rend="str">S</hi> SS</p>
+<p>Affiants Sarah Jane Harrison &amp; Nancy Tucker Jr state <unclear>that</unclear> they were at Nancy Tuckers in Casey County on the <date when="1864-11-30">30 day of November 1864</date> -- and that Mr Robert, Shively -- Mr John Brownfield -- Mr Thomas Capeheart rode up to the house of the S<hi rend="sup">d</hi> Nancy Tucker and enquired for and searched the house of s<hi rend="sup">d</hi> Nancy Tucker for W. B. Tucker stating that if they could find him they would blow his ^damned^ brains out, &amp; that they believe that if they had found him they would have killed him -- The above named men who made the above threat live in Taylor County Ky and not more than Eight miles from W. B. Tuckers place of residence -- And that said W. B. Tucker would be in danger of lossing his life by comeing in that region of Country and is absent from that cause for his personal safety -- </p>
+<p>Sarah J ^her X mark^ Harrison
+<lb/>Nancy ^her X mark^ Tucker Jr</p>
+<p>Subscribed and sworn to before<pb/>
+<lb/>me by Sarah J. Harrison and Nancy Tucker Jr this <date when="1865-03-07">7<hi rend="sup">th</hi> day of March 1865.</date></p>
+<p>T W Wash Exr c c</p>
+<p>state of Kentucky
+<lb/>Casey County</p>
+<p>Affiant S. B. Harrison states that on the morning of the <date when="1864-11-30">30<hi rend="sup">th</hi> November 1864</date> in one half hour after the men named in the affidavit of Mr<hi rend="sup">s</hi> Harrison &amp; Miss Tucker above had left Tucker came on the place near home and this affiant and Lee Harrison met him and informed him of the threats that had been made against his life -- and advised him to leave -- whereupon he leaped from his horse and took to the bushes -- and apon their advice he left the country and has not been back since -- </p>
+<p>S. B. Harrison</p>
+<p>Subscribed &amp; sworn to before me this <date when="1865-03-07">7<hi rend="sup">th</hi> day of March 1865</date></p>
+<p><hi rend="underline">T W Wash</hi> Exr c c
+<lb/><stamp type="revenue">T W W
+<lb/><date when="1865-03-07">Mar 7 1865</date></stamp><pb/></p>
+<p>Nancy Tucker
+<lb/>Sarah J. Harrison<figure type="hr"/>
+<lb/>Affidavits</p>
+  </body>
+ </text>
+</TEI>

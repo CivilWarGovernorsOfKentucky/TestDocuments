@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-018-0155"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John W. Finnell to Nathaniel Gaither, Jr.</title>
+    <title level="a" type="parallel">CWG8221</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Military Appointments, 1859-1862</collection>
+      <idno>MG6-260</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1861-12-18">18 December 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><figure type="seal"><ab>UNITED WE STAND, DIVIDED WE FALL.
+<lb/>KENTUCKY.</ab></figure>
+<lb/>Head-Quarters Kentucky Militia,
+<lb/>ADJUTANT GENERAL'S OFFICE,
+<lb/>Frankfort, <date when="1861-12-18">18 Decr 1861</date>.</p>
+<p>Hon: 
+<lb/>Nat Gaither Jr:
+<lb/>Dear Sir</p>
+<p>The Commissions of
+<lb/>William P. Roper Captain
+<lb/>James H. Coffman 1<hi rend="sup">st</hi> Lieut
+<lb/>Saml. Kenbrugh 2<hi rend="sup">d</hi>. " } all of which were dated <date when="1861-11-14"><hi rend="underline">14 Novr 1861</hi></date>-
+<lb/>but should be <date when="1861-10-13"><hi rend="underline">13 October 1861</hi></date>, as per certificate filed here- please change your record-</p>
+<p>I send Six Commissions which please prepare &amp; return-</p>
+<p><table rend="rules">
+<row>
+	<cell>Octo</cell>
+	<cell><date when="1861-10-23">23</date>.</cell>
+	<cell>1861</cell>
+	<cell>John Powers.</cell>
+	<cell>Captains</cell>
+	<cell>1</cell>
+</row>
+<row>
+	<cell>"</cell>
+	<cell><date when="1861-10-22">22</date>.</cell>
+	<cell>"-</cell>
+	<cell>Oliver D. Botner</cell>
+	<cell>D<hi rend="underline"><hi rend="sup">o</hi></hi></cell>
+	<cell>2</cell>
+</row>
+<row>
+	<cell>"</cell>
+	<cell><date when="1861-10-23">23</date>_</cell>
+	<cell>"-</cell>
+	<cell>Wiley C. Patrick</cell>
+	<cell>1<hi rend="underline"><hi rend="sup">st</hi></hi> Lieut</cell>
+	<cell>3</cell>
+</row>
+<row>
+	<cell>"</cell>
+	<cell><date when="1861-10-22">22</date></cell>
+	<cell>"-</cell>
+	<cell>John C. Collins</cell>
+	<cell>D<hi rend="underline"><hi rend="sup">o</hi></hi></cell>
+	<cell>4</cell>
+</row>
+<row>
+	<cell>"</cell>
+	<cell><date when="1861-10-23">23</date></cell>
+	<cell>"-</cell>
+	<cell>Henry G. Gardner</cell>
+	<cell>2<hi rend="underline"><hi rend="sup">d</hi></hi> Lieut</cell>
+	<cell>5</cell>
+</row>
+<row>
+	<cell>"</cell>
+	<cell><date when="1861-10-22">22</date></cell>
+	<cell>"-</cell>
+	<cell>L. Pitman Davenport</cell>
+	<cell>D<hi rend="underline"><hi rend="sup">o</hi></hi></cell>
+	<cell>6</cell>
+</row>
+</table></p>
+<p>Very Resp<hi rend="sup">y</hi>
+<lb/>John W. Finnell
+<lb/>Adj<hi rend="sup">t</hi> Gen<hi rend="sup">l</hi><pb/></p>
+<p>Entered <date when="1861-12-18">Dec<hi rend="sup">r</hi> 18. 1861</date></p>
+  </body>
+ </text>
+</TEI>

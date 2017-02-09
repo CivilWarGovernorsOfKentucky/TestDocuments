@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-023-0019"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">M. D. Martin et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG2932</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, 1859-1862</collection>
+      <idno>MG1-194</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Harrison County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency the Governor of Kentucky:</p>
+<p>WE the undersigned, citizens of Harrison County, protest against the Governor of the State calling a Convention, for the following reasons:</p>
+<p>First: Because the Legislature is alone authorized by the Constitution to call a Convention, and the Governor has no power to do so; that a Convention which would be called by him would be illegal, revolutionary, and the principle if acquiesced in, will inevitably lead to anarchy and the destruction of Constitutional Liberty.</p>
+<p>Second: It will unnecessarily lead to additional taxation.<figure type="hr"/></p>
+<p>M, D, Martin
+<lb/>John Craig
+<lb/>W, H, Martin
+<lb/>D. F. Lemmon
+<lb/>John Sellers Jr
+<lb/>Henry Sellars
+<lb/>F, M, Robertson
+<lb/>David Vanarsdell
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> R. M<hi rend="underline"><hi rend="sup">c</hi></hi>Candless
+<lb/>John P Gruwelle
+<lb/>D, B, Lemmon
+<lb/>J V. Scott
+<lb/>John Slade
+<lb/>N, M, Eddleman
+<lb/>Garrett J Whitson
+<lb/>James P Baird
+<lb/>C L. Brashears
+<lb/>W<hi rend="sup">m</hi> M<hi rend="sup">c</hi>Murphy
+<lb/>B. S. Dean
+<lb/>John,,,, T, M<hi rend="sup">c</hi>Kinly
+<lb/>John Ekler sen</p>
+  </body>
+ </text>
+</TEI>

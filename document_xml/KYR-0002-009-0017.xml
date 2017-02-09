@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-009-0017"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Mason Brown to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG11484</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Amanda Boczar</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>45th, 47th, 48th, and 49th Regiments Kentucky Infantry Muster Rolls</collection>
+      <idno>Box 41, Bundle 2</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Lexington, Fayette County, Kentucky</placeName>
+    <date when="1864-04-12">12 April 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>H<hi rend="sup">d</hi> Q<hi rend="sup">rs</hi> 45<hi rend="sup">th</hi> Ky Mt<hi rend="sup">d</hi> Infy Vols
+<lb/>Lexington Ky <date when="1864-04-12">12<hi rend="sup">th</hi> Ap<hi rend="sup">l</hi>, 1864</date>
+<lb/>To his Excellency Gov<hi rend="sup">r</hi> Bramlette
+<lb/>Sir</p>
+<p>I respectfully request that a commission may be ordered to issue to <hi rend="underline">Joseph</hi> <hi rend="underline">L</hi>. <hi rend="underline">Rowland</hi> as 2<hi rend="sup">nd</hi> Assistant Surgeon in my Regiment --  -- =45<hi rend="underline"><hi rend="sup">th</hi></hi> Ky Infy <date when="1864-04-12">April 12. 1864=</date><note place="left margin">1. 2. 3. 4</note></p>
+<p>The circumstances in this case are somewhat Peculiar and sufficient I hope to induce your Excellency to depart from the rule requiring a certificate of Examination from the Medical Board -- </p>
+<p>Rowland is an enlisted -- man of C<hi rend="sup">o</hi> "C" and has acted as Asst Surgeon since the organization of the Regiment, I can bear the fullest testimony to his zeal, efficiency and abilty, and know of no man in the service who has more fully earned promotion than he.</p>
+<p>I have the honor to be
+<lb/>Very respectfully Your Ob<hi rend="sup">dt</hi> Sv<hi rend="sup">t</hi>
+<lb/>Jno: Mason Brown
+<lb/>Col 45<hi rend="sup">th</hi> Ky Mt<hi rend="sup">d</hi> Inf Vols<pb/></p>
+<p>Issue Coms as requested
+<lb/>T E Bramlette<pb/></p>
+<p>H<hi rend="underline"><hi rend="sup">d</hi></hi> qrs 45<hi rend="underline"><hi rend="sup">th</hi></hi> Infy
+<lb/><note place="left margin"><hi rend="underline">45 Infy</hi></note>
+<lb/>Lexington Ky
+<lb/><date when="1864-04-12">April 12<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date><figure type="hr"/>
+<lb/>Brown. Jn<hi rend="sup">o</hi> M
+<lb/>Col.<figure type="hr"/></p>
+<p>Recommends that a commission be issued to Jos L Rowland as 2 <hi rend="str">Lt</hi> Asst Surgeon of thr 45<hi rend="underline"><hi rend="sup">th</hi></hi> Infty.<figure type="hr"/></p>
+<p>Issue commission as Requested
+<lb/>"T E Bramlette"
+<lb/>Issue <hi rend="underline">Boyle</hi>
+<lb/><note place="left margin">Com issued found
+<lb/><date when="1864-04-14">April 14. 1864</date></note><figure type="hr"/>
+<lb/>Rec<hi rend="sup">d</hi> A G. O. <date when="1864-04-13">13" Apr<hi rend="sup">l</hi> 1864</date>.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0303"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">William H. Towne, Oath</title>
+    <title level="a" type="parallel">CWG1968</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Appointments by the Governor, Civil Appointments, 1863-1867</collection>
+      <idno>BR2-190 to BR2-191</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Boston, Suffolk County, Massachusetts</placeName>
+    <date when="1864-10-11">11 October 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>The State of Massachusetts
+<lb/>County of
+<lb/>City of Boston</p>
+<p>I, William H. Towne having been duly appointed &amp; commissioned by his Excellency Thos E. Bramlette Governor of the Commonwealth of Kentucky a Commissioner of Deeds (in Massachusetts) for the State of Kentucky, for the term of four years from <date when="1864-10-05">5<hi rend="sup">th</hi> day of October 1864</date> -- do swear that I will well &amp; truly execute &amp; perfom all the duties of my station as such commissioner. So help me God</p>
+<p>William H. Towne</p>
+<p>Sworn to by the said W<hi rend="sup">m</hi> H. Towne before me and by him subscribed in my presence, at Boston Massachusetts this the <date when="1864-10-11">11 day of October 1864</date>, as witness my hand and seal affixed on the day &amp; date aforesaid.</p>
+<p>Geo. M. Hobbs
+<lb/>Jus Peace <figure type="seal"/><pb/></p>
+<p>Comr Deeds
+<lb/>Massachusetts
+<lb/>Oath of W<hi rend="sup">m</hi> H. Towne
+<lb/>Filed <date when="1864-10-14">14<hi rend="sup">th</hi>
+<lb/>Oct/64.</date> Date
+<lb/>of Com<hi rend="sup">r</hi>mission
+<lb/><date when="1864-10-05">5<hi rend="sup">th</hi> Oct/64</date></p>
+  </body>
+ </text>
+</TEI>

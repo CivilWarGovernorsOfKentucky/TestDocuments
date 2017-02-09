@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1671"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John W. Morgan to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG11139</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Andrew P Patrick</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG22-341 to MG22-342</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Harrodsburg, Mercer County, Kentucky</placeName>
+    <date when="1862-02-10">10 February 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To B. Magoffin 
+<lb/>Govenor of Kentucky,</p>
+<p>Your Petitioner John W. Morgan would most respectfully represent to Your Excellency that on the <date when="1860-03-22">22<hi rend="underline"><hi rend="sup">nd</hi></hi> day of March 1860</date>. he signed two bonds and became the surety of W H. Danil for his appearance in the Marion Circuit Court on the first day of the next day <date when="--05">May</date> term of said Court -- that said Daniel was charged <hi rend="str">and</hi> with setting up a ^or games^ game of Faro in the County of Marion and according to the obligations of the bonds your Petitioner had executed appeared in Court at the proper time and upon <hi rend="str">arrangement</hi> Consent of the Court acknowledged Judgment in case for the sum of $500, and costs. Your Petitioner expressly states that when he signed said bonds he only intended to become the security of said Daniel ^for his appearance in Court^ and did not believe that the was rendering himself liable for any penalty<pb/>
+<lb/>that said Daniel may have incurred in consequence of the violation of any law -- that if he had have thought that he was bound for anything else save the appearance of said Daniel in Court he never would have signed said bonds. He further says that upon the two Judgments confessed by said Daniel (amounting to $1000, &amp; costs) executions have issued from the office of Marion Circuit Court against your Petitioner and are now in the hands of the Sheriff of Mercer County for collection and that your Petitioner to ^pay^ pay them unless relieved by the interposition of your Excellency. He says that it is a case of extreme hardship &amp; injustice to him -- that if it is really the law for him to be held responsible for anything more than the appearance of Daniel he did not so understand it at the<pb/>
+<lb/>time he signed said bonds and that he has been deceived! He therefore asks of your Excellency to interpose and afford him all the relief in your power.</p>
+<p>John W. Morgan
+<lb/>Harrodsburg <date when="1862-02-10">Feb 10<hi rend="underline"><hi rend="sup">th</hi></hi> 1862</date></p>
+<p>Sworn to before me. Presiding Judge of the Mercer County Court by John W. Morgan this <date when="1862-02-11">11th day of Febuary 1862</date>.</p>
+<p>Chs Chinn P J M C C</p>
+<p>We the undersigned join in the prayer of the foregoing Petition</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Names
+<lb/><cb n="2"/>Names<pb/></p>
+<p><milestone unit="column" n="1"/>John W. Morgan
+<lb/>To } Petition
+<lb/>Governor<figure type="hr"/>
+<lb/>Marion Cir Ct.
+<lb/>Remitted 
+<lb/>B. M
+<lb/>$500 2 cases } Recognizance
+<lb/>Iss<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1862-02-13">Feby 13. 1862</date></p>
+  </body>
+ </text>
+</TEI>

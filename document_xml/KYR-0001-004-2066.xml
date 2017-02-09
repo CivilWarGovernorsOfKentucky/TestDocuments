@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2066"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Nathan McClure to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6703</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR14-258</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Russell County, Kentucky</placeName>
+    <date when="1865-07">July 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency Gov. Thomas E. Bramlette</p>
+<p>Your petitioners Nathan M<hi rend="sup">c</hi>Clure States that he was indicted by a Grand jury of Russell county and at the <date when="1865-04">April Term of the Russell Circuit Court 1865</date>. he was fined $100. for Keeping a Tipling house for three months. He states that he obtained from the United States deputy assessor a licence as a distiller to manufacture Whiskey that at the time he applied for said licence he was informed by said assistant assessor that said licence would authorize your petitioner to sell spirits in any quantities. that <hi rend="str">said</hi> he put confidence in what was told him by said assistant ass<hi rend="underline"><hi rend="sup">r</hi></hi> and did sell spirits by the small without thinking that the state laws prohibited the selling of spirits by distillers by the small or less than a quart. for the reason above given your petitioner respectfully asks your excellency to remit said fine and in duty bound will ever pray.</p>
+<p>Nathan M<hi rend="sup">c</hi>Clure</p>
+<p>Sworn to and Subscribed by Nathan M<hi rend="underline"><hi rend="sup">c</hi></hi>Clure before me a justice of the peace for Russell County this <gap/> day of <date when="1865-07">July 1865</date>.</p>
+<p>S P Collins J. R. C <hi rend="str">J. P. R. C</hi></p>
+<p>We the undersigned join in the prayer <hi rend="str">for</hi> <hi rend="str">the</hi> of the petitioners Nathan M<hi rend="sup">c</hi>Clure for the remission of the above named fine.</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>George Bryan
+<lb/><hi rend="underline">Jacob A Williams
+<lb/></hi><cb n="2"/>S P Collins P J R C C
+<lb/>John Price
+<lb/>W. T Jackman S. R. C<pb/></p>
+<p><milestone unit="column" n="1"/>Russell Cir Ct
+<lb/>vs
+<lb/>Nathan M<hi rend="sup">c</hi>Clure
+<lb/>$100,
+<lb/>Tipling
+<lb/><date when="1865-08-18">18. Aug /65</date></p>
+<p>Sent for fee
+<lb/><date when="--07-25">25 July</date></p>
+  </body>
+ </text>
+</TEI>

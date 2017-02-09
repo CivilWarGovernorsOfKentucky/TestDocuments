@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2031"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">J. C. Wilmore to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6668</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR14-197</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Nicholasville, Jessamine County, Kentucky</placeName>
+    <date when="1865-06-19">19 June 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><milestone unit="column" n="3"/><cb n="1"/>S. NOLAND.
+<lb/><cb n="2"/>&gt;GEO. T. HORD.
+<lb/><cb n="3"/>W. W. GEORGE, JR.
+<lb/><milestone unit="column" n="1"/>NOLAND, HORD &amp; GEORGE, Bankers,
+<lb/>Nicholasville, Ky., <date when="1865-06-19">June 19. 1865</date>
+<lb/>His Excel Tho E. Bramlette Gov. Ky.
+<lb/>Dr Sir.</p>
+<p>An application will be made to you to pardon John Scott &amp; Joseph Chrisman indicted in this County for Mule Stealing -- The mules belonged to me -- I have known the young men from their infancy -- They were considered clever young me before this transaction, and they belong to our very best families -- I am satisfied they were under the influence of liquor when the mules were taken, and I believe if you will pardon them they will be good citizens -- I hope you will grant their pardon -- </p>
+<p>Yours very Truly.
+<lb/>J. C. Wilmore</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0851"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">C. W. Honaker to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG4970</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR10-310</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Owingsville, Bath County, Kentucky</placeName>
+    <date when="1864-05-16">16 May 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency Tho<hi rend="sup">s</hi>. E. Bramblett Governor of Ky.</p>
+<p>The undersigned Citizens of Bath County would represent That at the <date when="1863-12">December Term 1863</date> of the Bath Circuit Court. C. W. Honaker was fined $20. for selling spiritous liquor to George Trumbo a Minor, that the offense is alledged to have been committed between <date when="--06-01">1<hi rend="underline"><hi rend="sup">st</hi></hi> June</date> (the time when the act took effect) and the <date when="--09-01">1<hi rend="sup">st</hi> of September</date>, when the character of the act was known to but few. That said Trumbo has the appearance of being 21 years of age and That we are satisfied said Honaker did not know of the existence of said act at the time nor did he know but Trumbo was of age and that he did not intend to violate the said statute. and as an evidence of the clemency of the Com<hi rend="sup">th</hi> Attorney who was familiar with the facts, he permitted Honaker to confess Judgement as aforesaid. (and signed the petition for a remission)</p>
+<p>The above is substantially the contents of a petition signed by about 25. of the best Citizens ^of this Circuit^ which I sent you by Hon. A. Trumbo and which I understand has been lost or mislaid. Mr Watkins informs me that you wished a statement of the facts which is now given as above.</p>
+<p>C W Honaker</p>
+<p>Owingsville Ky.
+<lb/><date when="1864-05-16">May 16<hi rend="sup">th</hi> 1864</date>-<pb/></p>
+<p>C. W. Honaker
+<lb/>Petition for Remission of a fine of $20.<hi rend="sup">xx/100</hi> in Bath Circuit Court <date when="1863-12">December Term 1863</date>.<figure type="hr"/>Tipling
+<lb/>Remit
+<lb/><date when="1864-07-12">12<hi rend="sup">th</hi> July/64</date></p>
+  </body>
+ </text>
+</TEI>

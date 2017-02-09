@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-031-0163"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">C. Ripley to Daniel C. Wickliffe </title>
+    <title level="a" type="parallel">CWG7903</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Appointments by the Governor, Civil Appointments, 1862-1863</collection>
+      <idno>R1-223 to R1-224</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date when="1863-03-03">3 March 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Louisville
+<lb/><date when="1863-03-03">Mar 3 -- 1863</date>
+<lb/>My dear Sir</p>
+<p>I have received a line from Mr Henry M. Parker of Boston Mass, requesting me to ask for him a commission to take depositions acknowledgements &amp;c in that state to be used in this</p>
+<p>Mr Parker is a lawyer of high standing, and a man of honor and integrity: in "politics" if the word expressses the views of a man in this tremendous juncture of affairs, an old Clay Whig who deplores all the radical acts of the present administration, but not ready to turn traitor to his country.</p>
+<p>If you can send me a commission for him<pb/>
+<lb/>as above suggested consistently with the public service I shall esteem it as a great favor, which I will reciprocate when I get to be secretary of state_and long before when opportunity may offer</p>
+<p>Yours truly
+<lb/>C Ripley</p>
+<p>Hon D C Wickliffe
+<lb/>Frankfort<pb/></p>
+<p>Massachusetts<figure type="hr"/>
+<lb/>Com<hi rend="underline"><hi rend="sup">r</hi></hi> of Deeds
+<lb/>H. M. Parker
+<lb/>Boston
+<lb/>Com Iss<hi rend="sup">d</hi> <date when="1863-03-06">Mar 6. 1863.</date></p>
+  </body>
+ </text>
+</TEI>

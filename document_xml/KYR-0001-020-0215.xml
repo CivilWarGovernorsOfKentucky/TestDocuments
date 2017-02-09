@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0215"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Michael D. Stretch to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG9683</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG17-175</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Boyle County, Kentucky</placeName>
+    <date when="1860-11-28">28 November 1860</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency the Governor of Ky</p>
+<p>Your Petitioner Michael D Stretch states that at the <date when="1860-02">Feburary Term</date> of the Boyle Circuit Court he was tried and fined $50 -- under an indictment charging him with trading with a negro He states that upon a former Petition your Excellency respited said fine for eight months said respite expired on the <date when="1860-11-12">12<hi rend="sup">th</hi> day of this month</date>. He states that the officers of the law are about to carry into execution said judgment &amp; the result will be his incarceration in jail as he is unable to pay the sum, He states that he has been unable to do and perform any work for several months on account of great &amp; severe affliction in his eyes. he states that he has a wife &amp; three children &amp; he &amp; they are almost in a starving condition on account of his inability to perform so little labor, In view of all these facts he prays your Excellency to remit said fine as in duty bound will ever pray</p>
+<p>Michael D Stretch</p>
+<p>Sworn to before me by Michael D Stretch <date when="1860-11-28">Nov 28<hi rend="sup">th</hi> 1860</date></p>
+<p>Att Jas. F. Zimmeran Clk
+<lb/>By Geo. D. Boldrich D. C.<pb/></p>
+<p>We join in the prayer of the within petition </p>
+<p>M Shemham
+<lb/><hi rend="underline">A, Gallatin Talbott</hi></p>
+<p>Boyle Cir. Ct.
+<lb/>$50 } Trading with a slave
+<lb/>M. D. Streatch
+<lb/>Resp<hi rend="sup">d</hi> 12 Mos
+<lb/>Iss<hi rend="sup">d</hi> <date when="1860-12-10">Dec 10. 1860</date></p>
+<p>Respite 12 mo
+<lb/>B, M</p>
+  </body>
+ </text>
+</TEI>

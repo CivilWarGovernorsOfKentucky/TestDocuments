@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0471"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">J. M. Thomas to Unknown</title>
+    <title level="a" type="parallel">CWG2136</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Appointments by the Governor, Civil Appointments, 1863-1867</collection>
+      <idno>BR2-418</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Graves County, Kentucky</placeName>
+    <date when="1865-07-10">10 July 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To the Honorable the County Judge of Graves County Ky.</p>
+<p>I hereby resign my Position as Magistrate of the Sixth district of Graves County Ky. <date when="1865-07-10">July 10<hi rend="sup">th</hi> 1865</date></p>
+<p>J. M. Thomas</p>
+<p>A copy Attest 
+<lb/>J. T. Botinger Clk. of Graves County Court. 
+<lb/>By J. H. Robbins D. C.</p>
+<p>State of Kentucky
+<lb/>Graves County Court Sct</p>
+<p>Regular <date when="1865-07-17">July Term
+<lb/> -- 17th 1865</date></p>
+<p>J. M. Thomas a Justice of the Peace in district N<hi rend="sup">o</hi>. 6 having produced his resignation in Court It was ordered to ^be^ filed copied &amp; certified to the Governor for his action</p>
+<p>A Copy Attest
+<lb/>J. T. Bolinger C. G. C. C.
+<lb/>By J. H. Robbins D. C.</p>
+<p>I am requested by citizens to make the following Suggestion to your Honor, to wit, as the <date when="1865-08">Aug<hi rend="sup">st</hi></date> Election is so near that you make no appointment but only issue the writ of Election. But should you deem it proper to fill the vacancy by appointment. The name of W. L. Haynes is proposed as a Suitable person to fill the vacancy -- </p>
+<p>Yours Respectfully -- 
+<lb/>J. H. Robbins<pb/></p>
+<p>Justice Peace
+<lb/>Graves Co
+<lb/>Resignation of J M Thomas
+<lb/><date when="1865-07-24">24 July 1865</date></p>
+  </body>
+ </text>
+</TEI>

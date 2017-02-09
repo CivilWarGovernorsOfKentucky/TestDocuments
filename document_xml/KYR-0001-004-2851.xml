@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2851"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">R. K. Williams et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7488</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR17-141</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency Thos. E. Bramlette </p>
+<p>the undersigned R K Williams was the judge who presided at the trial and Conviction <hi rend="str">of</hi>W. P. Clark for horse steeling in the M<hi rend="sup">c</hi>Cracken circuit court, after he <hi rend="str"><unclear/></hi>was released from the Penetientiary he prosecuted W<hi rend="sup">m</hi> Morse for stealing the same horse which resulted in his conviction for eight years, over six years of which has elapsed, he therefore joins in the petition with the several members of the legislature in asking that said Moore be pardoned,</p>
+<p>R K Williams
+<lb/><milestone unit="column" n="2"/><cb n="1"/>G. W Carlisle
+<lb/>J<hi rend="underline"><hi rend="sup">as</hi></hi> P. Ford
+<lb/>Jas Wood
+<lb/>C R Craycroft
+<lb/>J W, Finnie
+<lb/>Richd Gregory
+<lb/>Lewis Myers
+<lb/>B. F. Cockrell
+<lb/>M. J. Williams
+<lb/>H. S. Wright
+<lb/>John H Reynolds
+<lb/>W R Bradley
+<lb/>C. T. Worthington
+<lb/><cb n="2"/>J,, W,, Ogilvie
+<lb/>W. T. Chiles
+<lb/>N. R. Black
+<lb/>J. N. Yardell
+<lb/>James Brien
+<lb/>Tho<hi rend="sup">s</hi> H Corbett
+<lb/>Jos, B. Woolfolk
+<lb/>J D Lillard
+<lb/>Wm Fishers
+<lb/>W G Connor
+<lb/>Theodore Thompson
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Beadles
+<lb/>J M Corbin<pb/></p>
+<p><milestone unit="column" n="1"/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Moore has been a well behaved man, and I think is intitled to Executive clemency</p>
+<p>H I Todd</p>
+<p>M<hi rend="sup">c</hi>Cracken Cir Ct
+<lb/>vs
+<lb/>W<hi rend="sup">m</hi> Moore
+<lb/>8 years
+<lb/>Sentenced <date when="1859">1859</date>
+<lb/>Pardoned <date when="1865-12-15">15 Dec 1865</date></p>
+  </body>
+ </text>
+</TEI>

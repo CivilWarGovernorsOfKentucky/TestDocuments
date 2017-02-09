@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2508"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Hillery Rhodes to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7145</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR16-13 to BR16-14</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Lebanon, Marion County, Kentucky</placeName>
+    <date when="1865-10-17">17 October 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Lebanon <date when="1865-10-17">October 17/1865</date>
+<lb/>To his Excellency Thomas E. Bramlette
+<lb/><hi rend="str">Hillery Rhodes</hi></p>
+<p>your petitioner Hillery Rhodes stats that ^at^ the <gap/> term <date when="1864">1864</date> of the Marion Circuit court he was indicted by the Grand jury of said county and charged with the offence of assault and Battery upon James Craig. And he further states that at the <date when="1865-08">August term 1865</date> of the Marion Circuit Court he was fined the sum of twenty dollars ($20<hi rend="underline"><hi rend="sup">00</hi></hi>) your petitioner states that he is in very indigent circumstances and has a large family dependent upon hom for support he has no way of supporting his famiy Except to work by the day. and small as this sum is it will be a severe hardship for him to be compeled to pay it your petitioner humbly requests and prays your Excellency to remit the said fine -- </p>
+<p>Hillery Rhodes</p>
+<p>The undersigned loyal citizens of Marion county believing the above case to be one Eminently deserving the interposition of Executive clemency join in the foregoing petition</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>1<hi rend="str">3</hi>2. W. J. Clements
+<lb/>13 W. N. Miles of the 37. mounted infantry
+<lb/>14. Thomas Miles
+<lb/>15 Ambrose, Smith
+<lb/>16 F D Greenwell
+<lb/>17 S. O. Hancock
+<lb/>18 Tho<hi rend="underline"><hi rend="sup">s</hi></hi> A Luckett
+<lb/>19 S S Mudd
+<lb/>20 R. S. OBryan
+<lb/>21 Jas H,, Hagan
+<lb/>22 James Boarman
+<lb/>23 Will. E. Ray -- 
+<lb/><cb n="2"/>1 -- J. R. Thomas
+<lb/>2. John S Hagan
+<lb/>3 W. P Beauchamp late enrolling officer of Marion &amp; Nelson counties
+<lb/>4 James carico
+<lb/>5 J K Thompson
+<lb/>6 Thomas Brannan of the 16<hi rend="sup">th</hi> Regulars
+<lb/>7. Ben F. Russell.
+<lb/>8 Joh. H. Clements
+<lb/>9 F D Green
+<lb/>10 W<hi rend="underline"><hi rend="sup">m</hi></hi> Odaniell
+<lb/>11 J. M Hardisty<pb/>
+<lb/><milestone unit="column" n="1"/>S T Ray 25
+<lb/>Henry Beaver 26
+<lb/>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> L. Fogle 27
+<lb/>G. W Bowles 28
+<lb/>J E Miles 29
+<lb/>J. W. Jarboe 30
+<lb/>James Malone 31
+<lb/>Joseph Blair 32
+<lb/>Charles Mattingly 33
+<lb/>Simeon Mattingly 34
+<lb/>E. A. Byrne 35
+<lb/>Nicholas Browning 36
+<lb/>Elijah Shockney 37
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Gardner 38
+<lb/>Jas dolittle 39
+<lb/>Thos. H. Payne 40
+<lb/>T. W. Walker 41
+<lb/>W W Smith
+<lb/>James Elder 50<pb/></p>
+<p>Marion Cir Ct
+<lb/>vs
+<lb/>H. Rhodes
+<lb/>$20
+<lb/>assault
+<lb/>Remitted <date when="1865-10-23">23 Oct /65</date></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0417"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Mary Weir, Affidavit</title>
+    <title level="a" type="parallel">CWG9885</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG18-148</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date when="1860-10-12">12 October 1860</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>City Court of Louisville
+<lb/>Comth of Kentucky Plff
+<lb/>vs } Affadavit
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Beck. Cha<hi rend="sup">s</hi> Reel &amp; Casper Winterstein Defts</p>
+<p>The Affiant Mary Weir, states that she was at Mrs Brockmans house, on the night that said Mrs. Brockman, alledged that the house of her husband was stoned, that <hi rend="str">at</hi> about 2 oclock on said night certain persons were passing said house, and were talking loud that some rocks were thrown on the porch of said house, and that at said time, Mrs Brockman sent her for one of the neighbors and when she returned, Mrs Brockman fired off a gun. and remarked to Affiant that the gun had given her an awfull push in the side, that no Rocks, stones or bricks were thrown in the house, that the house did not on that night receive any damage whatever from stones rocks &amp;c. but on the day following she heard Mrs Brockman ascribe the injury she received from the push of the gun, to a stone thrown by one of the defts. that she is enabled to identify the time by having her attention called to it by Mrs Brockman, and that in <date when="1860-05">May</date> or <date when="1860-06">June</date> preceeding said night, the house which said Brockman then resided, was <hi rend="str">destroyed</hi> damaged by the throwing<pb/>
+<lb/>of Stones. and that all marks of injury was then received by said house. and that she did not Know. the persons passing but that every effort was made by Mrs Brockman to induce Affiant to swear that Defts Reel &amp; Winterstein were the persons passing, when in truth, she did not know who said persons were. and that when said gun was fired there was no one near said house</p>
+<p>Mary ^her X mark^ Weir</p>
+<p>Subscribed &amp; sworn to before me, by Mary Weir this <date when="1860-10-12">12<hi rend="underline"><hi rend="sup">th</hi></hi> day of Octr 1860</date></p>
+<p>W<hi rend="sup">m</hi> Mix Jr. N. P. J. C.</p>
+<p>A copy Attest.
+<lb/>O. H. Strattan C. C. C. L.</p>
+<p>Comth
+<lb/>vs } Copy of afft of Mary Weir
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Beck &amp;c &amp;c</p>
+  </body>
+ </text>
+</TEI>

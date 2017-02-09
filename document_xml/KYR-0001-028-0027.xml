@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-028-0027"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">William Kidd et al. to James F. Robinson</title>
+    <title level="a" type="parallel">CWG7682</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Appointments by the Governor, Military Appointments, 1862-1863</collection>
+      <idno>R2-153 to R2-154</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Franklin, Simpson County, Kentucky</placeName>
+    <date when="1862-08-30">30 August 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Franklin, Simpson Co Ky
+<lb/><date when="1862-08-30">30" Aug 1862,</date>
+<lb/>Governor James F. Robertson,
+<lb/>Frankfort, Ky,
+<lb/>Sir,</p>
+<p>In the event, that a draft should become necessary, We hope your Excellency will appoint M. D. Whitesides Esq, Commissioner to Superintend said Draft. his energy, impartiality, and business qualifications eminently befit him for the Post.</p>
+<p>You will very much oblige His friends, by confering the appointment,</p>
+<p>Very Respectfully,
+<lb/><milestone unit="column" n="2"/><cb n="1"/>William Kidd J. S. C. 
+<lb/>W. G. Wade Sheriff 
+<lb/>W<hi rend="sup">m</hi> W. Bush County atty
+<lb/>F D Wade <unclear>D S</unclear>
+<lb/>Cha<hi rend="underline"><hi rend="sup">s</hi></hi>. F. Potter P. M.
+<lb/>James M<hi rend="sup">c</hi>Cartney D P M
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> W. Beson, Circuit Court Clerk
+<lb/>James Roberts <hi rend="underline">Jailor</hi>
+<lb/>A. B. Cookling P. J. F.
+<lb/>T C Murphy T. Marshal
+<lb/><cb n="2"/>Geo H Millikin C H C</p>
+  </body>
+ </text>
+</TEI>

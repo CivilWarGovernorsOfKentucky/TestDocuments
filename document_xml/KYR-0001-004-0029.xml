@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0029"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Commonwealth of Kentucky v. Alanson Trigg, Indictment</title>
+    <title level="a" type="parallel">CWG4148</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR8-42</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Warren County, Kentucky</placeName>
+    <date when="1863-10-05">5 October 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>State of Kentucky
+<lb/>Warren Equity &amp; Criminal Court <date when="1863-08">August Term 1863</date>
+<lb/>The Commonwealth of Kenty
+<lb/>Against
+<lb/>Alanson Trigg
+<lb/>Indictment for a Misdemeanor</p>
+<p>This day came the attorney for the Commonwealth and the defendant by this attorney who plead not guilty and thereupon came the following Jury to wit. G A Kirby James F Ewing, Calvin A Garrison Joseph Fallon H Johnson Robert Graham Henry Vance H B Elrod W<hi rend="sup">m</hi> Davenport W<hi rend="sup">m</hi> H Kinnard V K Hines and H J Neighbors who were elected true and sworn and having heard the evidence returned the following verdict to wit. We of the Jury find the defendant A Trigg guilty of permitting each of his Slaves Jerry and Beverly to go at large and hire themselves out for their own benefit as charged in this Indictment. C A Garrison Foreman. It is therefore adjudged by the Court that the defendant make his fine to the Commonwealth by the payment of Eighty Dollars and the cost herein and may be taken &amp;c.</p>
+<p>A Copy Test L L Cooke C W E &amp; C C
+<lb/><stamp type="revenue"/><note place="stamp"><date when="1863-10-05">5<hi rend="sup">th</hi> Oct
+<lb/>1863</date></note><pb/></p>
+<p>Comwlth
+<lb/>vs
+<lb/>A Trigg
+<lb/>Copy Judgt
+<lb/>A Copy for Deft</p>
+  </body>
+ </text>
+</TEI>

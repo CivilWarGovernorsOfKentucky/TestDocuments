@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1108"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">J. J. Green to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10576</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG20-216</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1861-05-23">23 May 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency Beriah Magoffin Governer of Kentucky</p>
+<p>The Petition of the undersigned would respectfully -- represent that in <date when="1861-04">April last</date> he had an altercation with one Robert Garry -- in which angry -- words were used -- Whereupon -- the Said Garry Struck Petitioner twice with a heavy hickory kane -- and this before any ^still^ demonstration was made by Petitioner -- After -- <hi rend="str">w</hi> which Petitioner -- endeavored to Avenge the blows -- when mutual friends interfered -- and Petitioner did not lay his hand upon Garry by reason of the interferance Garry and Petitioner were tried for a breach of the peace before E. Lusly a Justice of the Peace of Owen -- and a Jury impanneled who rendered a verdict fining both Garry &amp; Petitioner $9.25 <hi rend="str">&amp; cos</hi>ts Judgment was rendered on the verdict -- execution issued and is now in the hands of -- P. H. Smith marshall of the Town of Owenton -- Your Petitioner prays -- Executive Clemency and that said fine be remitted &amp; as in duty bound &amp;c</p>
+<p>"J. J. Green -- <pb/></p>
+<p>I was present at the trial of J. J. Green &amp; Robert Garry on a warrant for breach of the Peace -- </p>
+<p>I heard all the proof on the trial -- and the facts -- as I understand them -- <hi rend="str">as <unclear/> on</hi> were in Substance as stated in the within Petition</p>
+<p><date when="1861-05-23">May 23rd 1861</date></p>
+<p>A. P. Grave</p>
+<p>Owen J. P.
+<lb/>Petition to Governor<figure type="hr"/>
+<lb/>$9<hi rend="underline"><hi rend="sup">25</hi></hi> } Misdemeanor
+<lb/>J. J. Green</p>
+<p>Remitted
+<lb/>B M</p>
+<p>Issd <date when="1861-05-22">May 22. 1861</date></p>
+  </body>
+ </text>
+</TEI>

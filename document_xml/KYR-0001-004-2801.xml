@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2801"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Henry A. Saxton to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7438</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR17-66 to BR17-67</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>The undersigned would respectfully represent to your Excellency</p>
+<p>That about three years ago one Charles Young, a young man now about twenty two years of age was fined in the city court of Lexington to the amount -- including costs -- of one Hundred and ten dolloars. Shortly afterwards he went into the Federal army where he remained until a short time, ^since^ when passing through Lexington he was arrested by one of the town officers and not having the mony to pay the fine, was about to be thrown into the work house, when the undersigned went his security, He was induced to do so because Young had been on^c^e connected with the musical band which the undersigned had under him He says the officers of the law are now demanding of him the amount of the fine -- that he is very ill able to pay it<pb/>
+<lb/>&amp; if it is coerced out of him it must be to the suffering of his family -- He was anxious not to allow a young man who was a loyal man to his Government while so many were untrue to it and who was willing to serve in the army ^to^ be exposed to the degradation of the work house and therefore became his surity -- He prays your Excellency to remit the fine so far as it is in your power</p>
+<p>Henry A. Saxton</p>
+<p>To his Excy
+<lb/>Gov Bramlette
+<lb/>Frankfort</p>
+<p>we the undersigned would Beg your Exeleny to remit the Above fine
+<lb/><milestone unit="column" n="2"/><cb n="1"/>G. Collins Lyon
+<lb/>Staff of Bvt Maj Gen O B Wilcox
+<lb/>Late Pro Mar Genl Kentucky,
+<lb/><cb n="2"/>Thomas Norris, Jr
+<lb/>C. H. B. Duncan
+<lb/>James W T Elliott
+<lb/>Lambert Parker<pb/></p>
+<p><milestone unit="column" n="1"/>Lexington City Ct
+<lb/>vs
+<lb/>Assault &amp; Battery
+<lb/>Charles Young
+<lb/>$100
+<lb/>Remit<figure type="hr"/>
+<lb/><date when="1865-12-06">6<hi rend="sup">th</hi> Dec/65</date></p>
+  </body>
+ </text>
+</TEI>

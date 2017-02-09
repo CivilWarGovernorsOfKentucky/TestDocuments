@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2664"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Speed S. Goodloe et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7301</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR16-288</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency Gov Thos E. Bramlette -- </p>
+<p>Your Petitioner Pleasant J Zackary, was fined by the Lexington City Court $50 for carrying "concealed deadly weapons". He was a member of the 1<hi rend="underline"><hi rend="sup">st</hi></hi> Ky Cavr<hi rend="sup">y</hi> and was dischard <date when="1865-10-23">Oct 23-1865</date>. Was on his way home, bought a small pocket pistol in Lex Ky. saw some friends drank too much, was arrested and the pistol found on his person. He feels it a great hardship to be confined in the "Work-House" after being absent from his family for four years. He prays your Excellency will remit the fine &amp; he will every pray &amp;c</p>
+<p>We the undersigned would recommend the remission of foregoing fine -- </p>
+<p><hi rend="underline">Speed S. Goodloe</hi>
+<lb/>J. L. C. C
+<lb/><hi rend="underline">D C Wickliffe</hi>
+<lb/>J. H. Harrison
+<lb/>John B. Payne Jr.
+<lb/>W W Dewden
+<lb/>D, S, Goodloe
+<lb/>John S. Miller<pb/></p>
+<p>Lexington City Ct
+<lb/>vs
+<lb/>Pleasant J. Zackary
+<lb/>$20.
+<lb/><date when="1865-11-24">24<hi rend="sup">th</hi> Nov 1865</date></p>
+  </body>
+ </text>
+</TEI>

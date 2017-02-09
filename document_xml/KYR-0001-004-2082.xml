@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2082"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Sebastian Eifant to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6719</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR14-281 to BR14-282</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Boone Furnace, Carter County, Kentucky</placeName>
+    <date when="1865-07-26">26 July 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Boone Furnace Carter County
+<lb/>Ky <date when="1865-07-26">July 26" 1865</date>
+<lb/>His Excellency Thomas E. Bramlett
+<lb/>Govaner of the Commonwealth of Kentucky
+<lb/>Sir</p>
+<p>Last winter W<hi rend="underline"><hi rend="sup">m</hi></hi> L James and a man by the name of Shiens, where both convicted from Louisville and send to the State prison for same offence committed in <hi rend="str">Louisvile</hi> Louisville, both where members of Company C. 20<hi rend="sup">th</hi> Ky V. I. and had again reenlisted in said Regt as Veterans Skiens was sometime ago released from Prison, But W. L. James is still confined, as his father on account of ill health, has not till now done anything in his behalf and is very poor but a <hi rend="str">man</hi> good Citizen of our County I would respectfully represent to your Excellency that the son deserving executive clemency for his services he has rendered in the Armey, and on account of his father &amp; Mother who are old and<pb/>
+<lb/>greatley afflicted in consequence would ask you respectfull that said James be pardoned and released from confinement</p>
+<p>Yours very Respectfull
+<lb/>Sebastian Eifant</p>
+  </body>
+ </text>
+</TEI>

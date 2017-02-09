@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2733"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">J. G. White et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7370</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR16-416 to BR16-417</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency
+<lb/>Thos. E. Bramlette
+<lb/>Govenor of Kentucky</p>
+<p>We the undersigned Jurors who tried Dallas King at the <date when="--11">November</date> term of the Louisville City Court upon a charge of shooting without wounding, &amp; found him guilty &amp; imposed a fine of twenty five dollars &amp; six months imprisonment; do most earnestly request your Excellency to pardon him from the imprisonment</p>
+<p>Respectfully
+<lb/>J. G. White
+<lb/><unclear/> Strauss
+<lb/>E. Bukwirth
+<lb/>Peter Boner
+<lb/>A. Z Henneberge
+<lb/>John Lawson<pb/></p>
+<p>Louisville City Ct
+<lb/>vs
+<lb/>Dallas King
+<lb/>$25. &amp; 6 mos Imprisonment
+<lb/>Remitted as to Imprisonment
+<lb/><date when="1865-11-16">16 Nov/65</date></p>
+  </body>
+ </text>
+</TEI>

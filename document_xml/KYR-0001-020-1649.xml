@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1649"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Lenty et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG11117</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Andrew P Patrick</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG22-310 to MG22-311</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency Beriah Magoffin Governor of Kentucky</p>
+<p>Your Petitioners Peter Zink Conrad Kolb John Senty the firm of Walter &amp; Gross Harman Woltring would respectfully represent to your Excellency that they were indicted and fined at the <date when="--12">December</date> term of the City Court of Louisville for Selling Licquor without having License to Sell they were fined twenty dollars Each at Said term of Said Court upon Said intitement</p>
+<p>They would respectfully State that their license for Eighteen hundred and Sixty one had Expired and that they were unable to procure the money to renew the Said License in the proper time oweing to the pressure in business causes by the unfortunate condition of the country they afterwords succeeded in procuring the License of aforsaid which were dated back to the time they Should have Issued neither the city or State have thereby lost any thing. They would further State that they are poor and unable to pay Said fines at this time without great inconvinen a portion of the petitioners have paid the costs in Said indictment and the others are willing to pay their costs. They would respectfully pray your Excellency to remit their fines and Petitioners will Ever Pray</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>John Lenty
+<lb/>Waller J Grass
+<lb/><cb n="2"/>Peter Zink
+<lb/>Conrad Kalb
+<lb/>Harman <unclear>Wallamy</unclear><pb/></p>
+<p><milestone unit="column" n="1"/>The petition states correctly the fines &amp; some of the parties had paid a portion of their license money with the City Treasury. The city has lost nothing. The Petitioners have been punctual in paying their license heretofore &amp; I ask your Excellency to remit. </p>
+<p>W. G. Reasor</p>
+<p>Jos. Clement. J. P.
+<lb/>Geo N Doane
+<lb/>J. P. Gailbreath<pb/></p>
+<p>Louisville City Ct<figure type="hr"/>
+<lb/>Petition
+<lb/>} To Governor
+<lb/>Peter Zink<figure type="hr"/>
+<lb/><hi rend="underline">$211. each</hi><figure type="hr"/>
+<lb/>Respite 12 mo
+<lb/>B. M
+<lb/>Iss<hi rend="sup">d</hi> <date when="1862-01-17">Jany 17. 1862</date></p>
+  </body>
+ </text>
+</TEI>

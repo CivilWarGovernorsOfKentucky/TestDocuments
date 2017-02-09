@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-006-0091"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Richard J. Oglesby, Requisition</title>
+    <title level="a" type="parallel">CWG1137</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's Official Correspondence File, Requisitions for the Return of Fugitives from Justice, 1863-1867</collection>
+      <idno>BR6-116</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Springfield, Sangamon County, Illinois</placeName>
+    <date when="1865-10-17">17 October 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>RICHARD J. OGLESBY,
+<lb/><figure type="seal"><ab>STATE
+<lb/>SOVEREIGNTY
+<lb/>NATIONAL UNION</ab></figure>
+<lb/>GOVERNOR OF THE STATE OF ILLINOIS.
+<lb/>To any Sheriff, Coroner or Constable of any County in this State,--Greeting:</p>
+<p>Whereas, It has been made known to me by the Executive authority of the State of Kentucky that Matthew Skifington stands charged in the state of Kentucky with the crime of Felony and that the said Matthew Skifington has fled from the justice of said State and taken refuge in the State of Illinois:</p>
+<p>Now, therefore, I, RICHARD J. OGLESBY, Governor of the State of Illinois, pusuant to the Constitution and laws of the United States, and of this State, do hereby command you to arrest and apprehend the said Matthew Skifington if he be found within the limits of the State aforesaid, and cause him to be safely kept, and delivered to the custody of William Hipwell who has been duly constituted the agent of the said State of Kentucky to receive said fugitive from the justice of said State, he paying all fees and charges for the arrest and apprehension of said Matthew Skifington and make due return to the Executive Department of this State, the manner in which this writ may be executed.</p>
+<p><figure type="seal"><ab>SEAL OF THE STATE OF ILLINOIS
+<lb/><unclear>STATE
+<lb/>SOVERIEGNTY
+<lb/>NATIONAL UNION</unclear>
+<lb/>1818</ab></figure></p>
+<p>In Testimony Whereof, I have hereunto set my hand, and caused the Great Seal of State to be hereunto affixed. Done at the City of Springfield, this <date when="1865-10-17">17<hi rend="sup">th</hi> day of October in the year of our Lord one thousand eight hundred and sixty five,</date> and of the Independence of the United States the ninetieth</p>
+<p>Richard J. Oglesby
+<lb/>By the Governor:
+<lb/>Sharon Tyndale
+<lb/>Secretary of State.<pb/></p>
+<p>State of Illinois
+<lb/>Peoria County ss.</p>
+<p>I, D. A. Wheeler a constable in and for said county sand the city of Peoria did arrest, by and in pursuance of the within warrant, the within named Mathew Skifington and delivered his body and person into the custody of the withinnamed W<hi rend="underline"><hi rend="sup">m</hi></hi> Hipwell, all of which was done at the city of Peoria on the <date when="1865-10-18">18<hi rend="underline"><hi rend="sup">th</hi></hi> day of October AD 1865.</date></p>
+<p>D. A. Wheeler P. C</p>
+  </body>
+ </text>
+</TEI>

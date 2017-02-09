@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-031-0012"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John S. Jones to John Seaton </title>
+    <title level="a" type="parallel">CWG7752</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Appointments by the Governor, Civil Appointments, 1862-1863</collection>
+      <idno>R1-42 to R1-43</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1862-09">September 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Greenup County Court
+<lb/><date when="1862-09">September Term 1862</date>
+<lb/>Present
+<lb/>Hon. John Seaton
+<lb/>Presiding Judge</p>
+<p>John E. Winn late a Justice of the Peace of this County in District No 1 having tendered his written resignation of Said Office This Court doth recommend, to His Excellency James F Robinson Acting Governor of Kentucky, Benjamin F. Pratt as a Suitable person to be appointed by His Excellency to fill the Vacancy occassioned by said resignation</p>
+<p>A Copy
+<lb/>Attest John S. Jones
+<lb/>Clerk Greenup Co. Court</p>
+<p>We the undersigned citizens of Greenup County ^in said district^ unite in the recommendation, to his Excellency James F. Robinson acting Governor of Kentucky, of Benjamin F. Pratt Esqr as a suitable person to be appointed Justice of the Peace in District No. 1 of this County and we respectfully petition his Excellency to make said appointment</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>John S. Jones
+<lb/>Saml. Ellis
+<lb/>Geo Swap
+<lb/>James Y Pugh
+<lb/>Alex Smith
+<lb/>Jno E. Brooks.
+<lb/><cb n="2"/>C. L. Hertel
+<lb/>Geo W Chilliron
+<lb/>M. Morris
+<lb/>A D, DeBord
+<lb/><hi rend="underline">Ed F Dulin</hi>
+<lb/>W. C. Ireland -- <milestone unit="column" n="1"/><pb/></p>
+<p>Greenup Co.<figure type="hr"/>
+<lb/>J. P.
+<lb/>Dist. N<hi rend="sup">o</hi> 1.
+<lb/>B. F. Pratt
+<lb/>vice<figure type="hr"/>
+<lb/>J. E. Winn
+<lb/>Com<hi rend="sup">n</hi> Iss<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1862-09-15">Sept 15 1862</date></p>
+  </body>
+ </text>
+</TEI>

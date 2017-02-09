@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0823"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Fahay to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG4942</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR10-270 to BR10-271</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency
+<lb/>Thos. E. Bramlette
+<lb/>Govenor of Kentucky</p>
+<p>Your Petitioner John Fahay would respectfully state that he was convicted at the <date when="1864-05">May term 1864</date> of the Jefferson Circuit Court for <hi rend="underline">one</hi> <hi rend="underline">year</hi> upon a charge of stealing 4 1/2 lbs of Tea.</p>
+<p>Your petitioner has a wife &amp; three children who would be entirely helpless in the event of the sentence beeing enforced. Your Excellency is respectfully refered to the signers of this petition.</p>
+<p>Your petitioner prays your Excellency to Grant him a pardon</p>
+<p>John ^his X mark^ Fahay</p>
+<p>Gov Bramlett</p>
+<p>In the absence of J. R. Dupuy, the Commonwealth's Atty, I prosecuted in the above case. Fahy was guilty. It is, I think, his first offence. The property<pb/>
+<lb/>was restored the day it was taken.</p>
+<p>The man has a large family, much needing his daily labor for a support. His wife is almost heart-broken. It is a case for Executive clemency</p>
+<p>I am very truly
+<lb/>Yr Friend
+<lb/>J. G. Wilson</p>
+<p>I know very little of the case the wife of the dft seems to have three children &amp; I am told is a good woman &amp; has no reliance for a support for her family except upon the labor of her husband</p>
+<p>J R Dupuy</p>
+<p>Under all the circumstances I am induced to ask the petitioner's pardon. It may not be a case for Executive clemency, but it is a much better case than that of Brockman or Brown.</p>
+<p>Resptly &amp;c
+<lb/>P. B. Muir<pb/></p>
+<p>Jefferson Cir Ct
+<lb/>vs
+<lb/>John Fahay
+<lb/>Pardon granted
+<lb/>Tho E Bramlette
+<lb/>Gov<hi rend="sup">r</hi> of Ky
+<lb/>Grand Larceny
+<lb/>one year
+<lb/><date when="1864-05-18">18<hi rend="sup">th</hi> May/64</date></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0143"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John H. Nelson et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG1808</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Appointments by the Governor, Civil Appointments, 1863-1867</collection>
+      <idno>BR1-549</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To the Hon Governor of Kentucky</p>
+<p>Your petitions would respectfully represent that there is a vacancy in the office of Justice of the peace in the Grants Lick District in Campbell County occasioned by the resignation of Esq<hi rend="sup">r</hi> Winston. We therefore respectfully recommend to your honer John H Byrd as a suitable man to fill said vacancy untill another can be Elected by the people &amp; resptfuly pray your honer to Commisson him &amp;c</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>John H Nelson
+<lb/>C Murrian
+<lb/>C Maddox
+<lb/>Daniel Caldwell
+<lb/>Daniel Thatcher
+<lb/>William M. Gasony
+<lb/>W<hi rend="sup">m</hi> Caldwell
+<lb/>A <unclear>Shanschery</unclear>
+<lb/>Foster Byrd
+<lb/>Georg W. Stevens
+<lb/>James H. Smith
+<lb/>Jos. F. Wright
+<lb/>Jno Todd
+<lb/>M Medford Ex. J. P. C. C
+<lb/>John H N<unclear/>
+<lb/>John Burns
+<lb/>Robert Shaw
+<lb/>Wm Barden
+<lb/>Jacob Anderson
+<lb/>John W Stevens
+<lb/>Notley Madox
+<lb/>J C Marris
+<lb/>G R Herndon
+<lb/><cb n="2"/>J G Clark P C C
+<lb/>John L Maven J. P C C
+<lb/>Robert Hurst
+<lb/>Joseph Lipscumb
+<lb/>Perry Rardin
+<lb/>Geo H Shaw Costable C C
+<lb/>Benj Beall J P. C. C.<milestone unit="column" n="1"/><pb/></p>
+<p>Campbell Co
+<lb/>J Peace
+<lb/>Resignation &amp; Appointment
+<lb/><date when="1864-03-14">14<hi rend="sup">th</hi> Mch/64</date></p>
+  </body>
+ </text>
+</TEI>

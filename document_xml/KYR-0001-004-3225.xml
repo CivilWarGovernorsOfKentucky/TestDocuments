@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-3225"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Commonwealth of Kentucky v. Thomas Worsham, Indictment</title>
+    <title level="a" type="parallel">CWG5344</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR42-9</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Calloway County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Calloway Circuit Court
+<lb/>The commonwealth of Kentucky
+<lb/>against
+<lb/>Thomas Worsham</p>
+<p>The Grand Jury of Calloway County in the name and by the authority of the commonwealth of Kentucky accuse Thomas Worsham of the crime of Murder committed as follows (viz) The Said Thomas Worsham on the <date when="1865-06-10">10<hi rend="sup">th</hi> day of June 1865</date> in the county aforesaid did feloniously and with Malice aforethought kill and Murder Thomas Taylor by shooting him with a Pistol loaded with Powder and a Leaden Ball or other hard substance against the Peace and dignity of the Commonwealth of Kentucky</p>
+<p>W W Tice
+<lb/>P T atty for
+<lb/>Com<hi rend="sup">th</hi> 1<hi rend="sup">st</hi> J D</p>
+<p>Information by
+<lb/>R H Stubblefield
+<lb/>M<hi rend="sup">rs</hi> Jones Stubblefield
+<lb/>Samuel Stubblefield
+<lb/>Joseph Thurman
+<lb/>J. W. Whitworth</p>
+<p>A copy attest Geo <unclear/> D C
+<lb/>for W Bowman clk<pb/>
+<lb/>Commonwealth of Ky
+<lb/>vs } Murder
+<lb/>Thomas Worsham</p>
+<p>a copy</p>
+  </body>
+ </text>
+</TEI>

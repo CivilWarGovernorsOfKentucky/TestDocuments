@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0284"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">S. M. Kennedy and W. B. Harrison to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG9752</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG17-271 to MG17-272</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Elkton, Todd County, Kentucky</placeName>
+    <date when="1860-12-31">31 December 1860</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Elkton Ky <date when="1860-12-31">Decr 31 1860</date>
+<lb/>Hon Beriah Magoffin
+<lb/>Frankfort
+<lb/>Ky
+<lb/>Dear sir</p>
+<p>At the last <date when="1860-12">Octr Term</date> of our Circuit Court The Commonwealth of Kentucky recover Judgment agst W W Grady for Ten dollars on and indictment for nuisance to the public highway the proof introduced on the trial was that the overseer of the road leading from Elkton to Fairview in this County cut a ditch in front of the Blacksmith and wagonn makers shop belonging to the sd Grady and that the same was almost entirely cut <hi rend="str">on</hi> <hi rend="str">so</hi> through Gradys land a very small portion thereof being in the public road, and was a very great inconvenience to Grady and persons that employed him to do their work and that he filled up the ditch and turned the water into the road injuring it but very little if any<pb/>
+<lb/>he is a poor man and he in conjunction with the undersigned would be pleased if your Excellency would release him from the payment of said fine.</p>
+<p>Very Respectfully
+<lb/>S, M, Kennedy
+<lb/>W. B Harrison<pb/></p>
+<p>Respite 12 Mo
+<lb/>B. M
+<lb/>Is<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1861-01-03">Jany 3</date>
+<lb/>Todd Cir. Ct
+<lb/>$10. } Nuisance
+<lb/>W. W. Grady</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-079-0006"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Henri F. Middleton to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG14005</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>Enrolled Militia Records 1864 - 1865 ; Adair, Allen, Boyle, Daviess, Garrard, Owen, Pendleton, and Shelby counties</collection>
+      <idno>Flat Box 7, Folder 863-74 Marion County 1st Ky Militia, No of Enrolled Militia</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Shelbyville, Shelby County, Kentucky</placeName>
+    <date when="1863-10-14">14 October 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><milestone unit="column" n="3"/><cb n="1"/>The Shelby News</p>
+<p>Is the best village paper in Kentucky, and is published at the following terms: -- 
+<lb/><table rend="rules">
+<row>
+	<cell>1 copy, per year</cell>
+	<cell>$2 00</cell>
+</row>
+<row>
+	<cell>20 copies,</cell>
+	<cell>30 00</cell>
+</row>
+</table></p>
+<p>&amp;#9758;Cash in advance in all cases</p>
+<p>&amp;#9758;ADVERTISEMENTS inserted upon reasonable terms, viz: -- 
+<lb/><table rend="rules">
+<row>
+	<cell>One square, (1 inch or less,) one insertion,</cell>
+	<cell>$1</cell>
+	<cell>00</cell>
+</row>
+<row>
+	<cell>Second insertion</cell>
+	<cell/>
+	<cell>50</cell>
+</row>
+<row>
+	<cell>Each additional insertion,</cell>
+	<cell/>
+	<cell>25</cell>
+</row>
+<row>
+	<cell>One Square, 12 months,</cell>
+	<cell>12</cell>
+	<cell>00</cell>
+</row>
+<row>
+	<cell>One column, one year.</cell>
+	<cell>80</cell>
+	<cell>00</cell>
+</row>
+</table></p>
+<p>A reasonable deduction wil be made to yearly advertisers.
+<lb/><cb n="2"/>WEEKLY SHELBY NEWS:
+<lb/>ESTABLISHED IN <date when="1840">1840</date>. -- <hi rend="str">CIRULATION ABOUT 3,000.</hi>
+<lb/>HENRI F. MIDDLETON, EDITOR AND PROPRIETOR.<figure type="hr"/>
+<lb/>"Against the insidious wiles of foreign influence, (I conjure you to believe me, fellow-citizens.) the jealously of a free people ought to be constantly awake since history and experience prove that foreign influence is one of the msot baneful foes of a republican government. -- WASHINGTON,</p>
+<p><cb n="3"/>The Shelby News</p>
+<p>Has always been a firm supporter of the principles first laid down by WASHINGTON, and since advocated by CLAY, WEBSTER, and others, viz: That Americans shall rule America; and protection by the Government, to American manufactures, labor and other interests.</p>
+<p>Address,
+<lb/>HENRI F. MIDDLETON,
+<lb/>Editor Shelby News,
+<lb/>Shelbyville, Ky.</p>
+<p><milestone unit="column" n="1"/>Office of The Shelby News, Shelbyville, Ky.
+<lb/><date when="1863-10-14">October 14, 1863</date>
+<lb/>His Excellency
+<lb/>Thomas E. Bramlette, Governor, &amp;c</p>
+<p>In Order, No. 3, you desire citizens to recommend suitable persons, who will act, as Colonel and Lieut. Colonel under the state Guard Law.</p>
+<p>I had, on reading the Order, determined to recommend <hi rend="str">the</hi> Mr. Otho Harding, of this county, as a person, in every way qualified, as I believe for the position of Lieut Colonel; but desired to see if he would serve. Having learned from him that he would, I now suggest him for that position. He is active, brave, educated, and while in service, <hi rend="str">had the</hi><pb/>
+<lb/>under the State Authorities, last Fall and Winter, had the confidence and esteem, and respect of all soldiers and officers he associated with </p>
+<p>Yours &amp;c most respectfully
+<lb/><hi rend="underline">Henri F. Middleton</hi><pb/></p>
+<p>Shelby Co <date when="1863-10-14">Oct 14/63</date><figure type="hr"/>
+<lb/>Recm"g" for this county <hi rend="underline">Otho Harding</hi> Lt Col
+<lb/>H. F. Middleton</p>
+  </body>
+ </text>
+</TEI>

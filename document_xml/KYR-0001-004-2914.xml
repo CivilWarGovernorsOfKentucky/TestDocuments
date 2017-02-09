@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2914"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John E. Records et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7551</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR17-238</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1865-12-17">17 December 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency the Governor of the Commonwealth of Kentucky</p>
+<p>The undersigned citizens of Pendleton County and neighbor's of Wm. H. Gardner state that said Gardner was fined under an indictment <hi rend="str">from</hi> in the Pendleton Circuit Court in the sum of three hundred dollars and costs ^at the <date when="1865-10">Oct Term 1865</date> of said County^ under the charge of keeping a gambling house in said County some five years ago. The gambling took place in the bar room over which a man by the name of Brown had the exclusive control, and over which said Gardner assumed no control. Said Gardner is a poor man, and we recommend him under the circumstances, to your clemency, <date when="1865-12-17">Dec. 17<hi rend="sup">th</hi> 1865</date>,</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Jn<hi rend="underline"><hi rend="sup">o</hi></hi> E. Records
+<lb/>W W. Ireland
+<lb/>A J. Hall
+<lb/>C. Duncan
+<lb/>F, P, Craig
+<lb/>O. D. M<hi rend="sup">c</hi>Manama
+<lb/>E F Bradford
+<lb/>J. W. O. Clark
+<lb/>J, M, Curry
+<lb/>William Gulick
+<lb/>W B Roberts
+<lb/><cb n="2"/>T J Oldham Jr
+<lb/>J. G Coleman
+<lb/>W<hi rend="underline">m</hi>. M. Go<hi rend="str">o</hi>lden</p>
+  </body>
+ </text>
+</TEI>

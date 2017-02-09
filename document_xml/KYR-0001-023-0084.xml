@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-023-0084"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Charles S. Olden, Proclamation</title>
+    <title level="a" type="parallel">CWG2997</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, 1859-1862</collection>
+      <idno>MG1-315 to MG1-316</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Trenton, Mercer County, New Jersey</placeName>
+    <date when="1861-11-01">1 November 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Proclamation/Legislation</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Proclamation,
+<lb/>By CHARLES S. OLDEN,
+<lb/>GOVERNOR OF THE STATE OF NEW JERSEY.<figure type="hr"/></p>
+<p>While under the rod, and suffering merited chastisement for our many national sins, let us not forget the many unmerited blessings that are yet spared to us, lest they too be withdrawn.</p>
+<p>That we may give meet and united expression to our gratitude, I recommend that THURSDAY, THE <date when="1861-11-28">TWENTY-EIGHTH DAY OF NOVEMBER</date>, instant, be observed by the people of this State as a day of Thanksgiving to Almighty God, from whom cometh every good and perfect gift, and that, abstaining from all needless secular employment, they assemble in their several places of worship to offer to Him the sacrifice of Prayer, Praise and Thanksgiving.</p>
+<p>GIVEN under my hand and privy seal, this <date when="1861-11-01">first day of November, A.D. eighteen hundred sixty-one</date>.</p>
+<p>CHS. S. OLDEN.</p>
+<p>Attest,
+<lb/>C. M. HERBERT, PRIVATE SECRETARY.<pb/></p>
+<p>New Jersey
+<lb/>Proclamation</p>
+  </body>
+ </text>
+</TEI>

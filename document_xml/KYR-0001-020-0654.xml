@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0654"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John McAnder to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10122</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG18-506</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Kenton County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency
+<lb/>B Magoffin Gov. of Ky</p>
+<p>The undersigned respectfully states that he was fined at the last term of the Kenton Circuit Court <hi rend="str">he was fined</hi> $50- for illegal voting and states that he has resided in the city of covington 13 years and has been a voter there most of that time and has been a law abiding citizen and having been in the habit of voting at all <hi rend="underline">city Elections at the city Hall</hi> the precinct for voting in his ward at the <date when="--08">last August</date> Election the same being a state Election he went to th<hi rend="str">is</hi>e <hi rend="underline">city Hall</hi> as at City Election not thinking or Knowing of the precinct arrangment for state Elections and voted there instead of at another preinct in his <hi rend="underline">district</hi>. And states that he was a good voter in the same <hi rend="underline">district</hi> but not at the precinct where he voted That he did not vote illegally Knowingly or with any wrong intention. He prays your Excellency to remit so much of the fine above named as your Excellency has controll over as in duty he will ever pray -- </p>
+<p>John M<hi rend="sup">c</hi>Ander</p>
+<p>The statements of the above petition are substantially true and we hope your Excellency will grant the prayer thereof</p>
+<p>S A Cambron
+<lb/>W D Holt
+<lb/>John R. Ricke
+<lb/>W. O. Hoskins<pb/></p>
+<p>Petition of John M<hi rend="sup">c</hi>Ander for remission of fine<figure type="hr"/>
+<lb/>Kenton Cir Ct
+<lb/>Remitted
+<lb/>B. M
+<lb/>$50 } Illegal voting
+<lb/>Iss<hi rend="sup">d</hi> <date when="1861-02-15">Feby 15 1861</date></p>
+  </body>
+ </text>
+</TEI>

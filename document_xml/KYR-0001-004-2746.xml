@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2746"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Wallace Davis, Thomas Davis, and Unknown, Affidavit</title>
+    <title level="a" type="parallel">CWG7383</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR16-432</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Clinton County, Kentucky</placeName>
+    <date when="1865-11">November 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>State of Ky Clinton County
+<lb/><date when="1865-11">Nov 1865</date></p>
+<p>I Wallace Davis a citizen of Clinton County do Certify upon honour that on the day that William H Harrisons Store was broken up in Albany Ky and at the Same time for which John F Sloan &amp; others were Indicted at the last Term of the Clinton Circuit Court that I met the Said John F Sloan in the Road after the destruction of the Store that he the Said Sloan had none of the goods taken from Harrison in his possession neither do I think from the knowledge I have of the affair that Said Sloan had anything to do with the Store in any manner</p>
+<p>Wallace. Davis
+<lb/>thomas Davis
+<lb/><unclear/> <unclear/><pb/></p>
+<p>State of Ky Clinton Co</p>
+<p>We H H Hurt &amp; W H Summers do certify that we saw John F Sloan on the day and time spoken in within certificate and that we saw him ^with^ none of the goods alleged to have been taken</p>
+<p>H. H. Hurt
+<lb/>W H Summers</p>
+  </body>
+ </text>
+</TEI>

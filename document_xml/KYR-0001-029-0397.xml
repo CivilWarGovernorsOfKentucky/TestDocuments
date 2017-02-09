@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0397"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">William Shindelbowen to James F. Robinson</title>
+    <title level="a" type="parallel">CWG8849</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Governor's Official Correspondence File, Petitions for Pardons, Remissions, and Respites, 1862-1863</collection>
+      <idno>R4-142 to R4-143</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Franklin County, Kentucky</placeName>
+    <date when="1863-05-20">20 May 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency
+<lb/>Governor Robinson</p>
+<p>The undersigned William Shindlebowen states that at the <date when="1863-01">January Term 1863</date> <hi rend="str">he</hi> of the Franklin Circuit Court he was fined fifty dollars on the charge of carrying concealed weapons, and that an execution is now in the hands of the Sheriff to enforce its collection -- He is now under an indictment growing out of the same transaction <hi rend="str">ought</hi> out of which he was fined as above -- said indictment is yet pending -- The petitioner respectfully asks for a remission of said fine, as he is in humble circumstances depending upon his daily labor for a support. He regrets the occurence which lead him to commit a breach of the law, but states in extenuation that at the time he was carrying the weapon he ^was^ a member of the Home Guard company and had been on duty, rendered necessary by the troubles of the country, as a guard at the arsenal -- He had been on said duty the day of the occurrence, and was after his watch was out somewhat imprudent in the use of intoxicating drinks, which the excitement of that period and the fact that his service <hi rend="str">at</hi> on such occasions kept him from his regular<pb/>
+<lb/>employments, doubtless induced -- Since that occurrence, however, he has abstained from the use of intoxicating liquors. He expects to stand his trial under the indictment now pending against him -- </p>
+<p>W<hi rend="sup">m</hi> Shindlebowen</p>
+<p>I would state that I have known W<hi rend="underline"><hi rend="sup">m</hi></hi> Shindlebowen for years, and know somewhat of the circumstances connected with the occurrence out of which the fine grew -- I think it a case for executive clemency, as he is an industrious man, has been prompt in all home guard service <hi rend="str">which</hi> during our troubles, and his breach of the law grew out of the fact that he was absent on such service from his regular employment -- He is a poor man, has a wife &amp; children, and has behaved himself as a good citizen. <date when="1863-05-20">May 20, 1863</date></p>
+<p><hi rend="underline">James Harlan Jr</hi><pb/></p>
+<p>Franklin Cir. Ct
+<lb/>Pettn of ^W<hi rend="underline"><hi rend="sup">m</hi></hi>^ Shindelbowen
+<lb/>$50. } Weapons
+<lb/>Remission granted
+<lb/>J F Robinson
+<lb/>Iss<hi rend="sup">d</hi> <date when="1863-05-27">May 27. 1863</date></p>
+  </body>
+ </text>
+</TEI>

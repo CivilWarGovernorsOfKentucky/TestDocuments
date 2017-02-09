@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0685"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">W. D. Lannom to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10153</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG19-32 to MG19-33</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1861-02-11">11 February 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Frankfort Ky <date when="1861-02-11">Feb 11. 1861</date>.
+<lb/>Governor Magoffin,
+<lb/>Dear Sir,</p>
+<p>I submitted to you the other day some appications of a few of my constituency asking to have divers &amp; Sundry fines remitted for playing games of marbles cards &amp;c for a "consideration" I regret that I today forgot to call your attention to them, I also gave you the petition of Mrs Clark asking for the remission of a forfeited Bond. The petition in that case explains itself and I feel satisfied when you read the petition that you will extend to her the clemency She asks and indeed is so<pb/>
+<lb/>justly entitled to receive.</p>
+<p>Enclosed I submit to you a Statement of 2 cases of the Comwhth Vs W H Smith the Judgments are small it is true only $20. each but they were both for small games &amp; Smith is a poor man -- a clever man and not a gambler although he sometimes indulges in a game of cards. If you can find it consistent with your duty to relieve these gentlemen you will place them &amp; myself under many obligations to you_</p>
+<p>truly your friend
+<lb/>W D Lannom<pb/></p>
+<p>Hickman 
+<lb/>E &amp; C Ct
+<lb/>Two Judgts each of
+<lb/>$20. W H Smith
+<lb/>Respite 12 mo
+<lb/>B. M</p>
+<p>Two Judgments one of $350. the other of $10. against</p>
+<p>Tho. G Poore
+<lb/>Iss<hi rend="sup">d</hi> <date when="1861-02-15">Feby 15. 1861</date></p>
+  </body>
+ </text>
+</TEI>

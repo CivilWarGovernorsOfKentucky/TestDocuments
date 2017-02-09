@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1994"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">George W. Gwin and Eugene P. Moore to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG11462</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Bradley Strait</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG23-463 to MG23-464</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Franklin County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To Gov Magoffin Governor of Kentucky</p>
+<p>We would represent to your Excellency the following to be a true statement:</p>
+<p>Wash Ebolling of Franklin County was tried before his Honor Geo W Gwin a Justice of the Peace for Franklin County on the <date when="1862-05-21">21<hi rend="sup">st</hi> May 1862</date> for a misdemeanor -- Judgment was rendered against him for $30, 15 days imprisonment and costs of proceeding -- not being able to pay said fine, we recommend him to your Excellency's Clemency -- on the conditions following which he has accepted and executed= That he pay the costs and enters into the bond for good behaviour until next <hi rend="str">Court</hi> Circuit Court for Franklin County, which Court will be holden in the city of Frankfort <date when="1862-06-04">4<hi rend="underline"><hi rend="sup">th</hi></hi> Monday of June 1862</date> -- </p>
+<p>The costs are $7.15_</p>
+<p>Geo. W. Gwin J. P. F. C.
+<lb/>Eugene P. Moore Atty F. C.<pb/></p>
+<p>Remitted as to all except the costs <unclear/> <unclear/> in them
+<lb/>B. M.</p>
+<p>Franklin J P.
+<lb/>Wash Ebling
+<lb/>$30
+<lb/>15 days Impt } Mis.
+<lb/>Iss <date when="1862-05-29">May 29<hi rend="underline"><hi rend="sup">th</hi></hi> 1862</date></p>
+  </body>
+ </text>
+</TEI>

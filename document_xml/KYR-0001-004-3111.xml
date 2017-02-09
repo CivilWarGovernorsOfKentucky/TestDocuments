@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-3111"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Wolf Kohn to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG5230</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR41-276 to BR41-277</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency Thomas E Bramlette
+<lb/>Governor of Kentucky
+<lb/>Sir</p>
+<p>Your petitioner Wolf Kohn about the <date when="1866-05-11">11<hi rend="underline"><hi rend="sup">th</hi></hi> of May 1866</date> went bail in the sum of Two hundred and Fifity Dollars for the appearance of James Snyder in the city court of Louisville, to answer a charge of stealing a watch, worth under four dollars; said bond was forfeited by the nonappearance of Snyder and Judgment entered in said court against the security Wolf Kohn for the amount of bail with costs. Wolf Kohn not appearing through ignorance to show cause, why such jugment should not be had against him, and relying wholy on the lawyer who inveigled him to go on said bond, to clear him of all liability on the same.</p>
+<p>Wolf Kohn did not receive one<pb/>
+<lb/>cent for going on said bond but was induced to do so through kindness, and by the persuasion of others</p>
+<p>Wherefore said Wolf Kohn would respectfully request Your Excellency to remitt said forfeiture</p>
+<p>Wolf Kohn.</p>
+  </body>
+ </text>
+</TEI>

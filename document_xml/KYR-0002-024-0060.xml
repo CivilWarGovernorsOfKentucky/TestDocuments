@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-024-0060"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Thomas D. Cook to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG12113</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Mitchell A Krock</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>1st - 20th Regiments Kentucky Infantry Primary Source Documents</collection>
+      <idno>Box 8, Folder 14th Ky. Inf. - Misc.</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Ashland, Boyd County, Kentucky</placeName>
+    <date when="1864-03-30">30 March 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>U, S, General hospital
+<lb/>Ashland Ky
+<lb/><date when="1864-03-30">March 30<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date>
+<lb/>To the Respectfuly
+<lb/>Thomas ,E. Bramlette
+<lb/>Govonor of Kentucky</p>
+<p>I Beg leave of you honor to to in form you of my condition and the way I have been Dealt with I volenteard in <date when="1861-10">October 1861</date> in the 14<hi rend="underline"><hi rend="sup">th</hi></hi> Ky, volenteer Inft as 1<hi rend="underline"><hi rend="sup">st</hi></hi> corporal and then I was mad 1<hi rend="underline"><hi rend="sup">st</hi></hi> Duty Sargent</p>
+<p>But on acount of disability and long absence in Hospital the Col -- has ordered me reduced to the Ranks</p>
+<p>My Sergeon has Reported me Disabled fom Duty some months a go and I have Bin left here<pb/>
+<lb/>on Such Duty as I have Bin able to do and I am willing to remain in the survice if I can be of any survice to my Contrary I am 37 years of age &amp; served fifteen months in the Mxican Ware and now I wish to know if I am likely to Bec of any survice to the Relief of my contrary if I am not intitled to a Sargeant place in the invalid Corps and sargent wagers</p>
+<p>I have the honor
+<lb/>To Be your Respectfuly
+<lb/>Thomas ,D, Cook</p>
+<p>To His Respecfuly
+<lb/>Thomas. E. Bramlette
+<lb/>Govenor of Kentucky<pb/></p>
+<p>14</p>
+  </body>
+ </text>
+</TEI>

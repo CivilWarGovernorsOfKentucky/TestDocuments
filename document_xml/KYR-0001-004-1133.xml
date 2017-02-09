@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1133"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Jordan Bond and D. H. Hanks et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG5770</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR11-234</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency Governor Tho<hi rend="sup">s</hi>. E. Bramlett</p>
+<p>Your petitioners Jordan Bond &amp; D H Hanks would most respectfully state, that at the <date when="--07">July</date> term of the Anderson Circuit Court Judgment was rendered against each of them for $20. in favor of the Com<hi rend="underline"><hi rend="sup">th</hi></hi> on an indictment for playing cards, they would state further that they were ignorant as to when their case would come up, and consequently could make no defense, They State further that it was not their intention to violate any law in any way &amp; that if there were any cards thrown or played it was for amusement, They State that they are men of humble means &amp; that it would favor them &amp; those dependent on them for a living, to be the recipients of your <unclear><hi rend="str">Excellencys</hi></unclear> Executive Clemency</p>
+<p>J. Bond
+<lb/>D. H. Hanks</p>
+<p>The undersigned would respectfully state that the above represents what we conceive to be true &amp; would most respectfully ask that the above named fine, be remitted if consistent with your Excellency's opinion of propriety; that, it would be a favor confered on their <hi rend="str"><unclear/> <unclear/></hi> condition &amp; friends</p>
+<p>C H Fenwick c a c c
+<lb/>G W Mathews clk A. C. C
+<lb/>B L Boston D S
+<lb/>John Draffen
+<lb/>W M Searcy D C
+<lb/>J D Boswell c a c<pb/></p>
+<p>Anderson Cir Ct
+<lb/>vs
+<lb/>J Bond &amp; D H Hanks
+<lb/>To his Excellency
+<lb/>Tho<hi rend="sup">s</hi> E Bramlett Gov
+<lb/>$20. each
+<lb/><date when="1864-08-13">13<hi rend="sup">th</hi> Aug'/64</date>
+<lb/>Remit</p>
+  </body>
+ </text>
+</TEI>

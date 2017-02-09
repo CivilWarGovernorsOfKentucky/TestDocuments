@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-018-0433"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John W. Finnell to Nathaniel Gaither, Jr.</title>
+    <title level="a" type="parallel">CWG8499</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Military Appointments, 1859-1862</collection>
+      <idno>MG7-52</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1862-08-15">15 August 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><figure type="seal"><ab>UNITED WE STAND, DIVIDED WE FALL.
+<lb/>KENTUCKY.</ab></figure>
+<lb/>Head-Quarters Kentucky Volunteers,
+<lb/>ADJUTANT GENERAL'S OFFICE,
+<lb/>Frankfort, <date when="1862-08-15">Aug 15 1862</date>.</p>
+<p>Hon: Nat. Gaither Jr
+<lb/>Sec: State-</p>
+<p>Issued &amp; delivered following Coms:
+<lb/> <table rend="rules">
+<row>
+	<cell>Edward Dunn</cell>
+	<cell>Ass<hi rend="sup">t</hi> Surg-</cell>
+	<cell>date</cell>
+	<cell>Aug.</cell>
+	<cell><date when="1862-08-06">6</date>.</cell>
+	<cell>1862</cell>
+</row>
+<row>
+	<cell>James J. Johnston</cell>
+	<cell>Chaplain</cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell><date when="1862-08-15">15</date>.</cell>
+	<cell>1862-</cell>
+</row>
+<row>
+	<cell>P. N. Norton</cell>
+	<cell>Ass<hi rend="sup">t</hi> Surg: -- </cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell><date when="1862-08-02">2</date>.</cell>
+	<cell>1862-</cell>
+</row>
+<row>
+	<cell>James R. Page</cell>
+	<cell>Capt: -- </cell>
+	<cell>" -- </cell>
+	<cell>"</cell>
+	<cell><date when="1862-08-14">14</date>.</cell>
+	<cell>"-</cell>
+</row>
+<row>
+	<cell>Henry J. Sheets</cell>
+	<cell>1 Lieut -- </cell>
+	<cell>" -- </cell>
+	<cell>" -- </cell>
+	<cell><date when="1862-08-14">"</date> -- </cell>
+	<cell>" -- </cell>
+</row>
+<row>
+	<cell>Tho. Mahoney</cell>
+	<cell>2 Lieut -- </cell>
+	<cell> -- </cell>
+	<cell> -- </cell>
+	<cell><date when="1862-08-14">"</date> -- </cell>
+	<cell>" -- </cell>
+</row>
+<row>
+	<cell>Silas J. J. Lee</cell>
+	<cell> -- </cell>
+	<cell> -- </cell>
+	<cell> -- </cell>
+	<cell> -- </cell>
+	<cell>" -- </cell>
+</row>
+<row>
+	<cell>Alex: G. Craddock -- </cell>
+	<cell> -- </cell>
+	<cell> -- </cell>
+	<cell> -- </cell>
+	<cell> -- </cell>
+	<cell>" -- </cell>
+</row>
+<row>
+	<cell>W<hi rend="underline"><hi rend="sup">m</hi></hi> F. Goins -- </cell>
+	<cell> -- </cell>
+	<cell> -- </cell>
+	<cell> -- </cell>
+	<cell> -- </cell>
+	<cell> -- </cell>
+</row>
+<row>
+	<cell>W<hi rend="underline"><hi rend="sup">m</hi></hi> Prewitt</cell>
+	<cell> -- </cell>
+	<cell> -- </cell>
+	<cell> -- </cell>
+	<cell> -- </cell>
+	<cell> -- </cell>
+</row>
+<row>
+	<cell>Alonzo Waldeck</cell>
+	<cell> -- </cell>
+	<cell> -- </cell>
+	<cell/>
+	<cell> -- </cell>
+	<cell> -- </cell>
+</row>
+<row>
+	<cell>Robet W. Compton</cell>
+	<cell> -- </cell>
+	<cell/>
+	<cell> -- </cell>
+	<cell/>
+	<cell> -- </cell>
+</row>
+<row>
+	<cell>Edward D. Garrard</cell>
+	<cell> -- </cell>
+	<cell> -- </cell>
+	<cell> -- </cell>
+	<cell> -- </cell>
+	<cell> -- </cell>
+</row>
+</table></p>
+<p>Over<pb/></p>
+<p><table rend="rules">
+<row>
+	<cell>Lieut:</cell>
+	<cell>Joseph E. Miller</cell>
+	<cell>pro:</cell>
+	<cell>dated</cell>
+	<cell><date when="1862-01-01">1</date></cell>
+	<cell>Jan</cell>
+	<cell>1862-</cell>
+</row>
+<row>
+	<cell>Lieut:</cell>
+	<cell>John Lucas</cell>
+	<cell>pro: -- </cell>
+	<cell>"</cell>
+	<cell><date when="1861-09-09">9</date></cell>
+	<cell>Sep.</cell>
+	<cell>1861-</cell>
+</row>
+<row>
+	<cell>Lieut:</cell>
+	<cell>W<hi rend="underline"><hi rend="sup">m</hi></hi> H. Powell</cell>
+	<cell>pro: -- </cell>
+	<cell>"</cell>
+	<cell><date when="1862-02-01">1</date></cell>
+	<cell>Feb</cell>
+	<cell>1862-</cell>
+</row>
+</table></p>
+<p>Resp<hi rend="sup">ly</hi>
+<lb/>John W. Finnell
+<lb/>Adj<hi rend="sup">t</hi> Gen<hi rend="sup">l</hi></p>
+<p><date when="1862-08-15">15. Aug. 1862</date></p>
+  </body>
+ </text>
+</TEI>

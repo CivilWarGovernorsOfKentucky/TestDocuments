@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1655"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Colvert to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6292</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR13-125 to BR13-126</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1865-04-15">15 April 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency Thomas E Bramlette
+<lb/>Governor of the Commonwealth of Kentucky</p>
+<p>Your Petitioner John Colvert would state that at the <date when="1865-02">last February</date> Term of the Marion Circuit Court he was fined the sum of five hundred for the alledged offense of <hi rend="underline">dealing faro</hi> Your Petitioner says he is not a <hi rend="underline">dealer of faro</hi>. That on some public occasion in Lebanon he happened in a Room at one of the Hotels in Said town and for the amusement of the Company dealt faro for a few hours is the offence &amp; the only one that could be proved -- He has no means himself and is a cripple &amp; in very bad health and by the Kindness of his friend who furnished the means he has paid to the Commonwealth's Attorney his part of said ^fine^ &amp; the costs of the prosecution but to pay any more he is totally unable and has no friends that will consequently he will be compelled to go to prison where in his state of health he will soon die -- Your Petitioner thinks he has paid enough for his alledged offense &amp; Therefore prays Your Excellency to remit the balance</p>
+<p>Sworn to before me by John Colvert <date when="1864-04-15">April 15/65</date><pb/></p>
+<p>The undersigned hope you will grant the Pardon as it is meretoreus &amp; ought to be done <date when="1864-04-15">April 15 1865</date></p>
+<p>John Colvert</p>
+<p><stamp type="revenue"/><note place="stamp">R H
+<lb/><date when="1865-05-26">May 26 1865</date></note>
+<lb/>Sworn to before me by John Colvert this <date when="1865-05-26">26<hi rend="sup">th</hi> day of May 1865</date></p>
+<p>R Hite J. P. M. C<pb/></p>
+<p>Marion Cir Ct
+<lb/>vs
+<lb/>John Colbert
+<lb/>Petition
+<lb/>$500.
+<lb/>Faro dealing</p>
+<p>Remit all except $50 &amp; costs &amp; fees<figure type="hr"/>
+<lb/><date when="1865-06-10">10<hi rend="sup">th</hi> June/65</date></p>
+  </body>
+ </text>
+</TEI>

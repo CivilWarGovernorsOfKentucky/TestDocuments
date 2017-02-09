@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-031-0260"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">J. G. Morrison to James F. Robinson</title>
+    <title level="a" type="parallel">CWG8000</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Appointments by the Governor, Civil Appointments, 1862-1863</collection>
+      <idno>R1-357</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Georgetown, Scott County, Kentucky</placeName>
+    <date when="1863-06-02">2 June 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Georgetown <date when="1863-06-02">June 2<hi rend="underline"><hi rend="sup">d</hi></hi> 1863.</date>
+<lb/>Governor Robinson</p>
+<p>No Election was held in the Newtown District No 8. Scott County on the first Saturday in <date when="1863-05">May last,</date> for Justices of the Peace. Consequently there is now a vacancy in Said District. John McMeekin &amp; Rice H. Parks have filled the offices of Justice of the Peace for some years and are as good men I suppose as any in the District and well qualified, I would therefore recommend to your Excellency their appointment till the first Monday in August next, if you think of no others that you would prefer to Commission,</p>
+<p>Very Respectfully
+<lb/><hi rend="underline">J. G. Morrison Pr J S C</hi><pb/></p>
+<p>Scott Co<figure type="hr"/>
+<lb/>J. P.
+<lb/>Dist N<hi rend="sup">o</hi> 8
+<lb/>Com<hi rend="sup">n</hi> Iss<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1863-06-02">June 2. 1863</date></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-028-0044"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Allen Butler to James F. Robinson</title>
+    <title level="a" type="parallel">CWG7699</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Appointments by the Governor, Military Appointments, 1862-1863</collection>
+      <idno>R2-177</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Nashville, Davidson County, Tennessee</placeName>
+    <date when="1862-09-10">10 September 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Nashville <date when="1862-09-10">Sept 10<hi rend="underline"><hi rend="sup">th</hi></hi> 1862</date>
+<lb/>Hon<hi rend="sup">r</hi>. James F. Robibnson Gov. of Ky
+<lb/>Dear Sir</p>
+<p>having been informed by Col. K. Jameson that he had appied to you for a first lieutenants Commission for me by request of one of the companies in his redgement and having procured a recomendation from Capt Blake and Maj. Gen. M<hi rend="underline"><hi rend="sup">c</hi></hi>Cook and forwarded it to Genl. Boyl I feel satisfied that if this be in your powr that a commision will be granted if ther is no positive order from the war department against it there is an order I suppose prohibitting transfurs but I dont think there is any to prevent the promotion ast for by me Col. George. T. Wood I think is one of the military board of Ky if so he can gave you my history in civil life and for my military experiance I refer you to Gen<hi rend="sup">l</hi>. m<hi rend="underline"><hi rend="sup">c</hi></hi>cook under whoes immediate command I have been since the <date when="1861-10-11">11<hi rend="underline"><hi rend="sup">th</hi></hi> of oct. 61.</date></p>
+<p>I was raised in Hart Co. Ky where I have resided until this unhappy war began and being like many others of my friends compelled leave my home I have drawn my Sword in defence of my country never to return until rebellion is putdown if I should be so fortunate as to be promoted by you I can only you to do my duty as an officer if not I will continue to do my dieuty in the<pb/>
+<lb/>ranks as a private I have seen a good chance of Service and have been in two considerable engagements for my conduct in which you can in quire of my officers I will leave this to you and await an answer</p>
+<p>I am Gov. your obedient Servent</p>
+<p>Allen Butler</p>
+<p>Direct you letter in Care of Capt. O'blake Provost marshal Gen. M<hi rend="underline"><hi rend="sup">c</hi></hi>Cooks division</p>
+<p>Allen Butler
+<lb/>recommendation</p>
+  </body>
+ </text>
+</TEI>

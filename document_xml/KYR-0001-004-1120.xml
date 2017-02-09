@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1120"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Commonwealth of Kentucky v. Frank Story, Indictment</title>
+    <title level="a" type="parallel">CWG5757</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR11-216</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Gallatin County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Gallatin Circuit Court
+<lb/>The Commonwealth of Kentucky Plff
+<lb/>against } Indictment for Felony
+<lb/>Frank Story Deft</p>
+<p>The Grand Jury of Gallatin County in the name and by the authority of the Commonwealth of Kentucky accuse, Frank Story of the offense of unlawfully taking and detaining a white woman against her will with intent to have carnal knowledge with her himself committed as follows viz</p>
+<p>The said Frank Story in the county circuit and state aforesaid on the <gap/> Day of <date when="1863-07">July 1863</date> did unlawfully take and detain <unclear>medora</unclear> Jane Kelly a white woman, against her will with intent to have carnal knowledge with her himself Contrary to the Statute in Such case made and provided and against the peace and Dignity of the Commonwealth of Kentucky</p>
+<p>John L Scott
+<lb/>Com<hi rend="sup">th</hi> atto for 8<hi rend="underline"><hi rend="sup">th</hi></hi> J D<pb/></p>
+<p>Gallatin Cir Ct
+<lb/>The Commonwealth against Frank Story<figure type="hr"/>
+<lb/>A Copy<figure type="hr"/>
+<lb/>remitted
+<lb/><date when="1864-08-06">6<hi rend="sup">th</hi> Aug/64</date></p>
+  </body>
+ </text>
+</TEI>

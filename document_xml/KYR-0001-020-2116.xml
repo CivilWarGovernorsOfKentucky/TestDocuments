@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-2116"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Beriah Magoffin to Wiley P. Fowler</title>
+    <title level="a" type="parallel">CWG9192</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG24-178</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1862-05-20">20 May 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>EXECUTIVE DEPARTMENT,
+<lb/>Frankfort, Ky. <date when="1862-05-20">May 20, 1862.</date>
+<lb/>Hon W. P. Fowler
+<lb/><hi rend="str">Dear Sir:</hi> Smithand Ky -- </p>
+<p>Your communication is received. For the dignity of the bench for the honor of the state ^in the name of the liberty of our people^ I hope you will pay no attention to the illegal unconstitutional and tyrannical action of Capt Stacy -- Go on and hold your Courts under the laws &amp; constitution, and do not degrade yourself, <hi rend="str"><unclear>the people you repri</unclear></hi> your district or the State by appearing at Paducah <hi rend="str">to</hi> before the Military Subaltern, no matter by whose order. Each department of the government must be preserved within its legitimate sphere of action or we are lost. I will send your Communication to the President -- </p>
+<p>B. Magoffin<pb/></p>
+<p>Copy<figure type="hr"/>
+<lb/>Letter to Hon W. P. Fowler also Telegraphic Dispatch
+<lb/>Sent <date when="1862-05-20">May 20 1862</date></p>
+  </body>
+ </text>
+</TEI>

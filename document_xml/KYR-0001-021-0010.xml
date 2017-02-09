@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-021-0010"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Unknown to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG3080</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Apprehension of Fugitives from Justice Papers, 1859-1862</collection>
+      <idno>MG8-81 to MG8-82</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1860-12-12">12 December 1860</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>The description of William Gardner Capps he is about 17 years of age weighs about 140 or 50 lbs he is lite complected lite hair very little if any beard. blue eyed. he is about 5 feet 10 inches high. The said Capps is supposed to have gone to N. C.</p>
+<p>B K Bothurum J R C<pb/></p>
+<p>Offer reward
+<lb/>of $200 -- B. M.<pb/></p>
+<p>To his Excellency
+<lb/>B. Magoffin governor of the
+<lb/>Commonwealth of Ky</p>
+<p>William gardner Capps having murdered Jessee Burton in the county of Rockcastle state of Ky and having fled from justice This is to petition your Excellency to offer a reward for his apprehension</p>
+<p>B. K. Bothurum J R C<pb/></p>
+<p>$200 Reward<figure type="hr"/>
+<lb/>W.G. Capps
+<lb/>off<hi rend="sup">d</hi>. <date when="1860-12-12">Dec 12 1860</date></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1215"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">D. Head to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10683</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG21-58 to MG21-59</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Providence, Webster County, Kentucky</placeName>
+    <date when="1861-07-05">5 July 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Providence Ky <date when="1861-07-05">July 5<hi rend="sup">th</hi> 1861</date>
+<lb/>To his Excellency
+<lb/>The Gov of Kentucky
+<lb/>Dear sir</p>
+<p>I have <hi rend="str">been</hi> assigned the petition asking you to remit the Judgement against Benj Armstrong &amp; <hi rend="str">and</hi> have ^also^ seen the letter of E P Campbell and endorse &amp; approve of all that ^is^ said in the Petition &amp; letter</p>
+<p>It was my sons that charged with Joel H Armstrong with theft &amp; have him arrested hearing of which I immediately called on B. Armstrong the father of J. H. &amp; went with him to Princeton to see about the case, found his son under guard trying to procure a friend to assign his hand to keep him from Jail. he seems much dejected and made the kind of appeal to his father that any Parent would have yielded too, though he had told me on our way over that he could not go into a bond as he had nothing to spare from the support of his family &amp; should his son not appear. there are none who sympathise with the son but not a man in the whole country but deeply sympathise with the father he served his Country faithfully in the war of 1812 is a clever man &amp; universally respected by all<pb/>
+<lb/>who know him. is <hi rend="str">also</hi> barely able to pay the Judgement by selling his little home which is his only reliance to raise his family if you will relieve him ^from^ this Judgement you<hi rend="str">r</hi> will gratify this whole community</p>
+<p>Respectfully yours
+<lb/>D Head</p>
+  </body>
+ </text>
+</TEI>

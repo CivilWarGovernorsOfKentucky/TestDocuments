@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2716"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">James W. Bobbitt et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7353</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR16-367 to BR16-368</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><hi rend="underline">To</hi> His Exellency Thomas E Bramlette
+<lb/>Governor of the Commonwealth</p>
+<p>Your petitioner William C Bates respectfully states that he was indicted for Keeping a tipling house and at the <date when="--10">October</date> term of the Wayne Circuit Court Judment was taken against him for said offense for sixty dollars,</p>
+<p>He states that at the time he Kept said tipling house. there were no courts held in his County and that he could not obtain license as required by law -- that the only Kind of license granted was military license which he was told that as the state was under martial law was all that was required -- and which he preparatory to commencing business procured,</p>
+<p>He states that the failure to get license was not from any neglect on his par<hi rend="str">d</hi>t or from any disposition or intention of evading the law -- but That the procured the military license in good faith -- and was assured that after having obtained <hi rend="str">them</hi> it that he had done all that was required of him -- </p>
+<p>He prays that his fine may be remitted,</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>James. W. Bobbitt
+<lb/>James Ingram
+<lb/>Pearson Miller
+<lb/>W L Warden
+<lb/>J. P. Dick
+<lb/>H Huffaker
+<lb/><cb n="2"/>Wiiliam C Bates.
+<lb/>F. N, Alexander
+<lb/>F Bates
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Tingle
+<lb/>Absalom Miller
+<lb/>H. B. Carter
+<lb/>Joshua Berry
+<lb/>J H Meadows
+<lb/>J T Wilhite
+<lb/>Thomas Simpson -- <pb/></p>
+<p>Monticello Ky <date when="1865-11-27">Nov., 27<hi rend="sup">th</hi> 1865</date>
+<lb/>To the Hon" E. L. Vanwinkle
+<lb/>D<hi rend="sup">r</hi> Sir</p>
+<p>I have the pleasure of recommending M<hi rend="underline"><hi rend="sup">r</hi></hi> Bates <hi rend="str">M</hi> to the clemency of his Excsellency the Gov. It seems from what I can learn that said Bates was not in fact guiltiy of any violation of Law. from the fact that there was no court in his county but that the whole country was under miliatry rule &amp; he your petioner ask nothing at the hands of the government he haveing served his time in the military service for which he has an honorble discharge.</p>
+<p>In conclusion I would ask that an honorable soldier be dealt with as kindly as the Law permit</p>
+<p>Your frind
+<lb/>Ja<hi rend="underline"><hi rend="sup">s</hi></hi> D. Martin<pb/></p>
+<p>Wayne Cir Court
+<lb/>vs
+<lb/>W<hi rend="sup">m</hi> C Bates
+<lb/>$60
+<lb/>Tipling
+<lb/><date when="1865-12-02">2<hi rend="sup">d</hi> Dec /65</date>
+<lb/>Remit
+<lb/>Fee <unclear/></p>
+  </body>
+ </text>
+</TEI>

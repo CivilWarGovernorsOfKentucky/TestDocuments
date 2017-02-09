@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2244"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Commonwealth of Kentucky v. John Hudson, Indictment</title>
+    <title level="a" type="parallel">CWG6881</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR15-67</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Mercer County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Be it remembered that heretofore to wit: on the <date when="1865-10-15">15 day of Oct 1865</date> the following Indictment was found by the grand Jury of Mercer County Ky to wit:</p>
+<p>The Commonwealth of Kentucky
+<lb/>against } Mercer County Circuit Court
+<lb/>John Hudson</p>
+<p>The Grand Jury of Mercer County in the name and by the authority of the Commonwealth of Kentucky accuse -- 
+<lb/>John Hudson
+<lb/>of the offence of Grand Larceny committed as follows the said John Hudson in the <date when="1863-07-01">1<hi rend="sup">st</hi> day of July 1863</date> in the county aforesaid, did unlawfully and feloniously steal, take and carry away one horse beast of value of seventy five dollars of the personal property of William Hickman agaisnt the peace and dignity of the Commonwealth of Kentucky</p>
+<p>Witnesses before the Jury
+<lb/>Harvey Cunningham S D Ervin
+<lb/>W H Hawkins N E Clelland
+<lb/>James Nichols
+<lb/>James Currens
+<lb/>W B Hickman</p>
+<p>L H Noble Attorney for the Commonwealth</p>
+<p>upon the Back of the foregoing are the following endorsements to wit:</p>
+<p>A true Bill William Daviess foreman of Grand Jury</p>
+<p><date when="1863-10-15">1863 Oct ^15^</date> filed
+<lb/>Richard Board clk<pb/></p>
+<p>A Copy Attest
+<lb/>Richard Board clk</p>
+<p>The Commwth
+<lb/>vs } Copy Indict
+<lb/>John Hudson
+<lb/>For Deft
+<lb/>Fee.50</p>
+<p>Mercer Cir Ct
+<lb/>vs
+<lb/>John Hudson
+<lb/>Pardoned
+<lb/><date when="1865-08-10">10<hi rend="sup">th </hi>Aug 1865</date></p>
+  </body>
+ </text>
+</TEI>

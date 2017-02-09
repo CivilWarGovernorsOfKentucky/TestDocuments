@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1327"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">William O. Haly et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10795</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG21-232 to MG21-233</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency B Magoffin Gov: of Kentucky</p>
+<p>Your petitioner William Haley states, that he was indicted in the City Court of Louisville, for an assault &amp; Battery, on a man by the name of Peter Carey; and was fined therefor, twenty five Dollars. The facts are these. Peter Carey threatened to shoot, with a gun which he then held in his hand, a woman by the name of Margaret Smith, with whom the wife of Carey shortly before, had had a difficulty; and your petitioner fearing that Carey would execute his threat, or do some other personal violence to Margaret Smith, struck Carey, to prevent him from executing his purpose. The blow<pb/>
+<lb/>did Carey no damage, but it alarmed ^him^ sufficiently to make him desist from ^attempting to^ injure<hi rend="str">ing</hi> the woman.</p>
+<p>Times a very hard, and your petitioner is unable to raise money to pay the fine. The consequence is that incarceration in the City Prison will follow, unless your Excelleny will interfere and grant him, a remission or a respite of the fine: Your petitioner has a family, who will suffer for the necessaries of life if he is incarcerated.</p>
+<p>I pray your Excellency to afford me relief } William O Haly<pb/></p>
+<p><milestone unit="column" n="2"/><cb n="1"/>M. A. Walker
+<lb/>Jas Lavile
+<lb/>John Langdon
+<lb/>Edward O.Maley
+<lb/>Michael. A. OMalley
+<lb/>John. Kelley
+<lb/>Patrick Brown
+<lb/>Owen Sullivan
+<lb/>Charles Haugh
+<lb/>Michl Haugh
+<lb/>Daniel Haugh
+<lb/>Simon Canady</p>
+<p><cb n="2"/>The Persons who have signed this Petition are citizens &amp; neighbors of the Petitioner</p>
+<p><hi rend="underline">Geo. W. Johnston.</hi><milestone unit="column" n="1"/><pb/></p>
+<p>Petition</p>
+<p>Respite 12 Mo
+<lb/>B. M</p>
+<p>Louisville City Ct
+<lb/>$25. } Assault
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Haley</p>
+<p>Iss<hi rend="sup">d</hi> <date when="1861-08-14">Aug 14. 1861</date></p>
+  </body>
+ </text>
+</TEI>

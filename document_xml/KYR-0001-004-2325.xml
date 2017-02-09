@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2325"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Elizabeth Earles to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6962</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR15-214 to BR15-215</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1865-09-11">11 September 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his excelence the govnor of the commonwelath of Kentucky ^Elizabeth Earles^ wold Respectifull Represent to your <hi rend="str">hon</hi> Excelence that she was indited for keeping a tipling house and <hi rend="str">wa</hi> at this present turm of the Whitley Circuit Court that she was fined by the Court for retaling and a judgemnt renderd against her for $20,00 she states that she acted in good faith in selling the Spirett and that was told she had a perfect rite to sell and did not have any intent of violating the law but acted in good father she states that She is a widow women and has a house full of Little Children and is vary pore and has not the property to pay Said debt and do justice to <hi rend="str">the</hi> <hi rend="str">Remainder</hi> as her famley in truth has not the money and will have to sell a milke cow and tak the milk from her little children to pay the debt</p>
+<p>The <hi rend="str">pr</hi> prares of the <hi rend="str">plaintif</hi> your petitioner is that your exelence Remite the fine and set a Side the judgment and of all proper Releaf</p>
+<p>Elizabeth Earles<pb/></p>
+<p>Elizabeth Earles Says that he she leavs the Statements in the foregoing petition to be true</p>
+<p>Elizabeth Earles</p>
+<p>Sworn to before me by Elizabeth Earles this <date when="1865-09-11">11<hi rend="underline"><hi rend="sup">th</hi></hi> day of September 1865</date></p>
+<p>O. J. Skiner J P</p>
+<p>The under Signed Say that the Petitioner is a poore women and a widow and has sevral small children and that they beleave it wold be an act of charity to Remit the fine</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>William Rogers
+<lb/>J. E. edwards
+<lb/>G. L. Moore
+<lb/>William cummins
+<lb/>Jack Rains
+<lb/>William Taylor
+<lb/>G B. More
+<lb/>Seth <unclear>Thurmen</unclear>
+<lb/>John J Rogers
+<lb/>C E Litovic<hi rend="str">st</hi>
+<lb/>J G Farris
+<lb/>Jackson Ward
+<lb/>H H Mahin
+<lb/>P.. G.. Bryant
+<lb/>W. C. Gilliss
+<lb/>Luke Moore
+<lb/>James W Wingfield
+<lb/><cb/>W. B. Morgan<pb/></p>
+<p><milestone unit="column" n="1"/>Gov Bramblet</p>
+<p>I hope that you will remit the fine against M<hi rend="sup">rs</hi> Earls</p>
+<p>G Pearl Judg
+<lb/>H F Finley Com att</p>
+<p>Whitley Cir Ct
+<lb/>vs
+<lb/>Remit
+<lb/>Elizabeth Earles
+<lb/>$20.
+<lb/>Tipling
+<lb/><date when="1865-09-28">28 Sept/65</date></p>
+  </body>
+ </text>
+</TEI>

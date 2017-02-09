@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-117-0033"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Boyle to W. H. Sidell</title>
+    <title level="a" type="parallel">CWG13862</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Christina K Adkins</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>Adjutant General Letter Book - No. 3 ; 9 April - 25 May 1864</collection>
+      <idno>368 to 369</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1864-05-17">17 May 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><note place="header">368</note>
+<lb/><date when="1864-05-17">May 17<hi rend="underline"><hi rend="sup">th</hi></hi> <gap/>4</date>
+<lb/>Major W H. Sidell U.S.A.
+<lb/>Asst Pro M. Gen<hi rend="underline"><hi rend="sup">l</hi></hi>
+<lb/>Louisville Ky.
+<lb/>Major.</p>
+<p>I have the honor, to acknowledge the receipt of your communication of the <date when="1864-05-16">16<hi rend="underline"><hi rend="sup">th</hi></hi> inst.</date> The mail facilities between some of our posts of rendezvous and these Head Quarters is such, that the details of recruiting officers comes in very slowly. The draft now being enforced in various sections of the state, has materially retarded our efforts in raising these troops. However, his Excellency the Governor has determined that they shall be raised in the required time, if he has to resort to a draft. I hope to be able, in a few days, to report accurately the number rendezevoused at each post. Your mention of Pro M Genl<hi rend="sup">s</hi> direction about mustering these troops in by regiments was duly noted, and directions given accordingly. Col Gallup stated he would<pb/>
+<lb/><note place="header">369</note>
+<lb/>be able to report the first regiments in a short time. We desire to have the recruits clothed and enlisted as fast as the report at the different post preparatory to regimental organizations.</p>
+<p>Very Respectfully
+<lb/><hi rend="underline">John Boyle</hi>
+<lb/>Adj<hi rend="sup">t</hi> Gen<hi rend="sup">l</hi> Ky</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-2290"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">F. Kerns to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG9366</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG25-40</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency -- 
+<lb/>Gov Mcgoffin</p>
+<p>Your petitioner Frank Kern states that he agreed to pay $6000 for some property in Louisville and he paid thereon $4200. -- That the remainder $1800. was such on and his property has <hi rend="underline">all been sold</hi> and only bought the $<hi rend="underline">1800.</hi> owing to the presure caused by the war, that he supported his family while paying for his property by Keeping a coffee house, that owing to his trouble at loosing all his property, he forgot the day his licensens to keep the coffee house run out, and he was indicted four times and find $100. in all and $43.80 cost besided Commissions &amp;<hi rend="underline"><hi rend="sup">c </hi></hi>&amp;<hi rend="underline"><hi rend="sup">c</hi></hi>, that he stoped selling so soon as he was indicted until he procured licens, that he now has licens. -- He says that the execution is in the hands of the officer, and the return day is next monday. <hi rend="str">31 Marc</hi>h <date when="1862-04-07">7 April 1862</date>, that if he has to pay it, it will take every thing he has in the world, and leave his family in want, that owing to wounds recieved and expenses in the Mixicon War under Genl Taylor, he is unable to perform manuel labor, under the circumstances above, he pays your Excellency to remit the fine. -- </p>
+<p>Capt F Kerns</p>
+  </body>
+ </text>
+</TEI>

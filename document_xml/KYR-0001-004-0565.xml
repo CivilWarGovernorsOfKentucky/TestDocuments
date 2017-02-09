@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0565"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">V. B. Young et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG4684</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR9-395</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Owingsville, Bath County, Kentucky</placeName>
+    <date when="1864-03-14">14 March 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency Tho<hi rend="sup">s</hi> E Bramlett Governor of the Commonwealth of Kentucky. <hi rend="str">Your</hi> We the undersigned Citizens of the County of Bath would respectfully represent unto your Excellency, that at the <date when="1861-03">March Term of the Bath Circuit Court 1861</date>. there was a Judgment obtained against John Stewart of this County for the sum of $30 for a breach of the peace. We would State that the Judgment was obtained agst Mr Stewart in his absence, and that the Judgmt was erroneous, as there was other parties concerned in said breach of the peace and Mr Stewart was only a witness to the affray. We would therefore in view of these facts petition your Excellency to remit said fine, as we deem the facts sufficient to warrant a remission. Owingsville Ky <date when="1864-03-14">March 14<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date></p>
+<p>V. B. Young C B C C
+<lb/><milestone unit="column" n="1"/><cb n="1"/>H M. Butcher
+<lb/>Toliver Anderson
+<lb/>W<hi rend="sup">m </hi>H M<hi rend="sup">c</hi>Bee
+<lb/>Garret Hendrix
+<lb/>Cornelious Anderson
+<lb/>Jos T Swetnam
+<lb/>S. V. Brother
+<lb/>J G Here
+<lb/>John Doyle
+<lb/>Daniel Harper,
+<lb/>Josel faggatt
+<lb/>E. Williams
+<lb/>W<hi rend="sup">m</hi> W. Cartmill
+<lb/>William Sexton
+<lb/>J T Honerman
+<lb/>G W Coyle
+<lb/>Eli W. Fleming
+<lb/><cb n="2"/>E. Brady
+<lb/>W. N. Arnett
+<lb/>John Biggers
+<lb/>J. J. Fleming
+<lb/>Thomas Barber jr
+<lb/>Jno G. Grimsley
+<lb/>Davis Butler
+<lb/>John Dickin<milestone unit="column" n="1"/></p>
+<p>Bath Co
+<lb/>Refused
+<lb/>Tho E Bramlette
+<lb/><date when="1864">64</date></p>
+  </body>
+ </text>
+</TEI>

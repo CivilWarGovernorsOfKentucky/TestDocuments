@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-2019"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">James Rowland Ragland, Oath</title>
+    <title level="a" type="parallel">CWG9095</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG24-20</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Jefferson County, Kentucky</placeName>
+    <date when="1862-06-16">16 June 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>State of Kentucky
+<lb/>Jefferson County } SS</p>
+<p>This day James Rowland Ragland Made oath before Me a Justice of the peace for said County that on or about the <date when="1862-05-20">twentieth day of May 1862</date> he was robbed in the City of Louisville Jefferson County Kentucky of about the Sum of Six Hundred dollars Consisting of Kentucky Bank notes and United States Treasury Notes in all of the Value of Six Hundred dollars also at the same time and place he was robbed of Sundry promisory notes given to affiant for the payment of Money by responsible persons to the amount of Two Thousand Dollars and More and that he believes and Charges that Robert Ward feloniously Maliciously Committed Said Robbery and took and Stole and Carried away from the person of affiant at that time and place the aforesaid Sum of Six Hundred Dollars in Money and the Said promisory Notes for two Thousand Dollars and more and affiant is informed and believes that said Robert Ward is Now a fugitive from the Justice of the State of Kentucky and is in and residing and Sojourning in the State of Iowa Clinton or some other county in said states of Iowa</p>
+<p>James. Rowland. Ragland</p>
+<p>Subscribed and Sworn to before me by James Rowland Ragland this <date when="1862-06-16">16th day of June 1862</date></p>
+<p>N. T. Ragland J. P J. C<pb/></p>
+<p>Iowa<figure type="hr"/>
+<lb/>Requisition for Robt Ward
+<lb/>Felony</p>
+<p>Delos T. Bligh
+<lb/>Iss<hi rend="sup">d</hi> <date when="1862-06-16">June 16 1862</date></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-2253"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Thomas Cooke et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG9329</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG24-412 to MG24-413</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency Beriah Magoffin Gov<hi rend="sup">r</hi> of Kentucky
+<lb/>Respected Sir</p>
+<p>We whose names are signed below respectfully petition for the pardon of Thomas Birmingham who was Indicted in the Jefferson Circuit Court for Malicious Stabbing, the claims to clemency are that two witnesses for the Com<hi rend="underline"><hi rend="sup">th</hi></hi> alone were examined in the case &amp; the principal witness bor evident marks of gross dissipation &amp; worthlessness the other saw but little of the transaction they swore to enough to induce the jury to find the Deft guilty, but it was agreed by us before returning the verdict to recommend the Deft to mercy, he had been confined in jail a length of time &amp; had no opportunity of procurring the attendance of witnesses to testify in his behalf, the principal witness we believe had lived with the Deft &amp; mainly at his Expense &amp; were drunk together when the stabbing occurred &amp; they were possibly &amp; probably alike in fault, about one week since &amp; whilst prisoner was in jail his wife died leaving two children, needing the case of a parent, as they are now kept at the house of a charitable neighbor, with their considerations We join heartily in praying y<hi rend="sup">r</hi> Excellency to pardon the afs<hi rend="sup">d</hi> Thomas Birmingham</p>
+<p>the following are the names of the Jurors</p>
+<p><milestone unit="column" n="3"/><cb n="1"/>Thos Cooke
+<lb/>B. R. Clark
+<lb/>M S. Grass
+<lb/>L, S, <unclear>Jummer</unclear>
+<lb/>Allen, Kendall
+<lb/><cb n="2"/>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> Reese
+<lb/>C. R. Stouffer
+<lb/>Sam Carwell
+<lb/>R. P. Lightbrown
+<lb/>L. C Smith
+<lb/><cb n="3"/>H Brukhardt<pb/>
+<lb/><milestone unit="column" n="1"/><hi rend="str">Thos Browning</hi>
+<lb/>J N Hodges
+<lb/>L H Rousseau
+<lb/>E S. Worthington
+<lb/>M. M. McCunly
+<lb/>B Bacon
+<lb/>Alex B Ferguson</p>
+<p>The Jury in their verdict recommended Executive clemency</p>
+<p>Pat Hawes
+<lb/>P. D.<pb/></p>
+<p>Birminghams case
+<lb/>Pen<hi rend="sup">y</hi> -- Malicious stabbing -- </p>
+  </body>
+ </text>
+</TEI>

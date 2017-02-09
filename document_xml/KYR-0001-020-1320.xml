@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1320"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">James A. Tomlinson to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10788</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG21-218 to MG21-219</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1861-08-14">14 August 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency the Govenor of Ky.</p>
+<p>Your Petitioner James A Tomlinson states that on Saturday <date when="1861-08-03">3<hi rend="sup">d</hi> of Aug 1861</date> having been during the day at a <unclear/> in the Country he returned to Harrodsburg and on reaching town he saw two men in a fight One of whom was a man by the name Coak. Petitioner dismounted from his horse to seperate them and was knocked down with a rock in his Effort to make peace <unclear/>. He inquired who struck him and he was referred by several persons present that it was Coak whom he was trying to get out of the fight. he thencefore struck Coak several times under great passion and provocation and as he concurs in the necessary defence of his own personal rights as a peace maker. Petitioner being Young and inexperienced was persuaded under the circumstances to Confess judgment before C Chinn Judge of Mercer County Court for $30 -- <pb/>
+<lb/>which sum on reflection and the advice of friends he thinks he should not be made to pay. wherefore he asks that in justice to him that a fine may be remitted -- </p>
+<p>James A Tomlinson</p>
+<p>James A Tomlinson states on oath that the statements contained in this petition are true</p>
+<p>James A Tomlinson</p>
+<p>Sworn to before me <date when="1861-08-14">14<hi rend="sup">th</hi> Aug 1861</date> by J A Tomlinson</p>
+<p>Chr Chinn P J M C C</p>
+<p>The undersigned join in the petition above and ask the Govenor to remit above fine</p>
+<p>Ben. C. Trumball</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Tho<hi rend="sup">s</hi> Adams
+<lb/>T. O. Mann
+<lb/>J. W. Bingham
+<lb/>J A Thompson
+<lb/>S Bunton
+<lb/>Dan<hi rend="sup">l</hi> Stagg
+<lb/>S. M Brayer
+<lb/>Waller Handy
+<lb/><cb n="2"/>C M Tucker
+<lb/>Dr Tho<hi rend="sup">s</hi> H Buckner
+<lb/>J A Hall
+<lb/>J M Sillam
+<lb/>T M Young
+<lb/>A Portman
+<lb/>R. R. Herst
+<lb/>John Slavens Jr
+<lb/>W S Alexander
+<lb/>Theo H Davids<milestone unit="column" n="1"/><pb/></p>
+<p>Mercer Co. Ct.
+<lb/>$30. } Breach
+<lb/>J. A. Tomlinson</p>
+<p>Remission Iss<hi rend="sup">d</hi> <date when="1861-08-16">Aug. 16. 1861</date></p>
+  </body>
+ </text>
+</TEI>

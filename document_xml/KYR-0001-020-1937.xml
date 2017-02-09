@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1937"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Michiel Farrel to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG11405</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Bradley Strait</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG23-377 to MG23-378</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Jefferson County, Kentucky</placeName>
+    <date when="1862-05-12">12 May 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency
+<lb/>Beriah Magoffin
+<lb/>Governor of Kentucky</p>
+<p>Your Petitioner Michiel Farrel would respectfully state that he was tried in the Jefferson Circuit Court on an indictment for malicious stabing, &amp; that the Jury recomended your petitioner to your Excellency's Clemency. See copy of the verdict,</p>
+<p>Your petitioner states in all honesty that he had no malice when he stabed his adversary, that what he did he conceived to be his duty, &amp; that he did it to save himself from great bodily harm.</p>
+<p>Your petitioner has a wife &amp; children &amp; they are dependent sorely upon him for a surport, &amp; he asks your Excellency to grant him a pardon</p>
+<p>Michiel ^his X mark^ Farrel</p>
+<p>We of the jury find the Defendant quilty as charged in the within indictment and say he shall be confined in the Jail or penetentiary for one year. But recommend him to Executive Clemency</p>
+<p>John Gill, foreman</p>
+<p>I hereby Certify that the above is a true Copy of the verdict in the Case of the Comwlth vs Michael Farrell. <date when="1862-05-12">May 12 1862</date></p>
+<p>Attest Jas P Chambers c J c c<pb/></p>
+<p>Jefferson Cir Ct
+<lb/>Michael Farrell
+<lb/>Malicious Stabbing
+<lb/>1 yr. Penty
+<lb/><hi rend="str">I</hi>Pardon Iss<hi rend="sup">d</hi> <date when="1862-05-14">May 14. 1862</date></p>
+  </body>
+ </text>
+</TEI>

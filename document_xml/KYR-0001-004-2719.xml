@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2719"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Philip Tomppert et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7356</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR16-373 to BR16-374</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date when="1865-11-14">14 November 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Louisville <date when="1865-11-14">Nov<hi rend="underline"><hi rend="sup">r</hi></hi> 14<hi rend="underline"><hi rend="sup">th</hi></hi> 1865</date>
+<lb/>Hon Thos E Bramlette
+<lb/>Gov<hi rend="underline"><hi rend="sup">r</hi></hi> of Ky.
+<lb/>Sir.</p>
+<p>Your petitioner Jacob Hyler would respectfully represent that at the <date when="--11">November</date> Term of the Louisville City Court he was fined fifty dollars for an assault &amp; battery committed on Ambrose Snyder. He would respectfully state that he is a poor man and unable to pay the fine imposed -- Circumstances surrounding the case ought he thinks to appeal to you for the exercise of your clemency</p>
+<p>We respectfully join in the prayer of the petitioners.</p>
+<p>Philip Tomppert Mayor
+<lb/>A Gilmore Chef of Police
+<lb/>Phil Tomppert Jr C. C. C. L.
+<lb/>James P Harbeson City Judge
+<lb/>H F Vissman
+<lb/>Hays &amp; Cooper</p>
+<p>I thought, that $25 -- fine against Mr Ayler would have been Enough</p>
+<p>W, G, Reasor<pb/></p>
+<p>Louisvile City Ct
+<lb/>vs
+<lb/>Jacob Hyler
+<lb/>$50,
+<lb/>Remit
+<lb/>$25 fine
+<lb/>Assault &amp; Battery
+<lb/><date when="1865-11-23">23<hi rend="sup">rd</hi> Nov/65</date></p>
+  </body>
+ </text>
+</TEI>

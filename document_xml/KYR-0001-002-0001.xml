@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-002-0001"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">William T. Sherman to John Sherman</title>
+    <title level="a" type="parallel">CWG0866</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Jacob A Glover</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Appointments by the Governor, Military Appointments, 1863-1867</collection>
+      <idno>BR5-306 to BR5-307</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Bridgeport, Jackson County, Alabama</placeName>
+    <date when="1863-11-18">18 November 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Head Qrs Army of the Tennessee
+<lb/>Bridgeport <date when="1863-11-18">Nov. 18. 1863</date>
+<lb/>Hon. John Sherman
+<lb/>Washington D. C.
+<lb/>Dear Brother:</p>
+<p>I enclose you a letter just received from Col. W. J. Landram of the 19<hi rend="underline"><hi rend="sup">th</hi></hi> Ky. He was one of the first Kentuckians who came forward to volunteer his services, and I know he has commanded a Brigade for a long time. He commanded one at Chickasaw last winter and also at Vicksburg, and why he has not been promoted I cannot imagine.</p>
+<p>A great many Brigadiers are laying about loose without commands and Colonels are doing their duty</p>
+<p>I think it right that all Brigadiers who by going on furlough lost their commands should stay out unless their absence results from wounds or sickness<pb/>
+<lb/>incurred in service. I wish you would befriend Col. Landram in every way possible</p>
+<p>Affectionately
+<lb/>{signed} W. T. Sherman
+<lb/>(A copy)</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0485"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Watts, Oath</title>
+    <title level="a" type="parallel">CWG2150</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Appointments by the Governor, Civil Appointments, 1863-1867</collection>
+      <idno>BR2-439</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Santa Fe County, New Mexico Territory</placeName>
+    <date when="1865-07-08">8 July 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><hi rend="str">Territorial</hi> Oath of Office and Allegiance
+<lb/>TO THE
+<lb/>GOVERNMENT OF THE UNITED STATES.</p>
+<p>I, -- John Watts of the County of Santa Fe in New Mexico having been appointed and commissioned as a Commissioner of Deeds for Kentucky in New Mexico do solemnly swear, that I have never, voluntarily, borne arms against the United States since I have been a citizen thereof; that I have voluntarily given no aid, countenance, counsel, or encouragement to persons engaged in armed hostility thereto; that I have neither sought, nor accepted, nor attempted to exercise the functions of any office whatever, under any authority, or pretended authority, in hostility to the United States; that I have not yielded a voluntary support to any pretended government, authority, power, or constitution, within the United States, hostile or inimical thereto. And I do further swear that, to the best of my knowledge and ability, I will support and defend the constitution of the United States against all enemies, foreign and domestic; that I will bear true faith and allegiance to the same; that I take this obligation freely, without any mental reservation or purpose of evasion. And I do further swear that I will perform faithfully and truly to the best of my ability, all the duties of my said office. <hi rend="italic">So help me God.</hi></p>
+<p>John Watts Commissioner
+<lb/>For Kentucky in New Mexico</p>
+<p><figure type="seal"><ab>JOHN WATTS
+<lb/>COMMISSIONER FOR Kentucky
+<lb/>SANTA FE, NEW MEXICO</ab></figure></p>
+<p>TERRITORY OF NEW MEXICO,
+<lb/>County of Santa Fé } SS.</p>
+<p>I, Kirby Benedict Chief Justice of the Supreme Court in said Territory do certify that the afore-named -- John Watts --, on this -- <date when="1865-07-08">8<hi rend="underline"><hi rend="sup">th</hi></hi> -- day of -- July --, A.D., 1865</date>, did personally appear and take and subscribe the oath, as above, before me.</p>
+<p>Kirby Benedict
+<lb/>Chief Justice SCt</p>
+<p><stamp type="revenue"/><note place="stamp"><date when="1865-07-08">July 8
+<lb/>1865</date>
+<lb/>KB</note><pb/></p>
+<p>Comr Deeds
+<lb/>New Mexico
+<lb/>Oath of John Watts
+<lb/>filed <date when="1865-08-01">1<hi rend="sup">st</hi> Aug 1865</date></p>
+  </body>
+ </text>
+</TEI>

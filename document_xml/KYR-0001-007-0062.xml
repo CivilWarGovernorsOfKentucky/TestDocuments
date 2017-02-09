@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0062"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Samuel Cross to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG1727</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Appointments by the Governor, Civil Appointments, 1863-1867</collection>
+      <idno>BR1-449</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Sacramento, Sacramento County, California</placeName>
+    <date when="1863-11-19">19 November 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency
+<lb/>The Governor of Kentucky</p>
+<p>The Undersigned, for 12 Years a resident of Sacramento City California and a practising attorney &amp; Notary Public therein, respectfully petitions your Excellency for an appointment as Commissioner of Deeds &amp;c in this place for your State. If granted I will endeavor to discharge my Duties with faithfulness &amp; accuracy</p>
+<p>Very Respectfully
+<lb/>Your Obt Servt
+<lb/>Samuel Cross</p>
+<p>Sacramento City Cal
+<lb/><date when="1863-11-19">Nov. 19<hi rend="sup">th</hi> 1863</date></p>
+<p>We the Subscribers, citizen of the City of Sacramento State of California, from long and intimate acquaintance and intercourse with Mr. Samuel Cross, Cordially recommend his appointment to the office he Seeks. His business habits Integrity &amp; Loyalty render him well qualified &amp; it is a Safe appointment &amp; needed here</p>
+<p>Robt C Clark
+<lb/>County Judge Sacramento County
+<lb/>Jno H McKeene
+<lb/>Dist Judge 6<hi rend="sup">th</hi> Dis<hi rend="sup">t</hi>
+<lb/>E. B. Crochers
+<lb/>Justice of Supreme Court.<pb/></p>
+<p>California
+<lb/>Com of Deeds
+<lb/><date when="1863">63</date></p>
+  </body>
+ </text>
+</TEI>

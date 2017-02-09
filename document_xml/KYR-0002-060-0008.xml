@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-060-0008"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">A. D. Hynes to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG13624</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>Active Militia Records - Capital Guards, North Cumberland Btn., and Three Forks Btn.</collection>
+      <idno>Box 76, Folder 864-866 1st REGT CAPITAL GUARDS CO A Frankfort Bn CORRESPONDENCE PERTAINING TO OFFICERS</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Bardstown, Nelson County, Kentucky</placeName>
+    <date when="1864-06-08">8 June 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Bardstown Ky
+<lb/><date when="1864-06-08">June 8<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date>.
+<lb/>His Excellency
+<lb/>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> E Bramlette
+<lb/>Gov<hi rend="sup">r</hi> State Ky,
+<lb/>Govenor.</p>
+<p>I have the honor to enclose a letter from Col Wolford.</p>
+<p>I saw him on Monday, and he was pleased to say, that he would be glad if you would at once issue my commission</p>
+<p>He requested me to say to you, that it would be necessary to have a mustering officer at Lebanon by the <date when="1864-08-19">19<hi rend="sup">th</hi> inst</date> -- as the Companies would be on the ground by that time.</p>
+<p>He is confident that he will have more than enough to fill his Regiment.</p>
+<p>I have the honor to be your most obt servt.
+<lb/>Al. D. Hynes.</p>
+<p>A. D Hynes Adj<hi rend="underline"><hi rend="sup">t</hi></hi>
+<lb/>1 Reg<hi rend="underline"><hi rend="sup">t</hi></hi> Capitol Guard
+<lb/><date when="1864-05-15">May 15. 1864</date><pb/></p>
+<p>Bardstown Ky
+<lb/><date when="1864-06-08">June 8<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date>
+<lb/>1 Reg<hi rend="underline"><hi rend="sup">t</hi></hi> Capitol Guard<figure type="hr"/>
+<lb/>Co. B
+<lb/>4<hi rend="underline"><hi rend="sup">th</hi></hi> Cavalry
+<lb/>Hynes Al. D<figure type="hr"/></p>
+<p>To the Governor inclosing note from Col Wolford recommending him for Adjt of his regiment. Will need a mustering officer at Lebanon by the <date when="1864-08-19">19<hi rend="underline"><hi rend="sup">th</hi></hi>.</date><figure type="hr"/></p>
+<p>Issue commission as Adjt. This regiment will be mustered into the state service only and be held for capital defence</p>
+<p>Tho E Bramlette</p>
+<p><note place="body">Com issd &amp; fow<hi rend="sup">d</hi>
+<lb/><date when="1864-06-17">June 1<hi rend="str">5</hi>7 1864</date><figure type="hr"/></note>
+<lb/>Rec<hi rend="sup">d</hi> A G O. <date when="1864-06-15">15 June 1864</date></p>
+  </body>
+ </text>
+</TEI>

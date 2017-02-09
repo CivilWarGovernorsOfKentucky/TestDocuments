@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1096"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">J. Saige Dury et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG5733</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR11-187</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Mount Sterling, Montgomery County, Kentucky</placeName>
+    <date when="1864-08-18">18 August 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>M<hi rend="underline"><hi rend="sup">t</hi></hi> Sterling Ky <date when="1864-08-18">Augt 18<hi rend="sup">th</hi> 1864</date>
+<lb/>To his Excellency Governor Thomas. E. Bramlette</p>
+<p>We the undersigned citizens of Montgomery County would respectfully represent to your Excellency, that at the <date when="1864-08">present August term</date> of the Montgomery Circuit Court Charles Gilkey a citizen of this county having been previously indicted for suffering a Slave to run at large and trade for himself. was tried convicted and fined the sum of $40,00. and we would represent to your Excellency that the country is in such a condition, that negroes in this State have become to a great extent uncontrolable and do very much as they please, and we would ask your Excellency to take into consideration the peculiar and unfortunate condition of the State and the hardship which a rigorous enforcement of the Statute against suffering slaves to run at large would work in this ^case^ and to remit the fine or so much thereof as you can by law inflicted upon M<hi rend="sup">r</hi> Gilkey</p>
+<p>The above are about the facts as to the condition of your Slave population in the County</p>
+<p>J. S. Dury Com<hi rend="underline"><hi rend="sup">th</hi></hi> Att.
+<lb/>P <unclear>&amp;</unclear> Bedford S M C
+<lb/>Jeremiah Dean as one of the Jury
+<lb/>John Duckworth <hi rend="str">do</hi> -- as dito
+<lb/>Jacob Johnson do
+<lb/>Wm D ORear do
+<lb/><stamp type="revenue">R B <unclear/> <date when="1864-06-20">June 20 1864</date></stamp><pb/></p>
+<p>John Carrington one of the ^Jury^
+<lb/>John Webster do
+<lb/>Fielding Hanks
+<lb/>James Westbrook do
+<lb/>Tho W Remon Do
+<lb/>Edward Kenyon do
+<lb/>William <unclear>Hicklin</unclear> do</p>
+<p>The undersigned members of the bar &amp; officers of the court Join in the above petition</p>
+<p>Thos Turner
+<lb/>J. W. Crawford clk.
+<lb/>M Ct. Ct.
+<lb/>W<hi rend="sup">m</hi> Henry Holk
+<lb/>B. A Seaver</p>
+<p>Montgomery Cr Ct
+<lb/>vs
+<lb/>Charles Gilkey
+<lb/>$40</p>
+<p>Remit</p>
+<p><date when="1864-08-24">24<hi rend="sup">th</hi> Aug'/64</date></p>
+  </body>
+ </text>
+</TEI>

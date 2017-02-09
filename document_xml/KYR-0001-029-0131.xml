@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0131"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Gedge &amp; Brothers to James F. Robinson</title>
+    <title level="a" type="parallel">CWG8583</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Governor's Official Correspondence File, Petitions for Pardons, Remissions, and Respites, 1862-1863</collection>
+      <idno>R3-202</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Covington, Kenton County, Kentucky</placeName>
+    <date when="1862-12-03">3 December 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Covington Ky <date when="1862-12-03">Dec 3<hi rend="underline"><hi rend="sup">rd</hi></hi> 1862</date>.
+<lb/>To his Excellency
+<lb/>J. F. Robinson
+<lb/>Gov of the State of Ky
+<lb/>Dear Sir</p>
+<p>Mrs. Brafford the Mother of Lafayette Brafford who is now confined in the Penitentiary of the State calls on us to give a statement of his conduct and character. we will state we have known Mr Brafford from 8 to 10 years he has been in our employ for near that time and was at work with us at the time of the misfortunate transaction for which he was convicted.</p>
+<p>We will say for Mr Brafford that during his whole time with us he was a quiet good peaceable hand and a hard working young man and we think if he had not been led astray he would at this ^time^ occupy a respectable position in society.</p>
+<p>We hope and ask in behalf of his Wife Children and aged Mother that you could reprieve him and let him return home to his family</p>
+<p>Yours
+<lb/>Gedge &amp; Bro<pb/></p>
+<p>Clerks office Kenton Circuit Court
+<lb/>Covington Ky <date when="1862-12-03">Decr. 3. 1862</date></p>
+<p>The foregoing signature was this day acknowledged before me by J. C. Gedge one of the firm of Gedge &amp; Brothers, who are all well known to ^me to^ be me to the gentlemen of high standing &amp; worthy of credit</p>
+<p>A C Ellis D C
+<lb/>for B W Foley Clerk</p>
+<p>Braffords Case
+<lb/>letter of Gedge &amp; Brothers</p>
+  </body>
+ </text>
+</TEI>

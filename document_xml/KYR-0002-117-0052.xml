@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-117-0052"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Boyle to Sanders D. Bruce</title>
+    <title level="a" type="parallel">CWG13881</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Christina K Adkins</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>Adjutant General Letter Book - No. 3 ; 9 April - 25 May 1864</collection>
+      <idno>273</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1864-05-09">9 May 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><note place="header">273</note>
+<lb/><date when="1864-05-09">May 9<hi rend="underline"><hi rend="sup">th</hi></hi> <gap/>4</date>
+<lb/>Col. S. D. Bruce,
+<lb/>Comm'd'g 1<hi rend="underline"><hi rend="sup">st</hi></hi> Brig. 2<hi rend="underline"><hi rend="sup">nd</hi></hi> Div. &amp;c.
+<lb/>Louisville -- Ky.
+<lb/>Dear Sir,</p>
+<p>Your favor of yesterday has been received, and shown his Excellency -- the Governor. Any assistance you may render us, in raising or organizing our six months troops will be highly appreciated. Of course, if you are still at Louisville, it would be best to aid in the organization of the troops we congregate at that point. If you can succeed in raising a Brigade, the Governor will make the strongest possible application that you be given a rank suitable to its command, The troops will be in the United States service, and beyond the power of the Governor to officer, other than in regimental organizations. I trust you will be able to raise and organize several regiments. All assistance we can render you, will be granted.</p>
+<p>Respectfully
+<lb/>Your obt. Serv't.
+<lb/><hi rend="underline">John Boyle</hi>
+<lb/>Adjt Gen of Ky.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1137"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">P. D. Yeiser to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10605</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG20-281</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Eddyville, Lyon County, Kentucky</placeName>
+    <date when="1861-06-03">3 June 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Eddyville, Ky <date when="1861-06-03">June 3<hi rend="sup">d</hi>/61</date>
+<lb/>Gov. MaGoffin
+<lb/>D<hi rend="sup">r</hi> Sir</p>
+<p>I take the liberty of writing to you as an acquintance &amp; an old friend in behalf of three of my clients who petitioners for executive clemency &amp; although they are clients yet you know me well enough to know that I would not say to you an untruth</p>
+<p>Mr D. A. Butler, <gap/> Lowry &amp; <gap/> Travis were fined in the Crittenden court at its last term on a charge of whipping (assaulting) Spellman Woodsides &amp; fined respectively $500 for the two first each &amp; 250$ for the last -- the defendants are known and recognized as clever gentlemen but keen shrewd traders -- the evidence before the Jury was positive, yet but few believed the main witness told the truth, though there was no way for the defendants to assail him &amp; so his testimony had to be taken as true &amp; therefore the finding of the Jury -- from the whole case &amp; I am well acquainted with it, I do <hi rend="underline">really</hi> think it one deserving of executive clemency, <hi rend="str">I</hi> I sometimes sign petitions without noticing them but will never write a letter of this character without I feel the case &amp; the cause of Justice demands it- the defendants deny the assault &amp; no witness but the man assaulted from it &amp; he certainly from outside evidence which could not be got before the Jury must have told falsehoods</p>
+<p>Yours &amp;c
+<lb/>P D Yeiser<pb/></p>
+<p>Gov B M<hi rend="sup">c</hi>Goffin
+<lb/>Frankfort
+<lb/>Ky</p>
+  </body>
+ </text>
+</TEI>

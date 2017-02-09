@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0680"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Ephraim L. Van Winkle to James</title>
+    <title level="a" type="parallel">CWG4799</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR10-41</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Somerset, Pulaski County, Kentucky</placeName>
+    <date when="1864-04-12">12 April 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Somerset Ky
+<lb/><date when="1864-04-12">April 12<hi rend="sup">th</hi> 1864</date>
+<lb/>Dear James</p>
+<p>From information obtained from the clerk of the Casey Court it turns out that instead of a bond of $2400 which the <hi rend="underline">Gov</hi><hi rend="underline"><hi rend="sup">r</hi></hi> remitted for Osburn Bates &amp; others the cases stand as follows on <hi rend="underline">recognizances</hi> not on bonds</p>
+<p><note place="left margin">1</note> <hi rend="str">Commonwealth vs Wood Osburn &amp; others</hi>= Mitchell Bates ^1^ Bates principal. Thomas ^2^ Bates, John ^3^ Osburn, David ^4^ Osburn John <hi rend="str">Fletcher</hi> ^5^ Fulcher &amp; Achilles ^6^ Evans surities recognizances for $200 and three cases. Let your remission cover three forfeited recognizances ^of 200%$ each^ against the above six persons done at <date when="--11">November term</date> of the Casey Circuit Court -- stating Michell Bates as principal &amp; others as suretites </p>
+<p><note place="left margin">2</note> One other remission covering Three forfeited recognizances of 200$ each taken at same 2 term &amp; court against the same six except that Wood Osburn is principal isntead of Mitchell Bates.</p>
+<p><note place="left margin">3</note> One other remission for 3 recognizances same court &amp; time &amp; persons for 200 each with William Osburn principal</p>
+<p><note place="left margin">4</note> One other ^remission^ same persons &amp; Three recog. of 200 each with Josiah Evans as principal. &amp; the other sic as sureties<pb/>
+<lb/>I would have you make out these four remissions of three in each, All filled up and ask the Governor to sign &amp; then mail them to me <hi rend="underline">at once</hi> as the court is close at hand</p>
+<p>You observe it all amounts to 2400$ but not in the shape I had supposed &amp; the remission sent will not do as there is a <hi rend="underline">fatal</hi> misdescription</p>
+<p>Pardon the miserable pen &amp; material that I am compelled to use this morning.</p>
+<p>We are all tolerably well.</p>
+<p>My regards to the Governor with me as soon as you can.</p>
+<p>Yours Truly
+<lb/>E L Van Winkle<pb/></p>
+<p>Casey Cir Ct
+<lb/>Remit ^except^ fees &amp; costs
+<lb/>Richard T. Jacob
+<lb/>Lt. &amp; Act. Gov.
+<lb/>vs
+<lb/>Sundry persons
+<lb/><date when="1864-04-16">16<hi rend="sup">th</hi> Apl/64</date></p>
+  </body>
+ </text>
+</TEI>

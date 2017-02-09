@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2315"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">W. D. Carpenter et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6952</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR15-202</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Somerset, Pulaski County, Kentucky</placeName>
+    <date when="1865-09-13">13 September 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Somerset Kentucky
+<lb/><date when="1865-09-13">September 13<hi rend="underline"><hi rend="sup">th</hi></hi> 1865</date>,
+<lb/>To his Exilency
+<lb/>Thomas E. Bramlette
+<lb/>Governor of Kentucky</p>
+<p>The undersigned petitioners would Resplly represent that about two weeks since Solomon Turpen a returned Federal Soldier met in the road a returned Rebel as we have been informed with a rebel uniform Coat on and M<hi rend="sup">r</hi> Turpen believing it to be such, pulled it off of him and slapped him for which Turpen was tried before the County judge and fined $17<hi rend="underline"><hi rend="sup">00</hi></hi> and costs, we Resptly petition you to remit the fine of said $17<hi rend="underline"><hi rend="sup">00</hi></hi> now resting against Solomon Turpen.</p>
+<p>Very Resptly
+<lb/>Your ob<hi rend="underline"><hi rend="sup">t</hi></hi> Serv<hi rend="underline"><hi rend="sup">ts</hi></hi>
+<lb/><milestone unit="column" n="2"/><cb n="1"/>J M Sandifer P. J.
+<lb/>Thos Z Morrow County atty
+<lb/><cb n="2"/>W D Carpenter atty.
+<lb/>M. E. Ingram
+<lb/>E. F. Hays
+<lb/>H Dugan
+<lb/>Wiley Turpen<pb/></p>
+<p>Pulaski County
+<lb/>Judge
+<lb/>Remit
+<lb/>vs
+<lb/>Solomon Turpen
+<lb/>$17.
+<lb/><date when="1865-09-20">20 Sept/65</date></p>
+  </body>
+ </text>
+</TEI>

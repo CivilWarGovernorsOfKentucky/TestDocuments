@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2734"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Ben T. Perkins to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7371</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR16-418</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Elkton, Todd County, Kentucky</placeName>
+    <date when="1865-11-21">21 November 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Elkton <date when="1865-11-21">Nov 21<hi rend="sup">st</hi> 1865</date>
+<lb/>To His Excellency
+<lb/>Tho<hi rend="sup">s</hi> E Bramlette
+<lb/>Govenor of Ky
+<lb/>Dr Sir</p>
+<p>At the last <date when="--04">April</date> Term of the Todd Cir court Mr Albert Adams was indited for killing a mule the property one of his neighbours at the <date when="--10">October</date> term he was found guilty and a fine assessed against him for One hundred Dollars Mr Adams is a good citizen well thought of in his neighbourhood, the mule had been in the habit of jumping in his wheat field and was unable to keep him out Mr Adams is Young man just married poor and unable to pay the fine in his behalf, we petition your Excellency to remit the fine believing his case meritorious</p>
+<p>Your Truly
+<lb/>Ben T Perkins</p>
+<p>We fully endorse the sediments above
+<lb/>J G Hollingsworth County Judge
+<lb/>J D Christian Ex Sheriff <hi rend="underline">T C</hi><pb/></p>
+<p>Todd Cir Ct
+<lb/>vs
+<lb/>Albert Adams
+<lb/>$100,
+<lb/>Killing a Mule
+<lb/>Remitted <date when="1865-11-23">23<hi rend="sup">d</hi> Nov/65</date></p>
+  </body>
+ </text>
+</TEI>

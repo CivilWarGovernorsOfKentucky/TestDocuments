@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-021-0004"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">James H. French to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG3074</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Apprehension of Fugitives from Justice Papers, 1859-1862</collection>
+      <idno>MG8-73 to MG8-74</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1860-11-12">12 November 1860</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency the Governor of the Commonwealth of Ky</p>
+<p>At the request of the Jailor of Montgomery County I am pursuaded to address you a letter informing you of the escape of three prisoners from the jail of s<hi rend="sup">d</hi> County while in his custody Isaac Hall, one of the prisoners was arrested in the County of Bath as the Indictment alledges, for malicious shooting and wounding with the intent to kill and failing to give bail in the penalty of $1000, as required, and the Jail of Bath County being insufficient, as the Indictment states he was ordered to the Jail of Montgomery County, and on friday night last together with two other prisoners broke the Jail in said county and made their escape. Henry King another of the prisoners was tried in Mt Sterling last week before the police Juge of s<hi rend="sup">d</hi> Town upon the charge also of shooting with the intent to kill and failing to give bail in the of $500, as required by the court he was committed<pb/>
+<lb/>to Jail, the other <hi rend="str">P</hi>prisoner <hi rend="str">was</hi>is named Richard King committed to Jail as I am informed for rioting &amp;c</p>
+<p>The Jailor finding it to be his duty to make every effort to have the s<hi rend="sup">d</hi> <hi rend="underline">felons</hi> recaptured, thought it prudent to write you a letter upon the subject I saw the Indictment in the Jailors possession authorising him to receve and safely keep Isaac Hall and was present when Henry King was tried for shooting with the intent to kill, I am only informed as to the charge against Richard King which is said to be rioting. The Jailor informs me also that Isaac Hall is the same man your Honor pardoned last spring ^convicted^ for passing counterfeit money &amp;c I remarked to the Jailor that I would write the letter. Given under my hand as presiding Judge of the Montgomery County Court the <date when="1860-11-12">12 day November 1860</date></p>
+<p>James H French P J M C C<pb/></p>
+<p>Montgomery
+<lb/>$200. Reward
+<lb/>Isaac Hall &amp; Henry King
+<lb/>Off<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1860-11-15">Nov 15. 1860</date></p>
+  </body>
+ </text>
+</TEI>

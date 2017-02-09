@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0880"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Nathaniel Warren to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10348</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG19-387</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1861-03-05">5 March 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency B Magoffin Governor of Kentucky -- </p>
+<p>Your petitioner Nathaniel Warren states that at a called term of the Green circuit court held in <date when="1861-02">February 1861</date> he was tried and fined in said court the sum of fifty dollars for carrying concealed on his person a pistol, he states that he did not know that there had been called a special term of said court, and knew nothing of the trial until it was over and was not present and had no chance to defend himself against said charge, he states that if he had been present at the trial he could have shown that he did not have the pistol concealed on his person as charged, it is true he did have a pistol but he had it in his hand carrying to his shop but did not conceal it -- all of which he could have shown if he had been present at said trial -- He states that he never intended to violate the laws of the state -- Wherefore he prays that your excellency remit<pb/>
+<lb/>the said fine and we will as in duty bound ever pray &amp;c</p>
+<p>Nathaniel Warren</p>
+<p>Sworn to before me by Nathaniel Warren this <date when="1861-03-05">5<hi rend="sup">th</hi> of March 1861</date></p>
+<p>Charles Blevins J P G C</p>
+<p>The undersigned citizens of Green county join in the foregoing petition and prayr for a remission of the said fine and believe the case presents one worthy of executive Clemency -- </p>
+<p><milestone unit="column" n="2"/><cb n="1"/>C T Wathon
+<lb/><unclear/> Calks
+<lb/>Will C Calkes
+<lb/>gorg <unclear>boles</unclear>
+<lb/>John boles
+<lb/>Jesey boles
+<lb/>Jas M Johnston
+<lb/>Eli linville
+<lb/>Warren Elmod
+<lb/>Jabel Warren
+<lb/>W<hi rend="sup">m</hi> A. Elkins
+<lb/>W<hi rend="sup">m</hi> Etherton
+<lb/>Elijah Warren
+<lb/>Thomas Etherton
+<lb/>Hyrumm skags
+<lb/>John Light
+<lb/>William Light
+<lb/><cb n="2"/>Thomas thompson
+<lb/>James Light
+<lb/>Elijah Kertley
+<lb/>Luther P. Chansom
+<lb/>J D Pratt
+<lb/>James A Fink
+<lb/>F, Chelf
+<lb/>R, Milbey
+<lb/>John C Walker
+<lb/>ben moses
+<lb/>harden warren
+<lb/>John ford
+<lb/>Caber <unclear/><milestone unit="column" n="1"/><pb/></p>
+<p>Green Cir Ct
+<lb/>Nathaniel Warren
+<lb/>Petition
+<lb/>$<hi rend="str">1</hi>50</p>
+<p>Please answer me at this place Campbellsville Tayor Co. Ky</p>
+<p>Respite 12 mo
+<lb/>B. M</p>
+<p>Issd <date when="1861-07-30">July 30</date></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-227-0015"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Thomas E. Bramlette, First Lieutenant, John Bradburn</title>
+    <title level="a" type="parallel">CWG14245</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>11th Ky. Cav (US) Muster Rolls</collection>
+      <idno>Flat Storage Box: 11th Ky Cav (US) Muster Rolls, Bundle 4</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1864-11-11">11 November 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Commission/Appointment</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>IN THE NAME AND BY THE AUTHORITY OF
+<lb/>The Commonwealth of Kentucky,
+<lb/><figure type="seal"><ab>KENTUCKY
+<lb/>UNITED WE STAND DIVIDED WE FALL</ab></figure>
+<lb/>THOMAS E. BRAMLETTE,
+<lb/>GOVERNOR OF SAID COMMONWEALTH.</p>
+<p>To all whom these Presents shall come, Greeting:</p>
+<p>Know Ye, That John Bradburn having been duly appointed to the office of First Lieutenant Company D (vice Jas Robinson dismissed) In the 11" Cavalry Regiment of Kentucky Volunteer Militia, organized under the Acts of the General Assembly of the Commonwealth, and to be mustered into the service of the United States:</p>
+<p>NOW KNOW YOU, That, by the powers vested in me by the Constitution and Laws of said State, and reposing special trust and confidence, in your patriotism, valor, fidelity, and ability, I do, by these presents Commission you as 1" Lieutenant as aforsaid, for the term of three years unless sooner discharged, upon condition that you take the oath indorsed hereon, within ten days from receipt hereof, sending a certificate thereof to Genereal Headquarters; and I do hereby authorize and require you to discharge, all and singular, the duties and services appertaining to your said office, agreeably to law and general regulations, and to obey such orders and instructions as you shall, from time to time, receive from your superior officers.</p>
+<p><figure type="seal"><ab>SEAL OF KENTUCKY
+<lb/>UNITED WE STAND DIVIDED WE FALL</ab></figure></p>
+<p>In Testimony Whereof, I have hereunto set my name, and caused the seal of the State of Kentucky to be affixed, at Frankfort, the <date when="1864-11-11">eleventh day of November, in the year of our Lord one thousand eight hundred and sixty=four</date> and in the eighty=ninth year of the Independence of the United States of America.</p>
+<p>Thos E Bramlette</p>
+<p>BY THE GOVERNOR:
+<lb/>E S VanWinkle, Secretary of State.
+<lb/>Commonwealth Office -- WM. E. HUGHES, State Printer<pb/></p>
+<p>OATH.<figure type="hr"/></p>
+<p>I John Bradburn do solemenly swear, that I will faithfully support the Constitution of the United States and the Constitution of the State of Kentucky, and will discharge, all and singular, the duties and services appertaining to the office of 1<hi rend="underline"><hi rend="sup">st</hi></hi> Lieut Co "D" 11 Ky Cav in the Kentucky Volunteer Militia, agreeably to law and general regulations, and will obey such orders and instructions as I shall from time to time receive from the proper officers.</p>
+<p>John Bradburn</p>
+<p>Before me, personally appeared the above John Bradburn and made the oath above written, and signed the same in my presence.</p>
+<p>Harry Gee Adj't 11 Ky Cav <date when="1864-11-15">Nov 15<hi rend="underline"><hi rend="sup">th</hi></hi> A. D. 1864</date>.</p>
+  </body>
+ </text>
+</TEI>

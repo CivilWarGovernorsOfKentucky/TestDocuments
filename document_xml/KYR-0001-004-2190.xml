@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2190"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">City of Louisville v. Alexander Kerner, Verdict</title>
+    <title level="a" type="parallel">CWG6827</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR14-430</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date when="1865-08-08">8 August 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Commonwealth of Kentucky
+<lb/>City Court of Louisville</p>
+<p>Pleas held before the Hon. Jas. P. Harbeson Judge of the City Court of Louisville on the <date when="1865-08-08">8<hi rend="underline"><hi rend="sup">th</hi></hi> day of August 1865</date></p>
+<p>City of Louisville
+<lb/>vs
+<lb/>Alexander Kenner f. m. c.</p>
+<p>The Defendant being on trial before a Jury for setting up, using and keeping a Billiard Table in the City of Louisville without being thereto duly licensed by the Mayor and City Council, the said Jury, after hearing the evidence returned into Court the following verdict in the Warrant charging the Defendant with the offense aforesaid, towit "We of the Jury find the Defendant guilty and assess his fine at One hundred dollars to the City of Louisville, and recommend him to the Clemency of the Governor</p>
+<p>signed E. R. Bland
+<lb/>Foreman"</p>
+<p>I, Phil Tomppert Jr clerk of the City Court of Louisville certify that the foregoing is a true copy of the verdict returned into the Court by the Jury in the case against Alex Kenner this <date when="1865-08-08">8<hi rend="underline"><hi rend="sup">th</hi></hi> day of August 1865</date></p>
+<p>Phil. Tomppert Jr C, C, C, L<pb/></p>
+<p>Louisville City Ct
+<lb/>Comth
+<lb/>vs } Copy of verdict
+<lb/>Alex Kenner
+<lb/>$100,
+<lb/>Remit<figure type="hr"/>
+<lb/><date when="1865-09-09">9 Sept/65</date></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-222-0082"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Samuel G. Suddarth, Receipt to Daniel W. Lindsey</title>
+    <title level="a" type="parallel">CWG13771</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>Misc. QM Expenditures, 1863-1865</collection>
+      <idno>QMG Box 10; Folder 1864 Clothing, Camp &amp; Garrison Equipage, Telegraph Expenses, Some Claim Letters; Bundle 1</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1864-05-31">31 May 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>No. 22.<figure type="hr"/>
+<lb/>The State of Kentucky,
+<lb/>To Gen<hi rend="underline"><hi rend="sup">l</hi></hi> D. W. Lindsey, Dr.</p>
+<p><table rend="rules">
+<row>
+	<cell><date when="1864">1864</date>.</cell>
+	<cell/>
+	<cell>DOLLARS.</cell>
+	<cell>CENTS.</cell>
+</row>
+<row>
+	<cell><date when="1864-06-01">June 1<hi rend="sup">st</hi></date></cell>
+	<cell> For services rendered and expenses incurred in the organization and administration of the Militia and other State forces during the month of <date when="1864-05">May 1864.</date></cell>
+	<cell>225</cell>
+	<cell>00</cell>
+</row>
+</table></p>
+<p>The Quartermaster General is ordered to pay this acct. out of the Militia fund.</p>
+<p>Thos E Bramlette
+<lb/>Gov<hi rend="sup">r</hi></p>
+<p>I certify that the above account is correct and just; that the services were rendered as stated; and that they were necessary for the public service.</p>
+<p>S. G. Suddarth
+<lb/>Quarter-Master Gen. Ky. </p>
+<p>Received at Frankfort Kentucky, the <date when="1864-05-31">31<hi rend="underline"><hi rend="sup">st</hi></hi> of May 1864,</date> of S. G. SUDDARTH, Quarter-master General of Kentucky Volunteers, the sum of Two Hundred and twenty five Dollars, and -- Cents, in full of the above account.</p>
+<p>(DUPLICATE.)</p>
+<p>D. W. Lindsey
+<lb/>Insp Gen<hi rend="underline"><hi rend="sup">l</hi></hi> Ky.<pb/></p>
+<p>No. 22.<figure type="hr"/>
+<lb/>The State of Kentucky,
+<lb/>To Genl D. W. Lindsey, Dr.</p>
+<p><table rend="rules">
+<row>
+	<cell><date when="1864">1864</date>.</cell>
+	<cell/>
+	<cell>DOLLARS.</cell>
+	<cell>CENTS.</cell>
+</row>
+<row>
+	<cell><date when="1864-06-01">June 1<hi rend="sup">st</hi></date></cell>
+	<cell> For services rendered and expenses incurred in the organization and administration of the Militia and other State forces during the month of <date when="1864-05">May 1864</date></cell>
+	<cell>225</cell>
+	<cell> -- </cell>
+</row>
+</table></p>
+<p>The Quartermaster General is ordered to pay this acct. out of the Militia fund.</p>
+<p>Thos E Bramlette
+<lb/>Gov<hi rend="sup">r</hi></p>
+<p>I certify that the above account is correct and just; that the services were rendered as stated; and that they were necessary for the public service.</p>
+<p>S. G. Suddarth
+<lb/>Quarter-Master Gen. Ky. </p>
+<p>Received at Frankfort Ky, the <date when="1864-05-31">31<hi rend="underline"><hi rend="sup">st</hi></hi> of May 1864,</date> of S. G. SUDDARTH, Quarter-master General of Kentucky Volunteers, the sum of Two Hundred and twenty five Dollars, and -- Cents, in full of the above account.</p>
+<p>(DUPLICATE.)</p>
+<p>D. W. Lindsey
+<lb/>Insp Gen<hi rend="underline"><hi rend="sup">l</hi></hi> Ky.<pb/></p>
+<p>No. 22.<figure type="hr"/>
+<lb/>No. <gap/> Abstract B <gap/> Qr. 186<gap/>. </p>
+<p>D. W. Lindsey</p>
+<p>Dollars 225. <hi rend="sup">00</hi>/<hi rend="sub">100</hi></p>
+<p>Paid <date when="1864-05-31">May 31, 1864</date>.</p>
+<p>8</p>
+  </body>
+ </text>
+</TEI>

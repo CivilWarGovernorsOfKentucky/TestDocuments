@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2809"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">M. Dixon et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7446</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR17-77</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency
+<lb/>Hon Tho<hi rend="sup">s</hi> E. Bramlette
+<lb/>Governor Comm<hi rend="sup">wth</hi> of Ky.</p>
+<p>Your petitioners would state that John B. Blaylock the applicant for your executive clemency herein, was indicted at the <date when="1864-12">December term 1864</date> of the Henderson Circuit Court for keeping a tippling house -- since that time he has quit selling or dealing ^in^ ardent spirits -- At the present <date when="--12">Dec<hi rend="sup">r</hi></date> term of the s<hi rend="sup">d</hi> Court he confessed judgment and Sixty Dollars fine was assessed against him -- Your petitioners would state that M<hi rend="sup">r</hi> Blaylock is a poor man and <hi rend="str">it</hi> the collection of the fine would be quite a hardship upon him, and think him a fit subject for the exercise of your executive clemency</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>M Dixon
+<lb/>P Fossé
+<lb/>B Chambers
+<lb/>R. G. Beverley
+<lb/>H. W. Gobin
+<lb/>Cha<hi rend="sup">s</hi> F. Starling
+<lb/>James Wilson
+<lb/><hi rend="underline">Jacob</hi> <hi rend="underline">Held sr,,</hi>
+<lb/>R. P. Letcher
+<lb/>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> M Jenkins
+<lb/>J. Pernet
+<lb/><hi rend="underline">J. B. Hart</hi>
+<lb/>B B Williams
+<lb/><cb n="2"/>Arch<hi rend="sup">d</hi> Dixon
+<lb/>Ed. L. Starling Jr
+<lb/>A. S. Nunn
+<lb/>Jn<hi rend="sup">o</hi> Barret
+<lb/>L W. <unclear>Trafton</unclear>
+<lb/>A. Rankin
+<lb/>P Thompson
+<lb/>J S Rouse
+<lb/>W S Hicks
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> W. Catlin
+<lb/>Geo. Gampler
+<lb/>W S Elam
+<lb/>Jerome Watson<pb/>
+<lb/><milestone unit="column" n="1"/>John M<hi rend="sup">c</hi>Bride
+<lb/>Jackson M<hi rend="sup">c</hi>Clain
+<lb/><hi rend="underline">Peter G</hi>,, <hi rend="underline">Rives</hi>
+<lb/><hi rend="underline">C B</hi> <hi rend="underline">Tolman</hi>
+<lb/>Ben P Cissell Atty
+<lb/>Decius,, Priest
+<lb/>Geo. Atkinson
+<lb/><hi rend="underline">C. W. Hutchen</hi> C J H C
+<lb/><hi rend="underline">Geo M</hi>. <hi rend="underline">Priest</hi></p>
+<p>Henderson Cir Ct
+<lb/>vs
+<lb/>John B Blaylock
+<lb/>$60.
+<lb/>Tipling 
+<lb/>Remitted <date when="1865-12-15">15<hi rend="sup">th</hi> Dec /65</date></p>
+  </body>
+ </text>
+</TEI>

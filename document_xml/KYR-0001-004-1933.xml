@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1933"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Herman Baub, Affidavit </title>
+    <title level="a" type="parallel">CWG6570</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR14-56 to BR14-57</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date when="1865-06-15">15 June 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>State of Kentucky
+<lb/>County of Jefferson } SS.</p>
+<p>Before me a Notary Public in and for said county and state on this the <date when="1865-06-15">15<hi rend="sup">th</hi> day of June 1865</date> personally came Herman Baab who being duly sworn according to law deposes and says he is and has been a resident of the city of Louisville county of Jefferson and state of Kentucky for twenty four years last past and that during the largest portion of the time he has been engaged in the business of butchering, that he well and personally knows William Whalen sentenced to the states prison by the last term of the Jefferson circuit court for the term of four year, that he has well and personally known said Whalen for ten years last past and that for more than the two years last past he has -- been in <hi rend="str">my</hi>his employ as a butcher that he is a young man of good character and the offence for which he was arrested is the<pb/>
+<lb/>first he has ever heard of his committing and there are many mitigating circumstances ^connected^ with it which can but excuse him from all blame, said Whalen assisted and almost wholly supported a blind father, enfeebled mother and several children, he had been working for said affiant and as work was dull he had been discharged and in order to gain a livelihood for himself and parents he had borrowed the horse and wagon of said affiant and has began to collect old iron and metal and while so engaged he purchased from other parties for a good -- and valuable consideration the iron for which he was accused of stealing, tried, convicted and sentenced for one year, Said affiant from his long and personal knowledge of the chacter of said Whalen does not believe he would purchase stolen property if he knew it to have been stolen, that his character for <hi rend="underline">honesty</hi> <hi rend="underline">industry</hi><pb/>
+<lb/><hi rend="underline">and</hi> <hi rend="underline">sobriety</hi> was always good and unquestioned by any one, that said affiant wholly confides in said whalen as an honest man and would not hesitate to employ him again if he had work for him or trust him with his entire establishment, said Whalen often and usually sold meat for said affiant and in all his transactions was honest and faithful to his employer and there doing business with him, that this to the final charge that was ever preferred against him and of it said affiant believes him wholly innocent and if released from confinement does not believe him in any way dangerous to any community but a good citizen and honest and reliable man who has invariably borne an unblemished character with those who know him best and have confided in him, that his family are poor and his father blind leaving him as the principal support, that said affiant lives in the<pb/>
+<lb/>city of Lousiville, is not related in any way to said whalen and has no interest in any cause for which this affiant can be used and further saith not,</p>
+<p>Harman Baub</p>
+<p>Subscribed and sworn to before me on this the <date when="1865-06-15">15<hi rend="sup">th</hi> day of June 1865</date> by Herman Baab,</p>
+<p><figure type="seal"><ab>JAMES R. W. SMITH
+<lb/>JEFFERSON
+<lb/>COUNTY
+<lb/>KENTUCKY
+<lb/>NOTARY PUBLIC</ab></figure>
+<lb/><stamp type="revenue"/><note place="stamp"><date when="1865-06-15">June 15 1865</date>
+<lb/>J. R. W. Smith</note></p>
+<p>Witness my hand and seal notarial the day and Year above written</p>
+<p><hi rend="underline">James R. W. Smith</hi>
+<lb/>Notary Public
+<lb/>Jefferson Co. Ky.</p>
+<p>Affidavit of Herman Baab in favor of William Whalen</p>
+  </body>
+ </text>
+</TEI>

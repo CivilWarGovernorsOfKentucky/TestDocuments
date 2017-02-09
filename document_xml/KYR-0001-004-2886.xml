@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2886"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John C. Harding to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7523</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR17-196 to BR17-197</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1865-12-01">1 December 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency Thos E. Bramlette Gov of Ky</p>
+<p>your petitioner John Hardin states that at the <date when="1864-02">Feb Term 1864</date> of the Marion circuit court he was convicted on the charge of robbing one J. A Redman and was pardoned by your Excellency and deeming the pardon sufficient and not Knowing that he had to appear in court &amp; plead the pardon he inadvertently forfeited his bond for five hundred dollars to the commonwealth -- your petitioner respectfully requests your Excellency to remit the bond and to release him from the payment of the same -- </p>
+<p>This <date when="1865-12-01">Dec 1st 1865</date></p>
+<p>John C Harding</p>
+<p>The undersigned citizens of Marion County cordially joins the request of the above petition</p>
+<p>J R. Thomas
+<lb/>Jo<hi rend="underline"><hi rend="sup">s</hi></hi> H Chandler
+<lb/>Jo <unclear/>
+<lb/>Green Forrest
+<lb/>James Simpson
+<lb/>Robt,, S, OBryan
+<lb/>R. A Reily
+<lb/>W F Browning
+<lb/>Nathan Long
+<lb/>Preston <unclear>W</unclear> Reily
+<lb/>J, W, Tyler
+<lb/>Stephen Gray Marshall of Lebanon
+<lb/>Formerly Sergt Co. B 10<hi rend="underline"><hi rend="sup">th</hi></hi> Ky V I
+<lb/>J, W, Gardner
+<lb/>J. A. Mattingly<pb/></p>
+<p>Marion Cir Ct
+<lb/>vs 
+<lb/>John C. Harding
+<lb/>$500,
+<lb/>Forfeiture
+<lb/>Remit<figure type="hr"/>
+<lb/><date when="1865-12-20">20<hi rend="sup">th</hi> Dec/65</date></p>
+  </body>
+ </text>
+</TEI>

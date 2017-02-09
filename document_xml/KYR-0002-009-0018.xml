@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-009-0018"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Mason Brown to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG11485</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Amanda Boczar</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>45th, 47th, 48th, and 49th Regiments Kentucky Infantry Muster Rolls</collection>
+      <idno>Box 41, Bundle 2</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Mount Sterling, Montgomery County, Kentucky</placeName>
+    <date when="1864-02-07">7 February 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>H<hi rend="sup">d</hi> 2<hi rend="sup">nd</hi> 45<hi rend="sup">th</hi> Ky Mt<hi rend="sup">d</hi> Infy Vols
+<lb/>M<hi rend="sup">t </hi>Sterling Kentucky
+<lb/><date when="1864-02-07">7th Feby 1864</date></p>
+<p>To
+<lb/>His Excellency
+<lb/>Gov Tho<hi rend="sup">s</hi> E Bramlette
+<lb/>Frankfort Ky
+<lb/>Governor</p>
+<p>I respectfully recommend that <hi rend="underline">Lieut</hi> <hi rend="underline">John C Henderson</hi> 14th Regiment Kentucky Infy Vols be promoted to be <hi rend="underline">Major</hi> <hi rend="underline">45th Regt Ky M</hi><hi rend="underline"><hi rend="sup">td</hi></hi><hi rend="underline"> Infy</hi> Vols <hi rend="underline">vice</hi> <hi rend="underline">Nathan</hi> <hi rend="underline">A</hi> <hi rend="underline">Brown</hi>, dishonorably dismissed the service</p>
+<p>I have the honor to be 
+<lb/>Very resptfully your Obt Srt
+<lb/>Jno Mason Brown
+<lb/>Col 45<hi rend="sup">th</hi> Ky Mt<hi rend="sup">d</hi> Inf Vols</p>
+<p><figure type="hr"/>Lt. Jno C. Henderson 14 Ky Infy, pro to Major 45 Ky Infy, <date when="1864-01-24">Jan<hi rend="sup">y</hi> 24. 1864</date> vice N. A Brown dishon. dismissed<figure type="hr"/></p>
+<p><note place="left margin">1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12.</note><pb/></p>
+<p>H<hi rend="underline"><hi rend="sup">d</hi></hi> qrs 45<hi rend="underline"><hi rend="sup">th</hi></hi> Ky Inft 
+<lb/>Mt Sterling
+<lb/><date when="1864-02-07">7<hi rend="underline"><hi rend="sup">th</hi></hi> Feby 1864</date><figure type="hr"/>
+<lb/>Brown Jno M 
+<lb/>Col.<figure type="hr"/></p>
+<p>Recommends Jn<hi rend="sup">o</hi> C Henderson as Major 45<hi rend="underline"><hi rend="sup">th</hi></hi> Inft vice Nathan A. Brown dish<hi rend="underline"><hi rend="sup">r</hi></hi> dismissed -- <figure type="hr"/></p>
+<p>Issue. 
+<lb/><hi rend="underline">Boyle</hi></p>
+<p>Com iss<hi rend="underline"><hi rend="sup">d</hi></hi> &amp; forw<hi rend="sup">d
+<lb/></hi><date when="1864-02-09">Feby 9. 1864</date><figure type="hr"/></p>
+<p>Rec<hi rend="sup">d</hi> A G. O <date when="1864-02-08">8<hi rend="sup">th</hi> Feby 1864</date></p>
+  </body>
+ </text>
+</TEI>

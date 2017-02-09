@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-161-0021"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Thomas E. Bramlette to Edwin M. Stanton</title>
+    <title level="a" type="parallel">CWG13934</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>Adjutant General Letter Book - No. 10 ; 10 Feb - 16 March 1865</collection>
+      <idno>136</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1865-02-20">20 February 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><note place="header">136</note>
+<lb/><date when="1865-02-20">Feby 20<hi rend="underline"><hi rend="sup">th</hi></hi> <gap/>5</date>
+<lb/>Hon E. M. Stanton
+<lb/>Secty of War
+<lb/>Washington D. C</p>
+<p>Give authority to raise (5) regiments in Kentucky to serve within the state unless the emergencies should demand them elsewhere Let this authority also authorize the completion of the 17<hi rend="underline"><hi rend="sup">th</hi></hi> &amp; 18<hi rend="underline"><hi rend="sup">th</hi></hi> cavalry as part of the five Regts instead of consolidating as requested a few days since. There is no sufficient force in Ky to Enable Maj Gen<hi rend="sup">l</hi> Palmer to Execute his duties. Answer.</p>
+<p>(signed, Tho E Bramlette
+<lb/>Governor of Ky</p>
+<p>I earnestly request that the foregiong application of Gov Bramlette be allowed. The troops are needed at once.</p>
+<p>(signed) John M. Palmer
+<lb/>Maj Gen<hi rend="sup">l</hi></p>
+  </body>
+ </text>
+</TEI>

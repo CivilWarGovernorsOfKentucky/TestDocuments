@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1160"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">W. M. Falkerson et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10628</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG20-315</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1861-06-20">20 June 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Your petitioner Martin Reece, states that he was fined $50 -- for carrying concealed weapons at the <date when="1860-06">June term of the Owsly circuit court 1860</date> that he carried said weapons for no wicked purpose but merely for his own protection, and defence, but in this he fails. to make the proof to show this fact He further states that at the <date when="1861-06">June term of said court 1861</date> he was fined $30 -- for tippling, and in this he was wholly innocent, as the liquor was only for the accomodation of others and not for his own personal gain. to this ^end^ he prays that your Excellency remit so much of s<hi rend="sup">d</hi> fine as you can do, and in duty bound will ever pray
+<lb/><date when="1861-06-20">"This 20" June 1861</date></p>
+<p><milestone unit="column" n="2"/><cb n="1"/>I state in addition to the above that Reece has paid the penalty of the above fines in Jail and the full time by law</p>
+<p>W M. Falkerson
+<lb/>Andrew Burgar
+<lb/>H. C. Dickson
+<lb/>Joseph Mcguire
+<lb/><cb n="2"/>H M Fulkerson
+<lb/>William Baldwin
+<lb/>John B. Phillips
+<lb/>A. G. Howerton
+<lb/>L W Blount
+<lb/>James Scallen
+<lb/>Thomas Sparks
+<lb/>Henry Powel
+<lb/>N. C. Hawerton
+<lb/>E. B. Treadway
+<lb/>Benjamin Danerway
+<lb/>Leander Critzs
+<lb/>Ben F Fraley J P C C<milestone unit="column" n="1"/><pb/></p>
+<p>Owsley Cir. Ct</p>
+<p>Remitted
+<lb/>B M</p>
+<p>$50 } concealed Weapons
+<lb/>Martin Reece</p>
+<p>
+<lb/>Iss<hi rend="sup">d</hi> <date when="1861-07-18">July 18. 1861</date></p>
+<p>B. Magoffin
+<lb/>Governor of Ky
+<lb/>Frankfort Ky</p>
+<p>Paid
+<lb/>Proctor Ky
+<lb/><date when="1861-06-28">June the 2.8./61</date></p>
+  </body>
+ </text>
+</TEI>

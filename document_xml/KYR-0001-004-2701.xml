@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2701"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">J. P. Dury et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7338</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR16-343</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1865-11-28">28 November 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>His Excellency,
+<lb/>Tho E. Bramlette,
+<lb/>Governor of Kentucky.</p>
+<p>Your petitioners state that at the <date when="1865-11">November 1865</date> Term of the Magoffin Circuit Court a Judgment was rendered against the defendant in the case of the "Commonwealth of Kentucky vs Jno F. Patrick on charge of "Tippling House" for the sum &amp; penalty of Sixty Dollars. The evidence was that the defendant had been a soldier in the Union Army -- That he had Just returned home from said Army, when a small gang &amp; body of rebel Guerillas came by his home in Magoffin Co. Ky, and demanded some liquor. That he under fear gave them some as demanded.</p>
+<p>That at the same time some citizens were present and some two or three also drank some for which they afterwards paid defendant Patrick. This was the only case of selling by him as shown by the proof.</p>
+<p>We therefore ask Your Excellency to remit said fine and judgement of Sixty Dollars.</p>
+<p><date when="1865-11-28">Nov 28th 1865</date>.</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>The Above are about the facts in the case.</p>
+<p>J. P. Dury
+<lb/>Com<hi rend="underline"><hi rend="sup">th</hi></hi> Atty.
+<lb/><cb n="2"/>W<hi rend="underline"><hi rend="sup">m</hi></hi> L. Hurst
+<lb/>W<hi rend="sup">m</hi> H Holt
+<lb/>Jn<hi rend="underline"><hi rend="sup">o</hi></hi> W. Hazelrigg
+<lb/>D D Sublett
+<lb/><note place="footer">over</note><pb/></p>
+<p><milestone unit="column" n="1"/>Mt Sterling Ky <date when="1865-12-02">Dec 2<hi rend="sup">d</hi> 1865</date>
+<lb/>Governor Bramlette
+<lb/>D<hi rend="sup">r</hi> Sir</p>
+<p>At the last term of the Magoffin Ct Court the above little case was tried &amp; with the result above stated</p>
+<p>The facts being as above set forth I hope Your Excellency will remit the fine: and for that purpose I have <hi rend="underline">settled</hi> with the District atty. and have procured his "<hi rend="underline">Scratch</hi>" as you will see. If the petition is granted I hope Mr Page will mail the Remission to me at this place and I will then send him his fee.</p>
+<p>I am
+<lb/>Your Obt Svt
+<lb/>W<hi rend="sup">m</hi> H Holt</p>
+  </body>
+ </text>
+</TEI>

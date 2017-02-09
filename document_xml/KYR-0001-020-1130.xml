@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1130"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Charles Eaves, R. S. Russell, and George W. Ewing to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10598</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG20-271-1</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Greenville, Muhlenberg County, Kentucky</placeName>
+    <date when="1861-06-18">18 June 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency Beriah Magoffin
+<lb/>Govenor of Kentucky
+<lb/>Dr Sir</p>
+<p>S. P. Love (who will hand you this) was indicted in <date when="1857">1857</date> in the Muhlenberg Circuit Court for manslaughter, committed by killing W. M. Little Mr Love has had two fair trials, in each of which the Jury were unable to agree Two hung Juries ordinarily are sufficient ^basis on which to^ <hi rend="str">to</hi> hypothicate a reasonable doubt. <hi rend="str">am</hi>. I am &amp; have been from the beginning employed by the friends of the deceased to prosecute Mr Love and did prosecute in each trial. A well grounded belief that no <hi rend="str">very</hi> verdict of guilty (perhaps no verdict at all) can be obtained induces me to recommend Mr Love to Executive clemency.</p>
+<p>The Commonthwealths atty. E P. Campbell Esqr of Priceton, declined entering a nolle prosequi I did not urge him to do so, but told him if he chose to do so, it would meet my concurrence, on the grounds above indicated.</p>
+<p>The evidence established that Little had made numerous threats of Killing love, and<pb/>
+<lb/>such was the condition of affairs between ^them^ I have no doubt each believed the other would kill him on sight. Various member of the community in which the parties lived were much to blame for this state of things</p>
+<p>I write this at the request of Mr Love</p>
+<p>Respectfully
+<lb/>Charles Eaves
+<lb/>Greenville Ky</p>
+<p><date when="1861-06-18">June 18, 1861</date></p>
+<p>I fully concur in the sentiments and recommendations of the above</p>
+<p>Respectfully
+<lb/>R. S. Russell</p>
+<p>I was also employed to prosecute Mr Love &amp; fully concur in the above statement <date when="1861-06-25">June 25<hi rend="sup">th</hi> 1861</date></p>
+<p>Geo W Ewing</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1335"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Aaron Yager et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10803</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG21-245</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Florence, Boone County, Kentucky</placeName>
+    <date when="1861-08-03">3 August 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Florence Ky <date when="1861-08-03">August 3, 1861</date>
+<lb/>To his Excellency
+<lb/>B M<hi rend="sup">c</hi>Goffin Gov<hi rend="sup">r</hi> of Ky</p>
+<p>The undersigned your petitioners would respectfully represent</p>
+<p>That C OHerrin a Respectable Irishman of this place was fined this day twenty dollars and costs by a Jury empaneled by the Police court of this Town for Giving a slave a Gallon of whiskey Said C OHerrin acknowledged the charge Brot against him and says that he had no intention of violating the law that he had hired the slave to cut a small pice of Grass for him and thought he had the right to give him the whiskey being entirely ignorant of the law governing such cases</p>
+<p>Now your petitioners would respectfully represent that the said C OHerrin is a good peaceable citizen and an honerable man and had no intention of violating the law and in consequence of his good character and being a man of large family and small means we respectfully pray your excellency to remit said fine</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Aaron Yager (one of Jury)
+<lb/>Wm Allen Juror
+<lb/>M. L. Arnett " "
+<lb/>David S Cleggan
+<lb/>Lewis C Yager " "
+<lb/>Elijah K Herndon Jury
+<lb/>Milton Wellbot
+<lb/><cb n="2"/>A. J. Lowe, M. J. F
+<lb/>Mirriman Willhoit
+<lb/>Henry Mahlman Juror
+<lb/>G H Aydelott Juror
+<lb/>J Williams
+<lb/>J Garrad
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> A Carpenter<milestone unit="column" n="1"/><pb/></p>
+<p>Florence Po ct
+<lb/>$20 } liquor
+<lb/>C OHerrin</p>
+<p>Resp<hi rend="sup">d</hi> 12 Mos</p>
+<p>Iss<hi rend="sup">d</hi> <date when="1861-08-30">Aug 30. 1861</date></p>
+  </body>
+ </text>
+</TEI>

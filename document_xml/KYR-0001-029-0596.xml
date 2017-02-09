@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0596"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">James F. Robinson, Remission</title>
+    <title level="a" type="parallel">CWG9048</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Governor's Official Correspondence File, Petitions for Pardons, Remissions, and Respites, 1862-1863</collection>
+      <idno>R4-440</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>James F. Robinson,
+<lb/>GOVERNOR OF THE COMMONWEALTH OF KENTUCKY,
+<lb/>TO ALL WHO SHALL SEE THESE PRESENTS, GREETING:</p>
+<p>WHEREAS, judgment has been rendered by the Franklin Cir Ct for $2603 <hi rend="sup">65</hi>/<hi rend="sub">100</hi> Principal and $520 <hi rend="sup">73</hi>/<hi rend="sub">100</hi> in Damages -- against A. J Banta Sheriff of Nicholas Co as damages for failure to pay in the revenue of s<hi rend="sup">d</hi> Co -- for the year <date when="1861">1861</date> as required by law AND WHEREAS, It appears from satisfactory evidence that the case of the said <gap/> presents strong considerations for the interposition and indulgence of the Executive:</p>
+<p>Now, Know Ye, That in consideration of the premises, and by virtue of the power vested in me by the Constitution, I have thought proper to REMIT, and do, by these presents, remit said <hi rend="str">judgment</hi> Damages of $520 <hi rend="sup">73</hi>/<hi rend="sub">100</hi> aforesaid -- and do hereby forever acquit, release, and discharge the said <gap/> from the same, enjoining all officers to respect this REMISSION, and govern themselves accordingly.</p>
+<p>In Testimony Whereof, I have caused these letters to be made patent, and the Seal of the Commonwealth to be hereunto affixed. Done at FRANKFORT, the <gap/> day of <gap/>, in the year of our Lord one thousand eight hundred and <gap/>, and in the <gap/> year of the Commonwealth.</p>
+<p>BY THE GOVERNOR:
+<lb/><gap/>, SECRETARY OF STATE.<figure type="hr"/>
+<lb/>Commmonwealth Office -- WM. E. HUGHES, State Printer.</p>
+  </body>
+ </text>
+</TEI>

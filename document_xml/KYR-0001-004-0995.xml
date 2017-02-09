@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0995"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">R. B. Doheney to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG5114</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR11-41</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Edmonton, Metcalfe County, Kentucky</placeName>
+    <date when="1864-06-29">29 June 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Edmonton Ky <date when="1864-06-29">June 29<hi rend="sup">th</hi>/64</date>
+<lb/>Governor Bramlett</p>
+<p>Dear Sir- I send herewith the affidavits of four of the neighbors of John Bransteter who has been find $200 for gaming- the men whoses <hi rend="str">names</hi> affidavits I send are all respectable &amp; good citizens as much so as any we have &amp; are his neighbors- from this statements I believe it is one of the few cases which should be favorably considered by the Executive, &amp; have there fore taken the interest to write you &amp; send there affidavits paying that his fine be remitted. You will see that one of the affiants is our county representative</p>
+<p>Respectfully yours &amp;c
+<lb/>R B Dahoney<pb/></p>
+<p>PS_</p>
+<p>I have Just learned that the three convicts which were sent from our county to the Penetentiary &amp; released on the way by the Rebels, are back in this &amp; Adair County armed I suppose &amp; equiped &amp; commiting depredations. If an inducement in the way of a reward was offered for them I expect they could be recaptured. Their names are Joseph Burdett, Calvin M<hi rend="sup">c</hi>Daniels &amp; Thomas Easton.</p>
+<p>Yours ob
+<lb/>R B D</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-031-0142"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Board of Trustees of the Town of Somerset, Order</title>
+    <title level="a" type="parallel">CWG7882</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Appointments by the Governor, Civil Appointments, 1862-1863</collection>
+      <idno>R1-194</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Somerset, Pulaski County, Kentucky</placeName>
+    <date when="1863-01-31">31 January 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Order</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><date when="1863-01-31">January 31<hi rend="sup">st</hi> 1863</date></p>
+<p>At a called meetinig of the Board of Trustees of the Town of Somerset held at their room on Saturday the <date when="1863-01-31">31<hi rend="sup">st</hi> day of January 1863</date> the following order was entered of record -- </p>
+<p>William A. Sallee Police Judge of the Town of Somerset having informed the Board that he had sent his resignation to his Excellency James F Robinson Governor of Ky to take effect on the <date when="1863-02-04">4<hi rend="sup">th</hi> day of February 1863,</date> It is ordered by the Board that James W. Wilson be recommended by the said Board to the Governor of Ky. as a <hi rend="str">f</hi>suitable person, to be by him commissioned Police Judge of the Town of Somerset to supply the vacancy of said Sallee</p>
+<p>Per order of Board of Trustees of the Town of Somerset
+<lb/>a copy att <hi rend="str">a</hi> <hi rend="underline">Tidball Millen Clerk</hi><pb/></p>
+<p>Somerset
+<lb/>Po Judge</p>
+<p>Make appt according to within recommendation</p>
+<p>J F Robinson</p>
+<p>J. W. Wilson
+<lb/>Com Iss<hi rend="sup">d</hi> <date when="1863-02-05">Feby 5. 1863</date></p>
+<p><hi rend="underline">1000
+<lb/>19.50
+<lb/>1950</hi></p>
+<p><hi rend="underline">192.50
+<lb/>60
+<lb/>11.550,00</hi></p>
+  </body>
+ </text>
+</TEI>

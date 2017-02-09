@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-009-0015"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">W. P. Anderson, Special Orders, No. 58</title>
+    <title level="a" type="parallel">CWG11482</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Amanda Boczar</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>45th, 47th, 48th, and 49th Regiments Kentucky Infantry Muster Rolls</collection>
+      <idno>Box 41, Bundle 2</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Lexington, Fayette County, Kentucky</placeName>
+    <date when="1864-02-29">29 February 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Order</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Department of the Ohio,
+<lb/>Branch Office, Adjutant General's Department,
+<lb/>Lexington, Kentucky, <date when="1864-02-29">February, 29<hi rend="sup">th</hi>, 1864</date>.</p>
+<p>Special Orders,
+<lb/>No. 58 }</p>
+<p>[<hi rend="italic">Extract</hi>.]<figure type="hr"/></p>
+<p>6,, The resignation of 2nd Lieutentant <hi rend="underline">E, M, Gates</hi> 45<hi rend="sup">th</hi> Ky, vol. mt'd Infantry is hereby accepted, to take effect <date when="1864-03-01">March 1<hi rend="underline"><hi rend="sup">st</hi></hi>, 1864</date>, with the condition that he shall recieve no final payments until he has satisfied the Pay Department that he is in no wise indebted to the Government.<figure type="hr"/></p>
+<p>By Command of Major General Schofield:
+<lb/>W P Anderson
+<lb/>Assistant Adjutant General.</p>
+<p>Gov. Ky.
+<lb/><note place="body">1. 2. 3. 4</note><pb/></p>
+<p>45 Infy<figure type="hr"/>
+<lb/>Gates E. M.
+<lb/>2 Lieut<figure type="hr"/>
+<lb/>Order accepting resignation<figure type="hr"/>
+<lb/>Rec<hi rend="sup">d</hi> at A G. O. <date when="1864-03-04">Mar. 4. 1864</date></p>
+  </body>
+ </text>
+</TEI>

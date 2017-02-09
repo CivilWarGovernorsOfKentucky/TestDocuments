@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-2081"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Smith Wingate to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG9157</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG24-119 to MG24-120</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Ghent, Carroll County, Kentucky</placeName>
+    <date when="1862-07-08">8 July 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Ghent <date when="1862-07-08">July 8 1862</date>
+<lb/>To his Excelency Beriah M<hi rend="sup">c</hi>Goffin
+<lb/>Govenor of Kentucky
+<lb/>Dear Sir</p>
+<p>I have this morning signed a petition asking your clemency and interposition in behalf of Robert Smiley -- I have to say that I was one of the examining court and familiar with all the facts of his case. the circumstances connected with the murder it is true were unfortunate. but I never did believe nor do I now believe that Smiley intended when he made the <hi rend="str">thursst</hi> ^thurst^ with the knife <hi rend="str">intended</hi> to commit murder -- the two boys were born and raised in the same town and the difficulty was more the folly and indiscretion of youth than any malicious design to do wrong. I think young Smiley has been sufficiently punished -- and I think in saying so I express the feelings of a very large majority of law abiding citizens here -- I therefore trust that you will pardon him and restore him to his aged and distressed parents and friends -- <pb/>
+<lb/>I have written this in great haste but trust that it will meet with your favourable and immediate attention</p>
+<p>Very Respectfully yours
+<lb/>Smith_Wingate</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1561"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Henry Kearns to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6198</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR12-411 and BR12-411A</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Lexington, Fayette County, Kentucky</placeName>
+    <date when="1865-03-09">9 March 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Lexington <date when="1865-03-09">March 9<hi rend="underline"><hi rend="sup">th</hi></hi> 1865</date>
+<lb/>To His Excellency
+<lb/>Gov Thos. E Bramlette</p>
+<p>Your Petitioner Henry Kearns desires to present to your Excellency that on the <date when="1863-06-25">25<hi rend="underline"><hi rend="sup">th</hi></hi> of June 1863</date> he was electionerring for <hi rend="str">for</hi> Thos E Bramlette &amp; while so engaged was caled a damned abolitionest &amp; a damned liar by a man named Jas Shannon, said Shannon said he could &amp; would whip your petitioner, whereupon your petitioner struck him &amp; gave him a good thrashing, for which I was fined by Judge Goodloe of the city court of Lexington $60 &amp; cost, your <hi rend="str">petioner</hi> petitioner states that he has paid the cost but feels unable to pay the fine &amp; asks that your Excellency remit the said fine, for the reason that your petitioner feels that in doing as he did, he only did what any other citizen would have done under similar circumstances, that is being insulted on acct of his Political Preferences, &amp; for your Excellency as in duty bound your petitioner will ever pray</p>
+<p>Henry Kearns</p>
+<p>Personally appeared before me the undersigned a Notary Public in &amp; for the county of Fayette state of Ky. Henry Kernes &amp; after being duly sworn states that the facts set forth in his Petition to His Excellency Gov Bramlete are true in all respts</p>
+<p>J K Edwards
+<lb/>Notary Public Fayette Co<pb/></p>
+<p><unclear/>ton City Ct
+<lb/>vs
+<lb/><unclear/>ry Kearns
+<lb/>$60.
+<lb/>Remitted
+<lb/><date when="1865-03-15">15<hi rend="sup">th</hi> Mch/65</date></p>
+  </body>
+ </text>
+</TEI>

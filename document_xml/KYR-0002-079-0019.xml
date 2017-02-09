@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-079-0019"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">H. S. Burnam to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG14018</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>Enrolled Militia Records 1864 - 1865 ; Adair, Allen, Boyle, Daviess, Garrard, Owen, Pendleton, and Shelby counties</collection>
+      <idno>Flat Box 7, Folder 865 GARRARD COUNTY THE GARRARD WIDE AWAKES 1st LT James W. Ross 59 Members 7th Rgt Ky Militia</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Lancaster, Garrard County, Kentucky</placeName>
+    <date when="1865-08-14">14 August 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Lancaster Ky <date when="1865-08-14">Aug<hi rend="underline"><hi rend="sup">t</hi></hi> 14<hi rend="sup">th</hi>/65</date>
+<lb/>To his Excellency
+<lb/>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> E. Bramlett.</p>
+<p>D<hi rend="sup">r</hi> Sir Some of our citizens are inclined to organize a Company of state Malitia for to be Mustered into the service of U. S. with W<hi rend="underline"><hi rend="sup">m</hi></hi> J. Ross_ Late Orderly Sargeant of Company <hi rend="str">D.</hi> G 1<hi rend="sup">st</hi> Ky Vo. Cav -- as Captain we therefore Orderlly recommend. Said Ross to your Excellency for a Commission for ^said^ office. Any recommendation that is necessary can be heard <hi rend="str">for</hi> as an efficent officer to an honorable gentleman</p>
+<p>Yours
+<lb/><hi rend="underline">L R M</hi><hi rend="underline"><hi rend="sup">c</hi></hi><hi rend="underline">Murtry</hi>
+<lb/>H. S. Burnam<pb/></p>
+<p>Lancaster Ky,
+<lb/><date when="1865-08-14">Aug. <hi rend="str">A</hi> 14, 1865</date>.<figure type="hr"/>
+<lb/>L. R. M<hi rend="sup">c</hi>Murtry
+<lb/>H S. Burnam
+<lb/>To Gov.<figure type="hr"/>
+<lb/>Recommending W<hi rend="underline"><hi rend="sup">m</hi></hi> J. Ross for a Captain's Com. to recruit a Co. of Active Militia<figure type="hr"/>
+<lb/>Ans. <date when="1864-08-24">Aug 24, 64</date> Lt. Bk. B. p. 270<figure type="hr"/>
+<lb/>Rec I G. O. <date when="1865-08-24">Aug. 24, 1865</date></p>
+  </body>
+ </text>
+</TEI>

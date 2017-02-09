@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0517"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">George R. Fearons et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG9985</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG18-303</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Newport, Campbell County, Kentucky</placeName>
+    <date when="1861-01-09">9 January 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>His Excellency Gov Magoffin</p>
+<p>We the undersigned Citizens of Newport Campbell County Kentucky. Would respectfully represent that having heard with regret that our Fellow Citizen William Grossmith has been fined in the sum of Sixty Dollars in the Boone Circuit Court at the <date when="1860-10">October term 1860</date> Keeping a Tipling House facts in the case that Wm Grossmith who ^now is and^ had been for years past engaged in Keeping a Confectionary &amp; Saloon in this place. went to the fair held at Florence and rented a Booth where<hi rend="str">t</hi> he provided customers with refreshments and among others furnished some with liquor, this was the whole sum and substance of his offending. We can Say to your excellency that M<hi rend="sup">r</hi> Grossmith is an upright honest, sober, industrious man, whose character is irreproachable We have known him personally for many years and can assure you this is the first time that he was ever convicted of an offense. We think his case demands the Executive clemency, and beg your excellency to use the pardoning power in his behalf.</p>
+<p>Newport, Ky <date when="1861-01-09">Jan<hi rend="sup">y</hi> 9<hi rend="underline"><hi rend="sup">th</hi></hi> 1861</date></p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Geo R Fearons
+<lb/>E. W. Hawkins
+<lb/>G A Loman
+<lb/>H. D. Hehn
+<lb/>Jane Winston
+<lb/>Moses Coon
+<lb/>F. A. Boyd
+<lb/>A S Berry
+<lb/><cb n="2"/>F M Webster
+<lb/>James H Ainsworth
+<lb/>F T. Hahn
+<lb/>J. R. Hallam
+<lb/>Robt B MCrackin
+<lb/>Reuben Tedrow
+<lb/>J. A. Wilson Kenton
+<lb/>Florence
+<lb/>John Goodridge
+<lb/>T. S. Fish Cor Sect Agr Association
+<lb/>G. H. Aydelott
+<lb/>F. Joseph Fernediny
+<lb/>Stockholders<milestone unit="column" n="1"/><pb/></p>
+<p>Boone Cir. Ct
+<lb/>Respite 12 mo
+<lb/>B. M
+<lb/>$60 } Tipling
+<lb/>W<hi rend="sup">m</hi> Grossmith
+<lb/>Iss<hi rend="sup">d</hi> <date when="1861-01-30">Jany 30. 1861</date></p>
+<p><date when="1859-06-25">June 25 59</date>
+<lb/>59</p>
+  </body>
+ </text>
+</TEI>

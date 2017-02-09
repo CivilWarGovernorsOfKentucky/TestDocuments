@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1963"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Fountain Riddell to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG11431</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Bradley Strait</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG23-415</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Florence, Boone County, Kentucky</placeName>
+    <date when="1862-06-17">17 June 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Florence, Ky
+<lb/><date when="1862-06-17">June 17/1862</date>
+<lb/>To his excelency Beriah Magoffin
+<lb/>Governor of the Commonwealth of Ky
+<lb/>Dear Sir</p>
+<p>Robert Aecre a citizen of Boone co was indicted by the grandjury of said county at the <date when="1861-04">April Term 1861</date> of the circuit court ^in^ for said county the charge was for selling liquor to a minor in violation of the Statue You are aware from the petition hertofore addressed you in this case numerously signed that at the <date when="1860-09">sept term</date> of the court Acre was fined $50 &amp; costs upon that Indictment The circumstances of the offence are set forth in the petition above referd to which shows that <unclear>hicks</unclear> the minor to whom Acre soled the whisky passed in the community for a man of full age he had so been considered for several years &amp; was so delt with by all And Acre so regarded him &amp; you will see by the petitions addressed you in this class of cases ^by his conduct &amp; appearance <unclear/> <unclear/>^ that Hicks fooled nearly all the tavern keepers in this county &amp; then was brought before the grandjury to testify against them Now under the circumstances of this case &amp; in view of the heavy<pb/>
+<lb/>fine imposed which (in view of the present mony preasure) is certainly <hi rend="str">enormous</hi> largely to much for the offence even when committed without palliating circumstances The cost &amp; Attys fee under the present <hi rend="str">circumstances</hi> money crisis is a far hevier punishment than the legislature intended to inflict at the time the <hi rend="str">the</hi> offense was <hi rend="str">made</hi> created by ^the^ statute</p>
+<p>In behalf of Mr Acre I would again call your attention to his case &amp; ask that if consistent with your idea of the merits of the cas, a remit of the said fine said costs &amp; attys fee be granted him</p>
+<p>Yours respectfuly
+<lb/>Fountain Riddell</p>
+<p>P S
+<lb/>The fine has been respited the respite has expired &amp; a capias is now in the sheriffs hands</p>
+<p>F R</p>
+<p>Remitted
+<lb/>B. M</p>
+<p>B Magoffin Govnor of the Comwth of Ky</p>
+  </body>
+ </text>
+</TEI>

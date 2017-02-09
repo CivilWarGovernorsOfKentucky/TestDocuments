@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1264"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">William W. Rogers to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10732</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG21-134 to MG21-135</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency Beriah Magoffin Govenor of Kentucky:</p>
+<p>respectfully your petitioner William Rogers represents that at the late <date when="1861-07">July</date> Term of the Mason Circuit Court he was fined by said court the sum of twenty five dollars for an assault and Battery upon John Sweet. Sweet called him a thief and other opprobious epithets, smarting under this language he struck him but one blow, this was done upon an election day upon his return home and after Sweet had drawn a large knife upon one of the company -- he most respectfully solicits you to remit said fine</p>
+<p>W W Rogers</p>
+<p>The undersigned concur in the foregoing petition</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Henry N. Willett
+<lb/>Ge<hi rend="sup">o</hi> W. Walz
+<lb/>Wm Shouse
+<lb/>Tho N Balen
+<lb/>J. H. Rains
+<lb/>John Curtis
+<lb/><cb n="2"/><hi rend="underline">Jn</hi><hi rend="underline"><hi rend="sup">o</hi></hi><hi rend="underline"> D Taylor</hi>
+<lb/>Robert Gervin
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> H. Loughridge
+<lb/>Edwin Brittain
+<lb/>Tom Francis
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Colvin<milestone unit="column" n="1"/><pb/>
+<lb/>John M. Rains
+<lb/>W H Darvall
+<lb/>John Hut
+<lb/>Peter L Parker
+<lb/>David Melrich
+<lb/>E H Wood
+<lb/>Azro Whitaker
+<lb/>Alexander Power
+<lb/>James N Wilson
+<lb/>C. P. Wright
+<lb/>C Bell
+<lb/>J. C. Brookover
+<lb/>Noble Dryden
+<lb/>John A Shepperd
+<lb/>W. T Tolls
+<lb/>Thomas E Grier
+<lb/>Frank Blanchard
+<lb/>John W Farley
+<lb/>lewis W. Singer
+<lb/>P S Green
+<lb/>W W Newel
+<lb/>S W M<hi rend="sup">c</hi>Millin
+<lb/>Thomas.V. Welsh
+<lb/>Nelson Whitaker
+<lb/>R W Watkins
+<lb/>W. P. Watkins<pb/></p>
+<p>Remitted
+<lb/>B. M</p>
+<p>Is<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1861-07-30">July 30</date></p>
+<p><hi rend="underline">1861</hi></p>
+  </body>
+ </text>
+</TEI>

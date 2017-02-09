@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0368"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Christian von Hesse, Oath</title>
+    <title level="a" type="parallel">CWG2033</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Appointments by the Governor, Civil Appointments, 1863-1867</collection>
+      <idno>BR2-276</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>New York, New York County, New York</placeName>
+    <date when="1865-02-13">13 February 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>State of New York
+<lb/>City &amp; County of New York
+<lb/>SS:</p>
+<p>I, Christian Von Hesse do solemnly swear, that I will well and truly execute and perform all the duties of the office of a Commissioner of Deeds for the State of Kentucky, within the State of New York, So help me God</p>
+<p>Christian Von Hesse</p>
+<p><stamp type="revenue"/><note place="stamp">C. V. H.
+<lb/><date when="1865-02-13">Febt 13
+<lb/>1865</date></note></p>
+<p>Sworn to before me this <date when="1865-02-13">13th day of February 1865</date></p>
+<p>M. S. Updyke
+<lb/>Notary Public
+<lb/>New York County<figure type="seal"/><pb/></p>
+<p>Com<hi rend="sup">r</hi> Deeds
+<lb/>New York
+<lb/>Oath of C. Von Hesse filed <date when="1865-02-20">20<hi rend="sup">th</hi> Feby 1865</date></p>
+  </body>
+ </text>
+</TEI>

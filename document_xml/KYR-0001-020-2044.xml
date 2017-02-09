@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-2044"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">J. L. Pope and F. C. Marshall, Affidavit</title>
+    <title level="a" type="parallel">CWG9120</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG24-57 to MG24-58</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Nelson County, Kentucky</placeName>
+    <date when="1862-07-11">11 July 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>D<hi rend="sup">r</hi> F C. Marshall and J. S. Pope state on oath that they ^are^ Physicians residing in the town of Chaplintown Nelson County Ky and practicing in partnership -- that they have as Physicians frequently been called to attend H C. Miller in sickness during the years <date when="1861">1861</date> and <date when="1862">1862</date> That said Miller was during that time and still is in very bad health and very frequently is and has been unable to walk or ride about and often confined to his bed, They were visiting him the latter part of <date when="1861-09">Sept 1861</date> and find from their books that they visited him the <date when="1861-09-27">27<hi rend="sup">th</hi> Sept 1861,</date> They frequently sent medicine instead of visiting him and frequently at such time made no charge on their books which prevents them stating specifically upon that subject. They were also attending him during a sever illness in the latter part of <date when="1862-03">March 1862</date> and find from their books that they visited him on the <date when="1862-03-20">30<hi rend="sup">th</hi></date> &amp; <date when="1862-03-31">31<hi rend="sup">st</hi> of March 1862</date> -- That during the times that they have attended him or have sent him medicine he was not in condition to be able to ride to Bardstown. Affiants do not now remember the exact time the Nelson Circuit court were held.</p>
+<p>J L Pope
+<lb/>F. C. Marshall</p>
+<p>Sworn to before me the <date when="1862-07-11">11<hi rend="sup">th</hi> day of July 1862</date> J L. Pope and F C Marshall</p>
+<p>T K Marshall J P. N. C<pb/></p>
+<p>Nelson Cir Ct
+<lb/>For Recog
+<lb/>Tho<hi rend="sup">s</hi> Craycroft
+<lb/>Remissi Is <date when="1862-07-16">July 16 1862</date></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-031-0014"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Robert C. Wright to James W. Tate</title>
+    <title level="a" type="parallel">CWG7754</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Appointments by the Governor, Civil Appointments, 1862-1863</collection>
+      <idno>R1-45</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Chicago, Cook County, Illinois</placeName>
+    <date when="1862-09-10">10 September 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><milestone unit="column" n="3"/><cb n="1"/>ROBERT C. WRIGHT,
+<lb/>Notary Public &amp; Commissioner of Deeds.
+<lb/>FOR THE FOLLOWING STATES:
+<lb/>Wisconsin, Missouri, Kentucky, Ohio, Minnesota, Michigan, Connecticut, Iowa, New York, Indiana, N. Hampshire, Pennsylvania, Rhode Island, Kansas, Massachusetts, Nebraska, New Jersey, Vermont, Maine, Colorado.
+<lb/><cb n="2"/>WRIGHT &amp; TYRRELL,
+<lb/>No. 5
+<lb/>METROPOLITAN BLOCK.
+<lb/><cb n="3"/>R. C. WRIGHT, JNO. A. TYRRELL.<figure type="hr"/>
+<lb/>Time Loans negotiated and First Class Business Paper bought and sold.<figure type="hr"/>
+<lb/>DEALERS IN REAL ESTATE.<figure type="hr"/>
+<lb/>P. O. Box, 6049.
+<lb/><milestone unit="column" n="1"/>Chicago, <date when="1862-09-10">September 10<hi rend="sup">th</hi> 1862</date>
+<lb/>James W Tate Esq Ass<hi rend="sup">t</hi> Sec
+<lb/>Louisville Kentucky
+<lb/>Dear Sir</p>
+<p>Your favour of <date when="1862-08-30">30<hi rend="sup">th</hi> ult</date> came to hand, I was just on the point of mailing a letter to you enclosing the five dollars amount of fees required by the State Statute to renew my commission, when the telegram informed us that the legal authorities had been compelled to abandon the capitol to the Confederate forces. Under these circumstances I withheld the letter and now write to ask whether I shall forward to you at Louisville. As soon as your answer is received the money will be forwarded</p>
+<p>Yours truly
+<lb/><hi rend="underline">Robert C. Wright</hi><pb/></p>
+<p>Illinois<figure type="hr"/>
+<lb/><hi rend="underline">Com</hi><hi rend="underline"><hi rend="sup">r</hi></hi><hi rend="underline"> of Deeds</hi>
+<lb/>Rob. C. Wright
+<lb/>Chicago
+<lb/>Com. Iss<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1862-09-22">Sept <hi rend="str">1</hi>22<hi rend="underline"><hi rend="sup">d</hi></hi> 1862</date></p>
+  </body>
+ </text>
+</TEI>

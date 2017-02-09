@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0802"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">William Owsley to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10270</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG19-262</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Prestonsburg, Floyd County, Kentucky</placeName>
+    <date when="1861-02-22">22 February 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Prestonsburg Ky
+<lb/><date when="1861-02-22">Feb 22<hi rend="sup">d</hi> 1861</date>
+<lb/>To His Excellancy
+<lb/>Beriah Magoffin
+<lb/>Governor of Ky</p>
+<p>Your Petitioner W<hi rend="sup">m</hi> Owsley represents that he was tried before Jas T. Ford Esqr on a Charge of Adultery and was fined by sd Court $20, and cost without the intervention of a Jury -- : He says that some <hi rend="str">8</hi>5 years since in the state of virginia he had a wife who gave him an infectious disease towit the clap and he then left her and has not lived <hi rend="str">with</hi> or cohabitated with her since he says <hi rend="str">he</hi> the court swore your Petitioner and he refused to answer any thing; but <hi rend="str">the</hi> <hi rend="str"><unclear/></hi> he says however his marriage was never proved and his refusal to answer was taken as conclusive against him as he is advised and believes he says he was not bound to answer as he believes; He says his marriage not being proved, nor his guilt proved and he being refused a trial by a Jury; all induces him to believe he was unlawfully fined he therefore asks your Excellency to remit the same and as in duty will ever pray</p>
+<p>William Owsley<pb/></p>
+<p>W<hi rend="sup">m</hi> Owsley says the statements in the foregoing petition are true</p>
+<p>W<hi rend="sup">m</hi> Owsley</p>
+<p>Sworn to before me by W<hi rend="sup">m</hi> Owsley this <date when="1861-02-22">22<hi rend="sup">d</hi> Feb 1861</date></p>
+<p>E Trimble O C D C
+<lb/>for James Trimble Clk</p>
+<p>We the underassigned persens Join in the prayer of the petitioner W<hi rend="sup">m</hi> Owsley and believe him a truthful and an honest man and hope you can find it consistent with your duty to remit the same</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Edwin Trimble
+<lb/>John M Burns
+<lb/>Robert H. Wedington
+<lb/>John M, Elliott
+<lb/>S. J. Vaughan
+<lb/>E H Harris
+<lb/><cb n="2"/>James Trimble Clk
+<lb/>John Friend
+<lb/>Ed. J. Friend
+<lb/>M. S. Reynolds
+<lb/>James M,, Smith<milestone unit="column" n="1"/></p>
+<p>Floyd
+<lb/>J P
+<lb/>$20 } adultery
+<lb/>W. Owsley
+<lb/>Is <date when="1861-03-14">Mar 14 1861</date></p>
+<p>Respite 12 mo
+<lb/>B. M</p>
+  </body>
+ </text>
+</TEI>

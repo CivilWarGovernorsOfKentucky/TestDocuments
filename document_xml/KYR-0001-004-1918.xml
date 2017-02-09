@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1918"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Ephraim L. Van Winkle to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6555</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR14-35</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Stanford, Lincoln County, Kentucky</placeName>
+    <date when="1865-05-11">11 May 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Stanford
+<lb/><date when="1865-05-10">May 10<hi rend="sup">th</hi> 1865</date>
+<lb/>Governor,</p>
+<p>I have talked with a good many people from Wayne in regard to the unfortunate affair which resuled in the death of Frielze</p>
+<p>All concur in the opinion that Alexander was so completely over come with intoxication, that he was hardly concious of what he was doing. he was wild before, at the time, &amp; afterwards since his recovery, none regret as much as he does the unfortunate affair all more the people say that no good can happen by his trial and conviction, that Alexander has rendered invaluable service for his country that at midnight again &amp; again he crossed the Cumberland from Somerset &amp; traversed the rebel encampment procuring valuable information for Genl Carter, which enabled the Federal army to cross and drive the rebels from that country that in consideration of his great service &amp; perils incurred for the Common Country &amp; for his own county, they Cannot see him suffer for a deed done in a fit of drunken insanity, this is the genl feeling in Wayne -- If you conclude to interpose it were well that it were done at once so as to save him the mortification &amp; great inconvence of submitting to arrest &amp; imprisonment.</p>
+<p>yrs Truly
+<lb/>E L Van Winkle</p>
+  </body>
+ </text>
+</TEI>

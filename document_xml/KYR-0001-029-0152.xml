@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0152"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">James M. Mansfield et al. to James F. Robinson</title>
+    <title level="a" type="parallel">CWG8604</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Governor's Official Correspondence File, Petitions for Pardons, Remissions, and Respites, 1862-1863</collection>
+      <idno>R3-330</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency James F Robinson
+<lb/>Governor of Kentucky</p>
+<p>The undersigned Citizens of Russell County would state that at the <date when="1862-05">May Term 1862</date> of the Powell Circuit Court a Judgement was rendered in said Court against Tilford Welch &amp; Caleb Creed for $20 each. for the offense of gaming, we would further State that Jas M Habett the atty for the Comth at said term drew up and signed a recommendation to his Hons Excellency Beriah Magoffin then Gov of Ky to remit the fine of their entitlement above named. It was we suppose mislaid or never acted upon by the Governor, We would state that Mr Welch &amp; Creed are good Citizens, not addicted to the offence of gaming ^believe, then they^ are sorry that they ^ever^ engaged in the game as charged against them. <hi rend="str">We shall</hi> We would therefore recommend your Excellency to remit the fines <hi rend="str">of</hi> against them.</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Ja<hi rend="sup">s</hi> M Mansfield Coroner
+<lb/>John A Rose
+<lb/>William Ewen
+<lb/>J N B Hardwick Judge of the Powell County Court
+<lb/>A. B. Fickler Albany
+<lb/>H S Anderson County
+<lb/>H, W, Hall
+<lb/>A. Holmes
+<lb/><cb n="2"/>J H Schollcrick
+<lb/><hi rend="str">J F <unclear/> JPC</hi>
+<lb/>John F. Halley J. P. C.
+<lb/>Geo M. Pettit. P. M.
+<lb/>J M Wood
+<lb/>L. H. Johns
+<lb/>W. Pigg D. J. P. C.
+<lb/>John Hahn
+<lb/>Wm Roberts Sheriff
+<lb/>T T Hall<pb/></p>
+<p><milestone unit="column" n="1"/>I cordially recommend Mssrs Creed &amp; Welch to the Clemency of the Governor. They are good citizens &amp; worthy men.</p>
+<p>A H Buckner</p>
+<p>I know M<hi rend="sup">r</hi> Creed and can say that he is an excellent Union man &amp; a good citizen Mr Welch is a good union man &amp; reputed to be a good citizen. I cheerfully recommend them to the clemency of the Executive.</p>
+<p>Jas Flanagan
+<lb/>Winchester Ky
+<lb/><date when="1862-12-02">Dec 2<hi rend="sup">nd</hi> 1862,</date></p>
+<p>Powell Cir. Ct.</p>
+<p>Fine remitted within Pettn &amp; verbal evidence Remitted as to each <date when="1862-12-03">3 Decr 1862</date></p>
+<p>J F Robinson</p>
+<p>$20 } Gaming
+<lb/>Tilford Welch &amp; Caleb Creed
+<lb/>Iss<hi rend="sup">d</hi> <date when="1862-12-05">Dec<hi rend="sup">r</hi> 3. 1862</date></p>
+  </body>
+ </text>
+</TEI>

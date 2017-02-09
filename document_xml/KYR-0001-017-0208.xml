@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0208"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Beriah Magoffin, Secretary of State, Nathaniel Gaither, Jr.</title>
+    <title level="a" type="parallel">CWG2556</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Civil Appointments, 1859-1862</collection>
+      <idno>MG4-118</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1861-10-02">2 October 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Commission/Appointment</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>IN THE NAME AND BY THE AUTHORITY OF THE
+<lb/>COMMONWEALTH OF KENTUCKY,
+<lb/>BERIAH MAGOFFIN,
+<lb/>GOVERNOR OF SAID COMMONWEALTH,
+<lb/><figure type="seal"><ab>KENTUCKY
+<lb/>UNITED WE STAND DIVIDED WE FALL</ab></figure></p>
+<p>To all who shall see these Presents, Greeting:</p>
+<p>Know Ye, That Nat. Gaither Jr having been duly <hi rend="str">elected</hi> appointed Secretary of State for the Commonwealth of Kentucky in the place of Tho. B. Monroe Jr. resigned I hereby invest him with full power and authority to execute and discharge the duties of the said office according to law: And to have and to hold the same, with all the rights and emoluments thereunto legally appertaining, for and during the term prescribed by law.</p>
+<p>In Testimony Whereof, I have caused these letters to be made patent, and the Seal of the Commonwealth to be hereunto affixed. Done at Frankfort, the <date when="1861-10-02">2<hi rend="underline"><hi rend="sup">nd</hi></hi> day of Octo,</date> in the year of our Lord one thousand eight hundred and Sixty one, and in the 70<hi rend="underline"><hi rend="sup">th</hi></hi> year of the Commonwealth.</p>
+<p>B. Magoffin</p>
+<p><figure type="seal"><ab>SEAL OF KENTUCKY
+<lb/>UNITED WE STAND DIVIDED WE FALL</ab></figure></p>
+<p>BY THE GOVERNOR:
+<lb/><gap/>, Secretary of State.</p>
+<p>"Yeoman" Office -- J. B. MAJOR, State Printer.<pb/></p>
+<p>State of Kentucky
+<lb/>Franklin County Sct</p>
+<p>I George W Gwin a Justice of the peace for said County do certify that Nat Gaither this day came personally before me and took the oath prescribed in the first Section of the Eighth Article of the Constitution of Kentucky for the faithful discharge of the duties of Secretary of State for the Commonwealth of Kentucky under the within Commission</p>
+<p>Given under my hand this <date when="1861-10-02">2<hi rend="sup">nd</hi> day of October 1861</date></p>
+<p>Geo W Gwin J. P.</p>
+<p>Secretary of State
+<lb/>Nat: Gaither Jr
+<lb/>App<hi rend="sup">d</hi>. &amp; Com<hi rend="sup">d</hi>
+<lb/><date when="1861-10-02">Octo. 2<hi rend="underline"><hi rend="sup">nd</hi></hi> 1861</date></p>
+  </body>
+ </text>
+</TEI>

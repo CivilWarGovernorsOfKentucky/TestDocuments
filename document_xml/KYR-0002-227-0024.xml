@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-227-0024"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Edward D. Townsend, Special Orders, No. 168</title>
+    <title level="a" type="parallel">CWG14254</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>11th Ky. Cav (US) Muster Rolls</collection>
+      <idno>Flat Storage Box: 11th Ky Cav (US) Muster Rolls, Bundle 6</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Washington, District of Columbia</placeName>
+    <date when="1864-05-05">5 May 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Order</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>WAR DEPARTMENT,
+<lb/>ADJUTANT GENERAL'S OFFICE,
+<lb/><hi rend="italic">Washington</hi>, <date><hi rend="italic">May</hi> 5<hi rend="italic">th</hi>, 1864</date>.</p>
+<p>SPECIAL ORDERS,
+<lb/>No. 168. }</p>
+<p>(<hi rend="italic">Extract</hi>.)<figure type="hr"/></p>
+<p>9. Leave of absence, for twenty days, is hereby granted the following officers, paroled Prisoners of War, at the expiration of which they will report in person to the Commanding Officer of Camp Chase, Columbus, Ohio: -- </p>
+<p>Adjutant <hi rend="italic">W. P. Pierce</hi>, 11th Kentucky Cavalry.<figure type="hr"/></p>
+<p>By order of the Secretary of War:
+<lb/>E. D. TOWNSEND,
+<lb/><hi rend="italic">Assistant Adjutant General.</hi></p>
+<p>OFFICIAL:
+<lb/>E D Townsend
+<lb/><hi rend="italic">Assistant Adjutant General.</hi></p>
+<p>Governor of Kentucky }<pb/></p>
+<p><hi rend="underline">11</hi><hi rend="underline"><hi rend="sup">th</hi></hi><hi rend="underline"> Cavy</hi>
+<lb/>War Department
+<lb/>Adjutant Generals Office
+<lb/>Washington <date when="1864-05-05">May 5. 1864</date>.<figure type="hr"/>
+<lb/>Townsend E. D.
+<lb/>A. A. G.<figure type="hr"/>
+<lb/>Order granting leave of absence for 30 days to Adjt W. P. Pierce 11" Cavy,,<figure type="hr"/>
+<lb/>Rec<hi rend="sup">d</hi> A. G. O <date when="1864-05-10">May 10. 1864</date>-</p>
+  </body>
+ </text>
+</TEI>

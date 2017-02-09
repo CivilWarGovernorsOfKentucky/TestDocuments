@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0823"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Darcus Tharp to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10291</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG19-293 to MG19-294</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1861-02-28">28 February 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency The Governer of the Commonwealth of Kentucky</p>
+<p>The undersigned your Petitioner Darcus Tharp would respectfully State to your Excellency that she is the widow of John Tharp dec<hi rend="sup">d</hi> wh<hi rend="str">ich</hi>o died in <date when="1839-05">May 1839=</date> She is now fifty Eight years old past= Her son Nathan Tharp was charged with grand Larceny in connexion with others and was commitd on said charge to the jail of Marion County and while in Jail he appealed to your Petitioner to become his bail promising that he would appear and stand his trial= She on these assurances and from maternal regard for him became his bail supposing &amp; believing him as all mothers do not to be guilty of the offence=</p>
+<p>He left one evening taking his gun with him &amp; saying that he was going Squirl hunting but he has never returned what has become of him she does not know -- She had no knowledge that he intended to leave and not return when he went off with the gun= She has no knowledge of where he is if alive -- So it is the Commonwealth has taken such steps on the bond or recognizance taken from her that at the <date when="1860-11">November</date> Term of the Marion Circuit ^Court^ she recevied judgment against your Petitioner for the sum of $500 &amp; costs; a copy of <hi rend="str">such</hi> said judgment is herewith presented as part hereof -- </p>
+<p>She says she owns a small tract of land mostly thin &amp; Kobby &amp; has some Stock, &amp; Some household &amp; kitchen furniture &amp; put it all together it is not worth over $500 -- The Sheriff now has the execution<pb/>
+<lb/>on said judgment &amp; is harrassing her for payment -- That owing to her poverty and the hard times it is impossible for her to pay said judgment -- and her property under the present State of affairs would bring but little, and would in her old age utterly break up &amp; ruin her -- She therefore most earnestly Petitions your Excellency to remit said fine= She hopes your Excellency and at any rate suspend the collection of <hi rend="str">it</hi> Said judgment for eight or twelve months and altogether remit the fine if not now at least when the suspension if granted shall be out -- </p>
+<p>Darcus ^her X mark^ Tharp</p>
+<p>Sworn to by Darcus Tharp before me this <date when="1861-02-28">28<hi rend="underline"><hi rend="sup">th</hi></hi> Feby 1861 -- </date></p>
+<p>N Y Berry ck<pb/></p>
+<p>Marion Cir Ct
+<lb/>Respite for 12 months
+<lb/>$500 } For Recogn.
+<lb/>Darcus Tharp
+<lb/>Iss<hi rend="sup">d</hi> <date when="1861-03-14">Mar 14. 1861</date></p>
+  </body>
+ </text>
+</TEI>

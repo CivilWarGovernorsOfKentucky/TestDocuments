@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-031-0056"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Edgar Neeham to James W. Tate</title>
+    <title level="a" type="parallel">CWG7796</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Appointments by the Governor, Civil Appointments, 1862-1863</collection>
+      <idno>R1-94</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date when="1862-11-11">11 November 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Internal Revenue,
+<lb/>Assessor's Office, Third Collection District,
+<lb/>Louisville Ky., <date when="1862-11-11">Nov 11th 1862</date>
+<lb/>James W. Tate Esq
+<lb/>Assistant Secretary State
+<lb/>Frankfort Ky</p>
+<p>Dear Sir/owing to an omission in the U. S. Excise law I find that neither myself nor my assistants are qualified to administer an oath and as all returns made by Manufacturers ^and many others^ are required to be made under oath administered either by a Magistrate or Notary. it will be a great public convenience <hi rend="str">both</hi> for us to be properly qualified to administer the required oath. <hi rend="str">The defect in</hi> The National Law will doubtless be amended in this particular upon the meeting of Congress.</p>
+<p>I enclose herewith five dollars with which to pay the necessary fees for the qualification as Notary Public of the following five gentlemen</p>
+<p>Edgar Needham, Columbus Chamberlin<pb/>
+<lb/>George C. Slaughter, William S. Davis Joseph C. Butler</p>
+<p>Your immediate attention is respectfully requested</p>
+<p>Edgar Needham
+<lb/>Assessor 3rd Collec Dis<hi rend="sup">t</hi> Ky.<pb/></p>
+<p>Jefferson Co<figure type="hr"/>
+<lb/>Notaries Public
+<lb/>Ed. Needham
+<lb/>Co. Chamberlin
+<lb/>Geo. C. Slaughter
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> S. Davis
+<lb/>Jo<hi rend="underline"><hi rend="sup">s</hi></hi> C. Butler<figure type="hr"/>
+<lb/>Comm Iss<hi rend="sup">d</hi> <date when="1862-11-13">Nov 13 1862</date></p>
+  </body>
+ </text>
+</TEI>

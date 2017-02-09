@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1334"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Durnam to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10802</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG21-244</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Bowling Green, Warren County, Kentucky</placeName>
+    <date when="1861-08-17">17 August 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Bowling Green Ky
+<lb/><date when="1861-08-17">August 17. 1861</date>
+<lb/>Gov<hi rend="sup">r</hi> Magoffin
+<lb/>Dr Sir</p>
+<p>Mr J K Price Mentioned in R Rodes letter (on the other half of this sheet) is a poor man ^yet an honest man^ with some small children, having lost his wife &amp; having had a great deal of sickness in his Familly, to pay the fine &amp; costs mentioned, would <hi rend="underline">harras</hi> &amp; <hi rend="underline">oppress</hi> him seriously <hi rend="str">and</hi> he is now trying by the dint of hard labor &amp; Industry to sustain himself &amp; children -- If you can consistantly with the duties of <hi rend="underline">clemency</hi> of your office relieve him, you will confer lasting gratitude upon <hi rend="str">of</hi> Price &amp; will be acknowledged by your humble servant.</p>
+<p>Very Respectfully
+<lb/>John Durnam</p>
+<p>P. S. At the Instance of Mr J K Price, he requests that you ^respond^ to me or to him to my case.</p>
+<p>yrs
+<lb/>J Durnam</p>
+<p>Respite 12 Mo
+<lb/>B M<pb/></p>
+<p>Bowling Green Ky
+<lb/><date when="1861-08-17">Augst 17 1861</date>
+<lb/>His Excellency</p>
+<p>Gov Magoffin: As one of the Attos for Jos K Price and at his request I write you then to ask You to remit or respite his fine of $60 &amp; cost rendered agst him at the <date when="1861-08">Augst</date> term of the Warren Eq &amp; Cml_Co for keeping a tippling house</p>
+<p>Mr J K Price is a poor man with a wife &amp; several children in his family -- He says the two witnesses agst him were both Brothers &amp; violent Enemies of his by the name of Smith -- </p>
+<p>In these days of adversity if yr Excellency can remit the fine or respite it, you will render Mr Price a very happy man &amp; place him under great obligation to you in person -- </p>
+<p>Very Respectfully
+<lb/><hi rend="underline">R Rodes</hi></p>
+  </body>
+ </text>
+</TEI>

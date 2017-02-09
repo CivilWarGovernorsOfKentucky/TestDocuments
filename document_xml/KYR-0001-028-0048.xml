@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-028-0048"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John W. Finnell to Daniel C. Wickliffe</title>
+    <title level="a" type="parallel">CWG7703</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Appointments by the Governor, Military Appointments, 1862-1863</collection>
+      <idno>R2-181</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date when="1862-09-15">15 September 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><figure type="seal"><ab> UNITED WE STAND DIVIDED WE FALL</ab></figure>
+<lb/>Head-Quarters Kentucky Volunteers,
+<lb/>ADJUTANT GENERAL'S OFFICE.
+<lb/>Louisville, <date when="1862-09-15">Septr 15th 1862</date>
+<lb/>Hon: D. C. Wickliffe
+<lb/>Sec: of State -- </p>
+<p>I have this day Com<hi rend="sup">d</hi>. &amp; delivered the following viz:</p>
+<p>David P. Middleton Ass<hi rend="sup">t</hi>. Surgeon dated this day -- 
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> P. Roper Capt: promoted date of Com: -- is <date when="1861-10-13">Oct 13, 1861 -- </date>
+<lb/>Ezra W. Gray 2<hi rend="underline"><hi rend="sup">d</hi></hi> Lieut: date <date when="1862-08-15">Aug 15, 1862</date>
+<lb/>Robert H. King Captain <hi rend="str"><unclear/></hi>is pro: date ^of Com:^ <date when="1862-01-09">9 Jan 1862</date>
+<lb/>Aaron C. Shacklett Capt: is pro: " <date when="1861-11-12">Nov. 12. 1861</date>
+<lb/>Francis H. Cosby Lieut is pro: " <date when="1862-02-09">Feb 9, 1862</date>
+<lb/>Com: iss<hi rend="sup">d</hi>. to Robert H. King as 1 Major -- date of same <date when="1862-08-13">Aug. 13, 1862 -- </date>
+<lb/>D<hi rend="underline"><hi rend="sup">o</hi></hi> Aaron C. Shack<hi rend="str"><unclear/></hi>lett as 3 Major -- same date -- 
+<lb/>D<hi rend="underline"><hi rend="sup">o</hi></hi> Francis H. Crosby as Captain -- same date -- 
+<lb/>D<hi rend="underline"><hi rend="sup">o</hi></hi> Ira Hart Stout as Adjutant -- date of Com: <date when="1862-07-30">July 30, 1862 -- </date>
+<lb/>Major M. H. Owsley has resigned -- date of Com: <date when="1861-12-04">Dec<hi rend="sup">r</hi> 4, 1861 -- </date>
+<lb/>Capt: E. J. Mitchell has resigned date of Com: <date when="1861-09-27">Sep 27, 1861</date> -- <pb/>
+<lb/>2<hi rend="underline"><hi rend="sup">d</hi></hi> Lieut: J. H. Todd has resigned -- date <date when="1862-07-11">July 11, 1862</date>
+<lb/>2<hi rend="underline"><hi rend="sup">d</hi></hi> Lieut: J. A. M<hi rend="underline"><hi rend="sup">c</hi></hi>Cullah -- date <date when="1861-11-13">Nov. 13. 1861,</date>
+<lb/>Adjutant James H. Turner -- date <date when="1861-11-28">Nov 28, 1861,</date>
+<lb/>Captain A. G. Smith -- date <date when="1861-11-12">Nov. 12. 1861,</date>
+<lb/>Captain Kavanaugh Bullock -- date <date when="1862-03-09">Mar 9, 1862</date></p>
+<p>I am
+<lb/>Resp<hi rend="sup">ly</hi>
+<lb/>John W. Finnell
+<lb/>Adj. Gen: Ken Vols</p>
+<p><date when="1862-08-15">Sept 15. 1862</date></p>
+  </body>
+ </text>
+</TEI>

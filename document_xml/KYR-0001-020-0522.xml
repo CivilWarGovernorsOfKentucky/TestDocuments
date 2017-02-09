@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0522"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">James Ferguson to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG9990</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG18-311</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Clinton County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency Beriah Magoffin Governor of the Commonwealth of Kentucky: </p>
+<p>Your petitioner James Ferguson, would respectfully represent to your Excellency that at the <date when="1859-04">April Term 1859</date> of the Clinton Circuit Court two indictments were found against him for assault; and at the <date when="1859-10">October Term 1859</date> of said court, Said indictments or causes were tried; and upon one, judgment was rendered against your petitioner, for one hundred and fifty dollars; and upon the other, judgment was entered for fifty dollars. and afterwards, viz: on the day of <gap/> <date when="1859">1859</date>, Benjamin Ferguson and A. T. Harper replevied Said fines for your petition in order to keep him out of <hi rend="underline">prison</hi>. Your petitioner would further state to your Excellency that he is a <hi rend="underline">peacable</hi>, <hi rend="underline">quiet</hi>, and <hi rend="underline">industrious</hi> man and that he is poor and has a family to support, and that if he is compelled to pay off Said fines that his family will suffer -- He further states or admits that he was guilty of the assaults charged, according to the representations made to him since for he states that he had become intoxicated with spirituous liquors and knew not what he did do upon that occasion -- He further states that nobody was hurt nor touched upon the occasion, that the greatest offense committed by your petition was considerable loud talk and gesticulations which was<pb/>
+<lb/>considered as amounting to an assault, that he has been upon perfectly friendly terms with the persons said to have been assaulted, ever since, and there would have been nothing of it except for spiritous liquors drank by your petitioner and he regrets the matter as much as anybody -- he sincerely regrets it and it is not often that he does become intoxicated and never was so before or since, that he did not know what he was doing. He states that when sober he attends to his own business and does not get into dificulties with his fellow citizens As he got into the dificulty accidentily and thinks the fines excessive, and as it pains him to see his<hi rend="str"><unclear/></hi> <hi rend="underline">hard earned</hi> property draged from his wife and little children he has ^con^cluded to ask the interposition of your Excellencys clemency and ^petition^ <hi rend="str">ask</hi> you to remit Said fines and release his said Securities from their security ship and promising to profit by the lesson taught him and to avoid such dificulties in the future -- </p>
+<p>Respectfully &amp; humbly submitted.</p>
+<p>James Fergson<pb/></p>
+<p>To his Excellency Beriah Magoffin Governor of the Commonwealth of Kentucky: Your petitioners would respectfully state to your Excellency that they have read or heard read the Statements made in the foregoing petition of James Ferguson and that the same are true and that his case is one that deserves Executive clemency We therefore petition your Excelly to interpose and remit said fines -- We would further represent that the crops in this section were cut very short by the drouth and that money matters are very stringent and that it is all a poor man can do to support his family in the present crisis -- </p>
+<p>Very respectfully Submitted.</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>G W Braswell
+<lb/>J C Southerland
+<lb/>John Carter
+<lb/>A T Harper
+<lb/>John Denton
+<lb/>C. H. Myers
+<lb/>Savid Balenger
+<lb/>Peter Halesapple
+<lb/>Alexander Carter
+<lb/>David Carter
+<lb/>Winson Carter
+<lb/>Ruben Hurt
+<lb/>Parker Males
+<lb/>J. A. Morrison
+<lb/><unclear/>
+<lb/><cb n="2"/>J M Gwinn
+<lb/>W. H. Walker
+<lb/>A. M. Elder
+<lb/>John Groom<pb/>
+<lb/>Harison Hurt
+<lb/>J M Elder</p>
+<p>Clinton 
+<lb/>Cir Ct
+<lb/>Respite 12 mo
+<lb/>B. M
+<lb/>$150
+<lb/>$50 } Assault
+<lb/>Ja<hi rend="sup">s</hi> Ferguson
+<lb/>Iss<hi rend="sup">d</hi> <date when="1861-01-14">Jany 14, 1861</date></p>
+  </body>
+ </text>
+</TEI>

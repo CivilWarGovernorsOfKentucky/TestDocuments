@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1237"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Richard H. Stanton to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10705</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG21-94</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Greenupsburg, Greenup County, Kentucky</placeName>
+    <date when="1861-07-16">16 July 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Greenupsburg, KY,
+<lb/><date when="1861-07-16">July 16, 1861,</date>
+<lb/>Hon B. Magoffin,
+<lb/>Sir,</p>
+<p>John W. Prince was fined at the Greenup Circuit Court, <date when="1861-05">May Term 1861,</date> the sum of $70 for fighting, and M<hi rend="sup">r</hi> Hugh Craycraft, a worthy and respectable citizen of the county, became his security on the repleivin bond, Prince is wholly unable to pay, and M<hi rend="sup">r</hi> Craycraft asks a release of the judgment. He is a good citizen, a poor man, with a large family, and I respectfully unite with him in asking that the judgment be remitted</p>
+<p>Respectfully,
+<lb/>R. H. Stanton
+<lb/>Com. atty<figure type="hr"/></p>
+<p>D<hi rend="sup">r</hi>. Magoffin -- The above statement is true as I understand from M<hi rend="sup">r</hi>. Stanton the commonwealths Atty for the district, and from other gentleman of standing and character in whom I have full confidence. My judgment is that the fine, at least as much of it as you have power over ^should^ be remitted -- A respite would only defer the day of payment, &amp; at the expiration of the time if the present condition of affairs continue, he would be as little able to pay as at present. I hope therefore you will remit this fine as it is one among the few cases of true merit that come before your Excellency.</p>
+<p>I have the honor to be very Respectfully your obedient servt.</p>
+<p><milestone unit="column" n="3"/><cb n="1"/>J R Brown
+<lb/>W<hi rend="sup">m</hi> Corum
+<lb/>Ed F Dulin
+<lb/><cb n="2"/>J W Waring
+<lb/><cb n="3"/>Henry M Rust
+<lb/>B. J. M<hi rend="sup">c</hi>Comas
+<lb/>Jesse Corum
+<lb/>Geo. E. Roe<milestone unit="column" n="1"/><pb/></p>
+<p>Remitted
+<lb/>B. M</p>
+  </body>
+ </text>
+</TEI>

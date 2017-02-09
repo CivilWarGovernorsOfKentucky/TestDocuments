@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0096"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">E. B. Stratton to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG1761</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Appointments by the Governor, Civil Appointments, 1863-1867</collection>
+      <idno>BR1-490</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Campbellsburg, Henry County, Kentucky</placeName>
+    <date when="1864-01-26">26 January 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Campbellsburg Ky <date when="1864-01-26">Jary 26th/64</date>
+<lb/>To his Excelency Thas. E. Bramlette,,
+<lb/>Governor of, Ky.,,</p>
+<p>Dear sir, I am about to change my residence, to an other county, plese accept my risignation, as Justice of the peace for Henry County Ky,, yours truly</p>
+<p>E. B,. Stratton</p>
+<p>I will suggest Mr John S Moore of Campbellsburg as a suitable man for the office he is Loyal &amp; in every Resect agood man E B. S<pb/>
+<lb/>Henry County
+<lb/>J P.
+<lb/>E B Stratton Esq<hi rend="sup">r</hi>.
+<lb/>&amp;
+<lb/>John S Moore
+<lb/><date when="1864-02-02">2<hi rend="sup">nd</hi> Feby 1864</date></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1921"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Thomas C. Dabney to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG11389</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Bradley Strait</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG23-357</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Greenville, Muhlenberg County, Kentucky</placeName>
+    <date when="1862-05-19">19 May 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Greenville Ky <date when="1862-05-19">19 May 1862</date>
+<lb/>His Excellency Gov Magoffin
+<lb/>Dear Sir</p>
+<p>At the present Term of my Court Edmond Drake &amp; Ben P Wells of this County were Indicted for Gaming on the <date when="1862-05-09">9th day May 1862</date>, The facts are as inferred by Credible persons that on that day these two, young men were engaged with many others in working a public road in said County &amp; whilst the hands were resting on the road side they innocently threw up few grains of Corn &amp; did bet on them 5 cents which was won by Wells &amp; then immediately returned to Drake by Wells, The Indictment erroneously charges it to have been done with cards but such is not the fact. In consideration of the facts, the tender age of the parties &amp; the perfect innocency of the parties not thinking or intending at the time to violate any law. I hereby most respectfully ask your Excellency to remit said offence &amp; free them from any further prosecution for the law</p>
+<p>Very Ress
+<lb/>Your Obt Servt
+<lb/>Tho, C, Dabney<pb/></p>
+<p>Muhlenberg Cir Ct
+<lb/>Indictments for Gaming 
+<lb/>E Burk &amp; B. P. Wells
+<lb/>Iss <date when="1862-05-28">May 28 1862</date></p>
+<p>Remitted 
+<lb/>B. M.</p>
+  </body>
+ </text>
+</TEI>

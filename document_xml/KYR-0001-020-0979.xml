@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0979"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">William B. Wall et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10447</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG20-33 to MG20-34</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency Beriah Magoffin
+<lb/>Governor of Kentucky,</p>
+<p>Your petitioners State that the <date when="1861-02">Feby Term 1861,</date> <hi rend="str">the</hi> Harrison Johnson was fined $60, that is $20. in three cases of Indictments against him for keeping a tipling house, The Said Johnson confessed Judgment for $20, in each of the three cases, Your petitioners State that the offences were committed by selling wine and beer at three picnics in the county last Summer, that they believe the offence was no wanton or known violation of law on the part of Johnson, but was done ignorantly, that he is a civil, and orderly man, poor &amp; hard run, with a large family and they believe a fit &amp; proper case for Executive Clemency, wherefore they pray Said fine be remitted, &amp; they will ever pray,</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>W<hi rend="sup">m</hi> B Wall
+<lb/>G W Ray
+<lb/>Jo G Harrison
+<lb/>H W Warfield
+<lb/><hi rend="underline">R. D. James.</hi>
+<lb/>J. B. Ijams.
+<lb/>S H Jones
+<lb/>Geo. Disney.
+<lb/><cb n="2"/>Jno P. Thompson
+<lb/>C. Maxwell
+<lb/>Clint W Clasty
+<lb/>John Locke S. D. C
+<lb/>Tapley Maddox D. do
+<lb/>J B Anderson
+<lb/><hi rend="underline">W. N. Sweeney</hi>
+<lb/>A Dahringer<pb/>
+<lb/><cb n="1"/>Names,
+<lb/>Robert, P, Sharp
+<lb/>Tom L Sandusky
+<lb/>W<hi rend="sup">m</hi> M Manns
+<lb/>William A Bryant
+<lb/>Jacob McGavock
+<lb/>Rob Pattinger
+<lb/>John Newsum
+<lb/>M Lipstine
+<lb/>Dick Mitchell
+<lb/>Alex Wile
+<lb/>Z F Lipstine
+<lb/>R. H. Bottinger
+<lb/>John S Mitchell
+<lb/>F H Bollinger
+<lb/>James Megill
+<lb/>Henry Megill
+<lb/>A M C. Simmons,
+<lb/>John D Williams
+<lb/>M P Fuqua
+<lb/>John G MFarland
+<lb/><cb n="2"/>Names,<milestone unit="column" n="1"/></p>
+<p>Daviess Cir. Ct
+<lb/>Remitted
+<lb/>B. M
+<lb/>$20. 3. judgments
+<lb/>Harrson Johnson
+<lb/>Issd <date when="1861-04-03">Apr 3.<hi rend="sup">d</hi> 1861</date><pb/></p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Names,
+<lb/><cb n="2"/>Names,</p>
+  </body>
+ </text>
+</TEI>

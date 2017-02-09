@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0149"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Commonwealth of Kentucky v. Jacob Giltner, Indictment</title>
+    <title level="a" type="parallel">CWG1038</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's Official Correspondence File, Apprehension of Fugitives from Justice Papers, 1863-1867</collection>
+      <idno>BR7-361</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Clay County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Clay circuit court
+<lb/>The commonwealth of Kentucky
+<lb/>against } Indictment
+<lb/>Jacob Giltner</p>
+<p>The Grand Jury of Clay County in the name and by the authority of the commonwealth of Kentucky accuse Jacob Giltner of the Crime of Murder, Committed as follows, viz; The said Jacob Giltner on the <date when="1865-11-24">24<hi rend="sup">th</hi> day of November 1865</date> in the County afforesaid did feloniously and wilfully &amp; with malice afforethought kill and murder William Clark by Shooting him with a gun and Pistol against the peace and dignity of the commonwealth of Kentucky</p>
+<p>H. F. Finly
+<lb/>Commonwealths atty</p>
+<p>Witnesses
+<lb/>Reubin Baker
+<lb/>Thos Merrll
+<lb/>John Peters
+<lb/>John H Gilbert
+<lb/>John Sperlock</p>
+<p>A true copy -- attest
+<lb/>G W Price C Clk<pb/></p>
+<p>The commonwealth
+<lb/>vs } Indictment
+<lb/>Jacob Giltner<figure type="hr"/>
+<lb/>A True Bill
+<lb/>J. G. Gilbert
+<lb/>foreman
+<lb/>Murder</p>
+  </body>
+ </text>
+</TEI>

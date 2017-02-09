@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0664"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Pennington to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10132</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG19-5 to MG19-6</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1861-02-20">20 February 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>The undersigned would respectfully represent to your Excelency the Gov. of Kentucky:</p>
+<p>That at the last Equity &amp; Criminal Court for Logan County, That William Baker, of our County, a verry worthy and exemplary Citizen was fined 40$. On accont of an old Slave of his having Sold Spirituous Liquor, -- We are well acquainted with M<hi rend="sup">r</hi>. Baker and know that the conduct of his slave was far from meeting his approbation, indeed he is one of the last men in the State that would countenance or Encourage Such acts in any of his Slaves -- </p>
+<p>If you Excllency would itnerpose and relieve our worthy friend M<hi rend="sup">r</hi> Baker from the payment of said fine, or the portion going to the State, your action would meet the approbation of all acquainted with the facts -- hopeing you will do so we are Respectfully Your fellow citizens &amp;c.</p>
+<p>John Pennington</p>
+<p>This the <date when="1861-02-20">20<hi rend="underline"><hi rend="sup">th</hi></hi> of Febuy 1861</date>.</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>D. Hail
+<lb/>Tho<hi rend="sup">s</hi> G. Hail
+<lb/>Joshua Murrah, Jr
+<lb/>Robert Murrah Jr
+<lb/>John Murrah
+<lb/>J. W. Hickmine
+<lb/>James hickman ^<unclear/>^)
+<lb/>R Power
+<lb/>D Dinling)
+<lb/>B Hickman)
+<lb/>J Oats
+<lb/>M. M. Clark
+<lb/>William Walker
+<lb/>G. B. Pennington
+<lb/><cb n="2"/>S. J... Gilli
+<lb/>John.H. Clark
+<lb/>Wm. R. Stranton
+<lb/>W. G. Stoakes
+<lb/>A Q Barker
+<lb/>Wm A Phelps
+<lb/>John Ballena
+<lb/>Joseph pennington
+<lb/>Geo. Halcomb
+<lb/>W. W. Foster
+<lb/>E. Parnell
+<lb/><unclear/> <unclear/> <unclear/>
+<lb/>J. H. Tooley
+<lb/>James Hopkins
+<lb/>C. G Whitaker<milestone unit="column" n="1"/><pb/>
+<lb/>G Berger
+<lb/>W H Nimmo
+<lb/>H.. W.. Daudgher
+<lb/>R Moore
+<lb/>R.. E.. Williams
+<lb/>J M Moore
+<lb/>John B Dinniy
+<lb/>W. C. Rice
+<lb/>Joshua Murrah
+<lb/>E M. Penee
+<lb/>J. C. M<hi rend="sup">c</hi>Goldrick
+<lb/>E. Burr J<hi rend="sup">r</hi>
+<lb/>G T. Ryan
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Gorham
+<lb/>D. R Shepherd
+<lb/>J. B. Harper
+<lb/>William Harper
+<lb/>H W. <unclear/>
+<lb/>B. P. Turner
+<lb/>F M Blauscheim Jr
+<lb/>T J Townsend
+<lb/>A G Dickerson
+<lb/>D. Orndoff
+<lb/>J P <unclear>Jones</unclear>
+<lb/>John Shepherd
+<lb/>William E Offutt
+<lb/>J<hi rend="underline"><hi rend="sup">os</hi></hi> J. Offutt
+<lb/>A. K. Baker<pb/></p>
+<p>Logan Crim Ct
+<lb/>Respite 12 mo
+<lb/>B. M.
+<lb/>$40 } Slave selig Liquor
+<lb/>W<hi rend="sup">m</hi> Baker
+<lb/>Iss<hi rend="sup">d</hi> <date when="1861-04-11">Apr 11. 
+<lb/>1861</date></p>
+  </body>
+ </text>
+</TEI>

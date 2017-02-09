@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0342"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Samuel Salyer to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG2690</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Civil Appointments, 1859-1862</collection>
+      <idno>MG4-304</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Salyersville, Magoffin County, Kentucky</placeName>
+    <date when="1862-02-05">5 February 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Salyerville Kentucky
+<lb/><date when="1862-02-05">February 5<hi rend="sup">th</hi> 1862.</date>
+<lb/>Beriah Magoffin Esq</p>
+<p>Dear Gov, I send you a petition, by Mr Joseph Gardner from several of <hi rend="underline">our</hi> <hi rend="underline">best</hi> <hi rend="underline">friends</hi> praying you to remit fines against them which I <hi rend="underline">know</hi> was unjustly imposed upon them by a little Justice of the peace who to carry out his spleen against these men fined them, It is not the amount of the fine that they care so much for but the treatment is extraordinary hence they have petitioned Mr Gardner will give you a history of the man Adams, who is the Justice,</p>
+<p>I hope you will remit these fines and sent remit by Mr Joseph Gardner</p>
+<p>Your friend truly
+<lb/>Samuel Salyer<pb/></p>
+<p>Magoffin
+<lb/>J. P.
+<lb/>Sundry Fines
+<lb/>Remitted <date when="1862-02-18">Feby 18. 1862</date></p>
+<p>I know what is stated in this petition to be correct</p>
+<p>Joseph Gardner</p>
+  </body>
+ </text>
+</TEI>

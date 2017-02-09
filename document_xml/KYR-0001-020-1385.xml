@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1385"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">George W. Johnston to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10853</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG21-326</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date when="1861-09-05">5 September 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Louisville K.y. <date when="1861-09-05">Septr 5<hi rend="sup">th</hi> 1861.</date>
+<lb/>Hon B. Magoffin.
+<lb/>D<hi rend="sup">r</hi> Sir.</p>
+<p>About a year ago or a little over Mrs Berling wife of Henry Berling who is now at my office Informs me her Husband sent a Petition asking the remission of a fine of $50:00<unclear/> assessed against him in the city court For selling Liquor to a slave &amp; that you respited the collection of the fine for one year which has expired, She begs me to pray you to look at the Petition now &amp; remit the fine.</p>
+<p>Her husband has sometime since closed his coffee house &amp; is at work as a day laborer &amp; that they are wholy unable to pay the Fine:</p>
+<p>I know Berling He is an Industrious clever German, poor, &amp; has a family of small children. He is worthy of your clemency.</p>
+<p>Very Truly yours.
+<lb/>Geo. W. Johnston:</p>
+  </body>
+ </text>
+</TEI>

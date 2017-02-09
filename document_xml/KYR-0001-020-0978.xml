@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0978"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Elias Scudder to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10446</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG20-31 to MG20-32</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1861-04-13">13 April 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency Beriah Magoffin Govenor of Kentucky your petitioner Elias Scudder respectfully states that he was fined by the mayor of the city of maysville in the state of Kentucky the sum of thirty dollars for an alledged indecent exposure of his person -- </p>
+<p>The prosecution for this offence was commenced against your petitioner nearly two months after its alledged commission a delay unaccountable and which shows that the procecution therefor was the result of <hi rend="underline">malice</hi> or cupidity on behalf of the prosacutrix, for it was commenced by a female under the impression as he is induced to believe that she would receive the fine for an act however inexcusable in itself was not at the time of its commission deemed by the prosecution so offensive as to arouse her indignation or a resort to the law for either exposure or<pb/>
+<lb/>punishment, and while your petitioner regrets the act he is constrained to state that no exception to or rebuke of the act was taken to or made by the prosacutrix for nearly two months thereafter! he is poor and has a family dependent upon him for support, the fine was improper and unjust, and the prosacution for the offence was so sudden and unexpected as to preclude him from that defence which would have demonstrated that the prosacution therefor was as before stated the result of malice &amp; cupidity rather than that nice &amp; shrinking sense of Delicacy which would have prompted instant and direct complaint by mrs Hicks; he respectfully solicits your Excellency to remit this fine his "will &amp; poverty" alike inducing him to this application.</p>
+<p><date when="1861-04-13">April 13<hi rend="sup">th</hi> 1861</date></p>
+<p>Elias Scudder
+<lb/><hi rend="underline">over</hi><pb/></p>
+<p>The undersigned concur and unite in the prayer of the foregoing Petition beleiving the statements therein made</p>
+<p><date when="1861-04-13">April 13<hi rend="sup">t</hi> 1861</date></p>
+<p><milestone unit="column" n="2"/><cb n="1"/>M. T. Corkrill
+<lb/>Hamilton Gray
+<lb/><hi rend="underline">H. Taylor</hi>
+<lb/>J L Russell
+<lb/>M W Chambers
+<lb/><hi rend="underline">Jn</hi><hi rend="underline"><hi rend="sup">o</hi></hi> D,, <hi rend="underline">Taylor</hi>
+<lb/>Hiram Bassett.
+<lb/>W<hi rend="sup">m</hi> E Seddon
+<lb/>Smal K Sharpe
+<lb/>Robt A Cochran
+<lb/>Emery Whitaker
+<lb/>R. H. Stanton,
+<lb/>James Hise
+<lb/>John A Loughridge
+<lb/>W. T. Curts.
+<lb/>Saml W Wood
+<lb/>Lewis Collins
+<lb/>C H. Frank
+<lb/><cb n="2"/>Joseph Frank
+<lb/>Henry Atherton
+<lb/>V. P. Collins
+<lb/>C B Coons
+<lb/>J Barboux
+<lb/>C G Cady
+<lb/>Tho. B. Stevenson<milestone unit="column" n="1"/><pb/></p>
+<p>Maysville City Ct
+<lb/>Remitted
+<lb/>B. M.
+<lb/>$30 } Misdemeanor
+<lb/>E. Scudder
+<lb/>Iss<hi rend="sup">d</hi> <date when="1861-04-29">Apr 29 1861</date></p>
+  </body>
+ </text>
+</TEI>

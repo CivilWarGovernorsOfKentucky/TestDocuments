@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-117-0060"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Unknown, Note</title>
+    <title level="a" type="parallel">CWG13889</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Christina K Adkins</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>Adjutant General Letter Book - No. 3 ; 9 April - 25 May 1864</collection>
+      <idno>239</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Note</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><note place="header">239</note>
+<lb/>H<hi rend="underline"><hi rend="sup">d</hi></hi> Qrs. 3<hi rend="underline"><hi rend="sup">d</hi></hi> Ky Cavl
+<lb/>Nashville Tenn
+<lb/><date when="1864-05-01">May 1<hi rend="underline"><hi rend="sup">s</hi></hi> 1864</date><figure type="hr"/>
+<lb/>King R. H.
+<lb/>Lt Col 3<hi rend="sup">d</hi> Cav<hi rend="underline"><hi rend="sup">l</hi></hi><figure type="hr"/></p>
+<p>Sends statements of Maj Breathitt and capt A G Slav in relation to interfearance by col Starling and Ware to recruiting from the 35<hi rend="underline"><hi rend="sup">th</hi></hi> Ky for the 3 years service and asking you to take action in the matter.</p>
+<p><figure type="hr"/>
+<lb/><unclear>8 inclosures</unclear><figure type="hr"/>
+<lb/>Rc<hi rend="sup">d</hi> A G. O. <date when="1864-05-06">6" May 1864</date></p>
+<p>Head Quarters Ky. Vols.
+<lb/>Adjutant General's Office.
+<lb/>Frankfort-Ky. <date when="1864-05-06">May 6<hi rend="sup">th</hi> 1864</date></p>
+<p>By order of His Excellency- Gov. Bramlette, this subject is respectfully refered to Brig. Gen. Burbridge The attempt to recruit was under authority from this office granted, under orders from the War Dept. which were solicited by the twelve months troops and not by the State. The contempt shown to the authority of both the State and General Governments, in these repeated hinderances by officers of twelve months regiments- induces Gov. Bramlette, to lay the whole matter before the U.S. Authorities -- as the regiments are not under State control and to ask that, if guilty, these officers be punished.</p>
+<p>Respectfully &amp;c
+<lb/><hi rend="underline">John Boyle</hi>
+<lb/>Adjt. Gen of Ky.</p>
+  </body>
+ </text>
+</TEI>

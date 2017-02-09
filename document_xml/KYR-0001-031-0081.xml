@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-031-0081"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">H. R. Sillett to James F. Robinson</title>
+    <title level="a" type="parallel">CWG7821</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Appointments by the Governor, Civil Appointments, 1862-1863</collection>
+      <idno>R1-124</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Hopkinsville, Christian County, Kentucky</placeName>
+    <date when="1862-12-04">4 December 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Hopkinsville Ky
+<lb/><date when="1862-12-04">Decr 4 1862</date>
+<lb/>To His Excellency Gov Robertson
+<lb/>Governor of Ky
+<lb/>Dr Sir</p>
+<p>There is a vacancy in the Office of Justice of the Peace in District No 6 caused by the death of R W Henry Also in District No 10 caused by the removal of Joe P Pool Also in District No 8 caused by the resignation of Joab Clark whose resignation is inclosed herewith</p>
+<p>P. W. Dryden in place of Henry in District No 6 Willis Johnson in place of Pool in District No 10 And William Brown in place of Clark in District No 8 would be very suitable persons to appoint to fill said vacancies They are all good Union men &amp; Loyal Citizens &amp; men of sufficient information &amp; intelligence in fact among the best citizens of the County &amp; their appointments would give satisfaction in their Districts &amp; if appointed will accept</p>
+<p>Yours respectfully
+<lb/>H R Sillett
+<lb/><hi rend="underline">County Judge of Christian County</hi><pb/></p>
+<p>Christian Co<figure type="hr"/>
+<lb/>J P.
+<lb/>Dist N<hi rend="sup">o</hi> 6. 8. 10
+<lb/>App<hi rend="sup">d</hi> <date when="1862-12-10">Decr 10 1862</date></p>
+  </body>
+ </text>
+</TEI>

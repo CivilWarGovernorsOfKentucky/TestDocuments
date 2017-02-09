@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-018-0231"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John W. Finnell to Nathaniel Gaither, Jr.</title>
+    <title level="a" type="parallel">CWG8297</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Military Appointments, 1859-1862</collection>
+      <idno>MG6-342</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1862-02-12">12 February 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><figure type="seal"><ab>UNITED WE STAND, DIVIDED WE FALL.
+<lb/>KENTUCKY.</ab></figure>
+<lb/>Head-Quarters Kentucky Volunteer Militia,
+<lb/>ADJUTANT GENERAL'S OFFICE,
+<lb/>Frankfort, <date when="1862-02-12">12 Feb 1862</date>.</p>
+<p>Hon:
+<lb/>Nat Gaither Jr
+<lb/>Sec of State.</p>
+<p>Comms: iss<hi rend="sup">d</hi> <date when="1861-11-19">19<hi rend="underline"><hi rend="sup">th</hi></hi> Novr 1861</date>_ to
+<lb/>Francis Montgomery- Captain
+<lb/>Daniel B. Good- 1<hi rend="underline"><hi rend="sup">st</hi></hi> Lieut
+<lb/>Hardin F. Judd -- 2<hi rend="underline"><hi rend="sup">d</hi></hi> Lieut<figure type="hr"/>
+<lb/>Edmund Penn- Captain
+<lb/>William T. Munell_ 1<hi rend="underline"><hi rend="sup">st</hi></hi> Lieut
+<lb/>Joseph Russell- 2<hi rend="underline"><hi rend="sup">d</hi></hi> Lieut<figure type="hr"/>
+<lb/><hi rend="underline">These Companies are disbanded</hi>-</p>
+<p>Jacob Miller Com: as Captain dated <date when="1861-12-18">18 December 1861</date>, should be <date when="1861-09-23">23<hi rend="sup">d</hi> September 1861</date>, Please change this_<figure type="hr"/>
+<lb/>The Com: which is, issued <date when="1862-02-01">1 Feb 1862</date> to <hi rend="underline">Francis Maximillian Taylor</hi> Asst Surg: should be <hi rend="underline">Frederic Maximillian Taylor</hi>.</p>
+<p>I am sorry for this trouble, but it is not our fault-<pb/>
+<lb/> -- I send Millers' Com: properly dated if you think best you can mark the first cancelled &amp; record this-</p>
+<p>Very Resp<hi rend="sup">ly</hi>
+<lb/>John W. Finnell
+<lb/>Adj<hi rend="sup">t</hi> Gen<hi rend="sup">l</hi></p>
+  </body>
+ </text>
+</TEI>

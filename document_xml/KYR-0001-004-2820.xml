@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2820"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">J. J. Landram et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7457</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR17-91</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency Thos E Bramlett
+<lb/>Govenor of the Commonwealth,</p>
+<p>We the undersigned Petitioners of Grant County Kentucky would respectfully represent that One James Salyers a Citizen of said County was indicted in the Grant Circuit Court for the offense of an <hi rend="underline">assault</hi> and at the <date when="1865-10">October Term of Said Court 1865</date> He was fined the Sum of <hi rend="underline">Seventy</hi> <hi rend="underline">five</hi> <hi rend="underline">Dollars</hi> We would represent that he is a verry poor man, Just <hi rend="underline">married</hi> and not <hi rend="underline">able</hi> to make his fine to the Commonwealth and we beleve his case is one that demands Your Clemency. He was also fined at the <date when="1864-05">May Term 1864</date> in the Sum of Fifty Dollors for an assault, on One Merrill We further believe from all the Circumstances that the last is also a Case demanding Your Clemency, and unless those fines are remitted, the deft must necessarily be much embarrassed, He is a Young Man, &amp; has Served his Country well in the present war, agst the rebelion, We hope You will exercise Your Clemency &amp; remit Said fine and allow the Young man to Commence in the world untrammeled &amp; we will ever pray, &amp; &amp;,<pb/></p>
+<p>J J Landram from Gallatin County -- 
+<lb/>E. H. Smith Grant County
+<lb/>O. D. M<hi rend="underline"><hi rend="sup">c</hi></hi>Manama
+<lb/>Tho<hi rend="sup">s</hi> A Franklin C. G. C. C
+<lb/>W L Simmons County Atty
+<lb/>John Marksbury Sheriff of Grant Co
+<lb/>Lewis Myers Grant Co. Ky
+<lb/>N. H. Jeffers clk Grant cir ct.
+<lb/>Jas. A. Johnson</p>
+<p>Grant Cir Ct
+<lb/>vs
+<lb/>Jas Salyers
+<lb/>2 Judgts
+<lb/>$75, assault
+<lb/>$50, "
+<lb/>Remitted <date when="1865-12-02">2<hi rend="sup">d</hi> Dec/65</date></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0202"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Murray to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG9670</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG17-152 to MG17-153</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Lawrenceburg, Anderson County, Kentucky</placeName>
+    <date when="1860-11-02">2 November 1860</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his excellency the govenor of Kentucky, Beriah Magoffin</p>
+<p>Your petitioner John Murry says one John Lenard commited an offense against the laws of this state by stabing one Patrick Daugherty, for which offense he was held in bonds for his appearance at the <date when="1860-10">October term of the Anderson circuit Court, held in 1860</date>, in the sum of one hundred dollars, that this petitioner being the friend of said Lenard went as surity on his bail bond for his appearance, that said Lenard failed to make his appearance at Court, and that thereby said bond was forfeited. This petitioner further says that the said Daugherty has since recovered from his wound, He further says that he is a poor man and has to make his living by labouring on public works, and if he should have the one hundred dollars to pay, it will considerably<pb/>
+<lb/>embarrass him, He therefore prays that your executive clemency be extended to him and that you remit said fine or forfeture</p>
+<p>John Mury says the statements of the foregoing petition are true.</p>
+<p>John Murray</p>
+<p>Subscribed &amp; sworn to before me by John Murray. <date when="1860-11-02">Nov 2 1860</date></p>
+<p>N. W. Penney
+<lb/>Notary public for Anderson County Ky</p>
+<p>We the undersigned citizens of Anderson County Concur in the above prayer.</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>J W Sherspoon
+<lb/>John Ripy
+<lb/>G W Mathewes
+<lb/>James Saffell
+<lb/>Moses. Smith
+<lb/>Jas. R Chambers
+<lb/>J. H. Walker
+<lb/>J. B" Bush
+<lb/><cb n="2"/>J S, Littlepage Jr
+<lb/><hi rend="underline">W. W. Penney</hi>
+<lb/>James M. Posey
+<lb/>Tho<hi rend="sup">s</hi> H Hankleson
+<lb/>Ja<hi rend="underline"><hi rend="sup">s</hi></hi> A. M<hi rend="sup">c</hi>Brayer
+<lb/>John Draffen
+<lb/>Thos. A. Kavanaugh
+<lb/>C. N. Kavanaugh<pb/></p>
+<p><milestone unit="column" n="1"/>Anderson Cir. Ct
+<lb/>$100 } Forfeiture Recognizance
+<lb/>John Murray
+<lb/>Remitted 
+<lb/>B. M
+<lb/>Iss<hi rend="sup">d</hi> <date when="1860-11-30">Nov 30. 1860</date></p>
+<p>J. B. Bush
+<lb/>Lawrenceburg Ky.</p>
+  </body>
+ </text>
+</TEI>

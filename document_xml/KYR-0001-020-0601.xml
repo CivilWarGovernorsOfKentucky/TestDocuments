@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0601"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John B. Huston to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10069</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG18-426</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Winchester, Clark County, Kentucky</placeName>
+    <date when="1861-02-03">3 February 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Winchester Feb 3<hi rend="sup">rd</hi> 1861
+<lb/>Gov<hi rend="sup">r</hi> M<hi rend="sup">c</hi>Goffin
+<lb/>Dear sir</p>
+<p>Mr. William Rucker son of Reuben Rucker was indicted for forgery in our court at the <date when="1859-11">Nov<hi rend="sup">r</hi> Term 1859</date>. The case was filed away at the <date when="1860-05">may Term 1860</date> and so it stands. The charge was for forging a receipt for $4. Given by a Postmaster as evidence that, so much money was mailed at the post office towit $4 -- The commonwealth has filed it away &amp; will I think never call it again</p>
+<p>W<hi rend="sup">m</hi> Rucker had borne a fine character &amp; I never heard any charges against him untill the one above &amp; none since -- His Father &amp; family are highly respectable &amp; of fine character It is desirable that the case be discharged. As it stands some evil disposed persons can call it up for purposes of annoyance &amp; personal revenge -- The person who wrote the receipt Dr. Baxter is dead<pb/>
+<lb/>and I feel sure the case is ended -- But it is desired that you interpose &amp; close out the chances of annoyance especialy as the ends of justice will not be interfered with. I never doubted that he would be cleared on trial I write in recommending a discharge.</p>
+<p>yours &amp;c
+<lb/>Jn<hi rend="sup">o</hi> B Huston</p>
+<p>The Indictment was found <date when="1859-11-15">Nov<hi rend="sup">r </hi>15<hi rend="sup">th</hi> 1859</date> and filed away at <date when="1860-05">May Term 1860</date>.</p>
+<p>I cordially concur in the representatives made in the above letter, and also in the prayer for relief to W<hi rend="sup">m</hi> Rucker.</p>
+<p>A H Buckner clk
+<lb/>Clark Cir Court</p>
+  </body>
+ </text>
+</TEI>

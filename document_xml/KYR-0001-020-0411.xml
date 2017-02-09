@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0411"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Jacob Elderkin to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG9879</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG18-139 to MG18-140</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date when="1860-10-27">27 October 1860</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency Beirah Magoffin
+<lb/>Governor of Kentucky.</p>
+<p>Your Petitioner Jacob Elderkin states that at the <date when="1860-06">June term (1860)</date> of the city court of Louisville, he was fined five hundred dollars for an alleged assault &amp; battery on -- and one hundred dollars for an alleged assault and battery on -- He states, that he was not present at the trial of Either of these cases -- and was not represented by an attorny; but was Engaged on a boat going from Louisville to New Orleans at the time of trial. The costs in both cases ^including atto<hi rend="underline"><hi rend="sup">s</hi></hi> 30% of fines -- ^ amount to two hundred forty six dollars &amp; ten cents. He has replevied the sd fines including costs which amount in all to <hi rend="str">eight</hi> ^six^ hundred and <hi rend="str">forty</hi> <hi rend="str">six</hi> ^Fifty three^ dollars &amp; <hi rend="str">ten</hi> 80 cents. He states that he has been Engaged for the Ensuing peek season at the House of Hamilton &amp; company. and that the wages which will accrue to him for his winter work will Just about pay the costs, but will not be sufficient to pay the same, and board and clothe him for the winter The fines assessed against him are certainly Enormous. He is a poor. young man, and wholly unable to pay said fine, He relies upon his daily labor for a support He has no property of any kind He promises, if your Excellency will remit these fines, that his name, shall never appear on the records of said Court again, unless in case of absolute necessity, Wherefore he most respectfully prays that said fines be remitted.</p>
+<p>Jacob Elderin
+<lb/>Louisville <date when="1860-10-27">October 27th 1860</date>,<pb/></p>
+<p>I certify that the amount of costs in the before mentioned Cases. $246.10. has been Replevied ^as also the Fines^</p>
+<p>F. B. Jones. D. C.</p>
+<p>M. Pyles
+<lb/>Jesse Tolbert
+<lb/>Ross Barn
+<lb/>Saml M<hi rend="underline"><hi rend="sup">c</hi></hi>Collum
+<lb/>B Miller
+<lb/>P. M. Campion
+<lb/>M O, Wade
+<lb/>C, W, Evans<pb/></p>
+<p>Louisville Ct Ct
+<lb/>Respite 4 mo<hi rend="sup">s</hi>
+<lb/>B. M.
+<lb/>Is<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1860-10-31">Oct 31. 1860</date>
+<lb/><unclear/> B M
+<lb/>$500. } assault
+<lb/>$100 } assault
+<lb/>J. Elderkin
+<lb/>Remitted
+<lb/><date when="1861-01-20">Jany 20. 1861</date><figure type="hr"/></p>
+<p>Remitted
+<lb/>B. M</p>
+  </body>
+ </text>
+</TEI>

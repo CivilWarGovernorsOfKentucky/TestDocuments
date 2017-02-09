@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0003-143-0012"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Edwin M. Stanton to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG14455</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Christina K Adkins</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Historical Society</repository>
+      <collection>Handwritten Transcriptions of Civil War Telegrams</collection>
+      <idno>19</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Washington, District of Columbia</placeName>
+    <date when="1862">1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Telegram</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><note place="header">19</note></p>
+<p>Washington D.C.
+<lb/><date when="1862">15<hi rend="sup">th</hi> 1862</date>
+<lb/>Gov Magoffin
+<lb/>of Ky -- </p>
+<p>The returns from many of the states being found imperfect &amp; some changes having been made since the last returns -- will you please send to this department, a full &amp; accurate statement of all the troops from your state which are now in the service of the General Goverment together with a separate list of all not mustered in the service &amp; all used as home Guards, &amp;c &amp;c Keep each arm of the service distinct &amp; exhibit the total of each with the grand total- the object of this is to arrive on the entire number of men armed and employed in the Military service in any capacity in order to provide adequate appropriations for payment &amp; supplies &amp; it is highly desirable that your statement should be sent with no delay Please acknowledge receipt immediately</p>
+<p>Edwin Stanton
+<lb/>Secy War</p>
+  </body>
+ </text>
+</TEI>

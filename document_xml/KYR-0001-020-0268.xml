@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0268"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Robert J. Breckinridge to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG9736</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG17-244 to MG17-245</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Lexington, Fayette County, Kentucky</placeName>
+    <date when="1860-12-22">22 December 1860</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Lexington
+<lb/><date when="1860-12-22">Dec 22<hi rend="underline"><hi rend="sup">d</hi></hi> 1860</date>
+<lb/>Hon Beriah Magoffin
+<lb/>Dear Sir</p>
+<p>About six weeks or two months since, I was induced by the entreatie of a Widowed Mother to become the security for her son. on a Bond to keep the Peace -- since that time the Boy has broken the Peace and thereby forfeited the Bond -- I Know of no excuse of justification which can be set up in defense of the Deft conduct -- at the same time I can see<pb/>
+<lb/>no advantage to accrue to the state by coercing from me the amount of the Bond viz $<hi rend="underline">15</hi>00 -- Times are hard -- money scarce, I am poor, and the Union is divided, in veiw of these circumstances it is my candid opinion that this <hi rend="str">also</hi> is a case which strongly recommends itself to executive clemency -- Hoping that your Excellency may take the same view of the matter -- and send by mail a <hi rend="str">p</hi>Pardon for your humble servant</p>
+<p>I remain as Ever
+<lb/>Respectfully
+<lb/>Robt J Breckinridge<pb/></p>
+<p>R. J. Breckinridge
+<lb/>Respite 12 mo
+<lb/>B, M
+<lb/>Lexington City Ct
+<lb/>$150 } Bail Bond
+<lb/>Iss<hi rend="sup">d</hi> <date when="1860-12-24">Dec<hi rend="sup">r</hi> 24 1860</date></p>
+  </body>
+ </text>
+</TEI>

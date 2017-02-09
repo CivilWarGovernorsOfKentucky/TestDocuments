@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2197"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Thomas J. Hall et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6834</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR15-2 to BR15-3</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Shepherdsville, Bullitt County, Kentucky</placeName>
+    <date when="1865-08-23">23 August 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Shepherdsville Ky
+<lb/><date when="1865-08-23">23 Augst 1865</date>
+<lb/>To His Excellency
+<lb/>Thomas E Bramlette
+<lb/>Gov<hi rend="sup">r</hi> of Ky
+<lb/>Sir</p>
+<p>The Undersigned ask to represent to your excellency that at the present term of the Bullitt Circuit Court, upon a presentment for keeping a Tippling house A. P. Quint, was fined Sixty Dollars -- </p>
+<p>M<hi rend="sup">r</hi> Quint did not undertake to defend the presentment. On the contrary acknowledged his fault -- We are satisfied it was his first breach of law, in this particular and that he will not offend again and we take pleasure in recommending his case as one deserving executive clemency to the extent of your power -- Which we hope will be extended to M<hi rend="sup">r</hi> Quint</p>
+<p>Very respectfully</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> J. Hall Sheriff B C
+<lb/>Lloyd Friddle
+<lb/>L Hoglan
+<lb/>P J B C C
+<lb/>Wertly Phelps
+<lb/>J, D, Hudson
+<lb/>R. J. Mayler
+<lb/>W. J. Colbow
+<lb/>S A M<hi rend="sup">c</hi>Kay
+<lb/><cb n="2"/>R. H. Field
+<lb/>J R Dupuy
+<lb/>Com' atty
+<lb/>John L. Helm
+<lb/><hi rend="underline">J DeWitt Dundee</hi>
+<lb/>Tho W Riley
+<lb/>W<hi rend="sup">m</hi> Wilson
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> J Heady
+<lb/><hi rend="underline">H. M. M</hi><hi rend="underline"><hi rend="sup">c</hi></hi><hi rend="underline">Carty</hi>
+<lb/><hi rend="underline">Wm</hi> <hi rend="underline">R</hi> <hi rend="underline">Thompson</hi><pb/></p>
+<p><milestone unit="column" n="1"/>Bullitt Cir Ct
+<lb/>vs
+<lb/>A P, Quint
+<lb/>$60.
+<lb/><hi rend="str">Pardon</hi> -- 
+<lb/>Remit
+<lb/><date when="1865-09-02">2<hi rend="sup">d</hi> Sept/ 65</date></p>
+  </body>
+ </text>
+</TEI>

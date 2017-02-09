@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1596"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Henry Topmiller et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG11064</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Amanda Boczar</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG22-242</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Covington, Kenton County, Kentucky</placeName>
+    <date when="1861-12-31">31 December 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To Beriah Magoffin Governor of Ky</p>
+<p>Your Petitioners Bernard and Henry Topmitter, would respectfully represent to your honour that, they were sentenced to the Penetentiary for one year this day. they were charged with Steeling 22 geese and they state that the geese as they believed belonged to them but owing to the instruction of the Court they were convicted of steeling them when they had no such intention wherefore they pray that they be reprieved and your Petitioners will ever pray &amp;C,</p>
+<p>Covington Ky <date when="1861-12-31">Dec 31<hi rend="sup">st</hi> 1861</date></p>
+<p>Henry Topmiller
+<lb/>Bernard Topmiller</p>
+<p>We the undersigned Jury men who tried the case of the Commonwealth against Henry &amp; Bernhard TopMiller respectfully join in the forgoing petition for a release or reprieve of said Topmillers as we felt from the instructions of the Court to find them guilty but we think they both ought to be reprieved this <date when="1861-12-31">31<hi rend="sup">st</hi> day of December 1861</date></p>
+<p>(Names of Jurors who tried the case
+<lb/><milestone unit="column" n="2"/><cb n="1"/>John Hambrick
+<lb/>John. M. Ferguson
+<lb/>A. H. Jameson
+<lb/>James Arnold
+<lb/>G W Dudley
+<lb/>L. L. O.Daniel
+<lb/><cb n="2"/>L. D. Croninger
+<lb/>H C Boswell
+<lb/>J B Wassen
+<lb/>August Droscher
+<lb/>Henry L Halley.
+<lb/>Ennis Thomas<milestone unit="column" n="1"/><pb/></p>
+<p>Cov <date when="1861-12-31">Dec <hi rend="str">29</hi>31<hi rend="sup">st</hi> 1861</date></p>
+<p>Dear Gov. The foregoing names are the names of the Jury men that tried the case they <hi rend="str">ha</hi> asked me to draw up a petition asking the remission or their reprieve the statements in the Petition I know are true will you please attend to this at your earliest opportunity and direct to me at Covington Ky</p>
+<p>Yours with all due respects
+<lb/>S. C. Perrin</p>
+<p>B Magoffin
+<lb/>Franfort Ky</p>
+<p>Kenton Cir. Ct
+<lb/>Henry &amp; Bernard Topmiller
+<lb/>Stealing 22 geese
+<lb/><hi rend="str">2</hi>1 yrs Penty
+<lb/>Pardon Iss<hi rend="sup">d </hi><date when="1862-01-17">Jany 17. 1862</date></p>
+  </body>
+ </text>
+</TEI>

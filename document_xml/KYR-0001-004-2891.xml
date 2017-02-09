@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2891"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">James Rudy to Unknown</title>
+    <title level="a" type="parallel">CWG7528</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR17-204 to BR17-205</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Caseyville, Union County, Kentucky</placeName>
+    <date when="1865-12-23">23 December 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Caseyville <date when="1865-12-23">Decbr 23<hi rend="sup">d</hi> 1865</date>
+<lb/>To Whom it May Concern</p>
+<p>This is to certify that I was present and witnessed the fatal encounter between Dr R W N Taylor and John P Hall in which Taylor was Slain Some years Since in ^the^ Town of Caseyville I was well acquainted with with both parties I had met Hall on that occasion for the purpose of Settling a disputed account between us in relation to some work Said Hall had done for Me and while thus engaged quietly in Selling the deceased by His violent language and gestures and offensive action did prov<hi rend="str">a</hi>oke the difficulty and after the exchange of Several pistol shots without affect Hall ran to the door of Mess Brooks &amp; Jennings Store room forcing and entrance -- and Taylor crossed the Street to Secure a Sword cane -- came rushing in attacked Hall forcing him back, agaisnt the Counter and in attempting to Slay Hall -- Hall Stabbed with a Knife, thereby causing Said Taylor<hi rend="sup">s</hi> death -- It is my opinion that Hall acted in Self <hi rend="underline">defence</hi></p>
+<p>Jas Rudy<pb/></p>
+<p>Kentucky Union County</p>
+<p>I Samuel C Hughes Presiding Judge of the county court of Union county do certify that I have known the within named Jas H Rudy, for many years as long as I have known any one, that he is a man whose veracity can be implicitly relied upon, and is one of the most prominent and useful, men we have, I further certify, that I am well acquainted with his hand writing, and the within is his genuine signature -- His name is at the foot of the indictment against John P Hall, as witness in behalf of the Commonwealth -- Witness my hand this <date when="1865-12-27">27 day of December 1865</date>.</p>
+<p>Sam C Hughes P J U C<pb/></p>
+<p>Rudy</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-2063"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Joshua F. Bell to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG9139</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG24-92 to MG24-93</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Danville, Boyle County, Kentucky</placeName>
+    <date when="1862-07-11">11 July 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Danville <date when="1862-07-11">11 July 1862</date>
+<lb/>Gov<hi rend="sup">r</hi> M<hi rend="sup">c</hi>Goffen
+<lb/>Frankfort
+<lb/>D<hi rend="sup">r</hi> Sir</p>
+<p>W<hi rend="sup">m</hi> Robbins was fined by the Police Judge of Danville $5. for giving (not selling) a dram of whiskey to one of My Mothers Slaves -- without her permission in writing. in Violation of one of the Town Ordinances. </p>
+<p>The young man is very poor &amp; laboring under a <unclear/> disease. His morals are I believe quite explenary -- and is trying very hard to make a living.</p>
+<p>I believe in this case the fine ought be remitted. He will have to pay any how some<pb/>
+<lb/>three Dollars <hi rend="underline"><hi rend="sup">70</hi></hi> costs. enough for an act, the illegality of which he was imprisoned -- </p>
+<p>I might have been caught in the same predicament for I did not know of such an ordinace &amp; I presume the young man did not. I <hi rend="str">do</hi> do think that not twenty men outside of the town officers know that such an ordinace exists -- </p>
+<p>I hope you will remit the fine &amp; thus oblige</p>
+<p><unclear>Yrs respt</unclear>
+<lb/>Joshua F Bell<pb/></p>
+<p>Danville Co Ct
+<lb/>$5 } Whiskey
+<lb/>W<hi rend="sup">m</hi> Robbins<figure type="hr"/>
+<lb/>Remission Iss<hi rend="sup">d</hi> <date when="1862-07-22">July 22<hi rend="sup">d</hi> 1862</date></p>
+  </body>
+ </text>
+</TEI>

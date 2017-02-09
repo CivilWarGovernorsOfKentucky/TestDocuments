@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0972"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">H. H. Lock and N. Goldsmith to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10440</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG20-20</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Munfordville, Hart County, Kentucky</placeName>
+    <date when="1861-04-19">19 April 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Munfordville Ky. <date when="1861-04-19">april 19<hi rend="sup">th</hi> 1861</date>
+<lb/>His Excelency B Magoffin
+<lb/>Frankfort Ky</p>
+<p>your petitioners the undersignd state that at the present term of the Hart Equity &amp; Criminal Court, They were both fined fifty dollars each for selling spirits to James H Cumpton a miner, They both state that they are licensed to sell liquor according to law, and they do not now nor did they on tryal deny the selling of the liquor to Cumpton as charged in the inditement against them but they state that the sale was made to him with no intention of violating the law against selling spirits to miners= that they sold to him publicly and in the same manner <hi rend="str">that</hi> that they did to other gentlemen, beleaving from his ocupation and appearance that he was of full age,</p>
+<p>Wherefor they ask your Exelency to remit the fines or so much thereof as according to law and ^in^ your judgment you beleave should be remitted</p>
+<p>H. H. Lock
+<lb/>N. Goldsmith</p>
+<p>The above petition was sworn to before me by H. H. Lock and Nathan Goldsmith the <date when="1861-04-19">19<hi rend="sup">th</hi> day of April 1861</date></p>
+<p>H M Shuffitt Examiner for Hart County<pb/></p>
+<p>Petition of H. H. Lock &amp; Nathan Goldsmith to remit fine<figure type="hr"/>
+<lb/><hi rend="str">Respite 12 mo</hi>
+<lb/>Remitted B. M</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2264"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John L. Sudduth to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6901</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR15-101</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1865-08-22">22 August 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency Thos E. Bramlette
+<lb/>Governor of the Commonwealth of Kentucky</p>
+<p>Your Petitioner John F. Sudduth of Garrard County Ky. would respectfully represent to your Honor that at the <date when="1858-09">Sept term 1858</date> of the Lincoln Circuit Court a judgment was recovered against him in favor of the commonwealth for the sum of twenty dollars for the offense of gaming; and that at the time the s'd judgt was recovered he was absent from this Commonwealth and a citizen of the state of Missouri and was thus deprived of <hi rend="str">a</hi>the privilege of setting ^up^ his defense and that he ^does^ not know or, now recollect in consequence of this long lapse of time whether he was guilty of the offense charged in the Indct in which the s'd judgt was recovered; and that a Capias Profine is now in the hands of the sheriff of Lincoln Co for the s'd $20 -- &amp; costs of action: under all the foregoing circumstances and the facts that your petitioner has a large family to support, is of weak constitution and physical frame and has no profession or trade or property and has suffered much by reason of the late Rebellion -- having been robbed of all his property and effects three different times by guerrillas in Missouri would respectfully ask and beseech your Honor to remit the "Fine" as aforesaid; this the <date when="1865-08-22">22<hi rend="sup">d</hi> of Augt 1865</date></p>
+<p>John F. Sudduth<pb/></p>
+<p>The undersigned petitioners would respectfully ask the Executive clemency in remitting the "fine" as asked for in the foregoing petition of John <hi rend="str">P</hi>F. Sudduth believing the statements made by him are true and knowing that he is a clever and deserving citizen; <date when="1865-08-22">Augt 22<hi rend="sup">d</hi> 1865</date></p>
+<p>B M Burdett
+<lb/>E Browne
+<lb/>L. R. M<hi rend="sup">c</hi>Murtry
+<lb/>Chas Gallagher
+<lb/>John I Huffman
+<lb/><hi rend="underline">W</hi>, <hi rend="underline">S</hi>, <hi rend="underline">Elkins</hi>
+<lb/>M H, Owsley
+<lb/>N Sandifer
+<lb/>D M Sackey
+<lb/>G W Dunlap
+<lb/><hi rend="underline">Geo. H McKee</hi>
+<lb/><hi rend="underline">Tho</hi><hi rend="underline"><hi rend="sup">s</hi></hi><hi rend="underline"> W. Varnon</hi>
+<lb/>S Turner
+<lb/>Fon T Fox
+<lb/>M. L. Rice</p>
+<p><hi rend="str">Garrard</hi> ^Lincoln^ Cir Ct
+<lb/>Lincoln
+<lb/>vs
+<lb/>John F, Sudduth
+<lb/>$20,
+<lb/>Gaming
+<lb/><date when="1865-08-26">26 Aug/65</date></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0211"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Granville Pearl to James F. Robinson</title>
+    <title level="a" type="parallel">CWG8663</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Governor's Official Correspondence File, Petitions for Pardons, Remissions, and Respites, 1862-1863</collection>
+      <idno>R3-321 to R3-322</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Mount Vernon, Rockcastle County, Kentucky</placeName>
+    <date when="1863-01-26">26 January 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Mount Vernon
+<lb/><date when="1863-01-26">Jan 26<hi rend="sup">th</hi> 1862</date>
+<lb/>Gov Robinson</p>
+<p>Dear Sir I have no doubt but the statements in the foregoing petition are true in addition I will state that if I had the power I would remit the fine. My conscious convictions are that Granville Watts has done everything that he could do to suppress this Rebelion and never did do any thing that favored the Rebbles and when he did let the Soldier have the Spirits he done it to preserve the balanance of his property and as a necesity to preserve his own</p>
+<p>Granville Pearl
+<lb/>Judge of the 19<hi rend="sup">th</hi> Judicial Dist of Ky<pb/></p>
+<p>To his Excellency
+<lb/>The Governor of the Commonwealth of Kentucky</p>
+<p>Your Petitioner Granville Watts respectfully showeth &amp; represents that at the <date when="1862-08">August Term of the Rockcastle Circuit Court ^1862^</date> that he confessed Jugt. for $20. &amp; cast upon an Indictment against him for <hi rend="str">keeping a tipling-house</hi>retailing ardent spirits -- that he settled with the Aty for the Com'lth <hi rend="str">&amp;</hi> his fee and had a petition drawn &amp; forwarded to your Excellency Signed ^by^ the Circuit Judge &amp; the Atty for the Commonwealth -- but never having heard from his petition. he supposes the same is lost or owing to some cause has never come to hand. and as the Circuit Judge is now <hi rend="str">a</hi> here on a visit your petitioner has concluded to forward this other petition; He alledges in this as in his former petition that the offense charged against him was unavoidable if an offense at all; He was a merchant at the time living on the State road west of Mount Vernon &amp; <hi rend="str">other</hi> whilst the soldiers of both Armies passed in thousands: and he had some spirits to sell; which he sold under the Law not by the small, but when the Soldiers called on him <hi rend="str">he</hi> he was forced to let them <hi rend="str">to</hi> have it in any quanty they desired. which he done. getting nothing for it Generally -- under the circumstances he prays a remission of the fine.</p>
+<p>Very respectfully
+<lb/>Granville Watts<pb/></p>
+<p>Rockcastle Cir. Ct
+<lb/>Lewis Buckner
+<lb/>Pett for remmit fine
+<lb/>$20 } Liquor
+<lb/>The fine in this case is remitted
+<lb/>J F Robinson
+<lb/>Iss<hi rend="sup">d</hi> <date when="1863-02-09">Feby 9 1863</date></p>
+  </body>
+ </text>
+</TEI>

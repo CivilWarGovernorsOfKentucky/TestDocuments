@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0365"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John R. Graham to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG2030</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Appointments by the Governor, Civil Appointments, 1863-1867</collection>
+      <idno>BR2-272 to BR2-273</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1865-02-17">17 February 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Frankfort <date when="1865-02-17">Feby 17<hi rend="sup">th</hi> 1865</date>
+<lb/>To his Excellency The Governor of Kentucky</p>
+<p>I respectfully beg leave to offer my resignation to you of the Office of Police Judge of the City of Frankfort to take effect <date when="--03-01">1<hi rend="sup">st</hi> March</date> next. And solicit the appointment of John J. Quin of the City to fill the vacancy</p>
+<p>Respectfully
+<lb/>Your Ob<hi rend="sup">t</hi> Humb<hi rend="sup">le</hi> Sevt
+<lb/>John R Graham</p>
+<p>We the undersigned as members of the board of councilmen of the city of Frankfort and also as citizens of said city, take pleasure in recommending to your favorable consideration, Mr. J. J. Quin as a suitable person to fill the office of Police Judge of the City of Frankfort</p>
+<p>G. W. Gwin
+<lb/>R Runegan
+<lb/>J. Baltzell
+<lb/>James M. Todd
+<lb/>A H Rennick</p>
+  </body>
+ </text>
+</TEI>

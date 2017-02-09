@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-3476"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">James Anderson to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG5595</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR42-403 to BR42-404</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Mercer County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To Gov Tho. E. Bramlette,</p>
+<p>Your petitioner Jas Anderson of color states that at the present term of the Mercer Circuit Court he was find fifty Dollars in the case of the Com vs himself &amp; others That sd fine was imposed upon him for having a fight with some other persons of color, Your petitioner states that he is now confined in the Jail of Mercer Co for the payment of sd fine, and that he is verry poor and has a wife and six children dependent on him for support. He therefore prays yoru Excellency to remit such portions of sd find as is coming to the Commonwealth</p>
+<p>Jas ^his X mark^ Anderson</p>
+<p>Att
+<lb/>Robert Gallagher</p>
+<p>We the undersigned citizens of Mercer Co unite in the prayer of the above petitioner.</p>
+<p>P. B. Thompson Jr att at law
+<lb/>John H. Fairman Town Marshall
+<lb/>R F Corman D C
+<lb/>Geo. O. Herndon
+<lb/>Robert Gallagher Jailor of M Co
+<lb/>W D James Depety Shriff
+<lb/>H F James S M C
+<lb/><hi rend="underline">J. W. Cardwell</hi><pb/></p>
+<p>Mercer Cir Ct
+<lb/>vs
+<lb/>Jas Anderson
+<lb/>$50</p>
+  </body>
+ </text>
+</TEI>

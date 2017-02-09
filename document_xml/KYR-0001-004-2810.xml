@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2810"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John A. Prall to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7447</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR17-78 to BR17-79</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency Hon Tho E Bramlette
+<lb/>Governor of Kentucky</p>
+<p>Several weeks since I forwarded you a petition on behalf of A Gutzert of Paris Ky through Hon W T Samuels who filed it. I have Just had a diligent search made for it by the Asst Secty of state and it can not be found and is supposed to have been destroyed in the recent fire. It was for the remission of a fine of $200 imposed at the last <date when="--10">Oct</date> term of the Bourbon Cir Court on the charge of suffering gaming The facts were <hi rend="str">tha</hi> as I heard them proven in the trial that several years ago Gutzert who keeps a confectionary store introduced a little blow gun <hi rend="str">at</hi> <hi rend="str">which</hi> ^and^ some persons wagered drinks of lager beer, lemonade &amp;<hi rend="sup">c</hi> upon their skill in the use of it. It was evidently introduced for the amusement of his customers and without any idea or intention of violating the law and was promplty discontinued, when he ascertained that it was against the law The petition was prepared by the Com<pb/>
+<lb/>wealths atty and signed by him and the Judge and most of our best citizens. Gutzert is an orderly citizen, not very well able to pay such a fine and on his behalf and on his behalf I respectfully ask its remission</p>
+<p>John A Prall<pb/></p>
+<p>Bourbon Cir Ct
+<lb/>vs
+<lb/>A. Gutze<hi rend="str">l</hi>rt
+<lb/>$200,
+<lb/>Gaming
+<lb/>Remitted <date when="1865-12-15">15 Dec/65</date></p>
+<p>Remit &amp; hand to Co<hi rend="sup">l</hi> Prall</p>
+  </body>
+ </text>
+</TEI>

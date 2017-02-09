@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0149"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Lucian Anderson et al. to James F. Robinson</title>
+    <title level="a" type="parallel">CWG8601</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Governor's Official Correspondence File, Petitions for Pardons, Remissions, and Respites, 1862-1863</collection>
+      <idno>R3-227</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Graves County, Kentucky</placeName>
+    <date when="1862-12-20">20 December 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency James F. Robinson Gov of Kentucky.</p>
+<p>We the undersigned Citizens of Graves County Ky &amp; some of the Jurors who tried the case of the Comlth of Ky. agst James Gardner tried at the late <date when="1862-11">Novr term of the Graves Circuit Court 1862</date> beg leave to state that said Gardner was tried &amp; fined Twenty five dollars <hi rend="str">&amp; <unclear/></hi> for a breach of the peace charge to have been committed on one Patrick Murray -- the facts of the case showed that both Gardner &amp; Murray were drunk had always before the difficulty been friends &amp; have ever since then been on friendly terms that it was the liquor which caused the difficulty, that Gardner is &amp; has always been a peeseable man, that is very poor &amp; has a large family to support that he is unable to pay the same but will be forced to go into jail unless the Executive interposes to relieve it from it. we therefore respectfully ask that said fine be released. <date when="1862-12-20">Decr 20<hi rend="sup">th</hi> 1862</date>.</p>
+<p><hi rend="underline">Lucian Anderson</hi>
+<lb/>Patrick, Murry
+<lb/>M W Galloway
+<lb/>S S Galloway
+<lb/>W. Yancy, Eakers
+<lb/>L L Wilkerson
+<lb/>T. H. Meryre
+<lb/>A. J. Colby<pb/></p>
+<p>Graves Cir. Ct.
+<lb/>Fine remitted except Ten dollars
+<lb/>J F Robinson
+<lb/>$25. } Breach of the Peace
+<lb/>Ja<hi rend="underline"><hi rend="sup">s</hi></hi> Gardner
+<lb/>Iss<hi rend="sup">d</hi> <date when="1863-02-27">Feby 27. 1863</date></p>
+  </body>
+ </text>
+</TEI>

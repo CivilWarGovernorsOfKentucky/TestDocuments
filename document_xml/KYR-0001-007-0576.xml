@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0576"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">James R. Garniss, Oath</title>
+    <title level="a" type="parallel">CWG2241</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Appointments by the Governor, Civil Appointments, 1863-1867</collection>
+      <idno>BR2-556</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>San Francisco, San Francisco County, California</placeName>
+    <date when="1865-10-06">6 October 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>State of California
+<lb/>County of San Francisco } SS.</p>
+<p>I James R Garniss duly appointed by the Governor to the State of Kentucky, a Commissioner of the State of Kentucky, resident at San Francisco in the State of California. Do solemnly swear that I will well and faithfully execute and perform all the duties of such Commissioner under and by virtue of the laws of the State of Kentucky</p>
+<p>James R. Garniss</p>
+<p>Sworn and Subscribed before me this <date when="1865-10-06">6<hi rend="sup">th</hi> October AD 1865</date>
+<lb/>O. C. Beard
+<lb/>Judge 12<hi rend="sup">th</hi> Dist. Court.</p>
+<p><figure type="seal"/></p>
+<p>Impression of Official seal
+<lb/>Official signautre
+<lb/>James R Garniss<pb/></p>
+<p>Comr Deeds
+<lb/>California
+<lb/>James R Garniss
+<lb/>Commissioner of Deeds for State of Kentucky
+<lb/>Oath of Office
+<lb/>filed <date when="1865-11-03">3<hi rend="sup">d</hi> Nov/65</date></p>
+  </body>
+ </text>
+</TEI>

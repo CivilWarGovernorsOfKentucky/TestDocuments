@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-023-0070"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Caleb B. Smith to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG2983</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, 1859-1862</collection>
+      <idno>MG1-264 to MG1-265</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Washignton, District of Columbia</placeName>
+    <date when="1861-07-09">9 July 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Department of the Interior
+<lb/>Washington
+<lb/>To
+<lb/>His Excellency
+<lb/>Beriah Magoffin
+<lb/>Governor of the State of Kentucky</p>
+<p>I Caleb B Smith Secretary of the Interior, do hereby certify that, in discharge of the duty devolved on me by the provisions of an Act of Congress approved <date when="1850-05-23">May 23<hi rend="sup">rd</hi> 1850</date> entitled "an Act providing for the taking of the Seventh and subsequent Censuses of the United States, and to fix the number of the members of the House of Representatives, and provide for their apportionment among the several States." I have apportioned the Representatives for the Thirty Eighth Congress among the several States as provided for by said Act, in the manner directed by the 25<hi rend="sup">th</hi> Section thereof</p>
+<p>And, I do hereby further certify that the State of Kentucky is entitled to Eight (8) members<pb/>
+<lb/>in the House of Reprsentatives for the Thirty eighth Congress, and until another apportionment shall be made according to law</p>
+<p><figure type="seal"><ab>DEPARTMENT OF THE INTERIOR</ab></figure>
+<lb/><hi rend="underline">In</hi> <hi rend="underline">testimony</hi> <hi rend="underline">where</hi> <hi rend="underline">of</hi> I have hereunto subscribed my name and caused the Seal of the Department of the Interior to be affixed this <date when="1861-07-09">9<hi rend="sup">th</hi> day of July in the year of our Lord one thousand eight hundred and sixty one</date>.</p>
+<p>Caleb B Smith<pb/></p>
+<p>Apportionment of Representation in Congress by Secretary of the Interior.</p>
+<p>Filed <date when="1861-07-15">July 15. 1861</date></p>
+  </body>
+ </text>
+</TEI>

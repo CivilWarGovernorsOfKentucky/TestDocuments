@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2428"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Benjamin H. Bristow to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7065</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR15-373 to BR15-374</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Hopkinsville, Christian County, Kentucky</placeName>
+    <date when="1865-09-20">20 September 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Hopkinsville Ky <date when="1865-09-20">Septbr 20<hi rend="sup">th</hi> 1865</date>
+<lb/>D<hi rend="sup">r</hi> Sir</p>
+<p>Mr Lofton H Mitchell of Trigg County will present to your Excellency a petition, which I believe to be meritorious &amp; which I trust will be granted Mr M was a soldier in my regt -- 8<hi rend="sup">th</hi> Ky cavy -- and as such bore the character of a brave &amp; true man -- I do not doubt that the indictment against him is the result of vindictive malice originating in the hearts of disloyal persons -- </p>
+<p>It is well understood in this part of the State that the Home Guard Company to which he was attached made a gallant fight against the Rebel Major Robt Martin and otherwise rendered efficient services to the Country -- </p>
+<p>Very Respctly &amp;c
+<lb/>B. H. Bristow</p>
+<p>To His Excellency
+<lb/>Gov Bramlette</p>
+  </body>
+ </text>
+</TEI>

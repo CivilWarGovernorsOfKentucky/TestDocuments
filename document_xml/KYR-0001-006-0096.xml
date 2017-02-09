@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-006-0096"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Harriet Jane Brown, Affidavit</title>
+    <title level="a" type="parallel">CWG1142</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's Official Correspondence File, Requisitions for the Return of Fugitives from Justice, 1863-1867</collection>
+      <idno>BR6-121</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Portsmouth, Scioto County, Ohio</placeName>
+    <date when="1865-10-16">16 October 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>State of ohio
+<lb/>Scioto County ss</p>
+<p>Before me John Wilson mayor of the City of Portsmouth in the County aforesaid personally came Harriet Jane Brown who being duly sworn, according to law deposeth and saith That John Philip Noel late of the County aforesaid, on the <date when="1865-10-14">14<hi rend="sup">th</hi> day of October A D 1865,</date> in the County of scioto aforesaid in and upon one Harriet Jane Brown then and there being did unlawfully make an assault and her the said Harriet Jane Brown then and there did beat strike, wound and ill treat with intent, her the said Harriet Jane Brown, violently, forcibly, and against her will then and there unlawfully and feloniously to ravish and carnally know to the great damage of the said Harriet Jane Brown And further deponent saith not</p>
+<p>Harriet Jane ^her X mark^ Brown</p>
+<p><figure type="seal"><ab>SEAL OF THE CITY OF PORTSMOUTH
+<lb/>OHIO</ab></figure></p>
+<p>sworn to before me &amp; signed in my presence this <date when="1865-10-16">16<hi rend="sup">th</hi> day of October A D 1865</date></p>
+<p>John Wilson
+<lb/>Mayor of the City of Portsmouth<pb/></p>
+<p>affidavit
+<lb/>State of Ohio vs John P Noel
+<lb/>filed <date when="1865-10">Oct the <hi rend="str">1618</hi>
+<lb/>A D 1865</date></p>
+<p>State of Ohio
+<lb/>Scioto County. ss:</p>
+<p>Before me John Wilson Mayor of the City of Portsmouth personally came Harriet Jane Brown who being duly sworn according to law deposeth and saith That John Philip Noel, mentioned in the within affidavit is a fugitive from Justice in this state and is now in the state of Kentucky and further deponent saith not</p>
+<p>Harriet Jane ^her X mark^ Brown</p>
+<p>sworn to by the said Harriet Jane Brown before me and by her signed in my presence the <date when="1865-10-25">25 day of October A D 1865</date></p>
+<p>John Wilson
+<lb/>Mayor of the City of Portsmouth
+<lb/><figure type="seal"><ab>SEAL OF THE CITY OF PORTSMOUTH
+<lb/>OHIO</ab></figure></p>
+  </body>
+ </text>
+</TEI>

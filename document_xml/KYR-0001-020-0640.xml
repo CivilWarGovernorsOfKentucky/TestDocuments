@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0640"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">James M. Bingham to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10108</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG18-485</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Knox County, Kentucky</placeName>
+    <date when="1861-10-30">30 October 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency Beriah Magoffin Governor of Kentucky. </p>
+<p>The undersigned your petitioner would respectfully represent that at the <date when="1859-09">September Term 1859</date> of the Knox Circuit Court a fine of ten dollars was assessed against him for engaging in a game of marbles with a negro.</p>
+<p>He states that the offense was committed shortly after the passage of the act which made it illegal. that ^He^ lives in a remote portion of the county and can neither read nor write and did not therefore Know or even suspect he was violating the law of land.</p>
+<p>He states that he was at the time in the employment of the master of the negro and after working in the field with the negro all the week engaged in a game of marbles on Saturday evening not dreaming that he was thereby violating the laws of his country.</p>
+<p>He states that he is a boy and was at the time the offense was committed only sixteen years of age and as he had been working in company <hi rend="str">a</hi> with the negro thought there was no impropriety in his engaging in the game. He states that he is poor and unable to pay said fine, that shortly after the fine was imposed he petitioned you Excellency and obtained a respite for the term of twelve moths but the time for which the collection of the fine was respited having expired An <hi rend="str">A</hi> execution for his body is now in the hands of the sheriff and unless remitted by your Excellency he will be imprisoned in the Jail of his county to satisfy said fine. The premises considered he<pb/>
+<lb/>prays that your Excellency may remit said fine and save him from imprisonment. <date when="1861-01-30">January 30<hi rend="underline"><hi rend="sup">th</hi></hi> 1861</date></p>
+<p>James M. Bingham</p>
+<p>Knox 
+<lb/>Cir. Ct.
+<lb/>$10 } Gaming
+<lb/>J. M. Bingham
+<lb/>Remission Iss<hi rend="sup">d</hi>
+<lb/><date when="1861-02-15">Feby 15. 1861</date></p>
+<p>Remitted
+<lb/>B. M.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1079"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">R. T. Baker to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10547</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG20-178 to MG20-179</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Cincinnati, Hamilton County, Ohio</placeName>
+    <date when="1861-05-08">8 May 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Cincinati Ohio <date when="1861-05-08">May 8<hi rend="sup">th</hi> 1861</date>
+<lb/>Govener Magoffin
+<lb/>Dar sir</p>
+<p>J. <hi rend="str">D</hi>R. Doxan who is now in Cincinati who is anxious to <hi rend="str">to</hi>be in Kentucky has a small fine aganst him for some triveal offence, in Campbell co Ky</p>
+<p>I Know Doxan well he is a good young man -- is a Nefew of Geo Doxan of your place -- and is anxioes to be at home &amp; I Know many anxious citizens would rejoyce if you would remit the same -- I refer to G, B, Hodge Senator For Ky &amp;c</p>
+<p>yours Truly
+<lb/>R T Baker of the Cession of <date when="1850">1850</date><pb/></p>
+<p>Refer to Geo B. Hodge
+<lb/>Newport City Ct
+<lb/>Respite 8 mo
+<lb/>B. M
+<lb/>$50
+<lb/>Jno. B Doxan
+<lb/><date when="1861-05-18">May 18. 1861</date></p>
+  </body>
+ </text>
+</TEI>

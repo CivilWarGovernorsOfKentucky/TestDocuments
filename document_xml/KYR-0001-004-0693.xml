@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0693"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">H. Taylor to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG4812</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR10-64</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Maysville, Mason County, Kentucky</placeName>
+    <date when="1864-04-04">4 April 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Maysville Ky <date when="1864-04-04">April 4<hi rend="sup">th</hi> 1864</date>
+<lb/>His Excellency Gov<hi rend="sup">r</hi>. Bramlette
+<lb/>My D<hi rend="sup">r</hi> Gov<hi rend="sup">r</hi>.</p>
+<p>I know that you are ovewhelmed with matters of greater importance than the subject of this letter. I dislike very much to trouble; but an old man named Washburn P. Clayton will visit you in a few days asking you to relieve him from a fine of $300 imposed upon him for breach of his tavern bond. If he was able to pay it without distressing his family, (a large one) I would not be disposed to take any interest in his case</p>
+<p>He lives in a tavern house in Washington in this County, which he rents of two very excellent ladies. One of them is the orphan daughter of an old friend of mine, the late Richard Henry Lee, who stays at my house a large portion of his time and who has little to live upon except the rent she derives from her half of the tavern occupied by M<hi rend="sup">r</hi>. Clayton. He is in arrear in the payment of his rent &amp; I am apprehensive that this young lady will lose her rent altogether, if the commonwealth in the preference it has for the fins should break Clayton up<pb/></p>
+<p>If you can consistently remit the fine or a porition of it, I should be gratified, both on the old mans account, and that of the two ladies to whom I have referred..</p>
+<p>I am very Respectfully
+<lb/>Your Obt Sevts
+<lb/>H. Taylor</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0987"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">George B. Kinkead to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG5106</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR11-30 to BR11-31</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Lexington, Woodford County, Kentucky</placeName>
+    <date when="1864-06-28">28 June 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Lexington Ky
+<lb/><date when="1864-06-28">June 28. 1864</date>
+<lb/>His Excellency
+<lb/>Gov Bramlette
+<lb/>Frankfort Ky
+<lb/>Dear Sir</p>
+<p>William Taylor a free man of Color laid a Petition before you a few days ago for the remission of a forfeiture of a Bail Bond on which he was surity for $800= He tells me you were disposed to grant his Petition, but desired to know, exactly the history &amp; present Status of the matter- It is as follows.</p>
+<p>John, the Brother of William was arrested last winter on a charge of receiving some stolen corn, And the Magistrate<pb/>
+<lb/>on the trial held him to Bail in $800- which he gave. At the <date when="--02">February term</date> of the Circuit Court the Grand Jury found the indictment "a 'true Bill" -- and John -- although he has for 25 years been in the confidence &amp; employment of <hi rend="str">the</hi> many of the best people -- including ladies -- of the city was advised by his friends to leave the state, on account of the excited state of the public feeling towards person of his class, who might fall in the hands of a Jury He did so and proceedings were taken on his Bond &amp; at the late <date when="--06">June term</date> of the Court Judgment was had agst the surity.</p>
+<p>I can speak personally of the Character of John Taylor generally up to the time of this<pb/>
+<lb/>accusation, for the last 19 years and I know that he was a quiet and orderly &amp; well behaved as any man in his condition-</p>
+<p>I hope you will remit the forfeiture as desired by William</p>
+<p>He has paid the Attorney his part of the forfeiture-</p>
+<p>I am very Truly
+<lb/>Yr Obt St
+<lb/>Geo B Kinkead<pb/>
+<lb/>file with papers Remission having issued</p>
+  </body>
+ </text>
+</TEI>

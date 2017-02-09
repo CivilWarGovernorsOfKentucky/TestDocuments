@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-153-0001"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Boyle, Special Order, No. 1</title>
+    <title level="a" type="parallel">CWG14123</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>Assistant Adjutant General Letter Book - No. 1 ; 5 Sept 1863 - 2 Feb 1864</collection>
+      <idno>2 to 4</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1863-09-05">5 September 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Order</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><note place="header">2</note>
+<lb/><date when="1863-09-05">Sept<hi rend="sup">r</hi>. 5<hi rend="underline">"</hi> <gap/>3</date>
+<lb/>Special Order
+<lb/>N<hi rend="sup">o</hi>. 1.</p>
+<p>I. Special Order N<hi rend="sup">o</hi>. 31. dated <date when="1863-08-27">August 27<hi rend="underline">"</hi> 183</date> is hereby rescinded.</p>
+<p>II. The fractional Companies of the 40<hi rend="underline">"</hi> Ky Infantry at Falmouth Ky. will at once be consolidated. The consolidation will be made so as to reach the maximum organization as nereby as practicable. If upon consolidation there shall remain a fraction of a Company over, such fraction will be organized under a Second Lieutenant. As soon as the consolidation takes place, an election for Company Officers will be held. Complete rolls will be prepared, and with Certificates of election of officers be forwarded to this Department.</p>
+<p>The Company of the 46<hi rend="underline">"</hi> Ky. Infantry Regiment commanded by Captain Greenberry Reid, will be consolidated with the 40<hi rend="underline">"</hi> Ky Infantry Regiment.</p>
+<p>III. When the prescribed consolidation is completed the 40<hi rend="underline"><hi rend="sup">h</hi></hi> Ky. Infantry Reg<hi rend="underline"><hi rend="sup">t</hi></hi> under the command of the Adjutant of the Regiment, will proceed to Catlettsburg Ky. for consolidation with the 45<hi rend="underline"><hi rend="sup">th</hi></hi> Ky Infantry Regiment and for Regimental Organization.<pb/>
+<lb/><note place="header">3</note></p>
+<p>The fractional Companies of the 45<hi rend="underline">"</hi> Ky Infantry Reg<hi rend="sup">t</hi>. at Catlettsburg and Grayson, will be consolidated within forty eight hours after the receipt of this Order. The Company organization will be made to approximate the maximum as nearly as practicable. As soon as the Company organizations are completed, an election for Company Officers will be held. If there shall remain a fraction of a Company, it will be consolidated with the fraction of the 40<hi rend="underline"><hi rend="sup">th</hi></hi> Ky. Infantry Regiment when in like manner if they together form a full Company an election for Officers shall be held, complete rolls will be prepared, and with Certificates of election of Officers, forwarded to this Department.</p>
+<p>IIII. As soon as ten Companies are organized, an election for field Officers will be held -- to wit: one Colonel -- one Lieutenant Colonel, one Major. Upon the election of Colonel he will indicate his Staff, and a field and Staff roll with Certificates of Election and appointment, will be forwarded to this Department.</p>
+<p>The advance payments will be made as soon after receipt of rolls as practicable.</p>
+<p>The companies shall be lettered, and take rank by lot. The drawing to take place under the direction of the field officers.</p>
+<p>The Regiment thus consolidated will be known and mustered in as the "40<hi rend="underline"><hi rend="sup">th</hi></hi> Reg<hi rend="underline"><hi rend="sup">t</hi></hi> Ky. Vols. Infantry."<pb/>
+<lb/><note place="header">4</note></p>
+<p>V. If after organizing the Companies there shall remain a fractional Company, it may be distributed among the Companies below the maximum, or if there be no Companies below the maximum, the fact will be at once reported to this Department, when it will be assigned to some other Regiment. Inasmuch as there will be two Adjutants, and two Quarter Masters, to the consolidated Regiment, the Colonel will elect which of them will be retained, and mustered in. The others will be discahrged and mustered out of service.</p>
+<p>By order of the Governor
+<lb/><hi rend="underline">John Boyle</hi>
+<lb/>Adj<hi rend="sup">t</hi> Gen<hi rend="sup">l</hi> Ky Vols</p>
+  </body>
+ </text>
+</TEI>

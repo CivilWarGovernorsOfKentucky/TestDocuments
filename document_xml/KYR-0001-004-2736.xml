@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2736"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John M. Hazelrigg to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7373</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR16-420</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Mount Sterling, Montgomery County, Kentucky</placeName>
+    <date when="1865-11-07">7 November 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Mt Sterling Ky
+<lb/><date when="1865-11-07">7 Nov<hi rend="sup">r</hi> 1865</date>
+<lb/>To his Excellency
+<lb/>Govenor of Kentucky</p>
+<p>Dr Sir I send you the Petition of John Rice to Remit fine I was at Court &amp; Conversed with the witnesses on the subject of the offence charged in the indictment &amp; from what I could learn -- The Petition contans the facts in the Case Andrew Howard a very Poor and Ignorant man was find before A P Cooper J P Magoffin County for Breach of the Peace in three several Judgmts one for $20= one for $5_00 &amp; one for $3.46 all of which you will remit I know if you could see the man and Know his condition you would do so without any hesitation I am going to start up to the mountain Courts next monday morning &amp; would be glad to receive the remissions before I start if they meet with your favourable consideration. there are no mail facilities to the County seat as yet</p>
+<p>I am Sir
+<lb/>your obt Sevt
+<lb/>Jn<hi rend="sup">o</hi> M Hazelrigg</p>
+<p>The Secretarys fees I will remit by mail if the remissions are granted</p>
+<p>J M Hazelrigg</p>
+  </body>
+ </text>
+</TEI>

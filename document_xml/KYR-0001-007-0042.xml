@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0042"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Frederick J. King to James R. Page</title>
+    <title level="a" type="parallel">CWG1707</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Appointments by the Governor, Civil Appointments, 1863-1867</collection>
+      <idno>BR1-423</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>New York</placeName>
+    <date when="1863-10-28">28 October 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>New York <date when="1863-10-28">Oct<hi rend="underline"><hi rend="sup">r</hi></hi> 28<hi rend="underline"><hi rend="sup">th</hi></hi> 1863</date>
+<lb/>James R. Page esq
+<lb/>Dear Sir</p>
+<p>Yours of 3<hi rend="sup">d</hi> inst duly received Enclosed please find State fee of $5.</p>
+<p>Will you please recommend me to some others of your Western governors for the appointment of Comm of Deeds for their respective States</p>
+<p>please also send on my new Commission for your State at once</p>
+<p>Respectfully
+<lb/>Your Obdt Servant
+<lb/>Frederick I. King
+<lb/>82. Broadway<pb/></p>
+<p>New York
+<lb/>Comr Deeds
+<lb/>F. J. King
+<lb/>appt<hi rend="sup">d</hi>
+<lb/><date when="1863-11-03">3<hi rend="sup">d</hi> Nov 1863</date></p>
+  </body>
+ </text>
+</TEI>

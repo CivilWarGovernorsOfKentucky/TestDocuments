@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0844"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Will J. Moberley to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10312</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG19-326</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Harrodsburg, Mercer County, Kentucky</placeName>
+    <date when="1861-03-22">22 March 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Harrodsburg Ky
+<lb/><date when="1861-03-22">March 22<hi rend="sup">nd</hi> 1861</date>
+<lb/>Gov B Magoffin
+<lb/>Dear Sir</p>
+<p>I recieved a few days ago your remittance of a fine against B M Cunningham for $10 -- inflicted by the Harrodsburg Police Court -- that was not the one that was giving the great trouble there was one inflicted against ^him^ during your Stay in Harrodsburg for twenty dollars &amp; fifteen days imprisonment -- which I would like to have remitted but would not like for him to know it the fear of going to jail has caused him to remain at Home &amp; Sober <hi rend="str"><unclear/> at home</hi> ever since -- His mother is disposed to take him to Missouri and have a sober Boy &amp; a business Man made out of him -- although I have not much confidence in the experiment I make no opposition to it -- as I am disposed to resort to any reasonable ^cost &amp; trouble^ for his restoration -- I shall delay his starting for a week or two if I can -- so that he may have time to get him perfectly sobered before he starts I should like however to have the remittance -- to be used or known only, in the event of his being accidentally caught -- before he starts to Missouri -- </p>
+<p>Respectfully &amp;c
+<lb/><hi rend="underline">Will J. Moberley</hi><pb/></p>
+<p>Harrodsburg
+<lb/>Po Ct.
+<lb/>$20 &amp; 15 days Imp
+<lb/>B M Cunningham
+<lb/>Remission Issd
+<lb/><date when="1861-03-30">3Mar 30 1861</date></p>
+<p>Remitted as to imprisonment &amp; respite 12 mos the fine</p>
+<p>B. M</p>
+  </body>
+ </text>
+</TEI>

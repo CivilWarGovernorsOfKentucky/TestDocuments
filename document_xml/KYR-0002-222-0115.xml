@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-222-0115"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Samuel G. Suddarth, Receipt to J. H. Graham</title>
+    <title level="a" type="parallel">CWG13804</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>Misc. QM Expenditures, 1863-1865</collection>
+      <idno>QMG Box 10; Folder 1865 Telegraphing, State Guards, Printing, Hospital, Office Expenses, Services Rendered; Right Stack</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1865-10-31">31 October 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>No. 22.<figure type="hr"/>
+<lb/>The State of Kentucky,
+<lb/>To J H Graham opr D<hi rend="underline"><hi rend="sup">r</hi></hi></p>
+<p><table rend="rules">
+<row>
+	<cell>186<gap/>.</cell>
+	<cell/>
+	<cell>DOLLARS.</cell>
+	<cell>CENTS.</cell>
+</row>
+<row>
+	<cell/>
+	<cell>For Services Rendered as Telegraph Oper for <date when="1865-10">Oct 1865</date></cell>
+	<cell>30</cell>
+	<cell>0</cell>
+</row>
+<row>
+	<cell/>
+	<cell/>
+	<cell>30</cell>
+	<cell>00</cell>
+</row>
+</table></p>
+<p>Thos E Bramlette 
+<lb/>Gov<hi rend="sup">r</hi>.</p>
+<p>I Certify that the above account is correct and just; that the services were rendered as stated; and that they were necessary for the public service. </p>
+<p><gap/>
+<lb/>Quarter-Master.</p>
+<p>Received at Frankfort, Kentucky, the <date when="1865-10-31">31<hi rend="underline"><hi rend="sup">st</hi></hi> of October, 1865</date>, of S. G. SUDDARTH, Quarter-Master General of the State of Kentucky, the sum of Thirty Dollars, and <gap/> Cents, in full of the above account.</p>
+<p>(DUPLICATE.)</p>
+<p>J H Graham<pb/></p>
+<p>No. 22.<figure type="hr"/>
+<lb/>No. 53 Abstract B<hi rend="sup">"2"</hi> Qr. 186<gap/>.
+<lb/>J. H. Graham
+<lb/>Dollars 30 <hi rend="sup">x</hi>/<hi rend="sub">100</hi>
+<lb/>Paid <date when="1865-10-31">31<hi rend="underline"><hi rend="sup">st</hi></hi> October, 1865</date>.
+<lb/><hi rend="underline">Services rendered</hi></p>
+  </body>
+ </text>
+</TEI>

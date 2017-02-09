@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-009-0029"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">W. P. Anderson, Special Orders, No. 37</title>
+    <title level="a" type="parallel">CWG11496</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Amanda Boczar</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>45th, 47th, 48th, and 49th Regiments Kentucky Infantry Muster Rolls</collection>
+      <idno>Box 41, Bundle 8</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Lexington, Fayette County, Kentucky</placeName>
+    <date when="1864-02-06">6 February 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Order</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Department of the Ohio,
+<lb/>ASSISTANT ADJUTANT GENERAL'S OFFICE,
+<lb/>Lexington, Kentucky, <date when="1864-02-06">February 6<hi rend="underline"><hi rend="sup">th</hi></hi>, 1864</date>.
+<lb/>Special Orders,
+<lb/>No. 37
+<lb/>[<hi rend="italic">Extract</hi>.]<figure type="hr"/></p>
+<p>3,, The resignation of 2nd, Lieutenant, <hi rend="underline">Noah Johnson</hi> Co, "B" 40<hi rend="underline"><hi rend="sup">th</hi></hi> Ky. Volunteers for the good of the Service is hereby accepted, to take effect <date when="1864-02-06">Febry 6" 1864</date>, with the condition that he shall receive no final payments until he exhibits satisfactory evidence from the head of the Ordnance Department, and the proper accounting officers of the Treasury, that he has made all prescribed returns, and is in no wise indebted to the Government.<figure type="hr"/></p>
+<p>By Command of Major General Foster:
+<lb/>W P Anderson
+<lb/>Assistant Adjutant General.</p>
+<p>Gov. Ky.
+<lb/>Frankfort
+<lb/>Ky.
+<lb/> 
+<lb/><note place="body">1. 2. 3. 4. 5 <date when="1863-06-19">June 19. 1863</date></note><pb/></p>
+<p>40 Infy<figure type="hr"/>
+<lb/>Johnson Noah
+<lb/>2' Lieut. Co<hi rend="sup">y</hi> B.<figure type="hr"/>
+<lb/>Resignation<figure type="hr"/>
+<lb/>accepted for the good of the service.<figure type="hr"/>
+<lb/>Rec<hi rend="sup">d</hi> at A. G. O. <date when="1864-02-08">Feby 8. 1864</date></p>
+  </body>
+ </text>
+</TEI>

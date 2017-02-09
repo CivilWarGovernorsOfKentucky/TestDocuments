@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1519"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">H. R. Powell et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6156</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR12-354 to BR12-355</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1865-02-15">15 February 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excy Thos: E Bramlett Gov'r of the Commonwealth of Kentucky</p>
+<p>Your petitioner H. R. Powell respectfully, unto your Ex'cy, represents, that at the <date when="1864-10">October term, 1864,</date> of the Franklin Circuit court, that he was fined the sum of <hi rend="underline">two hundred</hi> dollars, on an indictment for suffering <hi rend="underline">gaming</hi> on <hi rend="underline">premises</hi> occupied and controled, by this petitioner. He says he made no defense to the indictment, because it was true, that he had suffered several gentlemen, who were at his house, to play some games of cards for money, by way of amusement, Your petitioner says that he is <hi rend="underline">very</hi> <hi rend="underline">poor</hi>, that he has a large family, mostly little girls, wholely dependant, on his personal exertions for their support, and maintenance, and that he is actually unable to pay said fine of two hundred dollars, and that he has no friends from whom he can borrow that amount of money until he could earn it, and that if he is arrested, being unable to pay as he is that his family will suffer for the necessaries of life, and the com'th would not be benefited by his incarceration, wherefore in view of the premises, he prays &amp; beseeches your Exc'y to remit, and for ever release him from the payment of the same, or so much thereof as to your Ex'cy shall seem proper, under the circumstances<pb/>
+<lb/>and by so doing you will confer a lasting obligation not only on this petitioner, but on his helpless family -- </p>
+<p>H. R. Powell says the statements of the foregoing petition are true</p>
+<p>H R Powell</p>
+<p>Sworn to before me this <date when="1865-02-15">15 day of Feb. 1865</date></p>
+<p><hi rend="underline">G. W. Gwin</hi> J. P. F. C</p>
+<p><stamp/><note place="stamp">G W G
+<lb/><date when="1865-02-15">Feby. 15 1865</date></note></p>
+<p>We whose names are hereunto subscribed respectfully represent to your Excellency that the petition H. R. Powell is a very poor man and illy able to pay a fine of two hundred dollars, and in view of his poverty and the young and dependant condition of his family would respectfully ask, and recommend that his fine be remitted, as his case is one, in our opinion, deserving of executive clemency most respectfully yours &amp;c</p>
+<p><milestone unit="column" n="2"/><cb n="1"/><hi rend="underline">Names</hi>
+<lb/>J. R. Watson
+<lb/>S I M Major
+<lb/><hi rend="underline">E Hensley</hi>
+<lb/>J. A. Helms
+<lb/><hi rend="underline">P. U. Major</hi>
+<lb/>J. T. Duvall
+<lb/>H. K. Strange
+<lb/>Wm B Fremere
+<lb/>E. H. Williams
+<lb/>L. J. Cox
+<lb/><cb n="2"/><hi rend="underline">Names</hi>
+<lb/>B. F. Johnson<milestone unit="column" n="1"/><pb/>
+<lb/>Willis Dixon
+<lb/>Nelson Alby
+<lb/>B S Newton
+<lb/>S Luckett
+<lb/>Elias Stone</p>
+<p><hi rend="underline">Remit</hi><pb/></p>
+<p>Franklin Cir Ct
+<lb/>vs
+<lb/>H R Powell
+<lb/>$200
+<lb/>Gaming
+<lb/>Remitted
+<lb/><date when="1865-02-15">15<hi rend="sup">th</hi> Feby/65</date></p>
+  </body>
+ </text>
+</TEI>

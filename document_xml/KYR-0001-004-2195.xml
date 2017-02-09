@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2195"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John B. Cummins to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6832</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR14-438 to BR14-439</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Clinton County, Kentucky</placeName>
+    <date when="1865-08-29">29 August 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency Tho<hi rend="sup">s</hi>. E. Bramlette Governor of Kentucky:</p>
+<p>Your petitioner John B. Cumming would respectfully represent to your Excellency that at the present <date when="--08">August Term</date> of the Clinton Circuit Court he has confessed judgment on three Indictments found against him in said, one for keeping a Tipling house; the judgment being Sixty dollars and the other Indictments being for selling to soldiers within five miles of a Camp the judgment being ten dollars in each case. He further represents that at the time he sold spirituous liquors in Albany there was no authorities from whom he could procure License, that Civil Authority had been and was Suspended in Clinton County and the County was then under military protection and rule, that he only sold for the period of about two weeks in last February, that he did not know that he was guilty of violating any law, that he did not know that he was doing any wrong, &amp; that he has been a law abiding peaceful citizen.</p>
+<p>He now respectfully petitions your Excellency to remit said fines and he promises that in the future he will be more cautious and will try and keep in the bounds of the law.</p>
+<p>John b Cummins</p>
+<p>Sworn to before me by John B Cummings this <date when="1865-08-29">29<hi rend="sup">th</hi> day of August 1865</date>. P H Hopkins P J C C C<pb/></p>
+<p>To his Excellency Tho<hi rend="underline"><hi rend="sup">s</hi></hi> E. Bramlette
+<lb/>Governor of Kentucky:</p>
+<p>We would respectfully state that it is true as represented by M<hi rend="underline"><hi rend="sup">r</hi></hi> Cummings that their was no authority in Albany or Clinton County vested with Authority to grant tipling or liquor licenses and that so far as we know his other statements are true.</p>
+<p>We would, therefore, in view of all the Circumstances, respectfully petition your Excellency to remit said fines.
+<lb/>Albany, Ky.
+<lb/><date when="1865-08-29">August 29th 1865</date></p>
+<p>W<hi rend="sup">m</hi> Vann
+<lb/>C P Gray
+<lb/>W A Russell
+<lb/>H. H. Hurt
+<lb/>J A Brents
+<lb/>John W, S, Brooks</p>
+<p>Monticelllo
+<lb/>Wayne Co
+<lb/>Ky<pb/></p>
+<p>Clinton Cir Ct
+<lb/>vs
+<lb/>John B Cummins
+<lb/>3 judgts
+<lb/>One for $60,
+<lb/>two for $10. each
+<lb/>Remitted <date when="1865-09-16">16 Sept 1865</date></p>
+<p>Sent for fee <date when="1865-09-05">5 Sept</date> to Monticello</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-006-0063"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">W. D. Robertson, Affidavit</title>
+    <title level="a" type="parallel">CWG1109</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's Official Correspondence File, Requisitions for the Return of Fugitives from Justice, 1863-1867</collection>
+      <idno>BR6-77</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Nashville, Davidson County, Tennessee</placeName>
+    <date when="1865-06-29">29 June 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>State of Tennessee
+<lb/>Davidson County</p>
+<p>On this the <date when="1865-06-29">29<hi rend="underline"><hi rend="sup">th</hi></hi> day of June 1865</date> before me a Notary Public in and for the County and state aforesaid personnally appeared T J Waggoner and made oath in due form of law that on the <date when="1865-05-17">17<hi rend="underline"><hi rend="sup">th</hi></hi> day of May 1865</date> John Davis colored was arrested by the civil authorities of Nashville on a charge of Larceny and on that on the <date when="1865-05-26">26<hi rend="underline"><hi rend="sup">th</hi></hi> day of May</date> he had a trial before the recorder and was bound over to appear before the next term of the criminal court and gave bail in the sum of two hundred &amp; fifty dollars for his appearance and that said bond has been forfeited according to telegram the said Davis is now under arrest by the civil authorities of Louisville Ky.</p>
+<p>And he also made oath that he was the main witness for the state and that the following is testimony he gave in on ^the^ trial</p>
+<p>1<hi rend="underline"><hi rend="sup">st</hi></hi> That some days previous to said trial he caught John Davis &amp; Alfred Harris carrying Sugar &amp; Coffee amounting<pb/>
+<lb/>in value to about Ten or Fifteen dollars, from the commercial Hotell. And that the same did not belong to them.</p>
+<p>Sworn &amp; Subscribed to before me on the day and year first above written</p>
+<p>T. J. Waggoner</p>
+<p>W D Robertson
+<lb/>Notary Public</p>
+<p><figure type="seal"><ab>W. D. ROBERTSON
+<lb/>NASHVILLE, TENN.
+<lb/><unclear/></ab></figure>
+<lb/><stamp type="revenue"/><note place="stamp"><unclear/></note></p>
+<p>I Andrew J. Fletcher secretary of state of the State of Tennessee do hereby certify that W. D. Roberts who has subscribed his name to the foregoing affidavit as Notary Public and has affixed his seal of office as such was a Notary Public of the county of Davidson at the time the same was subscribed and affixed and that his attestation is in due form of law</p>
+<p><figure type="seal"><ab>THE GREAT SEAL OF THE STATE OF TENNESSEE
+<lb/>1796
+<lb/>XVI
+<lb/>AGRICULTURE
+<lb/>COMMERCE</ab></figure></p>
+<p>In Testimony whereof I have hereunto subscribed my official signature and by order of the Governor affixed the Great Seal of the state of Tennessee at office in the City of Nashville. This <date when="1865-06-29">29<hi rend="sup">th</hi> day of June 1865</date></p>
+<p>A. J. Fletcher
+<lb/>secretary of State</p>
+  </body>
+ </text>
+</TEI>

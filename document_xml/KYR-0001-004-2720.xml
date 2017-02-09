@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2720"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">J. A. Krack to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7357</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR16-375 to BR16-376</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency
+<lb/>Thos. E. Bramlette
+<lb/>Govenor of Kentucky</p>
+<p>Your Petitioners J. A. Crack would respectfully state, that in the month of <date when="1865-07">July 1865</date> he went upon the bail bond of Frederick J. Crack in ^the^ city Court of Louisville to appear &amp; answer a felony in the Jefferson Circuit Court at the next term of Said court. The bail bond was in the sum of three hundred dollars $300<hi rend="sup">00</hi>/<hi rend="sub">00</hi>. A forfeiture was had on said bond at the <date when="--09">September</date> term. Your petitioner was induced to go bail because the accused was a respectable man &amp; had never been Known as a bad man, in fact no one ever suspicioned him. It is true that his mind was somewhat erratic, &amp; at times he was supposed to be demented, but no one ever doubted his honesty. It was more from feelings of humanity than any thing else. Your petitioner is totally<pb/> 
+<lb/>unable to pay any part of said sum without feeling great pecuniary distress, He prays your Excellency to remit the amount.</p>
+<p>Your Excellency is respectfully refered to the recommendations accompaning this paper.</p>
+<p>Respectfully
+<lb/>J, A, Krack</p>
+<p>I am personally acquainted with the Petitioner &amp; Know all the circumstances under which he became bail for F J Crack; the Examiners court before which he was tried having been held by me, and from such personal Knowledge of the parties &amp; all the circumstances without stating particular facts I say to the Governor that the forfeiture should be remitted, and that if the matter was with me I would not hesitate to take responsibility &amp; remit the Penalty.</p>
+<p>Geo. W. Johnston.<pb/></p>
+<p>Jefferson Cir Ct
+<lb/>vs
+<lb/>J A Krack
+<lb/>$300.
+<lb/>Forfeiture
+<lb/><date when="1865-11-18">18 Nov/65</date>
+<lb/>Remit the forfeiture</p>
+  </body>
+ </text>
+</TEI>

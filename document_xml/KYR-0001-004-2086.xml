@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2086"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">R. D. Young et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6723</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR14-288 to BR14-289</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Clay County, Kentuckky</placeName>
+    <date when="1865-07-15">15 July 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>State of Kentucky
+<lb/>Clay County
+<lb/><date when="1865-07-15">July the 15<hi rend="sup">th</hi> 1865</date>
+<lb/>To his Excellency Thomas E. Bramlet Governor of the Commonwealth of Kentucky</p>
+<p>The under signed petitioners would beg leave to represent to Your Excellency, that. at the <date when="--06">June Term</date> of the Clay Circuit Court the Grand Jury found a truebill against <hi rend="underline">Hugh</hi> <hi rend="underline">Mize</hi> Of Color for coming in to the state of Kentucky. he being a free Negro -- </p>
+<p>The facts in the case are these
+<lb/>Hugh Mize a free man of color formerly resided in the State of Tennessee he being a Man free born and a very bright Mulatto the Rebels in the <date when="1864">Year 1864</date> in the month January sought to put him ^in^ the service of the Confederate States (they before had him for the same purpose but he had made his escape) he made his escape the second time and suceeded in bringing his wife and five Small children to Cumberland Gap Tennessee, where obtained a pass from the authorities to come to Kentucky where he has ever since remained entirely ignorant that it was a violation of the Law of this state. He was indicted at the time afs<hi rend="underline"><hi rend="sup">d</hi></hi> which indictment finds him here in Clay County with a woman &amp; five helpless Children and he endeavoring to and will if not prevented raise a support for them, but if he remains without Your interposition he will have to go to Jaile or Execute bond for his appearance in Court however should he be compelled to leave and go<hi rend="str">e</hi> to his home in Tennessee he would with his<pb/>
+<lb/>Family would be Compelled to suffer if not Starve on account of the Scarsity of provisions in that State -- </p>
+<p>We would represent further that the said Hugh Mize Come to Kentucky well recommended And has well sustained that Character we would recomend him to you as an honest Man and one who labors hard for a livelyhood for himself and family -- which Labor is very useful to this Community and we would recomend him to Your consideration as A proper subject for Your interposition -- And Act and pray You after considering the facts indorce by your petitioners &amp; the neighbours of the said Hugh Mize to interpose in his behalf and to sta<hi rend="str">te</hi>y the proceeding in the action in the Clay Circuit Court against Mize untill he can have an oportunity to leave the state and carry his family with him And pray You to show all the lenity to the said Mize. you feel You can for we assure you it is needful if possable till Civil Law is again set in operation in the state of Tennessee -- </p>
+<p>Your most ob<hi rend="underline"><hi rend="sup">t</hi></hi> servents
+<lb/><milestone unit="column" n="2"/><cb n="1"/>R, D, Young
+<lb/>R. G. Hensley
+<lb/>Jonathan Dalton
+<lb/>William B Kelly
+<lb/>William Reede
+<lb/>James Lunsford
+<lb/>plasan gregry
+<lb/>Hiram Reade
+<lb/><cb n="2"/>William Britten
+<lb/>Francis M Eagle
+<lb/>L G Morgan
+<lb/>Samuel Clarkston
+<lb/>John D Coldiron
+<lb/>Steven Parsons
+<lb/>William Parker
+<lb/>Charles Robinson<pb/>
+<lb/><milestone unit="column" n="1"/>W<hi rend="underline">m</hi> Shelton
+<lb/>Charles Hensley
+<lb/>Steven Robinson
+<lb/>A,, J,, Hobbs
+<lb/>Elihu Wells
+<lb/>Joseph Hubard
+<lb/>L. L. Kuningham
+<lb/>Ed Gibson
+<lb/>Barton Pattel<pb/></p>
+<p>Grand Jury
+<lb/>Clay County
+<lb/>vs
+<lb/>Hugh Mize
+<lb/>f. M. C</p>
+<p>True bill found for coming into this State from the state of Tennessee Pardons offense &amp; remits penalty</p>
+<p><date when="1865-08-05">5<hi rend="sup">th</hi> Aug 1865</date></p>
+  </body>
+ </text>
+</TEI>

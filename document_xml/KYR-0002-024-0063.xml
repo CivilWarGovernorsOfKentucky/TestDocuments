@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-024-0063"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">T. S. Bell to James F. Robinson</title>
+    <title level="a" type="parallel">CWG12116</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Mitchell A Krock</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>1st - 20th Regiments Kentucky Infantry Primary Source Documents</collection>
+      <idno>Box 8, Folder 15th Ky. Inf. - Misc.</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date when="1862-10-15">15 October 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Louisville Ky. <date when="1862-10-15">Oct. 15<hi rend="sup">th</hi> 1862</date>
+<lb/>To)
+<lb/>James F. Robinson,
+<lb/>Governor of Kentucky -- </p>
+<p>May I beg leave to utter a few truths respecting Young Coleman Spencer Daniel, a private in the 15<hi rend="sup">th </hi>Kentucky Regiment. I have Known him intimately from his earliest breath until now, and I do not know a nobler, nor a more worthy young man in this Commonwealth. He has a fine mind, an unblemished integrity, and one of the best natural dispositions I have every Known. When Kentucky was obeying the first call for her quota of troops this youth was earnestly besought by his companions to raise a company, but his reply was, "I will first <hi rend="str">to</hi> learn to be a soldier before I undertake to teach others." He went with the ranks where he has faithfully served as a soldier, until he was wounded on the <date when="1862-10-15">8<hi rend="sup">th</hi></date> at Perryville.</p>
+<p>When Young Daniel enlisted upon his<pb/>
+<lb/>service in the 15<hi rend="sup">th</hi> Regiment, I requested Col. Pope to pay attention to him for the sake of his noble grandfather, Coleman Daniel, and I made the same request of Lieut. Colonel fourth, for the sake of the other grandfather, Spencer Cooper of Lexington. Col. Pope has assured me repeatedly, that he is one of the best and most worthy young men he has ever Known, and Lieut. Col. Jouett, gave me Similar assurances, more frequentlly than Col. Pope did, because I saw him oftener. And when this youth was shot in his arm in the battle of the <date when="1862-10-08">8<hi rend="sup">th</hi></date>, <hi rend="str">h</hi>and was compelled to leave the ranks, he tried to carry off his gun, until Lieut. Col. Jouett saw him and considerately told him to drop his gun, and support his wounded arm with his right hand.</p>
+<p>I pray your Excellency to consider the merits of this young man for a Lieutenancy of some company in his regiment. I will guarantee that you will never have any cause to regret the act.<pb/></p>
+<p>I am, with a respect that has grown toward you for more than forty years,
+<lb/>Yours truly.
+<lb/>T. S. Bell<pb/></p>
+<p><note place="header">15</note>
+<lb/>Louisville
+<lb/><date when="1863-10-15">Oct. 15<hi rend="sup">th </hi>1863</date><figure type="hr"/>
+<lb/>Bell T. S.<figure type="hr"/>
+<lb/>Recom<hi rend="underline"><hi rend="sup">dg</hi></hi> C. S. Daniel 
+<lb/>15<hi rend="underline"><hi rend="sup">th</hi></hi> Ky. Infantry.</p>
+  </body>
+ </text>
+</TEI>

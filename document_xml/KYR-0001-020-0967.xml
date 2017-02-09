@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0967"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">James M. Nesbitt to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10435</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG20-11 to MG20-12</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisa, Lawrence County, Kentucky</placeName>
+    <date when="1861-04-30">30 April 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Louisa Lawrence Co Ky
+<lb/><date when="1861-04-30">April 30<hi rend="sup">th</hi> 1861,</date>
+<lb/>Dear Governor,</p>
+<p>W<hi rend="sup">m</hi> Webb was fined this term of this court, $30 for three acts of Retailing, He did make some apple Brandy and he did sell Three quarts of it under the Belief he could lawfully do so but, it was drunk at the place of sale,</p>
+<p>I know this is a case in which you ought to remit the fine Webb is an Honest clever man, and I hope you will send him, a remission</p>
+<p>Yours Truly
+<lb/>J M Nesbitt
+<lb/>Comth Atto 11<hi rend="sup">th</hi> Circuit<pb/></p>
+<p>To His Excelleny Beriah Magoffin Govenor of the Commonwealth of Kentucky your petitioners would humbly represent that W<hi rend="sup">m</hi> Webb was at this the April Term of the Laurence circuit Court found guilty of three acts of retailing and find thirty dollars that the selling accured as follows Webb was a distiller of Apple brandy and sold the same at his house believing he had a right to do so and the same was drank on his premises he is a man of honesty loyalty and obedient to the Law and would not violate the Law Knowingly. We ask most humbly your excellency to remit the fine imposed upon him</p>
+<p>L Moore
+<lb/>J W Haws S L C
+<lb/>John M Rice
+<lb/>Walter Osburn J P L C
+<lb/><milestone unit="column" n="2"/><cb n="1"/>Jas Hensley
+<lb/>J W Hensly
+<lb/>Isaac Hensley
+<lb/><cb n="2"/>W<hi rend="sup">m</hi> Shore
+<lb/>Thomas Hensly
+<lb/>J M. Rice<pb/></p>
+<p>Lawrence Cir. Ct
+<lb/>Remitted
+<lb/>B. M
+<lb/>$30
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Webb
+<lb/>Issd. <date when="1861-05-11">May 11. 1861</date></p>
+  </body>
+ </text>
+</TEI>

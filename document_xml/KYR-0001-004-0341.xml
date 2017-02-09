@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0341"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Fontaine T. Fox Jr. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG4460</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR9-45</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Elizabethtown, Hardin County, Kentucky</placeName>
+    <date when="1863-12-31">31 December 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Elizabethtown Ky
+<lb/><date when="1863-12-31">December 31<hi rend="sup">st</hi> 1863</date>
+<lb/>Hon Tho<hi rend="sup">s</hi> E. Bramlette
+<lb/>Govr of Kentucky.
+<lb/>Dear Sir:</p>
+<p>Some eight months since Wesley a Slave belonging to G. W. Smith <hi rend="str"><unclear/></hi> accused of burning a barn and incarcerated in our County Jail to await Indictment and trial there under. The prejudice vs the boy was so great and so positively expressed and in <hi rend="str">a</hi> such a way as to prevent the holding the opposite opinion, that his Master believed him guilty and would not bail him. He has been twice tried. The first time, the Jury were dispersed by a raid of Guerrillas. The second time a verdict of 200 lashes was returned by the Jury. I desire a remission of part of the punishment say 50 to 100 lashes. The boy justly deserve this favor from your Honor. The evidence vs him was purely circumstantial frequently conflicting upon Material points, our disclosed the complicity of white men in the crime. The evidence rested upon two setts of tracks -- the first at the burnt barn were almost invisible, the other, at his home, let his foot out he denied those in the fields and acknowledged those in the garden. they are contiguous fields- one of the witnesses swore they were in a line and the same witness swore on the first trial they were not and would miss each other <unclear>comemicry</unclear> at either end then. And they swore virtually the same thing on the first trial and on the last they were <hi rend="underline">ZigZag</hi> -- These witnesses had evidently yielded some little though unconciously to ^the prejudice in^ themselves, to<pb/>
+<lb/>the neighborhood. I was the only Lawyer defending the poor negro. Govr Helm &amp; Hon C. G. Wintersmith fortified the prejudice of the neighborhood by their presence in the case and assisted the comlth. Their name and presence and counsel had unusual weight with the Jury. This is but a slight and cursory but I hope sufficient view to give an idea of the Case and show to you it worthy an exercise of Your executive clemency.</p>
+<p>I am with great Respect
+<lb/>Your obt Servant
+<lb/>Fontaine T. Fox Jr.</p>
+<p>Hardin County
+<lb/>Refused
+<lb/>T E Bramlette</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1443"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">James McLaughlin, Affidavit</title>
+    <title level="a" type="parallel">CWG6080</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR12-244</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Kenton County, Kentucky</placeName>
+    <date when="1865-01-03">3 January 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency
+<lb/>Gov<hi rend="underline"><hi rend="sup">r</hi></hi> Tho. E. Bramlette
+<lb/>Gov<hi rend="underline"><hi rend="sup">r</hi></hi> of Ky.</p>
+<p><stamp type="revenue"/><note place="stamp">R R 
+<lb/>N P
+<lb/><date when="1865-01-03">1 3 65M</date></note></p>
+<p>Affiant James M<hi rend="sup">c</hi>Laughlin states that he is the proprietor &amp; keeper of the hotel known as the "Clinton House" situate on Madison St., Covington Ky. He was recently -- <date when="1864-03-17">March 17 1864</date> -- indicted for selling liquor during the Christmas Holidays of <date when="1863">1863</date> to one Thomas Dickey -- a minor. Affiant knew Dickey slightly -- who was to all appearances, of age, and was doing business in this city, and making contracts, buying and selling in his own right. He knew, or remembered, nothing of the circumstance of selling him a glass of liquor; but the same was proved and Affiant fined $50; he having submitted his case to the court without a jury. Affiant most solemnly avers he intended to violate no law in said selling; and that he would never have sold any liquor to Dickey had he not been deceived by his general appearance; and by his doing business in his own name, and making his own contracts. Said Dickey proved that he was 21 years<pb/>
+<lb/>of age on <date when="1864-02-06">Feby. 6, 1864;</date> or only about <hi rend="underline">5 weeks</hi> after the sale of the glass of liquor was proved to have been made to him at his hotel.</p>
+<p>Affiant has never before appealed to your Excellency for a remission of fine. He does so now solemnly averring that he has violated a penal law unwittingly; and as he is constrained to believe under the influence of deception practiced upon him by more persons than one. Mr. R. B. Carpenter was Com<hi rend="underline"><hi rend="sup">wths</hi></hi> Atty when said offence was committed and indictment filed.</p>
+<p>James M<hi rend="underline"><hi rend="sup">c</hi></hi>Laughlin</p>
+<p>Subscribed and sworn to before me by James M<hi rend="sup">c</hi>Laughlin this <date when="1865-01-03">3<hi rend="underline"><hi rend="sup">d</hi></hi> day of January 1865</date></p>
+<p>Robt Richardson
+<lb/>Noty Pub. K. C. Ky</p>
+  </body>
+ </text>
+</TEI>

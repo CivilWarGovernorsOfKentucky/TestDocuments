@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0506"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">James P. Barbour et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG4625</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR9-303</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Washington County, Kentucky</placeName>
+    <date when="1864-02-15">15 February 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Washington County Ky
+<lb/><date when="1862-02-15">February 15<hi rend="sup">th</hi> 1864</date>
+<lb/>His Excellency Thos E Bramlette
+<lb/>Governor of Kentucky</p>
+<p>The undersigned citizens of Washington County would respectfully petition your excellency to remit the fine ^for $400 -- ^ received against Maudville Elliott, received at the <date when="--03">Mar Term</date> of the Washington Circuit Court for failing to attend in discharge of his recognition as a witness for the Commonwealth in the case of the Commonwealth is Matt Isaacs &amp; Siles Bolling charged with felony, as from our knowledge of Mr Elliott we are satisfied that he subjected himself to the forfeiture innocently and for no improper purpose, and from the impression that there could be no treat of the cause, from the fact that Isaacs was known to be absent in the Federal army.</p>
+<p>Jas P Barbour Clk of the Washington Circuit Court
+<lb/>C F Bosley Sheriff of W C
+<lb/>John M Smith
+<lb/>S D Hall</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>John McIntire
+<lb/>J. R Claybrook
+<lb/>John C. Paddack
+<lb/>Richard Jefferson
+<lb/>W. H. Kinberlin
+<lb/>M R Hardin
+<lb/><cb n="2"/>G G Kendrick
+<lb/>J F Kinbarlin
+<lb/>Luther Rice
+<lb/>C. T. Cunningham
+<lb/>John Bosly
+<lb/>J. J. Rigdon
+<lb/>Joshua Smalley
+<lb/>S L Bailier
+<lb/>W A Wilson
+<lb/>S. B Montgomery<milestone unit="column" n="1"/><pb/></p>
+<p>J H B Wilson
+<lb/>F S Anderson
+<lb/>S N Dorsey
+<lb/>J A Kendrick
+<lb/>R P Kendrick
+<lb/>G. F Kimberlin
+<lb/>Marion Brady
+<lb/>Stephen A Brady
+<lb/>James B Mitchell
+<lb/>M A. Brady
+<lb/>W F Motgomery
+<lb/>C Cocanougher
+<lb/>T H Frornam
+<lb/>Sidney Green
+<lb/>John Hedges
+<lb/>James Brady
+<lb/>W H Canary
+<lb/>Hardin Graves
+<lb/>J. A. Hayden
+<lb/>B H Banhings
+<lb/>T. C. Richer
+<lb/>John Robertson
+<lb/>P. R. Rines
+<lb/>Simon Best
+<lb/>Robert M<hi rend="sup">c</hi>Myers
+<lb/>T. T. Barker
+<lb/>R. S. Peters
+<lb/>S R Grundy
+<lb/>J A Phelps
+<lb/>R C Palmer
+<lb/>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> M Shane
+<lb/>W<hi rend="sup">m</hi> J Robertson
+<lb/>Jo<hi rend="sup">s</hi> Rawlings
+<lb/>John Simms</p>
+<p>Washington Cir Ct
+<lb/>vs
+<lb/>M. Elliott
+<lb/>Forfeiture $100
+<lb/><date when="1864-02-18">18<hi rend="sup">th</hi> Feby/ 64</date></p>
+<p>Remit except fees &amp; costs &amp; hand to R J browne (HR)
+<lb/>T E Bramlette</p>
+  </body>
+ </text>
+</TEI>

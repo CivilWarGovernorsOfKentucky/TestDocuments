@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-3164"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">A. W. Blair et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG5283</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR41-203</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Nicholas County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency
+<lb/>Thos. E. Bramlette
+<lb/>Governor of Kentucky }</p>
+<p>The undersigned Citizens of Nicholas County would respectfully Petition Your Excellency to release <hi rend="underline">Leonard</hi> <hi rend="underline">Sheilds</hi> and <hi rend="underline">William</hi> <hi rend="underline">Miller</hi> who are now confined in the State Prison at Frankfort. They were sentenced to four Years imprisonment each by the Nicholas Circuit Court at its <date when="1865-03">March term 1865</date> for horse stealing.</p>
+<p>We would not presume to Petition for the release of a hardened reprobate, but we do think and feel that Sheilds and Miller are deserving objects of Executive Clemency: Sheilds has a wife and three little children in a helpless and destitute condition. It would certainly be an act of humanity to discharge him; and we feel satisfied that if Your Excellency will excersize the pardoning power in his case he will thence forward be a good orderly citizen. we also feel authorized to make the same statements in reference to Miller. Hoping Your Excellency will grant our prayer we are very truly Your fellow Citizens</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>W T Piper
+<lb/>G. W Adair
+<lb/>B. F. Adair
+<lb/>J H Holladay
+<lb/>E M Ewing
+<lb/>John A Rice
+<lb/><cb n="2"/>A. W. Blair S N C
+<lb/>Jno A. Campbell C. N. C. C
+<lb/>R T R Litton
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Norvell
+<lb/>T. Murphy
+<lb/>S. C. Watkins
+<lb/>G S Waugh<milestone unit="column" n="1"/><pb/>
+<lb/>Nicholas Ct Ct
+<lb/>vs
+<lb/>N. Shields &amp; W Miller</p>
+  </body>
+ </text>
+</TEI>

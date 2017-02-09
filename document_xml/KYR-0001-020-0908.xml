@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0908"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">I. E. Cooper et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10376</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG19-443 to MG19-444</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency Gov<hi rend="sup">r</hi>, B, Maggoffin</p>
+<p>Your Humble Petitioner Joseph H Kissick, would most respectfully and Humbly represent To Your excellency that at the last <hi rend="str">August</hi> <date when="1861-02">February</date> term of the Rowan Circuit Court he was tried under an Indictment for for selling Liquor by the Smalls without Licens as required by law &amp; Said Kissick was fined the Sum of Sixty dollars,. The Circumstances &amp; facts of the case are about this, Sometime before the finding of the Indictment against said Kissick One B. T. Hayden obtained license from the Rowan County Court to Keep a Tavern, &amp; Kissick rented his (Hayden<hi rend="sup">s</hi>) House with the express understanding that Kissick was to have the right to Sell liquors by the Small under Hayden's license, &amp; Hayden told Kissick to sell under Said License. &amp; Kissick did Go on &amp; sell by the Small &amp; otherwise under Said license &amp; during the absence from Court of (<hi rend="underline">Kissick</hi>) said Cause was called, tried &amp; resulted in a Judgment in favor of the Coml<hi rend="underline"><hi rend="sup">th</hi></hi> against Said Kissick in the sum of $60,00 aforesaid Now We the undersigned Petitioners Join in the with Said Kissick &amp; would most respectfully represent that said Kissick is a poor man being the ouner of but very little property and having a family to Support (in the meantime) by his Own Daily labor, We therefore think that you would be doing a Just, Wholly and Godlike act under all the Circumstances which is Connected with the case to remit Said fine of $60,00 believing that Justice demands the aid <hi rend="str">of</hi><pb/>
+<lb/>Sought for from your Excellency We Therefore ask &amp; pray that said fine be remitted and we will ever pray (Yours)</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>I. E. Cooper
+<lb/>J,, B. M <unclear/> C R C
+<lb/>O. H. Trumbo C R C
+<lb/>L. D. Harper
+<lb/>T P Oxley
+<lb/>James Hawkins
+<lb/>John Hargis Atto. for Rowan C<hi rend="sup">o</hi>
+<lb/>J E Johnson J P R C
+<lb/><cb n="2"/>E. H. Logan M D
+<lb/>M, R, Hawkins
+<lb/>D. G. Johnson
+<lb/>James Maddox
+<lb/>C. A. Ward
+<lb/>R. P. Maddox
+<lb/>J. B. Christian<milestone unit="column" n="1"/><pb/></p>
+<p>Rowan Cir. Ct
+<lb/>Respite 12 Mo
+<lb/>B. M
+<lb/>$60 } Tipling
+<lb/>Jo<hi rend="sup">s</hi>. H. Kissick
+<lb/>Iss<hi rend="sup">d</hi> <date when="1861-04-30">Apr 30. 1861</date></p>
+  </body>
+ </text>
+</TEI>

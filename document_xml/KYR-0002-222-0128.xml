@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-222-0128"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Unknown, Note</title>
+    <title level="a" type="parallel">CWG13817</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>Misc. QM Expenditures, 1863-1865</collection>
+      <idno>QMG Box 10; Folder 1865 Horse Settlements, Salaries, Ins. Bureau, Gen. Receipts, Correspondence Regarding Troops; Right Stack</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1864-01-16">16 January 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Note</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>SATURDAY, <date when="1864-01-16">JANUARY 16, 1864</date>.</p>
+<p>John S Burgess
+<lb/>Thos k Brown
+<lb/>George W Neall
+<lb/>Hiram Justice
+<lb/><hi rend="str">Hiram Lane</hi>
+<lb/><hi rend="str">Guy Bandy</hi>
+<lb/><hi rend="str">Jonh Hughs</hi>
+<lb/><date when="1864-01-17">SUNDAY 17</date>
+<lb/><hi rend="str">John Hacket</hi>
+<lb/><hi rend="str">Wahlen quilin</hi>
+<lb/><hi rend="str">Andrew Quilin</hi>
+<lb/><hi rend="str">John j. vannel</hi><figure type="hr"/>
+<lb/>Lt Humbough
+<lb/><date when="1864-01-18">MONDAY 18</date>
+<lb/><table rend="rules">
+<row>
+	<cell>Cash</cell>
+	<cell>40</cell>
+	<cell>00</cell>
+</row>
+<row>
+	<cell>"</cell>
+	<cell>26</cell>
+	<cell>00</cell>
+</row>
+<row>
+	<cell>Paid R<unclear/> pasage Lexington &amp; Back</cell>
+	<cell>2</cell>
+	<cell>30</cell>
+</row>
+<row>
+	<cell>Cash</cell>
+	<cell>1</cell>
+	<cell>00</cell>
+</row>
+<row>
+	<cell/>
+	<cell>3270</cell>
+	<cell>00</cell>
+</row>
+</table><pb/>
+<lb/>Ky. C. R. R.</p>
+<p>Covington <date when="1864-07-26">July 26 ^1864^</date></p>
+<p>Recevid of J H Jacobs two dollars for his pasage to Lexington</p>
+<p>H H Wellender
+<lb/>C<unclear/> Ky Cen R R</p>
+<p>WEDNESDAY, <date when="1864-01-13">JANUARY 13, 1864</date>.</p>
+<p><date when="1864-01-14">THURSDAY 14</date></p>
+<p><date when="1864-01-15">FRIDAY 15</date></p>
+  </body>
+ </text>
+</TEI>

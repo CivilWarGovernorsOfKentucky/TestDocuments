@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-117-0069"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Unknown, Note</title>
+    <title level="a" type="parallel">CWG13898</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Christina K Adkins</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>Adjutant General Letter Book - No. 3 ; 9 April - 25 May 1864</collection>
+      <idno>177</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1864-05-02">2 May 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Note</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><note place="header">177</note>
+<lb/>H<hi rend="underline"><hi rend="sup">d</hi></hi> qrs 34<hi rend="underline"><hi rend="sup">th</hi></hi> -- Ky Vol Inf
+<lb/>Cumberland Gap: Ky
+<lb/><date when="1864-04-23">April 23<hi rend="underline"><hi rend="sup">d</hi></hi><hi rend="sup"> </hi>1864</date><figure type="hr"/><hi rend="sup">
+<lb/></hi>Dillard W. Y
+<lb/>Col 34<hi rend="underline"><hi rend="sup">th</hi></hi> Infty<figure type="hr"/></p>
+<p>Inclosing a letter from Capt T. J. Bush by order of Col Flint suspending his muster as Col of the 34<hi rend="underline"><hi rend="sup">th</hi></hi> Says he made application to Maj Genl Foster to have his regiment sent to Ky to recruit, and he said it was not necessary. as he could muster with his present strength a Col. &amp; Lt Col, but the majority would be vacant. Desires you to make application to Secy of War to set aside that order suspending his muster<figure type="hr"/></p>
+<p>Rec<hi rend="sup">d</hi> A G O. <date when="1864-05-02">2<hi rend="sup">d</hi> May 1864</date></p>
+<p>Head Quarters Ky. Vols
+<lb/>Adjutant General's Office
+<lb/>Frankfort -- Ky. <date when="1864-05-02">May 2<hi rend="sup">nd</hi> 1864</date></p>
+<p>Respectfully forwarded to Brig. Gen. L. Thomas -- Adjt. Gen. U.S.A. for decision in this case, Col. Dillard is a superior officer -- and should be favored if possible. Please instruct this office -- if the Muster-in as Colonel -- can be approved and ratified,</p>
+<p>By order of the Governor.
+<lb/><hi rend="underline">John Boyle</hi>
+<lb/>Adjt. Gen of Ky</p>
+  </body>
+ </text>
+</TEI>

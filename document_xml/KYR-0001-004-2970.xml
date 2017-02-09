@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2970"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Commonwealth of Kentucky v. William Dent, G. Brown, and W. D. C. Johnson, Indictment</title>
+    <title level="a" type="parallel">CWG7607</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR43-53</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>McCracken County, Kentucky</placeName>
+    <date when="1863-04-23">23 April 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>M<hi rend="sup">c</hi>Cracken Circuit Court
+<lb/>The Commonwealth of Kentucky
+<lb/>against
+<lb/>W<hi rend="sup">m</hi> Dent, G Brown W D C Johnson</p>
+<p>The Grand Jury of McCracken cou<unclear>nty</unclear> the name and by the authority of the Commo<unclear>nwealth</unclear> of Kentucky, accuse W<hi rend="sup">m</hi> Dent, G Brown &amp; W D C Johnson of the offense of assault &amp; Battery committed as follows viz The said Dent Brown &amp; Johnson did on the <date when="1863-04-15">15<hi rend="sup">th</hi> day of April 1863</date>, in the county aforesaid, maliciously assaulted, beat, Maltreated &amp; scandalously &amp; cruelly abused W<hi rend="sup">m</hi> H Bristow against the Peace and dignity of the Commonwealth of Kentucky</p>
+<p>P D Yeiser
+<lb/>Commonwealths attorney for 1<hi rend="sup">st</hi> Judicial District</p>
+<p>Witnesses
+<lb/><milestone unit="column" n="2"/><cb n="1"/>W<hi rend="sup">m</hi> H Bristow
+<lb/>J H Rollins
+<lb/>Wils Foster
+<lb/><cb n="2"/>Erik Rollins
+<lb/>W<hi rend="sup">m</hi> Duchey
+<lb/>J S Potter</p>
+<p><milestone unit="column" n="1"/>A Copy -- 
+<lb/>attest B Small C M c c<pb/></p>
+<p>M<hi rend="sup">c</hi>Cracken Court</p>
+<p>If this be true then "truth is stranger than fiction"</p>
+<p><hi rend="underline">Refused</hi></p>
+<p>Coml<hi rend="underline"><hi rend="sup">th</hi></hi>
+<lb/>vs } A &amp; B
+<lb/>W<hi rend="sup">m</hi> Dent &amp; others</p>
+<p>A true bill
+<lb/>N Stanley
+<lb/>Foreman</p>
+<p>Filed <date when="1863-04-23">23<hi rend="sup">d</hi> April 1863</date></p>
+<p>(A copy)</p>
+  </body>
+ </text>
+</TEI>

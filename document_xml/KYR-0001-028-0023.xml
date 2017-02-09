@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-028-0023"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John W. Finnell to Daniel C. Wickliffe</title>
+    <title level="a" type="parallel">CWG7678</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Appointments by the Governor, Military Appointments, 1862-1863</collection>
+      <idno>R2-149 </idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1862-08-26">26 August 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><figure type="seal"><ab>UNITED WE STAND, DIVIDED WE FALL.
+<lb/>KENTUCKY.</ab></figure>
+<lb/>Head-Quarters Kentucky Volunteers,
+<lb/>ADJUTANT GENERAL'S OFFICE,
+<lb/>Frankfort, <date when="1862-08-26">Aug 26 1862.</date>
+<lb/>Hon: D. C. Wickliffe
+<lb/>Sec State -- 
+<lb/>Sir</p>
+<p>1 Lieut: W. C. Burgher murdered <date when="1862-07-29">29 July 1862.</date> (date of Com: <date when="1862-11-09">Nov. 9, 1861)</date>
+<lb/>2 Lieut: J. Redfearn promoted (date Com: same)
+<lb/>2 Lieut: Joseph D. Yontz pro: ( " " <date when="1862-04-08">Ap. 8. '62)</date>
+<lb/>2 Lieut: Tho. M. Likes -- pro: -- ( " " <date when="1862-05-02">May 2, '62)</date>
+<lb/>2 Lieut: John Henry -- dead -- -- ( " " <date when="1862-11-27">Nov. 27, '61)</date>
+<lb/>1 Lieut: F. Goodpaster -- pro. -- ( " " <date when="1862-03-22">Mar 22. '62)</date>
+<lb/>2 Lieut: Jno. A. Joyce pro -- -- ( " " " " ")
+<lb/>2 Lieut: N. C. Petree dec<hi rend="sup">d</hi> -- ( " " <date when="1862-11-14">Nov 14, '61)</date>
+<lb/>2 Lieut: L. L. Drown pro: -- ( " -- <date when="1862-11-19">" " 19. ")</date></p>
+<p>Resp<hi rend="underline"><hi rend="sup">ly</hi></hi>
+<lb/>John W. Finnelll
+<lb/>Adj<hi rend="sup">t</hi>. Gen<hi rend="sup">l</hi>. Ken. Vols:<pb/></p>
+<p><date when="1862-08-26">26. Aug. 1862</date></p>
+  </body>
+ </text>
+</TEI>

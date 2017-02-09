@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-031-0027"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Theodore Miller to John J. Crittenden</title>
+    <title level="a" type="parallel">CWG7767</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Appointments by the Governor, Civil Appointments, 1862-1863</collection>
+      <idno>R1-61 to R1-62</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Virginia City, Storey County, Nevada Territory</placeName>
+    <date when="1862-10-29">29 October 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Virginia City Nevada Teritory
+<lb/><date when="1862-10-29">October 29<hi rend="sup">th</hi> 1862</date>
+<lb/>Hon. J. J. Crittenden.
+<lb/>Dr. Sir.</p>
+<p>Mr. W<hi rend="underline"><hi rend="sup">m</hi></hi> A. M. Van Bokkelen of this City, wishes to procure the appointment of the Governor of Ky. of Commissioner of Deeds of that State for this Territory. There are many Kentuckians here whose convenience will be promoted by having a resident Com<hi rend="underline"><hi rend="sup">r</hi></hi> here, and we can recommend Mr. VanB. as entirely worthy and well qualified for the position, His appointment will give us great pleasure. Although you are taking no active part in political affairs now, yet I have thought you would in this matter oblige old constituents and friends by endorsing Mr VanB<hi rend="underline"><hi rend="sup">s</hi></hi> application to the Gov. of Ky. which will doubtless be sufficient to secure the appointment.</p>
+<p>Even in this accidental<pb/>
+<lb/>communication I cannot forbear the opportunity to thank you for former kindness to me. Your appointment of me as one of your aids when Gov<hi rend="sup">r</hi> of Ky was my first political promotion, and your letters of introduction when I came to California in <date when="1850">1850</date> contributed materially to my welfare. Allow me also to express my regret that the evening of your life, which has been so nobly spent in the service of your Country, should be rendered unhappy by its misery and peril, which you are compelled sorrowfully to witness, after having vainly endeavored to prevent -- from fields of blood and tears good men now look back to the "Crittenden Compromise" as the tired swimmer looks to the fading shore when he is drifting seaward.</p>
+<p>With unabated respect and affection for our old Ky. Chief I remain
+<lb/>Your Obliged friend
+<lb/>Theodore Miller</p>
+  </body>
+ </text>
+</TEI>

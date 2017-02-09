@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0088"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">William T. Mellen to Robert Richardson</title>
+    <title level="a" type="parallel">CWG2436</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Civil Appointments, 1859-1862</collection>
+      <idno>MG3-453</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Cincinnati, Hamilton County, Ohio</placeName>
+    <date when="1861-02-20">20 February 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Cincinnati <date when="1861-02-20">Feby 20 1861</date>
+<lb/>Hon. Robt Richardson
+<lb/>Covington Ky</p>
+<p>Dr Sir: I should like to be appointed a Commissioner for Kentucky for this state, I am not personally acquainted with Gov. M<hi rend="sup">c</hi>Goffin. Will you add another to the list of favors you have done me, by procuring this appointment for me.</p>
+<p>For the present I have a desk in F. D. Lincoln's office 8 Columbia St. where I shall be glad to see you whenever you are in Town.</p>
+<p>Very Truly Yours &amp;c
+<lb/>W<hi rend="sup">m</hi> P. Mellen</p>
+<p>I am personally acquainted with W<hi rend="underline"><hi rend="sup">m</hi></hi> P. Mellen Esq. of Cincinnati O. and recommend him to Gov. Magoffin as a person morally and professionally well qualified to discharge the duties of a Commissioner of deeds of this State</p>
+<p><date when="1861-02-27">Feby. 27, 1861</date>
+<lb/>R: Richardson<pb/></p>
+<p>Ohio<figure type="hr"/>
+<lb/>Com<hi rend="sup">r</hi>. of Deeds
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> P. Bellen
+<lb/>Cin
+<lb/>Iss<hi rend="sup">d</hi> <date when="1861-02-27">Feby 27 1861</date></p>
+<p>Issue Commission
+<lb/>B. M.</p>
+  </body>
+ </text>
+</TEI>

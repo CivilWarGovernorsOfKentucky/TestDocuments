@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1853"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Robert Fluty et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG11321</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Bradley Strait</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG23-248 to MG23-249</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency Gov<hi rend="sup">r</hi> Magoffin </p>
+<p>You undersigned petitioners would respectfully state to your Excellency that some three weeks Since -- in the latter week of <date when="1862-01">January 1862</date> John. W. Bruner of Irvine Kentucky was on a visit to his family relations in Winchester Kentucky and whilst there was rudely insulted &amp; assaulted by one <hi rend="underline">Proctor Dills</hi> of said latter place, and after Dills had drawn a heavy weight to strike Bruner with, he Bruner drew his pistol &amp; made Dills lay down his weight. &amp; thereby probably saved his life, Bruner immediately went to the Police Judge &amp; confessed judgment for violation of the town law in drawing his Pistol &amp; a fine of $10<hi rend="underline"><hi rend="sup">00</hi></hi> was entered up against him in the Police Court of Winchester Kentucky, we beg your Excellency, under the circumstances attending the matter<pb/>
+<lb/>to remit the fine against Bruner. </p>
+<p>Robt. Fluty
+<lb/>Robt Riddell J<hi rend="underline"><hi rend="sup">r</hi></hi>
+<lb/>J. M. Pigg
+<lb/>A. A. Curtis
+<lb/>C. W. Friend
+<lb/>Ew<hi rend="sup">d</hi> D Stockton<pb/></p>
+<p>Winchester Po. Ct
+<lb/>$10. } Misc
+<lb/>Jno W. Bruner 
+<lb/>Remission Iss<hi rend="sup">d</hi> <date when="1862-04-24">Apr 24 1862</date></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0888"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Richard H. Stanton to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10356</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG19-397 to MG19-398</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Carlisle, Nicholas County, Kentucky</placeName>
+    <date when="1861-03-22">22 March 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Carlisle, Ky,
+<lb/><date when="1861-03-22">March 22, 1861,</date>
+<lb/>Hon B. Magoffin,</p>
+<p>M<hi rend="sup">r</hi> William Ricketts of this county will apply to you, to be released from a judgment rendered against him as surety for his son on a recognizance bond, and which judgment was rendered at the present term of the Nicholas Circuit Court, M<hi rend="sup">r</hi> Ricketts is an amiable, worthy and respected old man with a very large family, and has already been subjected to very great expense, on account of his unfortunate son, and it would be a great hardship to require him to pay this penalty, It would really be punishing him for an offence, which he never committed and which he abhors as much as any other person, His son wounded<pb/>
+<lb/>M<hi rend="sup">r</hi> Still and ran off, but M<hi rend="sup">r</hi> Still has no objection to the remission of this Judgment and his brothers, I am informed, from their sympathy for the old man, have united in asking you to remit the judgment, I respectfully recommend that it be remitted,</p>
+<p>your friend
+<lb/>R H Stanton</p>
+  </body>
+ </text>
+</TEI>

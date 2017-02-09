@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2381"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">William Wood to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7018</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR15-303</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1865-09-27">27 September 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To Thomas E Bramlette Governor of the Commonwealtyh of Kentucky -- Your petitioners William Wood States that he was Indicted by a Grand Jury of Russell county and at the <date when="1865-04">April Term 1865</date> of the Russell Circuit court he was fined in two Cases for Tipling the sum of $60 each The facts are about these. Your petitioner was a private in the 13<hi rend="underline"><hi rend="sup">th</hi></hi> Ky Cavalry and was only 16 years of age, was let visit home on a Sick furlough and while at home and unable to do any thing and not having then been paid any money for his Services in the army his did purchase some Spirits and Sell the same out. not Knowing at the time that he was committing any offence against The laws of Ky. in fact at the time the said offences was Committed. the rebellion was holding the laws in obeyance and no laws was executed or pretented to be executed in this part of Kentucky -- for these reasons your petitioner prays that said fines be remitted as in duty bound he wil ever pray &amp;<hi rend="underline"><hi rend="sup">c</hi></hi> <date when="1865-09-27">Sept 27" 1865</date></p>
+<p>William Wood</p>
+<p>We the undersigned residents of Russell County join in the prayer of the above petition of W<hi rend="sup">m</hi> Wood and respectfully ask that said fines be remitted</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>W. T Jackman S. R. C
+<lb/>N. G. Wells
+<lb/>Lieut Nathan Moore
+<lb/>Lieut W. H. Walker
+<lb/><cb n="2"/>George Bryan</p>
+  </body>
+ </text>
+</TEI>

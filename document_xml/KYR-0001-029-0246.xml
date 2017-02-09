@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0246"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Grant Green to James F. Robinson </title>
+    <title level="a" type="parallel">CWG8698</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Governor's Official Correspondence File, Petitions for Pardons, Remissions, and Respites, 1862-1863</collection>
+      <idno>R3-368</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1863-02-14">14 February 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Auditor's Office, Kentucky
+<lb/>Frankfort, <date when="1863-02-14">14<hi rend="sup">th</hi> February, 1863</date>.
+<lb/><gap/>, Esq.:
+<lb/>Dear Sir:
+<lb/>His Excellency
+<lb/>Gov<hi rend="sup">r</hi> Robinson
+<lb/>Dear Sir</p>
+<p>The Shff of Larue County for <date when="1861">186<hi rend="str">3</hi>1</date> J W Larue has paid the amount in full of the principal interest and costs owe by him as Sheriff of said County for said year. A Judgment was rendered against him &amp; his secruities at the <date when="1862-02">Feb term 1862</date> of the Franklin Circuit Court for $1422.18 principal, with interest from the <date when="1861-06-01">1<hi rend="sup">st</hi> day of June 1861</date>. and $284<hi rend="underline"><hi rend="sup">43</hi></hi> Damages. There was trouble in this County, and the Revenue was paid as promptly as it could well be done.</p>
+<p>Respectfully
+<lb/>Grant Green
+<lb/>Aud<hi rend="underline"><hi rend="sup">r</hi></hi><pb/></p>
+<p>Franklin Cir. Ct<figure type="hr"/>
+<lb/>$284.43. } Damages
+<lb/>J. W. Larue
+<lb/>Sheriff of Larue Co
+<lb/>Remission Iss<hi rend="sup">d</hi>
+<lb/><date when="1863-02-14">Feby 14<hi rend="underline"><hi rend="sup">th</hi></hi> 1863</date></p>
+  </body>
+ </text>
+</TEI>

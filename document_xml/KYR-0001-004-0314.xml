@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0314"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">James T. Lawton to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG4433</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR9-5 to BR9-6</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Madisonville, Hopkins County, Kentucky</placeName>
+    <date when="1863-11-25">25 November 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Madisonville Ky <date when="1863-11-25">Nov<hi rend="sup">r</hi>. 25<hi rend="sup">th</hi> 1863</date>
+<lb/>To his Excellency Tho<hi rend="sup">s</hi>. E Bramlett Gov<hi rend="sup">r</hi>. of the Commonwealth of Kentucky</p>
+<p>The undersigned Would respectfully represent with your Excellency that at the present <date when="--11">^Novr^ <hi rend="str">May</hi> term</date> of the Hopkins Circuit Court the confessed Judgt upon an Indictment against "him in said Court for failing to obtain "a copy of the table of Tavern Rates from "the County Court Clerk and set up the "same in the public room of his tavern "house" He states that he was Indicted at the <date when="1863-05">May term of s<hi rend="sup">d</hi>. Court 1863</date> That the Civil law previous to that time in <date when="1861">1861</date> and <date when="1862">1862</date> had to a great extent been suspended a good portion of the time there was no clerk of s<hi rend="sup">d</hi>. County Court He states however as a reason Why he did not obtain said Tavern Rates and set them up, he did not know the law required it of a Tavern keeper. He did not intend to violate the law. Having been engaged in the business but a short time he was not posted. He prays your excellency to remit the fine, It being $75.00 He says that he obtained the License required by the law and in all other respects<pb/></p>
+<p>complied with the law to the best of his knowledge &amp; ability</p>
+<p>James T Lawton</p>
+<p>The undersigned citizens of Madisonville &amp; vicinity would state that Jas. T Lawton is a quiet, sober law abiding citizens &amp; we would be pleased that his fine should be remitted</p>
+<p>J. B. Earle
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> L. Gorron
+<lb/>O. Waddill
+<lb/>Geo. W. Noel
+<lb/>J M Compton
+<lb/>Dick Littlepage<pb/></p>
+<p>Hopkins Cir Ct
+<lb/>vs
+<lb/>Jas T. Lawton
+<lb/>Tipling
+<lb/><date when="1864-01-15">15<hi rend="sup">th</hi> Jany/ 64</date>
+<lb/>$75 -- </p>
+<p>Remit all except costs &amp; fees
+<lb/>Tho E Bramlette
+<lb/>Govr</p>
+  </body>
+ </text>
+</TEI>

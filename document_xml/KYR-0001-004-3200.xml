@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-3200"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">J. T. Bolinger et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG5319</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR41-375 to BR41-376</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Mayfield, Graves County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Mayfield Ky
+<lb/>Hon Thos E Bramlette
+<lb/>Gov of Kentucky</p>
+<p>We would respectfully represent to your excellency that at the <date when="--05">May term</date> of the Graves Circuit Court Judgment was rendered against N C Pitman committing for a breach of the peace for $25 and at the <date when="--11">present Nov term</date> <hi rend="str">another</hi> another judgment was rendered against him for $5 for breach of the peace committed in <date when="1863">1863</date> during the great excitement of the War. Mr Pittman belonged to Gregory's state Guard and was a bold fearless advocate of the Union cause which we believe to be the cause of his being indicted scarcely a union man in this disloyal part of Kentucky has escaped a persecution from a rebel as the Law is in the hands of Rebels who use it as a Machine to oppress union men our only hope is to look to your Excellency for pardon and as Mr Pitman is a poor man we would earnestly ask that you interpose in his behalf and relieve him as far as you can</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>J T Bolinger
+<lb/>Wesley Plumbee
+<lb/>T. M. Adams
+<lb/>E. W. Adams
+<lb/>H. F. Wooton
+<lb/>L. M<hi rend="sup">c</hi>Getuck
+<lb/><cb n="2"/>Lee Anderson
+<lb/>B W Odom
+<lb/>Thomas Carman
+<lb/>A. P. Rogers
+<lb/>H B Sitman<milestone unit="column" n="1"/><pb/>
+<lb/>D C McCelun
+<lb/>G J Bolinger
+<lb/>T H Cerby
+<lb/>M. A Payne
+<lb/>J W Beadley
+<lb/>A. B. Gardner
+<lb/>J. S. M<hi rend="sup">c</hi>Nutt
+<lb/>W. E. Bolinger
+<lb/>J F Flair
+<lb/>B Wert
+<lb/>A M. Hill
+<lb/>G W Bolinger<pb/>
+<lb/>Graves Cir Ct
+<lb/>vs
+<lb/>N. C. Pitman</p>
+  </body>
+ </text>
+</TEI>

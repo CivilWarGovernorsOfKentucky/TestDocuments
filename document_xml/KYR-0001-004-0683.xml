@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0683"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">W. G. Reasor to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG4802</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR10-46</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date when="1864-04-27">27 April 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Louisville <date when="1864-04-27">Apl 27th 1864</date>
+<lb/>To His Excellency
+<lb/>Gov Bramlitte
+<lb/>Dr Sir</p>
+<p>Some time during the year <date when="1863">1863</date> W B Hoke became the surety of Robt Johnson in the sum of one hundred dollars to appear at the <gap/> term <date when="1864">1864</date> of the city court of Louisville and answer to an Indictment. Johnson failed to appear as required and the bail bail bond was forfeited &amp; Judgment against Hoke, &amp; he has petitioned for a remission. Since said Judgment was rendered. is Hoke we have learned that sd Johnson, Enlisted in the U S Navy and a few days before sd cause was called for trial, the Gun Boat on which Johnson was doing service, was suddenly ordered away from Louisville &amp; Johnson with it. Since that time he has been absent; Johnson has sent letters to Mr Hoke stating his regret at not being able to appear &amp; stand his trial_ but could not leave duty on sd Boat, Under the circumstances of what we can clearly oppined we ask a remission of sd $100.</p>
+<p>Respectfully
+<lb/>W. G. Reasor city atto</p>
+<p>I concur with Mr Reasor Geo W. Johnston<pb/></p>
+<p>Louisville City Ct
+<lb/>vs
+<lb/>W. B. Hoke
+<lb/>Forfeiture
+<lb/>$300 -- 
+<lb/>Remtd
+<lb/><date when="1864-04-29">29<hi rend="sup">th</hi> Apl/64</date></p>
+  </body>
+ </text>
+</TEI>

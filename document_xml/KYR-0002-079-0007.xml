@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-079-0007"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Z. Wheat to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG14006</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>Enrolled Militia Records 1864 - 1865 ; Adair, Allen, Boyle, Daviess, Garrard, Owen, Pendleton, and Shelby counties</collection>
+      <idno>Flat Box 7, Folder 863-74 Marion County 1st Ky Militia, No of Enrolled Militia</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Shelbyville, Shelby County, Kentucky</placeName>
+    <date when="1863-10-12">12 October 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Shelbyville Ky <date when="1863-10-12">Oct. 12<hi rend="sup">th</hi> 1863</date>
+<lb/>His Excellency Gov<hi rend="sup">r</hi> Bramlette
+<lb/>Dear Sir</p>
+<p>In response to the request of the adjutant Gen<hi rend="underline"><hi rend="sup">l</hi></hi> of Ky., I write to recommend Tho<hi rend="underline"><hi rend="sup">s</hi></hi> B Cochran as a suitable person for Col in this County (Shelby)</p>
+<p>He served upward of one year in Boards Cavalry as Lieut Col. resigned because of bad health, his health is now restored and he will serve, his experience is worth a great deal. He is a ^good^ lawyer of this place, clear headed &amp; sound as a dollar. I begged him to accept the place. He consented to do so at my most urgent solicitation.</p>
+<p>I want none but loyal, brave sober men on guard, &amp; would not recomend any other sort to you for appointment.</p>
+<p>Yours truly
+<lb/>Z Wheat</p>
+<p>I concur in the above
+<lb/>R F George Capt.
+<lb/>Provost Marshall of Shelby County<pb/></p>
+<p>Shelby Coy Ky <date when="1863-10-12">Oct 12/63</date><figure type="hr"/>
+<lb/>Recm<hi rend="underline"><hi rend="sup">d</hi></hi>g from this Coy for Colonel of Militia <hi rend="underline">Tho</hi><hi rend="underline"><hi rend="sup">s</hi></hi><hi rend="underline"> B Cochran</hi> Colonel
+<lb/>Z Wheat
+<lb/>R H George
+<lb/>Pro Marshall</p>
+  </body>
+ </text>
+</TEI>

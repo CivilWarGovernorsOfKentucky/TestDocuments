@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0228"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Daniel H. Hughes et al. to James F. Robinson</title>
+    <title level="a" type="parallel">CWG8680</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Governor's Official Correspondence File, Petitions for Pardons, Remissions, and Respites, 1862-1863</collection>
+      <idno>R3-343 to R3-344</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Morganfield, Union County, Kentucky</placeName>
+    <date when="1863-02-03">3 February 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Morganfield Ky
+<lb/><date when="1863-02-03">Feby 3rd 1863</date>
+<lb/>To his Excellency the Honorable James F Robinson Governor of Ky -- </p>
+<p>Dear Sir -- At the <gap/> Term of the Union Circuit Court in the year <gap/> While the Hon Rufus K Williams was presiding Samuel C. Hughes a member of the Union Circuit Court Bar was ordered under arrest and required by the said court to execute bond in the sum of five hundred Dollars</p>
+<p>At the time said Hughes was arrested his entire reason was dethroned by intoxication; for a good many years before that he had by that strange infatuation unknown to all except those who have experienced it given himself entirely to the use of the destroying element </p>
+<p>A few days after the execution of said bond with his father James R Hughes as his surety while yet laboring under intoxication to an excessive extent he struck Judge Williams in or near the courthouse and his bond was taken as forfeited, process issued upon said bond but no judgement having even been rendered thereon the case is yet pending in the Union Circuit Court as will be shown by a copy of said bond &amp; the proceedings thereon accompanying this paper<pb/>
+<lb/>Soon after the forfeiture of the said bond, the said Samuel C Hughes married the girl with whom the love affair occurred which produced his intoxication, ever since which time he has been entirely sober, and has entirely abstained from the use of any kind of liquor and is now a worthy and respectable practitioner at the bar getting his full share of business attending to it well and entirely to the satisfaction of his clients, and in all his intercourse with the court and the bar has been as he always was when not influenced by liquor respectfully, courteous and dignified</p>
+<p>If any additional evidence of these facts is desired, we respectfully refer you to the Hon. R. K Williams of the court of appeals, R A Spalding member of the Lower House from this county &amp; W W Gardiner Senator from this District. In view of the whole facts of the case we as members of the Union Circuit Court Bar respectfully ask you to release him and his sureties from the payment of the said bond -- Mr. Hughes is a valuable member of this community, he is poor and his sureties are hard pressed &amp; nearly overtaken with their own debts</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Daniel H Hughes
+<lb/>John S. Geiger
+<lb/>Geo Huston
+<lb/><cb n="2"/>Wallis G. Hughes
+<lb/>Ben P Cissell
+<lb/>J. A. Spalding
+<lb/>S. B. Vance<pb/></p>
+<p><milestone unit="column" n="1"/>Union Cir Ct
+<lb/>Mr Hughes
+<lb/>Pettn to remit forfeited recogn
+<lb/>$500. } Forfeiture</p>
+<p>The <hi rend="str"><unclear/></hi> judgt on forfeited recognizance in this case is remitted</p>
+<p>J F Robinson
+<lb/>Sam<hi rend="underline"><hi rend="sup">l</hi></hi> C. Hughes
+<lb/>Iss <date when="1863-03-17">Mar 17<hi rend="underline"><hi rend="sup">th</hi></hi> 1863</date></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-022-0001"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">D. S. Goodloe, Hiram Shaw, and John B. Wilgus to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG11927</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>37th - 76th Regiments Enrolled Militia Primary Source Documents (1861-1866)</collection>
+      <idno>Box 80, Folder 862-91 FAYETTE COUNTY Correspondence 37th Rgt. Ky. Militia</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Lexington, Fayette County, Kentucky</placeName>
+    <date when="1865-07-24">24 July 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>EXECUTIVE COMMITTEE.<figure type="hr"/>
+<lb/>D. S. GOODLOE, <hi rend="italic">Chairman</hi>, Lexington
+<lb/>HIRAM SHAW, Lexington.
+<lb/>TUCKER WOODSON, Nicholasville.
+<lb/>J. P. JACKSON, Newport.
+<lb/>J. J. BRADFORD, Augusta.
+<lb/>ROB'T F. BAIRD, Louisville.
+<lb/>J. W. CALVERT, Louisville.
+<lb/>GEO. W. BLACKEY, Bowlinggreen.
+<lb/>THOS. Z. MORROW, Somerset. </p>
+<p>HEADQUARTERS
+<lb/>UNION EXECUTIVE COMMITTEE,
+<lb/><hi rend="italic">Lexington, Ky</hi>. <date when="1865-07-24">July 24 1865</date>.</p>
+<p>Hon Tho<hi rend="sup">s</hi> E Bramlett
+<lb/>Frankfort Kenty
+<lb/>My Dear Sir</p>
+<p>Capt Johnson has mustered into the state service Eighty four men -- <hi rend="underline">All for us</hi> -- He said they may be disbanded -- We hope you will continue them in sevice <hi rend="underline">at any rates untill after the election</hi> -- they are now in camp properly clothen. with garrison equippage</p>
+<p>Very Respectfully.
+<lb/>D. S. Goodloe
+<lb/>Hiram Shaw
+<lb/>Jno B Wilgus
+<lb/>Mustering office</p>
+  </body>
+ </text>
+</TEI>

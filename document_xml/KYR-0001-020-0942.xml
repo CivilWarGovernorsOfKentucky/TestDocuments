@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0942"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Thomas S. Bryan to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10410</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG19-492</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Hopkinsville, Christain County, Kentucky</placeName>
+    <date when="1861-03-26">26 March 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>THOS. S. BRYAN,
+<lb/>JOHN B. KNIGHT,
+<lb/>WM. B. MASON.</p>
+<p>BANKING OFFICE
+<lb/>OF
+<lb/>BRYAN &amp; CO.
+<lb/>Hopkinsville, Ky., <date when="1861-03-26">March 26<hi rend="sup">th</hi> 1861</date>
+<lb/>To his excellency B. Magoffin
+<lb/>Governor of Kentucky
+<lb/>Frankfort -- Dr sir</p>
+<p>A petition has been sent you in behalf of George Long a free black</p>
+<p>That petition was signed by our best citizens nearly all of whom feel that they have not done enough having more confidence in the statements of George than in Kintsler the German liquor seller who gave the testimony against him. It is known to many here that this Dutchman was moved by malice That he had frequently threatened George, believing that he had been the means of detecting him in selling liquor unlawfully to negroes. I have been told by two or three who were present at the examining court that his Testimony was entirely different before the circuit court</p>
+<p>Since the trial the Dutchman saw the feeling against him in town and offered to sign the petition but was indignantly refused by Georges former master.</p>
+<p>I have known George since a boy, have never known him to do a wrong. he is now in Jail His wife is sick and I feel a deep sympathy for him believing this sentence to be hard &amp; unjust I hope you will pardon him</p>
+<p>Respectfully your friend
+<lb/>Tho S. Bryan</p>
+  </body>
+ </text>
+</TEI>

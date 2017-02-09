@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-031-0074"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">J. J. Morrison to James F. Robinson</title>
+    <title level="a" type="parallel">CWG7814</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Appointments by the Governor, Civil Appointments, 1862-1863</collection>
+      <idno>R1-116</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Georgetown, Scott County, Kentucky</placeName>
+    <date when="1862-12-01">1 December 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Georgetown <date when="1862-12-01">Dec 1<hi rend="underline"><hi rend="sup">st</hi></hi> 1862.</date>
+<lb/>Dear Sir</p>
+<p>Mr John Branham in the White Sulphur District Scott Co. refuseS to accept the office of Justice of the Peace and Mr. Joel Ammerman in the Oxford District Scott Co. also refuses to accept. I herewith return to your Excellency their CommissionS, and would respectfully recommend the apointment of James Sconce (2) in the White Sulphur District and W. H. Salyers (7) in the Oxford District, and of the appointment of Doctr James Rankins in the Georgetown District in the place of C. Nichols who has departed this life.</p>
+<p>Very Respectfully.
+<lb/>J. J. Morrison Pr. J S,,C</p>
+<p>His Excellency
+<lb/>Jas H Robinson
+<lb/>Governor of the Commonwealth of Kentucky,
+<lb/>Frankfort<pb/></p>
+<p>Scott Co<figure type="hr"/>
+<lb/>J. P.
+<lb/>App<hi rend="underline"><hi rend="sup">d</hi></hi> Made <date when="1862-12-02">Dec<hi rend="underline"><hi rend="sup">r</hi></hi> 2. 1862</date></p>
+  </body>
+ </text>
+</TEI>

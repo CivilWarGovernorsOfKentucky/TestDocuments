@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1243"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Joyes to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10711</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG21-102 to MG21-103</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency Beriah Magoffin
+<lb/>Gov<hi rend="sup">r</hi> of Kentucky
+<lb/>Respected Sir</p>
+<p>Your petitioner Frederick Keck was tried in the city court of Louisville for cutting a man with a pen knife about 3 weeks ago, there was but one witness examined &amp; he was the party cut He stated that Keck &amp; he had been together for 2 or 3 hours ^late at night near 12 oclk^ drinking Keck had been turned out of a coffee house struck &amp; kicked by the keeper &amp; he told Keck that he had acted bravely &amp; cowardly in not resisting it this kind of conversation had been kept up for several squares perhaps half a mile when Keck told him that he nor any other should ever do so again with impunity &amp; advanced to the witness who pushed Keck against a fence or wall violently, a fight then ensued Keck was knocked down with a leaden loaded stick which was broken &amp; he had several severe wounds upon<pb/>
+<lb/>his head, the witness had a small cut upon his left arm near the elbow where Keck was down, the witness ran towards his home &amp; Keck was arrested upon the complaint of witness &amp; kept in jail 1 or 2 days before his case was enquired into, he is now in jail by the order of the court two of the Jury refused to render a virdict of guilty only upon the argument that all would forthwith sign a petition to y<hi rend="sup">r</hi> Excellency for full pardon &amp; they say that they have been deceived or no verdict should ever have been given</p>
+<p>I think this a meritorious case for the Executive interference in favor of Fred: Keck who is now in goa<hi rend="str">ai</hi>l I send the petition as signed by the jury that I could find with this with the greatest respect</p>
+<p>I am sir y<hi rend="sup">r</hi> obt Serv<hi rend="sup">t</hi>
+<lb/>John Joyes<pb/></p>
+<p>Fred Keck
+<lb/>Petition
+<lb/>To the Gov<hi rend="sup">r</hi> of Ky</p>
+<p>Remitted
+<lb/>B. M.</p>
+<p>Louisville City Ct
+<lb/>$50 &amp; 6 mo Imp<hi rend="sup">t</hi><figure type="hr"/>
+<lb/>Fred<hi rend="sup">k</hi> Keck</p>
+<p>Iss<hi rend="sup">d</hi> <date when="1861-07-18">July 18. 1861</date></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0504"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John M. Phipps to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG4623</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR9-301</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To Thomas E. Bramlett his excellency
+<lb/>Gov.. of the Commonwealth of Kentucky..</p>
+<p>Sir your humble petitioner John M. Phipps would represent to your honor that Sometime in the year <date when="1862">1862</date> he was arrested and taken before S. L. Prater a Justice of the peace for Magoffin County under a charge of Fornication and was fined the Sum of Ten dollars he also represents that he was arrested in the year <date when="1863">1863</date> and brought before A P. Cooper ^JP.^ under a charge of fornication and was fined the sum of Ten dollars which prossecutions was Malicious which fines has been replevied and the Execution's now in the hands of the sheriff of Magoffin County for collection unless restrained by your honor payment will be enforced Your petitioner further represents that he is a private Soldier in Co D, 45<hi rend="sup">th</hi> Reg<hi rend="sup">t</hi> Ky Vol<hi rend="sup">s</hi> and that his security is likely to have the fines to pay or is greatly harrassed <hi rend="str">of</hi> by the sheriff of said county on account of the circumstances surrounding this petitioner he would therefore ask your honor to remit said fines, that this petitioner is a poor man and incumbered with a large family</p>
+<p>John. M. Phipps<pb/></p>
+<p>the undersigned <hi rend="str">petitioners</hi> Subscribers Join in the prayer with the within named J.. M.. Phipps for the remission of his fines</p>
+<p>Soldiers Names in the 45th Reg<hi rend="sup">t</hi> Ky. Vol<hi rend="sup">s</hi>
+<lb/>A. P. Cooper Esqr..
+<lb/>J. W. Helton
+<lb/>Allen Daulton
+<lb/>Constantine Conley
+<lb/>F. N. Literal
+<lb/>Henry Harrison
+<lb/>Rolein litteal
+<lb/>Miles lacy
+<lb/>Robert Meade
+<lb/>Saml Williams
+<lb/>Green Puckett
+<lb/>William Cooper
+<lb/>Edward Adams</p>
+<p>Magoffin Co
+<lb/>vs
+<lb/>J. M. Phipps
+<lb/>2 Judgts
+<lb/>Fornication
+<lb/>Remitted
+<lb/><date when="1864-02-27">27<hi rend="sup">th</hi> Feby 1864</date></p>
+<p>Remit except costs &amp; fees
+<lb/>Tho E Bramlette</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0446"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">James S. Gibbs to Unknown</title>
+    <title level="a" type="parallel">CWG2111</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Appointments by the Governor, Civil Appointments, 1863-1867</collection>
+      <idno>BR2-379 to BR2-380</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Buffalo, Erie County, New York</placeName>
+    <date when="1865-05-27">27 May 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Buffalo N.Y. <date when="1865-05-27">May 27, 1865</date>,
+<lb/>Secretary of State,
+<lb/>Frankfort, Ky.
+<lb/>Dear Sir,</p>
+<p>Some years ago I was appointed Commissioner of Deeds for Kentucky; there being little to do in that office. I did not apply for a renewal of appointment at the end of the term; recently I have been applied to, frequently, to take acknowledgements for your state, and the relations of business between this State and Kentucky seem to promise much for the future; I would be glad to receive the appointment again from your Governor.</p>
+<p>Enclosed I send $5, the fee I was changed under my former appointment. and if agreeable please send me a new appointment</p>
+<p>I am Truly &amp;c,
+<lb/>James S. Gibbs.<pb/></p>
+<p>Comr Deeds
+<lb/>New York
+<lb/>Jas S. Gibbs
+<lb/>appt<hi rend="sup">d</hi>
+<lb/><date when="1865-05-30">30<hi rend="sup">th</hi> May 1865</date></p>
+  </body>
+ </text>
+</TEI>

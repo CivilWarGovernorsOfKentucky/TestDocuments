@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1895"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Richard H. Stanton to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG11363</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Bradley Strait</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG23-319 to MG23-320</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Greenupsburg, Greenup County, Kentucky</placeName>
+    <date when="1862-05-15">15 May 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Greenupsburg, Greenup Co, Ky,
+<lb/><date when="1862-05-15">May 15th 1862,</date>
+<lb/>My dear Governor,</p>
+<p>At the present term of the Greenup Circuit Court, a judgment was rendered against our friends Judge James M Rice, George M Brown and J Davidson, Eqrs, upon a forfeited recognizance for the appearance of I. B. Watkins of <hi rend="str">Tennessee</hi> ^Missouri^, for whom they had been sureties, upon a charge of obtaining money upon false pretenses, The disturbances in the relations of the states, and the war, no doubt, prevented Watkins from making his appearance, but this could not be shown, and judgment was rendered against them, I think under the circumstances, that the judgement ought to be remitted, and therefore recommend that it be done. There is great reason to believe that the persecution against Watkins, was the result of vindictiveness, and not becuase of any actual fraud committed by him, His persecutor was a man of bad character and not wholly entitled to credit, and if Watkins had appeared and been tried, would no doubt have been acquitted,</p>
+<p>Truly your friend, 
+<lb/>R H Stanton</p>
+<p><note place="left margin">The prosecuting witness was not here at the present term, nor is <hi rend="str"><unclear/></hi> there any prospect of his being here hereafter, I would necessarily have had to dismiss the case, 
+<lb/>R. H. S.</note></p>
+<p>Hon B. Magoffin<pb/></p>
+<p>Catlettsburg <date when="1862-05-22">May 22/62.</date>
+<lb/>Dear Govr. </p>
+<p>I feel under obligation for your kind notice, of the petition, sent you, in favor of myself &amp;c. as sureties of I B. R. Watkins, the respite did not reach, until, after judgement; was <hi rend="underline">rendered</hi>. Stanton as you will see, asks, that the judgement, be remitted; and I hope you will without delay remit the judgement; please look at former petition on subject, the am<hi rend="underline"><hi rend="sup">t</hi></hi> of judgement, $250.00 </p>
+<p>Very Respectully 
+<lb/>Ja<hi rend="sup">s</hi>. M. Rice<pb/></p>
+<p>Greenup Cir Ct
+<lb/>$250 } For Recog
+<lb/>I. M. Rice &amp; others 
+<lb/>Iss <date when="1862-05-26">May 26 1862</date></p>
+<p>Remitted
+<lb/>B. M.</p>
+  </body>
+ </text>
+</TEI>

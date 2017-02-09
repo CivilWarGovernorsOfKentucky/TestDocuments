@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1956"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">S. B. Hanna et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6593</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR14-86 to BR14-87</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Johnson County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Honor, Thos E. Bramlett
+<lb/>Governor of Kentucky</p>
+<p>Your Petitioners, the undersigned, citizens of the County of Johnson and State of Kentucky Respectfully pray.</p>
+<p>That Your Honor will pardon our follow citizen <hi rend="underline">John</hi> <hi rend="underline">Castle</hi> of the accused offence of Grand Larceny of which he stands charged in our county since our <date when="1865-06">June term 1865,</date></p>
+<p>We respectfully desire to give some of the reasons why we believe Executive clemency should be extended to him</p>
+<p>1<hi rend="underline"><hi rend="sup">st</hi></hi> That he is not naturally endowed with an intelect of medium development</p>
+<p>2d. That he is a peacable, harmless, industrous quiet citizen,</p>
+<p>3d, That he has a wife and two small children dependent upon his labor for support, he being a poor man,</p>
+<p>4<hi rend="sup">th</hi> That the offence is charged to have been committed during the late war when civil law was not being enforced and of no effect in the country,</p>
+<p>5<hi rend="sup">th</hi> That ill feelings have for<pb/>
+<lb/>some time existed between the accusers and the family and some of the connections of the accused</p>
+<p>6<hi rend="underline"><hi rend="sup">th</hi></hi> That we do not believe the accused ever carried a way the Blacksmiths vice or is guilty</p>
+<p>Wherefore we pray that he be pardoned of the accusation and so we will ever pray</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>S. B. Hanna
+<lb/>David J Smith
+<lb/>Alford Hipleton
+<lb/>John W, Castle
+<lb/>Edman justice
+<lb/>Daniel Olphrey clk
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> N. Randolph
+<lb/>Henry Preston
+<lb/>D. W. Taylor
+<lb/>A. J. Yaughan
+<lb/><cb n="2"/>Jahew Collins
+<lb/>John H. Dixon
+<lb/>Eli Stapleton
+<lb/><hi rend="str">J. F Stewar</hi>
+<lb/>John Preston
+<lb/>H. F. Strong
+<lb/>A W Nickell S. L C
+<lb/>C C Price J P J C
+<lb/>W J Williams
+<lb/>S P Hagers<milestone unit="column" n="1"/><pb/></p>
+<p><hi rend="underline">Petition</hi></p>
+  </body>
+ </text>
+</TEI>

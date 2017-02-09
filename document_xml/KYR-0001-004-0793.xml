@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0793"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">James Broughton to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG4912</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR10-224 to BR10-225</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1864-05-12">12 May 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency the Governor of the Commonwealth of Kentucky</p>
+<p>The undersigned petitioner states that at the <date when="1864-03">March Term 1864</date> of the Laurel Circuit Court, a Judgment was rendered against him for twenty dollars for Retaling Liquors. He states that he is a very poor man and has a family who are dependant upon his labor for a support that he has been verry unfortunate since the commencement of the rebellion having been robbed by the rebels of all his property not even sparing his and his family clothing nearly all of which was taken that he is unable to pay the fine without subjecting himself and family to hardship, and great inconveinence </p>
+<p>He therefore prays your Excillency to remit said fine</p>
+<p>James Braughton</p>
+<p>James Braughton says the statements in the foregoing Petition are true</p>
+<p>James Broughton</p>
+<p>Sworn to before me by James Braughton <date when="1864-05-12">12<hi rend="sup">th</hi> May 1864</date></p>
+<p>C B Davis clk<pb/></p>
+<p>The undersigned citizens of Laurel County are well acquainted with James Braughton we believe the statement in the foregoing petition are true and would Respectfully ask your Excellency to remit said fine</p>
+<p>C B Davis
+<lb/>Granville Pearl
+<lb/>Wm T. Moren
+<lb/>Tho<hi rend="sup">s</hi>. J. Canifax
+<lb/>S C Jackson<pb/></p>
+<p>Laurel Circuit Court
+<lb/>VS
+<lb/>James Braughton
+<lb/>Refused</p>
+  </body>
+ </text>
+</TEI>

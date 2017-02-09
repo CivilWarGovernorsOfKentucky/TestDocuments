@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2296"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">M. Mullins to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6933</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR15-174</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Falmouth, Pendleton County, Kentucky</placeName>
+    <date when="1865-08-12">12 August 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Falmouth Ky
+<lb/><date when="1865-08-12">A<hi rend="str">p</hi>ugst 12 1865</date>
+<lb/>To His Excellency
+<lb/>Tho<hi rend="sup">s</hi> E Bramlette
+<lb/>Govr of Ky</p>
+<p>Enclosed is a Petition of I. S M<hi rend="sup">c</hi>Gill asking to be relieved from a fine. I would state that I am personally acquainted with said ^M<hi rend="sup">c</hi>Gill^ Know him to be a very poor man with a large family, and believe that in his case it would be write to relieve him from the fine. He has a son Just returned from the army who belonged to the 18th Ky who will have to pay the fine, if not remitted, and I am certain that the offence committed by said M<hi rend="sup">c</hi>Gill will not be repeated.</p>
+<p>very Respectfully
+<lb/>Your obt Servt
+<lb/><hi rend="underline">M Mullins</hi></p>
+  </body>
+ </text>
+</TEI>

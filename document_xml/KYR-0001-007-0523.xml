@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0523"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">W. M. Spencer to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG2188</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Appointments by the Governor, Civil Appointments, 1863-1867</collection>
+      <idno>BR2-487</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Lebanon, Marion County, Kentucky</placeName>
+    <date when="1865-09-02">2 September 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>OFFICIAL.
+<lb/>ASSESSOR'S OFFICE,
+<lb/>United States Internal Revenue,
+<lb/>Second District of Kentucky,
+<lb/>Lebanon, Ky., <date when="1865-09-02">2nd Septr 1865</date>
+<lb/>Dear Govenor,</p>
+<p>I desire very much to have Mr. E. C. Webb of this place appointed a Notary Public for Marion County. Mr Webb is a clerk in my office &amp; it being absolutely necessary for the prosecution of my work that I have a Notary constantly at hand for the discharge of certain duties, it is not desired that he interfere with the business of any other Notary, but simply to administer such oaths &amp; make such protests as are necessary for our office. If you will confer upon ^me^ this favour I shall feel under great obligation to you.</p>
+<p>I am Governor very truly
+<lb/>Your obdt Servt.
+<lb/>W. M. Spencer
+<lb/>U. S. Assessor
+<lb/>2nd Dist Ky.</p>
+<p>His Excellency
+<lb/>Governor Tho. E. Bramlette
+<lb/>Frankfort, Ky<pb/></p>
+<p>Notary Public
+<lb/>Marion Co
+<lb/>E. C. Webb
+<lb/>appt<hi rend="sup">d</hi> <date when="1865-09-04">4 Sept/65</date></p>
+  </body>
+ </text>
+</TEI>

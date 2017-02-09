@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-2333"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">B. S. Lamar et al., Note</title>
+    <title level="a" type="parallel">CWG9409</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG25-98</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Note</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><milestone unit="column" n="2"/><cb n="1"/>B S. Lamar
+<lb/>W. G Driskell
+<lb/>H B Greathouse
+<lb/>Thomas White
+<lb/>W S <unclear>pirkins</unclear>
+<lb/>P F. Brenner
+<lb/>Samuel Colbert
+<lb/>G. Dulin
+<lb/>B. Hoppes
+<lb/>W, R, Moore
+<lb/>J M. Given
+<lb/>G. W. Pell
+<lb/>Levi Smith
+<lb/>B F Monarch
+<lb/>Peter, <unclear>Schumaker</unclear>
+<lb/>Alfred Mahan
+<lb/>A W Qualls
+<lb/>B. L. Long
+<lb/>Joseph Harp
+<lb/>H H Ellis
+<lb/>T C, William
+<lb/>W<hi rend="sup">m</hi> M Blincoe
+<lb/>James, F, William
+<lb/>Thomas Ogden
+<lb/>C, W, Higdon
+<lb/>J B Knox, M. D. 
+<lb/>John Miller
+<lb/><cb n="2"/>W T Prentis
+<lb/>G D Howe
+<lb/>William Dodge
+<lb/>E. Chrisley
+<lb/>E B Prentis
+<lb/>S. B. Pell
+<lb/>G<hi rend="sup">eo</hi> T. Gaffert
+<lb/>Reuben N Barker
+<lb/>E Hesselton
+<lb/>P. W. Inman
+<lb/>R C Prentis
+<lb/>M. M. Morton
+<lb/>M. H. Johnson
+<lb/>Geo. Smith
+<lb/>Tom. Blincoe
+<lb/>A. C. Howe
+<lb/>D. B. Reid
+<lb/>James. Fuller
+<lb/>H. C. Brown
+<lb/><unclear>S. W. Miller</unclear>
+<lb/>W, S, Ellis
+<lb/>Wm Thomas
+<lb/>D C Colbert Jr
+<lb/>Hehn Lowry
+<lb/>Dr. J R Jarboe
+<lb/>Z. M. Blackford</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-031-0126"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John P. Jackson, affidavit</title>
+    <title level="a" type="parallel">CWG7866</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Appointments by the Governor, Civil Appointments, 1862-1863</collection>
+      <idno>R1-176</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Cincinnati, Hamilton County, Ohio</placeName>
+    <date when="1863-01-20">20 January 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>State of Ohio.
+<lb/>Hamilton County.
+<lb/>City of Cincinnati. } ss.</p>
+<p>Be it remembered that on this <date when="1863-01-20">20th day of January A. D. 1863.</date> before me the subscriber a Notary Public in and for said County authorized by law to administer oaths personally came John P. Jackson who before me upon oath declares that he will well and truly execute and perform all and singular the duties appertaining to his office and station as <hi rend="underline">Commissioner of Deeds</hi> for the State of Kentucky, within the State of Ohio, by virtue of a Commission therefor issued by his Excellency J. F. Robinson, Governor Commonwealth of Kentucky to said Jackson of date <date when="1863-01-14">January. 14, 1863.</date></p>
+<p>J. P. Jackson.</p>
+<p>Sworn to before me and subscribed in my presence by J. P. Jackson this <date when="1863-01-20">January. 20, 1863.</date></p>
+<p>Herbert Jenney
+<lb/>Notary Public
+<lb/>Ham Co Ohio</p>
+<p><figure type="seal"><ab>NOTARIAL SEAL.
+<lb/>HAMILTON CO, O.</ab></figure><pb/></p>
+<p>J. P. Jackson -- 
+<lb/>Com'r Deeds in Ohio for Kentucky<figure type="hr"/>
+<lb/>Oath of Office<figure type="hr"/>
+<lb/>Ohio<figure type="hr"/>
+<lb/>Filed <date when="1863-01-21">Jany 21, 1863</date></p>
+  </body>
+ </text>
+</TEI>

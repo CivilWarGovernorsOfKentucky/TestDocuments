@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-2217"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">William Munday et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG9293</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG24-347</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>The undersigned citizens of Clark County Kentucky, respectfully represent to your Excellency that John Rankins confessed a Judgment for $20<hi rend="underline"><hi rend="sup">00</hi></hi> and costs in an indictment, at the <date when="1860-05">May Term 1860</date>,<hi rend="underline"> for gaming</hi>, in which game Geo Gossey, W<hi rend="underline"><hi rend="sup">m</hi></hi> T White and James White participated, and which occurred 3 years prior to the indictment, We would respectfully beg of your Excellency to remit his fine with his associates Goosey. And the Whites, They are all young men of great cleverness poor, but highly respectable, We would not ask the interposition of Executive clemency, if we did not think they deserved it and the public good not injured thereby.</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>William Munday
+<lb/>James Munday
+<lb/><cb n="2"/> O. P. Evans
+<lb/>A N Bush
+<lb/>Thos Gaines
+<lb/>Geo M Jackson
+<lb/>S. W. Brock
+<lb/>David Brown
+<lb/>W. W. Storm
+<lb/>S H Cochran
+<lb/>John P Hukill</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0253"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Lewis L. Sullivan to James F. Robinson</title>
+    <title level="a" type="parallel">CWG8705</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Governor's Official Correspondence File, Petitions for Pardons, Remissions, and Respites, 1862-1863</collection>
+      <idno>R3-376 to R3-377</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Franklin County, Kentucky</placeName>
+    <date when="1863-02-17">17 February 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency Gov Robinson Governor of Kentucky.</p>
+<p>Your Petitioner would humbly represent to your Excellency that he has been fined the sum of sixty dollars for the offense of keeping a Tippling House at the <date when="1863-02">February</date> Term of the Circuit Court for Franklin County held in the City of Frankfort, commencing <date when="1863-02-16">Feb 16<hi rend="underline"><hi rend="sup">th</hi></hi> 1863</date>, Judge Draue presiding -- </p>
+<p>Your Petitioner would represent that he plead guilty to the Indictment since he knew it was a <hi rend="underline">malicious</hi> prosecution and he did not desire the case to be unfolded to the public from a sense of delicacy; for he further states that this malicious prosecution was instituted against him by some of his relatives and rather than have one expose the whole matter he plead guilty -- Your Petitioner would further state that he is a poor man with a large family of children to support and that he could not pay this fine without depriving his family of the comforts which he owes them -- </p>
+<p>Your Petitioner prays the clemency of your Excellency in this case by the remittal of this fine</p>
+<p>Lewis L Sullivan
+<lb/>Claimant <date when="1863-02-17">Feby 17. 1863</date>
+<lb/>W<hi rend="sup">m</hi> Franklin c f b c<pb/></p>
+<p>Franklin Cir Ct
+<lb/>$60 } Tipling
+<lb/>Remitted except five dollars
+<lb/><hi rend="underline">J F Robinson</hi>
+<lb/>L. L. Sullivan
+<lb/>Iss<hi rend="sup">d</hi> <date when="1863-02-18">Feby 18. 1863</date></p>
+  </body>
+ </text>
+</TEI>

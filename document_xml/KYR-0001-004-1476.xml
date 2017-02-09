@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1476"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Smith to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6113</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR12-291 to BR12-292</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Bristow, Warren County, Kentucky</placeName>
+    <date when="1865-01-17">17 January 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Bristow Ky. <date when="1865-01-17">Jan 17 1865</date>
+<lb/>Gov Bramblette</p>
+<p>I learn that at the <date when="1865-09">Sept term of Inst</date> an inditement was found against Mr E K Owsly for killing hogs at Cave City Hotel during last winter and further learn that Philip Wilder was the Principal witness in the Case I can state that I was living with E K Owsly a Portion of last ^(winter)^ and living there when I heard Mr Owsly direct Philip Wilder that he wanted him Wilder who was stewart at the Hotel to kill his Owslys hogs that were Runing around the Hotel and I heard Mr Owsly Caution wilder to be Particular and not to kill any <hi rend="str"><unclear/></hi> <hi rend="str"><unclear/></hi> but our own<pb/>
+<lb/>hogs as there was some hogs belonging to other Parties living with his</p>
+<p>and I further know that Mr Owsly discharged said wilder from his employ and since that time I know that wilder feeling have not been good toward Mr owsly indeed they have not been on speaking terms</p>
+<p>and further from my knowledge and acquntace with Mr owsly I am satisfied that he would not have contracted the killing of any hogs but his own</p>
+<p>Wilder attended to the Dinning room and Mr owsly was source of help and attended to office and if any hogs were killed<pb/>
+<lb/>I am satisfied they were killed without Mr Owsly knowledge or consent</p>
+<p>John Smith</p>
+<p>I know Mr Smith to be an honest and truthful man</p>
+<p>W F Evans
+<lb/><date when="1865-01-23">Jay 23<hi rend="sup">d</hi> 1865</date></p>
+  </body>
+ </text>
+</TEI>

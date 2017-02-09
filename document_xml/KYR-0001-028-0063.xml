@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-028-0063"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Curran Pope to James F. Robinson</title>
+    <title level="a" type="parallel">CWG7718</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Appointments by the Governor, Military Appointments, 1862-1863</collection>
+      <idno>R2-202 to R2-202</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Perryville, Boyle County, Kentucky</placeName>
+    <date when="1862-10-11">11 October 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Battle Field Near Perryville Ky
+<lb/><date when="1862-10-11">Oct. 11. 1862.</date>
+<lb/>His Excellency Gov Robinson</p>
+<p>The following appointments are recommended to be made in the 15 Rg<hi rend="sup">t</hi> Ky Vols Capt. M. C. Taylor Co A to be Lt. Col Vice Geo. P. Jouett Killed, Capt. J. R. Snider, to be Major vice W. P. Campbell Killed 2<hi rend="sup">d</hi> Lt F. Hinlock to be Capt. of Co. A. Vice M. C. Taylor promoted, Sgt. Henry M. Lyle to be 1<hi rend="sup">st</hi> Lieut of Co A Vice Lt. M<hi rend="sup">c</hi>Grath killed Sgt. ^J. P. L^ Artherton to be 2<hi rend="sup">d</hi> Lt. vice F. A. Winlock promoted. L<hi rend="underline"><hi rend="sup">t</hi></hi> W. H. Harrison Co. B. to be Capt. vice J. R. Snider to be promoted 2<hi rend="underline"><hi rend="sup">d</hi></hi> Lt. Ja<hi rend="sup">s</hi>. Wesley Gray to be 1<hi rend="sup">st</hi>. Lt. vice. W. H. Harrison to be promoted Rich<hi rend="sup">d</hi>. Foster to be 2<hi rend="underline"><hi rend="sup">d</hi></hi> Lieut vice Ja<hi rend="sup">s</hi>, Wesley Gray to be promoted</p>
+<p>Very Respectfully
+<lb/>Your Obdt Srvt
+<lb/>C. Pope
+<lb/>Col. 15<hi rend="sup">th</hi> Reg<hi rend="sup">t</hi> Ky Vols<pb/></p>
+<p><figure type="postmark"><listPlace><place><placeName>Cincinn<unclear>ti</unclear> <date when="--10">Oct 1</date><unclear/></placeName></place></listPlace></figure>
+<lb/>Gov. Robinson
+<lb/>Louisville
+<lb/>Ky</p>
+  </body>
+ </text>
+</TEI>

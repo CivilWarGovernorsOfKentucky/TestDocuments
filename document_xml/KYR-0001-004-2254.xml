@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2254"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John H. Peck, Affidavit</title>
+    <title level="a" type="parallel">CWG6891</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR15-86 to BR15-87</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Smithland, Livingston County, Kentucky</placeName>
+    <date when="1864-08-20">20 August 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Commonwealth of Ky. Plff
+<lb/>Vs } Affidavit
+<lb/>Patrick Spielman Deft</p>
+<p>The affiant Major John Peck states that he is in, the Military Service of the U. S. of America and is at present Commanding, the Post of Smithland Ky And upon taking Command of said Post he ordered all the Lewd women inhabiting the town to be arrested and brought before him Amongst the number was Mrs. A. E. Wilburn upon investigating the matter he ascertained her to be a woman of ill repute. and acknowledged herself openly that she was a lewd woman and such being the case she was ordered out of the lines.</p>
+<p>John H. Peck
+<lb/>Major 137 Reg Ill Vol Infty
+<lb/>Comd<hi rend="sup">g</hi> Post
+<lb/>Smithland Ky</p>
+<p>Subscribed &amp; Sworn to before me by John H Peck <hi rend="str">before m</hi>e this <date when="1864-08-20">20<hi rend="sup">th</hi> day of Aug 1864</date></p>
+<p>W Beverly J P</p>
+  </body>
+ </text>
+</TEI>

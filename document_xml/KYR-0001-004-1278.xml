@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1278"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">W. H. Harness to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG5915</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR11-465</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Danville, Boyle County, Kentucky</placeName>
+    <date when="1864-10-04">4 October 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Danville <date when="1864-10-04">4 Oct 1864</date>
+<lb/>To his Excy
+<lb/>Thos E Bramlette
+<lb/>Governor &amp;c
+<lb/>Frankfort Ky</p>
+<p>The undersigned would respectfully petition your excellency for the remission of a fine of twenty Dollars imposed on him under the following circumstances</p>
+<p>He &amp; his partner a young gentleman named Pendleton had made &amp; registered their application with the Federal authorities to obtain the proper licence to sell spirituous liquors, ^in Boyle County^ and supposing that this gave them the license ^&amp; one of^ them did sell to one John Simpson ^a drink^ for which they were arrested tried and yr petitioner was fined $20. The undersigned petitioner had no purpose to violate the law &amp; did not know or believe he was violating law -- as he supposed his application for Federal licence gave him the right to sell -- he respectfully prays the remission of the fine save costs &amp; attos fee which he has paid.</p>
+<p>W. H, Harness</p>
+<p>I the partner of Harness concur in his statement &amp; petition T. J. S. Pendleton<pb/></p>
+<p>I assessed the fine &amp; concur in the within statements</p>
+<p>T. P. Young.</p>
+<p>I concur in the petition</p>
+<p>J F Bell<pb/></p>
+<p>Boyle Cir Ct
+<lb/>vs
+<lb/>W H. Harness
+<lb/>$20.
+<lb/>Remitted
+<lb/><date when="1864-12-06">6<hi rend="sup">th</hi> Dec/64</date></p>
+  </body>
+ </text>
+</TEI>

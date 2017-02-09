@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2232"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Andrew W. Ferguson to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6869</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR15-50</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Taylor County, Kentucky</placeName>
+    <date when="1865-08-08">8 August 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Taylor County Ky,
+<lb/><date when="1865-08-08">August the 8<hi rend="underline"><hi rend="sup">th</hi></hi> 1865</date>
+<lb/>To his Excelency, Thomas. E. Bramlette Govener of Ky Sur I disier to say to you that I have bin aquanted with Milton, B, Cox who is now in the State prisen of KY ever since his burth he was a remarkble Study youth and was destitute of all wicked habits I never new a Stane on his Carector up to the date of the Charge that he is prisin for now wee the union people of this Country much doubt his guilt in that case and wee beleave that if hit had not bin for pregidest a ganst him owing to him bing a unconditional union man that we beleave that he wold have bin at liberty as a free man to day his four parancs allway Stud as fair as to Truth and verasity as any people in the Country whare they lived as I have new them ever Since my Childhood</p>
+<p>Beleave me to be your umbl Survent
+<lb/>,Andrew ,W, Ferguson</p>
+  </body>
+ </text>
+</TEI>

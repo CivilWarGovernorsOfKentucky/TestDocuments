@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2876"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">J. A. Moore et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7513</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR17-179 to BR17-180</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Owen County, Kentucky</placeName>
+    <date when="1865-12-27">27 December 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency Tho<hi rend="sup">s</hi> E Bramlette
+<lb/>Governor of the State of Kentucky</p>
+<p>Your petitioners citizens of Owen County Ky would respectfully represent to your <hi rend="str">e</hi>Excellncy that on the <gap/> day of <date when="1865-11">November 1865</date> a Judgment was rendered in the Owen Circuit Court in favor of the Commonwealth of Kentucky
+<lb/>against
+<lb/>Tho A Berryman and J A Duncan for the Sum of Five Hundred dollars and costs upon a forfeited recognizance acknowledged by the said Court at a former term of said Court as the sureties of N G Walter who was under arrst charged with hourse stealing -- </p>
+<p>Your petitioners state that the defendant Walter appeared in Court on the next day after the recognizance had been forfeited -- but the cause had then been continued and was not tried -- </p>
+<p>Under all the circumstances it would be a great hardship on Messrs Berryman and Duncan to have this money to pay Walter if living is a very poor man and can never be able to repay<pb/>
+<lb/>them</p>
+<p>Your petitioners therefore most respectfully pray your excellency that said Judgment be remitted and they will ever pray &amp;c</p>
+<p><date when="1865-12-27">December 27<hi rend="sup">th</hi> 1865</date></p>
+<p><milestone unit="column" n="2"/><cb n="1"/>J, A, Moore
+<lb/>D S for owen Co
+<lb/>J W Theobald
+<lb/>Robert Garvey
+<lb/>W, Seal
+<lb/>W P Emerson
+<lb/>J S M<hi rend="underline"><hi rend="sup">c</hi></hi>pherron
+<lb/>John <unclear>Shorter</unclear>
+<lb/>Geo. S. Low Master Comr. of Owen Ct. Courts
+<lb/>J. D. Lillard
+<lb/>W H Sandford clk
+<lb/>Owen Circuit ct
+<lb/><cb n="2"/>William. P. Bacon
+<lb/>P. H. Campbell
+<lb/>J W Harmon
+<lb/>John. M. Sutor
+<lb/>Geo. C. Roberts
+<lb/>W<hi rend="sup">m</hi> Hicks Jailor
+<lb/>P. H Smith
+<lb/>David Conden, <unclear>M, T, O</unclear>
+<lb/>W<hi rend="sup">m</hi> M<hi rend="sup">c</hi>Hatton
+<lb/>H. G. Smith
+<lb/>C H Duvall
+<lb/>A Cobb
+<lb/>A, J Mason
+<lb/>F. B Agee
+<lb/>O Orr
+<lb/>S S Thornton
+<lb/>J W Waldrop
+<lb/>G F Waldrop
+<lb/>R T Johnson
+<lb/>J P Ford
+<lb/>R D Kemper
+<lb/>A J Johnson 
+<lb/>Jams Stonstreet
+<lb/>Isaac W Rees
+<lb/>Benj D Kemper<pb/></p>
+<p>Owen Cir Ct
+<lb/>vs
+<lb/>Tho<hi rend="sup">s</hi> A. Berryman &amp; J A Duncan
+<lb/>for $500,
+<lb/>Forft Recog
+<lb/>Remitted
+<lb/><date when="1865-01-03">3<hi rend="sup">d</hi> Jany 1865</date></p>
+  </body>
+ </text>
+</TEI>

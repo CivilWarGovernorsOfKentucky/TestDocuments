@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1074"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">R. Frank Harrison et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10542</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG20-172</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excy Gov'r Magoffin
+<lb/><hi rend="str">P. U Major Esq</hi>
+<lb/>Frankfort Ky
+<lb/>Dear Sir</p>
+<p>At the last term of the Carroll Circuit Court our fellow citizen Mr W<hi rend="sup">m</hi> Gardner was fined $50<hi rend="underline"><hi rend="sup">00</hi></hi> for selling whiskey to a miner, Mr Gardner did not know at that time that there existed a Law of the kind, and knowing Mr G. to be a Lawabiding man we are satisfied that at the time he was not aware of violating the Law. We therefore would respectfully solicit you to use your influence with his excellency the Govenor to have the fine remitted,</p>
+<p>Respectfully
+<lb/>R. Frank Harrison
+<lb/>Lewis Oneal
+<lb/>R J Colins
+<lb/>W<hi rend="sup">m</hi> Haydon
+<lb/>W<hi rend="sup">m</hi> Cline
+<lb/>W N Van Pelt
+<lb/>R B Yate
+<lb/>C M<hi rend="sup">c</hi>Crackin
+<lb/><hi rend="underline">P. U. Major Comths Atty</hi><pb/></p>
+<p>Carroll Cir. Ct
+<lb/>Respite 12 Mo
+<lb/>B, M
+<lb/>$50 } Whiskey
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Gardner
+<lb/>Iss<hi rend="sup">d</hi> <date when="1861-05-17">May 17 1861</date></p>
+  </body>
+ </text>
+</TEI>

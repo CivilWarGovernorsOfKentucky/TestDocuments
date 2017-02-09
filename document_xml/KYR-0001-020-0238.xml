@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0238"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">B. N. Dawson et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG9706</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG17-204</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Princeton, Caldwell County, Kentucky</placeName>
+    <date when="1860-12-17">17 December 1860</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency the Governor of Kentucky</p>
+<p>The undersigned would respectfully State to Your Honour that at the <date when="1858-09">Septr. Term 1858</date> of the Caldwell Circuit Court a Judgment was rendered against Mason M<hi rend="sup">c</hi>Dowel for $7<hi rend="str">0</hi>5.00 ^(Seventy five dollars)^ for carrying concealed weapons -- He was a Youth, son of A. R. M<hi rend="sup">c</hi>Dowel a very worthy but poor citizen of our county, who has recently had to pay the said fine for his Son Mason, having replived the same heretofore to keep him from going to Jail -- In view of the great hardship on A. R. M<hi rend="sup">c</hi>Dowel, (his son having left the state) The undersigned would respectfully ask the interposition of Executive clemency in his behalf, &amp; that Your Excellency would order the restoration of the same to him except officers fees &amp;c.</p>
+<p>Princeton Ky <date when="1860-12-17">Decr. 17<hi rend="sup">th</hi> 1860</date></p>
+<p><milestone unit="column" n="2"/><cb n="1"/>B,, N, Dawson
+<lb/>Ja<hi rend="sup">s</hi> H Leech
+<lb/>Jas A Johnson
+<lb/>M H, Pickering
+<lb/>Abram Dunning
+<lb/>G. W. Pickering
+<lb/>James Hawkins
+<lb/>Bryant Nichols
+<lb/>Al M<hi rend="sup">c</hi>Goodwin
+<lb/>R D Johnson
+<lb/>T J Greer
+<lb/>D. M <unclear/>
+<lb/><cb n="2"/>E. P. Watkins
+<lb/>W. R. Gray
+<lb/>F M Jonas
+<lb/>W. H. Calvert
+<lb/>James S. Lowry
+<lb/>James C. Barnes<pb/>
+<lb/><milestone unit="column" n="1"/><unclear/><unclear/> Goodwin
+<lb/>W W Williams
+<lb/>Jas M Perkins
+<lb/>D M<hi rend="sup">c</hi>griger
+<lb/>Tho<hi rend="sup">s</hi> S. Johnson<pb/></p>
+<p>Rejected
+<lb/>B. M</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-022-0002"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">G. M. Witten to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG11928</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>37th - 76th Regiments Enrolled Militia Primary Source Documents (1861-1866)</collection>
+      <idno>Box 80, Folder 861-66 FLOYD COUNTY Elected Officers 38th Rgt. Ky. Militia</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Prestonsburg, Floyd County, Kentucky</placeName>
+    <date when="1861-05-29">29 May 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><note place="header"><hi rend="underline">Floyd</hi></note>
+<lb/>Prestonsburg Ky
+<lb/><date when="1861-05-29">May 29 1861</date>
+<lb/>Hon: Beriah Magoffin-
+<lb/>Dear Sir:</p>
+<p>A company of "State guard" has been formed in this county, and the following gentlemen were elected offucers of said company:</p>
+<p>Alexander L Martin Captain
+<lb/>Edwin Trimble 1<hi rend="sup">st</hi> L<hi rend="underline"><hi rend="sup">t</hi></hi>
+<lb/>Robert S Friend 2<hi rend="sup">nd</hi> Lt
+<lb/>Alexander S Hamilton 3<hi rend="sup">d</hi> Lt</p>
+<p>Your early attention in forwarding the comisssions is desirer -- </p>
+<p>Yours &amp;<hi rend="sup">c</hi>
+<lb/>G M Witten
+<lb/>Col Enrolled Militia. Floyd Co<pb/></p>
+<p>Floyd Coy -- 
+<lb/>State-guards -- 
+<lb/>G M Witten
+<lb/>Captain -- </p>
+<p>State Guard -- application for arms -- file a way away this similar papers</p>
+<p>B. M</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2151"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John M. Palmer to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6788</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR14-379</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date when="--08-21">21 August </date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Telegram</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>WESTERN UNION TELEGRAPH COMPANY.<figure type="hr"/>
+<lb/>No. 1.] Terms and Conditions on which this and all Messages are Received by these Companies Respectively.</p>
+<p>In order to guard against and correct as much as possible some of the errors arising from atmospheric and other causes appertaining to telegraphy, every important messasge should be <hi rend="italic">repeated</hi>, by'being sent back from the station at which it is to be received to the station from which it is originally sent. Half the usual price will be charged for repeating the message, and while this Company in good faith will endeavor to send messages correctly and promptly, it will not be responsible for our errors or delays in the transmission or delivery, nor for the non-delivery of <hi rend="italic">repeated messages</hi>, beyond two hundred times the sum paid for sending the message, unless a special agreement for insurance be made in writing, and the amount of risk specified on this agreement, and paid at the time of sending the message. Nor will the Company be responsible for any error or delay in the transmission or delivery, or for non-delivery, of <hi rend="italic">any</hi> <hi rend="italic">unrepeated message</hi>, beyond the amount paid for sending the same, unless in like manner specially insured, and amount of risk stated hereon and paid for at the time. No liability is assumed for errors in cipher or obscure messages; nor is any liablity assumed by this Company for any error or neglect by any other Company over whose lines this message may be sent to reach its destination, and this Company is hereby made the agent of the sender of this message to forward it over the lines extending beyond those of this Company. No agent or employee is allowed to very these terms, or make any other or verbal agreement, nor any promise as to the time of performance, and no one but a Superintendent is authorized to make a special agreement for insurance. These terms apply through the whole course of this message on all lines by which it may be transmitted.<figure type="hr"/></p>
+<p><date when="--08-21">Aug 21 186<gap/></date>
+<lb/>To Hon T. E. Bramlette
+<lb/>By Telegraph from H. Q. Louisville
+<lb/>Gov of Ky</p>
+<p>Will you oblige me by respiting for twenty Timothy King a soldier who was sentenced to death by the Circuit Court Jefferson County. Hon E. B Muir presiding</p>
+<p>I will write You by first mail
+<lb/>Jno M Palmer
+<lb/>Maj Genl</p>
+  </body>
+ </text>
+</TEI>

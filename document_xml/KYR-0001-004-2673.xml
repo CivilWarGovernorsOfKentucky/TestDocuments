@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2673"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Thomas W. Riley to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7310</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR16-299 to BR16-300</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date when="1865-11-21">21 November 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Louisville <date when="1865-11-21">21. Nov 1865</date>
+<lb/>Gov. Bramlette
+<lb/>Dear Sir</p>
+<p>You will percieve by the enclosed copies that <hi rend="str">Michel</hi> Patrick Welch has been inducted, tried and found by the verdict of the Jury guilty of Larceny, and sentenced to the penitentiary for one year.</p>
+<p>The jury in their verdict reommend him to your clemency, and if your Excellency had all the proof before you I am certain you would feel that it was a case that authorized the exercise of Excecutive clemency. The jury brought in the verdict with relecutance, and certainly would not have convicted had they not believed that their recommendation would induce your Excellency to grant him a pardon -- <pb/></p>
+<p>I would take down the evidence and have it certified to your Excellency, but with the verdict of the Jury before you, it is hardly deemed necessary to use any other <hi rend="str">J</hi> means to bring your Excellency to the conclusion they came to -- </p>
+<p>Hoping your Excellency may feel authorized to interpose in behalf of <hi rend="str">Michael</hi> Patrick Welch, &amp; grant him a full pardon -- </p>
+<p>I remain you Excellencys
+<lb/>humble servant
+<lb/>Tho W Riley</p>
+<p>Governor I have defended this man with out fee or reward and have no hope or expectation of either, and am making this appeal to you because on my conscience as a lawyer and a christian man I do not believe he was guilty or Larceny in Law or in fact -- </p>
+<p>Tho. W. Riley</p>
+  </body>
+ </text>
+</TEI>

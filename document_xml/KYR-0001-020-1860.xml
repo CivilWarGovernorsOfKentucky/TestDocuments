@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1860"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Jacob Fossett et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG11328</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Bradley Strait</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG23-262</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Pendleton County, Kentucky</placeName>
+    <date when="1862-04-29">29 April 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Pendleton County <date when="1862-04-29">Apl 29 1862.</date>
+<lb/>Kentucky
+<lb/>To his Excellency the 
+<lb/>Governor of the Commonwealth 
+<lb/>of Kentucky
+<lb/>Sir</p>
+<p>We the Citizens of the State of Kentucky residing in the immediate vicinity of M<hi rend="sup">r</hi> W<hi rend="sup">m</hi> A Clark. who has been fined by the <hi rend="str">Circut</hi> Circuit Court of Pendleton County ^at the <date when="1862-04">april term 1862</date>^ for selling liquor without license,= The said Clark came into our State in the year <date when="1861">1861</date> and commenced putting up a house for the purpose of keeping a tavern, and as soon as he had the necessary facilities for so doing, he then took out license,</p>
+<p>The penalty against him is $200,,<hi rend="sup">00</hi>/<hi rend="sub">100</hi> which we do think is entirely out of reason.= M<hi rend="sup">r</hi> Clark is a man ^that is 19 years old and^ that bears a good reputation among us, and did not think that he was commiting a breach of the law as it was his intention to take out license as soon as his house was prepared -- </p>
+<p>We respectfully pray you, for the remission of his fine, (believing that those who testified against him. done it out of personal ill will) and we remain obedient Servants</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Jacob Fossett
+<lb/>John phillips
+<lb/>G B Baker
+<lb/>William Fossett
+<lb/>Nicholas Akerman 
+<lb/>John Akerman 
+<lb/>Jno Baker
+<lb/>An<hi rend="underline"><hi rend="sup">d</hi></hi> Stull 
+<lb/>Theodore Stull
+<lb/>James Hopple<cb n="2"/>
+<lb/>Wm Fossett Jr
+<lb/>Joseph Gwynn
+<lb/>C. S. Scott
+<lb/>J. L. Powell 
+<lb/>G S Jennings<milestone unit="column" n="1"/><pb/></p>
+<p>Remitted as <unclear/> $100 and Respite 12 Mo as to balance -- B M</p>
+<p>Pendleton Cir. Ct
+<lb/>$200 } Tipling 
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> A. Clark 
+<lb/>Iss <date when="1862-05-19">May 19. 1862</date></p>
+  </body>
+ </text>
+</TEI>

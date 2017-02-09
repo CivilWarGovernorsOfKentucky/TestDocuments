@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2461"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">R. H. Stanton et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7098</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR15-418 to BR15-419</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency Thomas E. Bramlette. Governor of Kentucky:</p>
+<p>Your petitioners would represent that at the present <date when="--10">October</date> Term of the Mason Circuit Court, Robert Lynn was indicted by the grand jury for dealing Farro -- and immediately upon the return of the indictment into court, without troubling the Commonwealth to make out proof in the cause appeared in court and plead guilty to the indictment and was fined five Hundred dollars, the penalty affixed by the statute. We have Known Mr Lynn for many years; he is a kindhearted, inoffensive citizen and poor, unable to pay a fine of this magnitude, he being without property or means to do so -- He was induced to deal faro, for some young friends, and hence his present difficulty. The costs of the suit, including the Commonwealth's attorneys portion of the fine, will be a heavy punishment for his offence. We would therefore<pb/>
+<lb/>respectfully pray your Excellency that said fine may be remitted, as we believe this as a proper case for the interposition of Executive clemency We have no doubt this young man was led into this matter, without being fully aware of its being a violation of law -- </p>
+<p>R, H, Stanton
+<lb/><hi rend="underline">Tho</hi><hi rend="underline"><hi rend="sup">s</hi></hi><hi rend="underline"> I. Throop</hi>
+<lb/>L. Halinger
+<lb/>C. G. Cady Mayor
+<lb/>Jn<hi rend="sup">o</hi> G. Rogers
+<lb/>Late Lt Col 54<hi rend="sup">th</hi> Ky Vols
+<lb/>J S White, Late Lt Colonl 16<hi rend="underline"><hi rend="sup">th</hi></hi> Ky
+<lb/><hi rend="underline">W</hi><hi rend="underline"><hi rend="sup">m</hi></hi><hi rend="underline"> R.Wood</hi>
+<lb/>Jno M Duke
+<lb/>T. C Campbell
+<lb/><hi rend="underline">Jn</hi><hi rend="underline"><hi rend="sup">o</hi></hi><hi rend="underline"> M Duke</hi> <hi rend="underline">Jr</hi>.<pb/></p>
+<p>Mason Cir Ct
+<lb/>vs
+<lb/>Robt Lynn
+<lb/>$500,
+<lb/>Faro
+<lb/>Remitted <date when="1865-10-11">11 Oct 1865</date></p>
+  </body>
+ </text>
+</TEI>

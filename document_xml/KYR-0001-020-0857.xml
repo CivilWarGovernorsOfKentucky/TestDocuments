@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0857"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Ross to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10325</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG19-346</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Williamsburg, Whitley County, Kentucky</placeName>
+    <date when="1861-03-04">4 March 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Whitley C. H. Ky.
+<lb/><date when="1861-03-04">March. 4<hi rend="sup">th</hi> 1861</date></p>
+<p>To His Excellency Beriah Magoffin Governor of the commonwealth of Kentucky your Petitioner ^John Ross^ would respectfully represent unto your Excellency that at the <date when="1857-03">march Term of the Whitley Circuit Court 1857</date> he was Indicted for betting on the Presidential Election of <date when="1856">1856</date> and afterwards at the <date when="1857-08">August Term of said court 1857</date> Judgment went against him for one Hundred dollars and afterword To witt on the <date when="1857-11-21">21<hi rend="sup">st</hi> day of November 1857</date> the colliction of said fine was respited for the Term of 6 months by his Excellency C. S. Morehead then Governor of the commonwealth aforesaid your Petitioner would further represent that at the time he did not think that what he was fined for could have ^been^ construed into a bet that he bought a horse <hi rend="str"><unclear/></hi>and gave his note for the same payable when Buchanan should be elected President of the united States but that when he found out that he had violated the law he went to the person from who he bought the horse and requested him to take back the horse as he understood that he had been guilty of a violation of law in the purchase ^your Petitioner is not a gambler^ the tender of the horse was made before<pb/>
+<lb/>he knew anything about the result of the Eliction your Petitioner is a poor man &amp; considerably enthralled entirely unable to pay his just debts -- There is an Execution in the hands of the Sheriff for the collection of said fine and if the same is not remitted he fears that his security ^who is a poor man^ will have it to pay The premises considered the prayer of your Petitioner is that you remit said fine for which he will ever feel greatful</p>
+<p>John Ross</p>
+<p>Sworn to before me by John Ross this <date when="1861-03-04">4<hi rend="sup">th</hi> day of March 1861</date></p>
+<p>R. Boyd C. W. C. C.</p>
+<p>We believe the Statements in the foregoing Petition are true and would respectfully ask your Excellency to Grant the prayer thereof</p>
+<p>R. Boyd
+<lb/>C. S. Creekmore
+<lb/>J Speed Jones
+<lb/>Tho<hi rend="sup">s</hi>. X <unclear>Peca</unclear>
+<lb/><hi rend="underline">J L. M</hi><hi rend="underline"><hi rend="sup">c</hi></hi><hi rend="underline">Carty</hi>
+<lb/>J. Q. Barton
+<lb/>W. L. Cook</p>
+<p>Whitley Cir. Ct
+<lb/>Remitted
+<lb/>B. M
+<lb/>$100 } Betting on Election
+<lb/>Jno Ross Jr
+<lb/>Iss<hi rend="sup">d</hi> <date when="1861-03-26">Mar 26. 1861</date></p>
+  </body>
+ </text>
+</TEI>

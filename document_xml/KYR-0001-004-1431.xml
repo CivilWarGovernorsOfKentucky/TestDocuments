@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1431"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">J. Saige Dury to Smoloff P. Love</title>
+    <title level="a" type="parallel">CWG6068</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR12-230</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Mount Sterling, Montgomery County, Kentucky</placeName>
+    <date when="1865-01-06">6 January 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Mt. Sterling Ky,
+<lb/><date when="1865-01-06">Jan. 6<hi rend="underline"><hi rend="sup">th</hi></hi> 65</date>
+<lb/>S. P. Love Esq
+<lb/>Dr Sir</p>
+<p>You promised to arrange my part of that bail bond business if I would take no further step in it -- I have not heard from you since -- Our Court comes on again the 2<hi rend="underline"><hi rend="sup">nd</hi></hi> Monday of <date when="1865-02">February</date> -- I am still disposed to give you no further case &amp; trouble in the matter if you will forward me a check for $130 -- $20 less than my legal per cent -- I will send you such a receipt as will make your co-security contribute, or so you can have your mortgage, which you hold as colateral, good for it -- The bond is $500 -- You will benefit yourself by attending to this on receipt of this</p>
+<p>yours &amp;c
+<lb/>J. S. Dury
+<lb/>Com<hi rend="underline"><hi rend="sup">th</hi></hi> Atty.<pb/></p>
+<p>"B"</p>
+  </body>
+ </text>
+</TEI>

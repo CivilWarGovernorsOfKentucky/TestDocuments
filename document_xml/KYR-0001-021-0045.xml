@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-021-0045"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John C. Monfort to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG3115</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Apprehension of Fugitives from Justice Papers, 1859-1862</collection>
+      <idno>MG8-136</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Henry County, Kentucky</placeName>
+    <date when="1861-12-22">22 December 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To Beriah Magoffin
+<lb/>Gov of the Coml<hi rend="sup">th</hi> of Ky</p>
+<p>The undersigned County Judge for the County of Henry would represent that John Roberts Jr has committed the crime of murder in this County (Henry) on the day of <date when="1861-12">Dec 1861</date> by stabbing one David Brewer with a Dirk knife causing his death -- The case is a very aggrevated one and writs have been placed in the hands of various officers of this comth. for some days past who have failed to arrest him -- </p>
+<p>he is now a fugitive from justice -- I think a reward would cause his arrest and the case requires that one should be offered -- Roberts is about 20 years old -- Blue eyes very fare skin, about five feet 7 inches height with a scar over his right eye about 2 inches long This the <date when="1861-12-22">22<hi rend="sup">d</hi> Dec 1861</date></p>
+<p>Jno. C. Monfort
+<lb/>County Judge for H County<pb/></p>
+<p>Henry Co
+<lb/>$250 Reward
+<lb/>Jno. Roberts Jr
+<lb/>Nurder
+<lb/>Reward off<hi rend="sup">d</hi>
+<lb/><date when="1861-12-24">Dec<hi rend="sup">r</hi>. 24. 1861</date></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-002-0025"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Ephraim L. Van Winkle et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG0889</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Jacob A Glover</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Appointments by the Governor, Military Appointments, 1863-1867</collection>
+      <idno>BR5-347 to BR5-348</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency</p>
+<p>Thomas E Bramlette, the undersigned would respectfully but earnestly urge the appointment of Col James T Bramlette to the office of Inspector Genl, of Ky, to fill the vacancy occasioned by the resignation of Col W H Hays.</p>
+<p>We are induced to ask this action upon your part, from Our Knowledge of his fitness for the position and his meritorious services in behalf of his country during the Civil war just closed in which he acquitted himself with credit and honor as Lt Col of 12<hi rend="sup">th</hi> Ky Cavalry Vol, c, =</p>
+<p>E L Van Winkle -- 
+<lb/>secty of state
+<lb/>W T Scott. P M G
+<lb/>S. G. Suddarth
+<lb/>Q. M. Genl
+<lb/>W. H. Hays
+<lb/>Ins Genl Ky
+<lb/>D. W. Lindsey
+<lb/>Adjutant Gen<hi rend="underline"><hi rend="sup">l</hi></hi> Ky<pb/></p>
+<p>Inspector General
+<lb/>Jas T. Bramlette
+<lb/>appt<hi rend="sup">d</hi>
+<lb/><date when="1865-11-13">13<hi rend="sup">th</hi> Nov 1865</date></p>
+  </body>
+ </text>
+</TEI>

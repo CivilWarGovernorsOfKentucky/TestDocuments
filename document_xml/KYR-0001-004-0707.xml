@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0707"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Thomas T. Brooks to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG4826</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR10-81</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency Thomas E. Bramlette</p>
+<p>Governor of the State of Kentucky Your Petitioner Thomas T. Brooks states that some time in the year <date when="1863">1863</date>. He went into a Bond to the Commonwealth of Kentucky in the sum of two hundred and fifty Dollars that a certain G G Ely charged with some public offence. would appear in the Rockcastle Circuit Court that at the <date when="1863-08">August term 1863</date> of said Court said G G Ely did appear in Said Court and that the case was continued and the recognizance respited, and that sometime after said Court said Ely absconded and left for parts unknown and the Bond of your Petitioner was foreited ^at the <date when="1864-02">February Court 1864</date>^ Your Petitioner states that he has a large family, and is a poor man, and is a very strong union man. He asks your Excellency to remit the Recognizance that was forfeited by the said Ely absconding, and not appearing in said Court to answer said charge and in duty bound will ever pray</p>
+<p>T. T Brooks<pb/></p>
+<p>We the undersigned Persons Endorse the Petition of Thos. T. Brooks as stated within and join in the Prayer of the Petitioner that his Bond to the Commonwealth of $250. caused by the failure of G. G. Ely to appear in said ^Court^ be remitted</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>A. J. Moore
+<lb/>G. W. Payne Jailer
+<lb/>Charles A Redd
+<lb/>W. W. Fish C. R. C. C
+<lb/>M G Cook
+<lb/>F B M<hi rend="sup">c</hi>Clary
+<lb/>W<hi rend="sup">m</hi> M<hi rend="sup">c</hi>Clure S R C
+<lb/>Ja<hi rend="sup">s</hi> C Jones
+<lb/>James G Carter
+<lb/><cb n="2"/>R. R. Hackney
+<lb/>W. M. Lauder
+<lb/>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> M. Redd
+<lb/>R. Boyd
+<lb/>Edwin Shivel
+<lb/>W. A. Brooks
+<lb/>E T Fish
+<lb/>J. G. Colyer</p>
+  </body>
+ </text>
+</TEI>

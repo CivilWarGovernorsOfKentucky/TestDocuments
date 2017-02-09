@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-2121"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Thomas W. Riley to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG9197</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG24-187 to MG24-188</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date when="1862-06-13">13 June 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Louisville <date when="1862-06-13">13 June 1862</date>
+<lb/>Gov. Magoffin</p>
+<p>Allow me to introduce to your acquaintance, and bespeak your favorable notice of the Rev Geo L Rogers of Bullett County, who will hand you this note.</p>
+<p>He comes to solicit your clemency in behalf of his son, who has been imprisoned in this city under circumstances, the particulars of which you will better understand from documents in his possession, than you could from any statement I could make, for in fact I know nothing of the circumstances only as I learn them from the papers which will be presented to you</p>
+<p>I can say this much only, and I say it with pleasure that if the facts will authorize your Excellency to interpose your prerogative in favor<pb/>
+<lb/>of the petitioner, you could not do so for a worthier man than the person who will bear this</p>
+<p>Verry respectfully
+<lb/>Your Excellencys
+<lb/>Obt Serv<hi rend="underline"><hi rend="sup">t</hi></hi>
+<lb/>Tho. W. Riley</p>
+  </body>
+ </text>
+</TEI>

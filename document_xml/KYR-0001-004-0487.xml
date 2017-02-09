@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0487"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">A. J. Warden to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG4606</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR9-273</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Blandville, Ballard County, Kentucky</placeName>
+    <date when="1864-01-14">14 January 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Blandville Ky
+<lb/><date when="1864-01-14">January 14th 1864</date>
+<lb/>To his Excelency
+<lb/>Thomas E. Bramlett
+<lb/>Governor of Kentucky</p>
+<p>At the <date when="--03">March term</date> of the Ballard Circuit Court, Francis Garner, was fined $83. and two weeks imprisonment for a Breach of the Peace and I am requested to represent to the Executive the reasons which appear to exist for the exercise ^of the^ perogative of Mercy. I have but little knowledge of Mr Garner previous character, or the causes of Justification or paliation in his case. From my observation since his conviction, and from what I have been able to learn in regard to him he has generally been quiet and orderly, and I do not be any means consider him as a dangerous character. He is a young man and had <hi rend="str">since</hi> before his conviction, intered into marriage, and hence increased his responsibility as a member of society. My Judgement from a carful survey of all the facts in his case, is that the fine will fully satisfy the Commonwealth for the offence committed, and that the imprisonment ought to be remitted. I think also that if the executive should not think it proper to interfer with the Judgement, by remitting a<pb/>
+<lb/>a portion of the fine, that a respite for 12 months would be an act of mercy properly bestowed</p>
+<p>Very Respectfully
+<lb/>A J Warden Clk
+<lb/>Circuit Court</p>
+  </body>
+ </text>
+</TEI>

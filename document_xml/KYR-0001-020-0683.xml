@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0683"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">D. C. Briggs et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10151</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG19-30</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Logan County, Kentucky</placeName>
+    <date when="1861-02-11">11 February 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Logan county Kentucky <date when="1861-02-11">Feb 11<hi rend="sup">th</hi> 1861</date>
+<lb/>To His Excelency the Governor of Kentucky</p>
+<p>Whereas Summerset Cooksey of Logan county Ky has been fined <hi rend="str">fined</hi> in two cases in the <hi rend="str">Cir</hi> Criminal Court of Said County the fines were assessed Some ^the charge was for selling liquor^ two or three years ^ago^ but have not been paid off. Mr Cooksey is an Aged and verry infirm man. And the Sheriff now threatening to put him in the county Jail for the fines. We therefore Humbly pray you to <hi rend="str">Reprieve</hi> Remit the fines together with the costs we believe it would be an act of Justice as well as Mercy</p>
+<p><hi rend="str">Resp</hi>ect We therefore Respectfully pray you to give the Case due Consideration with as little delay as possible the fines amount to $120.</p>
+<p>Respectfully yours</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Names
+<lb/>D. C. Briggs
+<lb/>G. N. Baugh
+<lb/>S, B, Morgan
+<lb/>John Booker
+<lb/>G C Penrod
+<lb/>B. Watkins
+<lb/>A Y Smith
+<lb/>S M ^his X mark^ Penrod
+<lb/>R. A. Whitescarver
+<lb/>A Lyons Jr
+<lb/>A B Hardison
+<lb/><cb n="2"/>Names
+<lb/>Alexander ^his X mark^ Hardison
+<lb/>W L Penrod
+<lb/>W H Smith
+<lb/>J H Fitzhugh
+<lb/>J J Williams
+<lb/>H A Pogue
+<lb/>W<hi rend="sup">m</hi> K Hollingsworth
+<lb/>B G. Williams
+<lb/>J. N. Steele
+<lb/>B A Morgan
+<lb/>G W Gibson
+<lb/>Jas M Terry<pb/>
+<lb/><cb n="1"/>William M. Grier
+<lb/>A. Morgan
+<lb/>G. S. Kennerly
+<lb/>J. W. Spauldin
+<lb/>W, W, Smith
+<lb/>F. C. Guffy
+<lb/>S. W. Richardson
+<lb/>George Briggs
+<lb/>W<hi rend="sup">m</hi>. K. Whitlow
+<lb/>J James
+<lb/>G. W. ^his X mark^ Stinson
+<lb/>W. G. Newman
+<lb/>J M. ^his X mark^ Hildabrand
+<lb/>W. A. Foulks
+<lb/>Rob.. Harreld
+<lb/>John. Hilldabrand
+<lb/>A. F. Hildabrand
+<lb/>James <unclear>Kitchen</unclear>
+<lb/>C O Ratcliff
+<lb/>J M Baird
+<lb/>Hugh Dinning
+<lb/>E. W. Thompson
+<lb/>A. B. Whiteaker
+<lb/><cb n="2"/>John Hardisson
+<lb/>W<hi rend="sup">m</hi> Traughber
+<lb/>George Waggoner
+<lb/>T. E. Williams<milestone unit="column" n="1"/></p>
+<p>Respite 12 mo
+<lb/>B. M</p>
+  </body>
+ </text>
+</TEI>

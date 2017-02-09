@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0585"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John A. Lynch, Oath</title>
+    <title level="a" type="parallel">CWG2250</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Appointments by the Governor, Civil Appointments, 1863-1867</collection>
+      <idno>BR2-569</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Cincinnati, Hamilton County, Ohio</placeName>
+    <date when="1865-10-09">9 October 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>State of Ohio
+<lb/>Hamilton County } SS -</p>
+<p>Personally appeared before me the undersigned a Notary Public duly commissioned and appointed by the Governor of the State of Ohio, and as such authorized to receive and attest oaths and affirmations taken in said County. John A Lynch of the City of Cincinnati who being first duly sworn maketh oath and saith that he will faithfully discharge all his duties as Commissioner of Deeds for the State of Kentucky, under the Commission for that purpose directed to him by the Honble Tho<hi rend="sup">s</hi> E Bramlette the Governor of said State dated the <date when="1865-10-06">6<hi rend="underline"><hi rend="sup">th</hi></hi> day of October 1865</date></p>
+<p>J. A. Lynch
+<lb/>Comr of Deeds for State of Kentucky</p>
+<p>Subscribed in my presence and sworn to before me this <date when="1865-10-09">9<hi rend="underline"><hi rend="sup">th</hi></hi> day of October AD 1865</date>.</p>
+<p>William H. Mackay
+<lb/>Notary Public Hamilton Co. Ohio</p>
+<p><figure type="seal"><ab>NOTARY PUBLIC
+<lb/>HAMILTON CO. OHIO</ab></figure></p>
+<p><stamp type="revenue"/><note place="stamp">W. H. M
+<lb/>N.P.
+<lb/><date when="1865-10-19">Oct 19<hi rend="sup">th</hi>
+<lb/>1865</date></note><pb/></p>
+<p>Comr of Deeds
+<lb/>Ohio
+<lb/>Oath of John A Lynch
+<lb/>filed <date when="1865-10-12">12 Oct 1865</date></p>
+  </body>
+ </text>
+</TEI>

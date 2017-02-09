@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-018-0149"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John W. Finnell to Nathaniel Gaither, Jr.</title>
+    <title level="a" type="parallel">CWG8215</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Military Appointments, 1859-1862</collection>
+      <idno>MG6-255</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1861-12-13">13 December 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><figure type="seal"><ab>UNITED WE STAND, DIVIDED WE FALL.
+<lb/>KENTUCKY.</ab></figure>
+<lb/>Head-Quarters Kentucky Militia,
+<lb/>ADJUTANT GENERAL'S OFFICE,
+<lb/>Frankfort, <date when="1861-12-13">13 December 1861</date>.</p>
+<p>Hon: Nat Gaither Jun
+<lb/>Sec. State.
+<lb/>Sir</p>
+<p>Reuben Monday Capt: (whose commission issued <date when="1861-11-21">21 Novr 1861</date>) has been promoted to the office of Lieut: Col<hi rend="sup">o</hi>- and 1<hi rend="sup">st</hi> Lieut: John B. Buchannan (whose commission issued <date when="1861-11-21">21 Novr 1861</date>) has been promoted to the office of Captain- Please note this upon your record- I send twenty Nine Commissions, which please have prepared &amp; returned viz:</p>
+<p><table rend="rules">
+<row>
+	<cell>Colonel_</cell>
+	<cell>Walter C. Whitaker</cell>
+	<cell>dated</cell>
+	<cell><date when="1861-12-10">10</date></cell>
+	<cell>Decr.</cell>
+	<cell>1861 -- </cell>
+	<cell>1</cell>
+</row>
+<row>
+	<cell>Lieut. Col.</cell>
+	<cell>George T. Cotton</cell>
+	<cell>"</cell>
+	<cell><date when="1861-12-10">"</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>2</cell>
+</row>
+<row>
+	<cell>"</cell>
+	<cell>Reuben Munday</cell>
+	<cell>"</cell>
+	<cell><date when="1861-12-11">11</date> -- </cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>3</cell>
+</row>
+<row>
+	<cell>Major</cell>
+	<cell>W<hi rend="underline"><hi rend="sup">m</hi></hi> N. Hailman</cell>
+	<cell>"</cell>
+	<cell><date when="1861-12-10">10</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>4</cell>
+</row>
+<row>
+	<cell>Ass<hi rend="underline"><hi rend="sup">t</hi></hi> Surgeon-</cell>
+	<cell>Carr M<hi rend="sup">c</hi>Millan</cell>
+	<cell>"</cell>
+	<cell><date when="1861-12-11">11</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>5</cell>
+</row>
+<row>
+	<cell>Q<hi rend="sup">r</hi> Master-</cell>
+	<cell>D. V. Miller</cell>
+	<cell>"</cell>
+	<cell><date when="1861-12-11">"</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>6</cell>
+</row>
+<row>
+	<cell>Surgeon-</cell>
+	<cell>George W. M<hi rend="sup">c</hi>Millen</cell>
+	<cell>"</cell>
+	<cell><date when="1861-12-11">"</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>7</cell>
+</row>
+<row>
+	<cell>Adjt-</cell>
+	<cell>H. Brent Kelly</cell>
+	<cell>"</cell>
+	<cell><date when="1861-12-11">"</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>8</cell>
+</row>
+<row>
+	<cell>Captain-</cell>
+	<cell>Elisha Hedden</cell>
+	<cell>"</cell>
+	<cell><date when="1861-12-09">9</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>9</cell>
+</row>
+<row>
+	<cell>"-</cell>
+	<cell>Henry E. M<hi rend="sup">c</hi>Loed</cell>
+	<cell>"</cell>
+	<cell><date when="1861-12-09">"</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>10</cell>
+</row>
+<row>
+	<cell>"-</cell>
+	<cell>W<hi rend="underline"><hi rend="sup">m</hi></hi> S. Long</cell>
+	<cell>"</cell>
+	<cell><date when="1861-12-09">"</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>11</cell>
+</row>
+<row>
+	<cell>"-</cell>
+	<cell>Richard Lee</cell>
+	<cell>"</cell>
+	<cell><date when="1861-12-09">"</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>12</cell>
+</row>
+<row>
+	<cell>"-</cell>
+	<cell>Isaac N. Johnston</cell>
+	<cell>"</cell>
+	<cell><date when="1861-12-09">"</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>13</cell>
+</row>
+</table><pb/></p>
+<p><table rend="rules">
+<row>
+	<cell>Captain-</cell>
+	<cell>Putnam B. Trible</cell>
+	<cell>dated</cell>
+	<cell><date when="1861-12-04">4</date></cell>
+	<cell>Dec</cell>
+	<cell>1861</cell>
+	<cell>14</cell>
+</row>
+<row>
+	<cell>"</cell>
+	<cell>John B Buchanan</cell>
+	<cell>"</cell>
+	<cell><date when="1861-12-11">11</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>15</cell>
+</row>
+<row>
+	<cell>1st Lieut:-</cell>
+	<cell>Bluford N. Sampson</cell>
+	<cell>"</cell>
+	<cell><date when="1861-12-09">9</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>16</cell>
+</row>
+<row>
+	<cell>"-</cell>
+	<cell>Tho. W. Robertson</cell>
+	<cell>"</cell>
+	<cell><date when="1861-12-09">"</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>17</cell>
+</row>
+<row>
+	<cell>"-</cell>
+	<cell>Robert H. Armstrong</cell>
+	<cell>"</cell>
+	<cell><date when="1861-12-09">"</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>18</cell>
+</row>
+<row>
+	<cell>"-</cell>
+	<cell>Lunsford D. Carrington</cell>
+	<cell>"</cell>
+	<cell><date when="1861-12-07">7</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>19</cell>
+</row>
+<row>
+	<cell>"-</cell>
+	<cell>John L. Chilton</cell>
+	<cell>"</cell>
+	<cell><date when="1861-12-09">9</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>20</cell>
+</row>
+<row>
+	<cell>"-</cell>
+	<cell>Newton M Miller</cell>
+	<cell>"</cell>
+	<cell><date when="1861-12-04">4</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>21</cell>
+</row>
+<row>
+	<cell>"-</cell>
+	<cell>H. Brent Kelly</cell>
+	<cell>"</cell>
+	<cell><date when="1861-12-11">11</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>22</cell>
+</row>
+<row>
+	<cell>"-</cell>
+	<cell>Isaac Taylor</cell>
+	<cell>"</cell>
+	<cell><date when="1861-12-11">"</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>23</cell>
+</row>
+<row>
+	<cell>2<hi rend="underline"><hi rend="sup">d</hi></hi> Lieut-</cell>
+	<cell>James H Howard</cell>
+	<cell>"</cell>
+	<cell><date when="1861-12-09">9</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>24</cell>
+</row>
+<row>
+	<cell>"-</cell>
+	<cell>Tho. C. Campbell</cell>
+	<cell>"</cell>
+	<cell><date when="1861-12-09">"</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>25</cell>
+</row>
+<row>
+	<cell>"-</cell>
+	<cell>W<hi rend="sup">m</hi> B. Dunlap</cell>
+	<cell>"</cell>
+	<cell><date when="1861-12-09">"</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>26</cell>
+</row>
+<row>
+	<cell>"-</cell>
+	<cell>Richard C. Dawkins</cell>
+	<cell>"</cell>
+	<cell><date when="1861-12-07">7</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>27</cell>
+</row>
+<row>
+	<cell>"-</cell>
+	<cell>Harrison Roberts</cell>
+	<cell>"</cell>
+	<cell><date when="1861-12-09">9</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>28</cell>
+</row>
+<row>
+	<cell>"-</cell>
+	<cell>Noah C. Deane</cell>
+	<cell>"</cell>
+	<cell><date when="1861-12-04">4</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>29</cell>
+</row>
+</table></p>
+<p>Very Resp<hi rend="sup">y</hi>
+<lb/>John W. Finnell
+<lb/>Adj<hi rend="sup">t</hi> Gne<hi rend="sup">l</hi></p>
+<p>Entered <date when="1862-12-13">13 Dec<hi rend="sup">r</hi> <hi rend="underline">1862</hi></date></p>
+  </body>
+ </text>
+</TEI>

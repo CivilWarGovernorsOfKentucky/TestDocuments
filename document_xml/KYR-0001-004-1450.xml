@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1450"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">William Edmonds to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6087</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR12-254</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Hon Thomas E Bramlette
+<lb/>Governor &amp;<hi rend="sup">c</hi> &amp;<hi rend="sup">c</hi></p>
+<p>The undersigned William Edmonds, is a <hi rend="underline">cripple for life</hi>, unable to earn <hi rend="underline">a support by manual labour</hi> -- was fined ten years ago in two cases for keeping a tippling house. I discontinued business from that date, and have since been trying to earn a Support selling groceries in a small way, From Sympathy I suppose nothing was done with the executions until quite lately, when the matter was revived and if Compelled to pay, it will take all I am worth to pay I therefore petition your excellency to remit them</p>
+<p>Respectfully
+<lb/>William Edmonds<pb/></p>
+<p>Mason Cir Ct
+<lb/>vs
+<lb/>W<hi rend="sup">m</hi> Edmonds
+<lb/>2 judgts
+<lb/>$60 -- each
+<lb/>Remitted
+<lb/><date when="1865-01-03">3<hi rend="sup">rd</hi> Jany 1865</date></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0982"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">P. M. Jones et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10450</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG20-39 to MG20-40</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date when="1861-04-01">1 April 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency Beriah Magoffin
+<lb/>Governor of Kentucky</p>
+<p>The undersigned the Jurors who tried the case of the Commonwealth of Kentucky against Joseph Melchor on Indictment in the City Court of Louisville for Keeping a Tipling House, would represent to your Excellency that under the proof we were compelled to find a verdict of guilty and assess a fine of sixty dollars against him, but as M<hi rend="sup">r</hi>. Melchor is badly cirppled in his right arm and we are assured is a <hi rend="underline">poor</hi> man with five young children, the oldest of whom is only twelve years of age, and that he pays license to the city as a Grocery Keeper and promises that he will not again violate the law, we respectfully ask your Excellency to remit Mr. Melchor's fine -- 
+<lb/>Louisville <date when="1861-04-01">Apl. 1. 1861 -- </date></p>
+<p>P M Jones, Foreman
+<lb/>Scott Newman
+<lb/>Sam<hi rend="underline"><hi rend="sup">l</hi></hi> H Baker
+<lb/>Isaac Redman
+<lb/>John Hughes
+<lb/>George Wyatt
+<lb/>J. D. Seaton
+<lb/>A. Younkes
+<lb/>J. R. Brown
+<lb/>J M Monohan
+<lb/>John Downing Jr<pb/></p>
+<p>His Excellency B. Magoffin
+<lb/>Govenor of Kentucky</p>
+<p>Your Petitioner Joseph Melchor would respectfully represent to your Excellency that he is a very poor man, badly cripled in both arms but Especially in his right hand and arm; that he has a helpless family of five children, the eldest of whom is only twelve years of age, and that to support himself and family he is Keeping a retail family Grocery for which he pays Licensis to the city of Louisville &amp; state of Kentucky. -- </p>
+<p>That he was indicted at the last term of the City Court for keeping a "Tipling House" and upon the Oath of a single witness (who testified that he had been in the habit of buying his groceries on credit of your Petitioner, and that on two or three occasions he had drank "cherry bounce" in his house which he had every reason to believe and did believe was included in his account and subsequently paid for by witness) the Jury, much against their inclination (as the petition of Eleven of said Jury to your Excellency, here to annexed testifies) were compelled to find him guilty and affix the lowest penalty the law would permit. -- </p>
+<p>Your Petitioner would respectfully represent that, Especially in these trying times, he is Entirely unable to pay the fine and unless relieved by your Excellency he will be encarcerated in the work House or Else his little stock of groceries sold from his family and they be left to mercy of the charitable. -- If your Petitioner has violated the law it has been through ignorance and not intentionally and will be careful not to do so again. -- </p>
+<p>Wherefore your Petitioner prays your Excellency to remit the fine thus assessed against him, and as in duty &amp;c.</p>
+<p>Joseph ^his X mark^ Melchor</p>
+<p>Louisville <date when="1861-04-01">April 1<hi rend="sup">st</hi>. 1861.</date><pb/></p>
+<p>We the undersigned respectfully join the annexed petition to His Excellency Gov.<hi rend="sup">r</hi> Magoffin for the remission of Joseph Melchor's fine believing his to be such a case as desirves Executive clemency -- </p>
+<p>Louisville <date when="1861-04-01">Apl. 1. 1861</date></p>
+<p><hi rend="underline">R. F</hi>. <hi rend="underline">Baird</hi>
+<lb/>J. H. Price
+<lb/>W. G. Reasor
+<lb/>Jacob. Ruckstahl
+<lb/><hi rend="underline">A. B. Fontaine</hi>
+<lb/>T. H. Crawford</p>
+<p>Remitted
+<lb/>B. M<pb/></p>
+<p>Louisville City Ct
+<lb/>$60 } Tipling
+<lb/>Jo<hi rend="sup">s</hi>. Melchor
+<lb/>Remission Iss<hi rend="sup">d </hi><date when="1861-04-09">Apr 9. 1861</date></p>
+  </body>
+ </text>
+</TEI>

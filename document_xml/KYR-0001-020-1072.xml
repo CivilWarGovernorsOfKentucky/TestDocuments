@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1072"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">M. Hamilton et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10540</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG20-170</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his excellency Beriah Magoffin
+<lb/>Govnor of the commonwealth of Kentucky</p>
+<p>Your petitioners would respectfuly represent that Wiliam Turner a citisen of Boon co was indicted at the <date when="1860-09">septm. term 1860</date> of the Boone circut court for selling spiritous liquors to a minor he was fined at the <date when="1861-04">Aprl term 61,</date> of said court fifty dollars for said offense Your petitioners state that that W<hi rend="sup">m</hi> Turner is a man of good character has heretofor &amp; now keeps <hi rend="str">a</hi> <hi rend="str">house</hi> <hi rend="str">^tavern^</hi> an orderly hotel Your petioners state that the said Turner was ignorant of the passage of the law against selling spiritous ^liquors^ to minors at the time he so sold it &amp; that he never was in the habit of vending liquors to minors. They state that the minor Hicks to whom Turner sold the liquor has been attending to business for himself as an adult for sevrel years &amp; was thought to be of age by Turner Your petitioners believe that in consideration of the law abiding disposition of Turner &amp; of his general good character that he would not under any circumstances have sold the the liquor in violation of ^the law against the same^ had he only know of its existence &amp; that Hicks was a minor Turner is also a poor man &amp; would be greatly embarrassed by the<pb/>
+<lb/>of said fine Your petitioners in vieu of the premises recomend this case as worthy of the interposition of executive clemency &amp; pray your exellency to remit said Turner's fine</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Names
+<lb/>M Hamilton Clk
+<lb/><hi rend="underline">Webster Robinson</hi>
+<lb/>J W Clore
+<lb/>W Jones
+<lb/>G W Jones
+<lb/>F Zinmer
+<lb/>F Howery
+<lb/><cb n="2"/>Names
+<lb/><hi rend="underline">P. U Major</hi>
+<lb/>E S <unclear>Nalla</unclear>
+<lb/>William Watts
+<lb/>Edward Fowler D S
+<lb/>Fount Riddell
+<lb/>W H Baker S B C
+<lb/>Henry Bolsin
+<lb/>Wm Morrow<milestone unit="column" n="1"/></p>
+<p>Boone Cir. Ct
+<lb/>$50.
+<lb/>W<hi rend="sup">m</hi> Turner
+<lb/>Resp<hi rend="sup">d</hi> 12 mos
+<lb/>Iss<hi rend="sup">d</hi> <date when="1861-05-17">Mar 17. 1861</date></p>
+  </body>
+ </text>
+</TEI>

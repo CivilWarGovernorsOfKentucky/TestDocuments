@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0837"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Lucian B. Wright, Affidavit</title>
+    <title level="a" type="parallel">CWG4956</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR10-290</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Cook County, Illinois</placeName>
+    <date when="1864-05-21">21 May 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>State of Illinois
+<lb/>Cook County SS: }</p>
+<p>Lucian B. Wrigt of said county being duly sworn saith that he is a Painter by trade &amp; that he has been acquainted for some ten years past with Silas L. Greenman at the City of Chicago in said county and that the said Greenman was in the employ of said <hi rend="str">G</hi> Deponent for two years &amp; upwards.</p>
+<p>And Deponent further saith that during all the time that he has known said Greenman he has sustained a most excellent character. that he has always been sober industrious &amp; honest, always attentive to business and without exception exemplary in his deportment &amp; habits, and this Deponent further saith <hi rend="str">Sworn before me this 21st</hi> that the said Silas L. Greenman has wholly maintained his mother who is entirely dependant upon him for her support &amp; that while he was in the employ of this Deponent, his wages were by this Deponent paid over to his (said Greenmans<hi rend="str">)</hi> mother) who is a woman in very feeble health &amp; unable to support herself, or engage in any laborious occupation.</p>
+<p>Sworn before me this <date when="1864-05-21">21st Day of May 1864</date>.</p>
+<p>O. R. W. Lull
+<lb/>Notary
+<lb/>Public L. B. Wright</p>
+<p><figure type="seal"/>
+<lb/><stamp type="revenue"/><note place="stamp"><date when="1864-05-23">5/23
+<lb/>1864</date>
+<lb/>O R W L
+<lb/>N P</note></p>
+  </body>
+ </text>
+</TEI>

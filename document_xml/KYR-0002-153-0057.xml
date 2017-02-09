@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-153-0057"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Boyle to R. C. Hewitt</title>
+    <title level="a" type="parallel">CWG14179</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>Assistant Adjutant General Letter Book - No. 1 ; 5 Sept 1863 - 2 Feb 1864</collection>
+      <idno>256</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1863-11-10">10 November 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><note place="header">256</note>
+<lb/><date when="1863-11-10">Nov<hi rend="underline"><hi rend="sup">r</hi></hi> 10<hi rend="underline">"</hi> <gap/>3.</date>
+<lb/>D<hi rend="underline"><hi rend="sup">r</hi></hi> R. C. Hewitt
+<lb/>Chairman Med. Board
+<lb/>Louisville, Ky.
+<lb/>Sir,</p>
+<p>Your Board will examine D<hi rend="underline"><hi rend="sup">r</hi></hi> J. R. Hutchinson touching his qualifications for the place of Surgeon, he having Procured the necessary evidence of his loyalty and good moral character to the Governor.-</p>
+<p>Respy
+<lb/>Yours obed<hi rend="underline"><hi rend="sup">t</hi></hi> Servant
+<lb/><hi rend="underline">John Boyle</hi>
+<lb/>Adj<hi rend="sup">t</hi> Gen<hi rend="sup">l</hi> of Ky</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0745"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">B. N. Covington to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10213</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG19-160</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Bowling Green, Warren County, Kentucky</placeName>
+    <date when="1861-03-27">27 March 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Bowling Green Ky
+<lb/><date when="1861-03-27">March 27, 1861</date>
+<lb/>Hon B. Magoffin, 
+<lb/>Gov. of Ky.</p>
+<p>My dear Sir- The friends of Rufus Jones, now confined in the penitentiary at Frankfort for the killing of Henry Jenkins, believe his is a case in which it would be just &amp; proper to interpose Executive clemency. It would be very gratifying to me &amp; his numerous friends &amp; family relatives if you can so view it. I am not familiar with the facts as proved in his trial, but from what I can learn it was one of those unpremeditated &amp; impulsive acts, under the influence of exciting liquors &amp; a boisterous crowd which the best men might sometimes commit. He certainly had no malice toward young Jenkins with whom he had, from childhood, been upon term of the most friendly &amp; almost brotherly relations. His youth, his feeble constitution &amp; his before that unstained reputation, together with the facts of the case &amp; his very numerous &amp; highly respectable connexions I hope will induce your Excellency to pardon him -- </p>
+<p>Very Respectfully
+<lb/>Yr Obt Svt
+<lb/>B. N. Covington</p>
+  </body>
+ </text>
+</TEI>

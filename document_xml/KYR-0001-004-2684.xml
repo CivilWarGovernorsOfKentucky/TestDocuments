@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2684"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">B. D. Lacy and V. B. Young to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7321</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR16-315</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>West Liberty, Morgan County, Kentucky</placeName>
+    <date when="1865-11-25">25 November 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency
+<lb/>Thos. E. Bramlett
+<lb/>Governor of Kentucky</p>
+<p>Your petitioners would represent that at the <date when="--11">Nov</date> Term of the Morgan Circuit Court a Judgment was rendered against James Bowlin for a fine of fifty dollars on an Indictment for having on his person concealed Deadly Weapons</p>
+<p>The evidence introduced by the Deft conduced to show that he had good grounds to believe that his person was in danger from one Elijah Adkins whose character for violence was prooven to be bad &amp; that there was a feud between Bowlin &amp; his father in Law on the one hand &amp; said Adkins on ther Your petitioners heard the cause tried one of the Jurors who tried it made an affidavit which was read on a motion for a new trial stating that the Jury had made their virdict by agreeing to a Magority</p>
+<p>In the premises we ask that your Excellency will extend clemency to the Defendant by remitting the fine West Liberty Ky <date when="1865-11-25">Nov 25<hi rend="sup">th</hi> 1865</date></p>
+<p>B D Lacy
+<lb/>V. B. Young C R C C<pb/></p>
+<p>Although the evidence was such as not to authorize me to set aside the verdict of the Jury yet it was such as to convince me that the carrying of the weapon was not unlawful under the circumstances I therefore hope that the fine will be remitted</p>
+<p>R. Apperson Jr.
+<lb/>J. S. Dury
+<lb/>Jn<hi rend="sup">o</hi> W Hazelrigg
+<lb/>H G Brunt
+<lb/>Wm Lykins
+<lb/>Jn<hi rend="underline"><hi rend="sup">o</hi></hi>, E, Cooper
+<lb/>J W Kendall
+<lb/>J T Hazelrigg
+<lb/>W<hi rend="sup">m</hi> H Holt</p>
+<p>Morgan Cir Ct
+<lb/>vs
+<lb/>Jas Bowlin
+<lb/>$50
+<lb/>Remitted <date when="1865-12-01">1<hi rend="sup">st</hi> Dec 1865</date></p>
+  </body>
+ </text>
+</TEI>

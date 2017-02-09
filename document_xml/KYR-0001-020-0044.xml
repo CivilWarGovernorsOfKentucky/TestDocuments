@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0044"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Willis G. Hughes to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG9512</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG17A-112 to MG17A-113</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1861-02-04">4 February 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Frankfort Ky
+<lb/><date when="1861-02-04">Feby' 4 /61</date>
+<lb/>Hon B. Magoffin Gov of Ky
+<lb/>Dear Sir &amp; friend.</p>
+<p>You have a petition before you of Thomas B. Wadlington of caldwell Co Ky. to be pardoned ^&amp; released^ from a Judgment of death rendered in the Caldwell Circuit Court -- I would take the liberty to suggest to you that the Extension of your Excecutive Clemency to him will, in my Judgement be a meritorious and merciful act. I have known him long, to be a law abiding -- honest peaceful citizen -- I am fully satisfied that Justice has not been <hi rend="str">given</hi> done in his case. The facts were not presented in a fair, truthful manner &amp; the instructions of the court were wrong in many particulars -- I earnestly<pb/>
+<lb/>ask of your Excellency favor to my friend &amp; hope for his full pardon &amp; a restoration to life, family &amp; friends -- I remain</p>
+<p>Your friend &amp; obt Servt
+<lb/><hi rend="underline">Willis G Hughes</hi></p>
+  </body>
+ </text>
+</TEI>

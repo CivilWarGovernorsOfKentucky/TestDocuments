@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2332"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">James Lester to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6969</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR15-223 to BR15-224</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Lyon County, Kentucky</placeName>
+    <date when="1865-09-16">16 September 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency. Thomas E. Bramlette
+<lb/>Governor of the Com<hi rend="underline"><hi rend="sup">th</hi></hi> of Kentucky
+<lb/>State of Kentucky
+<lb/>County of Lyon } Sct.</p>
+<p>Affiant James Lester says that he was the surety of one Farrier upon his bond to appear before the Lyon Circuit Court to answer a charge of misdemeanor. That said Farrier failing to appear said bond (for $100<hi rend="underline"><hi rend="sup">00</hi></hi>) was taken as forfeited. That affiant petitioned the Hon. J. F. Robinson then Governor of Kentucky to remit said bond and that the amount of fifty dollars was remitted as will appear no doubt by reference to the records in the office of the Sec. of state in Frankfort Ky. Affiant says that he paid the remainder, to wit, the sum of fifty dollars to one J F Young then Sheriff Of Lyon Co. and placed the Governors letter remitting the fine in his hands, that said sheriff promised to return the execution satisfied and make the proper endorsement upon the same. But affiant says said sheriff failed to return said execution that said Sheriff is now deceased and the letter of Hon J F Robinson remitting the fine is lost. that said debt still stands against him and that an execution has again been issued for the sum of $100 against him. that it is now in the hands of the Sheriff &amp; if not stayed he will have to pay the full sum of $100<hi rend="underline"><hi rend="sup">00</hi></hi>. Wherefore he prays that this affidavit be also read as his petition. He says that his former petition and the copy of Governor Robinsons letter will no doubt be found in the records at Frankfort and he prays that they be refered to, and that your Excellency will immediately answer this petition and remit the whole of said amount of $100<hi rend="underline"><hi rend="sup">00</hi></hi> and that the execution be returned to the office.</p>
+<p>James Lester</p>
+<p>Subscribed &amp; Sworn to before me by James Lester, this <date when="1865-09-16">16<hi rend="sup">th</hi> day of Sep 1865</date>.</p>
+<p>John Stacker Jr Examiner
+<lb/>Lyon Co. Ky.<pb/></p>
+<p>Lyon Cir Ct
+<lb/>vs
+<lb/>Remit
+<lb/>Jas Lester
+<lb/>$100,
+<lb/>Forfeiture
+<lb/><date when="1865-09-21">21 Sept/65</date></p>
+  </body>
+ </text>
+</TEI>

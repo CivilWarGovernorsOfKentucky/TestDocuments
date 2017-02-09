@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0472"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Thomas Hynes, R. Enders, and H. Enders, Affidavit</title>
+    <title level="a" type="parallel">CWG9940</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG18-234</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>McCracken County, Kentucky</placeName>
+    <date when="1861-01-05">5 January 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>We Thomas Hynes Principal &amp; R Enders &amp; H Enders security do bind ourselves three months after date hereof to pay the commonwealth of Ky the Plaintiff in the Execution the sum of Fifty two dollars &amp; 72 cents, bearing interest from this date, being the amount of principal, interest, &amp; cost of an Execution issued from the office of the M<hi rend="underline"><hi rend="sup">c</hi></hi>Cracken Equity &amp; Criminal Court, on the <date when="1860-11-21">21<hi rend="underline"><hi rend="sup">st</hi></hi> Day of November 1860</date> in favor of the said Commonwealth of Ky for the sum of thirty Eight dollars and 00 cents, debt or damages, &amp; dollars and -- cents, interest, Thirteen dollars and 05 cents, cost of suit, one dollars &amp; 27 cents, Sheriff's half commission, forty cents bond, amounting in the whole to the sum of Fifty two dollars &amp; 72 cents aforesaid, against the said Hynes and we the Said R Enders &amp; H Enders his Surety have hereby replevied the same.</p>
+<p>Witness our hand this <date when="1861-01-05">5<hi rend="sup">th</hi> day of January 1861</date></p>
+<p>Tho<hi rend="sup">s</hi> Hynes <figure type="seal"><ab>L. S.</ab></figure>
+<lb/>R Enders <figure type="seal"><ab>L. S.</ab></figure>
+<lb/>H Endesr <figure type="seal"><ab>L. S.</ab></figure></p>
+<p>A Copy attest
+<lb/>B Small clk<pb/></p>
+<p>Eq ct<figure type="hr"/>
+<lb/>253
+<lb/>Com<hi rend="sup">w</hi><hi rend="underline"><hi rend="sup">lth</hi></hi>
+<lb/>vs } Rep Bond
+<lb/>Tho<hi rend="sup">s</hi> Hynes &amp;c</p>
+  </body>
+ </text>
+</TEI>

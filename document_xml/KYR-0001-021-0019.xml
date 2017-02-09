@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-021-0019"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Samuel McRoberts Reward, Broadside</title>
+    <title level="a" type="parallel">CWG3089</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Apprehension of Fugitives from Justice Papers, 1859-1862</collection>
+      <idno>MG8-100</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Clarksburg, Lewis County, Kentucky</placeName>
+    <date when="1861-02-13">13 February 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Broadside</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Fifty Dollars Reward!!<figure type="hr"/></p>
+<p>I will give the above Reward for the apprehension and lodgement in any jail, where I can get him, within Five months of this date, of
+<lb/>Samuel McRoberts,
+<lb/>Who escaped from the Lewis County Jail, on the night of the <date when="1861-02-12">12th of February, 1861,</date></p>
+<p>Said McRoberts is about 5 feed 8 or 9 inches high, quick spoken, indistinct utterance, slender built, black eyes and dark hair.</p>
+<p>A. G. Rice, J. L. C.
+<lb/>Clarksburg, Ky., <date when="1861-02-13">February 13th, 1861.</date><pb/></p>
+<p>Reward of $200 in addition</p>
+  </body>
+ </text>
+</TEI>

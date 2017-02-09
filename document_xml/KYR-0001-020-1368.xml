@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1368"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">M. B. Morton et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10836</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG21-304</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Russellville, Logan County, Kentucky</placeName>
+    <date when="1861-09-12">12 September 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Telegram</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>WESTERN UNION TELEGRAPH COMPANY.<figure type="hr"/>
+<lb/>No. 1.]
+<lb/>TERMS AND CONDITIONS ON WHICH MESSAGES ARE RECEIVED BY THIS COMPANY FOR TRANSMISSION.</p>
+<p>The public are notified that, in order to guard against mistakes in the transmission of messages, every message of importance ought to be repeated by being sent back from the station at which it is to be received, to the station from which it is originally sent. Half the usual price for transmission will be charged for repeating the message; and while this Company will, as heretofore, use every precaution to ensure correctness, it will not be responsible for mistakes or delays in the transmission or delivery of repeated messages, beyond an amount exceeding five hundred times the amount apid for sending the message; nor will it be responsible for mistakes or delays in the transmission of unrepeated messages from whatever cause they may arise, nor for delays arising from interruptions in the working of its Telegraphs, nor for any mistake or omission of any other Company, over whose lines a message is to be sent to reach the place of destination. All messages will hereafter be received by this Company for transmission, subject to the above conditions.</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>A. STAGER, Gen. Sup't. Cleveland, O.
+<lb/><cb n="2"/>I. R. ELWOOD, Sec'y, Rochester, N. Y.<milestone unit="column" n="1"/><figure type="hr"/></p>
+<p><date when="1861-09-12">Sept 12th 1861.</date>
+<lb/>To Gov. Magoffin
+<lb/>By Telegraph from Russelville <date when="1860">1860.</date></p>
+<p>Please grant respite of Sixty day's for Negro boy Nelson Execution tomorrow 44 -- 33</p>
+<p>M. B. Morton
+<lb/>G. W. Norton
+<lb/>P. N. Bradly<pb/></p>
+<p>Logan Cir. Ct</p>
+<p>Respite of boy <hi rend="underline">Nelson</hi> from Hanging</p>
+<p>Respited until <date when="1861-11-15">Nov. 15. 1861</date></p>
+<p>Iss <date when="1861-09-13">Sept 13. 1861</date></p>
+<p>Issue respite for 60 days</p>
+<p>BM
+<lb/></p>
+  </body>
+ </text>
+</TEI>

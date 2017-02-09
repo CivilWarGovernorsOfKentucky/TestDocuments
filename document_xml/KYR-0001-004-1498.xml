@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1498"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">George Ashcock to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6135</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR12-323</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Danville, Boyle County, Kentucky</placeName>
+    <date when="1865-02-18">18 February 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency, The Governor of the Commonwealth of Kentucky,</p>
+<p>The undersigned would respectfully represent to your Excellency, that at the <date when="1865-02">February Term 1865,</date> of the Boyle Circuit Court, he was indicted for dealing <hi rend="underline">Faro</hi>, and fined therefor $500. Of this judgment he has already paid the fees of the Commonwealths Attorney and the Clerk. He admits that by the importunity of a few personal friends, he did privately, violate the law in this particular, but regarding the unfortunate termination of the game, your petitioner believes that he has already paid a sufficient sum for this violation of law, and hoping that he may not again have occasion to appeal for executive clemency, he earnestly prays for a remission of the judgment afresaid</p>
+<p>Danville <date when="1865-02-18">Feby 18. 1865</date></p>
+<p>George Ashlock</p>
+<p>The undersigned Citizens of Danville respectfully unites with the petitioner in asking that his fine may be remitted</p>
+<p>W. R Boice
+<lb/>M T. Chrisman
+<lb/>A G Daniel
+<lb/>Fon T Fox
+<lb/>B. D. Williams
+<lb/>Jno. W. Shelby<pb/>
+<lb/>John J Quin
+<lb/>C Engalman
+<lb/>H Goor
+<lb/>M Chiles
+<lb/>Thomas Orr
+<lb/>James B. White
+<lb/>G W Doneghy</p>
+<p>Boyle Cir Ct
+<lb/>vs
+<lb/>George Ashlock
+<lb/>$500
+<lb/>Dealing Faro</p>
+<p><hi rend="underline">Remit</hi>
+<lb/><date when="1865-03-20">20<hi rend="sup">th</hi> Mch/65</date></p>
+<p>sent for fee
+<lb/><date when="1865-03-21">21<hi rend="sup">st</hi> Mch</date></p>
+  </body>
+ </text>
+</TEI>

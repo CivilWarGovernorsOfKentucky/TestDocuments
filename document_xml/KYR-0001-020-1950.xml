@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1950"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Kenton Circuit Court, Summons</title>
+    <title level="a" type="parallel">CWG11418</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Bradley Strait</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG23-397</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Covington, Kenton County, Kentucky</placeName>
+    <date when="1862-05-14">14 May 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>KENTON CIRCUIT COURT.<figure type="hr"/>
+<lb/>The Commonwealth of Kentucky,
+<lb/>To any Sheriff, Coroner, Jailor, Constable, Marshall, or Policeman in this State</p>
+<p>You are hereby ^again^ commaded to Summon Josephine Stork to appear in the KENTON CIRCUIT COURT, at Covington on the first day of its next <date when="1862-06">June</date> Term, to answer an Indictment for a Misdemeanor found against him in said Court.</p>
+<p>Given under my hand as Clerk of said Court, this <date when="1862-05-14">14 day of May 1862</date>
+<lb/>N. B. Stephens Clerk K. C. C.
+<lb/>By A. C. Ellis D. C.
+<lb/>Copy att B W Foley Clk
+<lb/>By A C Ellis D C<pb/></p>
+<p>No 562<figure type="hr"/>
+<lb/>COMMONWEALTH.
+<lb/>Against } Summons.<figure type="hr"/>
+<lb/>To <date when="1862-06">June Term 1862</date> at Cov.
+<lb/>Arthur Atty's,</p>
+<p>"Executed <date when="1862-05-20">May 20, 1862</date> on Josephine Stork by giving her a copy of the within summons</p>
+<p>J. S. Scott, D. S for S. F. Roberts, S. K. C</p>
+<p>The within Deft's name is Storh instead of Stork,</p>
+<p>Copy Att B W Foley Clk
+<lb/>By A C Ellis D C</p>
+  </body>
+ </text>
+</TEI>

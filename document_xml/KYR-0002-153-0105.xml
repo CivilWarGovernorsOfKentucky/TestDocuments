@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-153-0105"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Boyle to John T. Croxton</title>
+    <title level="a" type="parallel">CWG14227</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>Assistant Adjutant General Letter Book - No. 1 ; 5 Sept 1863 - 2 Feb 1864</collection>
+      <idno>497 to 498</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1864-01-27">27 January 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><note place="header">497</note>
+<lb/><date when="1864-01-27">Jan. 27<hi rend="sup">th</hi></date>
+<lb/>Col. John T. Croxton
+<lb/>4<hi rend="underline"><hi rend="sup">th</hi></hi> Ky. Vols. Infy.
+<lb/>Officer hospital Nashville Tenn.
+<lb/>Colonel,</p>
+<p>Your letter to the Governor -- dated <date when="1864-01-22">22<hi rend="underline"><hi rend="sup">nd</hi></hi> inst.</date> were referred to this Department -- with instructions.</p>
+<p>It is impossible to discover how the appointment of an officer to a command, offers the ground for complaint to those not connected the that command. It defrauds them of no right whatever. It is not a promotion over the heads of any who are not in the line of promotion. In the case of Maj. Baldwin -- to which alone you distinctly allude -- the appointment was for <unclear>mer</unclear>itorious services, to a position entirely within the gift <unclear>of the</unclear> Governor. To say that anyone unconnected with the 5<hi rend="underline"><hi rend="sup">th</hi></hi> <unclear/> Cav'y, could lay <hi rend="underline">claim</hi> to the position, under any pretense is to state what never was the rule, and from the nature of the case, never can be so established. Baldwin's appointment could give offense to but one person -- his second in command -- and whom you would preclude from promotion -- being<pb/>
+<lb/><note place="header">498</note>
+<lb/>a citizen of another State. No citizen of another State has been appointed as you aver -- since the accension to power of the present Administration -- No citizen or Soldier of this State has received, or as you intimate, been tendered a commission, to any grade, that" has been disgracefully kicked out of" your own or any other regiment -- since that time. On the contrary, none but unimpeachable recommendations can procure an appointment f<hi rend="str">rom</hi>or any one.</p>
+<p>In case of Lieut. Young -- to whom you allude -- he was personally known to his Excellency to be a worthy soldier. An Attempt was made to get him discharged from your regiment, to enable him to accept promotion in another. This object was defeated -- for which the commanding officer of your regiment can doubtless give an adequate reason. He was there commissioned as 2<hi rend="underline"><hi rend="sup">nd</hi></hi> Lieut. so that he could resign and as <unclear/> the intended promotion -- which latter was revoked as we could hear nothing from Mr Young.</p>
+<p>His Excellency is ever willing to rectify errors. Complaints must, however, be legitimate, and founded on reason. He will not be swerved from observance of duties by the artfulness of flattery on the one side -- nor by splenetic malevolence on the other.</p>
+<p>Respectfully,
+<lb/>Your obt serv't,
+<lb/><hi rend="underline">John Boyle</hi>
+<lb/>Adjt Gen of Ky</p>
+  </body>
+ </text>
+</TEI>

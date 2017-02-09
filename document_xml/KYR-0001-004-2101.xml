@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2101"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Watson Ballard to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6738</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR14-309</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Pulaski County, Kentucky</placeName>
+    <date when="1865-07-23">23 July 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency.
+<lb/>Thomas E. Bramlette Governor,</p>
+<p>Your Petitioner, <hi rend="str">Watkins</hi> Watson Ballew, would respectfully represent, that a Judgment was rendered against him by Confession, at the <date when="1865-07">July Term 1865</date> of the Pulaski Circuit Court, for $100, being indicted for keeping a Tipling-house.</p>
+<p>Your Petitioner states that he was an authorized army sutler at Camp Burnside, in this County, and paid regular army license; He says the <hi rend="str">only</hi> liquor he sold, was sold exclusively within the limits of the <hi rend="underline">Camp</hi>, and no where else. He states, he paid the regular taxes as sutler, and supposed he had the right so to sell after paying the taxes of a sutler, and obtaining the permission of the Commanding Officer.</p>
+<p>He did not know that he was violating any law of the State, by so selling -- </p>
+<p>Under such circumstances he prays Your Excellency to remit the fine <date when="1865-07-23">July 23. 1865</date>.</p>
+<p>Respectfully.
+<lb/>xWatson Ballard</p>
+<p>We concur in the statements of the above petition, and would ask Your<pb/>
+<lb/>^Excellency^ to remit the fine &amp; judgment against Mr Ballew; He is a good citizen; has served in the army three years and is poor:</p>
+<p>H M<hi rend="sup">c</hi>Kee Fox
+<lb/>W B Moore
+<lb/>J. S. Burk
+<lb/>G, C, Freeman
+<lb/>S. F. Tomlinson
+<lb/>S M Hail
+<lb/>W A, Sallee
+<lb/>W F Scott
+<lb/>Rob Gibson
+<lb/>M E Ingram</p>
+  </body>
+ </text>
+</TEI>

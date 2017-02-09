@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2467"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Robert Scott to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7104</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR15-429 to BR15-430</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency
+<lb/>Gov Bramlet</p>
+<p>Your petitioner would respectfully represent to your Excellency that he was indicted at the <date when="--09">Sept</date> Term of the Kenton Circuit Court for Suffering Gaming in his house, And that a Bench warrant was issued and he was held to bail and being a Comparative Stranger here, he had no better way of proceeding than to insist upon the trial of the Cause: that at the Calling of the Cause he did not plead to the Indictment and that judgment was taken agaisnt him by default $200, He States that he is twenty three years old and keeps a small coffee house in Covington. and that if any Cards were played in his house for money, drinks or property, it was without his Knowledge and against his will &amp; Consent. He also states that he understands that there was testimony before the grand jury that Cards had been played in his house for drinks. He further states that in the year <date when="1861">1861</date> he enlisted in the Army of the U S in Co "C" 51<hi rend="sup">st</hi> Ohio Infantry Col Stanley Mathews for three years and actually Served in Said <hi rend="str">Army</hi> Army and Regiment three years and Sixteen days -- that he is poor and unable to pay the fine adjudged<pb/>
+<lb/>against him of Two Hundred dollar<hi rend="sup">s</hi> and he therefore prays your Excellency to remit the Same except the fees &amp; Costs</p>
+<p>Robert Scott</p>
+<p>we whose names are hereto annexed Concur in the Statements &amp; prayer of the foregoing petition</p>
+<p>J. S. Scott
+<lb/>M J. <hi rend="underline">Dudley</hi>
+<lb/>J, G. Carlisle
+<lb/>A, H, Herod</p>
+<p>I Know nothing of the above facts from personal Knowledge -- but from information derived from the Sheriff, I think that the costs &amp; fees will be quite a sufficient punishment, and join in requesting the fine to the Comth. to be remitted</p>
+<p><hi rend="underline">M. M. Benton</hi><pb/></p>
+<p>Kenton Cir Ct
+<lb/>vs
+<lb/>Robt Scott
+<lb/>$200.
+<lb/>Permitting gaming on his premises
+<lb/>Remit<figure type="hr"/>
+<lb/><date when="1865-10-17">17 Oct /65</date></p>
+  </body>
+ </text>
+</TEI>

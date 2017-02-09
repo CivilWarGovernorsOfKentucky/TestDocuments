@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2823"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">O. D. McManama et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7460</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR17-94 to BR17-95</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Grant County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><note place="header"><hi rend="str">Hardin</hi> Grant Cir. Ct</note>
+<lb/>To His Excellency Tho<hi rend="sup">s</hi> E Bramlett
+<lb/>Govenor of Kentucky</p>
+<p>Your Petitioner would respectfully represent and State that W. N. Simpson was tried and found guilty and fined seventy Dollars for an assault and battery upon the person of R. G. Merks ^at the present Term of this Court (<date when="1865-10">Oct 1865</date>)^ We further represent that we are well Known to W N Simpson that he his is generally Known in the community wherein he lives as a peacible quiet orderly citizen that the guilt and fine were both fixed upon Simpson alone by the Testimoney of s<hi rend="sup">d</hi> Merks</p>
+<p>We think this a case peculiarly addressed to <hi rend="str">th</hi>your Executive Clemency and would pleased to have yours for Mr Simpson on the premises.</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>O. D. M<hi rend="underline"><hi rend="sup">c</hi></hi>Manama
+<lb/>J M Collins
+<lb/>W T Simmons
+<lb/>N. H. Jeffers c, G, c, c,
+<lb/>Kemp S Carter Dpy clk.
+<lb/>James J Ross
+<lb/>J. W. Hutchison
+<lb/>John Carnes
+<lb/>P F M<hi rend="sup">c</hi>Ilvain
+<lb/><cb n="2"/>W, Harrison
+<lb/>John Shively
+<lb/>M Burnett
+<lb/>Thomas E Williams
+<lb/>Wm R. Ransom
+<lb/>G. B, Dance
+<lb/>Patrick Burns
+<lb/>H S Rankin
+<lb/>J. F. Sheriff
+<lb/>J. Holbrook<pb/>
+<lb/><milestone unit="column" n="1"/>B. Wilson, J, G, C
+<lb/>James F Ponder
+<lb/>A M Childers
+<lb/>J Peck
+<lb/>G W Simpson
+<lb/>W C Williams
+<lb/>T. P Evans
+<lb/>Peter S Edwards
+<lb/>Preston Isaacks
+<lb/>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> D. Finnell
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> M<hi rend="sup">c</hi>Pherson
+<lb/>Albert Ackerman
+<lb/>A. H. Nixon
+<lb/>William J Ashcraft
+<lb/>J Q <unclear>Lowe</unclear>
+<lb/>Samuel Cook
+<lb/>D, M<hi rend="sup">c</hi>gowen
+<lb/>B. K. Merrill
+<lb/>Geo Williams
+<lb/>J T odor
+<lb/>Thomas E Williams
+<lb/>H H Sully
+<lb/>C J Armass
+<lb/>Isaac W Craswhite
+<lb/>J, O'Hara Jr Atto
+<lb/>G. W. Craddock
+<lb/>Tho<hi rend="sup">s</hi> A Franklin Clk. G. C. C.<pb/></p>
+<p>Grant Cir Ct
+<lb/>vs
+<lb/>W. N. Simpson
+<lb/>$70,
+<lb/>Assault &amp; Battery
+<lb/>Remitted <date when="1865-12-11">11 Dec/65</date></p>
+  </body>
+ </text>
+</TEI>

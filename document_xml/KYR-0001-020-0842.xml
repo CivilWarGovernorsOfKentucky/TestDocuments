@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0842"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">G. A. Dowel to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10310</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG19-324</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1861-03-08">8 March 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency B Magoffin Gov of Ky.</p>
+<p>The undersigned Petitioner would represent to your excellency that at the <date when="1859-04">April Term 1859</date> of the Clinton Circuit Court an Indictment was found against him for "carrying concealed deadly Weapons," The Weapon Spoken of was a pistol. Your Petitioner would represent to your excellency that he has never used a weapon in any conflict with any person neither does he desire to do so, States that he was carrying in his Saddle Bags a pistol which was seen by a man who afterwards was on the Grand Jury, and that for carrying the Pistol he has been Indicted and fined $50, ^at <date when="1860-06">June Term 1860</date>^ besides a bill of Cost, Your Petitioner would represent that he is not nor has not been in the habit of Raising quarrels or disturbances that he is poor and under the pressure of the Great money crises does not know hardly how he is to raise money to pay off the fine unless in the clemency of the Governor the Same is remitted, He states that upon Said fine a capias issued directed to the Sheriff, and that Said fine was Replevied by ^Isaac Boring^ a Good Citizen of Clinton County, who is not of kin to petitioner, that Said Boring is a man of Good moral Character a member of the Church, and petitioner thinks that said Boring would not have Replevied the Capias if he had believed petitioner was guilty of <hi rend="str">the</hi>Committing an offense against the Commonwealth -- Petitioner states. that if the fine is not remitted, and he can not get money<pb/>
+<lb/>for his work he fears an execution will issue against petitioner and his Surety in the Replevin Bond, and that the Sheriff will be compelled to Sell some of his Securetys property to pay off the fine, Petitioner states that Boring who is his Surety in the Replevin Bond is a poor man owns a small farm and is Supposed to be at this time laboring under Some breast disease, hoping that this will be the last Inducement or fine found against petitioner he sends this to the Executive for executive clemency</p>
+<p>G A Dowel</p>
+<p>The day came G A Dowell before me and states on his oath that he beleave the statements in the foregoing petition are true,</p>
+<p>C P Gray Examr<pb/></p>
+<p>The undersigned state that they are acquainted with G A Dowell, and believe what he states on oath, they state that under the Circumstance of which he was fined, and the unprecedented hardness of the times that they would be glad for the Governor to remit the fine Should he see fit so to do, They state that Boring who Replevied the fine is a moral man, good Citizen, and is laboring under Breast complaint that Boring has tolerably large family mostly Daughters that he is a poor man, and they would regret verry much to see him have the fine or any part to pay. hoping that the Governor will Consider the case and extend such Clemency as he thinks right and proper they sign their names -- to these statements,</p>
+<p>Albany Ky <date when="1861-03-08">March 8th 1861,</date></p>
+<p><milestone unit="column" n="2"/><cb n="1"/>R. H. Philpott
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> O. P. M<hi rend="underline"><hi rend="sup">c</hi></hi>Whorter
+<lb/><cb n="2"/><hi rend="underline">C P Gray</hi>
+<lb/>J. A. Brents
+<lb/>W<hi rend="sup">m</hi> Vann
+<lb/>H S Taylor
+<lb/>Jesse Ewing
+<lb/>A. M. Young
+<lb/>Ellison Festie
+<lb/>E. V. Trammell
+<lb/>Eli, C, Braswell
+<lb/>Thomas Huff
+<lb/>J. P. Pickens<milestone unit="column" n="1"/><pb/></p>
+<p>G. A. Dowell Case
+<lb/>Clinton Circuit Court
+<lb/>Fine $50. Concealed Weapon
+<lb/>Remitted <date when="1861-03-14">Mch 14</date></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2295"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">L. D. Parks, Affidavit</title>
+    <title level="a" type="parallel">CWG6932</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR15-173</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Lyon County, Kentucky</placeName>
+    <date when="1865-08-08">8 August 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>State of Kentucky
+<lb/><hi rend="underline">County of Lyon Sct</hi></p>
+<p>Affiant and petitioner L D Parks, says that in <date when="1862">1862</date>, whilst visiting a relative he was forcibly detained and conscripted into the rebel service by one Captain Bradshaw that he was detained in said service two <hi rend="str">months</hi> ^weeks^ and finally succeded in making his escape about the <gap/> day of <date when="1862-02">Feb. 1862</date>. He says that afterwards he was appointed a grandjuryman for said county of Lyon, and took the oath ^prescribed^ in such cases That afterwards to wit at the <date when="1865-06">June term of the Lyon Circuit Court for 1865</date>. he was indicted by the grand jury of Lyon County Ky. for false swearing, wherein he is charged with falsely swearing that he had never voluntarily aided the socalled southern Confederacy. Affiant says he is not guilty of said charge, that he never did voluntarily aid the socalled Southern Confederacy, that he never entered said service voluntarily. He says he has always been a loyal man to the Government of the United States, and that he has been in the service of said Government of the United states for the period of 12 months having served as a volunteer in the 48<hi rend="sup">th</hi> Reg Ky Mounted infantry. He fully believes that he ought to be relieved from any liability under said indictment and he prays that this, his affidavit be taken ^also^ as a petiition, and that Your Excellency will be pleased to grant him a full acquittal of all liability under said indictment, and thus save him much trouble expense and suffering of mind.</p>
+<p>L D ^his X mark.^ Parks.</p>
+<p>Subscribed of sworn to by L D Parks before me this <date when="1865-08-08">8<hi rend="sup">th</hi> day of Aug 1865</date>.</p>
+<p>John Stacker Jr
+<lb/><hi rend="underline">Examiner L C Ky</hi></p>
+  </body>
+ </text>
+</TEI>

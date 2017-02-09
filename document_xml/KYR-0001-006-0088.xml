@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-006-0088"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">B. W. Foley to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG1134</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's Official Correspondence File, Requisitions for the Return of Fugitives from Justice, 1863-1867</collection>
+      <idno>BR6-112</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Covington, Kenton County, Kentucky</placeName>
+    <date when="1865-10-27">27 October 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Clerks Office Kenton Cir. Court
+<lb/>Covington Ky <date when="1865-10-27">Oct 27. 1865</date>
+<lb/>To His Excellency
+<lb/>Tho<hi rend="sup">s</hi>. E. Bramlette Gov of Ky</p>
+<p>Sir. Enclosed we send you a copy of an Indictment &amp; Bench Warrant against James Washington of color now pending in our Court. We understand the Deft. has fled to Ohio -- Will your Excellency please send us a Requisition upon the Governor of Ohio. and name C. Butts of this City as a Suitable &amp; trustworthy person to make the arrest of Deft. &amp; deliver him to the custody of the Jailor here, Col Foley is anxious that he be brought to justice or punished if guilty</p>
+<p>Very Respectfully
+<lb/>Your Oby Srvt.
+<lb/>B. W. Foley Clerk
+<lb/>By A. C. Ellis D C<pb/></p>
+<p>Requisition upon Gov of Ohio for Jas Washington (of color)
+<lb/>C Butts appt<hi rend="sup">d</hi>. Agent
+<lb/><date when="1865-10-31">31<hi rend="sup">st</hi> Oct/65</date></p>
+  </body>
+ </text>
+</TEI>

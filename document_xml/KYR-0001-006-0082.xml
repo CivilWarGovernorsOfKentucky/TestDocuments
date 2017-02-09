@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-006-0082"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">William B. James to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG1128</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's Official Correspondence File, Requisitions for the Return of Fugitives from Justice, 1863-1867</collection>
+      <idno>BR6-105</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Franklin, Simpson County, Kentucky</placeName>
+    <date when="1865-10-06">6 October 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Franklin Ky <date when="1865-10-06">6<hi rend="sup">th</hi> Octr 65</date>
+<lb/>Gov Bramlette</p>
+<p>I enclose you copy of Indictment pending in Allen <hi rend="str">County</hi> Circuit Court vs Robert Hillman &amp; others for Robbery. All the defendants are fugitives from Justice, were all guerillas of Harper's gang.</p>
+<p>We know that Hillman is in Illinois, Our Sheriff Dalton has to make a trip to Illinois shortly, and I desire a requisition on the Governor of Illinois, Appoint Geoge W Dalton the agent of the state &amp;C, send papers to me</p>
+<p>Respectfully &amp;C.
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> B Jones<pb/></p>
+<p>Requisition upon Gov Illinois for Robt. Hilburn Robbery &amp; Geo W. Dalton appt<hi rend="sup">d</hi>. Agent
+<lb/><date when="1865-10-09">9<hi rend="sup">th</hi> Oct/65</date></p>
+  </body>
+ </text>
+</TEI>

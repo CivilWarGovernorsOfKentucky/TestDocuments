@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0127"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Tompkinsville Board of Trustees, License</title>
+    <title level="a" type="parallel">CWG9595</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG17-40</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Tompkinsville, Monroe County, Kentucky</placeName>
+    <date when="1860-11-10">10 November 1860</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>The Trustees met this <date when="1859-12-25">25<hi rend="sup">th</hi> Decr 1859</date> a majority being Present and after hearing the Decision of Noah Smith agree to Grant the applicants a tavern Licens Provided they will pay a tax of five Hundred Dollars</p>
+<p>W P Witcher Clk
+<lb/>J, B, Evans,, Pres</p>
+<p>I Isaiah Fitzgerald do certify that the above is a true copy of the Proceedings for the Trustees ^in the above case,^ on file in my office Given under my hand this the <date when="1860-11-10">10th Novr 1860</date></p>
+<p>Isaih Fitzgerald Clk</p>
+<p>The Trustees met this the <date when="1860-04-17">17th day of April 1860</date> a Majority being Present Proceeded to Buisness Granted Licens to Berry &amp; Huggins to Keep a coffee House </p>
+<p>Isaiah Fitzgerald Clk
+<lb/>W P Witcher President</p>
+<p>I Isaiah Fitzgerald Clerk of the Board of trustees of Tompkinsville Monroe County do certify that the above is a true copy of the Granting of Licens By said Board to Berry &amp; Huggins to Keep a coffee House in Tompkinsville Ky now of Record in said office Given under my hand this the <date when="1860-11-10">10th day of Nov<hi rend="sup">r</hi> 1860</date></p>
+<p>Isaiah Fitzgerald Clk</p>
+<p>I certify that Myself and J H Bevill was in favor of granting the license for the amount offered by Berry &amp; Huggins but was overruled by the other three trustees &amp; that their avowed object was to defend the applicants from having license</p>
+<p><hi rend="underline">W. P. Witcher</hi> President<pb/></p>
+<p>Clerks } Certificate of } Licens</p>
+  </body>
+ </text>
+</TEI>

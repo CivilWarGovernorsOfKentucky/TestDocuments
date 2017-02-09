@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-018-0287"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John W. Finnell to Nathaniel Gaither, Jr.</title>
+    <title level="a" type="parallel">CWG8353</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Military Appointments, 1859-1862</collection>
+      <idno>MG6-400</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1862-04-19">19 April 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><figure type="seal"><ab>UNITED WE STAND, DIVIDED WE FALL.
+<lb/>KENTUCKY.</ab></figure>
+<lb/>Head-Quarters Kentucky Volunteer Militia,
+<lb/>ADJUTANT GENERAL'S OFFICE,
+<lb/>Frankfort, <date when="1862-04-19">19 April 1862</date>.</p>
+<p>Hon:
+<lb/>Nat Gaither Jr
+<lb/>Sec: of State
+<lb/>Sir</p>
+<p>Lieut: John M<hi rend="sup">c</hi>Graw is promoted_ (date of Com <date when="1861-09-09">9 Septr 1861</date>) Lieut: Richard Rockingham is promoted (date of Com: <date when="1861-09-09">9 Septr 1861</date>.) Lieut W<hi rend="sup">m</hi> B White has resigned (date of Com: <date when="1862-02-10">10 Feb 1862</date>) Lieut: John H. Adams resigned (date of Com: <date when="1861-11-29">29<hi rend="underline"><hi rend="sup">th</hi></hi> Novr 1861</date>.) Lieut: Riley Wilson Promoted (date of Com: <date when="1861-11-27">27<hi rend="underline"><hi rend="sup">th</hi></hi> Novr 1861</date>) Benj<hi rend="underline"><hi rend="sup">a</hi></hi> A. Rice resigned (Com: dated <date when="1861-11-19">19 Nov" 1861</date>) Major John L. Davidson killed in Battle at Shiloh (Com: dated <date when="1862-01-01">1 Jany. 1862</date>) Adj<hi rend="sup">t</hi> Joseph L. Frost Promoted (Com: dated <date when="1862-01-01">1 Jany. 1862</date>) Lieut: A. J. Wells Promoted (Com. dated <date when="1861-12-13">13 Dec<hi rend="sup">r</hi> 1861</date>) Lieut: John W. Higden. killed in Battle at Shiloh (Com: dated <date when="1861-12-14">14 Dec<hi rend="sup">r</hi> 1861</date>) Lieut: Robert H. Earnest is<pb/>
+<lb/>Promoted (Com: dated <date when="1862-01-03">3 Jan 1862</date>).</p>
+<p>I send for record &amp;<hi rend="sup">c</hi> twelve Comms: viz:
+<lb/><table rend="rules">
+<row>
+	<cell>1862 Apl.</cell>
+	<cell><date when="1862-04-10">10</date>_</cell>
+	<cell>Scott Robinson</cell>
+	<cell>2<hi rend="sup">d</hi> Lieut</cell>
+	<cell>#1</cell>
+</row>
+<row>
+	<cell> </cell>
+	<cell><date when="1862-04-10">"</date></cell>
+	<cell>Rob. H. Earnest</cell>
+	<cell>1<hi rend="underline"><hi rend="sup">st</hi></hi> -- </cell>
+	<cell>#2</cell>
+</row>
+<row>
+	<cell> </cell>
+	<cell><date when="1862-04-10">"</date></cell>
+	<cell>Fred: Grey</cell>
+	<cell>2<hi rend="underline"><hi rend="sup">d</hi></hi> -- </cell>
+	<cell>#3</cell>
+</row>
+<row>
+	<cell> </cell>
+	<cell><date when="1862-04-10">"</date></cell>
+	<cell>A. J. Wells</cell>
+	<cell>Adj<hi rend="sup">t</hi></cell>
+	<cell>#4</cell>
+</row>
+<row>
+	<cell> </cell>
+	<cell><date when="1862-04-10">"</date></cell>
+	<cell>Jos. L Frost</cell>
+	<cell>Major</cell>
+	<cell>#5</cell>
+</row>
+<row>
+	<cell> </cell>
+	<cell><date when="1862-04-13">13</date></cell>
+	<cell>John R. Fisher</cell>
+	<cell>1<hi rend="underline"><hi rend="sup">st</hi></hi> Lieut</cell>
+	<cell>#6</cell>
+</row>
+<row>
+	<cell> </cell>
+	<cell><date when="1862-04-13">"</date></cell>
+	<cell>Dan B. Good</cell>
+	<cell>2<hi rend="sup">d</hi> -- </cell>
+	<cell>#7</cell>
+</row>
+<row>
+	<cell> </cell>
+	<cell><date when="1862-04-13">"</date></cell>
+	<cell>Riley Wilson</cell>
+	<cell>1<hi rend="underline"><hi rend="sup">st</hi></hi> -- </cell>
+	<cell>#8</cell>
+</row>
+<row>
+	<cell> </cell>
+	<cell><date when="1862-04-13">"</date></cell>
+	<cell>Ben F. Pumphrey</cell>
+	<cell>2<hi rend="underline"><hi rend="sup">d</hi></hi> -- </cell>
+	<cell>#9</cell>
+</row>
+<row>
+	<cell> </cell>
+	<cell><date when="1862-04-12">12</date></cell>
+	<cell>John M<hi rend="sup">c</hi>Graw</cell>
+	<cell>Capt -- </cell>
+	<cell>#10</cell>
+</row>
+<row>
+	<cell> </cell>
+	<cell><date when="1862-04-12">"</date></cell>
+	<cell>Rich<hi rend="sup">d</hi> Rockington</cell>
+	<cell>1<hi rend="underline"><hi rend="sup">st</hi></hi> Lieut</cell>
+	<cell>#11</cell>
+</row>
+<row>
+	<cell> </cell>
+	<cell><date when="1862-04-12">"</date></cell>
+	<cell>Tho. Bates</cell>
+	<cell>2<hi rend="sup">d</hi> -- </cell>
+	<cell>#12</cell>
+</row>
+</table></p>
+<p>I am
+<lb/>Very Resp<hi rend="sup">ly</hi>
+<lb/>John W. Finnell
+<lb/>Adj<hi rend="sup">t</hi> Gen<hi rend="sup">l</hi></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1833"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">J. P. Sparks et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG11301</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Bradley Strait</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG23-219</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1862-04-12">12 April 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his excellency B. Magoffin governor of the Commonwealth of Kentucky, Most Respectfully Petition and Request you to Remit a fine of $17 <hi rend="sup">60</hi>/<hi rend="sub">100</hi> Against Geo. T. Sparks of Henry County Ky. Rendered before a justice of the peace for a Breech of the peace, no person or persons being damaged or injured in any particular Materially, We have the Honor -- to be yours Petitioners Most Respectfully
+<lb/><date when="1862-04-12">April 12<hi rend="underline"><hi rend="sup">th</hi></hi> 1862</date></p>
+<p><hi rend="underline">J. P. Sparks   </hi>
+<lb/><milestone unit="column" n="2"/><cb n="1"/>Ja<hi rend="sup">s</hi>. W. M<hi rend="sup">c</hi>Cornell 
+<lb/>Jno. D. Gardner 
+<lb/>Jno Long 
+<lb/>David Shipman 
+<lb/>J Adams 
+<lb/>Jno Holland 
+<lb/>Geo M Hill 
+<lb/>John M Henderson 
+<lb/>Milton Adams 
+<lb/>J. W. OBannon
+<lb/>C. Ireland
+<lb/>R C Lindsay 
+<lb/>J D Baker 
+<lb/>John Jones
+<lb/><cb n="2"/>J B<unclear/> 
+<lb/>H. C. Ireland
+<lb/>Robt Montgomery 
+<lb/>Wally B<unclear/>
+<lb/>Jacob Münch 
+<lb/>G Threlkeld
+<lb/>N B Ireland 
+<lb/>W M Threlkeld 
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Tyler<milestone unit="column" n="1"/><pb/></p>
+<p>Henry County 
+<lb/>Remitted
+<lb/><date when="1862-04-21">April 21<hi rend="sup">st</hi> 1862</date></p>
+  </body>
+ </text>
+</TEI>

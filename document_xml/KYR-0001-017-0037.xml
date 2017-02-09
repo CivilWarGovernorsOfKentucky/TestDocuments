@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0037"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">C. S. Stuart et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG2385</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Civil Appointments, 1859-1862</collection>
+      <idno>MG3-387 to MG3-388</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Fairview, Christian County, Kentucky</placeName>
+    <date when="1860-12-24">24 December 1860</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Fairview
+<lb/>Christian County
+<lb/>Kentucky
+<lb/>His Excellency
+<lb/>Beriah M<hi rend="sup">c</hi>Goffin
+<lb/>Frankfort
+<lb/>Ky.
+<lb/>Dear Sir.</p>
+<p>We of Pembroke District. Christian County, are literally without a <hi rend="underline">magistrate</hi>. but one in the district; and he living <hi rend="str">some</hi> in one corner of the district some 10 or 12 miles from us. Esq Moody died in August last since which time we have been destitute of the servises of the office Judge A D Rogers has informed us that he made the reccommendation of Henderson Wade to you in <date when="1860-09">september last,</date> that no commission has as yet been received. for Mr Wade to enter upon the discharge of official duties. We pray your honor to attend to our distress at your earliest convenience</p>
+<p>With assurance of Our high esteem
+<lb/>We are
+<lb/>E. S. Stuart
+<lb/>John W Peters
+<lb/>G. W. Latham
+<lb/>Richard Vaughan
+<lb/>Alex Layne</p>
+<p><date when="1860-12-24">Decr 24<hi rend="sup">th</hi> 1860</date><pb/></p>
+<p>Issue Commission
+<lb/>B. M</p>
+<p>Com<hi rend="underline"><hi rend="sup">n</hi></hi> Is<hi rend="underline"><hi rend="sup">d</hi></hi>. <date when="1861-01-03">Jany 3</date>
+<lb/>Christian Co.</p>
+  </body>
+ </text>
+</TEI>

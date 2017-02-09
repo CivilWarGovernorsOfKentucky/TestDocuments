@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0333"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">V. B. Young et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG4452</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR9-32</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Owingsville, Bath County, Kentucky</placeName>
+    <date when="1863-12-28">28 December 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency Thomas Bramlette
+<lb/>Governor of the Commonwealth of Ky</p>
+<p>We the undersigned would most respectfully represent to your honor that at the <date when="1862-03">March Term of the Bath Circuit Court 1862</date> that Geo Hatton was fined in said court $27- and which fine Joseph Toy replevined We would state that the said George Hatton is in the Service of the United States in the 24<hi rend="underline"><hi rend="sup">th</hi></hi> Ky Regiment Infty, and has been in the service for more than 2 years.. We would petition your Excellency to remit said fine as Mr Toy is a poor hard working ^&amp; Loyal^ man and it would go hard with him to pay it We think that this case deserves executive clemency, and should be interposed in behalf of our brave soldiers in the field-</p>
+<p>All of which is respectfully submitted
+<lb/>Owingsville Ky <date when="1863-12-28">Dec 28<hi rend="underline"><hi rend="sup">th</hi></hi> 1863</date></p>
+<p><milestone unit="column" n="2"/><cb n="1"/>V. B. Young C. B. C. C
+<lb/>John E. Rice
+<lb/>E. V. Brother Jury trustee B Cir
+<lb/>B D Lacy
+<lb/>Eli W. Fleming
+<lb/>F. Donaldson
+<lb/>Wm Richards
+<lb/>R. L. Tipton
+<lb/><cb n="2"/>J. H. Richard
+<lb/>J. J. Lightfoot<milestone unit="column" n="1"/><pb/></p>
+<p>Respite 12 months
+<lb/>Tho E Bramlette</p>
+  </body>
+ </text>
+</TEI>

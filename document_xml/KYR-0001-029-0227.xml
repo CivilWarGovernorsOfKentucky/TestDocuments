@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0227"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Rufus K. Williams to James F. Robinson</title>
+    <title level="a" type="parallel">CWG8679</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Governor's Official Correspondence File, Petitions for Pardons, Remissions, and Respites, 1862-1863</collection>
+      <idno>R3-341</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Mayfield, Graves County, Kentucky</placeName>
+    <date when="1863-02-28">28 February 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Mayfield Ky
+<lb/><date when="1863-02-28">Feby 28 1863</date>
+<lb/>Govenor J, F, Robinson</p>
+<p>I understand there is a petition for the relase of S, C, Hughes and his security, of Union County from the penalty of a forefeited recognizance in assaulting me whilst judge of the Court</p>
+<p>Mr Hughes at that time was unfortunately very dissipated and being disorderly I had him arrested and brought into court and bound him to be of good behavior after I left the Court<pb/>
+<lb/>house he approach and struck at me not however touching my person. I then had him imprisoned until next morning he then got so sober and did not again disturb the Court</p>
+<p>Mr Hughes has since thoroughly reformed is now quite steady, has married and is in humble circumstances as to property but bids fair to be a prominent and useful member of the legal profession</p>
+<p>I think the law has<pb/>
+<lb/>been fully vindicated and all the good desired accomplished and Join Earnestly in asking you to remit the forfeiture I should Exceedingly regret that this thing should now be pressed on him and destress his family and perhaps be the cause of driving him back into his former unfortunate condition</p>
+<p>Truly yr frid
+<lb/>R, K, Williams<pb/></p>
+<p>S C Hughes Pettn
+<lb/>letter of Judge Williams</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1495"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">H. A. Boyd et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10963</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Amanda Boczar</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG22-89</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Newport, Kenton County, Kentucky</placeName>
+    <date when="1861-10-18">18 October 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency B. Magoffin</p>
+<p>We the Undersigned Citizens of Newport would most respectfully represent that on the <gap/> day of <date when="1861-10">October 1861,</date> William Girty a Citizen of this place was fined by the Mayor of the City of Newport, the sum of Thirty dollars and sentenced to 15 days imprisonment in the County Jail for the offense of committing a breach of the peace. The facts in the case are these; Said Girty and another young man had some words when they struck each other with nothing but their fists, an officer seeing the affair arrested Girty <hi rend="str">w</hi>h<hi rend="str">o</hi>e quietly submitted to the arrest, we think the punishment not commensurate with the offense, but that it was extrodinary &amp; unusually severe and arbitrary. The case differed nothing from ordinary little difficulties in our town, We think M<hi rend="sup">r</hi> Girty's case calls for your Excellency's interposition and we ask that the Executive clemency be exercised in his behalf and your petitioners will ever pray. 
+<lb/>Newport, Ky <date when="1861-10-18">Oct<hi rend="underline"><hi rend="sup">r</hi></hi> 18<hi rend="underline"><hi rend="sup">th</hi></hi> 1861</date></p>
+<p><hi rend="underline">H. A.</hi> <hi rend="underline">Boyd</hi>
+<lb/>Geo R Fearons
+<lb/><hi rend="underline">H D</hi> <hi rend="underline">Helm</hi>
+<lb/>F. M. Webster
+<lb/>W. P. Gray<pb/></p>
+<p>Newport Mayors Ct.
+<lb/>$30 } Mis -- 
+<lb/>W<hi rend="sup">m</hi> Girty</p>
+<p>Remitted
+<lb/>B. M. </p>
+<p>Iss<hi rend="sup">d</hi> <date when="1861-10-26">Oct 26, 1861</date></p>
+  </body>
+ </text>
+</TEI>

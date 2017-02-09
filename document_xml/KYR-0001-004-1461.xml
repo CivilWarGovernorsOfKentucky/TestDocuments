@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1461"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John G. Monfort to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6098</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR12-273</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1865-01-27">27 January 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Governor Bramlette</p>
+<p>Accompanying this note you will be handed a petition for the pardon of W. J. Hull. I have <hi rend="str">just</hi> now been informed that the young man has been in confinement near four years. I am well acquainted with the family of the young man, I mean his relatives. They are very worthy people -- honest, industrious and economical. In behalf of his widowed Mother, and with a good conscience I respectfully ask your Excellency for his enlargement. </p>
+<p>very respectfully
+<lb/><hi rend="underline">Jno. G. Monfort</hi>
+<lb/><date when="1865-01-27">Jany 27. 1865</date></p>
+<p>Reference to Mr I. N. Webb.
+<lb/>of House of Reps. M.</p>
+<p>House of Repres<hi rend="underline"><hi rend="sup">s</hi></hi>
+<lb/><date when="1865-01-28">Jany 28" 1864</date>
+<lb/>Governor Bramlette</p>
+<p>I am well acquainted with the persons whose singatures are affixed to the accompanying petition. They are all gentlemen of the first respectability in my County. The petition I observe was gotten up by the County Judge who is a highly conscientious and just man and would not, I know ask your Excellency to do an act which in good conscience you ought not to do.</p>
+<p>Your Obt st
+<lb/>I N Webb</p>
+  </body>
+ </text>
+</TEI>

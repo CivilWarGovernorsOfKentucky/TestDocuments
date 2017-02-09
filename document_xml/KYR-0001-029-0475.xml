@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0475"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">L. Pepper to James F. Robinson</title>
+    <title level="a" type="parallel">CWG8927</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Governor's Official Correspondence File, Petitions for Pardons, Remissions, and Respites, 1862-1863</collection>
+      <idno>R4-261</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Princeton, Caldwell County, Kentucky</placeName>
+    <date when="1863-07-10">10 July 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Princeton Kentucky. <date when="1863-07-10">July 10th <hi rend="underline">1863</hi></date>
+<lb/>Gov Robertson Dear Sir</p>
+<p>I have been requested by Mr T. W Pickering to say something to you in his behalf in regard to a petition find herewith asking Executive Clemency what I have to say is as follows The Petitioner T. W Pickering was prior to <date when="1863-12">December 1863</date> regarded as Southern rights or Secessionist and for the want of a poper view of things did accept in some manner the office of Sheriff under the so called provisional Government of Kentucky for which he was indicted in the circuit court of this County. Subsequent ^to^ his being indicted He was arrested by the Federal authorities in the month of <date when="1862-12">December 1862</date> and Taken as a prisoner to Johnson's Island and then Kept for 4 months. then released and returned home and was tried in June upon the indictment before mentioned and fined the Sum of $500, In consequence of his absence and imprisonment He sustained heavy losses pecuniarily his horses etc. were taken by Soldiers. Pickering ever Since his return home has depoted himself as a loyal Man and had never done anything prior to his imprisonment to aid the rebellion except to accept the office of Sheriff as before Stated This is the history of Pickering and his case, and in as much as I am one of those who believe in the certainty of punishment rather than in the Severity thereof and believing also that he has been certainly and Severely punished for all that he has done I feel<pb/>
+<lb/>authorized by the law of mercy and forgiveness to ask of you if compatible with your views to deal as leniently with him as the nature of the case will Justify I am very respectfully your Obedient Servant</p>
+<p>L. Pepper</p>
+  </body>
+ </text>
+</TEI>

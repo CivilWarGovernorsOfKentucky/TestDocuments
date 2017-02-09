@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2926"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">William Fox, Affidavit</title>
+    <title level="a" type="parallel">CWG7563</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR17-255</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Mount Washington, Bullitt County, Kentucky</placeName>
+    <date when="1865-12-29">29 December 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>M<hi rend="underline"><hi rend="sup">t</hi></hi> Washington Ky <date when="1865-12-29">December 29, 1865</date></p>
+<p>I certify to the following statement concerning the trial between W<hi rend="underline"><hi rend="sup">m</hi></hi> L Bishop Henry W. Bishop. and Marion Porter, and the Commonwealth, for an Asault &amp; Batery upon the person of Clifton Hall on Friday <date when="1865-12-01">1<hi rend="sup">st</hi> of December 1865</date>, the Jury that sat on the trial is at least one half of them related to M<hi rend="underline"><hi rend="sup">r</hi></hi> Hall. the evidence that was given in, did not state that Henry Bishop Struck nary lick, the verdict was a fine of thirty Dollars against each <hi rend="str">of</hi> one of them and costs the Jury roll was not called before they were dismissed, the mans name that was put down as foreman, said he did not authorise it to be done, nor did not do it himself</p>
+<p>W<hi rend="underline"><hi rend="sup">m</hi></hi> Fox<pb/></p>
+<p>M<hi rend="underline"><hi rend="sup">r</hi></hi> Samuel Bishop
+<lb/>present</p>
+  </body>
+ </text>
+</TEI>

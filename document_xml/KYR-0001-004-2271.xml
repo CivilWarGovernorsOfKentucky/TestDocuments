@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2271"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">William E. Vaught to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6908</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR15-115 to BR15-116</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency
+<lb/>Thomas E. Bramlette, Governor.</p>
+<p>Your Petitioner, William E. Vaught, would respectfully represent, that at the <date when="1865-07">July Term 1865</date> of the Pulaski Circuit Court, two Judgments were rendered against him for $50. each, on indictments for selling liquor to a Minor.</p>
+<p>Your Petitioner states, that John Dutten, the son of Daniel Dutten, was the minor to whom he sold the liquor: and that said John Dutten had been doing business for himself for some time, and had often drank at his bar, with his Father, the ^son^ sometimes treating the Father, and the Father sometimes treating the son -- </p>
+<p>Your Petitioner states, that ^at^ the time he sold the liquor to young Dutten, he was engaged in business at Camp Burnside in this County, and had been considered and treated as a man of full age, doing business on his own responsibility for sometime; that he made contracts and agreements in his own name and for his own benefit, and Your Petitioner states, had he known that young Dutten was under age, he would not have sold him the liquor -- but <hi rend="str">thinking</hi> from the facts <hi rend="str">that</hi> above stated, of his trading &amp;c -- he supp-<pb/>
+<lb/>osed and believed he was of full age.</p>
+<p>Your Petitioner states, that he did not violate the law knowingly, and prays Your Excellency to remit the fines &amp; judgments against him.</p>
+<p>William E Vaught</p>
+<p>I am the Father of John Dutten, the minor, to whom William E. Vaught sold liquor -- I have permitted my Son to trade for himself, and have also permitted him to drink at the groceries in town -- I have treated him at various times, and he has treated me.</p>
+<p>He has been generally considered and treated as a man, by those who were no acquainted with his age.</p>
+<p>In view of all the circumstances I ask Your Excellency to remit the fines against M<hi rend="sup">r</hi> Vaught -- </p>
+<p>Daniel Dutten</p>
+<p>We the Citizens of Somerset are acquainted with all the facts connected with this case, and believe the Statements made herein are true, and ask your Excellency</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>W F Scott
+<lb/><cb n="2"/><unclear/>,, Wait
+<lb/>J G Chesney -- 
+<lb/>J S Dutten
+<lb/>W B Moore<pb/>
+<lb/><milestone unit="column" n="1"/>W A Seller
+<lb/>W Woodcock
+<lb/>W, H, Pettus
+<lb/>E D Perch</p>
+<p>to remit the fines against Vaught, as Young Dutten has been generally considered by the community a man of full age, doing business for himself -- </p>
+<p>W. <hi rend="underline">McKee Fox</hi><pb/></p>
+<p>Pulaski Cir Ct
+<lb/>vs
+<lb/>W<hi rend="sup">m</hi> E. Vaught
+<lb/>2 judgts
+<lb/>$50. each
+<lb/><date when="1865-08-15">15 Aug/65</date></p>
+<p>Sent for fee <date when="--08-04">4 Aug.</date></p>
+  </body>
+ </text>
+</TEI>

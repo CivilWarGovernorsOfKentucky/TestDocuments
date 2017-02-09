@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-227-0025"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Thomas E. Bramlette to John Boyle</title>
+    <title level="a" type="parallel">CWG14255</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>11th Ky. Cav (US) Muster Rolls</collection>
+      <idno>Flat Storage Box: 11th Ky Cav (US) Muster Rolls, Bundle 6</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1863-09-26">26 September 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Commonwealth of Kentucky,
+<lb/>EXECUTIVE DEPARTMENT,
+<lb/>Frankfort, <date when="1863-09-26">Sept 26<hi rend="sup">th</hi> 1863</date>.
+<lb/>Adjt Genl:</p>
+<p>If the Office of Lt Col 11<hi rend="sup">th</hi> Ky Cavalry is vacant, issue Comission to Archibald J Alexander, as L<hi rend="sup">t</hi> Co<hi rend="sup">l</hi> 11<hi rend="sup">th</hi> Ky Cavalry.-</p>
+<p>He helped raise the Regt and by some reason your predecessor, omitted to give him the position agreed upon between Co<hi rend="sup">l</hi> Rily &amp; Alexander upon the consolidation of their men. Riley has resigned I understand &amp; the va<hi rend="underline">can</hi>cy - if not filled should be filled by Co<hi rend="sup">l</hi> Alexander</p>
+<p>T E Bramlette<pb/></p>
+<p><hi rend="underline">11 Cav</hi><hi rend="underline"><hi rend="sup">y</hi></hi>
+<lb/>Lt. Col.
+<lb/><hi rend="underline">Alexander</hi>
+<lb/>Com. issd &amp; dele
+<lb/><date when="1863-09-26"><hi rend="underline">Sept</hi><hi rend="underline"><hi rend="sup">r</hi></hi><hi rend="underline"> 26. 1863</hi></date><figure type="hr"/></p>
+<p>Archibald J. Alexander com Lieut Col. 11" Cav<hi rend="sup">y</hi> Reg Ky Vols. <date when="1863-09-26">Sept<hi rend="sup">r</hi> 26. 1863</date> vice W<hi rend="sup">m</hi>. E Riley resig:-<figure type="hr"/></p>
+<p>1. 2. 3. 4. 5. 6. 7. 8.</p>
+<p><hi rend="underline">Issue</hi></p>
+  </body>
+ </text>
+</TEI>

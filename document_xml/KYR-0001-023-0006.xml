@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-023-0006"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Samuel Wildesen to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG2919</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, 1859-1862</collection>
+      <idno>MG1-181</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Finksburg, Carroll County, Maryland</placeName>
+    <date when="1860-11-22">22 November 1860</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Finkis Burg Elms: Potapeseco Copper Mines
+<lb/>Carrol Co MD.
+<lb/><date when="1860-11-22">November 22the 1860</date>
+<lb/>Dr Sir</p>
+<p>I rote to you some time in <date when="1860-09">September</date> -- I Sea the Legeslator of 6. Ky, I anssered a rewar of one $1000 to Cure the Hog Colerey -- I sent your honer the reciept to dirct to the Lgeslator did you recive my leter &amp; Receipt have you Sent it to the hous of Delgats -- pleas in form mea the name of the Speaker of the house &amp; what Post office to drect to him pleas ans this Direct in heart Finkes Burg Carroll Co ^<unclear/>^ ^Maryland^ I hope the Honerebel Lincoln will mke us a good presedent</p>
+<p>I am truley yours
+<lb/><hi rend="underline">Samuel Wildesen</hi>
+<lb/><unclear/></p>
+<p>Hon' Beriah Magffin<pb/></p>
+<p>Hog-Cholera</p>
+  </body>
+ </text>
+</TEI>

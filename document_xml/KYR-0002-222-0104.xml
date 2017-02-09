@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-222-0104"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Samuel G. Suddarth, Receipt to Hiram L. Coldiron</title>
+    <title level="a" type="parallel">CWG13793</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>Misc. QM Expenditures, 1863-1865</collection>
+      <idno>QMG Box 10; Folder 1865 Transportation, Ordinance (Stores), Arsenal, Postage, Subsistence/Forage, Contingencies; Center Stack</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1865-05-19">19 May 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>No. 22.<figure type="hr"/>
+<lb/>The State of Kentucky,
+<lb/>To Hiram, L, Coldiron Dr. </p>
+<p><table rend="rules">
+<row>
+	<cell><date when="1865">1865</date>.</cell>
+	<cell/>
+	<cell>DOLLARS.</cell>
+	<cell>CENTS.</cell>
+</row>
+<row>
+	<cell><date when="1865-05-19">May 19<hi rend="underline"><hi rend="sup">th</hi></hi></date></cell>
+	<cell>For Services rendered, recruiting for 49<hi rend="underline"><hi rend="sup">th</hi></hi> Kentucky Vols, from <date when="1864-07-26">July 26. 1864</date>, until <date when="1865-02-01">February 1<hi rend="underline"><hi rend="sup">st</hi></hi> 1865</date></cell>
+	<cell/>
+	<cell/>
+</row>
+<row>
+	<cell/>
+	<cell>Viz</cell>
+	<cell/>
+	<cell/>
+</row>
+<row>
+	<cell/>
+	<cell>11. Months @ $13<hi rend="underline"><hi rend="sup">00</hi></hi> per Month</cell>
+	<cell>143.</cell>
+	<cell>00</cell>
+</row>
+<row>
+	<cell/>
+	<cell><unclear/> Months @ $16<hi rend="underline"><hi rend="sup">00</hi></hi> do</cell>
+	<cell>114.</cell>
+	<cell>66</cell>
+</row>
+<row>
+	<cell/>
+	<cell/>
+	<cell>257.</cell>
+	<cell>66</cell>
+</row>
+</table></p>
+<p>Said Hiram. L, Coldiron was captured by the enemy Previous to being mustered into the U. S. service and was retained in Confinement until <date when="1865-02-01">Feby 1<hi rend="underline"><hi rend="sup">st</hi></hi> 1865</date>, as is shown by the accompanying Certificates of his Company Commander and is hereby ordered to be Paid</p>
+<p>By order of the Governor </p>
+<p>D. W. Lindsey
+<lb/>Adjt Gen<hi rend="underline"><hi rend="sup">l</hi></hi> Ky</p>
+<p><hi rend="str">I Certify that the above account is correct and just; that the services were rendered as stated; and that they were necessary for the public service, and will be reported on my return of <gap/>for the month ending the <gap/> day of <gap/> 1865.</hi></p>
+<p><gap/>
+<lb/>Captain and Assistant Quarter-Master Ky. Vols.</p>
+<p>Received at Frankfort, Kentucky, the <date when="1865-05-19">19 of May, 1865,</date> of S. G. SUDDARTH, Quarter-Master General of the State of Kentucky, the sum of Two Hundred &amp; Thirty Seven Dollars, and sixty six -- Cents, in full of the above account.</p>
+<p>(DUPLICATE.)</p>
+<p>Hiram. L. Coldiron<pb/></p>
+<p>1973 1175
+<lb/>No. 22.<figure type="hr"/>
+<lb/>No. 17 Abstract B. Ordnance Qr. <date when="1865">1865</date>.
+<lb/>Hiram L. Coldiron
+<lb/>Dollars 257 <hi rend="sup">66</hi>/<hi rend="sub">100</hi>
+<lb/>Paid <date when="1865-05-19">19 May, 1865</date>.</p>
+<p>Pay of Men
+<lb/><hi rend="underline">Ordnance &amp;c</hi>.
+<lb/>367</p>
+  </body>
+ </text>
+</TEI>

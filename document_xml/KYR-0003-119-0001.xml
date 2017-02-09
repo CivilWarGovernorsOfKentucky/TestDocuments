@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0003-119-0001"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Simon B. Buckner, Special Orders, No. 224</title>
+    <title level="a" type="parallel">CWG14450</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Christina K Adkins</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Historical Society</repository>
+      <collection>Emilie Todd Helm Papers</collection>
+      <idno>Box 1, Folder 2</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date when="1861-07-22">22 July 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Order</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Headquarters Ky. State Guard,
+<lb/>Louisville, <date when="1861-07-22">22 July, 1861</date>.</p>
+<p>Special orders
+<lb/>No 224 } Extract</p>
+<p>By authority of the Commander in Chief, the resignation of the following officers are hereby accepted, to take effect from this date, to wit; of Col. B. H. Helm, Asst. Inspector General <figure type="hr"/></p>
+<p>S B Buckner
+<lb/>Insp. Gen.<pb/></p>
+<p>"Galigonegée" -- or Galiogi,- a Turkish sailor; the Greeks navigate the Turks work the guns.</p>
+  </body>
+ </text>
+</TEI>

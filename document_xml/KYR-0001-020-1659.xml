@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1659"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Lewis L. Sullivan et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG11127</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Andrew P Patrick</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG22-324</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Franklin County, Kentucky</placeName>
+    <date when="1862-02-18">18 February 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency Gov Magoffin Gov of Ky.</p>
+<p>Your Petitioner would humbly represent that he has been fined the sum of Fifty dollars at the present term of the Franklin Circuit Court for selling to ^a^ Minor spiritous Liquors -- </p>
+<p>Your petitiner would represent that he knew of no such law forbidding him to sell to Minors -- that he was duly licenced to sell Liquors -- that the Minor had been doing business for him self and that he had always regarded him as of Age -- also from his personal appearance <hi rend="underline">any</hi> <hi rend="underline">one</hi> would regard him as a full man in age as well as development -- </p>
+<p>Your Petitioner would further represent that he is a poor man with a large family of children and could not pay said fine without great sacrifices</p>
+<p>Lewis.L. Sullivan
+<lb/>E L Nuttall
+<lb/>J. A. Crittenden D. Sheriff
+<lb/>P. U. Major C. A -- </p>
+<p><date when="1862-02-18">Feb. 18<hi rend="sup">th </hi>1862</date></p>
+<p>Sworn to in due form before the undersigned a Justice of the peace for Franklin County by Lewis L. Sullivan this <date when="1862-02-18">18<hi rend="underline"><hi rend="sup">th</hi></hi> day of Feby 1862</date></p>
+<p><hi rend="underline">G W Gwin J. P.</hi><pb/></p>
+<p>Franklin Cir. Ct.
+<lb/><hi rend="str">Respite 6 mo</hi>
+<lb/>B. M. 
+<lb/>$50 } Liquor to a Minor
+<lb/>Remission Iss<hi rend="sup">d</hi>
+<lb/>L. L. Sullivan
+<lb/>Iss<hi rend="sup">d</hi> <date when="1862-02-19">Feby 19. 1862</date></p>
+  </body>
+ </text>
+</TEI>

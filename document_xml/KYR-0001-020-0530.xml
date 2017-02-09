@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0530"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Sizemore, Jr. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG9998</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG18-320</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Prestonburg, Floyd County, Kentucky</placeName>
+    <date when="1861-01-12">12 January 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Prestonsburg Ky
+<lb/><date when="1861-01-12">Jan 12th 1861</date>.
+<lb/>To His Excellency
+<lb/>Beriah Magoffin
+<lb/>Governor of Ky</p>
+<p>Your Petitioner John Sizemore would respectfully represent that at the <date when="1860">spring term 1860</date> of the Floyd circuit court he was find $30 -- for a breach of the peace on an indictment -- He further says he was not Guilty of any offense whatever but was by accident in company with some man who was drinking and that they became noisey and to some extent bosterous and he being duly sober tried to Quiet those who were drinking all this occured near the house of one Mr Click who made the indictment and who was so distant he could not designate with certanty the persons really making the noise he says he was therefore fined by the Jury the sum afforesaid he says he was sober and did all he could to prevent noise &amp; confusion and he thinks it hard he should have $30 -- and cost to pay for trying to pressure order he therefore prays your Excellency to remit sd fine</p>
+<p>John Sizemore Jr<pb/></p>
+<p>Dear Governor</p>
+<p>I hope you will find it consistent both with your feelings and duty to remit the within named fine Mr Sizemore is a very Clever young man -- and truthful and is a poor labouring man</p>
+<p>Respectfully</p>
+<p>John M Burns</p>
+<p>Floyd Cir Ct
+<lb/>Respite 12 mo
+<lb/>B. M
+<lb/>$50 } breach
+<lb/>Jno Sizemore
+<lb/>Iss<hi rend="sup">d</hi> <date when="1861-01-28">Jany 28, 1861</date></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-031-0238"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Wallis Baley to Unknown</title>
+    <title level="a" type="parallel">CWG7978</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Appointments by the Governor, Civil Appointments, 1862-1863</collection>
+      <idno>R1-328</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Salyersville, Magoffin County, Kentucky</placeName>
+    <date when="1863-05-20">20 May 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Salyerville
+<lb/>Magoffin County Kentucky
+<lb/>M<hi rend="underline"><hi rend="sup">r</hi></hi> <unclear>J. B. Monre</unclear> Secatary of State Dear Sir I here inclose the Securtificates of Election of Justices of the peace in the County of Magoffin and I disire the Commisions Sent by way of Catlettsburgh Mouth of Big Sandy Ky and Hallaway Power County Judge has not received his Commision yet who was Elected <date when="1862-08">last august</date> as mail Soon Stoped after that time and Exspect the post offices have bean Robed and I desire his Commision would be processed on with the Balance and oblige yours Truly</p>
+<p>Wallis Baley C M C C<pb/>
+<lb/>Magoffin Co<figure type="hr"/>
+<lb/>Justices
+<lb/>Com<hi rend="underline"><hi rend="sup">s</hi></hi> Iss<hi rend="sup">d</hi> <date when="1863-05-20">May 20. 1863</date></p>
+  </body>
+ </text>
+</TEI>

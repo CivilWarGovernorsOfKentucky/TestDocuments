@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2992"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">William H. Baker et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7629</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR43-89</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>His Excelencey Tho<hi rend="underline"><hi rend="sup">s</hi></hi> E. Bramlette
+<lb/>Govenor of Kentucky</p>
+<p>Your petitioners Residents of Boone County Kentucky Respectfully Represent to your Exclency that at the <date when="1866-04">April Term of the Boone Circuit Court 1866</date> Reason R M<hi rend="sup">c</hi>Namara was fined Sixty Dollars ($60) for Keeping A tipling House the facts are as follows viz the offence was Committid at the Boone fair Ground Some friends of the Defendent M<hi rend="underline"><hi rend="sup">c</hi></hi>Namara was keeping A Grocery at the fair Ground and Employed M<hi rend="sup">c</hi>Namara to assist them ^in^ said Grocery and while in said Grocery did violate the Law by Selling Spiritous Liquors Your petitioners further Represent that the Defendent is an Honest Law-abiding Citizen and has a family dependent on his dayley Labor for a Support and as it is his first offince against the Law your petitioners ask your Honor to Remit said fine &amp; allow the whole Labor of the Deft to be applied to the Support of his familey and your petitioners <hi rend="str"><unclear/></hi> as in duty bound will ever pray<pb/> </p>
+<p><milestone unit="column" n="2"/><cb n="1"/><hi rend="str">W</hi><hi rend="str"><hi rend="sup">m</hi></hi><hi rend="str"> H Ba</hi>
+<lb/>W<hi rend="sup">m</hi> H Barker
+<lb/>John Horton
+<lb/>John A Storey
+<lb/>F M Howlett
+<lb/>J A Johnson
+<lb/>F. Q. Baker S. B. C.
+<lb/><unclear/> Baker D S B C
+<lb/>G B Hume
+<lb/>J. C. Finnell
+<lb/>I. Horten
+<lb/>T B Johnson
+<lb/>W. L. O'Neal
+<lb/>Nash Burris
+<lb/>James Holmes
+<lb/>Joseph Dews
+<lb/>James Eldred
+<lb/>M, Long
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Howlett
+<lb/>J. W. Miller
+<lb/>J. W. Kites
+<lb/>Pat M<hi rend="underline"><hi rend="sup">c</hi></hi>Kinsy
+<lb/>G. C. Wolford
+<lb/>H. S. Wolford
+<lb/>Samuel Wolford
+<lb/>G L Miller
+<lb/>J J Miller
+<lb/>J F Allen Jr.
+<lb/>G G Johnson
+<lb/>John N Grimbsley
+<lb/>T. J. Chittenden
+<lb/><cb n="2"/>S J Ewalt
+<lb/>G M Baker
+<lb/>J S Johnson
+<lb/>T. J. Kite
+<lb/>John O Miller
+<lb/>R D Johnson
+<lb/>G Stevenson
+<lb/>A A Bradford
+<lb/>J. M. Rich
+<lb/>John Gregg
+<lb/>John Roberts
+<lb/>Jacob Craig
+<lb/>T. B Finnell
+<lb/>W. R Johnson
+<lb/>J P Johnson
+<lb/>A. D. Jenkins
+<lb/>E. Black
+<lb/>George W Black
+<lb/>D B Grimsbey
+<lb/>William Odor
+<lb/>B. F. Green
+<lb/>A Odor
+<lb/>A. B Chittenden
+<lb/>John Chittenden
+<lb/>Ben Snow
+<lb/>Vincent Ross
+<lb/>John King
+<lb/><milestone unit="column" n="1"/><note place="right margin">P, O, Hamilton</note></p>
+<p><note place="left margin">Boone Cir Ct
+<lb/>vs
+<lb/>Reason P McManama
+<lb/>$60, Tip House</note></p>
+  </body>
+ </text>
+</TEI>

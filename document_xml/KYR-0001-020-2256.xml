@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-2256"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Thomas McQueen et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG9332</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG24-418</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency
+<lb/>Beriah Magoffin
+<lb/>Gov of Kentucky</p>
+<p>We the undersigned State that We are the Jurors in the case of the Com<hi rend="underline"><hi rend="sup">th</hi></hi> against James R Isaacs in the Jackson Ciruit Court at its present <date when="--11">Nov Term</date> -- </p>
+<p>We would state that while we believed under the law and testimony we were bound to find him guilty of Manslaughter yet we cheerfully state that the testimony showed that the difficulty in which John Morris the deceased was mortally wounded did not originate with the said James R Isaacs but came up suddenly between Said Morris and Samuel Isaacs the brother of said James R. and the said James R was drawn into the difficulty in account of his said brother Samuel who was also killed in the same difficulty in which Marris was Mortally wounded -- We further State that we believe that most of the wounds inflicted on said Morris are inflicted by said Samuel Isaacs after he had been Mortally wounded by a pistol shot from V. H. Morris the sone of the Said decedent We therefore unanimously ask your Excellency to pardon said James R. Isaacs,</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Thomas McQueen
+<lb/>W<hi rend="sup">m</hi> Forbes
+<lb/>Elijah Stewart
+<lb/><cb n="2"/>Preston Penington
+<lb/>James Tinchers
+<lb/>William Willis
+<lb/>W <unclear/><pb/>
+<lb/><milestone unit="column" n="1"/>Cornelius Moore
+<lb/>Hugh O Donnell</p>
+<p>Isaacs case -- </p>
+  </body>
+ </text>
+</TEI>

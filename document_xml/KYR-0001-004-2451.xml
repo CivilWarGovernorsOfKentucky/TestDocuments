@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2451"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">James H. Moore to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7088</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR15-402 to BR15-403</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Whitley County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Whitley County
+<lb/>State of Kentucky
+<lb/>To His Excellency
+<lb/>Thos. E. Bramlet
+<lb/>Gov of Kentucky</p>
+<p>Your Petitioner James H. Moore, would most respectfully represent, that on the <date when="1865-07-04">4<hi rend="underline"><hi rend="sup">th</hi></hi> day of July 1865</date> in the Town of Williamsburg, a number of Discharged Soldiers from the Union Army meet to selebrate the day with many Citizens -- Myself one of the Soldiers</p>
+<p>That our Friends being glad to see us on such an occasion from their many and Earnest solicitations we took a few drinks too many. A little noise and Confusion was the result no licks struck -- no person hurt -- and all was soon quiet -- </p>
+<p>Your Petitioner was arrested by an officer and tried fined the sum of $10 -- and cost about $<gap/></p>
+<p>Your Petitioner would states that he is a poor man of family and that it would be oppressive on him at this time to have it to pay that He has had Every Thing that Himself and family have lived on to buy since He left the Service -- </p>
+<p>He would therefore in consideration of the forgoing statement of Facts most Earnestly and respectfully<pb/>
+<lb/>ask a remission of the aforesaid fine -- Your petitioner promises that for the future He will not again be guilty</p>
+<p>James H. Moore</p>
+<p>The undersigned citizens of Whitley County say that they are acquainted with the Petitioner James H. Moore That they believe the Statements in His Petition are substantially true And Respectfully ask that His fine be remitted</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>names
+<lb/>C J <unclear/>
+<lb/>James underwood
+<lb/>John hickey
+<lb/>A, R, Barton
+<lb/>W M Hays
+<lb/>John Henson
+<lb/>Wm Rogers
+<lb/>John Barton
+<lb/>M, A, Moore
+<lb/>Jesse Wilder
+<lb/>E R Bruce
+<lb/>James L. Sanders
+<lb/>S. M Cox
+<lb/><unclear/> Leforce
+<lb/><cb n="2"/>names
+<lb/>G, W, Little
+<lb/>W<hi rend="sup">m</hi> B Waite
+<lb/>W E Manney
+<lb/>H. L. Brammel
+<lb/>Jno. A. Hayden
+<lb/>W, B, Davis
+<lb/>Daniel Cox
+<lb/>Demcy Smith
+<lb/>Willis Patrick
+<lb/>L. Ellison
+<lb/>H C Dennis
+<lb/>I K Sullivan
+<lb/>Jacob Mayfield
+<lb/>Alexander Smith
+<lb/>J. J. Faulkner
+<lb/>G W Parkes
+<lb/>Wm Roberts<pb/></p>
+<p><milestone unit="column" n="1"/>Whitley County Judge
+<lb/>vs
+<lb/>Jas H Moore
+<lb/>$10
+<lb/>Remitted <hi rend="str">Sept /65</hi> <date when="1865-10-02">2<hi rend="sup">d</hi> Oct /65</date></p>
+<p>Sent for fee <date when="---09">9<hi rend="sup">th</hi></date></p>
+  </body>
+ </text>
+</TEI>

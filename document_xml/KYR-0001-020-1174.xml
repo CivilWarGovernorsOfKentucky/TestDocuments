@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1174"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">K. F. Hargis et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10642</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG20-337 to MG20-338</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Owsley County, Kentucky</placeName>
+    <date when="1861-06-20">20 June 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Owsley county Ky. <date when="1861-06-20">June 20th 1861.</date></p>
+<p>To his Excellency Beriah Magoffin Gov. Ky. your petitioners Respectfully Represent that Josiah Baker was fined $50<hi rend="sup">00</hi>/<hi rend="sub">00</hi> -- At the <date when="1861-05">May term ^1861^</date> of the Owsly circuit court for carying -- a pistol <hi rend="str">wha</hi> and further state said</p>
+<p>Baker is a very poor man and has a family and has to <hi rend="str">work</hi> ^support them^ by days work -- and is unable to pay said fine -- and -- therefore asks your Excellency to Remit said fine -- very Respectfully,</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>K F Hargis
+<lb/>Sam<hi rend="sup">l</hi> Beatty
+<lb/>Richard Benett
+<lb/>John Farmer
+<lb/>William Lee
+<lb/>Samuel Hounshel
+<lb/>James thalker
+<lb/>moses dunaway
+<lb/>Alfred York
+<lb/>Decatur Beatty
+<lb/>W G Smallwood
+<lb/>W P Hill
+<lb/>W.. M,, Akers
+<lb/>C. J. Blount
+<lb/>A J Mann
+<lb/>Price Price
+<lb/>Ancel Crawford
+<lb/>David Snowden
+<lb/>thomas Slome
+<lb/><cb n="2"/>John Duke
+<lb/>Moris Newnam
+<lb/>John Durbin
+<lb/>J. W. Eager
+<lb/>John Baker
+<lb/>William Fincher
+<lb/>Edward Durbin
+<lb/>John Pritehare
+<lb/>John Cole: J P C C
+<lb/>Alfred Bowman
+<lb/>Martin Man
+<lb/>J B Estes
+<lb/>J M Gilbert
+<lb/>J M Hall
+<lb/>M C Pittman
+<lb/>G H Howel
+<lb/>F M Snowden
+<lb/>John Sterdivant
+<lb/>Ben McGuire<milestone unit="column" n="1"/><pb/>
+<lb/>William S. M<hi rend="sup">c</hi>Guire
+<lb/>M. S. McGuire
+<lb/>William J. Mann
+<lb/>Jonathan McGuire
+<lb/>Ambrs Durbin
+<lb/>J S Powel
+<lb/>H Powell
+<lb/>Asly Smith
+<lb/>W. M; Adair
+<lb/>M M Akers
+<lb/>B Green
+<lb/>Jasper Durbin
+<lb/>Edward Kingkaid
+<lb/>Jesse Cole
+<lb/>Silvester Sparks
+<lb/>Richard Smith
+<lb/>C. P. Arkers
+<lb/>Elijah Creech
+<lb/>Aquilla White
+<lb/>James.F. Graham
+<lb/>Silas Philips
+<lb/>Wiley Burns
+<lb/>Thomas Haw<hi rend="str">a</hi>k
+<lb/>Pleasant Hensley
+<lb/>Benjamin Haw<hi rend="str">a</hi>k
+<lb/>Pleasant Harris
+<lb/>Mitchiel Ham
+<lb/>Henry Jones</p>
+<p>Knox Cir. Ct</p>
+<p>Remitted
+<lb/>B. M</p>
+<p>$50. } Weapons
+<lb/>Js. Baker</p>
+<p>Iss<hi rend="sup">d</hi> <date when="1861-07-01">July 1 1861</date></p>
+  </body>
+ </text>
+</TEI>

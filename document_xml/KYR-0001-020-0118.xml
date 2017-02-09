@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0118"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">E. L. Cowles, Affidavit</title>
+    <title level="a" type="parallel">CWG9586</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG17-27</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Bourbon County, Kentucky</placeName>
+    <date when="1860-10-30">30 October 1860</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency B. Magoffin Governer of Kentucky, Your petitioner E. L Coles respectfully states:</p>
+<p>That about the first of July last your petitioner who <hi rend="str">was</hi>is a citizen of Lexington Fayette county came to paris on a visit &amp; put up at the Bourbon house in paris, &amp; with some friends engaged in a game of cards with a stake of ten cents, it being for amusement alone -- It was a casual visit &amp; a casual game, and he is in no sense of the word a gambler or addicted to gameing in any way -- </p>
+<p>Some malicious person got knowledge of the game, &amp; got the Grand Jury to summon one of the gentlemen engaged, &amp; forced him to be a witness, and at the <date when="--07">July Term</date> last of the Bourbon circuit court he was fined $20 in two cases, it being proved by the witness that the party was engaged before dinner &amp; after dinner -- John Talbott &amp; Capt Worley of Lexington were the other parties engaged in the 10 cent game afrs<hi rend="underline"><hi rend="sup">d</hi></hi> and the fines of said Talbott have been remitted. He prays for the remission of said fines -- </p>
+<p>E. L. Cowles</p>
+<p>Personally appeared before the subscriber E. L Cowles and made oath that the statements in the above affidavit are true</p>
+<p>Given under my hand this the <date when="1860-10-30">30<hi rend="underline"><hi rend="sup">th</hi></hi> day of October 1860</date></p>
+<p><hi rend="underline">W</hi><hi rend="underline"><hi rend="sup">m</hi></hi><hi rend="underline"> M. Samuel P. J B. C</hi><pb/></p>
+<p>We the undersigned believe the facts stated in said petition are true &amp; unite with the prayer thereof -- </p>
+<p><hi rend="underline">R. Hawes</hi>
+<lb/>J, V, Lovely
+<lb/>F Troutman
+<lb/>Tho L Arnold
+<lb/>J. <unclear><hi rend="underline">Sprans</hi></unclear></p>
+<p>Bourbon Cir Ct
+<lb/>$20. 2 Judgment
+<lb/>Gaming
+<lb/>E. L. Cowley
+<lb/>Remission Iss<hi rend="sup">d</hi>
+<lb/><date when="1860-11-08">Nov 8. 1860</date></p>
+<p>Remitted 
+<lb/>B. M</p>
+  </body>
+ </text>
+</TEI>

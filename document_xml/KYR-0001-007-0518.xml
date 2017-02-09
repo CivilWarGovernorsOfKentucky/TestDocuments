@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0518"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Rezin D. Steele to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG2183</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Appointments by the Governor, Civil Appointments, 1863-1867</collection>
+      <idno>BR2-482</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Paducah, McCracken County, Kentucky</placeName>
+    <date when="1865-09-06">6 September 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>W. F. Norton.
+<lb/>Ex. Norton.
+<lb/>Banking House,
+<lb/>of
+<lb/>of Norton Brothers.
+<lb/>Paducah, Ky. <date when="1865-09-16">Septr 16 1865</date>
+<lb/>To His Excellency
+<lb/>Tho<hi rend="sup">s</hi>. E. Bramlette.
+<lb/>Dr Sir,</p>
+<p>I am "Teller" in the Banking House of Mess Norton Bro<hi rend="sup">s</hi> and it is necessary that they should have a "Notary public" and I most respectfully ask the appointment.</p>
+<p>I am Dear sir yours &amp;c &amp;c.
+<lb/>Rezin D. Steele, Jr.<pb/></p>
+<p>Notary Public
+<lb/>M<hi rend="sup">c</hi>Cracken Co
+<lb/>R D. Steele Jr
+<lb/>appt<hi rend="sup">d</hi>
+<lb/><date when="1865-09-21">21<hi rend="sup">st</hi> Sept/65</date></p>
+  </body>
+ </text>
+</TEI>

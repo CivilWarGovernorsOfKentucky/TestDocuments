@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1918"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Kane to Unknown</title>
+    <title level="a" type="parallel">CWG11386</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Bradley Strait</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG23-352 to MG23-353</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Harrodsburg, Mercer County, Kentucky</placeName>
+    <date when="1862-05-21">21 May 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Harrodsburg, Kentucky, 
+<lb/><date when="1862-05-21">May 21<hi rend="underline"><hi rend="sup">st</hi></hi> 1862</date>
+<lb/>My Dear Friend, </p>
+<p>Your letter in reply to mine has come to hand &amp; <hi rend="str">I</hi>as I am hastened I hasten to reply. A Petition was sent down to you &amp; I suppose in the numerous things of the same kind ^sent to you^ it has been lost. But I will give you data so that you can act officially.</p>
+<p><note place="right margin">our post master here as it was directed to so may have sent it to sent it the secraraty of war</note></p>
+<p>In Squire Haynes court on the <date when="1861-08-24"><hi rend="str">the</hi>24<hi rend="underline"><hi rend="sup">th</hi></hi> of August ^1861^</date> W H W<hi rend="underline"><hi rend="sup">m</hi></hi> Mullen was fined the sum of $5. for a Breach of the Peace. </p>
+<p>In the Police Court of the Town of Harrodsburg on the <date when="1861-12-04">4<hi rend="underline"><hi rend="sup">it</hi></hi> of December 1861</date> he was fined the sum of $5 &amp; costs. </p>
+<p>I became his security for those fines for he was not able to pay them, besides I thought they were unjust. All of<pb/>
+<lb/>the facts of the two cases were fully stated in the Peition sent down to you &amp; sworn to by M<hi rend="sup">c</hi>Mullen. I do not know whether <hi rend="str">you</hi> to send you down another petition or not but am advised that a statement such as is made in this letter will be sufficient I am very well satisfied of one thing and is this that you will do everything for me that you can. If you should think that another Petition is necessary answer immediately and I will send it down. </p>
+<p>We have no news here except the organization of a new "<hi rend="str">S</hi><hi rend="underline">home</hi> <hi rend="underline">Guard</hi>" to catch John Morgan. Nathan Stone is one of the officers.</p>
+<p>I am very sincerely your friend.
+<lb/>John Kane<pb/></p>
+<p>Harrodsburg Po Ct
+<lb/>Mercer Co J P Ct
+<lb/>$5 each } Breach
+<lb/>W H M<hi rend="sup">c</hi>Mullen
+<lb/>Iss <date when="1862-05-28">May 28 1862</date></p>
+<p><hi rend="str">Issue Commission</hi>
+<lb/>Remitted
+<lb/>B. M.</p>
+  </body>
+ </text>
+</TEI>

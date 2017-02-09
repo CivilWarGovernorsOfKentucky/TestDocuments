@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2230"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">P. C. Hardin to Thomas E. BRamlette</title>
+    <title level="a" type="parallel">CWG6867</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR15-48</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Columbia, Adair County, Kentucky</placeName>
+    <date when="1865-08-08">8 August 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Columbia Ky
+<lb/><date when="1865-08-08">August 8<hi rend="sup">th</hi> 1865</date>
+<lb/>Govenor Bramblette
+<lb/>Dear Sir</p>
+<p>Elsey M<hi rend="sup">c</hi>donal and Milton B. Cox were jointly indicted in this court for robery. They had separate trials M<hi rend="sup">c</hi>donal was tried first, and convicted, the case was prepared for the Court of Appeals but was not presented on account of his death, at the next Term Cox was tried, substantially the same evidence was given against ^him^ and for him, he was convicted.</p>
+<p>His Father wishes to apply to you for his pardon, the <unclear>record</unclear> in the case of M<hi rend="sup">c</hi>donal, he will present to you, I hope you will examine it, &amp; will then dispose of his case as your good judgment may think you ought, Yours most respectfully</p>
+<p>P, C, Hardin<pb/></p>
+<p>P. C. Hardin
+<lb/><date when="1865-08-08">Augst. 8th/65</date></p>
+<p>Gov<hi rend="underline"><hi rend="sup">r</hi></hi> Bramblette
+<lb/>Frankfort
+<lb/>Ky
+<lb/>M C. Cox</p>
+  </body>
+ </text>
+</TEI>

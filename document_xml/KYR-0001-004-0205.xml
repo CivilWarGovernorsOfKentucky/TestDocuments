@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0205"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">James A. Anderson et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG4324</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR8-320 to BR8-321</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Lancaster, Garrard County, Kentucky</placeName>
+    <date when="1863-10-06">6 October 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Lancaster Ky.
+<lb/><date when="1863-10-06">6<hi rend="sup">th</hi> October 1863</date>
+<lb/>To his Excellency Gov Bramlette</p>
+<p>The undersigned citizens <hi rend="str">afa</hi> Garrard County &amp; many of us neighbors of the family of Jacob Wearren and would respectfully represent that at the <date when="1864-03">March term 1854</date> of the Madison Circut Court an Indictment for Tippling was found or Jacob Wearren, and at the <date when="1854-09">Sept term</date> of said Court there was a verdict &amp; Judgmt for $60 fine and $10.80 cost of action. That shortly thereafter he rendered to this county where he continued to reside up to the time of his death, which occurred on the <gap/> day of <date when="1863-02">February 1863</date>. That he left a widow &amp; four children. The eldest of whom is not exceeding 12 years of age and is a girl, that he left some little property, but not a sufficiency to support his helpless family and educate his children as it should be done. That since his death execution has issued on s<hi rend="sup">d</hi> Judgt ^to wit <date when="1863-09-28">28<hi rend="sup">th</hi> September 1863</date>^ returnable 2<hi rend="sup">nd</hi> Monday in <date when="--10">October</date> (With Madison Circuit Court) &amp; is now in the hands of the Sheriff of Garrard County for collection. Now the persons considered, we respectfully Petition Your Excellency<pb/></p>
+<p>to remit said fine or so much thereof as the case warrants. <hi rend="underline">The case well merits the clemency of the Executive</hi>.</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Admr. Jas. A. Anderson
+<lb/>W. D. Hopper Clk Garrard Cir Court,
+<lb/>F. P. Stickley
+<lb/>Jo Burnside
+<lb/>J J Huffman
+<lb/>M. N. Gill
+<lb/>Clifton Anderson
+<lb/>Jas A Burnside
+<lb/>Joseph Hicks
+<lb/>Ali Green
+<lb/>R A Harris
+<lb/>M J Lusk
+<lb/>R. L McMurtry
+<lb/>W J Gillimire
+<lb/>W. F. Graham
+<lb/>Ja<hi rend="sup">s</hi> M Pollard
+<lb/>W<hi rend="sup">m</hi>. H. Anderson
+<lb/>Zach Elkin
+<lb/>A. R. Danny
+<lb/>J T Conn
+<lb/>Robert Beazley,
+<lb/>L R McMurtry D. M.
+<lb/>J. S. Beazley
+<lb/>H. B. Gibbs
+<lb/>L. B. Hudson
+<lb/>W<hi rend="sup">m</hi> Brother
+<lb/>Col Dan Collier
+<lb/><cb n="2"/>William Collier
+<lb/>W. H. Whemitt Clk M C
+<lb/>M. L. Rice
+<lb/>C C Stone
+<lb/>B F Duncee
+<lb/>R H Hearen
+<lb/>Ambrose Buford
+<lb/><hi rend="str">Anderson</hi>
+<lb/>Jas Logan
+<lb/>W<hi rend="sup">m</hi> Sellers
+<lb/>Jas H Gauntes
+<lb/>W. A. Gauntes
+<lb/>S Mars
+<lb/>J H Enfeman
+<lb/>E W Miller
+<lb/>T. Currey
+<lb/>A. C. Dunn
+<lb/>John S Gill
+<lb/>William Suddarth
+<lb/>T L Harris
+<lb/>Jas N Aldridge
+<lb/>B F Phengo D.S.S.C
+<lb/>S Hopper
+<lb/>Jerry. B. Smith
+<lb/>G. B. Aldridge
+<lb/>James Dole
+<lb/>H C Herring<milestone unit="column" n="1"/><pb/></p>
+<p>Madison Circuit
+<lb/>vs
+<lb/>Jacob Wearren
+<lb/>$60 -- 
+<lb/>Tipling</p>
+<p>Remit all except costs &amp; fees <date when="1863-10-08">O<hi rend="sup">ct</hi> 8<hi rend="sup">th</hi> 63</date>
+<lb/>Thos E Bramlette</p>
+  </body>
+ </text>
+</TEI>

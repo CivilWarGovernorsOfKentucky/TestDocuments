@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-038-0027"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">E. W. Gould to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG12511</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>Union Artillery, Navy and Marines Primary Source Documents ; Misc U.S.C.T. Primary Source Documents</collection>
+      <idno>Box 14, Folder BTRY C - 1st REGT LIGHT ARTILLERY 3nd BTRY OFFICERS</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Lexington, Fayette County, Kentucky</placeName>
+    <date when="1864-10-03">3 October 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Head-Quarters District ^Mil.^ of Kentucky,
+<lb/>OFFICE <hi rend="str">ASSISTANT COMMISSARY OF MUSTERS,</hi> Prov,, Mar,, Genl,,
+<lb/><hi rend="str">Camp Nelson</hi>, Lexington Ky., <date when="1864-10-03">Oct,, 3<hi rend="underline"><hi rend="sup">rd</hi></hi> 1864</date>.
+<lb/>Governor Bramlet,</p>
+<p>Sir I have the honor to respectfully ask what officer of Co,, "C" 1<hi rend="underline"><hi rend="sup">st</hi></hi> Ky,, Light Artillery have made application for promotion, and what one has applied for Captaincy. I am desirous of making an application myself and I wish to know what places have been applied for in the Company please answer by return mail, direct as above.</p>
+<p>I am Governor
+<lb/>Very Respectfuy
+<lb/>Your Obdt,, Servt,,
+<lb/>E. W. Gould
+<lb/>Sergt,, Co,, "C." 1<hi rend="underline"><hi rend="sup">st</hi></hi> Ky. Lt,, Arty,,<pb/></p>
+<p>1
+<lb/>Head qrs Dist Mil. of Ky
+<lb/>Pro. Mar. Gen<hi rend="underline"><hi rend="sup">ls</hi></hi>
+<lb/>Lexington <date when="1864-10-03">Oct 3" 1864</date>.<figure type="hr"/>
+<lb/>Gould E. W.
+<lb/>Sergt Co "C" 1" Ky. L. A.<figure type="hr"/>
+<lb/>To The Gov_<figure type="hr"/>
+<lb/>Asks what officers of Co "C" 1" Ky Light Arty have made application for promotion &amp; who has applied for captaincy -- Desires making application himself and wants to know what places have been applied for -- <figure type="hr"/>
+<lb/>L B N<hi rend="sup">o</hi> 7 -- <date when="1864">1864</date> P. 136<figure type="hr"/>
+<lb/>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> A. G. O. <date when="1864-10-03">Oct 3" 1864</date> -- </p>
+  </body>
+ </text>
+</TEI>

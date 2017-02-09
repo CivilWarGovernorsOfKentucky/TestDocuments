@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0129"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Joseph Clement et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG9597</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG17-43 to MG17-44</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>The undersigned unite with Mr Merkley in his Petition, &amp; respectfully ask your Excellency to release him from his liability on his bond as Bail for Bernstine.</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>J<hi rend="underline"><hi rend="sup">os</hi></hi> Clement.
+<lb/>John Williams atty
+<lb/>G W M<hi rend="sup">c</hi>Carty
+<lb/>T. L Payne atty at Law
+<lb/>W<hi rend="sup">m</hi> W Berry
+<lb/>J D Stone
+<lb/><hi rend="underline">W W Fry</hi>
+<lb/>A. W. Gaglay
+<lb/>A. M. Stout
+<lb/>Robt S Hamilton
+<lb/><hi rend="underline">Will M. Marriner</hi>
+<lb/>D, W, Henderson
+<lb/>W<hi rend="sup">m</hi> H, Watts
+<lb/>T F <hi rend="underline">Evans</hi>
+<lb/>John Kohlhess Jr
+<lb/>Chas. G. Wintersmith
+<lb/>Simp S. <hi rend="underline">Meddis D Sheriff</hi>
+<lb/>John Hunt
+<lb/>C. M. Briggs
+<lb/>I, I, T, Murray
+<lb/>B. S Rust
+<lb/><cb n="2"/>J, G, P, Hood
+<lb/>Cha<hi rend="underline"><hi rend="sup">s</hi></hi> L. Thomasson.
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Mix Jr.
+<lb/>Alex. B. Ferguson
+<lb/><hi rend="underline">E. K. Seeles</hi>
+<lb/><hi rend="underline">John Jones Jr</hi>
+<lb/><hi rend="underline">J. G. Wilson</hi>
+<lb/>W R Hydes
+<lb/>John Harrison
+<lb/><hi rend="underline">R. T. Durrett</hi>
+<lb/>A <unclear/></p>
+  </body>
+ </text>
+</TEI>

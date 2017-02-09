@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2458"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">B. F. Simpson to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7095</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR15-415</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Pulaski County, Kentucky</placeName>
+    <date when="1865-10-03">3 October 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency Thos E. Bramlett Governor of the Commonwealth of Kentucky</p>
+<p>The undersigned B. F. Simpson your petitioner would respectfully state to your Honor that at this the present <date when="1865-09">September Term 1865</date> of the Pulaski Circuit Court he was indicted by the Grand Jury of said County for the of selling spirituous Liquors to a minor, to wit, one Robt N. Graves and that he had been keeping tavern but a few days about five miles out from Somerset and did not know that it was contrary to law to sell Spts Liquors to a minor and that the s'd Graves is a man and looks to be twenty one years or more old, -- is tall, heavy set, wears whiskers and associates with grown up men. Your petitioner would further state that he has thus far and intends to keep a good, orderly &amp; useful tavern and that had he known s'd Graves was a minor and it was contrary to law to sell Liquors to a minor he would most certainly not have sold to him, as his intention is ^&amp; has ever been^ to violate no law of this commonwealth. Under the foregoing circumstances your petitioner respectfully asks your Honor to remit the fine to wit $50 -- imposed upon him for the said offense he having confessed judgments ^in open Court^ so soon<pb/>
+<lb/>as he was informed of the s'd indictment; this the <date when="1865-10-03">3<hi rend="sup">d</hi> day of Oct. 1865</date></p>
+<p>B, F, Simpson</p>
+<p>Sworn to before me by B. F. Simpson this the <date when="1865-10-03">3<hi rend="sup">d</hi> day of Oct. 1865</date></p>
+<p>E. D. Perch C. P. C. C</p>
+<p>The undersigned petitioners would respectfully s<hi rend="str">ay</hi>tate to your Honor that they believe the statements made in the foregoing petition are true and ^state^ that your petitioner B, F, Simpson is a good law abiding citizen and a clever honest man and ask your Honor to remit the fine refered to ^in^ his foregoing petition. <date when="1865-10-03">Oct 3<hi rend="sup">d</hi> 1865</date></p>
+<p><milestone unit="column" n="2"/><cb n="1"/>W B Moore
+<lb/><cb n="2"/>E. D. Porch
+<lb/>L D Combert
+<lb/>J W. Hansford
+<lb/>James Langdon Sheriff
+<lb/>W M<hi rend="sup">c</hi>Kee Fox
+<lb/>J. E. Cosson C P C C
+<lb/>W, H, Pettus P, J, P, C, C
+<lb/>Thos Z <hi rend="underline">Morrow</hi>
+<lb/>D. H, Denton
+<lb/>C. B Bacheller
+<lb/>M. E. Ingram
+<lb/>W. A. Sallee
+<lb/>G. J. Vaughn</p>
+<p><milestone unit="column" n="1"/>Pulaski Cir Ct
+<lb/>vs
+<lb/>B. F. Simpson
+<lb/>$50,
+<lb/>Selling to Minor
+<lb/>Remitted <date when="1865-10-07">7 Oct 1865</date></p>
+  </body>
+ </text>
+</TEI>

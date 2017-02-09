@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0746"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">S. K. Van Meter to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10214</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG19-161 to MG19-162</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Bowling Green, Warren County, Kentucky</placeName>
+    <date when="1861-03-27">27 March 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Bowling Green <date when="1861-03-27">Mch 27<hi rend="underline"><hi rend="sup">th</hi></hi> 1861</date>
+<lb/>Dear Sir:-</p>
+<p>The only appology I have to offer, for prsuming to intrude myself upon you at this time, is a sense of manly duty, the offspring of the higher &amp; holyier impulses of my nature, bubling up fresh from the deepest fountains of my soul, utterly free from all interested motives, other, than an anxious desire on my part to "Render unto Caesar that which is Caesar's by speaking a gentle word &amp;, recommending <hi rend="underline">Rufus Jones</hi> (who has been sentenced to four years imprisonment in the penitentiary of the state for killing of young Jenkins) as an object worthy your kind consideration -- </p>
+<p>You will pardon me Honored Sir, for presuming to take this step, but having made myself more or less familliar with the circumstances &amp; facts connected with this dificulty, I feel certain that could all the circumstances &amp; facts, connected with the case, have been brought before the<pb/>
+<lb/>the court, no honest Jury with sane minds, would, or could have ever gotten their consent, to hold him responcible for the deed, &amp; should it be congenial with the spirit of your Honors feelings, &amp; not in violation of your Official position, duty or Oath, his <hi rend="underline">Liberty</hi> at your hands, will recuse the warrant of probation of mercy of the most Respectable &amp; Influencial citizens of the community &amp; ^be^ gratefully remembered to the latest hours of life, by the young, the generous, the high toned &amp; <unclear/> spirit of the one in whose behalf this unsolicited appeal is made.</p>
+<p>Trusting that your generous heart will fully comprehend, &amp; appreciate the motives which prompted this appeal.</p>
+<p>I have the honor to remain
+<lb/>Very respctfully
+<lb/>Your friend &amp;c
+<lb/>S. K. Van Meter, M. D.</p>
+<p>His Excellency Governor McGoffin</p>
+  </body>
+ </text>
+</TEI>

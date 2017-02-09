@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0197"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">S. M. Bernard to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG1862</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Appointments by the Governor, Civil Appointments, 1863-1867</collection>
+      <idno>BR2-46 to BR2-47</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Hopkinsville, Christian County, Kentucky</placeName>
+    <date when="1864-04-06">6 April 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Hopkinsville Ky <date when="1864-04-06">April 6<hi rend="sup">th</hi> 1864</date>
+<lb/>To Thos. E. Bramlett Governor of Kentucky</p>
+<p>I herby offer my resignation as one of the managers of the Western Lunatic Assylum, being in the act of moving to Louisville Ky, with kind regards for the institution, and best wishes for its future success I am Respectfully</p>
+<p>Your Obedient
+<lb/>Servant
+<lb/>S. M. Bernard</p>
+<p>Gov. Bramlet,</p>
+<p>At a meeting of the Board of Managers of the Western Lanatic Asylum ^this day^ They instructed me to recommend to you Richard Durritt ^Durrett^ as a suitable person to fill the vacancy occasioned by the resignation of S M Bernard</p>
+<p>Geo. Pindexter Chm
+<lb/><date when="1864-04-07">April 7<hi rend="sup">th</hi> 1864</date>
+<lb/>J. B. Gowen Sect<pb/></p>
+<p>Western Lunatic Asylum Resignation of &amp; appointment
+<lb/><date when="1864-04-11">11<hi rend="sup">th</hi> Apr 1864</date></p>
+<p>Resignation accepted &amp; Richard Durret appointed as recommended</p>
+<p>Send com<hi rend="sup">s</hi>
+<lb/>Tho E Bramlette</p>
+  </body>
+ </text>
+</TEI>

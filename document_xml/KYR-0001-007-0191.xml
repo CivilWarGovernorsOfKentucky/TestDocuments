@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0191"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">William S. Bodley to Ephraim L. Van Winkle</title>
+    <title level="a" type="parallel">CWG1856</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Appointments by the Governor, Civil Appointments, 1863-1867</collection>
+      <idno>BR2-38</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date when="1864-04-12">12 April 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Louisville <date when="1864-04-12">April 12<hi rend="sup">th</hi> 1864</date>
+<lb/>E L Vanwinkle Esq <hi rend="str">Fr</hi>Sec. State
+<lb/>Frankfort Ky</p>
+<p>D<hi rend="sup">r</hi> Sir I am desired by Thomas N Easten Esq to solicit for him the appointment of Notary public for this county. Knowing you much better than I know the Governor and as it falls practically under your office I write you Mr Easten is a very intelligent &amp; competent business man and needs the office in conjun^tion^ <hi rend="str">of</hi> ^with^ his transactions as connected with real estate &amp;<hi rend="sup">c</hi> and I hope you may procure it for him.</p>
+<p>Respy
+<lb/>Wm S Bodley</p>
+<p>If advised that he will be appointed Mr E will send up the fees. Please write <hi rend="str">WSB</hi> to Tho N Easten Esq Louisville. W S B<pb/></p>
+<p>Jefferson Co
+<lb/>N P
+<lb/>Thos N. Easten
+<lb/>appt<hi rend="sup">d</hi>
+<lb/><date when="1864-04-12">12<hi rend="sup">th</hi> Apl 1864</date></p>
+  </body>
+ </text>
+</TEI>

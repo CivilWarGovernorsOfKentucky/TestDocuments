@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-009-0037"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Frederick de Tavernier to James T. Bramlette</title>
+    <title level="a" type="parallel">CWG1192</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Christina K Adkins</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's Official Correspondence File, 1863-1867</collection>
+      <idno>BR1-68 to BR1-69</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Lexington, Fayette County, Kentucky </placeName>
+    <date when="1865-05-18">18 May 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Lexington Ky. <date when="1865-05-18">May 18<hi rend="underline"><hi rend="sup">th</hi></hi> 1865</date>
+<lb/>Lt. Colonel James Bramlette
+<lb/>Dear Sir</p>
+<p>I had no chance for delivering your kind letter to the Governor, Your honored father, in person, I therefore sent it to-day by mail. I trust you will lend me your influence in securing for me that complimentary Commission, you had the kindness to promist me. -- You know very well, that I do not apply for any <hi rend="underline">material</hi> advantage; all I want is a paper entiteling me to the title of Colonel after my return home. -- I intend to leave for Europe as soon as I can get my honorable discharge and have spent a few weeks in Washington and New York. You would therefore confer a graet favor upon me by attending to the matter as soon as convenient.</p>
+<p>I expect a line from you in regard to this application at the Phoenix hotel Lexington.</p>
+<p>Yours very truly
+<lb/>Fr: de Tavernier</p>
+<p>Should you think my personal appearance necessary please advise me of it and shall comply with your request.<pb/></p>
+<p>Col. Aid to
+<lb/>Governor
+<lb/>appt<hi rend="sup">d</hi>.
+<lb/><date when="1865-05-20">20<hi rend="sup">th</hi> May 1865</date></p>
+  </body>
+ </text>
+</TEI>

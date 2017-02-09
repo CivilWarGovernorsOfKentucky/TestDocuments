@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-018-0032"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Peter Enige to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG8098</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Military Appointments, 1859-1862</collection>
+      <idno>MG6-115 to MG6-116</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date when="1861-07-01">1 July 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Armory Washington Rifles
+<lb/>Louisville Ky <date when="1861-07-01">July 1/ 61</date>
+<lb/>To Headquarters <hi rend="underline">Kentucky</hi> <hi rend="underline">State</hi> <hi rend="underline">Guard</hi>
+<lb/>Sir</p>
+<p>Please except this as my Resignation of my Commission which I held as Captain of a Comp'y of Infantry (Washington Rifles Comp'y E. 2<hi rend="sup">d</hi> Batt 2<hi rend="sup">d</hi> Regt,, K. S. G. in Louisville) which was disbanded Tuesday <date when="1861-06-25">June 25th 61</date>. and while said Comp'y no longer is attached to the State Guard which I was Captain of, I beg your honor to grant my withDrawal of the State Guard, <hi rend="underline">according</hi> <hi rend="underline">to</hi> <hi rend="underline">the</hi> <hi rend="underline">Act</hi> <hi rend="underline">of</hi> <hi rend="underline">the</hi> <hi rend="underline">Legislature of Ky</hi> hoping that your Honor will grant me above</p>
+<p>I Remain
+<lb/>Yours
+<lb/>obedient Servant
+<lb/>Peter Enige
+<lb/>Capt Comd'g</p>
+<p>To His Excellency B. Magoffin
+<lb/>Gov. of Kentucky. }<pb/>
+<lb/>I recommend the acceptance of the within resignation</p>
+<p>R. M<hi rend="sup">c</hi>Kee
+<lb/>Maj. 2 Bat. 2 Reg Inft.
+<lb/>Louisville, Ky., <date when="1861-07-22">July 22 1861</date></p>
+  </body>
+ </text>
+</TEI>

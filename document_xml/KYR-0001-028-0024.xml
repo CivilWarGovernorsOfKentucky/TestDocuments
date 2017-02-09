@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-028-0024"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John W. Finnell to Daniel C. Wickliffe</title>
+    <title level="a" type="parallel">CWG7679</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Appointments by the Governor, Military Appointments, 1862-1863</collection>
+      <idno>R2-150</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1862-08-26">26 August 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><figure type="seal"><ab>UNITED WE STAND, DIVIDED WE FALL.
+<lb/>KENTUCKY.</ab></figure>
+<lb/>Head-Quarters Kentucky Volunteers,
+<lb/>ADJUTANT GENERAL'S OFFICE,
+<lb/>Frankfort, <date when="1862-08-26">August 26 1862.</date>
+<lb/>Hon: D. C. Wickliffe
+<lb/>Sec State.</p>
+<p>I have iss<hi rend="sup">d</hi> and Delivered the following Commissions viz:</p>
+<p>Isaac Singleton Captain
+<lb/>R. F. Yants 1 Lieut
+<lb/>A. Carson 2 Lieut
+<lb/>James H. Richmond 2 Lieut: Super } Dated <date when="1862-08-26">August 26. 1862,</date><figure type="hr"/></p>
+<p>Elisha Owens Captain
+<lb/>Sam<hi rend="sup">l</hi>. Tally 1st Lieut
+<lb/>E. C. Spiceland 2 Lieut
+<lb/>R V Grinter 2 Lieut: super } D<hi rend="underline"><hi rend="sup">o</hi></hi><figure type="hr"/></p>
+<p>Sameul Allen Captain
+<lb/>E Peter Brown <hi rend="str">2</hi>1 Lieut
+<lb/>Sam L Melton 2 Lieut
+<lb/>W<hi rend="sup">m</hi> M Pearson 2 Lieut. Super } D<hi rend="underline"><hi rend="sup">o</hi></hi><figure type="hr"/></p>
+<p>John A. Arthur Captian
+<lb/>James R. Mornan 1 Lieut
+<lb/>James P. Cummins 2 Lieut. Super } D<hi rend="underline"><hi rend="sup">o</hi></hi><figure type="hr"/><pb/></p>
+<p><table rend="rules">
+<row>
+	<cell>John B. Graves</cell>
+	<cell>2 Lieut:</cell>
+	<cell>date</cell>
+	<cell><date when="1862-08-15">Aug. 15. 1862</date></cell>
+</row>
+<row>
+	<cell>Samuel Maguire</cell>
+	<cell>asst. Surg</cell>
+	<cell>"</cell>
+	<cell><date when="1862-08-26">" 26. 1862</date></cell>
+</row>
+<row>
+	<cell>Sidney L. Johnson</cell>
+	<cell>2 Lieut:</cell>
+	<cell>"</cell>
+	<cell>" " "</cell>
+</row>
+<row>
+	<cell>William E. Floyd</cell>
+	<cell> -- " -- "</cell>
+	<cell>"</cell>
+	<cell> -- " -- " -- "</cell>
+</row>
+<row>
+	<cell>William R. Hendrick</cell>
+	<cell>" -- "</cell>
+	<cell> -- "</cell>
+	<cell> -- " -- " -- "</cell>
+</row>
+<row>
+	<cell>Clement R. Edwards</cell>
+	<cell>" -- "</cell>
+	<cell> -- "</cell>
+	<cell> -- " -- " -- "</cell>
+</row>
+<row>
+	<cell>W<hi rend="underline"><hi rend="sup">m</hi></hi> H. Emmerson</cell>
+	<cell>" "</cell>
+	<cell>"</cell>
+	<cell><date when="1862-08-22">" 22  </date> -- "</cell>
+</row>
+<row>
+	<cell>W<hi rend="underline"><hi rend="sup">m</hi></hi> T. Hoblitzell</cell>
+	<cell>Capt</cell>
+	<cell>" "</cell>
+	<cell><date when="1862-02-21">Feb 21 -- "</date></cell>
+</row>
+</table><figure type="hr"/></p>
+<p><table rend="rules">
+<row>
+	<cell>Col<hi rend="sup">o</hi>. G. Clay Smith</cell>
+	<cell>promoted -- </cell>
+	<cell>date of Com.</cell>
+	<cell><date when="1862-04-04">Ap. 4. '62 -- </date></cell>
+</row>
+<row>
+	<cell>Lieut: Will T. Hoblitzell</cell>
+	<cell>pro: -- </cell>
+	<cell>" " "</cell>
+	<cell><date when="1862-09-27">Sep. 27. '61 -- </date></cell>
+</row>
+</table></p>
+<p>Very Resply
+<lb/>John W. Finnell
+<lb/>Adj<hi rend="underline"><hi rend="sup">t</hi></hi> Gen<hi rend="underline"><hi rend="sup">l</hi></hi> Ken: Vols:</p>
+  </body>
+ </text>
+</TEI>

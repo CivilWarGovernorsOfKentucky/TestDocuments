@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0791"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Henry Crout to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG4910</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR10-221</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Kenton County, Kentucky</placeName>
+    <date when="1864-08-19">19 August 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency-
+<lb/>Gov Thos E Bramlette.
+<lb/>Frankfort Kentucky</p>
+<p>The undersigned petitioner respectfully sheweth that at the <date when="1863-12">December term 1863</date>. of the Kenton Circuit Court he was fined <hi rend="underline">$50</hi>, on <hi rend="underline">three several Indictments</hi> numbered respectively <hi rend="underline">782</hi>-<hi rend="underline">783</hi> &amp; <hi rend="underline">785</hi>, for <hi rend="underline">selling liquor to minors</hi>. The 1<hi rend="sup">st</hi> he repleived <date when="1863-12-30">Dec 30/63</date> the 2<hi rend="sup">d</hi> he replieved the same day. and the 3<hi rend="sup">d</hi> he replieved <date when="1864-01-12">Jany 12/64</date>. He has always been an honorable man and tried to <figure type="seal"/> keep <unclear/> biding house_ but these were th<unclear/> young men, working in a <unclear/> near his Coffee House who <hi rend="underline">leaked, <unclear/>eased to be over twenty one years of age</hi>_ they were doing business for themselves- made their own contracts- and were to all intents and purposes acting for themselves. One of them lacked but a few months of being 21. All were grown-and to a person-not related to them- they had all the actions and appearance of adult men- and upon their testimony he was convicted-upon the instigation of one <hi rend="underline">John Beasly</hi>, who became offended, because affiant attempted to collect from him a small liquor bill. Affiant<pb/>
+<lb/>keeps a regularly licensed Coffee House in the City of Covington</p>
+<p>Henry Crout</p>
+<p>Personally appeared before me John F. Fisk a Notary Public in and for the Courts of Kenton and state of Kentucky Henry Crout_ subscribed and made oath to the truth of all the statements in the above petition Given under my hand and seal of Office this <date when="1864-08-19">Aug 19<hi rend="sup">th</hi> 1864</date></p>
+<p>John F. Fisk
+<lb/>N.P. K. C. Ky</p>
+<p>The undersigned jurors who tried the Indictments Nos 782, ^783, &amp; 785,^ state that the facts and appearences, of the witnesses and their testimony is truthfully set out in the proceding petition. The Petetitioners a good citizen -an honorable man-We think this a fair case for Executive clemency and pray that it may be exercised in this case</p>
+<p>Robert Howe</p>
+<p><hi rend="underline">Jurors Names</hi>
+<lb/>Joel Dedman
+<lb/>G. W. Lowry
+<lb/>J. Sanderson
+<lb/>Thomas Robson
+<lb/>W N Rogers
+<lb/><hi rend="underline">James Spilman</hi></p>
+  </body>
+ </text>
+</TEI>

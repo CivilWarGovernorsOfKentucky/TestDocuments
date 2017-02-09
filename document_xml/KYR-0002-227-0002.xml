@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-227-0002"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Lazarus W. Powell et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG14232</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>11th Ky. Cav (US) Muster Rolls</collection>
+      <idno>Flat Storage Box: 11th Ky Cav (US) Muster Rolls, Bundle 1</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency Governor Bramlette
+<lb/>Sir</p>
+<p>The undersigned would very respectfully recommend the appointment of Captain Edward H. Green of the 11<hi rend="sup">th</hi> Regiment of Kentucky Cavalry as Lieu Col of that Regiment the position recently held in that Regiment by the Canceled Lieutenant Co<hi rend="sup">l</hi> Boyle</p>
+<p>Captain Green has been an Officer of the Regiment ever since its organization, He is a Gentleman of intelligence, prudence and great energy of Character and injoys the reputation of a true and gallant Soldier We trust you will draw it consistent with the public interist to reword the gallant services of Captain Green by this appointment.</p>
+<p>L W Powell
+<lb/><hi rend="underline">Garrett Davis
+<lb/>A. Harding</hi>
+<lb/>R Mallory
+<lb/>H. Grider
+<lb/><hi rend="underline">Brutus J. Clay</hi>
+<lb/>Luc Anderson</p>
+<p>(over)<pb/>
+<lb/><milestone unit="column" n="2"/><cb n="1"/>Tho<hi rend="sup">s</hi>. A. Hendriks
+<lb/>W<hi rend="sup">m</hi> S. Holeman
+<lb/><hi rend="underline">John Law</hi>
+<lb/>J. A. Cravens
+<lb/>H W Harrington<cb n="2"/>
+<lb/>D W Voorhees</p>
+  </body>
+ </text>
+</TEI>

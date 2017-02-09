@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0883"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">J. G. Marks to James P. Metcalfe</title>
+    <title level="a" type="parallel">CWG10351</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG19-391</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Carlisle, Nicholas County, Kentucky</placeName>
+    <date when="1861-03-22">22 March 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Carlisle Ky. <date when="1861-03-22">March 22<hi rend="sup">d</hi>. 1861</date>
+<lb/>Dear James,</p>
+<p>M<hi rend="underline"><hi rend="sup">r</hi></hi> William Ricketts is now circulating a Petition to the Gov. to releave him from a Judgment obtained against him on the Bond he was the surety for the appearance of his son at the last Sept<hi rend="sup">r</hi>. Term of our circuit court and forfeited by his not appearing -- The penalty of the bond (all things considered) was unusually high particularly so, as the boy had no estate and his father, a man in very moderate circumstances,</p>
+<p>From the many impositions I have known to have been practised on Governors, by petitions, I have for many years past refused to sign any; but being so full impressed with hardship the case of M<hi rend="underline"><hi rend="sup">r</hi></hi> Ricketts, I am induced to desire you to use your influence with the Governor to grant the relief petitioned for.</p>
+<p>your friend
+<lb/><hi rend="underline">J. G. Marks</hi></p>
+<p>James P. Metcalfe Esq.
+<lb/>Frankfort Ky.</p>
+  </body>
+ </text>
+</TEI>

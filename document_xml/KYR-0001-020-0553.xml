@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0553"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">W. F. Bullock to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10021</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG18-358 to MG18-359</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date when="1861-01-18">18 January 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Louisville <date when="1861-01-18">January 18. 1861</date>
+<lb/>To His Excellency
+<lb/>Go<hi rend="sup">vr.</hi> Magoffin
+<lb/>My Dear Sir.</p>
+<p>Enclosed herewith I send you a petition in the case of the Commonwealth vs Christian Shroeder signed by all the petit jury. The Judge Com<hi rend="sup">ths</hi> atto, Sheriff and Clerk. All of the bystanders would have cheerfully signed the petition if it had been deemed necessary. I am also authorized to say that Mess<hi rend="sup">rs</hi> Bills &amp; Co and Mess<hi rend="sup">rs</hi> Quigley Lyons &amp; Co, the parties whose interests were involved in the transaction, were not at all disposed to prosecute the defendant under the full beleif that Hudson in fact forged the check and victamised the defendant for his base purpose, and then absconded with all the money. Shroeder is quite young, a stranger in the city, of very prepossessing manners, and<pb/>
+<lb/>of industrious habits. His family reside in Indinapolis Ind<hi rend="sup">a</hi> and ^are^, as I am informed highly respectable. I was employed by them to attend to his case. In my interacions with the accused he has impressed me with the belief that he is conscentious, and in this instance was imposed upon by an artful and designing vilain. He is apparently greatly subdued by the imputation to which he has been subjected, and seems to feel most sensibly its crushing effects upon his aged parents.</p>
+<p>I trust you will find it consistent with your sense of duty to save him from the consequences of a sentence to the Penitentiary.</p>
+<p>Your very respectfully</p>
+<p><hi rend="underline">W. F. Bullock</hi></p>
+<p>P. S. The officers of the Jail, where this youth has been confined for several months, seem to be deeply impressed with the idea that he is not a fit subject for the Penitentiary and that no moral guilty attaches to him<pb/>
+<lb/>in this transaction. They would be glad to see him pardoned. I have not procured their signatures to the petition because I did not deem it necessary.</p>
+<p>W. F. Bullock<pb/></p>
+<p>To His Excellency
+<lb/>Gov<hi rend="sup">r</hi> of Kentucky
+<lb/>Frankfort
+<lb/>Ky</p>
+<p>Issue pardon &amp; enclose to Judge W. F. Bullock</p>
+  </body>
+ </text>
+</TEI>

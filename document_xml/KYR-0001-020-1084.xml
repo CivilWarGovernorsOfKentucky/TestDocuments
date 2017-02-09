@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1084"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Robert Appelby et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10552</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG20-185 to MG20-186</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Munfordville, Hart County, Kentucky</placeName>
+    <date when="1861-05">May 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Munfordville, Ky
+<lb/><date when="1861-05">May 1861,</date>
+<lb/>To The Govenor of Kentucky</p>
+<p>Your petitioners, the undersigned would most respectfully request that your Honor, remit so much of a judgment rendered against Thomas Hardy &amp; J. T. Martin by the Hart Equity &amp; Criminal Court, in favor of the Commonwealth, for one hundred dollars, on a bail bond ^<hi rend="str">or enough thereof</hi> as you are authorized to remit^. For the facts they refer to a letter to your honor from W<hi rend="underline"><hi rend="sup">m</hi></hi> B Jones, the Commonwealths atty for this District, and for many good reasons besides those enumerated in said letter they make this request.</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Robert Appelby
+<lb/>George. J. Goodman
+<lb/>James Pulliam
+<lb/>Benjamin Bowman
+<lb/>Richard E. Rucker
+<lb/>John P. Lewis
+<lb/>John W Sharp
+<lb/>C R Cardon
+<lb/>Thomas Knight
+<lb/>Abner D Key
+<lb/>W. B. Thompson
+<lb/>J. H. Isabell
+<lb/>W. T. Bolton
+<lb/>Robt. D. Murray
+<lb/><cb n="2"/>J. W. Edwards. County atty.
+<lb/>Daniel K Short
+<lb/>J E Lafferty
+<lb/>R. T. Munford
+<lb/>H. S. Shoudy
+<lb/>J. B. Chapline
+<lb/>Ben H Waters
+<lb/>F A Smith
+<lb/>B. L Kerr
+<lb/>D. P. Walling
+<lb/>R E Phillips
+<lb/>B B Logsdon
+<lb/>H. B. White
+<lb/>J. M. Slatts
+<lb/>J. L. Pulliam<milestone unit="column" n="1"/><pb/>
+<lb/>Ja<hi rend="sup">s</hi>. A. Dawson
+<lb/>John Rowe
+<lb/>Jocelin Wilson
+<lb/><unclear/> Ryan
+<lb/>Thomas Dawson
+<lb/>David Pucket
+<lb/>W<hi rend="sup">m</hi> Craddock
+<lb/>Saml A Garvin
+<lb/>R L Garvin
+<lb/>Phillip H Buckner
+<lb/>H D Jett
+<lb/>R S Dawson
+<lb/>P. T. Richardson<pb/></p>
+<p>Hart Eq. Ct
+<lb/>$100 } Recognizance
+<lb/>Tho<hi rend="sup">s</hi>. Hardy &amp; J. T. Martin</p>
+<p>Remission Iss<hi rend="sup">d</hi></p>
+<p><date when="1861-05-21">May 21. 1861</date></p>
+<p>Amt of Judgmt vs Tho<hi rend="sup">s</hi> Hardy $100 --, rendered at the <date when="1861-04">Apl Term 1861</date></p>
+  </body>
+ </text>
+</TEI>

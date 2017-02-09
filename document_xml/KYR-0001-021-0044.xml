@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-021-0044"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">A. G. Wileman, Oath</title>
+    <title level="a" type="parallel">CWG3114</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Apprehension of Fugitives from Justice Papers, 1859-1862</collection>
+      <idno>MG8-135</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Pendleton County, Kentucky</placeName>
+    <date when="1861-11-22">22 November 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Commonwealth of Ky
+<lb/>Pendleton County } Sct</p>
+<p>This day Personally appeared before the undersigned, a Justice of the peace for said county, A. G. Wileman (who produced a commission from his Excellency the Governor of the commonwealth of Ky. Commissioning him a captain of a company of volunteer militia) who took the oath required by law, this 22<hi rend="sup">nd</hi> day of Nov 1861</p>
+<p>G. C. Lightfoot J. P. P. C</p>
+<p>Commonwealth of Ky
+<lb/>Pendleton County } Sct</p>
+<p>This day personally Appeared before the undersigned a Justice of the peace for Said County, Samuel S. Patterson. (who presented a commission from his Excellency the Governor of the Commonwealth of Ky. Commissioning him a first Lieutenant of a company of volunteer militia) who took the oath required by law, this 27<hi rend="sup">th</hi> day of November 1861</p>
+<p>G. C. Lightfoot J. P. P. C</p>
+<p>Commonwealth of Kentucky
+<lb/>Pendleton County } Sct, </p>
+<p>This day personally appeared before the undersigned a Justice of the peace for Said County, James H. Johns. (who presented a commission from his Excellency the Governor of the Commonwealth of Ky. Commissioning him a Second Lieutenant, of a company of volunteer militia, who took the oath required by law, this 27<hi rend="sup">th</hi> day of November 1861</p>
+<p>G. C. Lightfoot J. P. P. C.<pb/></p>
+<p>Vol. Militia
+<lb/>Oaths
+<lb/>Nov. 29. 1861</p>
+  </body>
+ </text>
+</TEI>

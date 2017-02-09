@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-001-0008"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Thomas E. Bramlette, Proclamation by the Governor</title>
+    <title level="a" type="parallel">CWG0858</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Joshua D Farrington</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's Official Correspondence File, Proclamations, 1863-1865</collection>
+      <idno>BR1-358 to BR1-359</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1864-01-04">4 January 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Proclamation/Legislation</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>PROCLAMATION BY THE GOVERNOR.<figure type="hr"/>
+<lb/>EXECUTIVE DEPARTMENT,
+<lb/>FRANKFORT, KY., <date when="1864-01-04">January 4th, 1864.</date></p>
+<p>The frequent outrages perpetrated in various parts of the State by lawless bands of marauders, can in a large degree be traced to the active aid of rebel sympathizers in our midst, or their neglect to furnish to Military Commandants the information, in their possession, which would lead to the defeat and capture of such marauders.</p>
+<p>Sympathizers with the rebellion who, while enjoying protection from the Government, abuse the leniency extended to them by concealing the movements of rebel guerrillas, by giving them information, affording them shelter, supplying them with provisions, and otherwise encouraging and fomenting private raids, are in criminal complicity with all the outrages perpetrated by the marauders whom they secretly countenance.</p>
+<p>It is in the power of persons whose sympathies are with the rebellion to prevent guerrilla raids, almost invariably, by furnishing to Military Officers of the United States or State of Kentucky, the information which experience has proved them to be, as a general thing, possessed of.</p>
+<p>If all would unite, as is their duty, in putting down guerrillas, we should soon cease to be troubled with their raids. A neglect to afford all assistance and information which may aid in defeating the designs of marauding parties, can but be construed as a culpable and active assistance to our enemies.</p>
+<p>I, therefore, request that the various Military Commandants in the State of Kentucky will, in every instance where a loyal citizen is taken off by bands of guerrillas, immediately arrest at least five of the most prominent and active rebel sympathizers in the vicinity of such outrage for every loyal man taken by guerrillas. These sympathizers should be held as hostages for the safe and speedy return of the loyal citizens. Where there are disloyal relatives of guerrillas, they should be the chief sufferers. Let them learn that if they refuse to exert themselves actively for the assistance and protection of the loyal, they must expect to reap the just fruits of their complicity with the enemies of our State and people.</p>
+<p>THO. E. BRAMLETTE</p>
+  </body>
+ </text>
+</TEI>

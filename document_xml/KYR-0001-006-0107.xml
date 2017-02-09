@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-006-0107"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Donan et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG1153</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's Official Correspondence File, Requisitions for the Return of Fugitives from Justice, 1863-1867</collection>
+      <idno>BR6-136</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Munfordville, Hart County, Kentucky</placeName>
+    <date when="1865-11-12">12 November 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Munfordville Hart County Ky
+<lb/><date when="1865-11-12">12 Nov<hi rend="sup">r</hi>. 1865</date>
+<lb/>Gov<hi rend="sup">r</hi>. Bramlett</p>
+<p>We the undersigned would represent that on the <date when="1865-11-06">6th day of Nov<hi rend="sup">r</hi>. 1865</date> in the county of Hart One Ben Johnson <hi rend="str">killed killed and murdered</hi> shot at and wounded samuel Mansfield of which wounds he has since died Now we would represent that in our opinion from the facts as represented to us that said shooting &amp; killing was wilful and deliberate murder and the said Ben Johnson having ^immediately^ fled we would represent that a suitable reward be offered for his apprehension -- <hi rend="str">had we</hi> he is likely to have gone to the states of Tennessee ^Illinois or Missouri^ &amp; we request that you demand his delivery &amp; appoint <gap/> for his apprehension</p>
+<p>Jno Donan
+<lb/>William Gardner Judge of Hart County Court
+<lb/>J. A. Waldock Clerk Hart County Court
+<lb/>C. J. Walton
+<lb/>J C Rush
+<lb/>G. T. Wood
+<lb/>H D Jetts
+<lb/>Ben F Amos</p>
+<p>Description Ben Johnson about 30 or 35 years old about 6 feet high weighs about 150 lb sandy or light complexion &amp; beard is a man of family was raised in or near Gainsboro Tenn eyes b<hi rend="str">y</hi>lue or Grey scar in one hand was a saddler by trade at one time &amp; freckled face<pb/></p>
+<p>Reward $250
+<lb/>Hart Co
+<lb/>for Ben Johnson murderer of Saml Mansfield offered
+<lb/><date when="1865-11-15">15 Nov/65</date></p>
+<p>Please Appoint Wash Mansfield as agent to catch him</p>
+  </body>
+ </text>
+</TEI>

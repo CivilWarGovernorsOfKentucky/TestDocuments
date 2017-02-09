@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-003-0098"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Wilson to Charles D. Pennebaker</title>
+    <title level="a" type="parallel">CWG1615</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's Official Correspondence File, Military Correspondence, 1863-1867</collection>
+      <idno>BR5-164 to BR5-165</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Washington, District of Columbia</placeName>
+    <date when="1865-04-04">4 April 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Treasury Department,
+<lb/>Third Auditor's Office,
+<lb/><date when="1865-04-04">April 4<hi rend="sup">th</hi> 1865</date>.
+<lb/>Sir</p>
+<p>In reply to your letter of the <date when="1865-04-03">3<hi rend="sup">rd</hi> inst</date> relative to the claim of the State of Kentucky and asking for a specific Statement of what is required to prepare the Kentucky State account for examination" in this Office, I have to say, that the vouchers were filed in this Office by the Quarter Master General of the State of Kentucky, with mere <hi rend="underline">lists</hi> of the Same, and without the proper Abstracts and Returns, as required by the law and rules prescribed for the settlement of State accounts.</p>
+<p>It is required that regular Abstracts of the property purchased, be made out, the various kinds of property classified, according to the Regulations, and full and complete Property Returns furnished, showing the receipt and issue of such property.</p>
+<p>This can only be done from the vouchers themselves, which cannot now be with-
+<lb/><note place="footer">over.</note><pb/>
+<lb/>drawn from this Office. It is a task that will require the services of an industrious and efficient clerk for Six or nine months, and this Office has not the force to detach at present for that purpose. This should have been done by the State authorities before presenting the claim.</p>
+<p>Very Respectfully
+<lb/>John Wilson
+<lb/>Auditor</p>
+<p>To
+<lb/>C. D. Pennebaker Esqr
+<lb/>Agt State of Kentucky
+<lb/>Washington 
+<lb/>D. C.<pb/></p>
+<p>"C"</p>
+  </body>
+ </text>
+</TEI>

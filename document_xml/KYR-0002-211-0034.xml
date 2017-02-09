@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-211-0034"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Samuel G. Suddarth, Receipt to John Haly</title>
+    <title level="a" type="parallel">CWG13682</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>Adjt. Gen. &amp; QMG Expenditures, 1864-1865</collection>
+      <idno>QMG Box 11; Bundles of AG &amp; QMG Expenditures 1864-65; Bundle 3</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1864-03-21">21 March 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>NO. 12.<figure type="hr"/>
+<lb/>The State of Kentucky,
+<lb/>To John Haly, Dr.</p>
+<p><date when="1864">1864</date>
+<lb/><table rend="rules">
+<row>
+	<cell>Date of Purchase.</cell>
+	<cell/>
+	<cell>Dollars.</cell>
+	<cell>Cents.</cell>
+</row>
+<row>
+	<cell><date when="1864-03-01">March 1</date></cell>
+	<cell>To. Two Coal oil lamps and 6 Dozen wicks</cell>
+	<cell>5</cell>
+	<cell>00</cell>
+</row>
+<row>
+	<cell>"</cell>
+	<cell>" One pair of shears 75<hi rend="sup">¢</hi> Two water Buckets 70<hi rend="sup">¢</hi></cell>
+	<cell>1</cell>
+	<cell>45</cell>
+</row>
+<row>
+	<cell>"</cell>
+	<cell>" Two looking Glasses $1,60 One Dozen empty sacks 15.00</cell>
+	<cell>16</cell>
+	<cell>60</cell>
+</row>
+<row>
+	<cell><date when="1864-03-02">2</date></cell>
+	<cell>" One load of saw dust 50<hi rend="sup">¢</hi> 2 Coffins, &amp;, halling 21<hi rend="sup">50</hi>/<hi rend="sub">100</hi></cell>
+	<cell>22</cell>
+	<cell>00</cell>
+</row>
+<row>
+	<cell>"</cell>
+	<cell>" Two Iron Tea Kettles 7 inches $225 Three pepper Boxes 60<hi rend="sup">¢</hi></cell>
+	<cell>2</cell>
+	<cell>85</cell>
+</row>
+<row>
+	<cell>"</cell>
+	<cell>" One Dozen <unclear/> Tea spoons $1.40 3 Dozen table spoons 3.00</cell>
+	<cell>4</cell>
+	<cell>40</cell>
+</row>
+<row>
+	<cell>"</cell>
+	<cell>" One Carver and fork $160 file 15<hi rend="sup">¢</hi> one large butcher Knife 75</cell>
+	<cell>2</cell>
+	<cell>50</cell>
+</row>
+<row>
+	<cell>"</cell>
+	<cell>" One Dozen Glass Tumblers $250 Two large waiters $4,<hi rend="str">5</hi>80</cell>
+	<cell>7</cell>
+	<cell>30</cell>
+</row>
+<row>
+	<cell><date when="1864-03-05">5</date></cell>
+	<cell>" One large waiter $1.50 one Iron heater 75<hi rend="sup">¢</hi></cell>
+	<cell>2</cell>
+	<cell>25</cell>
+</row>
+<row>
+	<cell><date when="1864-03-07">7</date></cell>
+	<cell>" 1<hi rend="sup">1</hi>/<hi rend="sub">2</hi> lb of <unclear/> Cord 60<hi rend="sup">¢</hi> Duster 50<hi rend="sup">¢</hi></cell>
+	<cell>1</cell>
+	<cell>10</cell>
+</row>
+<row>
+	<cell>"</cell>
+	<cell>" One Barrel $1,00 one wood Saw $1,10</cell>
+	<cell>2</cell>
+	<cell>10</cell>
+</row>
+<row>
+	<cell>"</cell>
+	<cell>" Two pair of socks $100 one pair of Drawers $1.25</cell>
+	<cell>2</cell>
+	<cell>25</cell>
+</row>
+<row>
+	<cell><date when="1864-03-08">8</date></cell>
+	<cell>" One Coffin, Lined, and halling $10.75 Gimblet 10<hi rend="sup">¢</hi></cell>
+	<cell>10</cell>
+	<cell>85</cell>
+</row>
+<row>
+	<cell>"</cell>
+	<cell>" Screws 15<hi rend="sup">¢</hi> small Butts 10<hi rend="sup">¢</hi> Gimblet 10<hi rend="sup">¢</hi></cell>
+	<cell/>
+	<cell>35</cell>
+</row>
+<row>
+	<cell/>
+	<cell/>
+	<cell>81 -- </cell>
+	<cell>00</cell>
+</row>
+</table></p>
+<p><note place="body">Approved
+<lb/>Thos E Bramlette Govr</note></p>
+<p>I certify that the above account is correct and just, and that the articles were furnished as stated, and were necessary for the public service.</p>
+<p>W<hi rend="underline"><hi rend="sup">m</hi></hi> H. Gardner
+<lb/>Surgeon in Charge Hospital
+<lb/><hi rend="str">Quarter-Master Gen. of Ky.</hi></p>
+<p>Received at Frankfort, Kentucky, the <date when="1864-03-21">21<hi rend="underline"><hi rend="sup">st</hi></hi> of March, 1864</date>, of S. G. SUDDARTH, Quarter=Master General for the State of Kentucky, Eighty One dollars and -- cents, in full of the above account.
+<lb/>(DUPLICATE.)</p>
+<p>John Haey<pb/></p>
+<p>18
+<lb/>NO. 12.<figure type="hr"/>
+<lb/>No 47 Abstract. G
+<lb/>Jno Haly
+<lb/>Dollars 81 <hi rend="sup">X</hi>/<hi rend="sub">100</hi>
+<lb/>Paid <date when="1864-03-21">March 21 1864</date>
+<lb/>Hospital
+<lb/>J 235
+<lb/>certif no 18</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2466"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">George W. Hardick to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7103</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR15-427 to BR15-428</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency Hon. Thomas E. Bramlette Governor of the Commonwealth of Kentucky.</p>
+<p>The undersigned respectfully states that in the month of <date when="1864-10">October 1864</date> he was a private in Co. H. 12<hi rend="underline"><hi rend="sup">th</hi></hi> Ky Inf. and had been in said Co. nearly three years. That during that month and only for that time he was keeping a "victualling house" at Point Burnsides. and had permission from Capt. Roff. Provost Marshal in the district at that time to sell liquor in connection with the other business. -- That at the Chancery ^and Criminal^ Court holden at Somerset ^Ky^ in <date when="1865-07">July 1865</date> judgment was rendered against him in the sum of ($60) sixty dollars, for keeping a "tippling house." <hi rend="str">That he denies the keeping of such a house</hi> He always made as good use of the liquors as he could. -- </p>
+<p>That he has four children to wit: Sarah Jane aged 17 years Thomas S. aged 15 years. Minerva M. aged 12 years and Nethia C. aged 6 years. That the oldest has always been a cripple and that none of them are able to do anything towards procurring a livelihood. That he was in destitute circumstances at the time above referrred to. That his pay as private was not sufficient to support his family which was the reason of his selling the liquer for which he was fined. That the Rebel soldiers have taken quite a part of his property and that if he has to pay the fine it will be a serious damage to his family as he has a hard time to support them now. -- </p>
+<p>He therefore prays that the fine &amp; so much of it as your Excellency has authority to remit be remitted. And as in duty bound will ever pray.</p>
+<p>George ^his X mark^ W Hardick<pb/></p>
+<p>We ask Your Excellency <hi rend="str">to remit</hi> to grant the within petition.</p>
+<p><hi rend="underline">W. M</hi><hi rend="underline"><hi rend="sup">c</hi></hi><hi rend="underline">Kee Fox</hi>
+<lb/><hi rend="underline">J. E. Cosson</hi> clk
+<lb/>E. D. Perch Clk P C C
+<lb/>W. R. Smith
+<lb/>W<hi rend="sup">m</hi> F, Goggin
+<lb/>M H Owsley
+<lb/>C B Bacheller<pb/></p>
+<p>Pulaski Cir Ct
+<lb/>vs
+<lb/>Geo W. Hardick
+<lb/>$60,
+<lb/>Tipling
+<lb/><date when="1865-10-10">10 Oct 1865</date>
+<lb/>Remit</p>
+  </body>
+ </text>
+</TEI>

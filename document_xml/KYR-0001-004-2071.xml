@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2071"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John P. Phister et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6708</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR14-263 to BR14-264</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Maysville, Mason County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency, Thomas E. Bramlett. Governor of the State of Kentucky;
+<lb/>Dr Sir</p>
+<p>The undersigned. your petitioners, would respectfully represent that at the last <date when="--10">October term</date> of the Mason Circuit Court Patrick Niland, a citizen of the County of Mason and State of Kentucky, was indicted for keeping a <hi rend="underline">Tipling House</hi> in the city of Maysville contrary to the Statute &amp; Laws of the State, in such ^cases^ made and provided &amp; that ^upon^ his plea of <hi rend="underline">guilty</hi> the jury in the premises assessed his fine as compelled by law at $600 &amp; costs of prosecution -- </p>
+<p>Your petitioners would further represent to your Excellency -- that said Patrick Niland is a <hi rend="underline">poor</hi> man. with a large family dependent upon him for subsistence; -- that he is a good citizen, honest, peaceable, well disposed in every respect &amp; would and would not <hi rend="underline">knowingly</hi> &amp; <hi rend="underline">willfully</hi>, violate any of the laws of his state -- that before the offense charged against him was committed. he had regularly obtained a Merchants License from the Mason County Court and not being a man <hi rend="underline">versed in Law</hi> or of <hi rend="underline">great</hi> <hi rend="underline">intelligence</hi>, he did not <hi rend="underline">know</hi><pb/>
+<lb/>that selling and permitting to be drunk on the premises or adjacent thereto, would make him amenable to the law -- </p>
+<p>Upon his plea of <hi rend="underline">guilty</hi>, his attorney stated before the jury, that he had committed the offense charged in the indictment -- but that he had done it in "ignorance of the Law" -- We think the dignity of the Commonwealth has been preserved in <hi rend="underline">finding him guilty</hi> -- nor would we recommend him to <hi rend="str">your</hi> the clemency of your Excellency, unless all regarded it, under the circumstances as a <hi rend="underline">hard case</hi> &amp; one deserving of Executive Clemency -- We therefore as your Excelllency as a favour to our-selves and a kindness to Mr Niland's family to remit his fine &amp; wipe out the stigma unfortunately placed upon him by the records of the Court -- </p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Names
+<lb/>John P. Phister
+<lb/>H T Pearce
+<lb/>C. G. Cady
+<lb/><hi rend="underline">Saml W. Owens</hi>
+<lb/>Robt A Cochran
+<lb/>.Geo T,, Wood
+<lb/>J A. Matthews
+<lb/>W R Burgess
+<lb/>S. L. Blaine
+<lb/><cb n="2"/>Names
+<lb/>R. H. Stanton
+<lb/><hi rend="underline">Tho</hi><hi rend="underline"><hi rend="sup">s</hi></hi><hi rend="underline"> G. Throop</hi>
+<lb/>J. K Sumrall
+<lb/>Jn<hi rend="sup">o</hi> M Drake Jr
+<lb/>W L Pearce
+<lb/>A J Newell
+<lb/>J. V. Burgess
+<lb/>W. F. Wilson
+<lb/>Am January &amp; Son
+<lb/>Robb C Piper
+<lb/>N. Cooper<pb/>
+<lb/><cb n="1"/><hi rend="underline">H. Taylor.</hi>
+<lb/>E. Whitaker
+<lb/>James A Lee jr
+<lb/>H. Gilmore
+<lb/><cb n="2"/>W. S. Bridge
+<lb/>Geo W. Lloyd
+<lb/>L B Goggin<pb/></p>
+<p><milestone unit="column" n="1"/>Mason Cir Ct
+<lb/>vs
+<lb/>Petition in favour of Patrick Niland<figure type="hr"/>
+<lb/>$60
+<lb/>Tipling
+<lb/><date when="1865-10-18">18<hi rend="sup">th</hi> Oct/65</date></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-3304"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Robert Hammond et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG5423</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR42-133</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Bay County Kentucky</p>
+<p>We the undersigned citizens of the county afores<hi rend="underline"><hi rend="sup">d</hi></hi> state that we have been acquainted with the petitioner for many years we know his habits in life, as well as his condition and ability to support his family; and we do most cordially join in the prayer of the petitioner that the fines may be remited and as in duty we will every pray.</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Petitioners Names.
+<lb/>Robert Hammond
+<lb/>James Bullard
+<lb/>John Rhodes
+<lb/>W<hi rend="sup">m</hi> Gard
+<lb/>J T Eastham
+<lb/>Thomas Tuflett
+<lb/>William Abram
+<lb/>Squire Owens
+<lb/>Benjamin Rice
+<lb/>L T Blurdett
+<lb/>T A Newman
+<lb/>R Adams
+<lb/>J R Hold G C 1st Ky
+<lb/>Jerry Shay
+<lb/><unclear/> Bartram
+<lb/>John Hally
+<lb/>John Steer
+<lb/><cb n="2"/>Petitioner Names
+<lb/>C. M. Brammer of G C
+<lb/>R. Selbe
+<lb/>W<hi rend="underline">m</hi> <unclear/>
+<lb/>ron Lewis
+<lb/>Edwd Courtney
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Aurther
+<lb/>W D Creery
+<lb/>H B Bridges county judge
+<lb/>Joseph P Rankin
+<lb/>Samuel Bartrum
+<lb/>Thomas Hally</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-117-0009"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Boyle to Edward C. Simms</title>
+    <title level="a" type="parallel">CWG13838</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Christina K Adkins</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>Adjutant General Letter Book - No. 3 ; 9 April - 25 May 1864</collection>
+      <idno>473</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1864-05-24">24 May 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><note place="header">4<unclear>73</unclear></note>
+<lb/><date when="1864-05-24">May 24<hi rend="sup">th</hi><gap/>4</date>
+<lb/>Private Edward C. Simms.
+<lb/>17<hi rend="sup">th</hi> Regt. Reserve Veteran Corps
+<lb/>(Formerly of 18<hi rend="underline"><hi rend="sup">th</hi></hi> Ky. Infty vols.)
+<lb/>Indianapolis- Ind.
+<lb/>Sir,</p>
+<p>Your communication to His Excelllency Gov. Bramlette, has been referred to this office. <unclear>You</unclear> were doubtless in the wrong in not obeying orders to <unclear/> There is no excuse for disobedience in a soldier. As it is <unclear>now</unclear> you should explain the matter to the officer whom you offended, ask his pardon, and intercession with your commanding officer to obtain your release from the guard house and admission to the Hospital, till you can be cured, and when you have recovered entirely, you should by your alacrity and obedience to orders, show that you are a good soldier. As you are mustered into the United States' service the Govenor has no power, whatever, as to your control, and directs the above advise be given you.</p>
+<p>Respectfully
+<lb/>your obt. Serv't. 
+<lb/><hi rend="underline">John Boyle</hi> <unclear>adjt Gen</unclear></p>
+  </body>
+ </text>
+</TEI>

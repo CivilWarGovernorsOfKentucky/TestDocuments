@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1735"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Commonwealth of Kentucky v. A. P. Quint, Indictment</title>
+    <title level="a" type="parallel">CWG6372</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR13-238</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Bullitt County, Kentucky</placeName>
+    <date when="1865-04">April 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>The Commonwealth of Kentucky -- 
+<lb/>against
+<lb/>A. P. Quint -- </p>
+<p>Bullitt Circuit Court, <date when="1865-04">April Term A. D. 1865</date> The Grand Jurors of the County of Bullitt in the name and by the authority of the Commonwealth of Kentucky accuse A. P. Quint of the offense of Keeping a Tipling House -- Committed in manner and form as follows, towit, The said A P. Quint in the said County of Bullitt on the <gap/> day of <date when="1865-04">April A. D. 1865</date> knowingly and unlawfully did have and keep a tipling house wherein on divers and sundry days before and since as aforesaid he did sell and retail in small quantities less than one quart at a time and to be drank on the premises wine and brandy and whisky and other spirituous liquors and thus did keep said Tipling House contrary to the form of the statute in such cases, made and provided and against the peace and dignity of the Commonwealth of Kentucky</p>
+<p>J R Dupuy
+<lb/>Commonwealths attorney</p>
+<p>Witness</p>
+<p>D<hi rend="sup">r</hi>. George F. Collins
+<lb/>James Allcorn
+<lb/>Joseph Sanders
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi>. Thos. Fox
+<lb/>Charles Hough
+<lb/>Moses Black</p>
+<p>A Cop attest
+<lb/>C. R. Samuels Clk</p>
+  </body>
+ </text>
+</TEI>

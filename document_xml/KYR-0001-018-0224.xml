@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-018-0224"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John W. Finnell to Nathaniel Gaither, Jr.</title>
+    <title level="a" type="parallel">CWG8290</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Military Appointments, 1859-1862</collection>
+      <idno>MG6-334</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1862-01-30">30 January 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><figure type="seal"><ab>UNITED WE STAND, DIVIDED WE FALL.
+<lb/>KENTUCKY.</ab></figure>
+<lb/>Head-Quarters Kentucky Volunteer Militia,
+<lb/>ADJUTANT GENERAL'S OFFICE,
+<lb/>Frankfort, <date when="1862-01-30">30 January 1862</date>.</p>
+<p>Hon: Nat Gaither Jr
+<lb/>Sec of State_</p>
+<p>&amp;#X2713; E. F. Dulin Q<hi rend="sup">r</hi> Master has resigned (Com: dated <date when="1861-12-12">12 Dec 1861</date>)</p>
+<p>&amp;#X2713; John Paul Jones Capt: has resigned (Com: iss<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1861-11-21">21 Nov: 1861</date>)</p>
+<p>&amp;#X2713; W<hi rend="underline"><hi rend="sup">m</hi></hi> B. Hegan 2<hi rend="underline"><hi rend="sup">d</hi></hi> Lieut: has been promoted (Com: iss<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1861-12-02">2 Dec 1861</date>)</p>
+<p>&amp;#X2713; Francis M. Stone 1<hi rend="underline"><hi rend="sup">st</hi></hi> Lieut: has resigned (Com: dated <date when="1861-11-11">11 Nov: 1861</date>)</p>
+<p>&amp;#X2713; Robert Oliver Gains 2<hi rend="sup">d</hi> Lieut: has resigned (Com: dated <date when="1861-11-21">21 Novr 1861</date>.)</p>
+<p>&amp;#X2713; Lawson Gray 1<hi rend="underline"><hi rend="sup">st</hi></hi> Lieut: has resigned (Com: dated <date when="1861-11-12">12 Novr 1861</date>)</p>
+<p>&amp;#X2713; John Glenn 2<hi rend="sup">d</hi> Lieut: has been promoted (Com: dated <date when="1861-11-12">12 Novr 1861</date>)</p>
+<p>&amp;#X2713; Franklin Gipson 2<hi rend="sup">d</hi> Lieut: has been promoted (Com: dated <date when="1861-11-05">5 Novr 1861</date>)</p>
+<p>&amp;#X2713; Orlean B. Herring 2<hi rend="sup">d</hi> Lieut: has resigned (Com: dated <date when="1861-11-15">15 Novr 1861</date>)<pb/></p>
+<p>I send Ten Comms: for record &amp;<hi rend="underline"><hi rend="sup">c</hi></hi></p>
+<p><table rend="rules">
+<row>
+	<cell>1862 Jan</cell>
+	<cell><date when="1862-01-28">28</date>-</cell>
+	<cell>Henry C. Oatts-</cell>
+	<cell>2<hi rend="sup">d</hi> Lieut</cell>
+	<cell>1</cell>
+</row>
+<row>
+	<cell> </cell>
+	<cell><date when="1862-01-28">"</date></cell>
+	<cell>Wickliffe Cooper</cell>
+	<cell> -- </cell>
+	<cell>2</cell>
+</row>
+<row>
+	<cell> </cell>
+	<cell><date when="1862-01-28">"</date></cell>
+	<cell>James C. Guess</cell>
+	<cell> -- </cell>
+	<cell>3</cell>
+</row>
+<row>
+	<cell> </cell>
+	<cell><date when="1862-01-28">"</date></cell>
+	<cell>Franklin Gipson</cell>
+	<cell> -- </cell>
+	<cell>4</cell>
+</row>
+<row>
+	<cell> </cell>
+	<cell><date when="1862-01-28">"</date></cell>
+	<cell>Lucius A Bachus</cell>
+	<cell> -- </cell>
+	<cell>5</cell>
+</row>
+<row>
+	<cell> </cell>
+	<cell><date when="1862-01-28">"</date></cell>
+	<cell>Adam W. Trebein</cell>
+	<cell> -- </cell>
+	<cell>6</cell>
+</row>
+<row>
+	<cell> </cell>
+	<cell><date when="1862-01-28">"</date></cell>
+	<cell>John Glenn</cell>
+	<cell> -- </cell>
+	<cell>7</cell>
+</row>
+<row>
+	<cell> </cell>
+	<cell><date when="1862-01-26">26</date></cell>
+	<cell>Calvin M C Jarnel</cell>
+	<cell> -- </cell>
+	<cell>8</cell>
+</row>
+<row>
+	<cell> </cell>
+	<cell><date when="1862-01-18">18</date></cell>
+	<cell>J Paul Jones</cell>
+	<cell> -- </cell>
+	<cell>9</cell>
+</row>
+<row>
+	<cell> </cell>
+	<cell><date when="1862-01-18">"</date></cell>
+	<cell>W<hi rend="sup">m</hi> B. Hegan</cell>
+	<cell> -- </cell>
+	<cell>10</cell>
+</row>
+</table></p>
+<p>Very Resp<hi rend="sup">y</hi>
+<lb/>John W. Finnell
+<lb/>Adj<hi rend="sup">t</hi> Gen<hi rend="sup">l</hi></p>
+<p>Entered <date when="1862-01-30">Jany 30. 1862</date></p>
+  </body>
+ </text>
+</TEI>

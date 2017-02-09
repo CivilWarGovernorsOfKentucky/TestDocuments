@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1257"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Denmark Forsyth et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10725</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG21-127</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date when="1861-07-05">5 July 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Louisville <date when="1861-07-05">5<hi rend="sup">th</hi> July 1861 -- </date>
+<lb/>To His Excellency Beriah Magoffin
+<lb/>Governor of Kentucky
+<lb/>Respected Sir</p>
+<p>We of the Jury in the city court of Louisville in the case of the Com<hi rend="sup">th</hi> against Fred: Keck, under all the circumstances of the case &amp; there being but one witness Examined upon whose testimony our verdict was forwarded Beg leave to recommed Fred Keck to Executive clemency &amp; pray the penalties be remitted.</p>
+<p>with great respect
+<lb/>yr obt servt</p>
+<p>Denmark Forsyth
+<lb/>J. B. Zaring
+<lb/>E M Buchanan</p>
+<p>We the undersigned jurors wish only so much of the finding of jury set aside as his confinement in the jail is fixed</p>
+<p><hi rend="underline">Edw</hi><hi rend="underline"><hi rend="sup">d</hi></hi><hi rend="underline"> J Wilson</hi>
+<lb/>B E Jourboe
+<lb/>R. S. Martin
+<lb/>J. Redman
+<lb/>J. M. Wells
+<lb/>Lewis Shafer
+<lb/>R. H. Hernstadt</p>
+  </body>
+ </text>
+</TEI>

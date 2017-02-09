@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0702"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Sarah Whitney et al., Affidavit</title>
+    <title level="a" type="parallel">CWG10170</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG19-95 to MG19-96</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Memphis, Shelby County, Tennessee</placeName>
+    <date when="1861-02-09">9 February 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>State of Tennessee
+<lb/>Shelby County</p>
+<p>Personally appeared before me Hume F. Hill commissioner of the State of Kentucky, resident in the state of Tennessee, Sarah J. Whitney, &amp; R. Whitney who state that they were well acquainted with J. H. Powell previous to his departure from Memphis Tennessee in <date when="1860-07">July 1860</date>,- that said Powell had a long attach of sickness, that before he left Memphis, they remarked what they thought to be an aberration of mind &amp; so spoke of it before he left, that from what they saw and know of him they believe that he was of unsound mind at the time he left the city of Memphis; They further say that Mr. Powell &amp; family boarded with them for a considerable portion of the time for the past three years; that they were well acquainted with the character of said Powell for honesty &amp; correct conduct, and they believe that he was as honest as any man; they never knew or heard of any imputation upon it whatever And Wm. R. Johnson Mrs <gap/> Meade, and <gap/> Meade also state that they knew J.<pb/>
+<lb/>H. Powell up to the time he left Memphis in the <date when="1860">summer of 1860</date>. that they became satisfied before he left that he was not in his right mind, that there had been a great change in him, in consequence of a severe attack of sickness that he had had; that they had spoken of his state of mind before he left Memphis, honestly believing that his mind was impaired. They further say that said Powell was an industrious, correct, and honest man as they then, &amp; still believe.</p>
+<p>Sarah Whitney
+<lb/>R. Whitney
+<lb/>Betsey Ann Mead
+<lb/>T. W. Mead
+<lb/>W<hi rend="sup">m</hi> W Coleman</p>
+<p>Sworn to and Subscribed before me <date when="1861-02-09">February 9<hi rend="sup">th</hi> 1861</date></p>
+<p>Hume F Hill</p>
+<p>Commission for the State of Kentucky at Memphis Tennessee</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-009-0034"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Henry B. Stanwood to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG11501</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Amanda Boczar</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>45th, 47th, 48th, and 49th Regiments Kentucky Infantry Muster Rolls</collection>
+      <idno>Box 42, Bundle 1</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Chattanooga, Hamilton County, Tennessee</placeName>
+    <date when="1863-11-13">13 November 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Camp 4<hi rend="underline"><hi rend="sup">th</hi></hi> Ky Inf.
+<lb/>Chattanooga Tenn
+<lb/><date when="1863-11-13">November 13<hi rend="underline"><hi rend="sup">th</hi></hi> 1863</date>.
+<lb/>Gov.</p>
+<p>With this I have notified Adjt. Gen. Boyle. of the non acceptance of Commission a<hi rend="str">t</hi>s 1<hi rend="underline"><hi rend="sup">st</hi></hi> Lieut &amp; Adjt. of the 49<hi rend="underline"><hi rend="sup">th</hi></hi> Ky. Inf. which you so kindly assisted me to procure, and deeming it but just, to give you my reasons for so doing is my excuse for now addressing you.</p>
+<p>No Commissioned officer being with the Co. but myself. The dissatisfaction that it would create, if I should leave them at this time, and at the solicitation of the Field Officer of the Reg't. I have concluded to stay with the 4<hi rend="underline"><hi rend="sup">th</hi></hi> Ky. &amp; while I think it will be for the good of the service to remain here, I would earnestly reccomend Tho<hi rend="underline"><hi rend="sup">s</hi></hi> P. Young Co "A," 4<hi rend="underline"><hi rend="sup">th</hi></hi> Ky, for the promotion, (with whom you are personally acquainted.) He is a yong man of good character, and fine capacity for the duties of an Adjt, and I understand our Col. would readily consent to his "Muster out", if he could procure the Commission.</p>
+<p>I am Gov. Very Res'ptly, Yo<hi rend="sup">r</hi> obt Svt.
+<lb/>Henry B. Stanwood
+<lb/>2<hi rend="underline"><hi rend="sup">d</hi></hi> Lieut Co "B,," 4th Ky Inf.</p>
+<p>To. 
+<lb/>Hon. Tho<hi rend="underline"><hi rend="sup">s</hi></hi> E. Bramlette
+<lb/>Gov. of Kentucky
+<lb/><note place="footer"><hi rend="str">Henry B. Stanwood <unclear/> com cancelled</hi> 
+<lb/>1. 2. 3,,<figure type="hr"/></note><pb/></p>
+<p>Refered to Adj Gen<hi rend="sup">l</hi> -- I recommend the commission as Suggested</p>
+<p>Tho E Bramlette</p>
+<p>Issue to Young -- a com as Adjutant in place of Stanwood declined and forward to 4<hi rend="sup">th</hi> Ky. Infs</p>
+<p><hi rend="underline">Boyle</hi></p>
+<p><note place="left margin">1. 2. 3. 4. 5. 6. 7. 8. 9</note>
+<lb/><figure type="hr"/>2 Lieut Tho<hi rend="sup">s</hi> P. Young Co<hi rend="sup">y</hi> A. 4 Ky Infy com Adjutant 49<hi rend="underline"><hi rend="sup">'</hi></hi> Ky Infy <date when="1863-11-20">Nov<hi rend="sup">r</hi> 20 1863</date> vice Philos Stratton promo:<figure type="hr"/></p>
+<p>49 Infy<figure type="hr"/>
+<lb/>4 Infy<figure type="hr"/>
+<lb/>Adj<hi rend="underline"><hi rend="sup">t</hi></hi> Young<figure type="hr"/>
+<lb/>Com iss<hi rend="sup">d</hi> &amp; forw<hi rend="underline"><hi rend="sup">d</hi></hi>
+<lb/><date when="1863-11-20">Nov<hi rend="underline"><hi rend="sup">r</hi></hi> 20<hi rend="underline"><hi rend="sup">th</hi></hi> 1863</date><figure type="hr"/></p>
+  </body>
+ </text>
+</TEI>

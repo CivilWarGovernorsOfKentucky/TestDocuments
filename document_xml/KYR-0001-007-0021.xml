@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0021"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Thomas C. Donn to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG1686</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Appointments by the Governor, Civil Appointments, 1863-1867</collection>
+      <idno>BR1-399</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Washington, District of Columbia</placeName>
+    <date when="1863-09-30">30 September 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Washington City <date when="1863-09-20">September 20 1863</date>
+<lb/>To the Governor of the State of Kentucky
+<lb/>Sir</p>
+<p>I Respectfully make application for the appointment as a commissioner of Your State to take the acknowledgements of Deeds affidavits, Depositions and other instruments of Writing in the District of Colombia to be used and Recorded in your State. I have an office in the Center of Business in this City and have been for some time a Commissioner for a number of the States of the Union and have frequent calls from Soldiers and others to take acknowledgements for your State, Which would be a great Convenience.</p>
+<p>I can produce Certificate of public offices here of my capability and of my Loyalty</p>
+<p>Respectfully
+<lb/>Thomas C. Donn
+<lb/>Commissioner of Deeds.
+<lb/>Affidavits, Depositions
+<lb/>The various States
+<lb/>in District of Colombia<pb/>
+<lb/>Tho<hi rend="sup">s</hi> C. Donn
+<lb/>Application
+<lb/>Com<hi rend="sup">r</hi> of Deeds
+<lb/>Washington
+<lb/>D. C.
+<lb/>Rec<hi rend="sup">d</hi>. <hi rend="str">14</hi> 9<hi rend="sup">th</hi> Oct/63<date when="1863-10-09">9<hi rend="sup">th</hi> Oct/63</date>
+<lb/>com<hi rend="sup">d</hi> <date when="1863-10-20">20<hi rend="sup">th</hi> Oct/63</date></p>
+<p>30
+<lb/>50
+<lb/><hi rend="underline">105</hi>
+<lb/>185</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0392"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">C. L. McConnell et al. to James F. Robinson</title>
+    <title level="a" type="parallel">CWG8844</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Governor's Official Correspondence File, Petitions for Pardons, Remissions, and Respites, 1862-1863</collection>
+      <idno>R4-133 to R4-134</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Boyd County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency, Hon James F. Robinson.</p>
+<p>The undersigned would respectfully represent that John I. Williamson ^of Cattlettsburg^ went the security on a recognizance bond of Joseph McKinney, for $250,,00, to appear before the circuit court at Boyd County ^in its <date when="1862-04">April Term 1862</date>^ to answer the charge of Horse Stealing. Said Williamson did not know the Deft. further than that he was a Union Home Guard, &amp; believeing that it a was a Secession persecution maliciously set on foot against him, he went his bail. McKinney did not deny takeing a horse, but said he done it in the service of his country in whose cause he was engaged fighting. McKinney afterwards left with the army &amp; has not since been heard from &amp; it is not therefore known whether he has been killed or not -- Under these circumstances ^the bail Bond was forfeited <date when="1863-04">Apl 1863</date>^ we pray your Excellency to remit the forfeiture as we believe it to be a case that deserves your clemency &amp; Executive interposition. M<hi rend="underline"><hi rend="sup">r</hi></hi> Williamson being a poor man</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>C L M<hi rend="sup">c</hi>Connell Judge Boyd County Court
+<lb/>Laben L Moore Special Judge
+<lb/><cb n="2"/>J. S. Drury, Com<hi rend="underline"><hi rend="sup">th</hi></hi> Atty.
+<lb/>Ja<hi rend="sup">s</hi> M Riely Clk Boyd Circuit Court
+<lb/>John H. Eastham
+<lb/>Sheriff. Boyd Co.<pb/></p>
+<p>Boyd Cir. Ct
+<lb/>$250. } Forfeiture
+<lb/>The fine in this case is remitted
+<lb/>J F Robinson
+<lb/>J. J. Williamson
+<lb/>Hand remission to Mr Miller
+<lb/>Iss<hi rend="sup">d</hi> <date when="1863-05-14">May 14<hi rend="underline"><hi rend="sup">th</hi></hi> 1863</date>.</p>
+  </body>
+ </text>
+</TEI>

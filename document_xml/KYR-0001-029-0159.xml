@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0159"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">James S. Sneed et al., Note</title>
+    <title level="a" type="parallel">CWG8611</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Governor's Official Correspondence File, Petitions for Pardons, Remissions, and Respites, 1862-1863</collection>
+      <idno>R3-243</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Note</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Bazell Hall Forgery Two years nine months Madison <date when="1860-06">June Term 1860</date>
+<lb/>Time Expires <date when="1863-04-03">Apl 3<hi rend="sup">d</hi> 1863</date></p>
+<p><hi rend="underline">Jas S S Sneed</hi>
+<lb/>Clk Ky Party
+<lb/>L P Prentiss
+<lb/>Assistant Keeper -- 
+<lb/>R W Lawler assistant keeper
+<lb/>J. L. Hockensmith Guard
+<lb/>R K Taylor " "
+<lb/>J. Gallahue " "
+<lb/>L. Tobias
+<lb/>Thos. J. Frazier
+<lb/>R W Wilhoit</p>
+<p>I was the attorney for the Commonwealth who prosecuted the prisoner to conviction, and I most earnestly submit his discharge.</p>
+<p>W. S. Downey
+<lb/>Comm atty
+<lb/>13<hi rend="sup">th</hi> Jud Dist -- <pb/></p>
+<p>Madison Cir Ct</p>
+<p>I am of opinion upon all the facts to me testified that the within named Bazall Hall should now be pardoned &amp; direct a pardon to issue accordingly <date when="1863-01-30">30 Jany 1863</date></p>
+<p><hi rend="underline">J F Robinson</hi>
+<lb/>Forgery
+<lb/>2 yrs. 9 mos
+<lb/>Basil Hall
+<lb/>Iss<hi rend="sup">d</hi><date when="1863-01-03">Jany 3d 1863</date></p>
+  </body>
+ </text>
+</TEI>

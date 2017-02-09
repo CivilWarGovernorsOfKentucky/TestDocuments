@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0062"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Henry Lenba to James F. Robinson</title>
+    <title level="a" type="parallel">CWG8514</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Governor's Official Correspondence File, Petitions for Pardons, Remissions, and Respites, 1862-1863</collection>
+      <idno>R3-98 to R3-99</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Covington, Kenton County, Kentucky</placeName>
+    <date when="1862-08-29">29 August 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency James F. Robiinson
+<lb/>Governor of the State of Kentucky
+<lb/>D<hi rend="underline"><hi rend="sup">r</hi></hi> Sir,</p>
+<p>Without any preface or apology permit me to address you as an old acquaintance and friend of Michael Godard dec<hi rend="underline"><hi rend="sup">d</hi></hi> and of his family.</p>
+<p>His son William W. Godard, residing in Mercer county, Ky., was arrested several months ago and taken to Camp Chase where he had been held a prisoner ever since. Mr. Godard never has known nor does he yet know at whose instance he was arrested nor on what charges.</p>
+<p>The object I have in addressing you is to solicit your kind offices for his release or at least for a speedy trial to investigate such charges as were made the ground of his arrest.</p>
+<p>Mr. G. has been in bad health for many years. He has a wife almost blind and several young children. Besides, his business is suffering from his absence. Whatever you can and may be pleased to do or suggest in his behalf, will be thankfully acknowledged by the family
+<lb/>as well as, D<hi rend="underline"><hi rend="sup">r</hi></hi> Sir, by</p>
+<p>Your very ob<hi rend="underline"><hi rend="sup">t</hi></hi> serv<hi rend="sup">t</hi>
+<lb/><hi rend="underline">Henry Lenba</hi></p>
+<p>Covington, Ky.
+<lb/><date when="1862-08-29">August 29th 1862.</date></p>
+<p>Should it be agreeable to you to appoint me to fill some office on your staff please consider me at your service.<pb/></p>
+<p>H. Lenba
+<lb/> -- Covington
+<lb/>In behalf of W Goddard in (Camp Chase)
+<lb/>1862</p>
+  </body>
+ </text>
+</TEI>

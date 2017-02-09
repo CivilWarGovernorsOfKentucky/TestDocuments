@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2802"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">E. C. Phister to William S. Botts</title>
+    <title level="a" type="parallel">CWG7439</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR17-68</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Flemingsburg, Fleming County, Kentucky</placeName>
+    <date when="1865-12-06">6 December 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Flemingsburg Ky
+<lb/><date when="1865-12-06">Decr 6<hi rend="sup">th</hi> 1865</date>.
+<lb/>Judge W<hi rend="sup">m</hi> S Botts
+<lb/>Dr Sir,</p>
+<p>I have written the Enclosed petition for little Jim Strode whom you know. Ed Elston, it seems, got into the scrape on account of Jimmy who you know is as harmless and inoffensive as a child Please present it to the Governor for him and tell him about Jimmy &amp; who the signers are</p>
+<p>Yours truly 
+<lb/>E C Phister</p>
+<p>Dr Judge, Please present my enclosed Petition for the pardon of Ed. Elston &amp; tell the Governor all you know about me and who are these who recommend the pardon. I enclose $2. to pay the fee which I understand is charged by the secrty of State or assistant Secretary for making out the pardon &amp; applying seal</p>
+<p>Please have it Sent to me at Flemingsburg Ky -- and oblige</p>
+<p>Yrs truly
+<lb/>James R Strode<pb/></p>
+<p>Judge W<hi rend="sup">m</hi> S. Botts
+<lb/>Frankfort
+<lb/>Ky.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-031-0168"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">James F. Robinson, Affidavit</title>
+    <title level="a" type="parallel">CWG7908</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Appointments by the Governor, Civil Appointments, 1862-1863</collection>
+      <idno>R1-233 to R1-234</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1863-03-09">9 March 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Executive Department
+<lb/>Frankfort Kenty <date when="1863-03-09">9 March 1863</date></p>
+<p>Edward S. Theobald of Frankfort Kenty is hereby nominated constituted and appointed My true and lawful Agent and Attorney in fact as the Governor of Kentucky to settle and adjust with the proper Department or Departments of the United States in Accts of Kentucky with the United States and ^all^ claims &amp; demands whatever of the afs<hi rend="sup">d</hi> state against the United States -- To receive <unclear/> receipt for all money or any part thereof found to be due from the United States to Kentucky and generally to do and perform any act and thing in the premises which I could do in person</p>
+<p>Given under my hand as the Governor of Kentucky this day and date just written</p>
+<p><hi rend="underline">J. F. Robinson</hi><pb/></p>
+<p>E. S. Theobald
+<lb/>Agent of Ky
+<lb/>App<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1863-03-09">Mar 9. 1863</date></p>
+  </body>
+ </text>
+</TEI>

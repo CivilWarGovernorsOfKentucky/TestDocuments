@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1322"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">D. Mooar to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10790</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG21-222 to MG21-223</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Covington, Kenton County, Kentucky</placeName>
+    <date when="1861-08-21">21 August 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Covington Ky. <date when="1861-08-21">Aug. 21. 1861</date>
+<lb/>Hon. B. Magoffin
+<lb/>Gov.. Kentucky
+<lb/>Dear Sir</p>
+<p>The constitution of Kentucky (Art. 2. Sec. 5.) provides, "That the general assembly shall divide each County into convenient election precincts, or, may delegate power to do so to such <hi rend="underline">County</hi> <hi rend="underline">authorities</hi> as may be designated by law.</p>
+<p>Under this power the legislature appointed County Commissioners to lay this county off into districts, which they did, dividing the City of Covington into two. Subsequently the legislature passed an act authorizing the City Council to establish two additional precincts, which they did, by dividing each, of the two established by the Commissioners. This power could not in my judgment, under the constitution, be delegated to the City Council. But be that as it may, at the <date when="1860-08">Aug. election 1860,</date> <hi rend="underline">I being</hi> <hi rend="underline">entitled</hi> <hi rend="underline">to</hi> <hi rend="underline">a</hi> <hi rend="underline">vote</hi>, went and ^voted^ in my district as laid off by the Commissioners. But it<pb/>
+<lb/>turned out that my residence was within the boundaries of one of the new districts established by the City Council. Some sixty or seventy others made the same mistake and we were all indicted; and the Court ruling that the power was properly deligated to the City Council to make new districts, I confessed judgment for the penalty, ($50.) and thus the matter stands.</p>
+<p>Under the circumstances I think that I am entitled to <hi rend="underline">executive</hi> <hi rend="underline">clemency</hi>, and ask that the fine be remitted. I mentioned the matter to you last winter, while attending the Court of appeals, and you requested me to make a statement in writing and send you, which I promised to do, but have neglected it until now -- </p>
+<p>Yours Truly
+<lb/><hi rend="underline">D. Mooar</hi></p>
+<p>P. S. The judgment was rendered at the <date when="1860-12">Dec. Term of the Kenton Circuit Court 1860.</date><pb/></p>
+<p>Kenton Cir Ct
+<lb/>$50. } Illegal voting
+<lb/>D. Mooar</p>
+<p>Iss<hi rend="sup">d</hi> <date when="1861-08-23">Aug 23<hi rend="sup">d</hi> 1861</date></p>
+<p>Remitted
+<lb/>B. M.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0604"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John T. Strode to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG4723</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR9-459 to BR9-460</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1864-03">March 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency Thos E Bramlett
+<lb/>Governor of Kentucky</p>
+<p>Your Petitioner John T Strode respectfully represents that James W Duckworth was Indicted by the Grand Jury of Clark County Kentucky upon the charge of carrying conceald weapons- said case as he believes was continued for several terms by the Commonwealth-<hi rend="str">and</hi> Duckworth as he further believes being ready for trial and very confident of success, upon the ground of being able to show an entire justification for carrying the weapons- until finaly at the <date when="1863-11">November Term 1863</date> of said Court- the said Duckworth was not present, being within the Confederate lines- the Recognizance bond given by him in the Penalty of $100= in which your Petitioner was surety was declared Forfeited- and at the <date when="1863-05">May Term 1863</date> of said Court Judgment was rendered thereon in favor of the Commonwealth and against this Petitioner- The said Duckworth is without Estate, and your Petitioner, limited means are such that he earnestly solicits your Excellency for <hi rend="str">remit</hi> a Remission of said Judgment, Your Petitioner knew that Duckworth was justified in carrying the weapon ^in proper self defence^ &amp; was sure of ^his^ being acquitted on the trial of the case</p>
+<p>John T Strode</p>
+<p>Clark County Ky</p>
+<p>John T Strode says he beleaives the forgoing Petition to be true</p>
+<p>John T Strode</p>
+<p><unclear/> to before me this <unclear/>ay of <date when="1864-03">March 1864</date>-</p>
+<p>E. T. Taylor P. J. C. C. C.<pb/></p>
+<p>Clark Cir Ct
+<lb/>vs
+<lb/>J. T. Strode
+<lb/>Forfeited
+<lb/>$100 -- 
+<lb/><date when="1864-05-13">13<hi rend="sup">th</hi> May/64</date><pb/></p>
+<p>I cordialy recommend the case of Mr Strode to the favorable consideration of the Governor He is a clever promising young Physician just beginning life &amp; the judgment is oppression on him. He is a very worthy &amp; truthful young gentleman. Let off this fine &amp; you will do a neighborly deed</p>
+<p>yours &amp;c
+<lb/>Jn<hi rend="sup">o</hi> B Huston</p>
+<p>Winchester <date when="1864-04-07">April 7<hi rend="sup">th</hi> 1864</date>
+<lb/>Governor Bramlette
+<lb/>Sir</p>
+<p>The Petitioner D<hi rend="sup">r</hi> John M Strode is a very clever gentleman, and has always been an orderly, sober, &amp; quiet citizen.</p>
+<p>I have no doubt but the accompaning statements are true, &amp; hope it is compatible with your duty to remit his fine</p>
+<p>I am sir with every expression of confidence &amp; respect your obt servt</p>
+<p>Af Allan
+<lb/>Sam G Stuart</p>
+<p>I am well acquainted with Doctor Strode have heard the case and say that I believe He ought to be released from the payment of the forfeiture</p>
+<p>Ja<hi rend="sup">s</hi> G Bush</p>
+<p>I fully concur with Dr Allan_Mr Stuart Judge Bush and Genl Huston. the request and propriety of remitting the judgment against Dr Strode, and hope he may be released</p>
+<p>Chas Eginton</p>
+  </body>
+ </text>
+</TEI>

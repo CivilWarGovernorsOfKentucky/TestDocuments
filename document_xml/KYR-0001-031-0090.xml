@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-031-0090"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">William A. M. Van Bokkelen to John J. Crittenden</title>
+    <title level="a" type="parallel">CWG7830</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Appointments by the Governor, Civil Appointments, 1862-1863</collection>
+      <idno>R1-135</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Virigina City, Storey County, Nevada Territory</placeName>
+    <date when="1862-11-15">15 November 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Virginia City N. T.
+<lb/><date when="1862-11-15">Nov 15<hi rend="underline"><hi rend="sup">th</hi></hi> 1862</date>
+<lb/>Hon J. J. Crittenden
+<lb/>Sir</p>
+<p>I enclose a letter of introduction to you from one of your Kentucky friends T. Miller also a letter asking an appointment of commissioner of Deeds, with the endorsement of Gov. Jas. W. Nye, and a note to the Secretary of State about his fees.</p>
+<p>I take the liberty to ask your endorsement of my application, and the forwarding of same to the Governor.</p>
+<p>The war having caused several changes in your Executive, I would ask that you fill in the name of the person who is governor, as we have not been able to settle the question who is the present governor.</p>
+<p>I direct to Louisville having seen a notice of your removal to that place</p>
+<p>Yours respectfully
+<lb/><hi rend="underline">W</hi><hi rend="underline"><hi rend="sup">m</hi></hi><hi rend="underline"> A. M. Van Bokkelen</hi></p>
+  </body>
+ </text>
+</TEI>

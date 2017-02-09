@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0983"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Mcgreery to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10451</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG20-41 to MG20-42</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency: Governor Magoffin</p>
+<p>John M<hi rend="sup">c</hi>Greery respectfully states that by judgment of the City Court of Louisville he was recently fined the sum of fifty dollars with costs for an alleged assault upon one Adam Stevens. The fact was simply that he and stevens had two fights &amp; Stevens had the better of the first encounter but was worsted in the latter and f<hi rend="str">rom</hi>or revenge caused the indictment &amp; prosecution at the first calling of the case petitioner appeared and was ready for trial, but the case was continued because of Stevens absence -- petitioner supposing Stevens would let the matter drop did not further attend and was fined while absent from the city. He is a poor man and cannot now pay the fine.<pb/>
+<lb/>hence he is constrained to under executive clemency</p>
+<p>John Mcgreery</p>
+<p>I know the facts above detailed are true -- and further that stevens is a quarrelsome man -- there are now two indictments agst him for breaches of the peace</p>
+<p>James White of the firm of White &amp; Cole</p>
+<p>I am well acquainted with Mr White and know his statement is entirely reliable</p>
+<p>W. T. Haggin</p>
+<p>I am well acquainted with M<hi rend="sup">r</hi> James White of the firm of White &amp; Cole, and know that any statements he may set forth as true, can be implicitly relied on.</p>
+<p>R. J. Elliott
+<lb/>City Atto.</p>
+<p>I fully coroborate M<hi rend="sup">r</hi> Elliotts statements above</p>
+<p>Geo. W. Johnston</p>
+<p>I concur with the above statements</p>
+<p>W R Hydes<pb/></p>
+<p>We the undersigned know the petitioner, and Join with him for the remission of the within mentioned fine</p>
+<p>W. G. Reasor
+<lb/>James Curran
+<lb/>R. Spalding
+<lb/>Oliver Mortz
+<lb/>J W Ball
+<lb/>W<hi rend="sup">m</hi> G Auther
+<lb/>Wade Chappell
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> A Cohoun
+<lb/>W A Adams
+<lb/>John K Stringer
+<lb/>Thomas Davis
+<lb/><hi rend="underline">J, W, Wilson</hi>
+<lb/><hi rend="underline">E. G Cole</hi>
+<lb/>J B Simmons<pb/></p>
+<p>Louisville City Ct
+<lb/>Remitted
+<lb/>B. M
+<lb/>$50. } Assault
+<lb/>Jno. M<hi rend="sup">c</hi>Greery
+<lb/>Iss<hi rend="sup">d</hi>. <date when="1861-04-01">Apr 1. 1861</date></p>
+  </body>
+ </text>
+</TEI>

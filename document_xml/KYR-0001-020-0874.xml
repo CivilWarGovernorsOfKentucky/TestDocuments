@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0874"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">T. J. Birchett and James McMurtry to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10342</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG19-377</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Paducah, McCracken County, Kentucky</placeName>
+    <date when="1861-03-24">24 March 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Paducah <date when="1861-03-24">March 24<hi rend="sup">th</hi> 1861</date></p>
+<p>To his Excellency Govr Beriah M<hi rend="sup">c</hi>Goffin Dear Sir in Behalf of the Bereived M<hi rend="underline"><hi rend="sup">rs</hi></hi> Powel and as a part of the Jury that tried her husband and found him gilty as charged and concinde him to the Penitenttary for one year wold in the behalf of his Wife implore Your Excelency to Parden him and Restore him to his Wife and little Baby, under the cirkumstance that he was tried the Jury cold do nothing but find him gilty but at the time we did agree to sighn a pertishian to you for the parden of M<hi rend="sup">r</hi> Powel when we acted we wore under oath and had to give wate to the Evidence But as good citisons and men of fealing to the Berieved and hart Broken Wooman we Beg of you to Releace him</p>
+<p>She is hear with out a home and among Strangers<pb/>
+<lb/>thare is Scarcely enny citison hear but is in faver of his Releas thare was a Rumer that he had Bin in the Penitenttia once befor but that is now believed to be fals and the people ar Satisfid on that point and nearly all wold be glad to have him Releis</p>
+<p>Yours Respectfully
+<lb/>T J Birchett
+<lb/>and
+<lb/>James Mcmurtry
+<lb/>Jurorys</p>
+<p>To his Excellency B M<hi rend="sup">c</hi>Goffin</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0571"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Whipple, Jr., Oath</title>
+    <title level="a" type="parallel">CWG2236</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Appointments by the Governor, Civil Appointments, 1863-1867</collection>
+      <idno>BR2-549</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>New York, New York County, New York</placeName>
+    <date when="1865-10-13">13 October 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>State of New York
+<lb/>City &amp; County of New York } ss</p>
+<p>I, <hi rend="underline">John Whipple Jr</hi> of the City County and State of New York appointed by the <hi rend="underline">Governor</hi> of <hi rend="underline">Kentucky</hi> a <hi rend="underline">Commissioner</hi> in and for the State of New York do solemnly <hi rend="underline">swear</hi> that I will well and faithfully execute and perform all the duties of such <hi rend="underline">Commissioner</hi> under and by virtue of the laws of the State of <hi rend="underline">Kentucky</hi>.</p>
+<p>John Whipple Jr</p>
+<p><hi rend="underline">Sworn to before me this</hi> <date when="1865-10-13"><hi rend="underline">13</hi><hi rend="underline"><hi rend="sup">th</hi></hi><hi rend="underline"> day</hi> of October 1865</date></p>
+<p>D. P. Ingraham
+<lb/>P. J. of Supreme Court of New York.</p>
+<p><stamp type="revenue"/><note place="stamp">J W J
+<lb/><unclear/> <date when="1865">1865</date></note></p>
+<p><figure type="seal"><ab>JOHN WHIPPLE JR.
+<lb/>COMMISSIONER
+<lb/>NEW YORK</ab></figure><pb/></p>
+<p><hi rend="underline">Oath of Office of</hi>
+<lb/>John Whipple Jr
+<lb/>a Commissioner for <hi rend="underline">the State of</hi> <hi rend="underline">Kentucky</hi>
+<lb/>In the State of <hi rend="underline">New York.</hi>
+<lb/>filed <date when="1865-10-17">17<hi rend="sup">th</hi> Oct 1865</date></p>
+  </body>
+ </text>
+</TEI>

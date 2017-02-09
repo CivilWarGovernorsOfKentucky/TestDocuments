@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-006-0100"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Barnes, Affidavit</title>
+    <title level="a" type="parallel">CWG1146</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's Official Correspondence File, Requisitions for the Return of Fugitives from Justice, 1863-1867</collection>
+      <idno>BR6-125 to BR6-126</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Campbell County, Kentucky</placeName>
+    <date when="1865-11-08">8 November 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>State of Kentucky
+<lb/>Campbell County } S.S.</p>
+<p>John Barnes of the County and State above, being first duly sworn states, That one Claudius Tift (a painter by trade) formerly of same County &amp; State, did on or about the <date when="1864-12-16">16<hi rend="sup">th</hi> day of Dec/64</date> commit a felonly by breaking the seal &amp; taking from a letter, entrusted to said Tift to deliver, the sum of $400.<hi rend="underline"><hi rend="sup">00</hi></hi> that said felony was committed in Campbell County Kentucky after which the said Tift fled to <hi rend="underline">La Crosse</hi> <hi rend="underline">Wisconsin</hi> <hi rend="underline">where</hi> <hi rend="underline">he</hi> <hi rend="underline">now is</hi>, affiant further states that said Tift has written a letter to Col J. P. Jackson of the above County and State mailed at La crosse confessing his crime that said letter is now in the possession of affiant, further the money taken was the property of affiant.</p>
+<p>John Barnes</p>
+<p>Sworn to before me &amp; subscribed in my presence by the above named affiant this <date when="1865-11-08">8<hi rend="sup">th</hi> day of November 1865</date></p>
+<p>E. Ladd J. P. C. C.
+<lb/>A Copy attest
+<lb/>Jas R. Page
+<lb/>Asst Secty
+<lb/>State of Kentucky</p>
+  </body>
+ </text>
+</TEI>

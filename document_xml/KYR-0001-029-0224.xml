@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0224"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Aquilla Sylva to James F. Robinson</title>
+    <title level="a" type="parallel">CWG8676</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Governor's Official Correspondence File, Petitions for Pardons, Remissions, and Respites, 1862-1863</collection>
+      <idno>R3-337 to R3-338</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Marion County, Kentucky</placeName>
+    <date when="1863-02-23">23 February 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To the Honorable Govenor of the State of Kentucky</p>
+<p>Prior to the <date when="1862-04">April Term of the Marion Circuit Court, ^1862^</date> a woman by the name of Riggs was keeping a house of <hi rend="underline">ill</hi> <hi rend="underline">fame</hi> in the upper part of this county to the disgrace of the neighborhood The youths of the County were making her house a place of resort for bad purpose, spending their time drinking and dissipating generally -- The married men of the neighborhood at the instance of the wives and mothers of that part of the County met and destroyed the house, which was not worth more than Twenty dollars, They were indicted and Aquilla Sylvia was tried and, this Court refusing to permit him to prove the character of the house in justification or mitigation he was fined <hi rend="underline">one hundred</hi> dollars, His father Nathaniel Sylva and his brother James Sylva repleved the fine and their property all they are worth is now levied on and is about to be sold to pay the demand. He respectfully<pb/>
+<lb/>petitions the Govenor of the State to remit so much of the fine as he is by law authorized to remit</p>
+<p><date when="1863-02-23">Feby 23<hi rend="sup">rd</hi> 1863</date></p>
+<p>Respectfully
+<lb/>Aquilla Sylva</p>
+<p>H Taylor Esqr acted as prosecuting attorney when the fine was imposed is now in Frankfort and will say that the statements contained in the foregoing petition are true</p>
+<p>Aquilla Sylva</p>
+<p>We know the parties and the facts proved at this trial. We think the fine should be remitted &amp; petition the Govenor to remit the same</p>
+<p>T C Campbell
+<lb/>Henry L Jefferson } Sheriff of Mason County
+<lb/>Chas E Taft 
+<lb/>W H Savage 
+<lb/>Judge of Marion Co<pb/></p>
+<p>Mason Cir. Ct
+<lb/>$100 } Mis -- 
+<lb/>Harrison Taylor <unclear/> the pettn -- Fine remitted</p>
+<p>J F Robinson</p>
+<p>Aquilla Sylva
+<lb/>Iss<hi rend="sup">d</hi> <date when="1863-03-07">Mar 7. 1863</date></p>
+  </body>
+ </text>
+</TEI>

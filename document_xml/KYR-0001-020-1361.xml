@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1361"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Susan Parker to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10829</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG21-294 to MG21-295</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1861-08-20">20 August 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency B Magoffin Gov<hi rend="sup">r</hi> of Kentucky</p>
+<p>You Petitioner Susan Parker States that on the Frankfort Police Court She was fined $41_ upon a charge of a breach of the Peace</p>
+<p>She States that no person was Seriously injured in the fight between her and Mary Arnold that She is poor and unable to pay the fine</p>
+<p>She prays that your Excellency will remit Said fine</p>
+<p><date when="1861-08-20">Aug 20. 1861.</date>
+<lb/>Susan Parker</p>
+<p>We pray your Excellency to remit the above named fine</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>John L. Scott
+<lb/>Geo. W. Monroe
+<lb/>Q. L Phythian
+<lb/>H I Todd
+<lb/>D W Lindsey City Atty
+<lb/>A. H. Rennick
+<lb/>W. H. Sneed
+<lb/>Lewis Cheetz
+<lb/>James Harlan Jr
+<lb/>W H Greenup
+<lb/>Nelson Alley
+<lb/>R. C. Steele
+<lb/>W H Ferill
+<lb/><cb n="2"/>Jno Rodman
+<lb/>John R Graham
+<lb/>James M Todd
+<lb/><hi rend="underline">W,, H,,</hi> Gray
+<lb/>G W Gorin
+<lb/>M Owen
+<lb/>Jno. W. Crutcher
+<lb/>Ed. Keenon
+<lb/>Geo. W. Robb
+<lb/>W S Delaney
+<lb/>R. Runyan
+<lb/>H R Powell
+<lb/>G W Lewis<milestone unit="column" n="1"/><pb/></p>
+<p>I was present at the trial engaged as counsel, (not for the petitioner) and <hi rend="str">became</hi> consider it a proper case for the exercise of executive clemency continued further the other side.</p>
+<p><hi rend="underline">James Harlan Jr</hi></p>
+<p><milestone unit="column" n="2"/><cb n="1"/>D. M. Bowen
+<lb/>J. W. South
+<lb/>E Whitesides
+<lb/><cb n="2"/>L. Tobin
+<lb/><hi rend="str">J. M. Bowen</hi>
+<lb/>Jas O Sneed<milestone unit="column" n="1"/><pb/></p>
+<p>Frankfort Po. Ct</p>
+<p>Respite 8 Mo
+<lb/>B. M</p>
+<p>$41. } Breach
+<lb/>Susan Parker</p>
+<p>Iss<hi rend="sup">d</hi> Aug 26. 1861<figure type="hr"/></p>
+<p>Remission Iss<hi rend="sup">d</hi> <date when="1862-05-13">May 13<hi rend="underline"><hi rend="sup">th</hi></hi> 1862</date></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1673"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Henry Husen et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG11141</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Andrew P Patrick</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG22-345 to MG22-346</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Campbell County, Kentucky</placeName>
+    <date when="1862-02-20">20 February 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency Beriah Magoffin
+<lb/>Governor of the State of Kentucky</p>
+<p>The undersigned Jurors who tried the Indictment against Horace Heffren at the present <hi rend="str">ter</hi> <date when="--02">Februa-</date> Term of the Campbell Circuit ^Court^ on a charge of accepting a Challenge to fight a duel, state that they were constrained by the evidence &amp; the instructions to find a verdict of Guilty &amp; that they assessed the lowest penalty known to the Law, a fine of $250. They would under the circumstances, had the law permitted, have made the fine merely nominal. They believe the said Horace Heffren is a fit subject for Executive Clemency &amp; they therefore recommend <hi rend="str">him</hi> your Excellency to remit the fine assessed against him, believing the amount he will be compelled to pay the Attorney for the Commonwealth &amp; the costs, will be ample punishment for the offense</p>
+<p><date when="1862-02-20">Feby 20<hi rend="sup">th</hi> 1862</date>
+<lb/><milestone unit="column" n="2"/><cb n="1"/>Henry Husen
+<lb/>W S Walker
+<lb/>Jno. C Thomas
+<lb/>Lambert Day
+<lb/>John Stricker
+<lb/>Abe Kenney
+<lb/><cb n="2"/><hi rend="underline">A M</hi><hi rend="underline"><hi rend="sup">c</hi></hi><hi rend="underline">Kenzie</hi>
+<lb/><hi rend="underline">John F Herbert</hi>
+<lb/>Henry Buchanan
+<lb/>John Brown Lock
+<lb/>Jordan Noe Lewis Weaver<pb/></p>
+<p><milestone unit="column" n="1"/>I Jno Anderson clerk of the Campbell Circuit Court certify that H. Buchanan, Lewis Weaver, J. F. Herbert, J. B. Lock, H. Huser, Abe Kinney, A M<hi rend="sup">c</hi>Kenzie, W. S. Walker, Jordan Noe, John Stricker J C Thomas &amp; Lambert Day whose signatures appear to the above Petition were the Jurors who tried the case menitioned therein &amp; that I believe the signatures to be genuine. <date when="1862-02-20">Feby 20/62</date></p>
+<p><hi rend="underline">Jno Rotsman Clk C C C</hi><pb/></p>
+<p>Remitted
+<lb/>B M
+<lb/>Campbell Cir. Ct
+<lb/>$250 } Accepting a Challenge
+<lb/>Horace Hoffren
+<lb/>Please send answer to J. R. Hallam
+<lb/>Newport Ky
+<lb/>Iss<hi rend="sup">d</hi> <date when="1862-02-21">Feby 21<hi rend="underline"><hi rend="sup">st</hi></hi> 1862</date></p>
+  </body>
+ </text>
+</TEI>

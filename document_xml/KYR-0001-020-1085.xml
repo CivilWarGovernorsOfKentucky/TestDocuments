@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1085"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">William W. Prater to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10553</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG20-187</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To B. Magoffin Governor of Kentucky</p>
+<p>Your petitioner W<hi rend="underline"><hi rend="sup">m</hi></hi> W. Prater Would represent to your Excellency that Sometime in the year <date when="1860">1860</date> this petition was in Company with one of his (nephews) W<hi rend="underline"><hi rend="sup">m</hi></hi> W. Williams and Said Williams was to some extent intoxicated they was playing pranks on One another and Eventually Said Said Williams got in a passion And <hi rend="str">thro</hi> threw a glass at this petitioner <hi rend="str">this</hi> and this petitioner never repelled the assualt for on his part he represents to your honor that he never had any malice toward Said Williams altho <hi rend="str"><unclear/></hi> We were arrested and both were fined &amp; the Jury assessed a fine against this petitioner for $31,50 and the Execution is now in the hands of the officer who will proceed to collect the Same unless restrained by your honor</p>
+<p>W<hi rend="underline"><hi rend="sup">m</hi></hi> W <hi rend="str">Williams</hi>Prater
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> W. Prater</p>
+<p>the undersigned <hi rend="str">petitioners</hi>Subcribers Join in the prayer of the above petitioner for the remission of his fine in consequence of his poor Condition and large family</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>W<hi rend="underline"><hi rend="sup">m</hi></hi>. S. Adams
+<lb/><hi rend="underline">A, P, Cooper</hi> Esqr
+<lb/>Samuel Rice
+<lb/>T. C. Patrick
+<lb/>Eli Lemaster
+<lb/>Thomas Hackworth
+<lb/>John N Power
+<lb/>William Patrick
+<lb/>George Perkins
+<lb/><cb n="2"/>W P Salyer
+<lb/>Wm Conly
+<lb/>Lewis T. Toby
+<lb/>William. P. Bailey
+<lb/>Alexander Patrick
+<lb/>A, C, Bailey<milestone unit="column" n="1"/><pb/></p>
+<p>Magoffin J. P.
+<lb/>$3<hi rend="underline"><hi rend="sup">50</hi></hi> } assault
+<lb/>W. W. Prater</p>
+<p>Remitted
+<lb/>B. M</p>
+<p>Iss<hi rend="sup">d</hi> <date when="1861-05-13">May 13. 1861</date></p>
+  </body>
+ </text>
+</TEI>

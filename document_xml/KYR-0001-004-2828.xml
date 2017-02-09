@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2828"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">A. J. Warden et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7465</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR17-104 to BR17-105</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excelency
+<lb/>Thomas E Bramlette
+<lb/>Governor of the Commonwealth of Ky</p>
+<p>The undersigned your petitioners would represent, that at the <date when="1865-09">September term 1865</date> of the Ballard Circuit Court, Judgement was rendered against J D. White for three Hundred Dollars, upon a Bail Bond entered into, as Surety J Eaging's, appearance in the Ballard Circuit Court to answer for malicious stabing, that Said Bond was given in <date when="1863-11">November 1863</date> and that Soon after the execution the Dft Eaging left the state, and has not since returned We would farther represent that We believe, that White the Surety has done everything in his power to procure the appearance of Eagrieg. The premises considered We pray your Excelency to remit the fine as far as may be done by the Executive, and in duty will ever pray &amp;C. We farther state that many of us know the fact that the Dft White in his anxiety to procure the appearance of Eaging offered a reward for his apprehension, and We all state that Such is our information</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>A. J. Warden
+<lb/>F W Bugg
+<lb/>Thomas Wright
+<lb/>J. W Bugg
+<lb/><cb n="2"/>J, D, White
+<lb/>J, B, Jones
+<lb/>C N Rollins
+<lb/>S C Penne.<pb/>
+<lb/><cb n="1"/>O, F, Nichols
+<lb/>T J Juett
+<lb/>J, P, Pollock
+<lb/>Smith Garrett
+<lb/>F, A. Adams
+<lb/>Geo <unclear>Burger</unclear>
+<lb/>Allen Harris
+<lb/>J M Keen
+<lb/>R M Dunkin
+<lb/>G W. Howell
+<lb/>G W M<hi rend="sup">c</hi>Walters
+<lb/>Jos Bishop
+<lb/>W, J, Wells
+<lb/>R. J. Crunch
+<lb/>V. A. McCuchen
+<lb/>David Menser Sen
+<lb/>A Fuller
+<lb/>G W Reeves
+<lb/>John. Nash
+<lb/>G Utterback
+<lb/>J F Blake
+<lb/>C H Blake
+<lb/>W Pidgeon
+<lb/>J. Rollins
+<lb/><cb n="2"/>W<hi rend="underline"><hi rend="sup">m</hi></hi> L Corbett
+<lb/>Joseph Asbery
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi>, S. Pollock
+<lb/>F. Sams
+<lb/>Jas M<hi rend="sup">c</hi>Cauley
+<lb/>Patrick Watson
+<lb/>John Stone
+<lb/>J V Sandford
+<lb/>Reuben Ratford
+<lb/>J, C, <unclear>Jupaster</unclear>
+<lb/>W H Reevs
+<lb/>W G Oliphant
+<lb/>Tho<hi rend="sup">s</hi> Blake
+<lb/>S. D. Blake
+<lb/><unclear/> W Jackson
+<lb/>J. S. Petrie
+<lb/>J, F, Crice
+<lb/>S, B, Wray
+<lb/>H S. Smith
+<lb/>A. J. Corneleson<pb/></p>
+<p><milestone unit="column" n="1"/>Ballard Cir Ct
+<lb/>vs
+<lb/>J D White
+<lb/>To His Excellency
+<lb/>The Governor of Ky<figure type="hr"/>
+<lb/>$300, Forfeiture
+<lb/>Petition<figure type="hr"/>
+<lb/>Remitted <date when="1865-12-09">9 Dec/65</date></p>
+<p>Remit -- &amp; hand to Rep<hi rend="underline"><hi rend="sup">r</hi></hi> Corbett</p>
+  </body>
+ </text>
+</TEI>

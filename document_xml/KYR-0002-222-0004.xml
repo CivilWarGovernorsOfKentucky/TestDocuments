@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-222-0004"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Unknown, John W. Finnell Telegraph Ledger</title>
+    <title level="a" type="parallel">CWG13693</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>Misc. QM Expenditures, 1863-1865</collection>
+      <idno>QMG Box 10; 1863 Office Expenses - Telegraph, Stationary - Transportation - Ordinance Stores; Bundle 1</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1863-06">June 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Genl. J. W. Finnell's <unclear/> <date when="1863-06">June 1863</date>
+<lb/>To Telegrafs <unclear>of</unclear></p>
+<p><table rend="rules">
+<row>
+	<cell><date when="1863-06-01">June 1</date></cell>
+	<cell/>
+	<cell/>
+	<cell>D<hi rend="sup">r</hi></cell>
+</row>
+<row>
+	<cell/>
+	<cell>To Col Sanders Lex</cell>
+	<cell/>
+	<cell>36</cell>
+</row>
+<row>
+	<cell/>
+	<cell>" " " "</cell>
+	<cell/>
+	<cell>44</cell>
+</row>
+<row>
+	<cell><hi rend="str">6</hi><date when="1863-06-02">2</date></cell>
+	<cell>" Genl Burnside Cin</cell>
+	<cell/>
+	<cell>87</cell>
+</row>
+<row>
+	<cell/>
+	<cell>" " " "</cell>
+	<cell/>
+	<cell>69</cell>
+</row>
+<row>
+	<cell/>
+	<cell>" Wickliffe Lex</cell>
+	<cell/>
+	<cell>40</cell>
+</row>
+<row>
+	<cell><date when="1863-06-03">3</date></cell>
+	<cell>" Col Fry Washn</cell>
+	<cell>1</cell>
+	<cell>90</cell>
+</row>
+<row>
+	<cell/>
+	<cell>" Wickliffe Lex</cell>
+	<cell/>
+	<cell>30</cell>
+</row>
+<row>
+	<cell/>
+	<cell>" " Lex</cell>
+	<cell/>
+	<cell>30</cell>
+</row>
+<row>
+	<cell/>
+	<cell>" Howard</cell>
+	<cell/>
+	<cell>34</cell>
+</row>
+<row>
+	<cell/>
+	<cell>" Wickliffe</cell>
+	<cell/>
+	<cell>34</cell>
+</row>
+<row>
+	<cell/>
+	<cell>" Buckley Eminence</cell>
+	<cell/>
+	<cell>30</cell>
+</row>
+<row>
+	<cell><date when="1863-06-04">4</date></cell>
+	<cell>" M<hi rend="sup">c</hi>Cracken</cell>
+	<cell/>
+	<cell>30</cell>
+</row>
+<row>
+	<cell/>
+	<cell>" fr Gov Robinson</cell>
+	<cell/>
+	<cell>32</cell>
+</row>
+<row>
+	<cell/>
+	<cell>" To Genl. Boyle</cell>
+	<cell>1</cell>
+	<cell>96</cell>
+</row>
+<row>
+	<cell><date when="1863-06-08">8</date></cell>
+	<cell>" " Seawell Lon</cell>
+	<cell/>
+	<cell>47</cell>
+</row>
+<row>
+	<cell/>
+	<cell>" " Tevis "</cell>
+	<cell/>
+	<cell>73</cell>
+</row>
+<row>
+	<cell/>
+	<cell>" " Sanders"</cell>
+	<cell/>
+	<cell>54</cell>
+</row>
+<row>
+	<cell/>
+	<cell>" " Athens Cov</cell>
+	<cell/>
+	<cell>45</cell>
+</row>
+<row>
+	<cell/>
+	<cell>" Genl Boyle</cell>
+	<cell/>
+	<cell>35</cell>
+</row>
+<row>
+	<cell/>
+	<cell>" Morrow Somset</cell>
+	<cell>1</cell>
+	<cell>39</cell>
+</row>
+<row>
+	<cell><date when="1863-06-10">10</date></cell>
+	<cell>" " Burnside</cell>
+	<cell/>
+	<cell>52</cell>
+</row>
+<row>
+	<cell/>
+	<cell>" " Boyle Lon</cell>
+	<cell/>
+	<cell>43</cell>
+</row>
+<row>
+	<cell/>
+	<cell>" " Gilbert MtVernon</cell>
+	<cell>2</cell>
+	<cell>46</cell>
+</row>
+<row>
+	<cell/>
+	<cell>" " Burnside</cell>
+	<cell>2</cell>
+	<cell>46 ^1662^</cell>
+</row>
+<row>
+	<cell><date when="1863-06-11">11</date></cell>
+	<cell>" " Lincoln Washn</cell>
+	<cell>6</cell>
+	<cell>60</cell>
+</row>
+<row>
+	<cell/>
+	<cell>" Tureman Cov</cell>
+	<cell/>
+	<cell>57</cell>
+</row>
+<row>
+	<cell/>
+	<cell>" " Fryman Lex</cell>
+	<cell/>
+	<cell>30</cell>
+</row>
+<row>
+	<cell/>
+	<cell>" Finnell to Jacobs</cell>
+	<cell>2</cell>
+	<cell>01</cell>
+</row>
+<row>
+	<cell/>
+	<cell>Democrat &amp; Lon</cell>
+	<cell/>
+	<cell>37</cell>
+</row>
+<row>
+	<cell/>
+	<cell>" Journal</cell>
+	<cell/>
+	<cell>37</cell>
+</row>
+<row>
+	<cell><date when="1863-06-12">12</date></cell>
+	<cell>" Burnside</cell>
+	<cell/>
+	<cell>44</cell>
+</row>
+</table>
+<lb/><pb/>
+<lb/><table rend="rules">
+<row>
+	<cell><date when="1863-06-12">12</date></cell>
+	<cell>To Genl Burnside Cinct</cell>
+	<cell/>
+	<cell>78</cell>
+</row>
+<row>
+	<cell/>
+	<cell>To Col Morrow</cell>
+	<cell>1</cell>
+	<cell>05</cell>
+</row>
+<row>
+	<cell><date when="1863-06-15">15</date></cell>
+	<cell>" Genl Burnside</cell>
+	<cell>1</cell>
+	<cell>44</cell>
+</row>
+<row>
+	<cell/>
+	<cell>" " Rosecrans</cell>
+	<cell/>
+	<cell>80</cell>
+</row>
+<row>
+	<cell><date when="1863-06-16">16</date></cell>
+	<cell>" Genl F. Athey</cell>
+	<cell/>
+	<cell>60</cell>
+</row>
+<row>
+	<cell><date when="1863-06-17">17</date></cell>
+	<cell>"Mssrs M<hi rend="sup">c</hi>Neil Lon Geo</cell>
+	<cell/>
+	<cell>71</cell>
+</row>
+<row>
+	<cell/>
+	<cell>" Finnell for Athey Cov</cell>
+	<cell/>
+	<cell>46</cell>
+</row>
+<row>
+	<cell/>
+	<cell>" " " " "</cell>
+	<cell/>
+	<cell>45</cell>
+</row>
+<row>
+	<cell/>
+	<cell>" " " " "</cell>
+	<cell/>
+	<cell>47</cell>
+</row>
+<row>
+	<cell><date when="1863-06-18">18</date></cell>
+	<cell>" Mullin Falmouth</cell>
+	<cell>1</cell>
+	<cell>17</cell>
+</row>
+<row>
+	<cell/>
+	<cell>" Tevis Lon</cell>
+	<cell>1</cell>
+	<cell>35</cell>
+</row>
+<row>
+	<cell/>
+	<cell>" Collier "</cell>
+	<cell>1</cell>
+	<cell>66</cell>
+</row>
+<row>
+	<cell/>
+	<cell>" Summer "</cell>
+	<cell/>
+	<cell>65</cell>
+</row>
+<row>
+	<cell/>
+	<cell>" Burnside</cell>
+	<cell/>
+	<cell>68</cell>
+</row>
+<row>
+	<cell><date when="1863-06-23">23</date></cell>
+	<cell>" " Cin</cell>
+	<cell>1</cell>
+	<cell>11 ^23.24^</cell>
+</row>
+<row>
+	<cell/>
+	<cell>" " "</cell>
+	<cell>1</cell>
+	<cell>20</cell>
+</row>
+<row>
+	<cell/>
+	<cell>" " "</cell>
+	<cell/>
+	<cell>31</cell>
+</row>
+<row>
+	<cell><date when="1863-06-24">24</date></cell>
+	<cell>" " "</cell>
+	<cell/>
+	<cell>35</cell>
+</row>
+<row>
+	<cell><date when="1863-06-24">"</date></cell>
+	<cell>" Genl Boyle L'ville</cell>
+	<cell>1</cell>
+	<cell>04</cell>
+</row>
+<row>
+	<cell/>
+	<cell>" " " "</cell>
+	<cell>1</cell>
+	<cell>11</cell>
+</row>
+<row>
+	<cell/>
+	<cell>" " " "</cell>
+	<cell/>
+	<cell>90</cell>
+</row>
+<row>
+	<cell/>
+	<cell>" Cutts Cin</cell>
+	<cell/>
+	<cell>61</cell>
+</row>
+<row>
+	<cell/>
+	<cell>" Genl Burnside</cell>
+	<cell/>
+	<cell>54</cell>
+</row>
+<row>
+	<cell/>
+	<cell>" Mullins</cell>
+	<cell/>
+	<cell>52 58</cell>
+</row>
+<row>
+	<cell/>
+	<cell>" Fr Gov Robinson</cell>
+	<cell/>
+	<cell>54</cell>
+</row>
+<row>
+	<cell/>
+	<cell>" " " "</cell>
+	<cell/>
+	<cell>54</cell>
+</row>
+<row>
+	<cell/>
+	<cell>" " " "</cell>
+	<cell/>
+	<cell>88</cell>
+</row>
+<row>
+	<cell/>
+	<cell>Athey <unclear/></cell>
+	<cell/>
+	<cell>46</cell>
+</row>
+<row>
+	<cell/>
+	<cell>" " Moore</cell>
+	<cell/>
+	<cell>30</cell>
+</row>
+<row>
+	<cell/>
+	<cell>" " Boyle</cell>
+	<cell>1</cell>
+	<cell>05</cell>
+</row>
+</table>
+<lb/><pb/>
+<lb/><table rend="rules">
+<row>
+	<cell><date when="1863-06-24">"</date></cell>
+	<cell>To Genl Finnell</cell>
+	<cell>2</cell>
+	<cell>54</cell>
+</row>
+<row>
+	<cell><date when="1863-06-26">26</date></cell>
+	<cell>" Adj't Mulles Falmouth</cell>
+	<cell/>
+	<cell>70</cell>
+</row>
+<row>
+	<cell><date when="1863-06-26">"</date></cell>
+	<cell>" Milward Lex.</cell>
+	<cell/>
+	<cell>30</cell>
+</row>
+<row>
+	<cell><date when="1863-06-26">"</date></cell>
+	<cell>" " "</cell>
+	<cell/>
+	<cell>30</cell>
+</row>
+<row>
+	<cell><date when="1863-06-27">27</date></cell>
+	<cell>" " Boyle</cell>
+	<cell/>
+	<cell>72</cell>
+</row>
+<row>
+	<cell><date when="1863-06-27">"</date></cell>
+	<cell>" " Harlan</cell>
+	<cell/>
+	<cell>45</cell>
+</row>
+<row>
+	<cell><date when="1863-06-27">"</date></cell>
+	<cell>" " "</cell>
+	<cell/>
+	<cell>65</cell>
+</row>
+<row>
+	<cell/>
+	<cell>" Athy from</cell>
+	<cell>1213</cell>
+	<cell>4934</cell>
+</row>
+<row>
+	<cell><date when="1863-06-22">22</date></cell>
+	<cell>" Carter Dille</cell>
+	<cell>1</cell>
+	<cell>69</cell>
+</row>
+<row>
+	<cell><date when="1863-06-22">"</date></cell>
+	<cell>" Mullins Falmouth</cell>
+	<cell/>
+	<cell>40</cell>
+</row>
+<row>
+	<cell><date when="1863-06-22">"</date></cell>
+	<cell>" Semple Lon</cell>
+	<cell/>
+	<cell>47</cell>
+</row>
+<row>
+	<cell/>
+	<cell/>
+	<cell>61</cell>
+	<cell>40</cell>
+</row>
+<row>
+	<cell/>
+	<cell>Stamps</cell>
+	<cell>2</cell>
+	<cell>19</cell>
+</row>
+<row>
+	<cell/>
+	<cell/>
+	<cell>$63</cell>
+	<cell>59</cell>
+</row>
+</table></p>
+  </body>
+ </text>
+</TEI>

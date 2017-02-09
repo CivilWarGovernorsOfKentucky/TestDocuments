@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-028-0051"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">C. J. Walker to James F. Robinson</title>
+    <title level="a" type="parallel">CWG7706</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Appointments by the Governor, Military Appointments, 1862-1863</collection>
+      <idno>R2-184</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Fort Union, New Mexico</placeName>
+    <date when="1862-09-23">23 September 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Fort Union. New. Mexico.
+<lb/><date when="1862-09-23">Sep. 23<hi rend="underline"><hi rend="sup">d</hi></hi> 1862.</date>
+<lb/>To His Excellency
+<lb/>Gov. J. F. Robinson.
+<lb/>Gov of Ky.
+<lb/>Sir</p>
+<p>In a recent order from the War Department, it is announced that "as a general rule leaves of absence will be granted to Officers of the regular Army, for the purpose of accepting commissions in the volunteer service," provided however, that such commission, be not below the grade of Colonel." In view of this order, I have deemed it, not improper, to communicate to you, that I am a Kentuckian, a graduate of the U. S. Mil Academy, and an officer of the the "regular Army. Should your Excellency consider my services desirable, and deem it advisable to commission, me, in the volunteers of our state, I<pb/>
+<lb/>shall not only be gratified at the distinction, but feel proud that <hi rend="underline">Kentucky</hi> has conferred it. I will leave this Territory, in a few days, for <hi rend="underline">Fort</hi> <hi rend="underline">Leavenworth</hi>, Kansas, at which point I trust, I may meet with your reply.</p>
+<p>I am Sir
+<lb/>Very Respectfully
+<lb/>C. J. Walker.
+<lb/>Capt. 2<hi rend="underline"><hi rend="sup">nd</hi></hi> Cavalry
+<lb/>U.S. Army.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-3053"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">David Needy et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG5172</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR43-167 to BR43-168</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency Gov Bramlette</p>
+<p>We the undersigned policemen of the city of Louisville would respectfully state to Your Excellency- that Napoleon Roberts convicted in the Jefferson Circuit Court and George &amp; Scott Roberts indicted in same court for killing one Bell a colored Soldier in May last are industrious orderly and well behaved colored people. We would further represent to your Excellency that the difficulty in which Bell lost his life grew out of a previous difficulty between the police of the city and a party of Colored soldiers in which the Roberts' or one of them assisted the police in attempting to arrest the soldiers who were violent &amp; disorderly men.</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>David Needy
+<lb/>Liuetinet of 5 Polis Dist
+<lb/>Mat Fleming Policeman
+<lb/>John Trayler "
+<lb/>Fred Black "
+<lb/>Patrick Olomor "
+<lb/><cb n="2"/>Louis Bache N<hi rend="underline"><hi rend="sup">o</hi></hi> 24 city Police
+<lb/>AJ Sayer N<hi rend="underline"><hi rend="sup">o</hi></hi> 92 city Police
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> McKinney "
+<lb/><unclear/> Claton "
+<lb/>John Burke "
+<lb/>John W. Legrand "<pb/>
+<lb/><milestone unit="column" n="1"/>W<hi rend="sup">m</hi> McGuire Policeman " "
+<lb/>I F. Hammer " "
+<lb/>Thomas Jones " "
+<lb/>S.H. Fortig " "
+<lb/>John Herman "
+<lb/>J. S. Cane policeman "
+<lb/>JL Marty <hi rend="str">LT 6</hi> Dist " Lts of 6 Polis Dist
+<lb/>James G Blunk " " "
+<lb/>Arthur Yates " " "
+<lb/>Thomas Antell " " "
+<lb/>MG Holmes policeman "
+<lb/>John H. Rodger "
+<lb/>Jacob Young "
+<lb/>John <unclear/> "
+<lb/>Thomas G. Slater "
+<lb/>John Lunlow Lts of 4 Polis D<hi rend="underline"><hi rend="sup">ist</hi></hi></p>
+<p>all the above names are Policeman of the city of Louisville Ky</p>
+  </body>
+ </text>
+</TEI>

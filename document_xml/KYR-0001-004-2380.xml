@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2380"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">J. W. Riley et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7017</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR15-301 BR15-302</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Warsaw, Gallatin County, Kentucky</placeName>
+    <date when="1865-09">September 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Warsaw Ky <date when="1865-09">Sept <gap/> 1865</date>
+<lb/>To his Excellency -- 
+<lb/>The Governor of the Commonwealth of Kentucky</p>
+<p>Your Petitioner Malvinia Spencer would respectfully represent to your Excellency That, at the <date when="1865-09">Sept 1865</date> of the Gallatin Circuit Court A Judgment was rendered in favor of the Commonwealth. and against your Petitioner for the Sum of $<gap/> for assalt and Battery. your Petitioner would further represent that Said Judgment was rendered by defalt your Petitioner not remembering the day it was Set for trial. If She had been presant She could and would have offered evidence (thou guilty) in Extenuation, which would have materially reduced the Judgment If not entirely prevented one. <hi rend="str">I</hi> Youre Petitioner would further represent that She is a very poor woman, the wife of the vilage Barber, with a family. and if required to pay so (to her) large a fine, her family must Seriously feal the <hi rend="str">a</hi>effects of the loss (if indeed she is able to pay the Same atall.) her numerous relitives are all very poor. and She cannot look to them for the Slightest pecuniary assistance. She further Says the offence for which She was so fined, grew out of a political contriversy between an other lady and her self. in which said contriversy very abusive and insulting language was used towards your petitioner So much so, that in an ungarded moment She did commit the offence by threatening and m<hi rend="str">a</hi>enacing the other, but in no other way what ever</p>
+<p>Wherefore She prays your Excelency to remit the Same, and if not the whole amount then Such other and partial relief As your<pb/>
+<lb/>Excellency may deem Just and Expedient, and your Petitioner as in duty bound <hi rend="str">for</hi> ever &amp;c</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Jurrors names
+<lb/>J. W. Riley S G C
+<lb/>S. Carver. Juryman
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> C. Sleet
+<lb/>Thos. Ritchey
+<lb/>R. L. Ireland clk
+<lb/>H Sebree
+<lb/>F. Perry
+<lb/><cb n="2"/>malvina Spencier
+<lb/>P. K. White
+<lb/>W. W. Garnett
+<lb/>A. Gregg
+<lb/>John Glenn
+<lb/>Joseph E. Barwell
+<lb/>W B Summons
+<lb/>Joseph R. White
+<lb/>W. D. Gridley
+<lb/>James Gridly
+<lb/>P Donely
+<lb/>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> W Lillard
+<lb/>S <unclear/>
+<lb/><unclear/> H Williams
+<lb/>W H Morris
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> M Halbert
+<lb/>David Story
+<lb/>Joshua Howards
+<lb/>W, H, Keene
+<lb/>T, H, Keene
+<lb/>Henry Smith
+<lb/>William E. Hearn<pb/></p>
+<p><milestone unit="column" n="1"/>Gallatin Cir Ct
+<lb/>vs
+<lb/>Malvinia Spencer
+<lb/>$<hi rend="str"><unclear/></hi>
+<lb/>Assault &amp; Battery
+<lb/>Remit</p>
+  </body>
+ </text>
+</TEI>

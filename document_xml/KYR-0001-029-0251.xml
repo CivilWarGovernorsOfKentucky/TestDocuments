@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0251"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Jesse Rice et al. to James F. Robinson</title>
+    <title level="a" type="parallel">CWG8703</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Governor's Official Correspondence File, Petitions for Pardons, Remissions, and Respites, 1862-1863</collection>
+      <idno>R3-373 to R3-374</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Hancock County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency J. F. Robinson, Governor of Kentucky,</p>
+<p>We the undersigned petitioners would respectfully represent, to Your excellency that at the <date when="1862-08">August Term 1862</date> of the Hancock Circuit Court one John Egloff a German. was Indicted by the Grand Jury in three several. cases two of which Indictments were for selling Spirits to Negroes, and one for selling to a minor. -- They state that by an arrangement <hi rend="str">that</hi> made between M<hi rend="sup">r</hi> Egloff &amp; the attorney for the Commonwealth that a Judgment was entered in one of the Cases agst him for $50. &amp; $10 in each of the other cases. -- </p>
+<p>They would respectfully state to Your excellency that Mr Egloff is a verry old man and a large family dependent upon him for a support and he is verry poor. -- and without a home &amp; has to depend upon his own exertions for a support for himself and family and that it would be a great hardship to enforce the Collections of s<hi rend="sup">d</hi> Judgment upon him that he is not familliar with the laws &amp; usages of the Country --  -- They would threfore <hi rend="str">respectfully request</hi> humbly pray your excellency to remit said fine against s<hi rend="sup">d</hi> Egloff &amp; they will ever pray &amp;<hi rend="sup">c</hi> </p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Jesse Rice
+<lb/><cb n="2"/>Eldred.E. Fale, Clerk
+<lb/>Ben. F. Miller
+<lb/>Eli H Brown<pb/>
+<lb/><cb n="1"/>Edward Humphreys
+<lb/>George W. Wheatley
+<lb/>Abram Brown
+<lb/>Thomas J Ross
+<lb/>Giles Chambers
+<lb/>John Johnson
+<lb/>J W Wilson
+<lb/>Ed. V. Marble,
+<lb/>James Kennedy
+<lb/>Samuel Cornwell
+<lb/>Mead Young
+<lb/>J. B. Messinor
+<lb/>R, M, Wilson
+<lb/>Peters B young
+<lb/>S G Lane Sr
+<lb/>W R Baker Attny
+<lb/>Adam Bube
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Gerrard
+<lb/>Wm Cook
+<lb/>Abner Goodwin
+<lb/><unclear/> Stein
+<lb/>Saml,, Beard
+<lb/>C, E, Price
+<lb/>Mark Mason
+<lb/>Peter Robertson
+<lb/>John Cabton
+<lb/>J. Jackson
+<lb/>John C. Maskin
+<lb/>W. W. Pater
+<lb/>C. H Moredock
+<lb/>W<hi rend="sup">m</hi> T. Cook
+<lb/>John Clark
+<lb/>E. S. Alsop
+<lb/>R Purcell
+<lb/>John Emrich
+<lb/><cb n="2"/>Frederick Powers
+<lb/>W. S. Gibbs
+<lb/>J. J. Storn
+<lb/>James Pinor
+<lb/>T, C, Pattie
+<lb/>Jacob Knobb.
+<lb/>N C Davison
+<lb/><hi rend="underline">C. T. Hawes</hi>
+<lb/>Joseph Fenwick
+<lb/>Ludwig Bergenroth
+<lb/>Joseph herron
+<lb/>John Taylor
+<lb/>W, Longest
+<lb/>Dan Gillians
+<lb/>G. W. M<hi rend="sup">c</hi>Adams
+<lb/>W. H. Shelley
+<lb/>john Riches
+<lb/>John G. Mather
+<lb/>Edw Davidson
+<lb/>John M<hi rend="sup">c</hi>Brown Presiding Judge<pb/></p>
+<p><milestone unit="column" n="1"/>Petition</p>
+<p>Hancock Cir. Ct</p>
+<p>The fine for Fifty dollars remitted the other two not remitted</p>
+<p>J F Robinson</p>
+<p>$50. } liquor to a minor
+<lb/>John Egloff
+<lb/>Iss<hi rend="sup">d</hi> <date when="1863-02-16">Feby 16. 1863</date></p>
+  </body>
+ </text>
+</TEI>

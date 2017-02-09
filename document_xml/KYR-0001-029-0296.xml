@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0296"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Sam C. Hughes to James F. Robinson or W. W. Gardner</title>
+    <title level="a" type="parallel">CWG8748</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Governor's Official Correspondence File, Petitions for Pardons, Remissions, and Respites, 1862-1863</collection>
+      <idno>R3-436 to R3-437</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Morganfield, Union County, Kentucky</placeName>
+    <date when="1863-03-05">5 March 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>SAM. C. HUGHES,
+<lb/>ATTORNEY AT LAW,
+<lb/>MORGANFIELD, KY.<figure type="hr"/></p>
+<p>Will practice in the Courts of Union and the adjoining Counties. All Collecting Business promptly attended to.</p>
+<p>Morganfield, Ky.
+<lb/><date when="1863-03-05">March 5<hi rend="sup">th</hi> 1863</date>.
+<lb/>Gov Robinson or
+<lb/>W W Gardner.
+<lb/>Gentlemen</p>
+<p>In case the decision of the Governor should be in ^my^ favor, in regard to the petition which was presented to him by Mr Gardner and M<hi rend="sup">r</hi> Bell -- I enclose the order of the court regulating the dates left blank in the petition -- </p>
+<p>Yours &amp;c
+<lb/>Sam C. Hughes<pb/></p>
+<p>Letter of S. C. Hughes</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1083"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Thomas H. Corbett to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10551</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG20-184</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Clinton, Hickman County, Kentucky</placeName>
+    <date when="1861-05-16">16 May 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Clinton Ky. <date when="1861-05-16">16<hi rend="sup">th</hi> May 1861</date>
+<lb/>Gov,, B. Magoffin
+<lb/>Dear Gov -- </p>
+<p>At the <date when="1861-05">May term 1861</date> -- of the Equity and criminal Court for Hickman county, a Judgment in favor of the Commonwealth upon an Indictment. for Tipling, was rendered against James Zimmerman for $60. The facts connected with the transaction are these. a licensed tavern keeper in town who had a Bar, sold an interest in the bar to Zimmerman, maknig them partners, Zimmerman attended the bar and sold whiskey by the drink and was led to believe that the tavern license of his partner would protect him. Zimmerman is a good citizen and never knowingly violates law and was in this instance totally ignorant of any violation of law on his part -- We therefore pray your Excellency to remit said Judgment -- </p>
+<p>George W. Silvertooth
+<lb/><hi rend="underline">Tho</hi><hi rend="underline"><hi rend="sup">s</hi></hi><hi rend="underline"> H. Corbett</hi>
+<lb/>Comths atty. 1<hi rend="sup">st</hi> J. D.<pb/></p>
+<p>Remitted
+<lb/>B. M</p>
+<p>Iss<hi rend="sup">d</hi>. <date when="1861-06-24">June 24</date></p>
+  </body>
+ </text>
+</TEI>

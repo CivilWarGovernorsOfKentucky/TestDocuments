@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-006-0041"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Isaac J. Ketcham, Affidavit</title>
+    <title level="a" type="parallel">CWG1087</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's Official Correspondence File, Requisitions for the Return of Fugitives from Justice, 1863-1867</collection>
+      <idno>BR6-44 to BR6-45</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Sangamon County, Illinois</placeName>
+    <date when="1864-07-30">30 July 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>State of Illinois
+<lb/>Sangamon County } SS.</p>
+<p>Isaac. J. Ketcham being first duly sworne according to law upon oath says, that he is a resident of the County of Morgan and said State of Illinois. That the said Robert Pullum mentioned in the complaint and writ hereto attached is a fugitive from justice.</p>
+<p>Affiant further says that he has good reason to believe that said Robert Pullum is in the State of Kentucky, for the purpose of evading -- and escaping, just punishment for the crime of murder, committed in the said county of Morgan and state of Illinois as alledged in the complaint of R R Smith hereto attached,</p>
+<p>Isaac. J. Ketcham</p>
+<p>Subscribed and sworn to before me this <date when="1864-07-30">30<hi rend="sup">th</hi> day of July 1864.</date></p>
+<p>S. S. Whitehurst clerk
+<lb/>Sangamon County Circuit Court</p>
+<p><figure type="seal"><ab>SANGAMON COUNTY CIRCUIT COURT ILL
+<lb/>1818</ab></figure>
+<lb/><stamp type="revenue"/><note place="stamp"><unclear/></note><pb/></p>
+<p>Hon. O. M. Hatch
+<lb/>Sec. of State</p>
+<p>Please issue writ of requisition for return of Robert Pulliam upon mentioned in within Affidavit
+<lb/><date when="1864-07-29">July 29<hi rend="sup">th</hi> 1864</date></p>
+<p>Rich<hi rend="sup">d</hi> Yates Governor</p>
+  </body>
+ </text>
+</TEI>

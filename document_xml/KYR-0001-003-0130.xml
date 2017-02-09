@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-003-0130"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">William DeB. Morrill, Statement</title>
+    <title level="a" type="parallel">CWG1647</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's Official Correspondence File, Military Correspondence, 1863-1867</collection>
+      <idno>BR5-242</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1865-10">October 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>AAAFinancial Statement of funds expendid for the relief of sick and destitute Kentucky Soldiers, for the months of <date when="1865-09">September</date> and <date when="1865-10">October. 1865</date>. at Louisville, Kentucky,</p>
+<p>Col.. W<hi rend="underline"><hi rend="sup">m</hi></hi> DeB. Morrill. Mil.. State Agt for Ky.<figure type="hr"/></p>
+<p><table rend="rules">
+<row>
+	<cell/>
+	<cell/>
+	<cell>$</cell>
+	<cell/>
+</row>
+<row>
+	<cell><date when="1865-09">September</date> -- </cell>
+	<cell>✓To Cash to Soldier's Widow,, Acct,, 'A.'</cell>
+	<cell>5</cell>
+	<cell>00</cell>
+</row>
+<row>
+	<cell><date when="1865">1865</date>.</cell>
+	<cell>✓" Postage Stamps Voucher, 'B.'</cell>
+	<cell>10</cell>
+	<cell>00</cell>
+</row>
+<row>
+	<cell>"</cell>
+	<cell>✓" Wine for Sick in Hospital " 'C.'</cell>
+	<cell>15</cell>
+	<cell>00</cell>
+</row>
+<row>
+	<cell>"</cell>
+	<cell>" Gas,, One half the whole bill to Ky,,</cell>
+	<cell>3</cell>
+	<cell>15</cell>
+</row>
+<row>
+	<cell><date when="1865-10">October</date> -- </cell>
+	<cell>✓" Stationery, Sep<hi rend="underline"><hi rend="sup">r</hi></hi> &amp; Oct<hi rend="underline"><hi rend="sup">r</hi></hi> " 'D."</cell>
+	<cell>7</cell>
+	<cell>75</cell>
+</row>
+<row>
+	<cell>"</cell>
+	<cell>✓" " " " 'E.'</cell>
+	<cell>4</cell>
+	<cell>50</cell>
+</row>
+<row>
+	<cell>"</cell>
+	<cell>✓" Cash to. Soldier's wife " 'F.'</cell>
+	<cell>5</cell>
+	<cell>00</cell>
+</row>
+<row>
+	<cell>"</cell>
+	<cell>✓" Postage Stamps,, " 'G.'</cell>
+	<cell>10</cell>
+	<cell>00</cell>
+</row>
+<row>
+	<cell>"</cell>
+	<cell>✓" Cash to Soldier's Widow.. Act. '1.'</cell>
+	<cell>5</cell>
+	<cell>00</cell>
+</row>
+<row>
+	<cell>"</cell>
+	<cell>✓" Hatchet,, " 'H.'</cell>
+	<cell>1</cell>
+	<cell>00</cell>
+</row>
+<row>
+	<cell>"</cell>
+	<cell>✓" Rent of P. O. Drawer No. 20, " 'I,,'</cell>
+	<cell>2</cell>
+	<cell>57</cell>
+</row>
+<row>
+	<cell>"</cell>
+	<cell>✓" Fruit for the Sick,, " 'K.'</cell>
+	<cell>5</cell>
+	<cell>05</cell>
+</row>
+<row>
+	<cell>"</cell>
+	<cell>✓" Cash to the destitute Soldier " 'L,'</cell>
+	<cell>5</cell>
+	<cell>00</cell>
+</row>
+<row>
+	<cell>"</cell>
+	<cell>✓" Wine for sick in Hospital " 'M.'</cell>
+	<cell>15</cell>
+	<cell>00</cell>
+</row>
+<row>
+	<cell>"</cell>
+	<cell>✓" Fuel,, " 'N.'</cell>
+	<cell><hi rend="underline">11</hi></cell>
+	<cell><hi rend="underline">00</hi></cell>
+</row>
+<row>
+	<cell/>
+	<cell>Total for <date when="1865-09">Sep<hi rend="underline"><hi rend="sup">r</hi></hi></date> and <date when="1865-10">October</date>..</cell>
+	<cell>$105</cell>
+	<cell>02</cell>
+</row>
+</table><pb/></p>
+<p>Financial Statement for <date when="1865-09">September</date> &amp; <date when="1865-10">October 1865</date>.
+<lb/>Col W. DeB. Morrill.
+<lb/>Mil. State Agt,, for Ky,,
+<lb/>Louisivlle. Ky..<figure type="hr"/>
+<lb/><hi rend="str">Executive Office</hi>
+<lb/><date when="1865-11-02"><hi rend="str">Novr 2" 1865</hi></date></p>
+<p><hi rend="str">Auditor will draw warrant &amp; send check to Col Morrill for $3005 -- to pay his salary and expenses for cash furnished Ky Soldiers for months of</hi> <date when="1865-09"><hi rend="str">Sept</hi></date> <hi rend="str">&amp;</hi> <date when="1865-10"><hi rend="str">Oct. 1865</hi></date></p>
+<p><hi rend="str">Thos E Bramlette
+<lb/>Govr</hi></p>
+<p>Act Approved <date when="1865-02-27">Feby 27<hi rend="sup">th</hi> 1865</date>
+<lb/>page 63. Vol 1<hi rend="sup">st</hi> Acts of <date when="1865">1865</date></p>
+  </body>
+ </text>
+</TEI>

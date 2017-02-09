@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-222-0037"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John W. Finnell, Receipt to Kentucky Stage Company</title>
+    <title level="a" type="parallel">CWG13726</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>Misc. QM Expenditures, 1863-1865</collection>
+      <idno>QMG Box 10; 1863 Office Expenses - Telegraph, Stationary - Transportation - Ordinance Stores; Bundle 5</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1863-05-15">15 May 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>No. 22.<figure type="hr"/>
+<lb/>The <hi rend="str">United States</hi>, ^State of Ky^
+<lb/>To Ky Stage Co Dr</p>
+<p><table rend="rules">
+<row>
+	<cell><date when="1862">1862</date></cell>
+	<cell/>
+	<cell>DOLLARS.</cell>
+	<cell> CTS.</cell>
+</row>
+<row>
+	<cell><date when="1862-08">Aug</date></cell>
+	<cell>To 51 Pass Williamstown</cell>
+	<cell/>
+	<cell/>
+</row>
+<row>
+	<cell><date when="1862-09">Sept</date></cell>
+	<cell>" To Florence $1.50</cell>
+	<cell>76</cell>
+	<cell>50</cell>
+</row>
+<row>
+	<cell/>
+	<cell>" 2 Rylands Florence $1.00</cell>
+	<cell>2</cell>
+	<cell/>
+</row>
+<row>
+	<cell> </cell>
+	<cell>" 5 Florence Williamstown 1.50</cell>
+	<cell>7</cell>
+	<cell>50</cell>
+</row>
+<row>
+	<cell><date when="1863-01">1863 Jan</date></cell>
+	<cell>" 2 Lex Richmond 2.00</cell>
+	<cell>4</cell>
+	<cell/>
+</row>
+<row>
+	<cell/>
+	<cell/>
+	<cell>$<hi rend="str">86</hi>90</cell>
+	<cell/>
+</row>
+</table></p>
+<p><note place="body">Approved By order of the Governor
+<lb/>Jno. W Finnell
+<lb/><hi rend="underline">Adjt Genl Ky Vols</hi></note></p>
+<p>I certify that the above account is correct and just; that the services were rendered as stated; and that they were necessary for the public service.</p>
+<p><gap/>
+<lb/><gap/> <hi rend="italic">Quartermaster</hi>. </p>
+<p>Received at Frankfort Ky the <date when="1863-05-15">15 day of May 1863</date> of Jn<hi rend="sup">o</hi> W. Finnell Adj<hi rend="sup">t</hi> Gen<hi rend="sup">l</hi> Ky Vols. <hi rend="str">Quartermaster</hi> <hi rend="str">U.S. Army</hi> the sum of Ninety -- dollars and -- cents, in full of the above account.</p>
+<p>[SIGNED IN TRIPLICATES.]
+<lb/>Irvine Shackelford &amp; Co<pb/></p>
+<p>9 32nd
+<lb/>Infantry<hi rend="underline">
+<lb/></hi>No. 22.<figure type="hr"/>
+<lb/>No. 180 Abstract <hi rend="str">B</hi> P
+<lb/><gap/> 186<gap/><figure type="hr"/>
+<lb/>Kentucky Stage Co<hi rend="sup">y</hi>
+<lb/>Dollars 90 <hi rend="sup">00</hi>/<hi rend="sub">100</hi>
+<lb/>Paid <date when="1863-05-15">15 of May 1863</date></p>
+  </body>
+ </text>
+</TEI>

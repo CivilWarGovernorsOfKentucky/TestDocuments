@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2414"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Cornelius Gatliffe to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7051</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR15-351 to BR15-352</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Madison County, Kentucky</placeName>
+    <date when="1865-09-12">12 September 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excelency
+<lb/>Hon Tho<hi rend="underline"><hi rend="sup">s</hi></hi> E Bramlette
+<lb/>Gov of Ky</p>
+<p>Your Petitioner
+<lb/>Cornelious Gatliff
+<lb/>respectfully represents unto your Excelency, that in the present rebellion he served 3 years in the 7<hi rend="underline"><hi rend="sup">th</hi></hi> Ky Inft U. S. A. in putting down the Rebellion He was born &amp; raised in Whitly County Ky &amp; Joined the Union troops in <date when="1861">1861</date> at Camp Dick Robison -- He was in the Battles with Genl Grant around Vicksburg -- Champion Hills, Black River Bridge. Siege of Vicksburg <hi rend="str">&amp;</hi> &amp; others after his term expired he was honorably mustered out of the service, &amp; with his Father moved to Madison Co Ky and commenced business merchandizing</p>
+<p>In <date when="1865-02">Feb last 1865</date> -- at a Ball in this County -- when unarmed Milton Graves drew a pistol upon him cursed and abused him in the presence of the ladies &amp; company &amp; threatened to shoot him, called him a damned son of a bitch, damned dog &amp; other hard and abusive names. <hi rend="str"><unclear/></hi></p>
+<p>A day or two afterwards Graves overtook him on the Turnpike &amp; talking over how he had been treated at the Ball. They got into personal encounter. both firing about same times -- Graves firing 5 times at him<pb/>
+<lb/>&amp; he fired ^5^ times at Graves, one of his shots inflicting a slight wound on graves finger -- He was indicted at the <date when="1865-03">March Term 1865</date> of the Madison Circuit Court for shooting Graves with intent to kill him was tryed at this <date when="1865-09">September Term 1865</date> -- &amp; the Jury ^reluctantly as they said in open Court^ convicted him ^under instructions of the court^ &amp; sentenced him to Confinement in the State Penitentiary for one year</p>
+<p>He lost two of ^his^ fingers off his right hand -- long before his difficulty -- with Graves -- He was not Guilty of Maliciously shooting Graves</p>
+<p>He prays your Excelency to Pardon him -- he proud a good character &amp; this is the only offence proved against or of which he is Guilty</p>
+<p><date when="1865-09-12">Sept 12<hi rend="underline"><hi rend="sup">th</hi></hi> 1865</date></p>
+<p>Cornelious Gatliffe</p>
+<p>We the undersigned citizens of Madison County Join in the foregoing Petition &amp; pray your Excelency to Pardon Cornelius Gatliff.</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>J W Harcorut J P M C
+<lb/>R E Little Deputy clk
+<lb/>J W Bowman Judge
+<lb/>Madison County Court
+<lb/>James H. Embry Clerk Madison County Court
+<lb/><cb n="2"/><hi rend="underline">Edw Turner</hi> Atty
+<lb/>Jas M Kindred S M C
+<lb/>J M Shackelford clerk
+<lb/><hi rend="underline">Madison Circuit Court</hi>
+<lb/>John Bennett Atty
+<lb/>R. D. Davis Deputy clk<pb/></p>
+<p><milestone unit="column" n="1"/>P. P. Ballard Postmaster Richmond Ky
+<lb/>James S. Runyon
+<lb/>Eli, C, Cornelison<pb/></p>
+<p>Madison Cir Ct
+<lb/>vs
+<lb/>Commonwealth
+<lb/>vs } Petition for Pardon
+<lb/>Cornelius Gatliffe
+<lb/><date when="1865-09-15">15 Sept /65</date>
+<lb/>Pardon</p>
+  </body>
+ </text>
+</TEI>

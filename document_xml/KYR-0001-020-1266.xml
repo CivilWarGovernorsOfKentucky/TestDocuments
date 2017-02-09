@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1266"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Unknown to James W. Tate</title>
+    <title level="a" type="parallel">CWG10734</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG21-138 to MG21-139</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Paris, Bourbon County, Kentucky</placeName>
+    <date when="1861-07-14">14 July 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><milestone unit="column" n="2"/><cb n="1"/>Geo. W. Williams
+<lb/><cb n="2"/>Jno. A. Prall.<milestone unit="column" n="1"/>
+<lb/>WILLIAMS &amp; PRALL,
+<lb/>ATTORNEYS AT LAW,
+<lb/>PARIS, KY.</p>
+<p>Law Office of Williams &amp; Prall,
+<lb/>Paris, <date when="1861-07-14">July 14<hi rend="sup">th</hi> 1861</date>
+<lb/>Dear Friend Jim</p>
+<p>I address you a few lines this morning in <hi rend="str">t</hi>order to get your immediate assistance in behalf of a good, honest, hard working but poor citizen of our town, who has been wrongly indited and fined fifty dollars in the circuit court of this county. The case is as follows, This man of whom I speak, William Hanner by name, rented a room in the basement story of his dwelling house to a widow woman who, according to evidence, gave or sold liquor to a slave. He was indited for the offense of this woman because said liquor was dispisedly upon his premises, when he himself knew nothing about it, until he was<pb/>
+<lb/>summoned to appear before the court to answer to the charge. When the case came up for trial it was impossible for him to prove that he had rented the room to this woman, for he had rented it privately to her without any witness whatever and she herself was absent upon the day of trial. He was in this way very wrongly &amp; unjustly fined fifty dollars, as you see from the copy of the judgment which I enclose Now, knowing that the Govener is very much engaged with public affairs, so much so at least as not to notice particularly such a small matter as this, I write <hi rend="str">to you</hi> to get you to go to him immediately with this copy of the Judgment and get him to remit the fine, Dont let him grant a respite only for the<pb/>
+<lb/>case is so plain and the whole thing so unjust, that it ought to be remitted instantly. Please attend to this right away as the fine will be due tomorrow, I will get the Sheriff to wait on Hanson a few days until you send the remittal. Hanner is a true Southern Rights man, poor in purse, with a large family to support; and a dime to him is <hi rend="str"><unclear/></hi> of great use and importance in buying the loaf to feed his offspring. The health of Paris is good, The only pestilence now raging amongst us is abolitionism, enacted and driven in by Garrett Davis and his Lincon musketts.</p>
+<p>Yours truly
+<lb/>John J C<unclear/></p>
+<p>Ja<hi rend="sup">s</hi> W Tate
+<lb/>Frankfort</p>
+  </body>
+ </text>
+</TEI>

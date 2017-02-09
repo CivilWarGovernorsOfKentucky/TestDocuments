@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0974"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">A. G. Rhea to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10442</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG20-23 to MG20-24</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1861-04-04">4 April 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Senate Chamber
+<lb/><date when="1861-04-04">April 4<hi rend="sup">th</hi> 1861</date>
+<lb/>To his Excellency
+<lb/>Hon Beriah Magoffin
+<lb/>Governor of Kentucky
+<lb/>Dear Sir:</p>
+<p>I have received the accompanying Copies of judgments recently rendered in the Logan Equity &amp; Criminal Court, with a request that I should present the same to your Excellency in order that the fines imposed by such judgments against M. M. Clark, a citizen of the County of Logan might be remitted.</p>
+<p>The facts connected with these cases are as follows: A gentleman in the County of Logan by the name of Buster obtained license from the County Court of said County to keep a tavern; for a consideration he attempted to transfer the privilege of retailing spirits under said license -- Clark under said contract took charge of the bar, kept in the Hotel building -- the tavern being located in a little county town. Such I am credibly informed had been a custom in said county village for years and though illegal I am satisfied the parties were involved in the difficulty honestly <hi rend="str">and</hi>but ignorantly. Clark was indicted in these<pb/>
+<lb/>several indictments for keeping a tippling house three months -- on a trial of the first indictment the facts as heretofore set out were developed -- the consequence a verdict of guilty &amp; a fine of $200 assessed, on the remaining indictments, on the advice of cousel, the defendant Clark consented to a judgment of guilty of keeping a tippling house &amp; his fine was assessed in each case at $60.</p>
+<p>Mr. Clark is good citizen -- a law abiding man &amp; of limited circumstances. He was unquestionably led into his difficulty by an improper practice of tranferring tavern license in Said Village, and although such fact is no legal justification yet as the <hi rend="underline">motive</hi> should always control in determining a man's guilt, I do not hesitate to recommend a remission of the fines imposed against him in these cases.</p>
+<p>All of which is respectfully submit to your consideration with the hope of receiving favorable action at your hands</p>
+<p>Very respectfully
+<lb/><hi rend="underline">A. G. Rhea</hi><pb/></p>
+<p>Remitted
+<lb/>B. M
+<lb/>3 Judgts agst M. M. Clark
+<lb/>$200 $60 $60.
+<lb/>Is<hi rend="sup">d</hi> <date when="1861-04-04">april 4. 1861</date></p>
+  </body>
+ </text>
+</TEI>

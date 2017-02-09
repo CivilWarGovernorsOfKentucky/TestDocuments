@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0120"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">R. S. Peters to James F. Robinson</title>
+    <title level="a" type="parallel">CWG8572</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Governor's Official Correspondence File, Petitions for Pardons, Remissions, and Respites, 1862-1863</collection>
+      <idno>R3-187</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Springfield, Washington County, Kentucky</placeName>
+    <date when="1862-11-28">28 November 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Springfield Ky -- 
+<lb/><date when="1862-11-28">Nov<hi rend="underline"><hi rend="sup">r</hi></hi> 28<hi rend="underline"><hi rend="sup">th</hi></hi> 1862</date> -- 
+<lb/>Hon James F Robinson -- 
+<lb/>Governor of Kentucky -- 
+<lb/>Dear Sir -- </p>
+<p>Enclosed find the Petition of M<hi rend="sup">r</hi> Henry H. Alsman for the remission of a fine imposed on a charge of carrying concealed weapons -- </p>
+<p>I am intimately acquainted with him and have been from his infancy, and have never heard him charged with anything wrong; he is a sober industrious young man; he now resides in Lincoln County and the persons who have signed the petition all reside in the neighborhood where he was raised and resided until a year or two ago -- </p>
+<p>If you can do anything for him, please enclose the papers to me at this place -- </p>
+<p>Yours Respectfully
+<lb/><hi rend="underline">R S Peters</hi></p>
+  </body>
+ </text>
+</TEI>

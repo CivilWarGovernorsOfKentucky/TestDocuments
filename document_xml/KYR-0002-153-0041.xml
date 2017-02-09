@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-153-0041"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Boyle, General Orders, No. 4</title>
+    <title level="a" type="parallel">CWG14163</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>Assistant Adjutant General Letter Book - No. 1 ; 5 Sept 1863 - 2 Feb 1864</collection>
+      <idno>194 to 195</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1863-10-27">27 October 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Order</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><note place="header">194</note>
+<lb/><date when="1863-10-27">Oct<hi rend="sup">r</hi>. 27: <gap/>3.</date>
+<lb/>General Orders
+<lb/>N<hi rend="sup">o</hi>. 4.</p>
+<p>For the information and guidance of all concerned. The ready response of many of the most exposed Counties to the call for State guards, precludes the necessity of an immediate draft of the Enrolled Militia, such organizations, however will continue to be made in those Counties which have not yet responded to that call. It is still hoped that every County will by such voluntary movement place itself in a condition of self protection and prevent, within its borders the discgraceful raids continually occurring. Those counties which in the end, still decline to assist their neighbors and protect themselves, will be required to furnish their contingents either for State or National defence.</p>
+<p>No more commissions will be issued for twelve months recruiting within the State. Enlistments for three years in those Regiments already authorized and in the old regiments, will be continued until some date, to be published hereafter -- when a draft for the same length of service will be enforced.</p>
+<p>All advantages as to bounty and selection of regiment, will be with volunteers, conscripts will receive only that pay, allotted by Congress, and be assigned to fill the depleted ranks of those old Regiments, whose<pb/>
+<lb/><note>195</note>
+<lb/>length of service and paucity of numbers exhibit a patriotism which will necessarily be defiled with by association with men who wait to be drafted.</p>
+<p>By order of the Governor
+<lb/><hi rend="underline">John Boyle</hi>
+<lb/>Adjutant Gen<hi rend="underline"><hi rend="sup">l</hi></hi> of Ky.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0732"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">U. C. Sherrill to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG4851</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR10-120 to BR10-121</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Lacona, Jefferson County, Kentucky</placeName>
+    <date when="1864-04-16">16 April 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Laconia Ky <date when="1864-04-16">April 16/64</date>
+<lb/>Govenor Bramlett</p>
+<p>D<hi rend="sup">r</hi> Sir enclosed please find petition for the benefit of Mrs M. J. Young and in calling your attention it would breefly state that at the time the fine was obtained against her E. S. Craig Esqr was Prosecuting attorney and that it never was his intention to prosecute <hi rend="str">the</hi> its collection, he knowing Mrs Y<hi rend="sup">s</hi> inability to pay it. since the election of the present Commonwealth<hi rend="sup">s</hi> attorney he has revised the judgement is about to try to enforce its collection. Mr Dupee knows nothing about Mrs Y'<hi rend="sup">s</hi> totally inability to pay E. S. Craig Esqr I understand will address you a letter in the behalf of Mrs Y. your kind interposition in the behalf of the widow will greatly oblige your petitioners.</p>
+<p>Respectfully your
+<lb/>Ob<hi rend="underline"><hi rend="sup">t</hi></hi> Serv<hi rend="underline"><hi rend="sup">t</hi></hi>
+<lb/>U. C. Sherrill<pb/></p>
+<p>Jefferson Cir Ct
+<lb/>vs
+<lb/>Mrs M. J. Young
+<lb/><hi rend="str">Refused</hi>
+<lb/>Remit except fees &amp; cost
+<lb/>Tho E Bramlette
+<lb/>$60
+<lb/>Tipling
+<lb/><date when="1864-05-18">18<hi rend="sup">th</hi> May/64</date></p>
+  </body>
+ </text>
+</TEI>

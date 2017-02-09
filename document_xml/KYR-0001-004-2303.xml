@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2303"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Thomas Douglass to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6940</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR15-182 to BR15-183</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1865-08-26">26 August 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency Thomas E. Bramlette Governor of Ky.</p>
+<p>Your petitioner Thomas Douglass would respectfully present that in <date when="1860">1860</date> he was indicted in the Lincoln Circuit Court for Carrying Concealed deadly weopens -- Judgment was rendered against him for $50. &amp; Costs. he knew nothing of the Judgment being rendered until recently the Copias pro fine was issued directed to Garrard County which he replevined -- he dont remember that he Carried the weopen &amp; in fact knows nothing about the matter except that the Judgment is against him -- he states that he is a poor man &amp; hopes your Excellency will release him from said fine. he is not in a habit of Carrying deadly weopens, or violating law in any particular.</p>
+<p>Thomas Douglass</p>
+<p>Sworn to before m by Thomas Douglas, this <date when="1865-08-26">Augt 26" 1865</date></p>
+<p>B M Burdett N. P.</p>
+<p>We the undersigned Concur in the Statements of the above petition that the petitioner is an Orderly Man in Moderate circumstances &amp; hope your Excellency will remit the fine</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>R. Carson Clk. L, C, C
+<lb/>John C Cooper
+<lb/>T, A, Hill
+<lb/>W S Bailey j L C C
+<lb/><hi rend="underline">J. W. Alcorn</hi>
+<lb/>S S M<hi rend="sup">c</hi>Roberts Clk, C, C,
+<lb/>Jas. A Anderson
+<lb/>M. H. Owsley.
+<lb/>Fon T Fox
+<lb/><cb n="2"/>M. L. Rice
+<lb/>R B. Pittman
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> O. Bradley
+<lb/>N Sandifer
+<lb/>W, H, Wherritt
+<lb/>G W Dunlap
+<lb/>W. D. Hopper
+<lb/>B M Burdett
+<lb/>H. T. Harris
+<lb/>P. Spragens
+<lb/>J, R, Alford
+<lb/>W J Lusk<pb/></p>
+<p>Lincoln Cir Ct
+<lb/>vs
+<lb/>Tho<hi rend="sup">s</hi> Douglass
+<lb/>$50.
+<lb/>Concealed Weapons
+<lb/>Remit
+<lb/>sent for fee
+<lb/><date when="--08-31">31 Aug</date></p>
+  </body>
+ </text>
+</TEI>

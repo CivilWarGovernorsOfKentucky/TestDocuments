@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0406"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">William H. Roberts to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG4525</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR9-140</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1864-01-08">8 January 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency Thos E Bramlette Governor of Ky</p>
+<p>The undersigned would Respectfully Represent to your honor that he was attached as a witness for the Green Circuit Court and when court come on he was sick and unable to attend court and was informed by the party who had him summoned he could do without him as he had a witness who <unclear/> the same fact sometime afterwards ^he had^ notice <hi rend="str">was</hi> served on him that issued from said court in consequence <hi rend="str">My</hi> ^of his^ nonattendance I went to <hi rend="str">see</hi> Greensburg and employed W B Allen Esq ^to attend^ to it he wrote an answer for Me and promised to notify Me if there was anything More necessary I heard nothing from it untill and execution was issued for $100 placed in the hands of John W Barrett Deputy Sherriff for Barren County The undersigned has been advised that it is a case that Requires Executive interference The facts as I have stated them will be sustained in part ^by^ some affdavits that will accompany this petition if you think this petition Reasonable and proper your petitioner hopes that you will Remit a portion of it or the whole of it if you have the power for which he will ever pray &amp;c</p>
+<p>William H. Roberts
+<lb/><date when="1864-01-08">Jany 8<hi rend="sup">th</hi> 1864</date></p>
+  </body>
+ </text>
+</TEI>

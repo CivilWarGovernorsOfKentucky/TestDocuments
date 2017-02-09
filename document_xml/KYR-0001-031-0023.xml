@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-031-0023"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Charles Walter, Oath</title>
+    <title level="a" type="parallel">CWG7763</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Appointments by the Governor, Civil Appointments, 1862-1863</collection>
+      <idno>R1-56</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Washington, District of Columbia</placeName>
+    <date when="1862-10-11">11 October 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>District of Columbia
+<lb/>Washington County } SS.</p>
+<p>I, Charles Walter duly appointed by the Governor of the State of Kentucky, a Commissioner for the State of Kentucky, resident at Washington City in the District of Columbia, do solemnly swear that I will well and faithfully execute and perform all the duties of such Commissioner under and by virtue of the laws of said State of Kentucky.</p>
+<p><hi rend="underline">Chas Walter</hi>
+<lb/>Commissioner for Kentucky in Washington D, C,</p>
+<p><figure type="seal"><ab>CHARLES WALTER
+<lb/>COMMISSIONER OF DEEDS FOR KENTUCKY
+<lb/>DIST OF COLUMBIA</ab></figure></p>
+<p>Subscribed and sworn to this <date when="1862-10-11">11<hi rend="underline"><hi rend="sup">th</hi></hi> day of October A. D. 1862</date> before me</p>
+<p>Moe A. Smith <unclear>Clk</unclear>
+<lb/>Cr<hi rend="underline"><hi rend="sup">t</hi></hi> C<hi rend="underline"><hi rend="sup">t</hi></hi> Wash<hi rend="underline"><hi rend="sup">n</hi></hi> Co. Dist of Col'a<pb/></p>
+<p>Dist Columbia<figure type="hr"/>
+<lb/>Oath.
+<lb/>Cha<hi rend="sup">s</hi> Walter
+<lb/>Com<hi rend="underline"><hi rend="sup">r</hi></hi> of Deeds
+<lb/>Filed <date when="1862-10-15">Octo 15. 1862</date></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0616"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Lewis Goodwall to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG9068</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Governor's Official Correspondence File, Petitions for Pardons, Remissions, and Respites, 1862-1863</collection>
+      <idno>R4-466 to R4-467</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date when="1862-02-03">3 February 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>His Excellency
+<lb/>B Magoffin Gov. of Kenty</p>
+<p>Your Petitioner Lewis Goodwall would most respectfully State that at the <date when="1860-10">October term 1860</date> of the Jefferson Circuit Court he was tried for a felony in Said Court and Convicted and sent to the Penitentiary for the term of three years where he has been Confined at hard labour Ever Since &amp;c -- Now your petitioner would State honestly that he is between 70 &amp; 80 years of age -- that this is the first charge Ever made against him -- and that he is not conscious of committing the offence -- at the time it was committed -- he was charged with killing a cow, the property of Valentine Keardall, skinning the cow and leaving the carcass on the command in Louisville -- If I committed the offence I was not in a state of mind to recollect it -- tho the proof was against me -- He says that he is now very old and feble -- that up to that time he had always born a good name and done Justly towards all men -- that he <hi rend="str">can</hi> cannot live much longer -- that he has already Suffered much and that in view of all the facts of the case he implores your Excellency to grant him a pardon and he will ever pray &amp;c</p>
+<p>Lewis Goodwall<pb/></p>
+<p>We the undersigned were Members of the Jury who tried the within petitioner and unite with him in asking your Excellency to Pardon him <date when="1862-02-03">Feby 3<hi rend="sup">d</hi> 1862</date></p>
+<p>D C Hinskall
+<lb/>S Spalding Jr
+<lb/>W N Hyden
+<lb/>John Trainor
+<lb/>L R Thompson
+<lb/>G. P. Williams
+<lb/>B. W. <unclear/></p>
+<p>We the undersigned Citizens of Louisville unite with the said petitioner in asking your Excellency to grant him a pardon believing his a case that appeals to Executive Clemency</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Thos <unclear/>
+<lb/><hi rend="underline">Jno, R, Gheens</hi>
+<lb/>A J Woodruff
+<lb/>Marshall Hulbert
+<lb/>Darole Schrollt
+<lb/>Henry Hunter
+<lb/>Geo. P. Dasry
+<lb/>John H Rohr
+<lb/>John Kahlhepp,
+<lb/>C L Gupner
+<lb/>John Carwein
+<lb/>C. S. Phillips
+<lb/>M N Reaugh
+<lb/>Geo W. Johnston.
+<lb/><cb n="2"/>Billing &amp; Dreisbach
+<lb/>H. Bindswale
+<lb/><hi rend="underline">C Henry Finck</hi>
+<lb/><hi rend="underline">Jacob Larul</hi>
+<lb/>F Russ
+<lb/><unclear/> J Kurd
+<lb/>Hank Klein
+<lb/>Charle Schuster
+<lb/>Louis M Haywood
+<lb/>C F Topping
+<lb/>Warwick Lynn
+<lb/>Geo. K. Sloan
+<lb/>J. N, Collins<pb/></p>
+<p><milestone unit="column" n="1"/>Jefferson Cir. Ct
+<lb/>Pettn of Lewis Goodwall
+<lb/>Pardon Granted
+<lb/>J F Robinson
+<lb/>Felony
+<lb/>3 yrs. Penty
+<lb/>Pardon Iss<hi rend="underline"><hi rend="sup">d</hi></hi>
+<lb/><date when="1863-08-24">Aug 24 1863</date></p>
+  </body>
+ </text>
+</TEI>

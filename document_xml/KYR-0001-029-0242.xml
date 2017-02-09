@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0242"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John W. Blue to James F. Robinson</title>
+    <title level="a" type="parallel">CWG8694</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Governor's Official Correspondence File, Petitions for Pardons, Remissions, and Respites, 1862-1863</collection>
+      <idno>R3-363 to R3-364</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1863-02-25">25 February 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Frankfort <date when="1863-02-25">Feby 25<hi rend="sup">th</hi> 1863</date>
+<lb/>To his Excellency, James F Robinson</p>
+<p>The undersigned would represent to your Honor that at the <date when="1860-07">July term 1860</date> of the Crittenden Circuit Court an indictment was found in said Court against one Asa Baily for takeing two chickens and opening a gate into a farm and destroying some tobacco plants -- The crime was committed in a drunken frolic and the only evidence against the accoused was his own confessions. At the <date when="1861-01">January term 1861</date> of the Court the said Baily employed N. R. Black and myself to defend him upon the indictment the case was continued at that time and the court required said Baily to enter into a recognisance in the penal sum of three hundred dollars for his appearance at the <date when="1861-05">May term of the Court 1861</date>. Mr Black and myself became the sureties of said Baily in his bond for his appearance. At the regular time for the holding of the Court we had said Baily in attendance ready to be surrendered into the custody of the court and to answer the indictment against him, but owing to the disturbed condition of the country no Court was held at that time, nor was there any court held until <date when="1862-05">May 1862</date> twelve months after the time Baily was recognised to appear. When the Court was held in <date when="1862-05">May 1862</date> Baily had disappeared and could not be found by his sureties, It was said that he had gone into the army but of this your petitioner knows nothing<pb/>
+<lb/>outside of the indefinite rumors of the country. The case was called for trial and in default of Bailys appearance, the bond was taken for forfeited. No Judgement has yet been rendered on the bond. In behalf of Mr Black and myself, the sureties in the bond, I ask Your Excellency to relieve us from the penalties of the bond before any further action is taken theron.</p>
+<p>Very Respectfully
+<lb/>John W. Blue<pb/></p>
+<p>Crittenden Cir. Ct
+<lb/>N. R. Black &amp; J. W. Blue Pettn
+<lb/>$3.00</p>
+<p>The forfeiture incurred in this case in this petition is remitted in full as to both sureties Black &amp; Blue</p>
+<p>J F Robinson
+<lb/>Iss<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1863-02-26">Feby 26. 1863</date></p>
+  </body>
+ </text>
+</TEI>

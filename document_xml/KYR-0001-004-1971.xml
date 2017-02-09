@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1971"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">W. C. Lamb to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6608</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR14-109</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Danville, Boyle County, Kentucky</placeName>
+    <date when="1865-06-08">8 June 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Danville <date when="1865-06-08">8<hi rend="sup">th</hi> Day of June 1865</date>
+<lb/>To His Excellency
+<lb/>Thomas. E. Bramlett</p>
+<p>your Petitioners W. C. Lamb George Cooley &amp; J. L. Rollins &amp; G. W. Glasscock wold state to your Excellency -- that they went upon the Bail Bond of R<hi rend="str">h</hi>euben Cooley upon a charge of Larceny To answer at the Boyle Circuit at the <date when="1861-08">august Term of said court 1861</date> -- said Cooley <hi rend="str">in a few weeks thereafte</hi>r was a soldier at the time enlisted in the Federal army &amp; made a good &amp; faithful soldier through out his enlistmen he ^has^ been discharged -- is verry poor -- we his securities are very poor with families &amp; our true &amp; Loyal men to the united states government -- we have paid &amp; satisfied the atty for the commonwealth &amp; ask you to remit the fine</p>
+<p>W. C. Lamb</p>
+<p>sworn &amp; subscribed before me by W. C. Lamb this the <date when="1865-06-08">8<hi rend="sup">th</hi> day of June 1865</date></p>
+<p>Jon<hi rend="underline"><hi rend="sup">a</hi></hi> B. Nichols. clk B. C. C</p>
+<p>we whose names are hereto signed believe the statements made by W. C. Lamb are true &amp; would respectfully ask your Excellency to remit the above fine</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Joshua F. Bell
+<lb/>B. D. Williams
+<lb/><cb n="2"/>J. B. Nichols clk
+<lb/>M T Chrisman C. B C C
+<lb/>Fon. T. Fox<milestone unit="column" n="1"/><pb/></p>
+<p>Boyle Cir Ct
+<lb/>vs
+<lb/>W, C, Lamb &amp; others
+<lb/>$200,
+<lb/>Forfieture
+<lb/><date when="1865-06-17">1<hi rend="str">6</hi>7<hi rend="sup">th</hi> June/65</date></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-021-0005"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Thomas C. Dabney to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG3075</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Apprehension of Fugitives from Justice Papers, 1859-1862</collection>
+      <idno>MG8-75</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To Hon. Beriah Magoffin
+<lb/>Governor of Kentucky</p>
+<p>Your Petitioner Thos C,, Dabney Circuit Judge of the Second Judicial District of Kentucky States that On the <date when="1858-03-02">2<hi rend="underline"><hi rend="sup">nd</hi></hi> day of March 1858 -- </date>One James Williams killed in the Town of Princeton Caldwell County Kentucky one Daniel B,, Calvert by shooting said Dan B,, Calvert several times with a Colts Revolving Pistol and the circumstances attending the killing of Calvert by said Williams show an agrivated case of Homicide,, Williams was indicted by the Grand Jury of Caldwell County for the murder of Daniel B,, Calvert and at the <date when="1859-09">September Term 1859</date> of the Caldwell Circuit Court forfeited his Recognisance for the sum of ($4000) and left the state of Kentucky<pb/>
+<lb/>and the indictment is now pending against said James Williams in the Caldwell Circuit Court -- Wherefore your petitioner prays Your excellency as Governor of said Commonwealth to offer a suitable reward for the arrest and delivery of James Williams to the civil authorities of Caldwell County so that he may be put upon his trial and the criminal laws may be enforced against him.</p>
+<p>Tho, C, Dabney
+<lb/>Judge of Second
+<lb/>Judicial District</p>
+  </body>
+ </text>
+</TEI>

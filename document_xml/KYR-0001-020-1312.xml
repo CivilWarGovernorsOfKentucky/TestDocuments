@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1312"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Patrick U. Major to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10780</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG21-203</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excy B. Magoffin Gov of the Com'th of Ky</p>
+<p>At the fall term of the Boone Circuit Court <unclear>Selva</unclear> Hough was found guilty of selling whiskey to a minor without the consent of his parents_ The proof was that the minor was of a mans size and had the appearance of a man_ The law had but lately gone into force_ and form all the facts in the case it appeared that s<hi rend="underline"><hi rend="sup">d</hi></hi> S. Hough did not purpor to violate the -- he is poor and but little able to pay the fine -- and a man of a good character -- in view of all which it's prayed that his fine be remitted.</p>
+<p>Respectfully your obe'dt Ser'vt P. U. Major com'ths Atty- 8<hi rend="underline"><hi rend="sup">th</hi></hi> dist-</p>
+<p>Jugt for $50 <hi rend="sup">00</hi>/<hi rend="sub">100</hi><pb/></p>
+<p>Boone Cir. Ct
+<lb/>$50 } liquor to a minor
+<lb/>S. Hough<figure type="hr"/></p>
+<p>Remitted
+<lb/>B. M</p>
+<p>Iss<hi rend="sup">d</hi> <date when="1861-08-15">Aug 15. 1861</date></p>
+  </body>
+ </text>
+</TEI>

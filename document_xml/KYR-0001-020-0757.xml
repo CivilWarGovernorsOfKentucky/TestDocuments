@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0757"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Jno. F. Zimmerman &amp; Son to Unknown</title>
+    <title level="a" type="parallel">CWG10225</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG19-177 to MG19-178</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Danville, Boyle County, Kentucky</placeName>
+    <date when="1861-06-13">13 June 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>The undersigned would state that James T. White son of D<hi rend="underline"><hi rend="sup">r</hi></hi> J. B. White, of Danville, Ky, was several years since apprenticed to them to learn the printing business; that he had not been long in our employ, before we discovered that he had a propensity to pilfer small articles from other persons in the office; the articles generally being of small value, and often of a character not at all useful to himself, and which he would at the first opportunity present to others, and afterwards frequently pilfer them from the persons to whom he gave them, and give them to others again. The fact that he was repeatedly detected, and did not at all improve in his habits in the respect referred to, and his general manner and other things, convinced us that his mind was diseased in that particular, and that his pilfering propensities had become a monomania with him. He is a kind, good=hearted young man, and we do not believe he would maliciously injure any one by depriving them of their property; and our belief that he is a monomaniac on the subject of pilfering, has been confined by our knowledge and observation of this course during a series ^of years^ and we may add that the opinion we have herein expressed of him is the same which is entertained by all who are intimately acquainted with him.</p>
+<p>Danville, Ky. <date when="1861-06-13">June 13, 1861</date>
+<lb/>Ja<hi rend="sup">s</hi> F. Zimmerman -- 
+<lb/>Jno F. Zimmerman &amp; Son
+<lb/>Jno. F Zimmerman<pb/></p>
+<p>Remitted
+<lb/>B. M
+<lb/>Isd <date when="--03-24">Mar 24</date></p>
+  </body>
+ </text>
+</TEI>

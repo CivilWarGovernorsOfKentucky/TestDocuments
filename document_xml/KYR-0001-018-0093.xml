@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-018-0093"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Unknown, Note</title>
+    <title level="a" type="parallel">CWG8159</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Military Appointments, 1859-1862</collection>
+      <idno>MG6-195</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Note</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><table rend="rules">
+<row>
+	<cell/>
+	<cell><hi rend="underline">Captains</hi></cell>
+	<cell/>
+</row>
+<row>
+	<cell><date when="1861-11-16">1861 Novr 16</date>-</cell>
+	<cell>W<hi rend="sup">m</hi> P. Payne</cell>
+	<cell>1</cell>
+</row>
+<row>
+	<cell>"</cell>
+	<cell>Geo. Little</cell>
+	<cell>2</cell>
+</row>
+<row>
+	<cell>12</cell>
+	<cell>Patrick W. M<hi rend="sup">c</hi>Gowan</cell>
+	<cell>3</cell>
+</row>
+<row>
+	<cell>18</cell>
+	<cell>George T. Limberg</cell>
+	<cell>4</cell>
+</row>
+<row>
+	<cell>"</cell>
+	<cell>Joshua P. Prather</cell>
+	<cell>5</cell>
+</row>
+<row>
+	<cell>12</cell>
+	<cell>Aaron C. Shacklett</cell>
+	<cell>6</cell>
+</row>
+<row>
+	<cell>9</cell>
+	<cell>John P. Cumings</cell>
+	<cell>7</cell>
+</row>
+<row>
+	<cell>19</cell>
+	<cell>Geo. F. White</cell>
+	<cell>8</cell>
+</row>
+<row>
+	<cell>"</cell>
+	<cell>J Speed Peay</cell>
+	<cell>9</cell>
+</row>
+</table></p>
+  </body>
+ </text>
+</TEI>

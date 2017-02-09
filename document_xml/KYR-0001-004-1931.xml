@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1931"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">George Koch to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6568</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR14-51 to BR14-54</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date when="1865-06-01">1 June 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency
+<lb/>The Hon Thomas E. Bramlette
+<lb/>Governor of Kentucky</p>
+<p>We the undersigned citizens of -- the city of Louisville and state of Kentucky present to your excellency by this petition William Whalen as a proper person for an indulgence of the exercise of executive clemency. he is a young man only nineteen Years of age whose character heretofore has beeen good and who has borne a fine reputation for industry and honesty in the city of Louisville where he has resided for the past fourteen years. his family reside in this city and consist of a blind father, mother and four children younger than himself. he is a butcher by trade, a sober and hard working young man and has been for some time past the principal support of the family, he has been in the employ of the Government and is thoroughly<pb/>
+<lb/>Loyal to his country, he was arrested, tried and sentenced to imprisonment for one year upon the charge of Grand Larceny, it is the first offence of this or any other kind he has ever been charged with and in this instance he was enticed and controlled by Louis Keinon who has long been a suspected felon and who was tried at the same time with young Whalen and sentenced to two years in the state prison,</p>
+<p>We ask for him an exercise of your clemency believing him well worthy of it, that his incarceration in the county jail has been for so young an offender a sufficient punishment and will wholly deter him from the commission of any wrong act in the future,</p>
+<p>We ask that he may be returned to his blind father and poor mother and family who lean upon him for support and anxiously await the decision of your excellency,</p>
+<p>Louisville Ky
+<lb/><date when="1865-06-01">June 1<hi rend="sup">st</hi> 1865</date><pb/></p>
+<p>George Koch</p>
+<p>We the undersigned sitizens Do second this Statement</p>
+<p>M<hi rend="underline"><hi rend="sup">r</hi></hi> John Davis
+<lb/>M<hi rend="underline"><hi rend="sup">r</hi></hi> Mich<hi rend="underline"><hi rend="sup">l</hi></hi> Maroney
+<lb/>Patrick Doyle
+<lb/>John Sullivan
+<lb/>Patt Hawkins</p>
+<p>We the jury who sat in judgment in the case of William Whalen -- owing to his extreme youth. the blindness of his father and poverty of his family who depend upon him for a maintenance regard it as worthy the consideration of the executive of the State and taking all extenuating circumstances into consideration recommend his pardon if consistent with the wishes of the Governor.</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>1 R. E. Miles
+<lb/>2 G. Ketzero
+<lb/>3 Al. Bourlier
+<lb/>4 A G Cambridge Foreman
+<lb/>5 W<hi rend="underline"><hi rend="sup">m</hi></hi> Stewart
+<lb/>6 J. W. Smith
+<lb/><cb n="2"/>7 W<hi rend="sup">m</hi> G Connely
+<lb/>8 Geo Gay
+<lb/>9 M G Holmes
+<lb/>10
+<lb/>11
+<lb/>12.<pb/><milestone unit="column" n="1"/></p>
+<p>Presented by his mother <date when="1865-06-09">9 June 1865</date></p>
+<p>E L V</p>
+<p>I will consider the case when furnished with a statement of the substance of the testimony certified by the Judge or the Commonwealths atty. -- </p>
+<p>T. E. Bramlette
+<lb/><date when="1865-06-10">June 10<hi rend="sup">th</hi> 1865</date></p>
+  </body>
+ </text>
+</TEI>

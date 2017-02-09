@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2202"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">D D Sublett et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6839</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR15-11</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Magoffin County, Kentucky</placeName>
+    <date when="1863-08-15">15 August 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency Tho<hi rend="sup">s</hi> E Bramlett
+<lb/>Govenor of the Commonwealth of Kentucky</p>
+<p>Your Petitioner. William Blair Respectfully Represents that at the <date when="1865-05">May Term 1865</date> of the Magoffin Circuit Court there was Judgment rendered against your Petitioner for selling whiskey for Twenty Dollars and Cost, Would further State that he is a Vendor of ardent Spirits which gives him the right to sell by the quart. not however to be drank on the premises and He now states that this County has been infested with guerillers and bandits a great portion of the time since the breaking out of the Rebellion in Kentucky and that they bid defiance to all Law and Order, and your Petitioner further states that in order to preserve his person and property He no doubt suffered whiskey to be drunk on his premises or those adjacent thereto; fearing all the while that if he refused to have it drunk as above stated that He would suffer immediate injury by such refusal; states that He is a poor man and has a large family who are dependant upon him for a support and He now asks &amp; prays that said fine be remitted and that all officers &amp; persons be restrained and prohibited from the collections of said fine,</p>
+<p>Also, We the undersigned joins in pray with said Blair and ask that said fine be remitted would further state that said Blair is an<pb/>
+<lb/>industrious and hard working man</p>
+<p>We ask and pray that said fine be remitted &amp;c <date when="1865-08-15">August 15<hi rend="sup">th</hi> 1865</date></p>
+<p><milestone unit="column" n="2"/><cb n="1"/>D D Sublett
+<lb/><cb n="2"/>J E Cooper Co Atty
+<lb/>Willis Baley c. M. C. C -- 
+<lb/>William Cole
+<lb/>Joseph Nickell
+<lb/>John Hagerd
+<lb/>Marshall Moore
+<lb/>Henry Caudill
+<lb/>Daniel Moore
+<lb/>Logan arnett
+<lb/>Marian Moore
+<lb/>J S Hazelrigg
+<lb/>H. G. Spradlin
+<lb/>W<hi rend="sup">m</hi>. H. Elam
+<lb/>R. B. Turner</p>
+<p><milestone unit="column" n="1"/>Magoffin Cir Ct.
+<lb/>vs
+<lb/>W<hi rend="sup">m</hi> Blair
+<lb/>$20,
+<lb/>Tipling
+<lb/>Remitted <date when="1865-10-31">31<hi rend="sup">st</hi> Oct/65</date></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-079-0016"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">C. J. Spilman to Philip Swigert</title>
+    <title level="a" type="parallel">CWG14015</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>Enrolled Militia Records 1864 - 1865 ; Adair, Allen, Boyle, Daviess, Garrard, Owen, Pendleton, and Shelby counties</collection>
+      <idno>Flat Box 7, Folder 861-865 GARRAD COUNTY RECRUITING &amp; RAISING CO. 7th Rgt Ky Militia</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Bryantsville, Garrard County, Kentucky</placeName>
+    <date when="1861-06-26">26 June 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Bryantsville <date when="1861-06-26">26<hi rend="sup">th</hi> June/61</date>
+<lb/>P Swigert
+<lb/>Frankfort Ky
+<lb/>Dr Sir</p>
+<p>When I saw You in Frankfort <date when="---17">Monday the 17<hi rend="sup">th</hi></date> You took my address promising to send <hi rend="str">me</hi> such instructions bond s<hi rend="sup">d</hi> as would be needed in making up a company of H. G.. You will please forward immediately as a company will be organized on Saturday at this place &amp; we want to be on hand in time for <unclear/>. The county Judge will be on hand to hold the Election &amp;<hi rend="sup">c</hi></p>
+<p>Truly Yours
+<lb/>C. J. Spilman<pb/></p>
+<p>6
+<lb/>C. J. Spilman
+<lb/>Home Guards
+<lb/>Garrard
+<lb/>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> &amp; ans <date when="1861-06-27">27" June 1861</date>.</p>
+  </body>
+ </text>
+</TEI>

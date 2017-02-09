@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0225"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">J. T. Caldwell et al. to James F. Robinson</title>
+    <title level="a" type="parallel">CWG8677</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Governor's Official Correspondence File, Petitions for Pardons, Remissions, and Respites, 1862-1863</collection>
+      <idno>R3-339</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Shelbyville, Shelby County, Kentucky</placeName>
+    <date when="1863-02-17">17 February 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Shelbyville Ky <date when="1863-02-17">Feby 17<hi rend="sup">th</hi> 1863</date></p>
+<p>The undersigned respectfully represent to his Excellency J. F. Robinson Governor of the State of Kentucky -- That W. D. Sanders -- a young man of this county forfeited his recognizance on a charge of forgery at the <date when="1861-09">Sept Term 1861</date> of the Shelby Circuit ^Court^. The forgery was for a trivial amount &amp; the young man's uncle -- J J Sanders was his surety -- he is a poor and honest man and is laboring hard to support his sister &amp; brother's children -- a large family -- He has paid thirty three per cent of the forefeiture &amp; costs -- &amp; the thing is very oppressive on him -- The bond was one hundred dollars -- We therefore petition your Excellency to remit the residue of the fine --  -- </p>
+<p>J. T Caldwell Judge Shelby C. C.
+<lb/>C M Harwood Co Atty
+<lb/>John Robinson Clk Circt Ct
+<lb/>J T <unclear/> <unclear/>
+<lb/>J. M. &amp; W. C. Bullock
+<lb/>John T Ballard Clk Cty. Ct.
+<lb/>T. B &amp; J. B. Cochran
+<lb/>J. G. Hansbrough S, S, C<pb/></p>
+<p>From Shelby Cir. Ct
+<lb/>W. D. Sanders Pettn to remit fine
+<lb/>$100 } Recog
+<lb/>One half forfeiture is remitted
+<lb/>J F Robinson
+<lb/>J. J. Sanders
+<lb/>Iss<hi rend="sup">d</hi> <date when="1863-03-07">Mar 7. 1863</date><figure type="hr"/></p>
+<p>Gov. Robinson</p>
+  </body>
+ </text>
+</TEI>

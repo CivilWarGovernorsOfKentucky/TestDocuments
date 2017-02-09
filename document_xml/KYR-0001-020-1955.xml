@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1955"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Z. W. Heath to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG11423</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Bradley Strait</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG23-405</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Vanceburg, Lewis County, Kentucky</placeName>
+    <date when="1862-06-18">18 June 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Vanceburg Lewis County Ky 
+<lb/><date when="1862-06-18">June 18<hi rend="underline"><hi rend="sup">th</hi></hi> 1862</date>
+<lb/>To His Excellency B Magoffin Gov of Ky</p>
+<p>The under signed petitioner has been find the sum of seven dollars and fifty cents by the Lewis circuit court for failing to fix a Bridge on an unfrequented Road in the winter season your petitioner states that he did not willfuly neglect said Road but that he warnd the hands on 9 different times to work on said Road and that it Rained a most Every time and that the Back water from the ohio River took a way said unfinished Bridge twice in the time and that said Bridge was finished as soon as it Could be at that time of the year all of which facts I could of proven to the court but the unexpected Confinement of my wife on the day set for trial prevented me from attending Court your petitioner states that he is unable to pay said fine wherefore he prays that your Excellency will Remit it</p>
+<p>Z. W. Heath </p>
+<p>We the under sign'd hands on said Road do hereby certify that the above statements are true </p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Thomas Harthorn 
+<lb/>Washington Hills 
+<lb/>Wash Johnson 
+<lb/>Thomas pell
+<lb/><cb n="2"/>Charles Penigton 
+<lb/>James Johnson 
+<lb/>John Dixon 
+<lb/>James Swinegin<milestone unit="column" n="1"/><pb/></p>
+<p>Lewis Cir Ct 
+<lb/>$7<hi rend="underline"><hi rend="sup">50</hi></hi> } Mis. 
+<lb/>Z. W. Heath 
+<lb/>Iss<hi rend="sup">d</hi> <date when="1862-07-22">July 22 1862</date></p>
+<p>Remitted
+<lb/>B. M. </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-021-0039"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">W. H. Calvert to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG3109</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Apprehension of Fugitives from Justice Papers, 1859-1862</collection>
+      <idno>MG8-129</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Princeton, Caldwell County, Kentucky</placeName>
+    <date when="1861-08">August 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Princeton Ky <date when="1861-08">August <gap/> '61</date>
+<lb/>Bariah Magoffin Esqr
+<lb/>Governor of the Comth of Ky</p>
+<p>Dear sir Some time since I sent you a petition together with the letter of the Judge of our circuit and the officers of our court praying you to to commute the sentence of the Slave <hi rend="underline">west</hi> who was tried at the <date when="1861-06">last June</date> term of our court and sentenced to be hung for the murder of Stevens the circumstances under which the murder was committed caused the <hi rend="str">court</hi> Judge and many other citizens of the County to write and Petition you to commute the sentence of the law in his case, The time of his Execution is drawing nigh <date when="1861-09-06">"&gt;6<hi rend="sup">th</hi> of sept,</date> and I have not heard from you on said Petition, I know that the condition of our nation<hi rend="str">al</hi> and state at this time is all obsorbing in its character and I know that your position require much or all of your time in active mental and Physical action, and for that reason Excuse me for directing your attention to the case of west</p>
+<p> -- yours
+<lb/>W H Calvert<pb/></p>
+<p>Commute from
+<lb/><unclear/> -- </p>
+  </body>
+ </text>
+</TEI>

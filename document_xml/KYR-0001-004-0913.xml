@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0913"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">J. H. Martin, Affidavit</title>
+    <title level="a" type="parallel">CWG5032</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR10-403 to BR10-403A</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Franklin County, Illinois</placeName>
+    <date when="1864-04-18">18 April 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>State of Ills Franklin Co <date when="1863-04-18">April 18 ^1864</date>^</p>
+<p>Joel Coleman Inlisted in the united State Servis in <date when="1861">1861</date> in the 54<hi rend="sup">th</hi> Regt Curnel Curum Capt Massey And he dide in <date when="1862-06-30">1862 the last day of June</date></p>
+<p>J. H. Martin <figure type="seal"/></p>
+<p>Subscribed and Sworn to before me this <date when="1864-04-19">19<hi rend="underline"><hi rend="sup">th</hi></hi> day of April A D 1864</date></p>
+<p>W<hi rend="underline"><hi rend="sup">m</hi></hi> 'J' Murphy <figure type="seal"/><pb/></p>
+<p>CLERK'S CERTIFICATE.--Illinois.  Luse &amp; Wilson, Printers and Binders, Lafayette, Ind.<figure type="hr"/>THE STATE OF ILLINOIS,
+<lb/>Franklin COUNTY. } SS.</p>
+<p>I, C M Clark Clerk of the Franklin County Court, for said County, which is a Court of Record, using a Seal, do hereby certify that W<hi rend="underline"><hi rend="sup">m</hi></hi> J Murphey Esq., whose name is subscribed to the foregoing affidavit, was on the day of the date thereof, and still is an acting Justice of the Peace, within and for the said County of Franklin duly commissioned and qualified to office, and as such full faith and credit are due, and of right ought to be given to all his official acts; as well out of as in Court.</p>
+<p><figure type="seal"><ab>COUNTY COURT
+<lb/>FRANKLIN COUNTY, KY</ab></figure></p>
+<p>In Testimony Whereof, I C M Clark Clerk of the County Court as aforesaid, have hereunto subscribed my name and affixed the Seal of said Court at my office in Benton on the <unclear/> day of <date when="1864-04">April A. D. 1864</date></p>
+<p>C. M. Clark CLERK.</p>
+  </body>
+ </text>
+</TEI>

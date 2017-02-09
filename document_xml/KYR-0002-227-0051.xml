@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-227-0051"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">James Powell to John Boyle</title>
+    <title level="a" type="parallel">CWG14281</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>11th Ky. Cav (US) Muster Rolls</collection>
+      <idno>Flat Storage Box: 11th Ky Cav (US) Muster Rolls, Bundle 7</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Lexington, Fayette County, Kentucky</placeName>
+    <date when="1864-01-01">1 January 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Lexington Ky <date when="1864-01-01">Jan 1 1864</date>
+<lb/>Adgent General Ky
+<lb/>Sir</p>
+<p>I Do hearby Respectfly <hi rend="str">my</hi> Return my Comission The reason of Its not being Done before was that my Regiment being at Front and Its being very unsafe to send anny Papers of Value that I deemed it to wait untill I Returned to the State of Ky and this is my First Opportunity of Doing So</p>
+<p>Your Obedient Servant
+<lb/>James Powell 3<hi rend="sup">rd</hi> Sarg Co I
+<lb/>11<hi rend="underline"><hi rend="sup">th</hi></hi> Ky Cavlry<pb/></p>
+<p><hi rend="underline">11 Cav</hi><hi rend="underline"><hi rend="sup">y</hi></hi>
+<lb/>Lexington Ky
+<lb/><date when="1864-01-01">Jany 1" 1864</date><figure type="hr"/>
+<lb/>Powell James
+<lb/>3<hi rend="underline"><hi rend="sup">d</hi></hi> Sgt. Co. I. 11" Ky Cav.<figure type="hr"/>
+<lb/>Returns his commission as 1" Lt 11" Ky Cavy.-<figure type="hr"/>
+<lb/>Cancel Commission
+<lb/>D W Lindsey
+<lb/>Insp<hi rend="sup">r</hi> &amp; Adjt Gen<hi rend="sup">l</hi>
+<lb/>for nonacceptance<figure type="hr"/>
+<lb/>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> A. G. O. Ky <date when="1865-01-03">3<hi rend="underline"><hi rend="sup">d</hi></hi> Jany 1865</date></p>
+  </body>
+ </text>
+</TEI>

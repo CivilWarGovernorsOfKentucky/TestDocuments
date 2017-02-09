@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0085"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">J. B. Briscoe et al. to James F. Robinson</title>
+    <title level="a" type="parallel">CWG8537</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Governor's Official Correspondence File, Petitions for Pardons, Remissions, and Respites, 1862-1863</collection>
+      <idno>R3-134</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1862-10-10">10 October 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excelency Go<hi rend="underline"><hi rend="sup">v</hi></hi> of Kentucky</p>
+<p>The undesigned the Jury in the case of the commonwealth vs. Michael Fishback William Fishback &amp; John Fishback who was tryed on the <date when="--07-05">5<hi rend="sup">th</hi> day of July</date> last for a breach of the peace committed on one George Miller on the hearing of the cause we fined them thirty $30 -- and costs, each, we would most respectfuly ask your honour to remit the fine assessed against William &amp; John Fishback as they are both under age and there Father is a poor man with a large family of children and poorly able to pay said fine we would also ask you to remit a part of the fine assessed against Michael Fishback -- for which your petitioners will ever pray <date when="1862-10-10">Oct. 10<hi rend="sup">th</hi> 1862</date></p>
+<p><milestone unit="column" n="2"/><cb n="1"/>J, B, Briscoe } Magistrate 
+<lb/><cb n="2"/><hi rend="underline">A, G Watts</hi> -- Foreman
+<lb/>Thomas W Miller
+<lb/>M W Parrish
+<lb/>J, W, Kean
+<lb/>George Vansenhaller
+<lb/>J. E. Connelly
+<lb/>J. B. Leatherman
+<lb/>J Nunamaker
+<lb/>Isaac McHatter
+<lb/>T D Hall
+<lb/>R D Davis<pb/></p>
+<p><milestone unit="column" n="1"/>Pettn to remit fines
+<lb/>(Read not granted)</p>
+  </body>
+ </text>
+</TEI>

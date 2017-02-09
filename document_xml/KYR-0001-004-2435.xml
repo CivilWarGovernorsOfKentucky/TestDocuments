@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2435"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Thomas Jeffrey to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7072</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR15-383 to BR15-384</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To hi Excellency
+<lb/>Thomas E. Bramlett
+<lb/>Govenor of Kentucky</p>
+<p>Your petitioner Thomas Jeff<hi rend="str">re</hi>rey would respectfully state that one W<hi rend="underline"><hi rend="sup">m</hi></hi> Clark <hi rend="str">Cla</hi> was held &amp; confined in the Jail of Jefferson county on a charge of felony in default of bail in the Sum of four hundred dollars $400 Your petitioner became the bail of said Clark; &amp; Judgment for four hundred dollars was given at the <date when="--09">Sept</date> Term of the Jefferson Circuit Court.</p>
+<p>Your petitioner was induced to bail said Clark from the fact of his bieing a soldier in the company to which his nephew belonged. In fact it was done on the representations of his Nephew; he gave him an excelent character as a Soldier and a man.</p>
+<p>Your petitioner is a working man &amp; went upon the bond without bieing indemnified. he is unable to pay the judgment<pb/>
+<lb/>without feeling great distress.</p>
+<p>Your Excellency is respectfully refered to the signers who unite in the prayre for a remission of the judgment.</p>
+<p>Your petitioner requests Your Excellency to remit the amount &amp; he will ever pray &amp;c</p>
+<p>Thos Jeffrey</p>
+<p>We the undersigned respectfully request that Your Excellency remit the Judgment against Thomas Jeffrey</p>
+<p>J R Dupuy
+<lb/>comm' atty
+<lb/>Geo. W. Johnston
+<lb/>ct Judge
+<lb/>W. A. Ronald S J C
+<lb/>James P. Chambers<pb/></p>
+<p>Jefferson Cir. Ct
+<lb/>Tho<hi rend="sup">s</hi> Jeffry
+<lb/>$300,
+<lb/>Forfeiture <date when="1865-09-06">6 Sept /65</date></p>
+<p>Remit</p>
+  </body>
+ </text>
+</TEI>

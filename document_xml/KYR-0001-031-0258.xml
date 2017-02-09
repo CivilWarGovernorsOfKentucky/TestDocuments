@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-031-0258"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">William A. M. Van Bokkelen, Oath</title>
+    <title level="a" type="parallel">CWG7998</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Appointments by the Governor, Civil Appointments, 1862-1863</collection>
+      <idno>R1-354 to R1-355</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Virginia City, Storey County, Nevada Territory</placeName>
+    <date when="1863-05-09">9 May 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>I William A. M. Van Bokkelen having been duly appointed by the Governor of the State of Kentucky a "Commissioner of Deeds" for said State to reside in the Territory of Nevada, do solemnly swear that I will perform the duties of such commissionoer well and truly as required by the laws of said state.</p>
+<p><hi rend="underline">W</hi><hi rend="underline"><hi rend="sup">m</hi></hi><hi rend="underline"> A. M. Van Bokkelen</hi></p>
+<p>Subscribed &amp; sworn to before me this <date when="1863-05-09">9<hi rend="underline"><hi rend="sup">th</hi></hi> day of May A D 1863</date></p>
+<p><hi rend="underline">Joseph F. Twill</hi>
+<lb/>Justice of the Peace for Virginia Precinct Storey County Nevada Territory</p>
+<p><figure type="seal"><ab>WILLIAM A.M. VAN BEKKELEN
+<lb/>A COMMISSIONER
+<lb/>STATE OF
+<lb/>OF DEEDS FOR THE
+<lb/>VIRGINIA CITY STOREY COUNTY NEVADA TERRITORY</ab></figure><pb/></p>
+<p>Nevada Ter<figure type="hr"/>
+<lb/>Comm<hi rend="underline"><hi rend="sup">r</hi></hi> of Deeds
+<lb/>Oath<figure type="hr"/>
+<lb/>W. A. M. Van Bokklen
+<lb/>Filed <date when="1863-06-04">June 4. 1863</date></p>
+  </body>
+ </text>
+</TEI>

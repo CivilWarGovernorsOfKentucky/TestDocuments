@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0556"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">James Donaho to James F. Robinson</title>
+    <title level="a" type="parallel">CWG9008</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Governor's Official Correspondence File, Petitions for Pardons, Remissions, and Respites, 1862-1863</collection>
+      <idno>R4-382 to R4-383</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Fayette County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency James F. Robinson
+<lb/>Govenor of Kentucky</p>
+<p>Your Petitioner, James Donahoe, would most respectfully submit the following statement of facts. At the <date when="1862-02">February term 1862</date> of the Fayette Circuit Court, two judgments were rendered against him, one for $300 &amp; the other for $150. The one judgment was rendered upon the charge of keeping a disorderly House, and the other for suffering gaming. The last indictment was sustained by a witness of great prejudices against petitioner, and your petitioner knows said witness' statement to have been false in every respect.</p>
+<p>By the remission of the foregoing fines your Petitioner will ever pray &amp;c.</p>
+<p>James Donaho<pb/></p>
+<p>The undersigned would request the remission of foregoing fines, believing, as they do, that James Donahoe has abandoned the grocery business &amp; is a quiet &amp; peacible citizen.</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Cha<hi rend="sup">s</hi> J. Bradley
+<lb/>Sheriff
+<lb/><cb n="2"/>Jno. C. Hansbro
+<lb/><hi rend="underline">Speed J. Goodloe</hi>
+<lb/>H, G, Williams
+<lb/>R Cox
+<lb/>C D Carr
+<lb/>Tho<hi rend="sup">s</hi> Sadler
+<lb/>C T Worley
+<lb/>E Brennan
+<lb/>J. B Norton C F C C
+<lb/>H. T. Duncan Jr
+<lb/>Tho J. Nichols
+<lb/>Deputy Sheriff
+<lb/>Z. Gibbons
+<lb/>J. H. Harrison
+<lb/>John B Payne Jr.
+<lb/>Thos. D Carr
+<lb/>W H Lusby
+<lb/>R, D, Malone
+<lb/>Hunter <unclear>N Band</unclear>
+<lb/>John T. Miller
+<lb/>J B <hi rend="underline">Wilgus &amp; Co</hi><pb/></p>
+<p><milestone unit="column" n="1"/>Fayette Cir Ct
+<lb/>Jas. Donahue Pettn to remit fines
+<lb/>$300
+<lb/>$150</p>
+<p>The two fines are remitted except Twenty five dollars &amp; costs in each case</p>
+<p>J F Robinson
+<lb/>Iss<hi rend="sup">d</hi> <date when="1863-08-28">Aug 28. 1863</date></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1666"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Wesley Mullins et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG11134</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Andrew P Patrick</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG22-331 to MG22-332</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Laurel County, Kentucky</placeName>
+    <date when="1862-02-10">10 February 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency Gov Magoffin</p>
+<p>Your Petitioner Wesley Mullins States that at the last <date when="--03">March</date> Term of the Laurel Curcuit Court he was fined $50. upon an Indictment for carrying concealed weapons -- </p>
+<p>He states that he is upwards of fifty years of age that some time before the Indictment was found he had a difficulty with a man by the name of Moses Cornelius who was a man of notorious bad character and a quarrelsome dangerous man and knowing the character of said Cornelius and that he was likely to be attacked at any time he met him, he did carry a pistol for no other purpose than to defend himself in case he was attacked -- He states that were one or two witnesses by whom he could have fully proved the threats of Cornelius to do him violence, but they had moved to a distance before the trial and he had not the benefit of their evidence -- He further states that the Cornelious above named is the same one that was killed in Madison last summer for making an assualt on a man at Rogersville -- </p>
+<p>The Petitioner states that he is a poor man and had never been in the habit of carrying concealed deadly weapons, either before or Since the time for which he was fined -- </p>
+<p>The payment of the costs alone will be burdensome on him. He therefore prays your Excellency to remit the fine.</p>
+<p>Wesly Mullins</p>
+<p>Sworn to before me by Wesley Mullins this <date when="1862-02-10">10 day of Feby 1862</date></p>
+<p>N. B. Jones J. L. C. C<pb/></p>
+<p>We the neighbors and acquantences of Wesley Mullins knowing that he is a poor man some what advanced in age and believing the statements in the foregoing petition are true hope your Excellency will remit the fine -- mentioned in the petitn</p>
+<p><unclear/> wadkins
+<lb/>J. F. Black
+<lb/>William Jones
+<lb/>T g gill
+<lb/>Philip Swanen 
+<lb/>John sleigh
+<lb/>Joh Critters
+<lb/>G wadkins
+<lb/>John Browning
+<lb/><unclear/> Young
+<lb/>A parsley 
+<lb/>gorge Browning
+<lb/>Baker Laws<pb/></p>
+<p>Laurel Cir. Ct.
+<lb/>$50 } Weapons
+<lb/>Wesley Mullins
+<lb/>Respited 12 mos
+<lb/>Iss<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1862-02-26">Feby 26<hi rend="underline"><hi rend="sup">th</hi></hi> 1862</date></p>
+  </body>
+ </text>
+</TEI>

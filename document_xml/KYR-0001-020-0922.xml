@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0922"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">O. H. Ward et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10390</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG19-466</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency Beriah M'Goffin Governor of the Commonwealth of Kentucky We your petitioners living in the Counties of Breathitt &amp; Wolfe Respectfully represent to your honor That one Alexander Pelfry now confined in the penitentiary for the crime of Grand Larceny was condemed to confinement for the shortest term known to the laws has some 3 or 4 months to serve he has left here a distressed and desolate family <hi rend="str">here</hi> having to live upon charity, and the feelings of his neighbors and others here feel that the time he has served ought to effect a reformation in the man we whose names are hereunto subscribed respectfully Solicit executive interference and ask a matter of Sympathy for a distressed wife &amp; children that your honor will pardon the balance of his term for further particulars we your petitioners refer to W<hi rend="sup">m</hi> Day and the honorable keeper of the penitentiary your petitioners will ever pray</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Petitioners names
+<lb/>O. H. Ward
+<lb/>Hiram Wood
+<lb/>Luke Wood
+<lb/>John noble
+<lb/>J, C, <unclear/>
+<lb/>Eligha Puckett
+<lb/>Joseph Sewell
+<lb/>A. S, vancleve
+<lb/>B. G. Puckett
+<lb/>Warren Tolson
+<lb/>B. F. Sewell
+<lb/>Dennis Brewer
+<lb/>Henry Pence
+<lb/><cb n="2"/>Petitioners names
+<lb/>G. W. Calmes
+<lb/>J,, P,, Shackelford
+<lb/>James coldiron
+<lb/>Thomas Sewell
+<lb/>William L Hurst
+<lb/>Trey Noble
+<lb/>Jery king
+<lb/>John Fyry
+<lb/>Hasan Smith
+<lb/>A Burchfield
+<lb/>Samuel H Hurst<milestone unit="column" n="1"/><pb/>
+<lb/>Cershas Holson
+<lb/>Nathan Day
+<lb/><unclear/> <unclear/>
+<lb/><unclear/> grubbs
+<lb/>W<hi rend="sup">m</hi> Simkins
+<lb/>rufus Grisgby</p>
+<p>Owsley Cir Ct
+<lb/>Issue pardon
+<lb/>B. M
+<lb/>Alex. Palfry
+<lb/>Grand Larceny
+<lb/>One yr
+<lb/>Penty.<figure type="hr"/>
+<lb/>Iss<hi rend="sup">d</hi>. <date when="1861-04-03">Apr. 3<hi rend="sup">d</hi>. 1861</date></p>
+  </body>
+ </text>
+</TEI>

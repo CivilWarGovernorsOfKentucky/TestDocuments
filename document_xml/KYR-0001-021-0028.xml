@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-021-0028"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Robert Glass to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG3098</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Apprehension of Fugitives from Justice Papers, 1859-1862</collection>
+      <idno>MG8-112 to MG8-113</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Henderson, Henderson County, Kentucky</placeName>
+    <date when="1861-04-04">4 April 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Henderson Ky. <date when="1861-04-04">April 4 1861.</date>
+<lb/>His Excellency Gov<hi rend="sup">r</hi> Magoffin
+<lb/>Frankfort Ky.
+<lb/>Dr Sir</p>
+<p>On Monday evening last Dr W A. Norwood, one of our most prominent &amp; respected citizens, was murdered by a runaway slave belonging to Mrs Pentecost of this county. The facts are briefly these -- Norwood discovered him in his stable loft &amp; ordered him to come down. He refused, Norwood sent to the house for his gun -- While the messenger was still absent. the negro fired from the loft. shooting him through the heart &amp; then made his escape. It is feared that he has gone to Indiana (where the stepfather of his mistress lives &amp; who harbored him for four months last year while runaway) and the citizens here believe that it will require a large reward to ensure his apprehension. They have therefore requested me to inform your excellency of these facts and to ask of your immediate action upon them</p>
+<p>Very Respectfully
+<lb/>Your obd<hi rend="sup">t</hi> servant
+<lb/>Ro T. Glass</p>
+  </body>
+ </text>
+</TEI>

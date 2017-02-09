@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0572"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Samuel Myers, Oath</title>
+    <title level="a" type="parallel">CWG2237</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Appointments by the Governor, Civil Appointments, 1863-1867</collection>
+      <idno>BR2-550</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>New Orleans, Orleans Parish, Louisiana</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>State of Louisiana
+<lb/>City of New Orleans</p>
+<p>Personally appeared before me 2<hi rend="sup">nd</hi> Justice of the Peace S. Myers, duly Commissioned in &amp; for the Parish of Orleans and State aforesaid, who being duly sworn doth swear that he will well &amp; truly execute and perform all the duties of Commissioner of Deeds for the State of Kentucky in the state aforesaid according to the laws of the state of Kentucky.</p>
+<p>In witness whereof he has pleace his signature hereto.
+<lb/>F. C. Zacharie</p>
+<p>Sworn to before me and signature acknowledged.
+<lb/>Samuel Myers
+<lb/>2 Justice of the Peace
+<lb/>Parish of Orleans</p>
+<p><stamp type="revenue"/><note place="stamp">S M <unclear/></note><pb/></p>
+<p>Com<hi rend="sup">r</hi> Deeds
+<lb/>Louisiana
+<lb/>Oath of F. C. Zacharie
+<lb/>filed
+<lb/><date when="1865-10-09">9 Oct/65</date></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-2080"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Samuel Sanders et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG9156</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG24-117 to MG24-118</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1862-07-07">7 July 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency Gov Magoffin -- </p>
+<p>There is now confined in the State prison a young man by the name of Robert Smiley for killing James Boudinot (tried and convicted in the County of Carroll) We understand that the condition of the young man is such as to render him incompetent to perform labor and being acquainted with the case as presented to the Court &amp; Jury we ask from motives of kindness to his family that your Excellency pardon the young man &amp; release him from confinement we believe it will meet with the approval of the best citizens here -- </p>
+<p><date when="1862-07-07">July 7<hi rend="sup">th</hi> 1862 -- </date></p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Samuel Sanders <hi rend="str">J</hi>
+<lb/><unclear/> Ellis
+<lb/>W. H. Tandy
+<lb/>Smith Wingate
+<lb/>Rich<hi rend="sup">d</hi> W, Sebree
+<lb/><cb n="2"/>Jesse Lundson
+<lb/>D. P. Craig
+<lb/>D M ONeal
+<lb/>Scott Lundy
+<lb/>R Sandford
+<lb/>W H Jones
+<lb/>C W Y Sliter<milestone unit="column" n="1"/><pb/></p>
+<p>Carroll Cir Ct
+<lb/>Robt Smiley
+<lb/>Manslaughter
+<lb/>10 yrs Penty
+<lb/>Pardon Iss<hi rend="sup">d</hi> <date when="1862-08-11">Aug 11 1862</date></p>
+  </body>
+ </text>
+</TEI>

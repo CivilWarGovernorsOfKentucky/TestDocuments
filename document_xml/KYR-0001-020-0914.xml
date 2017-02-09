@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0914"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">A. B. Patrick et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10382</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG19-452 to MG19-453</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Perry County, Kentucky</placeName>
+    <date when="1860-10-17">17 October 1860</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><hi rend="str">B</hi> Perry County Kentucky
+<lb/><date when="1860-10-17">Oct 17<hi rend="underline"><hi rend="sup">th</hi></hi> 1860</date>
+<lb/>His Excellency Beriah Magoffin
+<lb/>Governor of Kentucky</p>
+<p>Sir we the undersigned Citizens of Perry and Breathitt Counties petition your excellency to Pardon Jacob Niece who was Convicted of grand=larceny at the last term of the Perry Circuit Court.</p>
+<p>In the first place we understand the evidence against said Niece was weak and in the 2nd he is a very poor man with a family who need his services. He was only Convicted for one year and if your excellency can feel that is Consistent with a sense of Public Justice we do earnestly ask you to Pardon said Niece</p>
+<p>Respectfully your petitioners
+<lb/>A B Patrick
+<lb/>J M Elliott
+<lb/>Lewis Campbell
+<lb/>Geo C Haddix
+<lb/>Wm Moore</p>
+  </body>
+ </text>
+</TEI>

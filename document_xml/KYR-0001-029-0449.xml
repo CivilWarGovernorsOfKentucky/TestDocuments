@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0449"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">C. B. Henry to James F. Robinson</title>
+    <title level="a" type="parallel">CWG8901</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Governor's Official Correspondence File, Petitions for Pardons, Remissions, and Respites, 1862-1863</collection>
+      <idno>R4-220</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Princeton, Caldwell County, Kentucky</placeName>
+    <date when="1863-06-09">9 June 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Branch Farmers' Bank of Kentucky,
+<lb/>Princeton, <date when="1863-06-09">June 9<hi rend="sup">th</hi> 1863</date>
+<lb/>Dear Sir</p>
+<p>Apologizing for troubling you I feel it my duty to address your Excellency on the condition of affairs in this region so far as the late action of our jurors at our Circuit Court are concerned. from Private Conversation had with you some time since at the Gault House I know that you were apprised of the condition of affairs in this county, that untill some months back we have been under the control of guerrillas and southern sympathizers and many of us compelled to leave our homes for safety. at present we have comparative quiet from the fact that occasional parties of Federal troops visit us, after a great deal of labour night and day on the part of the military aided by loyal citizens a number of the most active leaders and aiders of the outlaws were taken and sent off but were soon turned back among us again through petitions signed by professed Union men, a number of the outlaws were indited by our grand jury last November and have been tried this Present term and have been fined in the aggregate about $3000 the fines in each case the lowest amount recognized by law, some for usurpation of office and others for Horse stealing and other crimes; relying upon former success in obtaining remissions of fines from your predecessor, we learn that the parties are already getting up petitions to your Excellency and that you will be importuned perhaps by a majority of them to have the fines remitted, under this state of case I am requested by some of our truly loyal citizens to write to you and respectfully suggst that from the leniency heretofore shown to this class of guerillas Horse thieves and rebels generally who go about unpunished some example is absolutely necessary, a fair and rigid investigation in each case acted upon by intelligent jurors has determined the penalty and we do not think there is a single case deserving of executive clemency and having implicit confidence in the loyalty and firmness of your Excellency
+<lb/><note place="footer">(over)</note><pb/>
+<lb/>we most respectfully request that you will permit the wrong doer to meet his reward -- </p>
+<p>Very Respy
+<lb/>Your Ob Ser
+<lb/>C. B. Henry</p>
+<p>His Excellency
+<lb/>Governor Robinson
+<lb/>Frankfort
+<lb/>Kent<hi rend="underline"><hi rend="sup">y</hi></hi></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-006-0039"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">D. W. Owen, Affidavit</title>
+    <title level="a" type="parallel">CWG1085</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's Official Correspondence File, Requisitions for the Return of Fugitives from Justice, 1863-1867</collection>
+      <idno>BR6-42</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Livingston County, Kentucky</placeName>
+    <date when="1864-07-26">26 July 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>State of Kentucky
+<lb/>Livingston County } Sct</p>
+<p>D W Owen States that on the <date when="1864-07-25">25<hi rend="underline"><hi rend="sup">th</hi></hi> day of July 1864</date> Furtnan Fife wilfully and maliciously Shot at and killed R Newman, in Livingston County State of Kentucky, That said Furtnan Fife is now under an arrest by the Sheriff of Pope County State of Illinois under charge of selling liquor with out licenses and is being conveyed to The Jail of Massack County State of Illinois for safe keeping</p>
+<p>D. W. Owen</p>
+<p>State of Kentucky
+<lb/>Livingston County } Sct</p>
+<p>Subscribed and sworn to before me by D W Owen This <date when="1864-07-26">26<hi rend="underline"><hi rend="sup">th</hi></hi> day of July 1864</date></p>
+<p>J. T. Handlin P J L C</p>
+<p><stamp type="revenue"/><note place="stamp">J T H
+<lb/><date when="1864-07-26">July 26 1864</date></note><pb/></p>
+<p><hi rend="underline">Livingston Co</hi>
+<lb/>Illinois
+<lb/>Requisition issued &amp; D W Owen appt. Agent
+<lb/><date when="1864-08-01">1<hi rend="sup">st</hi> August /64</date></p>
+  </body>
+ </text>
+</TEI>

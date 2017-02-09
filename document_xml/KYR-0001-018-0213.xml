@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-018-0213"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John W. Finnell to Nathaniel Gaither, Jr.</title>
+    <title level="a" type="parallel">CWG8279</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Military Appointments, 1859-1862</collection>
+      <idno>MG6-321</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1862-01-24">24 January 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><figure type="seal"><ab>UNITED WE STAND, DIVIDED WE FALL.
+<lb/>KENTUCKY.</ab></figure>
+<lb/>Head-Quarters Kentucky Volunteer Militia,
+<lb/>ADJUTANT GENERAL'S OFFICE,
+<lb/>Frankfort, <date when="1862-01-24">24 January 1862</date>.</p>
+<p>Hon: Nat Gaither Junr:
+<lb/>Sec: of State_</p>
+<p>I send 33 Commissions for record &amp;<hi rend="underline"><hi rend="sup">c</hi></hi>
+<lb/><table rend="rules">
+<row>
+	<cell><date when="1862-01-22">1862 Jany 22</date>_</cell>
+	<cell>David A. Enyart_</cell>
+	<cell>Colonel</cell>
+	<cell>1</cell>
+</row>
+<row>
+	<cell><date when="1862-01-22">"</date></cell>
+	<cell>Bart G. Leipen</cell>
+	<cell>L<hi rend="sup">t</hi> Col.</cell>
+	<cell>2</cell>
+</row>
+<row>
+	<cell><date when="1862-01-22">"</date></cell>
+	<cell>Frank P. Cahill</cell>
+	<cell>Major</cell>
+	<cell>3</cell>
+</row>
+<row>
+	<cell><date when="1862-01-22">"</date></cell>
+	<cell>John A. Wright</cell>
+	<cell>Adjutant</cell>
+	<cell>4</cell>
+</row>
+<row>
+	<cell><date when="1862-01-22">"</date></cell>
+	<cell>Franklin W. Fee</cell>
+	<cell>Q<hi rend="sup">r</hi> Master</cell>
+	<cell>5</cell>
+</row>
+<row>
+	<cell><date when="1862-01-22">"</date></cell>
+	<cell>Sam G. Menzier</cell>
+	<cell>Surgeon</cell>
+	<cell>6</cell>
+</row>
+<row>
+	<cell><date when="1862-01-22">"</date></cell>
+	<cell>John Dixon</cell>
+	<cell>Asst Surgeon</cell>
+	<cell>7</cell>
+</row>
+<row>
+	<cell><date when="1862-01-22">"</date></cell>
+	<cell>Joseph T. Wheeler</cell>
+	<cell>Captain</cell>
+	<cell>8</cell>
+</row>
+<row>
+	<cell><date when="1862-01-22">"</date></cell>
+	<cell>Alva R. Hadlock</cell>
+	<cell>"</cell>
+	<cell>9</cell>
+</row>
+<row>
+	<cell><date when="1862-01-22">"</date></cell>
+	<cell>Ralph Hunt</cell>
+	<cell>"</cell>
+	<cell>10</cell>
+</row>
+<row>
+	<cell><date when="1862-01-22">"</date></cell>
+	<cell>Sam Barr Jr</cell>
+	<cell>"</cell>
+	<cell>11</cell>
+</row>
+<row>
+	<cell><date when="1862-01-22">"</date></cell>
+	<cell>Jesse Steepleton</cell>
+	<cell>"</cell>
+	<cell>12</cell>
+</row>
+<row>
+	<cell><date when="1862-01-22">"</date></cell>
+	<cell>James W. Mitchell</cell>
+	<cell>"</cell>
+	<cell>13</cell>
+</row>
+<row>
+	<cell><date when="1862-01-22">"</date></cell>
+	<cell>James Taylor Williamson</cell>
+	<cell>"</cell>
+	<cell>14</cell>
+</row>
+<row>
+	<cell><date when="1862-01-22">"</date></cell>
+	<cell>Andrew J. Hogan</cell>
+	<cell>"</cell>
+	<cell>15</cell>
+</row>
+<row>
+	<cell><date when="1862-01-22">"</date></cell>
+	<cell>John Becker</cell>
+	<cell>"</cell>
+	<cell>16</cell>
+</row>
+</table><pb/>
+<lb/><table rend="rules">
+<row>
+	<cell><date when="1862-01-22">1862 Jan 22</date></cell>
+	<cell>John J. Jackson</cell>
+	<cell>1<hi rend="sup">st</hi> Lieut</cell>
+	<cell>17</cell>
+</row>
+<row>
+	<cell><date when="1862-01-22">"</date></cell>
+	<cell>Thomas K. Fraser</cell>
+	<cell>" D<hi rend="sup">o</hi></cell>
+	<cell>18</cell>
+</row>
+<row>
+	<cell><date when="1862-01-22">"</date></cell>
+	<cell>John A. Snediker</cell>
+	<cell>" D<hi rend="sup">o</hi></cell>
+	<cell>19</cell>
+</row>
+<row>
+	<cell><date when="1862-01-22">"</date></cell>
+	<cell>David J. Jones</cell>
+	<cell>" D<hi rend="sup">o</hi></cell>
+	<cell>20</cell>
+</row>
+<row>
+	<cell><date when="1862-01-22">"</date></cell>
+	<cell>David M. Dryden</cell>
+	<cell>" D<hi rend="sup">o</hi></cell>
+	<cell>21</cell>
+</row>
+<row>
+	<cell><date when="1862-01-22">"</date></cell>
+	<cell>Joseph M. Leiper</cell>
+	<cell>" D<hi rend="sup">o</hi></cell>
+	<cell>22</cell>
+</row>
+<row>
+	<cell><date when="1862-01-22">"</date></cell>
+	<cell>Sam<hi rend="sup">l</hi> L. Christie</cell>
+	<cell>" D<hi rend="sup">o</hi></cell>
+	<cell>23</cell>
+</row>
+<row>
+	<cell><date when="1862-01-22">"</date></cell>
+	<cell>Cortland W. King</cell>
+	<cell>" D<hi rend="sup">o</hi></cell>
+	<cell>24</cell>
+</row>
+<row>
+	<cell><date when="1862-01-22">"</date></cell>
+	<cell>George Hornung</cell>
+	<cell>" D<hi rend="sup">o</hi></cell>
+	<cell>25</cell>
+</row>
+<row>
+	<cell><date when="1862-01-22">"</date></cell>
+	<cell>Byron Underhill</cell>
+	<cell>2<hi rend="sup">d</hi> D<hi rend="sup">o</hi></cell>
+	<cell>26</cell>
+</row>
+<row>
+	<cell><date when="1862-01-22">"</date></cell>
+	<cell>John B. Waggoner</cell>
+	<cell>" D<hi rend="sup">o</hi></cell>
+	<cell>27</cell>
+</row>
+<row>
+	<cell><date when="1862-01-22">"</date></cell>
+	<cell>John F. Lamme</cell>
+	<cell>" D<hi rend="sup">o</hi></cell>
+	<cell>28</cell>
+</row>
+<row>
+	<cell><date when="1862-01-22">"</date></cell>
+	<cell>Alfred H. Smith</cell>
+	<cell>" D<hi rend="sup">o</hi></cell>
+	<cell>29</cell>
+</row>
+<row>
+	<cell><date when="1862-01-22">"</date></cell>
+	<cell>James Corzine</cell>
+	<cell>" D<hi rend="sup">o</hi></cell>
+	<cell>30</cell>
+</row>
+<row>
+	<cell><date when="1862-01-22">"</date></cell>
+	<cell>W<hi rend="underline"><hi rend="sup">m</hi></hi> H Lyon</cell>
+	<cell>" D<hi rend="underline"><hi rend="sup">o</hi></hi></cell>
+	<cell>31</cell>
+</row>
+<row>
+	<cell><date when="1862-01-22">"</date></cell>
+	<cell>Leonidas H. Little</cell>
+	<cell>" D<hi rend="sup">o</hi></cell>
+	<cell>32</cell>
+</row>
+<row>
+	<cell><date when="1862-01-22">"</date></cell>
+	<cell>Fred H. Wolff</cell>
+	<cell>" D<hi rend="sup">o</hi></cell>
+	<cell>33</cell>
+</row>
+</table></p>
+<p>Very Resp<hi rend="sup">y</hi>
+<lb/>John W. Finnell
+<lb/>Adj<hi rend="sup">t</hi> Gen<hi rend="sup">l</hi></p>
+<p>Entered <date when="1862-01-24">Jany 2<hi rend="str">5</hi>4 1862</date></p>
+  </body>
+ </text>
+</TEI>

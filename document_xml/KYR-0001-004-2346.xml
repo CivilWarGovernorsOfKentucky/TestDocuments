@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2346"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John R. Thomas et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6983</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR15-248 to BR15-249</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Lebanon, Marion County, Kentucky</placeName>
+    <date when="1865-09-02">2 September 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Lebanon Kentucky
+<lb/><date when="1865-09-02">Sept 2<hi rend="sup">d</hi> 1865</date>
+<lb/>To His Excellency Gov. Tho<hi rend="sup">s</hi>. E. Bramlette
+<lb/>Frankfort
+<lb/>Kentucky:</p>
+<p>Your petitioners citizens and residents of Marion County Kentucky would respectfully represent that W<hi rend="underline"><hi rend="sup">m</hi></hi> J. Young was by a Grand jury of Marion County indicted for the offence of "Suffering and permitting gaming upon his premises" at their <date when="1865-06">June Term 1865</date>, and at the <date when="1865-08">August Term 1865</date> of said Court said W. J. Young came in open court and confessed judgement for $200. Your petitioners think that the case is one in which executive intereference is demanded, and would respectfully ask that your Excellency pardon and remit the said fine. -- your petitioners say that said Young is a young man just commencing business in life, and of good character, and if the fine has to be paid will result very oppressively to him.</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>John R. Thomas
+<lb/>B. Spalding
+<lb/><cb n="2"/>W. J. <unclear/>
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Rains
+<lb/>John W McWhorter<milestone unit="column" n="1"/>
+<lb/><note place="footer">over</note><pb/>
+<lb/>Names
+<lb/>P. B. Cooper one of the Grand Jury
+<lb/>J B Mcwhorter S, T, C
+<lb/>G W Penn
+<lb/>T. C. Jackson,
+<lb/><hi rend="underline">F. B. Merimee</hi>
+<lb/>Jno T Milburn
+<lb/>John ,D, <hi rend="underline">Belden</hi>
+<lb/>Samuel Belden
+<lb/>T J Clark
+<lb/>J M Carter
+<lb/>Alexander Alvey
+<lb/>A Wimsett
+<lb/>James H Blair
+<lb/>Thomas Fenwick
+<lb/>James. R. Lamb
+<lb/>Francis Carico
+<lb/>J M Brown
+<lb/>J. M. Edmondson
+<lb/>F. M. Bickett
+<lb/>Jno Healy M. D
+<lb/>R, W, Bickett
+<lb/>Henry Mattingly
+<lb/>J J Blair
+<lb/>Joshua Graham
+<lb/>James Florance
+<lb/>H. B. Peterson
+<lb/>Joseph Wade
+<lb/>J L Clark
+<lb/>Edmund Thompson
+<lb/>J, T, M<hi rend="sup">c</hi>Cauley<pb/>
+<lb/>Richard Sutton<pb/></p>
+<p>Marion Cir Ct
+<lb/>vs
+<lb/>W<hi rend="sup">m</hi> J Young
+<lb/>Gaming
+<lb/>$200.
+<lb/>Remitted <date when="1865-09-05">5 Sept/65</date></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-060-0024"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">E. B. Treadway to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG13640</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>Active Militia Records - Capital Guards, North Cumberland Btn., and Three Forks Btn.</collection>
+      <idno>Box 77, Folder 865 THREE FORKS BN KSG "OFFICER CORRESPONDENCE"</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Irvine, Estill County, Kentucky</placeName>
+    <date when="1865-07-14">14 July 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Head Quarters
+<lb/>Three, Forks, Battalion,
+<lb/>Irvine Ky <date when="1865-07-14">July 14<hi rend="underline"><hi rend="sup">th</hi></hi> 1865</date>
+<lb/>Govener Bramlett,</p>
+<p>I am at this place with Six Companies of my Battalion, preparing to be mustered out, of the State service, I have two more companies on their way from the Counties of Harlan, and Perry, making eight in all, I would verry Respectfully reccommend that three of those companies be retained in the State service, Some two or three months longer, from the fact, we have not yet established Civil Courts or even yet put down all the Gurrillas in the counties of Harlan, Perry, Breathitt, Letcher, &amp;c. there are reported to be three Bands of Gurrillas in those counties, under the command of "Osbern" "Smith" and Dan" "Jones" I would ernestly recommend<pb/>
+<lb/>that you come to this place next Monday if it be Posible so to do the Citizens Generally expect you, if you could be here on that day and address the citizens of this county, and my Battolion, (which represents all Eastern Kentucky) I think it would do more for our cause than any thing that could be done in this part of the State, If you can not be here on that day please let us Know at once. If you should order three of those companies to be retained in the service I would respectfully reccommend that Cap<hi rend="underline"><hi rend="sup">t</hi></hi> W, D, Cardwells, company of the county of Breathitt, Capt Ja<hi rend="underline"><hi rend="sup">s</hi></hi> Eversole<hi rend="underline"><hi rend="sup">s</hi></hi> company of Owsley and Capt Benjamine, F, Blankenships company of Harlan be retained</p>
+<p>very Respectfully
+<lb/>E, B, Treadway
+<lb/>Major commanding
+<lb/>Three Forks Battolion</p>
+  </body>
+ </text>
+</TEI>

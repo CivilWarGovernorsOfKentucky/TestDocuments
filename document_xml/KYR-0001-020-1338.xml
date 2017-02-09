@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1338"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Charles Sauter to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10806</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG21-250</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1861-08-27">27 August 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency B. Magoffin
+<lb/>Governor of Kentucky</p>
+<p>Your Petitioner, Charles Sauter, states that at the <date when="1861-08">August Term 1861,</date> of the City Court of Louisville he was fined $20 -- for selling liquor without license. He keeps a small retail Grocery -- by which he barely supports himself &amp; family. The costs in the case amount to $16.10 which he has part. The information against him was given by a public prostitute, whom he refused to credit for Groceries, and who was largely indebted to him at the time, and failing to obtain further credit she vented her spite against him by having him fined He respectfully asks for a remission of the fine </p>
+<p><date when="1861-08-27">Aug. 27 61</date></p>
+<p>Chas. Sauter</p>
+<p>I know the petitioner well, and have information since M. Sauter was fined, which had I known at the time I would not have prosecuted him. I think Justice would be served were the fine remitted</p>
+<p>W. G. Reasor</p>
+<p>We the undersigned neighbors of Chas Sauter Join in his petition</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>W. J. Clark
+<lb/>Henry Morielli
+<lb/>A Thosmyer
+<lb/>D. S. Griffiths
+<lb/><cb n="2"/>Chas Fais.
+<lb/>Frank Herm.
+<lb/>Otto Winstel
+<lb/>Moriss Brandel
+<lb/>Jacob Roost<milestone unit="column" n="1"/><pb/></p>
+<p>Louisville City Ct</p>
+<p>Respited 12 Mo
+<lb/>B. M</p>
+<p>$20. } liquor</p>
+<p>Cha<hi rend="sup">s</hi>. Sauter</p>
+<p>Iss<hi rend="sup">d</hi> <date when="1861-08-30">Aug 30. 1861</date></p>
+  </body>
+ </text>
+</TEI>

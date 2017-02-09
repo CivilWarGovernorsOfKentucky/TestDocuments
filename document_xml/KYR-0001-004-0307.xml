@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0307"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">W. H. Stokes and C. M. Metcalfe to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG4426</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR8-483</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date when="1863-11">November 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Louisville <date when="1863-11">Nov 1863</date>.
+<lb/>State of Kentucky
+<lb/>Jefferson Circuit Sct.</p>
+<p>The undersigned state that they are acquainted with Mrs Johnson. who is jointly indicted with one Lydia Parks: That they knew ^of her^ in the state of Indiana: and Stopped at her house whilst her husband was living: and She bore the character of a good &amp; industrious woman: her husband was a Miller and having lost his mill died: as they are informed: learning the wife destitute with <hi rend="str">some little children.</hi> She came to Louisville and was working as a Servant in the families of persons, who would give her employment they do not believe: she participated in any criminal intention in the aiding of Slaves to Escape: They ask in behalf of innocence, and her little children if consistent with executive clemency that She may be pardoned:</p>
+<p>Their acquaintance with Mrs. Johnson was formed, in fishing excursions to Indiana where they were in the habits of staying at her house during the time, they were engaged in fishing: and she impressed them with the character above stated</p>
+<p>W. H. Stokes 
+<lb/>C. M. Metcalf
+<lb/></p>
+  </body>
+ </text>
+</TEI>

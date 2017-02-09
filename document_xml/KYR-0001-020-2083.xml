@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-2083"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Thomas W. Dabney and C. P. Campbell to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG9159</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG24-123</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Eddyville, Lyon County, Kentucky</placeName>
+    <date when="1862-07-02">2 July 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Eddyville Ky.
+<lb/><date when="1862-07-02">2 July 1862</date>
+<lb/>To His Excellency
+<lb/>Gov Magoffin
+<lb/>D<hi rend="sup">r</hi> Sir</p>
+<p>At the present term of our Court a Judgement was rendered against P D Yeiser and W<hi rend="sup">m</hi> Boyd on a forfeited recognizance as the surities of Robt. Ruder who was charged with a misdemeaner, Ruder was tried, found guilty and fined &amp; in a few days thereof he the Bail brought him into Court &amp; it seems was delivered into the custody of the Court but no order showing that fact a pro tem <hi rend="str">Jugde</hi> Judge presiding afterwards his bond was taken as forfeited &amp; Judgt for $200 the amount thereof under the circumstances I am sure there was no intention on the part of either Reeder or his bail to evade the appearance under the bond, but it grows out of the hurry of Court &amp; failure to to make the order or have entered his appearance. The fine imposed by the Jury was only $50. Under the circumstances I can but regard it as a case appealing to your Excellencys clemency &amp; <hi rend="str">ask</hi> respectfully solicit it in their behalfs</p>
+<p>I am Very
+<lb/>Respectfully yours &amp;c
+<lb/>Tho. C. Dabney
+<lb/>C,, P,, Campbell<pb/></p>
+<p>Lyon Cir Ct
+<lb/>$200 } Recog</p>
+<p>The fine entire Remitted
+<lb/>J F Robinson</p>
+<p>Boyd &amp; Yeiser
+<lb/>Iss<hi rend="sup">d</hi> <date when="1863-02-16">Feby 16. 1863</date></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-031-0094"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Morris S. Wickersham, Oath</title>
+    <title level="a" type="parallel">CWG7834</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Appointments by the Governor, Civil Appointments, 1862-1863</collection>
+      <idno>R1-139</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Philadelphia, Philadelphia County, Pennsylvania</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>State of Pennsylvania
+<lb/>City of Philadelphia } SS</p>
+<p>I, Morris S Wickersham of the City of Philadelphia do hereby declare &amp; affirm that I will well &amp; truly execute &amp; perform all the duties of Commissioner of Deeds &amp;c of the state of Kentucky according to the laws of the state.</p>
+<p>In witness whereof I have hereunto set my hand &amp; seal this <date when="1862-12-22">Twenty Second day of December 1862.</date></p>
+<p><hi rend="underline">Morris S Wickersham
+<lb/></hi><figure type="seal"><ab>MORRIS S. WICKERSHAM
+<lb/>COMMISSIONER OF <unclear/>
+<lb/>PHILADELPHIA, PENN.</ab></figure></p>
+<p>State of Pennsylvania
+<lb/>City of Philadelphia } SS</p>
+<p>I, William V Archer, Commissioner of Deeds for the State of Kentucky duly appointed &amp; commissioned by the Governor thereof for the state of Pennsylvania authorized to take &amp; certify depositions do hirby certify that the foregoing affidavit of Morris S Wickersham was taken before me this <date when="1862-12-22">Twenty Second day of December 1862</date> in the said city of Philadelphia.</p>
+<p>Wm V Archer
+<lb/>Commissioner of Kentucky
+<lb/>Philadelphia Pennsylvania
+<lb/><figure type="seal"/></p>
+  </body>
+ </text>
+</TEI>

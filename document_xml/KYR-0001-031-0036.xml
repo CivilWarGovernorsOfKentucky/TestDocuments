@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-031-0036"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Henry C. Banks to James W. Tate</title>
+    <title level="a" type="parallel">CWG7776</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Appointments by the Governor, Civil Appointments, 1862-1863</collection>
+      <idno>R1-83 to R1-84</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>New York, New York County, New York</placeName>
+    <date when="1862-11-03">3 November 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>3 John St. New York
+<lb/><date when="1862-11-03">Nov 3<hi rend="sup">d</hi> 1862</date>
+<lb/>My Dear Sir:</p>
+<p>Yours of <date when="1862-10-29">29<hi rend="sup">t</hi> inst</date> just rec'd. I inclose $5. the fee for Comm<hi rend="sup">h</hi> from Ky to take acknowledgements of Deeds &amp;c in this City.</p>
+<p>Would it be improper to date same back to time of expectation as I may possibly have acted inadvertantly in some cases.</p>
+<p>Yours truly &amp; c
+<lb/>Henry C. Banks
+<lb/>Ky Commh &amp;c</p>
+<p>Hon. James W. Tate.<pb/></p>
+<p>New York<figure type="hr"/>
+<lb/>Com<hi rend="underline"><hi rend="sup">r</hi></hi> of Deeds
+<lb/>H. C. Banks
+<lb/>(city)
+<lb/>App<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1862-11-07">Nov. 7. 1862</date></p>
+  </body>
+ </text>
+</TEI>

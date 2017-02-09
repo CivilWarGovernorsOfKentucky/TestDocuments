@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-024-0013"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Brennan to John W. Finnell</title>
+    <title level="a" type="parallel">CWG12067</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Mitchell A Krock</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>1st - 20th Regiments Kentucky Infantry Primary Source Documents</collection>
+      <idno>Box 7, Folder 3rd Ky Inf - Misc</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Murfreesboro, Rutherford County, Tennessee</placeName>
+    <date when="1863-04-10">10 April 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>3rd Ky Infty Vols.
+<lb/>Murfreesboro Tenn
+<lb/><date when="1863-04-10">April 10<hi rend="sup">th</hi> 1863</date>
+<lb/>Brig Genl John W Finnell
+<lb/>Adjt Genl State of Ky
+<lb/>Dr Sir:</p>
+<p>Can there not be some plan adopted by which <hi rend="underline">elections</hi>, for Field Officirs in the old Regiments can be dispensed with? We have just had another bad result from it in this regiment. A Lieut Col or Major, who do their duty, &amp; enforce dicipline, are sure to be superceeded <hi rend="str">by</hi>in the event of a vacancy, by some unprincipaled officer, who takes advantage of every little cause of complaint, to make capital and <hi rend="underline">votes</hi>, for himself, among those who feel aggreived.</p>
+<p>Maj Bullett has been defeated for Col (vice Col Spencer resigned. Lt Col Collin having also sent in his resignation) upon just such principals. -- He refused to solicit votes, while his successful compititer, electioneered most <unclear>strenously</unclear> for the position. -- Maj Bullett is his superior as a tactition, &amp; disciplinarian &amp; in every respect. He fought gallantly at Munfordsville under Col Wilder, as his asst Adjt Genl, when their forces were captured by Bragg, &amp; was most flateringly<pb/>
+<lb/>mentioned by his Brigade Commander, for gallantry at the Battle of Stone River, while his successful competitor, has never been in an engagement.</p>
+<p>It at least looks hard, that men who have won their laurels, upon such fields as "Munsfordville" &amp; "Stone River" should be thrown aside for transient favorites.</p>
+<p>I write this communication to you General unofficially, pointing out, what I believe at least, an error in the management of affairs in this regiment. -- It has been customary since the resignation of Col Bramlette, for the officers of the Regt to say who shall be their Field Officers; &amp; I think it is calculated not only to reduce officers to low electioneering tricks, but to breed dissatisfaction &amp; hatred among the officers of a regiment.</p>
+<p>I most respectfully submit the above facts to you, hoping that if they meet your concurrence, that some plan may be adopted to avoid them in the future.</p>
+<p>Most respectfully
+<lb/>Your Obedient Servant
+<lb/>John Brennan
+<lb/>Capt Comdg Compy "F"
+<lb/>3rd Regt Ky Vol Infty.<pb/></p>
+<p><note place="header">3</note>
+<lb/>Murfreesboro. Tenn.
+<lb/><date when="1863-01-10">April 10"/63</date><figure type="hr"/>
+<lb/>Brennan Jno.
+<lb/>Capt. 3<hi rend="sup">rd</hi> Ky. J.<figure type="hr"/>
+<lb/>Conc<hi rend="underline"><hi rend="sup">g</hi></hi> Colonelcy of 3<hi rend="sup">rd</hi> Ky.<figure type="hr"/></p>
+<p>Concurring Colonelcy of 3rd Ky Vols.<figure type="hr"/>
+<lb/>John Brennen</p>
+  </body>
+ </text>
+</TEI>

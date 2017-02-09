@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2253"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">James Quaid, Affidavit</title>
+    <title level="a" type="parallel">CWG6890</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR15-84 to BR15-85</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Smithland, Livingston County, Kentucky</placeName>
+    <date when="1864-08-17">17 August 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Commonwealth of Ky Plaintiff
+<lb/>vs } Affidavit
+<lb/>Patrick Spielman Defendant</p>
+<p>The affiant James Quidd states that -- he is a resident of Smithland Ky and is intimately acquainted with the accused Patrick Spielman and never knew aught against him until he was charged with Committing rape upon the person of Mrs. A. E. Wilburn on the <date when="1864-04-11">11<hi rend="underline"><hi rend="sup">th</hi></hi> day of April 1864</date> in the afternoon about 2 or 3 oclock. The affiant Quidd further states that he saw and was with Patrick Spielman in the town of Smithland on that evening and that he was not at Mrs Wilburns -- for she resided one mile and a half from town at that time keeping a disorderly house. The said Quidd further states that he generally stayed at the house in which he boarded when he was in town and that Spielman always deported himself as a Gentleman. The Affiant James Quidd further avers that ever since he has been a citizen of Smithland Mrs Wilburn bore the reputation of a Common strumpet wandering about the streets in the Company with other noted strumpets and has seen her frequently in drink-<pb/>
+<lb/>ing saloons accompanied with other base women and that she has been ordered out of town time and again by the various commanders of this Post. and taking into consideration all he knows in reference to said charge and the Parties he believes Patrick Spielman innocent and Entitled to be set at Liberty -- having laid in Jail some four or five months -- and no prospect of a trial for six months to come as W, P, Fowler Cir Judge having been arristed and ordered to Louisville a few days before the sitting of Court -- and the said Mrs Wilburn being the only witness to appear for the commonwealth will not be present, having been ordered away by the present Commander of this post Major Peck said Spielman is a poor man and no means of giving bail,</p>
+<p>James Quaid</p>
+<p>Sworn to before me this the <date when="1864-08-17">17<hi rend="underline"><hi rend="sup">th</hi></hi> day of August 1864</date> by James Quidd.</p>
+<p>W Beverly J P<pb/></p>
+<p>Livingston Cir Ct
+<lb/>vs.
+<lb/>Patrick Spielman</p>
+<p>This case I deem an exception to the rule and do not think this man should be longer confied although he has had no trial -- </p>
+<p>The offence pardoned
+<lb/>T E Bramlette</p>
+<p><date when="1864-09-08">8<hi rend="sup">th</hi> Sept/64</date></p>
+  </body>
+ </text>
+</TEI>

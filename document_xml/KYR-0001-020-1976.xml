@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1976"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Elias White to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG11444</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Bradley Strait</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG23-433</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Madison County, Kentucky</placeName>
+    <date when="1862-06-09">9 June 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excelency
+<lb/>B. Magoffin Gov of Ky
+<lb/>Your Petitioner
+<lb/>Elias White</p>
+<p>Would respectfully represent unto your Excelency that at the <date when="1860-03">March Term 1860</date> he was tryed in the Madison County Circuit Court for a Breach of the Peace by fighting with Thomas Rhodes and fined Ten Dollars &amp; cost</p>
+<p>He is very Poor with a wife &amp; six children and he is unable to pay said fine</p>
+<p>Wherefore he prays your Excelency to remit said fine</p>
+<p><date when="1862-06-09">June 9<hi rend="underline"><hi rend="sup">th</hi></hi> 1862</date>
+<lb/>Elias White</p>
+<p>We the undersigned Citizens of Madison County unite in the Prayer of the foregoing Petition</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>P. P. Ballard
+<lb/>H. Doolin
+<lb/>W W Embry
+<lb/>Brutus Crooke
+<lb/>Will Walker
+<lb/>C A Hawkins
+<lb/><cb n="2"/>C. H. Donaldson
+<lb/>Joshua D Park
+<lb/><hi rend="underline">Ed. W. Farmer</hi>
+<lb/>Will Jennings
+<lb/>J R Williams
+<lb/>J, W, Crooke<pb/>
+<lb/><milestone unit="column" n="1"/>Talon Embry
+<lb/>H. H. Gibson
+<lb/>R. G. Burton
+<lb/>Isaac Hutchison</p>
+<p>Madison Cir Ct
+<lb/>$10 } Breach
+<lb/>E White
+<lb/>Iss<hi rend="sup">d</hi> <date when="1862-06-22">July 22 1862</date></p>
+<p>Remitted
+<lb/>B M</p>
+<p>Elias White<figure type="hr"/>
+<lb/>Petition</p>
+  </body>
+ </text>
+</TEI>

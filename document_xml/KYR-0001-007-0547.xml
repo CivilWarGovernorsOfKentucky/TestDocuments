@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0547"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Whipple to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG2212</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Appointments by the Governor, Civil Appointments, 1863-1867</collection>
+      <idno>BR2-519 to BR2-520</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>New York, New York County, New York</placeName>
+    <date when="1865-09-26">26 September 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>New York <date when="1865-09-26">Sept 26<hi rend="sup">th</hi> 1865</date>
+<lb/>To his Excellency
+<lb/>Tho<hi rend="sup">s</hi> E. Bramlette
+<lb/>Gov State of Ky
+<lb/>Sir</p>
+<p>I have the honour to solicit the appointment of Commissioner of your State for the State of New York.</p>
+<p>Referring you to the Gentlemen on the reverse of this that I remain with great respect</p>
+<p>Your obedient servant
+<lb/>John Whipple Jr<pb/>
+<lb/>HENDRICKSON &amp; WHIPPLE,
+<lb/>Attorney &amp; Counsellors at Law,
+<lb/>37 PINE STREET, NEW-YORK.</p>
+<p>The undersigned have entered into a copartnership for the transaction of a general LAW AND COLLECTION BUSINESS at the above place.</p>
+<p>Any business that may be placed in their hands will receive faithful and diligent attention.</p>
+<p>HUBBARD HENDRICKSON,
+<lb/>JOHN WHIPPLE, JR.</p>
+<p>REFER BY PERMISSION TO
+<lb/>Messrs. BROWN BROS. &amp; CO., New-York.
+<lb/>" ANTHONY &amp; HALL, "
+<lb/>" HEINEMANN &amp; PAYSON, "
+<lb/>CLARKSON N. POTTER, Esq., "
+<lb/>HON. SAMUEL AMES, Chief Justice Supreme Court, R. I.
+<lb/>Messrs. J. &amp; W. S. SLATER, Providence, R. I., and Norwich, Conn.
+<lb/>Messrs. BROWN &amp; IVES, Providence, R. I.
+<lb/>His Excellency Gov Swann Md.<pb/></p>
+<p>Comr Deeds
+<lb/>New York
+<lb/>John Whipple Jr
+<lb/>com<hi rend="sup">d</hi>
+<lb/><date when="1865-10-02">2 Oct/65</date></p>
+  </body>
+ </text>
+</TEI>

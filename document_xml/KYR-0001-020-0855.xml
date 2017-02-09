@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0855"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Joyes to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10323</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG19-343 to MG19-344</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date when="1861-02-27">27 February 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Louisville <date when="1861-02-27">Feb<hi rend="sup">y</hi> 27<hi rend="sup">th</hi> 1861 -- </date>
+<lb/>To His Excellency Beriah Magoffin
+<lb/>Gov<hi rend="sup">r</hi>. of Kentucky</p>
+<p>At the request of the friends of the petitioner W<hi rend="sup">m</hi>. Frooks &amp; the Keeper of the workhouse M<hi rend="sup">r</hi> Horner -- I am induced to make the following statement of facts, for Executive consideration -- In <date when="1860-04">April 1860</date> -- an Indictment was returned to the city court in the name of the Com<hi rend="sup">th</hi> of Kentucky vs W<hi rend="sup">m</hi>. Frooks for an assault &amp; Battery made returnable to the first Monday in <date when="1860-05">May 1860</date> -- the Deft was recog<pb/>
+<lb/>=nized in the sum of $100 -- with one security to appear and answer s<hi rend="sup">d</hi>. charge the Deft &amp; his Bail appeared in court on the day of the trial &amp; Deft was tried &amp; fined $5=00, his Bail says by some mistake or gross wrong -- the Recognizance was forfeited vs Deft &amp; Bail -- Deft was at the time employed as a hand on a coal boat destined for the South &amp; left the day of the trial but returned several times between the trial day &amp; the time of his arrest which was on the <date when="1861-01-28">28<hi rend="sup">th</hi> Jan<hi rend="sup">y</hi> 1861</date> -- he had landed late the night<pb/>
+<lb/>before and at breakfast time next morning was taken into custody -- at the instance of his Bail, (Conally) to whom he p<hi rend="sup">d</hi>. $40 -- which was all the money he had &amp; that was p<hi rend="sup">d</hi> over to the officers for fees -- the remainder was remitted by y<hi rend="sup">r</hi> Excellency -- this man has been in the workhouse about One month his friends would pay the costs if y<hi rend="sup">r</hi> Excellency will remit his fine -- this seems the effect of ignorance on his part or mistake on the part of others which may well claim Executive clemency with great respect y<hi rend="sup">r</hi> obt serv<hi rend="sup">t</hi></p>
+<p>John Joyes<pb/></p>
+<p>Louisville City Ct
+<lb/>$100 } Recog
+<lb/>W<hi rend="sup">m</hi> Frooks
+<lb/>Iss<hi rend="sup">d</hi> <date when="1861-03-02">Mar 2 1861</date></p>
+<p>Remitted
+<lb/>B. M</p>
+  </body>
+ </text>
+</TEI>

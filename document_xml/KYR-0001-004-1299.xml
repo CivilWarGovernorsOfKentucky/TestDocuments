@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1299"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">William Palmer et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG5936</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR12-5</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1864-11-19">19 November 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency Tho<hi rend="sup">s</hi> E Bramlette Governor of the commonwealth of Ky.</p>
+<p>William Palmer states that He was indicted by the Clarke Circuit Court at its <date when="1860-07">July Term 1860.</date> For gameing ^and was fined $20 -- ^ He states that He was with other gentlemen at the Oil Springs in Clark County on the <date when="1860-07-04">4<hi rend="sup">th</hi> of July 1860</date> and they engaged in a game of cards more for amusement than any thing else they had up some small sum of Mony at the time upon a proper representation of the facts to your Predecessor Gov Magoffin the indictment was respited and recently an execution was issued upon the process -- He states that He has not been in the habit of playing cards and has not played ^a game^ since -- He prays to have the fine remitted.</p>
+<p>William Palmer</p>
+<p>sworn to by William Palmer before me this <date when="1864-11-19">19<hi rend="sup">th</hi> November 1864.</date></p>
+<p>S B. Eubanks. J..P C.C</p>
+<p>We the undersigned Citizens of Clark County would respectfully state, that we are well acquainted with the Petitioner William Palmer and We know he is a poor man of family and We do not believe he indulges in gameing and we would<pb/>
+<lb/>respectfully request that the fine imposed upon him be remitted He is a mechanic a black Smith by trade and is trying to make a living for his family -- </p>
+<p>S B Eubank
+<lb/>E, R, Elkin
+<lb/>John, A, Eubank
+<lb/>Stephen P. Wallace
+<lb/>Joseph Brandenburg
+<lb/>Richard C Eubank
+<lb/>Wiliam Hall
+<lb/>W. E. Blakemon
+<lb/>John oliver
+<lb/>Allen Davis
+<lb/>John D Wilcox</p>
+<p>Clark Cir Ct
+<lb/>vs
+<lb/>W<hi rend="sup">m</hi> Palmer
+<lb/>$20.
+<lb/>Gaming
+<lb/>Refused</p>
+  </body>
+ </text>
+</TEI>

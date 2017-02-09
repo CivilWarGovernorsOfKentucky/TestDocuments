@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0799"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">W. V. Loving et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10267</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Amanda Boczar</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG19-259</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Franklin, Simpson County, Kentucky</placeName>
+    <date when="1861-03-25">25 March 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Franklin Ky <date when="1861-03-25">March 25<hi rend="underline"><hi rend="sup">th</hi></hi> 1861</date>
+<lb/>To his Excelency Beriah Magoffin -- Governor of the Commonwealth of Kentucky</p>
+<p>We the undersigned petitioners would respectfully represent to your Excelency, that at the <date when="1861-03">March Term 1861</date> of the Simpson Equity and Criminal Court John Alexander was fined twenty dollars under a charge of having been guilty of a misdmeanor by permitting slaves to visit and remain about his house, in which he kept spiritous liquors for sale, and when on trial it was never in proof before the Jury, that he kept spiritous liquors, and further that we believe this Indictment together with others, was and has been prosecuted through malice= M<hi rend="underline"><hi rend="sup">r</hi></hi> Alexander is a man of moderate means and is dependant upon his own manuel and mental Exertions for a livelihood. We therefore petition your Excelency to remit said fine of twenty dollars <hi rend="underline">believing</hi> <hi rend="underline">it to be</hi> <hi rend="underline">right</hi>, <hi rend="underline">fair</hi>, <hi rend="underline">and</hi> <hi rend="underline">honest so to</hi> do</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Names
+<lb/>W V Loving by C W Milliken
+<lb/>B C Grider
+<lb/>C.W. Milliken
+<lb/>W. G. Wade Sheriff
+<lb/>P. H. Bofsean
+<lb/>T. J. Whitesides
+<lb/>J. B. Lewis
+<lb/>R. M. Green
+<lb/>E Powell
+<lb/>Sam <hi rend="underline">Hatfield</hi> 
+<lb/><cb n="2"/>Names
+<lb/>G. H. Bell
+<lb/>B L M<hi rend="sup">c</hi><hi rend="underline">Lanchen</hi><milestone unit="column" n="1"/><pb/></p>
+<p>Simpson E. &amp; C. Ct
+<lb/>$20 } Misemeanor
+<lb/>Jno. Alxander
+<lb/>Rep<hi rend="sup">d</hi> 21 mos
+<lb/>Iss<hi rend="sup">d</hi> <date when="1861-04-09">Apr 9. 1861</date><figure type="hr"/>
+<lb/>Respite 12 Mo 
+<lb/>B. M</p>
+  </body>
+ </text>
+</TEI>

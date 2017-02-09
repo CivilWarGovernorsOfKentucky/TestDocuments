@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-006-0051"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">James Howard, Affidavit</title>
+    <title level="a" type="parallel">CWG1097</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's Official Correspondence File, Requisitions for the Return of Fugitives from Justice, 1863-1867</collection>
+      <idno>BR6-59</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Jeffersonville, Clark County, Indiana</placeName>
+    <date when="1865-01-04">4 January 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>State of Indiana
+<lb/>County of Clark</p>
+<p>James Howard swears that on or about the <date when="1865-10-08">8<hi rend="underline"><hi rend="sup">th</hi></hi> day of October 1865,</date> at said county, John Mitchell, or affiant verily believes, did unlawfully &amp; feloniously steal, take and cary away, one bay mare, of the value of one hundred &amp; fifty Dollars, the personal property of said affiant: said affiant further swears that said John Mitchell has not been arrested upon the foregoing charge -- and is a fugitive from justice of the State of Indiana in the State of Kentucky</p>
+<p>James Howard</p>
+<p>Subscribed &amp; sworn to before me Mayor of the City of Jeffersonville, Clark County, State of Indiana, this <date when="1865-01-04">4<hi rend="underline"><hi rend="sup">th</hi></hi> day of January 1865.</date></p>
+<p><figure type="seal"><ab>CITY OF JEFFERSONVILLE
+<lb/>CITY CLERK
+<lb/>INDIANA</ab></figure></p>
+<p>Witness my hand and seal and the corporate seal of said city hereto affixed at said time</p>
+<p>John Ware Mayor
+<lb/>City of Jeffersonville</p>
+  </body>
+ </text>
+</TEI>

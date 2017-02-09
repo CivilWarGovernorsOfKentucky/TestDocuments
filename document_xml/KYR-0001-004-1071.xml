@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1071"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Donan to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG5708</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR[11]-154</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Munfordville, Hart County, Kentucky</placeName>
+    <date when="1864-08-29">29 August 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Munfordville Ky <date when="1864-08-29">29th Aug 64</date>
+<lb/>Dr. Sir</p>
+<p>I would like to get a boy named <unclear>Tranedo</unclear> Bass released from the state prison you may remember that I have heretofore spoken to you on the subject and you directed that I would get the Judge to certify the facts in his case -- which is herewith sent you I have herefore filed in your office a petition signed by a number of citizens asking his release -- he is in very bad health and his time is nearly out and he writes me if he can get out he thinks he might get well as the cells of the prison in which he has been confined ^at night^ are damp and unhealthy I am prompted from feelings of humanity only towards the boy to petition his release and as I am the only one to whom he can apply for assistance -- he is a Mexican by birth I brought him from Mexico when quite a small boy -- I can get any number of citizens who know him to sign a petition for him but knowing how easily this can be ^done^ by any person and for almost any convict I have though such a proceeding would have but little influence with you. the Judge has certified the facts I think his case strongly appeals to you to exercise the pardoning power which you have I would like to get him released</p>
+<p>yrs &amp;c
+<lb/>Jno Donan
+<lb/>Gov<hi rend="sup">r</hi>. Bramlette<pb/></p>
+<p>Barren Cir Ct
+<lb/>vs
+<lb/><unclear>Traneda</unclear> Bass
+<lb/>Pardoned
+<lb/><date when="1864-09-24">24<hi rend="sup">th</hi> Sept./64</date></p>
+  </body>
+ </text>
+</TEI>

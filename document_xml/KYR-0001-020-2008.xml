@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-2008"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Henry Norvell, Affidavit</title>
+    <title level="a" type="parallel">CWG9084</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG24-1 to MG24-2</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Mercer County, Kentucky</placeName>
+    <date when="1862-06-06">6 June 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>The Commonwealth of Kentucky
+<lb/>against } Affidavit.
+<lb/>James Shackelford.</p>
+<p>This Affiant Henry Norvell states, that he was present and saw the fight in which George Divine is said to have been killed by James Shackelford who is now a convict in the state Prison of Kentucky. That when he came upon the ground a quarrel was going on and soon afterwards he saw three or four men dragging James Shackelford across the road by the hair of his head &amp; saw him upon the ground with a number of men over him -- he heard Shackelford ask "who it was who ^was^ buffing him". That he never saw Shackelford stab or cut George Divine nor does he know who did it. He further states that he was examined as a witness in the case and heard the testimony of Jacob Claunch upon whose evidence this affiant believes the Jury found their verdict of "<hi rend="underline">guilty</hi>". &amp; this affiant is so positive and decided in his recollection of what occured on the the occasion of the unfortunate difficulty as to feel himself Justified in saying that said Jacob Claunch swore falsely when he made his statement to the Jury. Said Claunch assumed to know all of the facts &amp; circumstances of the difficulty, when the affiant says that he did not see him upon the ground nor does he believe he was there for it was not proven by any other witness that he was<pb/>
+<lb/>there. Said Claunch was a brother-in law of George Divine who it is said was killed by Shackelford. <hi rend="str">That</hi> This affiant upon his oath doth most cheerfully willingly &amp; truthfully state that from all he saw of the fight Shackelford only acted in self defence,</p>
+<p>Henry Norvell</p>
+<p>State of Kentucky
+<lb/>Mercer County Sct</p>
+<p>This day personally appeared before the undersigned Presiding Judge of the Mercer County Court. Henry Norvell and made oath that the statements contained in the foregoing affidavit were true to the best of his knoweldge and belief.</p>
+<p>Given under my hand this <date when="1862-06-06">6<hi rend="underline"><hi rend="sup">th</hi></hi> of June 1862,</date></p>
+<p>Chr Chinn P J M C C<pb/></p>
+<p>Commonwealth
+<lb/>against } Aff -- 
+<lb/>Shackelford</p>
+  </body>
+ </text>
+</TEI>

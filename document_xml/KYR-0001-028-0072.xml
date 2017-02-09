@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-028-0072"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Thomas H. Leas to Unknown</title>
+    <title level="a" type="parallel">CWG7727</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Appointments by the Governor, Military Appointments, 1862-1863</collection>
+      <idno>R2-218 to R2-219</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>West Point, Orange County, New York</placeName>
+    <date when="1863-07-01">1 July 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>West Point, N.Y. <date when="1863-07-01">July 1<hi rend="underline"><hi rend="sup">st</hi></hi> 1863.</date>
+<lb/>Sir</p>
+<p>Desirous of obtaining a commission in the Kentucky Volunteers, I have the honor of submitting the following statement of services rendered -- I have served seven years in the Corps of Engineers, Commanded by Major Barnard, Lieut<hi rend="underline"><hi rend="sup">s</hi></hi> Donelson and Duane -- Served on the Utah Expedition, Oregon and Washington Territory and in the Army of the Potomac -- </p>
+<p>I respectfully submit the above Statement of my services, with the Enclosed recommendations, hoping they may be favorably considered -- </p>
+<p>I have the honor to be sir,
+<lb/>very respectfully
+<lb/>Your most obdt. Servant
+<lb/>Thos. H. Leas.</p>
+<p>P.S.
+<lb/>I sent application with recommendations from Brig. Gen Gilmore, sometime since -- </p>
+<p>Reference, David A. Sayre Lexington Ky.</p>
+  </body>
+ </text>
+</TEI>

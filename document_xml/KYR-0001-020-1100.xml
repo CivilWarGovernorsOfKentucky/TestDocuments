@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1100"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Montgomery et al. to Beriah Magofin</title>
+    <title level="a" type="parallel">CWG10568</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG20-203</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To the Hon B. Magoffin Governor of the Commonwealth of Kentucky.</p>
+<p>Your petitioners would respectfully state that at the <date when="1861-03">March term 1861</date> of the Carroll Circuit Court John Montogmery was fined $20 for Gaming -- </p>
+<p>We state that the indictment was procurred through <hi rend="underline">Malice</hi>. That Montgomery is not a Gambler nor in the habit of playing for amusement. Believing that the Criminal Law should not be used for the purpose of gratifying private malice We respectfully request your excellency to remit said fine</p>
+<p>John Montgomery</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Petitioners
+<lb/>W M Fishers
+<lb/>M T Pryer
+<lb/>A. J. Gurtune
+<lb/>S O"Neal
+<lb/>R. J. Wilson
+<lb/>H W Pryor
+<lb/>A F Tunagan
+<lb/><cb n="2"/>Petitioners
+<lb/>H Harris
+<lb/>F M Giel
+<lb/>T W Minish
+<lb/>M. W. Dillehunt
+<lb/>David Hogan
+<lb/>M T. Milner<milestone unit="column" n="1"/></p>
+<p>Carroll County sct</p>
+<p>The Subscribers to the foregoing petition are citizens of Carroll County, and reliable men &amp; their signatures genuine</p>
+<p>Given under my hand this <date when="1861-05-22">22 May 1861</date></p>
+<p>John Hogan C. C. C. C<pb/></p>
+<p>Carroll Cir. Ct
+<lb/>$20. } Gaming
+<lb/>Jno. Montgomery
+<lb/>Resp<hi rend="sup">t</hi> 12 Mos
+<lb/>Iss<hi rend="sup">d</hi> <date when="1861-05-24">May 24. 1861</date></p>
+  </body>
+ </text>
+</TEI>

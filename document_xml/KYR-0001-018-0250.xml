@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-018-0250"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John W. Finnell to Nathaniel Gaither, Jr.</title>
+    <title level="a" type="parallel">CWG8316</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Military Appointments, 1859-1862</collection>
+      <idno>MG6-361</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1862-03-06">6 March 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><figure type="seal"><ab>UNITED WE STAND, DIVIDED WE FALL.
+<lb/>KENTUCKY.</ab></figure>
+<lb/>Head-Quarters Kentucky Volunteer Militia,
+<lb/>ADJUTANT GENERAL'S OFFICE,
+<lb/>Frankfort, <date when="1862-03-06">6 March 1862</date>.</p>
+<p>Hon: 
+<lb/>Nat Gaither Jr
+<lb/>Sec: of State_</p>
+<p>Please note the following upon your record-
+<lb/>Capt: Zachariah S. Taylor is dead- (Com. dated <date when="1861-11-16">16 Novr 1861</date>). 1<hi rend="underline"><hi rend="sup">st</hi></hi> Lieut: John R. Jamison &amp; 2<hi rend="sup">d</hi> Lieut: W<hi rend="underline"><hi rend="sup">m</hi></hi> Prewitt are promoted- (Coms: dated <date when="1861-11-18">18 Novr 1861</date>). 2<hi rend="sup">d</hi> Lieut: Tho. D. Dudley Jr has resigned (Com: dated <date when="1862-02-28">28 Feb 1862</date>)</p>
+<p>1<hi rend="underline"><hi rend="sup">st</hi></hi> Lieut: John Roberts is promoted (date of Com: <date when="1861-10-08">8 Oct 1861</date>)</p>
+<p>2<hi rend="sup">d</hi> Lieut: W<hi rend="underline"><hi rend="sup">m</hi></hi> B. Skaggs is promoted (date of Com: <date when="1861-10-08">8 Oct 1861</date>)</p>
+<p>2<hi rend="sup">d</hi> Lieut: George W. Roberts is promoted (date of Com: <date when="1861-10-08">8 Octo. 1861</date>)</p>
+<p>Benjamin F. Wayne Q<hi rend="sup">r</hi> Master promoted to Brigade Q<hi rend="sup">r</hi> Mas: (date of Com: <date when="1861-10-08">8 Oct 1861</date>)</p>
+<p>Elisha Simpson Capt. is dead- (date of Com: <date when="1861-11-09">9 Novr 1861</date>)-<pb/>
+<lb/>2<hi rend="sup">d</hi> Lieut: John W. Vanderpool is dead- (date of Com: <date when="1861-11-16">16 Nov 1861</date>-)</p>
+<p>I send Comms: for record- in twelve viz:
+<lb/><table rend="rules">
+<row>
+	<cell>1862</cell>
+	<cell>Feb</cell>
+	<cell><date when="1862-02-22">22</date>-</cell>
+	<cell>James L. Bruch</cell>
+	<cell>Capt -- </cell>
+	<cell>#1</cell>
+</row>
+<row>
+	<cell> </cell>
+	<cell> </cell>
+	<cell><date when="1862-02-17">17</date>-</cell>
+	<cell>John Roberts </cell>
+	<cell>Capt -- </cell>
+	<cell>#2</cell>
+</row>
+<row>
+	<cell> </cell>
+	<cell> </cell>
+	<cell><date when="1862-02-25">25</date>-</cell>
+	<cell>John G. Evans</cell>
+	<cell>Capt: -- </cell>
+	<cell>#3</cell>
+</row>
+<row>
+	<cell> </cell>
+	<cell> </cell>
+	<cell><date when="1862-02-27">27</date>-</cell>
+	<cell>John R. Jamison</cell>
+	<cell>Capt: -- </cell>
+	<cell>#4</cell>
+</row>
+<row>
+	<cell> </cell>
+	<cell>Jan</cell>
+	<cell><date when="1862-02-18">18</date>-</cell>
+	<cell>W<hi rend="sup">m</hi> B. Skaggs-</cell>
+	<cell>1<hi rend="underline"><hi rend="sup">st</hi></hi> Lieut</cell>
+	<cell>#5</cell>
+</row>
+<row>
+	<cell/>
+	<cell>Feb</cell>
+	<cell><date when="1862-02-17">17</date>-</cell>
+	<cell>W<hi rend="sup">m</hi> R. Buford-</cell>
+	<cell>1<hi rend="underline"><hi rend="sup">st</hi></hi> Lieut</cell>
+	<cell>#6</cell>
+</row>
+<row>
+	<cell> </cell>
+	<cell> </cell>
+	<cell><date when="1862-02-27">27</date>-</cell>
+	<cell>W<hi rend="sup">m</hi> Prewitt-</cell>
+	<cell>1<hi rend="underline"><hi rend="sup">st</hi></hi> Lieut</cell>
+	<cell>#7</cell>
+</row>
+<row>
+	<cell> </cell>
+	<cell> </cell>
+	<cell><date when="1862-02-27">"</date>-</cell>
+	<cell>Holman F. Hardy</cell>
+	<cell>2<hi rend="sup">d</hi> Lieut</cell>
+	<cell>#8</cell>
+</row>
+<row>
+	<cell> </cell>
+	<cell> </cell>
+	<cell><date when="1862-02-23">23</date>-</cell>
+	<cell>Christ<hi rend="sup">o</hi> T. Grinstead</cell>
+	<cell>2<hi rend="sup">d</hi> Lieut</cell>
+	<cell>#9</cell>
+</row>
+<row>
+	<cell> </cell>
+	<cell> </cell>
+	<cell><date when="1862-02-08">8</date>_</cell>
+	<cell>John Travis</cell>
+	<cell>2<hi rend="sup">d</hi> Lieut -- </cell>
+	<cell>#10</cell>
+</row>
+<row>
+	<cell> </cell>
+	<cell> </cell>
+	<cell><date when="1862-02-08">28</date>-</cell>
+	<cell>Dudley M. Craig</cell>
+	<cell>2<hi rend="sup">d</hi> Lieut</cell>
+	<cell>#11</cell>
+</row>
+<row>
+	<cell> </cell>
+	<cell> </cell>
+	<cell><date when="1862-02-16">16</date>_</cell>
+	<cell>Geo. W. Roberts</cell>
+	<cell>Q<hi rend="sup">r</hi> Mas:</cell>
+	<cell>#12</cell>
+</row>
+</table></p>
+<p>Very Resp<hi rend="sup">ly</hi>
+<lb/>John W. Finnell
+<lb/>Adj<hi rend="sup">t</hi> Gen<hi rend="sup">l</hi></p>
+<p>Entered <date when="1862-03-06">Mar. 6. 1862</date></p>
+  </body>
+ </text>
+</TEI>

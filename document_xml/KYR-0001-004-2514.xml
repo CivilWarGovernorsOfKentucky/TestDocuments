@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2514"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Nevin to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7151</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR16-22</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date when="1865-10-02">2 October 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency Tho<hi rend="underline"><hi rend="sup">s</hi></hi> E Bramlette
+<lb/>Governor of the State of Kentucky</p>
+<p>The petitioner John Nevin would respectfully represent that on the <gap/> day of <date when="1865">1865</date> He was indicted in the City of Louisville for Carrying Concealed a deadly weapon (Towit a Pistol) He further states that at the <date when="--09">september</date> Term of the City Court of Louisville He was fined $50 00 &amp; Costs He states that for many years his <hi rend="str"><unclear/></hi>mother has conducted a private boarding house in the City of Louisville and since he has been old enough to assist her, He has given her his assistance in her business:</p>
+<p>He states that it frequently became necessary for him in the discharge of his duties to wear a pistol for his defense and He says he never wore a weapon until lately but the times are so uncertain and troublesome that he concluded to wear the pistol to protect himself He says He has always been peaceable and never had a difficulty or violated the Law. And He prays your Excellency to remit to him the fine, and will ever pray &amp;c</p>
+<p>John Nevin</p>
+<p>State of Kentucky
+<lb/>Jefferson County Sct.</p>
+<p>John Nevin states that the above petition is true</p>
+<p>John Nevin
+<lb/><stamp type="revenue"/><note place="stamp"><unclear/></note></p>
+<p>Subscribed and sworn to by John Nevin before me this <date when="1865-10-02">2<hi rend="underline"><hi rend="sup">d</hi></hi> day of Oct 1865</date></p>
+<p><hi rend="underline">Saml Matlock</hi> J. P. J. C<pb/></p>
+<p>I cheerfully join in this petition and recommend the clemency of the <unclear>Gov</unclear></p>
+<p><unclear>Milton Monroe</unclear></p>
+<p>Louisville City Ct
+<lb/>vs
+<lb/>John Nevin
+<lb/>$50,
+<lb/>Concealed
+<lb/>Weapons
+<lb/>Remit<figure type="hr"/>
+<lb/><date when="1865-11-10">10<hi rend="sup">th</hi> Nov /65</date></p>
+  </body>
+ </text>
+</TEI>

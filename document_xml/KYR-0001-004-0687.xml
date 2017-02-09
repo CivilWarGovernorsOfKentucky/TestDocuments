@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0687"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">J. T. Savage and T. Yateman Clark, Bond</title>
+    <title level="a" type="parallel">CWG4806</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR10-52 to BR10-53</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Christian County, Kentucky</placeName>
+    <date when="1862-07-22">22 July 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Christian Circuit Court
+<lb/><date when="1864-03">March Term 1864</date>
+<lb/>The Commonwealth of Ky
+<lb/>vs } on Indictment for "stabbing"
+<lb/>Malcom ^C^ M<hi rend="sup">c</hi>Faddin</p>
+<p>"The Commonwealths attorney appeared, and Malcom C M<hi rend="sup">c</hi>Faddin with J T Savage and T Yateman Clark having entered into a recognizance before D T Hays police Judge of the town of Hopkinsville on the <date when="1862-07-22">22 day of July 1862</date>, in the sum of Two Hundred dollars for the appearance of said M<hi rend="sup">c</hi>Faddin in this court to answer for stabbing W<hi rend="sup">m</hi> Withy and said McFaddin not so appearing although called. It is ordered that said Recognizance be forfeited, and it is further ordered that a summons he issued thereon against said M<hi rend="sup">c</hi>Faddin J T Savage &amp; T Y Clark to appear in this court on the <date when="--09-01">1<hi rend="sup">st</hi> day of its next September Term</date> to show cause why execution should not be issued for the amount of said Recognizance, and a Bench warrant is awarded herein bail fixed in the Sum of $200"</p>
+<p>The Recognizance executed by the said J T Savage &amp; T Yateman Clark for the appearance of the said M<hi rend="sup">c</hi>Faddin is as follows viz:<pb/></p>
+<p>"Police Judges Court
+<lb/>Hopkinsville Christian County Kentucky</p>
+<p>Malcom C M<hi rend="sup">c</hi>Faddin in custody charged with the offense of stabbing William Withy in a sudden affray in the town of Hopkinsville on the <date when="1862-07-21">21<hi rend="sup">st</hi> day of July 1862</date>. and being admitted to bail in the sum of Two Hundred Dollars</p>
+<p>Now we J T Savage &amp; T Yateman Clark of Christian County Kentucky hereby undertake that the above named Malcom C M<hi rend="sup">c</hi>Faddin will appear in the Christian Circuit Court on the first day of its next <date when="--09">September term</date> to answer ^said^ charge, and will at all times render himself amenable to the orders &amp; process of said Court in the prosecution of said charge and if convicted will render himself in execution thereof, or if he shall fail to perform either of these conditions, that we will pay to the Commonwealth of Kentucky the Sum of Two Hundred Dollars witness our hands this <date when="1862-07-22">22<hi rend="sup">d</hi> day of July 1862</date></p>
+<p>J T Savage
+<lb/>T Y Clark</p>
+<p>Taken &amp; Subscribed before- as police Judge of Hopkisnville</p>
+<p>D T Hays Police Judge of Hopkinsville Ky-
+<lb/>A Copy Att-
+<lb/>Hacob Clark C C C C
+<lb/>per A H Clark D. C</p>
+  </body>
+ </text>
+</TEI>

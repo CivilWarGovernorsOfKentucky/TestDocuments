@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0105"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">J. H. Chandler to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG1770</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Appointments by the Governor, Civil Appointments, 1863-1867</collection>
+      <idno>BR1-503 to BR1-504</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Campbellsville, Taylor County, Kentucky</placeName>
+    <date when="1864-02-27">27 February 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Campbellsville Ky
+<lb/><date when="1864-02-27">Feby 27<hi rend="sup">th</hi> 1864</date></p>
+<p>Tho<hi rend="sup">s</hi> E Bramlett Esq
+<lb/>Governor of Kentucky
+<lb/>Dear Sir</p>
+<p>Owing to causes wholy unexpected to me I am obliged to decline accepting the appointment of Tobacco Inspector, which you have done me the kindness to make. I really desired and needed the office, and have hoped nothing would occur to prevent my acceptance of it if tendered. It is unnecessary to give the causes, which, has prevented my acceptance, of the office, but I wish to tender to your excellency my wamest and most heartfelt thanks for, this manifestation of your kindness, and the Confidence, you have refered in me by this appointment</p>
+<p>The Alternate, or me if the old Inspector will Act, no doubt till his successor is qualified,</p>
+<p>I according return, regretfully the Commission, which I had the honor to receive this day</p>
+<p>With Sentiments of the highest respect
+<lb/>I remain
+<lb/>Your obdt. Servant
+<lb/>J. H. Chandler</p>
+<p>Col Carlisle informed me that Mr Biggs of Greene County was anxious for the position, and would make an excellent Inspector.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1455"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Sheets to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6092</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR12-263 to BR12-264</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1865-01-21">21 January 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency Thos. E Bramlette
+<lb/>Governor of Kentucky</p>
+<p>Your Petitioner John Sheets states that at the <date when="1864-10">Oct. Term 1864</date> of the Franklin Circuit Court. He was fined the sum of <hi rend="str">Fifty</hi> Sixty Dollars for the offense charged, of keeping a "Tippling House" He states that at the time of the trial he was sick at home and unable to attend court in person &amp; had not employed Counsel to represent him, &amp; that judgtment was rendered against him <hi rend="underline">by default</hi> He also states that at the time he was charged in the indictment with selling liquor by the drink. He had in his employ as clerk, his son. John. S. Streets. &amp; that if liquor was so sold, it was done so by his son contrary to the express orders of Your petitioner, &amp; that he was ready &amp; could have proven this upon the trial but for the interference of sickness, He further states that he was at the time of the alledged commission of said offense a merchant in this county &amp; had Merchants License to sell liquor by the quart, That he made application to the Franklin County Court, for Tavern License -- &amp; was refused -- after which he <hi rend="underline">expressly</hi> time &amp; again instructed his clerk not to sell any liquor except by the quart, This is the first offense of your petitioner, And he asks that so much of said Fines be remitted as is not due the officers of the court, costs &amp;c -- <hi rend="underline">turn over</hi><pb/>
+<lb/>John Sheets says that the statements contained in the foregoing petition are true to the best of his knowledge &amp; belief</p>
+<p>John Sheets</p>
+<p>Sworn to &amp; Subscribed before me by Jno Sheets this <date when="1865-01-01">21<hi rend="underline"><hi rend="sup">st</hi></hi> day of January 1865</date></p>
+<p>W. H. Sneed
+<lb/>Examiner for
+<lb/>Franklin County<pb/></p>
+<p>Franklin Cir Ct
+<lb/>Jno. Sheets
+<lb/>Petition to The Governor<figure type="hr"/>
+<lb/>$60,</p>
+<p>Remit
+<lb/><date when="1865-01-21">21<hi rend="sup">st</hi> Jany/65</date></p>
+  </body>
+ </text>
+</TEI>

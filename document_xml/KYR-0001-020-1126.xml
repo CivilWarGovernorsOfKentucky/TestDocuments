@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1126"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John W. Crockett et al. to Charles S. Morehead</title>
+    <title level="a" type="parallel">CWG10594</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG20-244 to MG20-245</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Madisonville, Hopkins County, Kentucky</placeName>
+    <date when="1859-05-30">30 May 1859</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Madisonville <date when="1859-05-30">May 30<hi rend="sup">th</hi> 1859</date>
+<lb/>To His Excellency C S Morehead</p>
+<p>Jerome Phillips at the present term of the Hopkins Circuit Court was indicted for Burglary &amp; upon his own plea of guilty, was by the <hi rend="str">Jury</hi> Court sentenced to two years confinement in the penitentiary. From all the information we have of Mr Phillips his character heretofore has been good, and this is his first offence We believe he is penitent and will not again be guilty of crime, We refer you to letters from Rochester &amp; Louisville Ky, in which places he has resided for a number of years as to his character He has an interesting clever &amp; devoted wife who is dependent on him for a support &amp; while we are constrained to admit his guilt we beleive that executive clemency will effect a complete reformation We therefore ask that your Excellency shall interpose in his behalf</p>
+<p>J, W, Crockett,
+<lb/>Arch<hi rend="sup">d</hi> Dixon
+<lb/>John D.. Hardwick
+<lb/>Jailor of H. C.<pb/></p>
+<p><milestone unit="column" n="2"/><cb n="1"/><hi rend="underline">W. L. Ross</hi>
+<lb/>J B Ross Jr
+<lb/>Archiblad Ligorn
+<lb/>J. G. Berry
+<lb/>W L. Gordon
+<lb/>Harvy Yeaman
+<lb/>Tho<hi rend="sup">s</hi> W. Vaughin
+<lb/>Loft Wilson
+<lb/>W<hi rend="sup">m</hi> H Odgen
+<lb/>L. m. Lowe
+<lb/>Willis Barr
+<lb/><cb n="2"/>Orlean Bishop (clk Co Ct)
+<lb/>M. S Lyon
+<lb/>W. W. Langley
+<lb/>George C. Bronaugh clk
+<lb/>John Hook
+<lb/>Eli S. Hall
+<lb/>James P Wadlington
+<lb/>R J Watson
+<lb/>J R Cargill SHf
+<lb/>J.. H.. Brian
+<lb/>Chas G Nall D. C. A. C. C
+<lb/>W. T. Osburne
+<lb/>J O P Slaton
+<lb/>J W Winters
+<lb/>William Browning
+<lb/>W<hi rend="sup">m</hi> M.. Bailey
+<lb/>Adrian, Miller
+<lb/>James, Sullivan,
+<lb/>William Sullivan
+<lb/>R. J. Rutherford
+<lb/>Stclair Southand
+<lb/>J. M. Shackelford
+<lb/>D M Whitly
+<lb/>F M P Clark
+<lb/>T. A. Lyon
+<lb/><hi rend="underline">Sam B Greenfield</hi>
+<lb/>H. Boring
+<lb/>P. T. B. Goad<hi rend="str">d</hi>
+<lb/>W<hi rend="sup">m</hi> S. Rutherford
+<lb/>J. B. Ross
+<lb/>L Lindsay
+<lb/>Ben P Cissell atty at Law<milestone unit="column" n="1"/><pb/></p>
+<p>Hopkins Cir Ct
+<lb/>Jerome B Philips
+<lb/>Petition &amp; Other Papers
+<lb/>2 yrs Penty
+<lb/><unclear/>
+<lb/>Burglary<figure type="hr"/></p>
+<p><hi rend="str">Rejected</hi>
+<lb/>Issue pardon
+<lb/>B. Magoffin</p>
+<p>Iss<hi rend="sup">d</hi> <date when="1861-05-02">May 2<hi rend="sup">d</hi> 1861</date></p>
+  </body>
+ </text>
+</TEI>

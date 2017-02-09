@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1125"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John B. Spalding et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG5762</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR11-222</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1864-08-18">18 August 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency Thomas E. Bramlette Governor of the State of Kentucky:</p>
+<p>The undersigned citizens of the county of Marion would respectfully represent that about the <date when="1864-05-01">1<hi rend="sup">st</hi> of May 1864</date> John Mackin purchased and set up in his Grocery, for the entertainment of his customers, a table known as "a pigeon hole table." That previously on the <date when="--02-22">22<hi rend="sup">nd</hi> day of February last</date> the Legislature passed a law making it a misdemeanor to allow a minor to play upon such tables, without the written permission of the person having control of such minor, This law has not been published and was not known in Lebanon except perhaps to a few members of the bar at the <date when="1864-05">last May term</date> of the Marion Circuit Court, at said term the Grand Jury prepared an indictment against said Mackin for having permitted one Thomas Weatherford a minor to play on his pigieon table, and at this term <date when="1864-08">(August Term 1864.)</date> he was by the judgement of the Marion Circuit fined the sum of $5.00. and his right to keep the table declared forfeited. Now your petitioners say they have no idea that said Mackin knew at the time he permitted Weatherton to play upon his table that it was in violation of any law of the state. That as soon as he ascertained that it was against the law, he forbid minors playing on his table, and has not permitted it since. In view therefore of the facts that said Mackin violated the law without knowing of its existence, and that he has evinced a disposition to abide by the law cheerfully, since he has become aware of its existence, and in further consideration of the facts that that he is a man in indigent circumstances, and has been at considerable out lay in procuring his table they think it would be <hi rend="str">a</hi> just exercise of Executive Clemency for your Excellency to grant said Mackin a full pardon for said offence, remitting said fine<pb/>
+<lb/>and forfeiture, and would therefore pray your excellency to grant such pardon -- <hi rend="str">Aug 18 1864</hi> -- A certified Copy of said Judgement is here with transmitted -- <date when="1864-08-18">Aug 18<hi rend="sup">th</hi> 1864</date></p>
+<p><milestone unit="column" n="2"/><cb n="1"/>John B Spalding
+<lb/>G A Hamilton
+<lb/>John Ansbro
+<lb/>B J Spalding
+<lb/>Isaac Jones
+<lb/><unclear>M J</unclear> Malston
+<lb/>B O Neel
+<lb/>B F browning
+<lb/>C browning
+<lb/>A. L. Hardy
+<lb/>Frank Abell
+<lb/>S W Ford
+<lb/>P. Abell
+<lb/>Jos Jarboe
+<lb/>William Spalding
+<lb/>H. L. Mudd
+<lb/>John Mcgroth
+<lb/>Saml Lee
+<lb/>M. Wimsatt
+<lb/>E, L, Hill
+<lb/>John R. Thomas
+<lb/>H J Jackson
+<lb/>J. A Bowman
+<lb/><cb n="2"/>Thomas Higgins
+<lb/>H C Brown</p>
+  </body>
+ </text>
+</TEI>

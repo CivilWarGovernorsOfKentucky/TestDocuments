@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-034-0002"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Laurin P. Hilliard, Affidavit</title>
+    <title level="a" type="parallel">CWG7730</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Governor's Official Correspondence File, Requisitions for the Return of Fugitives from Justice, 1862-1863</collection>
+      <idno>R3-2</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Chicago, Cook County, Illinois</placeName>
+    <date when="1862-12-27">27 December 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>CERTIFICATE OF MAGISTRACY -- Printed by F. FULTON &amp; Co., 148 Lake Street.<figure type="hr"/>
+<lb/>STATE OF ILLINOIS,
+<lb/>COOK COUNTY. } SS.
+<lb/><figure type="seal"><ab>COUNTY COURT COOK COUNTY
+<lb/>ORGANIZED 1849
+<lb/>ILLINOIS</ab></figure></p>
+<p>I, LAURIN P. HILLIARD, Clerk of the County Court of said County, DO HEREBY CERTIFY, that T B Brown Esq., whose name is subscribed to the proof or acknowledgment of the annexed instrument in writing, was, at the time of taking such proof or acknowledgment, a Justice of the Peace in said County, duly commissioned, sworn and acting as such, and authorized to take the same; and further, that I am well acquainted with his handwriting, and verily believe that the signature to the said proof or acknowledgment is genuine; and further, that the annexed instrument is executed and acknowleged according to the laws of the State of Illinois.</p>
+<p><hi rend="italic">In Testimony Whereof</hi>, I have hereunto set my hand and affixed the seal of said Court, at the City of Chicago, in said County, this <date when="1862-12-27">27<hi rend="underline"><hi rend="sup">th</hi></hi> day of December, A. D. 1862.</date></p>
+<p>L. P. Hilliard <hi rend="italic">Clerk</hi>.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-2037"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">G. H. Moore et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG9113</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG24-44 to MG24-45</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Richmond, Madison County, Kentucky</placeName>
+    <date when="1862-07-07">7 July 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Richmond Ky
+<lb/><date when="1862-07-07">July 7<hi rend="underline"><hi rend="sup">th</hi></hi> 1862</date>
+<lb/>Hon Briah Magoffin
+<lb/>Govenor of Kentucky</p>
+<p>Your petitioners respectfully represent that at the <date when="1860-03">March term of the Madison Circuit Court 1860</date> the Grand Jury of Madison County found an Indictment against Fortunatius Dozier for the offence of carrying ^a^ concealed weapon &amp; at the <date when="1860-09">September</date> term following the said Indictment was tried &amp; the Jury found a verdict of fifty dollars against Said Dozier Soon after <hi rend="str">Said</hi> the court at which the verdict was rendered above mentioned Your excellency respited upon a petition numerously signed by the citizens of Madison county all that it was in your power to respite for twelve months -- </p>
+<p>Your Petitioners in addition to what was Said in their first petition to Your excellency now further represent that up to the time of the finding of the Indictment against Fortunatius Dozier for carrying ^a^ concealed weapon he was a law abiding sober discreet citizen<pb/>
+<lb/>&amp; since that time he has So continued &amp; is now an industrious &amp; Sober man trying to maintain his family -- </p>
+<p>Considering that Fortunatius Dozier is a poor man Scarcely able to maintain his family &amp; that at the time he carried the weapon for which he was indicted his life had been threated &amp; that he would have proved himself clear of any offence if he had been able to have had his witness present they respectfully pray your excellency to now remit entirely the fine against said Dozier or so much of is as is in your power to remit</p>
+<p>We refer to the former petition in this case
+<lb/><date when="1862-07-06">July 6<hi rend="underline"><hi rend="sup">th</hi></hi> 1862</date></p>
+<p><milestone unit="column" n="1"/><cb n="2"/>G. H. Moore
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> B Wells
+<lb/>Hugh L Gormly
+<lb/>John C Brooks
+<lb/>E F Rigg
+<lb/>John V Will
+<lb/>N. Parrish
+<lb/>John C Laine
+<lb/>Thomas Garnett
+<lb/>Christopher <unclear>Hakzar</unclear>
+<lb/>Sam Burgin
+<lb/><cb n="2"/>Jas B M<hi rend="sup">c</hi>Creary
+<lb/>G. E. Billingsley
+<lb/>Willard Davis
+<lb/>W B. Mize
+<lb/>W C Wilder
+<lb/>Chas. S Turner
+<lb/>Ed W Turner
+<lb/>W. J. Raybourn
+<lb/>A B. Lyman
+<lb/>G. W Chenwelt
+<lb/>John Guess
+<lb/>C J Walker
+<lb/>William Harris
+<lb/>J. C. Berry
+<lb/>Jas. A Shearer<milestone unit="column" n="1"/><pb/></p>
+<p>Madison Cir Ct
+<lb/>$50 } Weapons
+<lb/>F. Dozier
+<lb/>Remission Iss<hi rend="sup">d</hi> <date when="1862-07-22">July 22<hi rend="underline"><hi rend="sup">d</hi></hi> 1862</date></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0175"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">James Denton to James F. Robinson</title>
+    <title level="a" type="parallel">CWG8627</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Governor's Official Correspondence File, Petitions for Pardons, Remissions, and Respites, 1862-1863</collection>
+      <idno>R3-267 to R3-268</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency
+<lb/>Governor Robertson Govrnar of the Commonwealth of Kentucky</p>
+<p>Your petitioner James Denton would respectfully represent unto your Excellency that in the spring of <date when="1861">1861</date> he had a stud Colt and contracted to let him to a mare of one of his neighbors for the sum of 4<unclear/> and that he was indicted by a Grand jury of the county of Fleming under the statute made and provided in such case and that at the <date when="1861-09">September term 1861</date> of the Fleming Circuit Court he confessed a Judgement for Twenty five dollars upon which execution had issued and will be collected if not remitted by your excellency Your petitioner would further state that at the time he let the stud colt to said mare he did not know that it was a violation of the law and when he ascertained that it was he did not charge for the services of the colt He further states that he is a law abiding man and has never had a suit of any kind against him In view of all the circumstances your petitioner prays the interposition of your excellency discharging him from the<pb/>
+<lb/>payment of said fine except costs &amp; fees &amp;c </p>
+<p>James Denton</p>
+<p>Governor Robertson</p>
+<p>The facts stated above by Mr Denton are true and it was expressly understood by Mr Denton and Col R H Stanton who was at that time Commonwealths Atty that he Stanton in view of all the facts in the case <hi rend="str">that he Stanton</hi> would petition Governor Magoffin &amp; have the fine remitted having paid to Col Stanton his commission and the only reason that I can assign why it was not done is the the unfortunate troubles we have had in the Country I am personally acquainted with Mr Denton and know him to be an honest man but poor and industrious and hope you will feel free to remit the fine as it is a matter of some importance to Mr Denton</p>
+<p>Respectfully
+<lb/><hi rend="underline">Jo</hi><hi rend="underline"><hi rend="sup">s</hi></hi><hi rend="underline"> M. Alexander</hi><pb/></p>
+<p>Flemingsburg <date when="1863-01-24">Jan 26<hi rend="sup">th</hi> 1863</date></p>
+<p>Dr Sir The statements of Hon J M Alexander is entitled to full credit and I trust that your Exellency will remit the same</p>
+<p>Yours truly
+<lb/>L W Andrews</p>
+<p>Governor</p>
+<p>Please direct the remittance to John M Harbeson Clerk of the Fleming Circuit Court</p>
+<p><hi rend="underline">J M A</hi><pb/></p>
+<p>Fleming Cir Ct
+<lb/>Remitted
+<lb/>J F Robinson<figure type="hr"/>
+<lb/>$25 } Mis.
+<lb/>Ja<hi rend="sup">s</hi> Denton
+<lb/>Is<hi rend="sup">d</hi> <date when="1863-01-30">Jany 30. 1863</date></p>
+  </body>
+ </text>
+</TEI>

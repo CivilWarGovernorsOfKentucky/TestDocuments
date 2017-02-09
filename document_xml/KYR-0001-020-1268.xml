@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1268"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Granville Clarke et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10736</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG21-142</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>The undersigned are acquainted with Westin Hoover &amp; Andrew Lees &amp; wife the persons who prosecuted Hoover. Hoover is an honest_ moral &amp; industrious man. He is poore &amp; depends for the support of his family upon his daily labor. He has always sustained a good moral character. But on the contrary Lees &amp; wife are persons of bad reputation &amp; are not generally beleived among their acquaintnaces to be worthy of beleif.</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Granville Clarke
+<lb/>Peter Roth
+<lb/><unclear>gubnert Pfilizz</unclear>
+<lb/>Peter Luwon
+<lb/>J A Stewart
+<lb/><unclear/> <unclear/>
+<lb/>Michael Coffey
+<lb/>Cornelious Swerry
+<lb/>Patrick Walsh
+<lb/>John Friedbaud
+<lb/>Henry Hamsath
+<lb/>A W H <unclear>OKenann</unclear>
+<lb/>Auton Hemesath
+<lb/>J S Booth
+<lb/>G Fischer
+<lb/><cb n="2"/>T F Schikner
+<lb/>T G Zimlink
+<lb/>Michel Reeves
+<lb/>Thomas Harrison
+<lb/><unclear/><unclear/>
+<lb/>Conrad Ackerman
+<lb/>Jonhe Hoffmann
+<lb/>Aloys Geyer
+<lb/>Henry Henn
+<lb/><hi rend="str">Chas E.</hi> L. Mage
+<lb/><hi rend="str">A Gesinger</hi> A Kalin
+<lb/>W Sihite
+<lb/>Martin Meyers<milestone unit="column" n="1"/><pb/></p>
+<p>Remitted as to imprisonment and respite the fee for 12 Mo<hi rend="underline"><hi rend="sup">s</hi></hi></p>
+<p>B. M</p>
+<p>Kenton Cir Ct
+<lb/>$50. &amp; 30 days imprisonment
+<lb/>Rape
+<lb/>Martin Hoover</p>
+<p>Iss<hi rend="sup">d</hi> <date when="1861-07-18">July 18 1861</date></p>
+  </body>
+ </text>
+</TEI>

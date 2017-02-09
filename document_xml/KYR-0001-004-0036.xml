@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0036"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Sarah Bartley et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG4155</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR8-53</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To the Honorable, The Governor of the State of Kentucky.</p>
+<p>Your Petitioner respectfuly represents that she is the wife of William Bartley, lately convicted by the Mason County Court, now in the Penitentiary at Frankfort, Kentucky, that she, with two small children, have been left without any means of support whatever &amp; that her health does not admit of her working for a living</p>
+<p>She further represents, that, though in this instance her husband may have erred and deserved punishment, yet he has always been kind to his family &amp; supplied them with the necessaries of life</p>
+<p>The present, is the first time, that she has ever heard him charged with theft &amp; so far as she knows, he has heretofore bourn a good character for honesty.</p>
+<p>She earnestly asks you to remember mercy, if not for his sake, at least for her sake &amp; for the sake of her two children &amp; grant him a pardon, in order that he may return home.</p>
+<p>Attest John M Cagen
+<lb/>Sarah ^her x mark^ Bartley</p>
+<p>The undersigned, represent that they are personally acquainted with William Bartley &amp; his wife Sarah Bartley and believe the statements made by her to be true or substantially true</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>John Thompson
+<lb/>John ^his x mark^ Furnel
+<lb/><cb n="2"/>
+<lb/>Jas S Harding
+<lb/>W<hi rend="sup">m</hi> Hood
+<lb/>J M Justus
+<lb/>J. H. Thompson<milestone unit="column" n="1"/><pb/>
+<lb/>Lewis C Halliday
+<lb/>John P. Parker
+<lb/>William P. Marshall
+<lb/>George Thompson
+<lb/>Benj<hi rend="sup">n</hi> Smith
+<lb/>E. H. Morgan
+<lb/>Chambers Sharn
+<lb/>William Sowers
+<lb/>John Y. Crosby
+<lb/>E D Williams</p>
+  </body>
+ </text>
+</TEI>

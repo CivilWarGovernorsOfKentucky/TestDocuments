@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1800"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">J. R. Hold to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6437</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR13-337 to BR13-338</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Ashland, Boyd County, Kentucky</placeName>
+    <date when="1865-05-16">16 May 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Ashland Boyd Co Ky
+<lb/><date when="1865-05-16">May 16<hi rend="underline"><hi rend="sup">th</hi></hi>/65</date>
+<lb/>Gov Bramlette
+<lb/>Honorable sir</p>
+<p>there is a fine assessed against me again in the boyd Circuit Court amounting to <hi rend="sup">$</hi>50,00 &amp; cost which I am not able to pay without suffering my family I pray you for gods sake to remit the fine If you wish to know aything about me Enquire of Dr Suddarth Surg in Charde of your Hosptl I belonged to Co L 1<hi rend="underline"><hi rend="sup">st</hi></hi> Regt C G I have never been Discharged as yet the rest of the boys is left agin to the Us service</p>
+<p>your Obt Servt
+<lb/>J R Hold<pb/></p>
+<p>If you remit the fine Direct to Col L T Moore
+<lb/>Catlets burg Ky</p>
+<p>Dear Gov Please forward an answer soon as it will have to be paid the first of next month<pb/></p>
+<p>Boyd Cir Ct
+<lb/>vs
+<lb/>John R. Hold
+<lb/>$50.
+<lb/>selling liquor to minors
+<lb/>Remitted
+<lb/><date when="1865-06-14">14<hi rend="sup">th</hi> June/65</date></p>
+  </body>
+ </text>
+</TEI>

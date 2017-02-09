@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1306"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">A. J. Hand, Jr. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10774</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG21-195</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1861-08-06">6 August 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency B Magoffin</p>
+<p>Your Petitioner A. J. Hand Jun., states that he was fined fifty Dollars for carring consealed wepons by the Pendleton Circuit Court. at its <date when="1861-04">April term 1861</date> that a copas has gone against him. for said fine it is true that he did carry said wepon but the Reson he did so was to protect. his person from a thretend assault of one Wm Ray. who was carring a <unclear>Lage</unclear> Colts Revolver with the avoded purpos of killing your petitioner which he had been informed of &amp; was advised to carry wepons for his defence he states that if he had of been at court he would have been able to prove all of said acts by A. J. Hand Sen F M Fuget &amp; A G Roberts Esq. who know of the said Ray. Carring said pistol for him but his wife was confined at the time of Court. so that he could not leve home. &amp; his Atty advised him to attend to his<pb/>
+<lb/>Famaly. &amp; depend on the Exetive Clemency. he filed the affidavit of Hand &amp; Roberts Fuget being in the Southren Army. &amp; he cannot obtain his affidavit wherefore he prays that your Exelency will <hi rend="str">pardon</hi> Remit said fine.</p>
+<p>A. J. Hand. Jr</p>
+<p>Sworn to before me by A J. Hand Jr this <date when="1861-08-06">6<hi rend="sup">th</hi> day of August 1861</date></p>
+<p>Harvey Smith
+<lb/>J p p C</p>
+<p>We the undersigned Joine in the prayer in the above Petition for the Remission of the above fine</p>
+<p>Harvey Smith</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>E. A. W. Roberts
+<lb/>J A Grurwell
+<lb/><cb n="2"/>Joseph Dougherty
+<lb/>Abalom Dilworth
+<lb/>X C Moart
+<lb/>C. Duncan
+<lb/>J. M. Curry<milestone unit="column" n="1"/></p>
+<p>Pendleton Cir Ct
+<lb/>A J Hand Jur
+<lb/>$50 Weapons
+<lb/>vs } Pet
+<lb/>Commonwealth</p>
+<p>Remitted
+<lb/>B M</p>
+<p>Iss<hi rend="sup">d</hi> <date when="1861-08-30">Aug 30. 1861</date></p>
+<p>A G Roberts &amp; Bro
+<lb/>Atty</p>
+  </body>
+ </text>
+</TEI>

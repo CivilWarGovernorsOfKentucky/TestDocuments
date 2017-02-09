@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0800"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">J. S. Higdon et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10268</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG19-260</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Brownsville, Edmondson County, Kentucky</placeName>
+    <date when="1861-03">March 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Brownsville Ky <date when="1861-03">March <gap/> 1861</date>
+<lb/>To His Excelencey Beriah Magoffin Govenor of the State of Kentucky</p>
+<p>Your Petitioner would Respectifully Represent to your honor that Whereas Green Gilbert was fined Sixty Dollars at the <date when="1861-03">March Term of the Edmondson Equity &amp; Criminal Court 1861</date> for three Times Selling Spiritous Liquors We would Respectivul Represent to your honor that the said Green Gilbert is But a Boy <hi rend="str">about</hi> about 17 or 18 years old and that he was induced to sell the Liquor for another man not knowing that he would be Responsible for so doing or Knowing that he was violating the Law by selling and that he is a very Poore Boy has no property or Estate whatever and that he is the sone of a very Poor Widow Wooman and that She has no Estate Now in view of all these considerations we would aske your honor to Remit the said fine that he <hi rend="str">woul</hi> will not be abel to pay the fine and that unless the fine is Remited that he will have to Lay in Jail We therefore hope that your honor will Remit said fine and by so doing you will confer a Lasting faver on a Poor Boy &amp; his Widowed mother</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Signers Names
+<lb/>J S Higdon
+<lb/>H Gorden
+<lb/>W Long
+<lb/>G Cook
+<lb/><cb n="2"/>Signers Names
+<lb/>A..C.. Windham
+<lb/>Wm F Dusellor
+<lb/>Daniel Ross
+<lb/><unclear/> graham<pb/>
+<lb/><cb n="1"/>Joshua Dunn
+<lb/>John R Roos
+<lb/>Parrund Hagslip
+<lb/>T J Swunel
+<lb/>Josef Kinse
+<lb/>F graham
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Meridith
+<lb/>Amos James
+<lb/>J, A, Mitchell
+<lb/>oraille Heath
+<lb/>A, S, Edwards
+<lb/>J W. Mitchell
+<lb/>John M Cowles
+<lb/>S Z Sturdivant
+<lb/>D, C, Parish
+<lb/>C E Houchins
+<lb/>James Dern
+<lb/><cb n="2"/><hi rend="str">orville h</hi><milestone unit="column" n="1"/></p>
+<p>Edmonsen
+<lb/>E &amp; C Ct</p>
+<p>Respite 12 mo
+<lb/>B. M.</p>
+<p>$60 } Tipling
+<lb/>Green Gilbert
+<lb/>Iss<hi rend="sup">d</hi> <date when="1865-04-09">Apr 9. 1865</date></p>
+  </body>
+ </text>
+</TEI>

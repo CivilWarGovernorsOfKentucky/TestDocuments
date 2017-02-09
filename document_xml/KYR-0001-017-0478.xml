@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0478"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Dalrymple Williams, Oath</title>
+    <title level="a" type="parallel">CWG2826</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Civil Appointments, 1859-1862</collection>
+      <idno>MG4-485</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Baltimore, Maryland</placeName>
+    <date when="1862-05-30">30 May 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>State of Maryland,
+<lb/>Baltimore City, To wit:</p>
+<p>I, Dalrymple Williams, resident in the said City of Baltimore, duly commissioned by the Executive authority of the Commonwealth of Kentucky, a Commissioner of Deeds for the said Commonwealth, to fulfill the duties of said office within the State of Maryland, do solemnly swear that I will well and truly execute and perform all the duties pertinent to such station.</p>
+<p>Dalrymple Williams</p>
+<p>Subscribed and sworn before me, a Justice of the peace of the State of Maryland in and for the City of Baltimore, this <date when="1862-05-30">Thirtieth day of May. 1862.</date></p>
+<p>Allen E. Forrester.<pb/></p>
+<p>State of Maryland, Baltimore City, Sct:</p>
+<p>I HEREBY CERTIFY, That Allen E Forrester Esquire, before whom the annexed affidavit <gap/> was made, and who has thereto subscribed his name, was at the time of so doing a Justice of the Peace of the State of Maryland, in and for the City of Baltimore, duly commissioned and sworn.</p>
+<p>IN TESTIMONY WHEREOF, I hereto set my hand and affix the seal of the Superior Court of Baltimore City, this <date when="1862-05-30">30th day of May A. D. 1862</date></p>
+<p>Geo E Langston
+<lb/>Clerk of the Superior Court of Baltimore City.</p>
+<p><figure type="seal"><ab>THE SUPERIOR COURT OF BALTIMORE
+<lb/><unclear/></ab></figure><pb/></p>
+<p>Maryland<figure type="hr"/>
+<lb/>Official Oath of Dalrymple Williams
+<lb/>Commissioner for Kentucky in Maryland<figure type="hr"/></p>
+<p>Filed <date when="1862-06-06">June 6. 1862 -- </date></p>
+  </body>
+ </text>
+</TEI>

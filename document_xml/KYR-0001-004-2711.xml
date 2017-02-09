@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2711"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Hash to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7348</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR16-360 to BR16-361</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Campbellsville, Taylor County, Kentucky</placeName>
+    <date when="1865-11-27">27 November 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Campbellsville Taylor County Ky
+<lb/><date when="1865-11-27">Novr 27<hi rend="underline"><hi rend="sup">th</hi></hi> 1865</date>
+<lb/><stamp type="revenue"/><stamp/>
+<lb/>To his Excellency
+<lb/>Gov Bramlettee</p>
+<p>Your Petitioner John Hash states that on the <date when="1865-09-09">9th day of September 1865</date> he was tried before Thos Wright a Justice of the Peace for Taylor County for a breech of the Peace in Two Cases and fined $10,, in one case and $11, in the other. He is a poor Man &amp; has a large family, to support Wherefore he prays your honor to Remit his said fines</p>
+<p><hi rend="str">Enclosed find $4 fees to J W Page assistant Secy of state</hi></p>
+<p>John Hash</p>
+<p>Subscribed &amp; sworn to before me by John Hash on this <date when="1865-11-27">Novr 27<hi rend="underline"><hi rend="sup">th</hi></hi> 1865</date>.</p>
+<p>J. R. Robinson</p>
+<p>We the citizens of Taylor County Respectfully ask the Governor to Remit the above named fines of John Hash except fees &amp; costs,</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>R P Sanders
+<lb/>B H Kirtley
+<lb/>L, C, Gunn
+<lb/>Tho<hi rend="sup">s</hi> H. Blaky
+<lb/><cb n="2"/>J B. M<hi rend="sup">c</hi>Whorter
+<lb/>W G, Dearen
+<lb/>W. W. Williams
+<lb/>Thomas ^his X mark^ Robinson
+<lb/>Thos M J Thomas<pb/></p>
+<p><milestone unit="column" n="1"/>Taylor Co
+<lb/>Justice Ct
+<lb/>vs
+<lb/>John Hash</p>
+<p>Refused</p>
+  </body>
+ </text>
+</TEI>

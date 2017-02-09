@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0166"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Alford Mace, Affidavit</title>
+    <title level="a" type="parallel">CWG1831</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Appointments by the Governor, Civil Appointments, 1863-1867</collection>
+      <idno>BR2-7</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Baltimore, Maryland</placeName>
+    <date when="1864-04-27">27 April 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>State of Maryland.
+<lb/>Baltimore City to Wit: -- 
+<lb/>Be it Remembered.</p>
+<p>And it is hereby certified that on the twenty seventy day of April Eighteen hundred and sixty four, before me the subscriber, <hi rend="str">a</hi> clerk of the Superior Court of Baltimore City in the State of Maryland, personally appeared Henry Howard Burgess, Commissioner for the State of Kentucky in the State of Maryland, and made oath on the Holy Evangely of Almighty God, that he will well and faithfully discharge all the duties of such commissioner according to the laws of the State of Kentucky. -- </p>
+<p><stamp type="revenue"/><note place="stamp">AM
+<lb/><date when="1864-04-27">April
+<lb/>27/64</date></note></p>
+<p><figure type="seal"/></p>
+<p>In Testimony whereof I hereunto set my hand and affix the Seal of the Superior Court of Baltimore City this <date when="1864-04-27">Twenty Seventh day of April in the year of Our Lord Eighteen hundred and sixty four</date>.</p>
+<p>Alford Mace, clk
+<lb/>of the Superior Court of Baltimore City</p>
+<p><figure type="seal"><ab>HENRY HOWARD BURGESS
+<lb/>H H B
+<lb/>COMMISSIONER</ab></figure></p>
+<p>Witness to the signature and Seal of Henry Howard Burgess, Commissioner for the State of Kentucky 
+<lb/>Henry Howard Burgess
+<lb/>Commissioner for the State of Kentucky in Baltimore
+<lb/>City, State of Maryland -- 
+<lb/> -- Witness -- 
+<lb/>Alford Mace<pb/></p>
+<p>Maryland
+<lb/>H. H. Burgess
+<lb/>Oath
+<lb/>Com<hi rend="sup">r</hi> Deeds
+<lb/><date when="1864-04-30">30<hi rend="sup">th</hi> Apl/64</date></p>
+  </body>
+ </text>
+</TEI>

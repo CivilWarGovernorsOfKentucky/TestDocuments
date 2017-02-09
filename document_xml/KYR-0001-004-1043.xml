@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1043"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John L. Seaton and John W. Bush to Stephen Burbridge</title>
+    <title level="a" type="parallel">CWG5680</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR[11]-107 to BR[11]-108</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Smithland, Livingston County, Kentucky</placeName>
+    <date when="1864-06-28">28 June 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Dept. Pro. Marshals Office
+<lb/>Smithland Ky
+<lb/><date when="1864-06-28">June 28<hi rend="sup">th</hi> 1864</date>
+<lb/>Brig Gen Burbridge
+<lb/>Louisville Ky
+<lb/>Dear Sir</p>
+<p>The <date when="1864-05-11">11<hi rend="sup">th</hi> day of May 1864.</date> Oscar <unclear><hi rend="str">Turner</hi></unclear> Lytle. of McCracken County was arrested at Paducah by Col S. G. Hicks, Comd Post at Paducah, Said <hi rend="str">Turner</hi> Lytle was accused of stealing mules from Blunt Hodges a noted copperhead the mules were all found, &amp; the man has been turned over to the Civil Authorities &amp; his Examining ^trial^ pushed through he could not get his witnesses as they had run off from the draft.</p>
+<p><note place="body"><unclear>S139 D of K 1864</unclear></note></p>
+<p>Mr Lytle is a Union man has I am informed rendered important service to the Government as a <hi rend="underline">Federal</hi> <hi rend="underline">Scout</hi> is a respectable man. &amp; has been Drafted by Capt. R. H. Hall, of Paducah still the man is immured in a vile loathsome jail and Hodges his accuser Now says he thinks he <hi rend="str">Turner</hi> Lytle is an <hi rend="underline">innocent</hi> <hi rend="underline">man</hi></p>
+<p>Yesterday his Lady came up &amp; Brought 2 men up who are true Union men, one lives in the same yard with Mr Lytle, who on<pb/>
+<lb/>Being duly Sworn testified that on <date when="1863-05-11">May 11.<hi rend="sup">th</hi> 1863</date> O. Lytle was at his home during the entire night &amp; was at home Every night frim the <date when="1864-05-10">10<hi rend="sup">th</hi></date> to the <date when="1863-05-13">13<hi rend="sup">th</hi></date> of May thus clearly proving on <hi rend="underline">Alabi</hi> his bond is fixed at $500, which could be quickly given were he not drafted to go into the army for 3 years or more. John &amp; S. W. Gentry have sworn to what I state above</p>
+<p>Now General we most Respectfully request you to devise some plan or grant us an order for the Body of Oscar Lytle, so we can turn him over to Capt Hall where he has been drafted. He is quite willing to go &amp; fight for his country -- if released, the Court does not sit until <date when="1864-08">August,</date> &amp; from Judge Fowler down,including <hi rend="sup">9</hi>/<hi rend="sub">10</hi> of the Jury are all intense Copperheads or Southern right sympathizers, &amp; he <hi rend="str">T</hi>Lytle will have at the best only a mock trial.
+<lb/>^(Except James Cade Clk of Court)^</p>
+<p>We are General
+<lb/>Very Respectfully
+<lb/>Your Obedt Servt
+<lb/>John L. Seaton
+<lb/>Dept. Pro. Marsh at Livingston Co
+<lb/>John W. Bush Capt Co G
+<lb/>48<hi rend="sup">th</hi> Ky vols, Comdg Post, Smithland Ky<pb/></p>
+<p>M<hi rend="sup">c</hi>Cracken Cir C
+<lb/>vs
+<lb/>Oscar Lytle
+<lb/>Pardoned
+<lb/><date when="1864-07-07"><hi rend="str">2</hi>30<hi rend="sup">th</hi>July/64</date>
+<lb/>sent to
+<lb/>John L. Seaton
+<lb/>Dep Pro Mars
+<lb/>Livingston Co</p>
+  </body>
+ </text>
+</TEI>

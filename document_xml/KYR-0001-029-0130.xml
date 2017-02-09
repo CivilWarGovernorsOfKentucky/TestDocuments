@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0130"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Clinton Butts and A. H. Herod to James F. Robinson</title>
+    <title level="a" type="parallel">CWG8582</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Governor's Official Correspondence File, Petitions for Pardons, Remissions, and Respites, 1862-1863</collection>
+      <idno>R3-201</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Covington, Kenton County, Kentucky</placeName>
+    <date when="1862-12-03">3 December 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Covington Ky <date when="1862-12-03">December 3<hi rend="sup">d</hi> 1862</date>
+<lb/>To his Excellency the Govenor of Kentucky</p>
+<p>Sir At the request of M<hi rend="underline"><hi rend="sup">r</hi></hi> Amaziah Brafford who is a verry worthy industrious citizen and who feells a deep solicitude for his unfortunate Brother who is an inmate of the penitentiary for cutting one David Macullough which resulted in his Death we would say that we have been personally acquainted with this young Man from his small Boyhood and believe that it was done in suden heat and passion without any malice or thought of killing his victim. it is true that he was under the influence of Liquor being on the <date when="--02-22">22<hi rend="sup">nd</hi> day of February</date>, and had he been sober this difficulty would not have occured. the young Man is industrious and not given to habits of Idleness and Dissepation therefor we feell willing to Join in asking a full pardon believing that the Law has been fully vindicated and the punishment inflicted sufficient to restrain Lafayette Brafford from all future violence, and hope that you may ^find^ him a worthy and fit subject for executive clemency with high regard we are sir your obedient Servants. </p>
+<p>Clinton Butts M C C
+<lb/>A, H, Herod Jailer<pb/></p>
+<p>Braffords Case<lb/>
+<lb/>letter of Butts &amp;c</p>
+  </body>
+ </text>
+</TEI>

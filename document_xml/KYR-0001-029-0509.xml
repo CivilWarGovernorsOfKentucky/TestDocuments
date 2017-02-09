@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0509"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Jackson McClain and N. G. Standley to James F. Robinson</title>
+    <title level="a" type="parallel">CWG8961</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Governor's Official Correspondence File, Petitions for Pardons, Remissions, and Respites, 1862-1863</collection>
+      <idno>R4-312</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Henderson, Henderson County, Kentucky</placeName>
+    <date when="1863-08-10">10 August 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Henderson Ky, <date when="1863-08-10">Aug 10<hi rend="sup">th</hi> 1863</date>,
+<lb/>To His Excellency The Governor of Kentucky:
+<lb/>Sir:</p>
+<p>Your petitioners respectfully represent that they were the sureties of Decins Priest Sheriff of Henderson County, in his Revenue Bond for the year <date when="1861">1861</date>, that a judgment has been rendered against them in the Franklin Circuit court, for the balance of the revenue for that year remaining unpaid, being for five or six thousand dollars, and also for the sum of two thousand six hundred &amp; fifty dollars &amp; 96 cts, damages -- The said Priest is a man of but limited means, and in addition to the foregoing has other liabilities as sheriff, for which these petitioners are responsible. They will have the judgment for the revenue to pay, as doubtless large amounts in other liabilities, and will doubtless suffer large losses thereby, They are willing to make the Commonwealth whole, by paying the balance of the revenue and interest, but they respectfully represent that the payment of the damages theron would be a great hardship to them -- They therefore respectfully petition your excellency to remit the amount of the said damages. And they will ever pray -- </p>
+<p>Respectfully &amp;c,
+<lb/>Jackson M<hi rend="sup">c</hi>Clain
+<lb/>N, G, Standley<pb/></p>
+<p>Frankllin Cir. Ct
+<lb/>$2,650 96 } Damages
+<lb/>Damages remitted
+<lb/>J F Robinson
+<lb/>Decins Priest 
+<lb/>Sheff Henderson Co
+<lb/><date when="1861">1861</date>
+<lb/>Iss<hi rend="sup">d</hi> <date when="1863-08-28">Aug 28 1863</date></p>
+  </body>
+ </text>
+</TEI>

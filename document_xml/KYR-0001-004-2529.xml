@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2529"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Elizabeth Miller to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7166</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR16-46 to BR16-47</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Mercer County, Kentucky</placeName>
+    <date when="1865-10-18">18 October 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency
+<lb/>Thomas E. Bramllette Governor of Kentucky.</p>
+<p>Your Petitioner Elizabeth Millier would represent, that at the <gap/> Term of the Mercer Circuit Court, <date when="1862">1862</date>. one William H. Miller was tried upon an Indictment for carrying concealed deadly weapons, found guilty, and a fine of $80,, assessed against him. Also at the same Term of said Court, said W. H. Miller was tried upon an Indictment, for a tresspass, committed upon a Slave, the property of Doctor Abell, and fined the sum of $250,, -- Exectuions were issued upon both of said Judgments, in due time, and upon <date when="1862-07-15">15<hi rend="underline"><hi rend="sup">th</hi></hi> July 1862</date>. both of said Executions, were replevied by H. C. Miller, deceased, lately the husband of your Petitioner, as Security in the Replevin Bonds. Said W. H. Miller has squandered the most of his property. Now the Commonwealth is seeking to collect the amount of said two Judgments, and Replevin Bonds, off of the Estate of her late husband greatly to her injury; She says it is true that her said husband was not present at, and nowise implicated in the Commission of either of said offences, and his estate ought not to pay the fine therefor. Wherefore she asks that said fines may be remitted. -- <pb/></p>
+<p>Elizabeth Miller says, the statements of the foregoing Petition, she believes to be true.
+<lb/><date when="1865-10">October <gap/> 1865</date>.</p>
+<p>Elizabeth Miller</p>
+<p>Sworn to By Elizabeth Miller before me this <date when="1865-10-18">October 18th 1865</date></p>
+<p>L, H, Sea Deputy Clk M C</p>
+<p>We the Undersigned, Respectfully Petition Your Excellency to Grant the Prayer of the foregoing Petition.</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Richard Board Clerk
+<lb/>Mercer Circuit Court
+<lb/>J<hi rend="underline"><hi rend="sup">no</hi></hi> R. Duncan
+<lb/>Rich<hi rend="sup">d</hi> J <hi rend="underline">Browne</hi>
+<lb/>J. P. Barbour clk
+<lb/>Washington Ct Ct.
+<lb/>John M<hi rend="sup">c</hi>Intire P J, M, C, C
+<lb/>John Smith Late Pro Marshal Washington County Ky
+<lb/>C R Craycroft
+<lb/>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> R Phelps
+<lb/>E L Davison
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> J. Robertson
+<lb/>R. G. Mitchell
+<lb/>J W <hi rend="underline">Rinehart</hi>
+<lb/>Geo. D, Robertson
+<lb/><cb n="2"/>John R. Thomas
+<lb/>C. S. Abell the owner of the boy Tom.
+<lb/><hi rend="underline">J. W. Cardwell</hi>
+<lb/>Sam<hi rend="sup">l </hi>Wingfield P, M,
+<lb/>E J Polk
+<lb/>The. B Spalding
+<lb/><hi rend="str">W R Casey</hi>
+<lb/>W R Casey
+<lb/>H L M<hi rend="sup">c</hi>Elroy
+<lb/>Palmer, Grundy
+<lb/>Geo Clements
+<lb/>Anthony M<hi rend="sup">c</hi>Elvoy<pb/>
+<lb/><milestone unit="column" n="1"/>R. S. Peters Trustee Jury fund Washington County Ky.<pb/></p>
+<p>Mercer Cir Ct
+<lb/>vs
+<lb/>W<hi rend="sup">m</hi> H Miller
+<lb/>2 judgts
+<lb/>$80. concealed ^weapons^
+<lb/>$250. Trespass</p>
+<p>Remit as to H. C. Miller &amp; his Representatives &amp; release them from penalty on Replevin bond -- 
+<lb/>T E B
+<lb/><date when="1865-12-09">9<hi rend="sup">th</hi> Dec /65</date></p>
+<p>Send to R. S. Peters
+<lb/>Springfield Ky</p>
+  </body>
+ </text>
+</TEI>

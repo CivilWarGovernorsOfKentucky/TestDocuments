@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0222"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">D. W. Johns to Harrison Taylor</title>
+    <title level="a" type="parallel">CWG1887</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Appointments by the Governor, Civil Appointments, 1863-1867</collection>
+      <idno>BR2-83</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Catlettsburg, Boyd County, Kentucky</placeName>
+    <date when="1864-05-28">28 May 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Catlettsburg Ky
+<lb/><date when="1864-05-28">May 28<hi rend="sup">th</hi> 1864</date>
+<lb/>Harison Taylor Esqr.
+<lb/>Speaker of the House of Representatives of Kentucky
+<lb/>Sir</p>
+<p>Intending to leave the state in a few days I hereby tender my resignation as the Representative of the counties of Lawrence and Boyd in the Kentucky Legislature</p>
+<p>Yours Respectfully
+<lb/>D. W. Johns</p>
+<p>Maysville Ky <date when="1864-07-08">July 8<hi rend="sup">th</hi>, 1864</date>
+<lb/>Mr. Sec. of State</p>
+<p>A short time since the above resgination of D. W. Johns, refr. from Boyd &amp; Lawrence was rec<hi rend="sup">d</hi> by me. I forward it to your office, thinking perhaps that Johns had neglected to apprize the proper Department<pb/>
+<lb/>of his resignation</p>
+<p>I am most respectfully
+<lb/>Your Obt Sevt.
+<lb/>H. Taylor</p>
+<p>Resignation of D W Johns
+<lb/>Rec<hi rend="sup">d</hi>
+<lb/><date when="1864-07-12">12<hi rend="sup">th</hi> July/64</date></p>
+  </body>
+ </text>
+</TEI>

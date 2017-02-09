@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2173"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">A. R. Boon et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6810</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR14-409</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Graves County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency Tho<hi rend="underline"><hi rend="sup">s</hi></hi> E. Bramlette
+<lb/>Govenor of Kentucky</p>
+<p>Your petitioners respectfully represent that at the <date when="1862-11">November term of the Graves Circuit Court 1862</date> William ,W, Sanderson was fined fifty dollars for Breach of the Peace also fifteen dollars for the Same offence Said Sanderson has behaved himself as a peacible quiet law abiding Citizen for the last two years, he has been badly and permanently cripled and has a wife &amp; five children to Support and is very poor, has not the means or property to pay said fines we therefore most earnestly request your Excellency to Remit both of said fines.</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>A. R. Boon
+<lb/>Ervin Anderson
+<lb/>B, C, Howard
+<lb/>T. J. <unclear>Puryear</unclear>
+<lb/>H. Smith
+<lb/>Thos J Jones
+<lb/>J, A, M<hi rend="underline"><hi rend="sup">c</hi></hi>Nutt
+<lb/>A, B, Gardner
+<lb/>W, B, Gee -- 
+<lb/>N, M, Morse
+<lb/><cb n="2"/>R, K, Williams
+<lb/>D M Gallaway S G C
+<lb/>W. A. Turner Cir. Clk
+<lb/>D,, W,, Brdley
+<lb/><hi rend="underline">J,, B,, Cochran</hi>
+<lb/>S. A Walker
+<lb/>W. H. Bruce
+<lb/>L F Beadly
+<lb/>R A Mayes
+<lb/>David Venable
+<lb/>John A. Mayes<pb/>
+<lb/><milestone unit="column" n="1"/>R. Rowland
+<lb/>H E Jones
+<lb/>J. R. Hurt
+<lb/>J. B. Hurt
+<lb/>M. Skinner
+<lb/>S Dallam
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> H. Miller</p>
+<p>Ephraim Vanwinkle these petitioners are good men and Billy Sanderson is really in distress, hand this to the Govenor quick and give him a good impression and get this remission</p>
+<p>yr friend
+<lb/>Williams</p>
+<p>Graves Cir Ct
+<lb/>vs
+<lb/>W<hi rend="sup">m</hi> W Sanderson
+<lb/>$50.
+<lb/>$15.
+<lb/>Remitted <date when="1865-08-04">4th <hi rend="str">Jl</hi>Aug/65</date></p>
+  </body>
+ </text>
+</TEI>

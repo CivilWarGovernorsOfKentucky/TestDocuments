@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0209"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">A. G. Roberts et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG1874</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Appointments by the Governor, Civil Appointments, 1863-1867</collection>
+      <idno>BR2-65</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1864-05-23">23 May 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency Gov Bramlett</p>
+<p>Your petitioners would Reppresent that they labor under grate inconvienance on account of having no Justice of the peace in their district that they live in Dis No 3 of Shelby County known as the Christainburgh Dis that one of there Justices of the peace to wit J C Stedman moved to the county of Henry thereby locating his office &amp; Cary White the other has died we therefor Ask you to appoint two sutible men for said office &amp; we sujest the name of Henry Bohannon &amp; John S Farmer</p>
+<p>A G Roberts</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>John W. Eakins
+<lb/>C. C. Sacrey
+<lb/>Peter Vardeman
+<lb/>T. J. Montgomery
+<lb/>Az Montgomery
+<lb/>P. B. Broddly
+<lb/>H Cordiman for Bohannon
+<lb/>Thos D Johnson
+<lb/>Jas S Vardiman
+<lb/>T. M. Johnson
+<lb/>Wm Vardeman
+<lb/>J. B. Rudford
+<lb/>Stephen Marten
+<lb/>J. S. Baskett
+<lb/><cb n="2"/>R. H. Dodson
+<lb/>W. C. Harkette
+<lb/>T. Vardiman
+<lb/>Samuel Poter<milestone unit="column" n="1"/><pb/></p>
+<p>A G Roberts states that the statement contained in the within pet are true</p>
+<p>A G Roberts</p>
+<p>Sworn to before me by A G Roberts this <date when="1864-05-23">23d day of May 1864</date></p>
+<p>Henry Bohannon Es<hi rend="sup">r</hi>
+<lb/>for Shelby County.</p>
+<p>Secty of State
+<lb/>Enquire as to this of Hon Z Wheat</p>
+<p>Shelby Co
+<lb/>Justices Peace
+<lb/>Henry Bohannon &amp; Jas S. Baskett
+<lb/>appt<hi rend="sup">d</hi>
+<lb/><date when="1864-05-31">31<hi rend="sup">st</hi> May/64</date></p>
+  </body>
+ </text>
+</TEI>

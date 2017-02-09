@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0020"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">William Alexander to James W. Tate</title>
+    <title level="a" type="parallel">CWG2368</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Civil Appointments, 1859-1862</collection>
+      <idno>MG3-365</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Brandenburg, Meade County, Kentucky</placeName>
+    <date when="1860-11-30">30 November 1860</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Brandenburg <date when="1860-11-30">Nov 30<hi rend="sup">th</hi> 1860</date>
+<lb/>Ja<hi rend="sup">s</hi>. W Tate Esqr
+<lb/>D<hi rend="sup">r</hi> Sir</p>
+<p>Yours of the <date when="1860-11-27">27<hi rend="sup">th</hi></date> is before me I wrote the Gov<hi rend="sup">er</hi> in a hurry just as our Sheriff was starting for Frankfort, and entirely forgot to state the names of the resigning magistrates, &amp; N<hi rend="sup">o</hi> of District. I will now do so, District N<hi rend="sup">o</hi> 5 Enos Keith &amp; Ja<hi rend="sup">s</hi> F Overton. the magistrates resign<hi rend="sup">d</hi>. I understand M<hi rend="sup">r</hi> Overton will accept at the request of his neighbors if reappointed his resignation has been accepted by the court. and so stands on the record. You will therefore please send Commissions for him &amp; Henry Boohen, to fill the vacancy in District N<hi rend="sup">o</hi> 5.</p>
+<p>Respfy
+<lb/>W<hi rend="sup">m</hi>. Alexander</p>
+  </body>
+ </text>
+</TEI>

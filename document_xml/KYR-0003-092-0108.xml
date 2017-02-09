@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0003-092-0108"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">George W. Johnson to Anne E. V. Johnson</title>
+    <title level="a" type="parallel">CWG14400</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Christina K Adkins</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Historical Society</repository>
+      <collection>George W. Johnson Papers</collection>
+      <idno>Folder 4</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date when="1861-07-08">8 July 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Louisville Ky
+<lb/><date when="1861-07-08">July, 8..1861</date>.
+<lb/>My Dear Ann</p>
+<p>I have been run nearly to death since I got here, and have time now only to write you a few lines -- I think for several reasons for my sons, myself and our camp that I had better go on with <unclear>them</unclear> to Richmond, from which I can return in a very short time. Rest assured I shall be in no danger what ever -- </p>
+<p>My Dear Ann, I hope you will <unclear>improve</unclear> the <unclear>time</unclear> of my absence, to renovate yourself, by cheerful <unclear>excrcis</unclear> and enjoyment with your friends -- Stay a great deal with Eliza. <unclear/> ^must^ <hi rend="str">my</hi> remind my little boys of me daily, and may God Almighty, bless and preserve you</p>
+<p>Yours affectionate Husband
+<lb/>George W. Johnson</p>
+<p>I will arrange to write you from Richmond
+<lb/></p>
+  </body>
+ </text>
+</TEI>

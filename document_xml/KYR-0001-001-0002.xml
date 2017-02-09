@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-001-0002"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Thomas E. Bramlette, Proclamation</title>
+    <title level="a" type="parallel">CWG0852</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Joshua D Farrington</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's Official Correspondence File, Proclamations, 1863-1865</collection>
+      <idno>BR1-367</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1865-04-21">21 April 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Proclamation/Legislation</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>PROCLAMATION.<figure type="hr"/>
+<lb/><figure type="seal"><ab>UNITED WE STAND DIVIDED WE FALL</ab></figure>
+<lb/>Commonwealth of Kentucky,
+<lb/>EXECUTIVE DEPARTMENT,
+<lb/>Frankfort, <date when="1865-04-21">April 21, 1865.</date></p>
+<p>In view of the sad calamity which has fallen upon our country by the assissination of Abraham Lincoln, the President of the United States of America, it becomes us as a people to humble ourselves before a Merciful God, and pray Him that the sin of our people, which has culminated in such great crime, be forgiven, and we purged from our iniquity, and be again restored to His favor, and to peace and unity amongst ourselves.</p>
+<p>For this purpose, Thursday, the <hi rend="str">4th</hi> <date when="1865-06-04">^1st^ day of <hi rend="str">May</hi> ^June^, 1865,</date> is hereby appointed as a day of Fasting, Humiliation, and Prayer.</p>
+<p>On that day the people of Kentucky are invoked to suspend all secular business, and, at the usual hour for service, attend their respective places of worship, and engage in the solemn and earnest observance of the day as one for humiliation before God, and prayer for His forgiving mercy and sustaining grace, in this our day of affliction.</p>
+<p>THOS. E. BRAMLETTE, Governor of Kentucky.<pb/></p>
+<p>Proclamation
+<lb/><date when="1865-04-21">21<hi rend="sup">st</hi> Apl/65</date></p>
+  </body>
+ </text>
+</TEI>

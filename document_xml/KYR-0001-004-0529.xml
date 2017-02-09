@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0529"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">William Stigall to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG4648</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR9-337 to BR9-338</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Rockcastle County, Kentucky</placeName>
+    <date when="1864-02-15">15 February 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excelency Tho. E. Bramlette</p>
+<p>Your petitioner W<hi rend="underline"><hi rend="sup">m</hi></hi> Stigall states that he was fined $60 &amp; cost at the <date when="1863-08">august term Rockcastle Circuit Court 1863</date>. for keeping a tipling house in Mt Vernon Ky in the year 1861 He states that in the early part of that year he was engaged in retailing Liquors under regular License from the County Court obtained by Tho J Smith then regular Hotell Keeper in said Town and at the experation of said License in <date when="1861">1861</date> he had on hands a small quantity of Liquor &amp; proceeded and did sell beyonnd the end of the time for which said License issued for</p>
+<p>He states that at the time Smiths License run out he then intended in good faith to procure further License to retail in his own name but the present Rebellion about that time grew so strong &amp; dangers by the envading enemy in this portion of Ky. that he before haveing a chance to procure further legal right to sell, he declined to take out or apply for further License and during the short space of time between The end of Smiths License and the time he declined to further retail he sold The Liquor for which the afsd fine &amp; cost was imposed. He states that in as much as he intended in good faith to procure further legal right to sell and being hindred by an invading enemy as afsd; he thinks the fine was wrongfully assessed against him, wherfore he most humbly appeals to your Exelency to remit said fine or that portion of same within the power of the Executive to remit</p>
+<p>W<hi rend="underline"><hi rend="sup">m</hi></hi> Stigall</p>
+<p>Sworn to before me by Wm Stigall <date when="1864-02-15">15<hi rend="underline"><hi rend="sup">th</hi></hi> day February 1864</date></p>
+<p>E T Fish clk
+<lb/>Rockcastle Circuit Court
+<lb/>Ky<pb/></p>
+<p>Refused
+<lb/>Tho E Bramlette</p>
+<p>Rockcastle Co
+<lb/>Refused
+<lb/><date when="1864">64</date></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2097"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Commonwealth of Kentucky v. David Owens, Judgment</title>
+    <title level="a" type="parallel">CWG6734</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR14-304</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Pulaski County, Kentucky</placeName>
+    <date when="1865-07">July 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Pulaski Circuit Court
+<lb/><date when="1865-07">July Term 1865</date>
+<lb/>The Commonwealth of Ky Pltff
+<lb/>against } Judgment
+<lb/>David Owens Deft</p>
+<p>This day the Defendant David Owens appeared in Open Court and confessed a Judgment in the above Styled cause for the Sum of $10= and costs</p>
+<p>It is ^adjudged &amp;^ Ordered by the Court that the Pltff recover of the defendant David Owens the Sum of Ten dollars fine and the costs herein Expended for which his body may be taken &amp;C</p>
+<p>A Copy attest
+<lb/>J. E. Cosson C P C C</p>
+<p>And after wards David Owens paid me the Judgt above Ten dollars and its costs</p>
+<p><hi rend="underline">J. E. Cosson C P Circuit Court</hi><pb/></p>
+<p>Commonwealth
+<lb/>vs } Copy of Judgment
+<lb/>David Owens</p>
+  </body>
+ </text>
+</TEI>

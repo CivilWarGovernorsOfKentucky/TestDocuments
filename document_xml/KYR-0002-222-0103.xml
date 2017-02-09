@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-222-0103"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Samuel G. Suddarth, Receipt to Steam Boat H. M. Childs</title>
+    <title level="a" type="parallel">CWG13792</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>Misc. QM Expenditures, 1863-1865</collection>
+      <idno>QMG Box 10; Folder 1865 Transportation, Ordinance (Stores), Arsenal, Postage, Subsistence/Forage, Contingencies; Left Stack</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1863-03-18">18 March 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>No. 22.<figure type="hr"/>
+<lb/>The <hi rend="str">United States:</hi> State of Kentucky
+<lb/>To S. B H M Childs Dr</p>
+<p><table rend="rules">
+<row>
+	<cell><date when="1865">1865</date></cell>
+	<cell/>
+	<cell>DOLLARS.</cell>
+	<cell>CTS.</cell>
+</row>
+<row>
+	<cell><date when="1865-02-20">Feb 20</date></cell>
+	<cell>For Transporting Ten (10) Prisoners of war from Paintsville Ky to Louisa Ky 30 Miles 2¢/mi</cell>
+	<cell>6</cell>
+	<cell>00</cell>
+</row>
+<row>
+	<cell><date when="1864-02-20">"</date></cell>
+	<cell>For Transporting Capt Alex Nichols Co and Forty Three ^43^ Privates from Paintsville Ky to Catlettsburgh Ky 75</cell>
+	<cell>48</cell>
+	<cell>40</cell>
+</row>
+<row>
+	<cell/>
+	<cell>For Transporting Capt J B Hutchison Co. L" Cols and Forty one (41) privts from Louisa Ky to Catlettsburgh Ky 30</cell>
+	<cell>20</cell>
+	<cell>50</cell>
+</row>
+<row>
+	<cell/>
+	<cell/>
+	<cell>$74</cell>
+	<cell>90</cell>
+</row>
+</table></p>
+<p>C. A. Finnegan
+<lb/>Maj. Comg 1<hi rend="underline"><hi rend="sup">st</hi></hi> Batt. C. G.</p>
+<p>I Certify, that the account is correct and just; that the services were rendered as stated; and that they were necessary for the public service.</p>
+<p>J,, B,, Maynard Lieut 
+<lb/>&amp; A. B.. Quartermaster <hi rend="str">1st Ky</hi> 
+<lb/>1<hi rend="underline"><hi rend="sup">st</hi></hi> Bat C. G. Ky</p>
+<p>Received at Frankfort Ky the <date when="1865-03-18">18 day of March 1865</date> of S. G. Suddarth, Quartermaster <hi rend="str">U.S. Army</hi> ^Genl of Ky^, the sum of Seventy four dollars, and ninety cents, in full of the above account.</p>
+<p>[SIGNED IN TRIPLICATES.]</p>
+<p>J N Walkinford clerk
+<lb/>S. B. H. M. Childs<pb/></p>
+<p>No. 22.<figure type="hr"/>
+<lb/>No. 26 Abstract B.<hi rend="sup">2</hi> 
+<lb/><date when="1865-03-18">March 18<hi rend="underline"><hi rend="sup">th</hi></hi> 1865</date>.<figure type="hr"/>
+<lb/>Steamer H M Childs
+<lb/>Dollars 74 <hi rend="sup">90</hi>/<hi rend="sub">100</hi>
+<lb/>Paid <date when="1865-03-18">18 of March 1865</date>.
+<lb/>Transportation
+<lb/>231</p>
+  </body>
+ </text>
+</TEI>

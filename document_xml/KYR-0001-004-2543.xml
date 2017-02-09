@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2543"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John F. Wills et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7180</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR16-67</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1865-10-12">12 October 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency Thomas E Bramlette Governor of Kentucky -- </p>
+<p>The undersigned <hi rend="str">pet</hi>citizens of Anderson County believing that the case of W<hi rend="sup">m</hi> Vaughan, found guilty of gaming at the last <date when="--05">May</date> Term of the Anderson Circuit Court, and fined $20. is one deserving executive clemency, respectfully ask that his fine be remitted
+<lb/><date when="1865-10-12">Oct 12<hi rend="sup">th</hi> 1865</date></p>
+<p>John F Wills
+<lb/>W, H, Sneed
+<lb/>John Draffen
+<lb/>O. C Egbert
+<lb/>M. V. Royalty
+<lb/>John M<hi rend="sup">c</hi>Call
+<lb/><hi rend="underline">G. W. Mathews</hi>
+<lb/>James Saffell</p>
+<p>M<hi rend="sup">r</hi> Saffell, left this petition with me and says that the fine ought to be remitted that the party is not a gambler that he is poor a good work man &amp; was the victim of political hostility this is his statement to me</p>
+<p>E L VanWinkle</p>
+<p>J R Page</p>
+<p>M<hi rend="sup">r</hi> Saffell will pay the fee mail remission to Saffell</p>
+<p>E L V<pb/></p>
+<p>Anderson Ct Ct
+<lb/>vs
+<lb/>Pet.
+<lb/>W<hi rend="sup">m</hi> Vaughn<figure type="hr"/>
+<lb/>$20,
+<lb/>Gaming
+<lb/>Remit
+<lb/><date when="1865-11-09">9<hi rend="sup">th</hi> Nov /65</date></p>
+<p>Send to J. Saffell
+<lb/>Lawrenbrg</p>
+  </body>
+ </text>
+</TEI>

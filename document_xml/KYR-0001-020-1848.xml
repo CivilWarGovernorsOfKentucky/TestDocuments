@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1848"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Granville Frazier to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG11316</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Bradley Strait</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG23-240</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Exellency the Governor of the Commonwealth of Kentucky </p>
+<p>Your Petitioner, Granville, Frazier, states that at the <date when="1861-04">Apl, Term 1861</date>, of the Lawrence circuit Court, there was a judgment, rendered against him for the sum of $20, &amp; cost, for the offence of retailing, he states, the fine on him is very oppressive, having a very large family of helpless children, to provide for by his labuor alone, he also states he is poor, and a cripple he also promises and pledges, that he will not offend in the future by having anything to do, in the sale of ardent spirits, owing to the great scarcity in the money matters, if the whole of the fine has to be paid, he fears it will amount, to the imprisonment of your petitioner, and cause his family to suffer, he hopes your excellency will interpose, in his behalf, and do in duty he will ever &amp;c</p>
+<p>Granville Frazier</p>
+<p>we the undersigned state that we are well acquaited with, the petitioner Granville Frazier, and know he is a poor man has a large family, and but little means to support them, that he is a cripple, and we do hope your exellency will interpose, and relieve <note place="footer">over</note><pb/>
+<lb/>him from the fine, &amp; will ever &amp;c</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>petitioners Names
+<lb/>H. W. Noris
+<lb/>N W foster
+<lb/>William J Poteet
+<lb/>D. Shine
+<lb/>Joseph Wells
+<lb/>G A Dudley 
+<lb/>G <unclear>Gobles</unclear> 
+<lb/>L P M<hi rend="sup">c</hi>brayer
+<lb/>Reese Bryon 
+<lb/>Thomas P<unclear/>
+<lb/>H. M. Honaker 
+<lb/>F. H. Bruning,
+<lb/><cb n="2"/>petitioners Names
+<lb/>Ja<hi rend="sup">s</hi>. M. Rice<milestone unit="column" n="1"/></p>
+<p>Granville Frazier 
+<lb/>To } Petition 
+<lb/>Gov<hi rend="underline"><hi rend="sup">r</hi></hi> Maggoffin</p>
+<p>Remitted B. M.
+<lb/><hi rend="str">also J. C. Fraizier (respected) remitted</hi> 
+<lb/>B. M</p>
+<p>Lawrence 
+<lb/>Cir. Ct
+<lb/>$20 } Liquor 
+<lb/>Iss<hi rend="sup">d</hi> <date when="1862-04-24">Apr 24 1862</date></p>
+  </body>
+ </text>
+</TEI>

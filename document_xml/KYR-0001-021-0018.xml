@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-021-0018"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">J. R. Garland to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG3088</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Apprehension of Fugitives from Justice Papers, 1859-1862</collection>
+      <idno>MG8-99</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Clarksburg, Lewis County, Kentucky</placeName>
+    <date when="1861-02-25">25 February 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Clarksburg Lewis Co Kentucky
+<lb/><date when="1861-02-25">Feby 25<hi rend="sup">th</hi> 1861</date>
+<lb/>His Excellency B. Magoffin governor of Kentucky</p>
+<p>Your petitioner would here state that on the knight of the <date when="1861-02-12">12th instant</date> one Samuel McRoberts broke the Jail of this county and has fled from Justice and is still running at large said McRoberts has been Indited by the Gand Jury of ^this^ county for horse stealing some time since -- he is despirate man having broken some several Jails before he broke the Jail of Mason &amp; Fleming countys, and it is very necessary he should be brought to Justice. I would therefore petition your Excellency to offer a reward for the apprehention of said McRoberts that he may be dealt with according to law, this ^is^ one of the most Extreme cases in all my knowledge and I think it very necessary that there should be some thing of that kind done in order to protect person &amp; property</p>
+<p>I herewith send you a letter writen to me by C<hi rend="underline"><hi rend="sup">ol</hi></hi> R. H. Stanton the district atto for this Judicial district</p>
+<p>Please grant this favor and oblige the Citizens of this community</p>
+<p>Yours Respecty
+<lb/>J. R. Garland Judge
+<lb/>of this Lewis county court</p>
+  </body>
+ </text>
+</TEI>

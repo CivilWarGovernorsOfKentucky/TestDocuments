@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0830"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">N. H. Emberton et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10298</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG19-306</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Tompkinsville, Monroe County, Kentucky</placeName>
+    <date when="1861-03-18">18 March 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Monroe Circuit Court
+<lb/>Geo W. Lee
+<lb/>Judgt $200</p>
+<p>Remitted
+<lb/>B. M.</p>
+<p>Tompkinsville Ky
+<lb/><date when="1861-03-18">March 18<hi rend="sup">th</hi> 1861</date></p>
+<p>To His Excellency
+<lb/>The Hon<hi rend="underline"><hi rend="sup">l</hi></hi> B M<hi rend="sup">c</hi>Goffin
+<lb/>Gov &amp;C</p>
+<p>The undersigned would most respectfully Show to your excellency that at the <date when="1860-04">April term 1860</date> of the Monroe Equity and criminal court the, Commonwealth of Kentucky obtained a Judgt against <hi rend="str">him</hi> George. W. Lee for $200. on a bond forfeited by J R F Lee who was charged with a felony said G. W. Lee has petitioned your excellency to release all of same except Costs &amp;c and your excellency was kind enough to stay it 12 months said Lee in his petition which he now refers you to sets out all the facts he is a cripple &amp; will be for life is poor and wholy unable to Labor and we do think if there is a case in your state that deserves the merciful interposition of your excellency it would be his it will meet the approbation and hearty approval of the citizens of this county generally to now remit said sum or so much as you can we hope you will release him</p>
+<p>Yours truly -- </p>
+<p><milestone unit="column" n="2"/><cb n="1"/>N, H, Emberton
+<lb/>J, W, Murphey
+<lb/>J B Evans
+<lb/>John B. Carter
+<lb/>C. T. Bailey
+<lb/><cb n="2"/>W. P. Witcher
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> S Maxey.
+<lb/>J,, H, Conkin
+<lb/>H Emmert
+<lb/>J, W,, Stewart,
+<lb/>Isaiah. Fitzgerald<pb/>
+<lb/><milestone unit="column" n="1"/>Saml. Martin
+<lb/>T C Flagan
+<lb/>J L A J Duncan
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi>. C. Wax
+<lb/>Bennett Spear J<hi rend="underline"><hi rend="sup">r</hi></hi>
+<lb/>P M Andbern
+<lb/>J, W, Courts
+<lb/>William M<hi rend="sup">c</hi>murtrey
+<lb/>William M. Stevens
+<lb/>J, Butler
+<lb/>M Jinkins
+<lb/>S F Drake
+<lb/>Jarvis Eler
+<lb/>L A Smithwick
+<lb/>E D Maxey
+<lb/>George Bushong
+<lb/>L P Hamner
+<lb/>T B Walden
+<lb/>N, B, Chinn
+<lb/>William Baldock
+<lb/>J. P. Hayon
+<lb/>Richard <unclear/>
+<lb/>W B. <unclear/>
+<lb/>Q A <unclear/>
+<lb/>W<hi rend="sup">m</hi> Taylor
+<lb/>Jonas acfuss
+<lb/>L P <hi rend="str">o</hi> Harner
+<lb/>Eanock ford
+<lb/>Tomas Hagon
+<lb/>Wm. Ford
+<lb/>W F Evans jr
+<lb/>T J Ford
+<lb/><cb n="2"/>W<hi rend="sup">m</hi> A Thomas
+<lb/>B C Ford
+<lb/>B Ford
+<lb/>grant Ford
+<lb/>W<hi rend="sup">m</hi> G Chism
+<lb/>Thomas Evans
+<lb/>Elisia Harlam
+<lb/>William C Jekins
+<lb/>J H Jackson
+<lb/><unclear/> compton
+<lb/>Milton Berry
+<lb/>William <unclear/>
+<lb/>J, L, Erlington
+<lb/>Wm T Hammer
+<lb/>Jordan White
+<lb/>John Lyon
+<lb/>J. Butler
+<lb/>J W Stein
+<lb/>Y Sailsbary
+<lb/>G,, B, Harling
+<lb/>R J Maxy
+<lb/>E W Hammer
+<lb/>A H Maxey
+<lb/>L Peck</p>
+  </body>
+ </text>
+</TEI>

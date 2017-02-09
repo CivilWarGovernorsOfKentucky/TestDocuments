@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0743"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">W. E. Arthur to T. F. Marshall</title>
+    <title level="a" type="parallel">CWG10211</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG19-157 to MG19-158</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Covington, Kenton County, Kentucky</placeName>
+    <date when="1861-03-21">21 March 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Covington Ky <date when="1861-03-21">March 21<hi rend="underline"><hi rend="sup">st</hi></hi> 1861</date>
+<lb/><hi rend="underline">T. F. Marshall Esq</hi>
+<lb/>My Dear Friend</p>
+<p>Enclosed I send you certified copy of the the Indictment in the case of Com'th vs Cokendoffer in the Bracken Circuit Court with the view of moving the Governor through for the grant a pardon. You recollect that I conferred with you and with other prominent gentlement of the Bracken Bar in <date when="--02">the Month of February last</date> and the opinion was concurred in this the case was one for Executive Clemency.</p>
+<p>Cokedoffer was Indicted for Horse Stealing in <date when="1856">1856</date>. One Mrs Fields was the owner of the Horse. Some years ago she removed from this Com'th west. I believe <unclear/> Illinois or Missouri. There could be no convictions without her evidence and she is beyond the reach of process.</p>
+<p>Cokendoffer is a young man- the above is believed to be his first &amp; only crime. he has been absent from Kentucky for years during it the Indictment. His parents are very old and I am told very ex<hi rend="str">emplelary</hi>emplary. They have been beseeching me<pb/>
+<lb/>for many months to ask the Executive to pardon him. They beg to have their only son with them for the short remnant of their lives.</p>
+<p>The Indictment was filed only a year or two ago in my motion. but at accued is liable to be arrested if he returns to the com'th and <hi rend="str">is</hi> he is therefore banished forever from the site of his aged &amp; declining parents. I have yielded to the earnest appeals of the good people and I think the Governor might to pity them and to bid the prodigal to come home to his Fathers house.</p>
+<p>Be so good as to wait upon the Governor at your earliest conveinience and persuade him of the fact that in mercy of the Executive could be bestowed upon no fitter objects than those good old people and their erring but repentant son</p>
+<p>If the Governor shall pardon him please enclose the pardon to me and I will see it propertly <hi rend="str">filed</hi> <hi rend="str">a</hi> delivered to the old people.</p>
+<p>My best wishes for your health and distinction. I suppose you will Soon adjourn. I will be extremely glad to see you at my house on your <hi rend="str">my</hi> way home. Let me hear from you</p>
+<p>Sincerly your Friend
+<lb/>W. E. Arthur<pb/></p>
+<p>Rejected
+<lb/>B M
+<lb/>Bracken Cir Ct
+<lb/>Jno. Cockendoffer</p>
+  </body>
+ </text>
+</TEI>

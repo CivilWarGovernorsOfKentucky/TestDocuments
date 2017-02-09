@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0766"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">James R. Hallam to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10234</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG19-193</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Newport, Campbell County, Kentucky</placeName>
+    <date when="1861-03-15">15 March 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Newport Ky
+<lb/><date when="1861-03-15">March 15<hi rend="sup">th</hi> 1861</date>
+<lb/>Gov. Magoffin
+<lb/>Dear Sir:</p>
+<p>I have known Joseph Temple lately convicted of false swearing in the Kenton Circuit Court, for nine years past. He is an old man now upwards of sixty years of age &amp; has a large &amp; interesting family, hitherto highly respectable. I heard a portion of the evidence in the trial, &amp; feel satisfied from my knowledge of the man as well as the evidence heard by me that he could not have been <hi rend="underline">wilfully</hi> guilty of the offense, though what he stated on oath may have been untrue. His confinement in the penitentiary, I believe would mark the ruin of his family. The public sentiment both of Covington &amp; Newport is one of sympathy -- the like of which I never before saw -- for the unfortunate man &amp; his family. I join in the application for the immediate exercise of Executive Clemency in Mr. Temple's case</p>
+<p>Very respectfully
+<lb/>James R. Hallam<pb/></p>
+<p>Gov. Magoffin
+<lb/>Frankfort
+<lb/>Ky.
+<lb/>pr Col. Hodge</p>
+  </body>
+ </text>
+</TEI>

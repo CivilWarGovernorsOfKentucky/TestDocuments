@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0199"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">James Simpson et al. to James F. Robinson</title>
+    <title level="a" type="parallel">CWG8651</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Governor's Official Correspondence File, Petitions for Pardons, Remissions, and Respites, 1862-1863</collection>
+      <idno>R3-302 to R3-303</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Clark County, Kentucky</placeName>
+    <date when="1863-01-30">30 January 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>His Excellency the Governor of Kentucky</p>
+<p>Your Petitioners, some of the Union men of Clark County, and the neighbors of Fielding M. Bush, would represent, that the said Fielding M Bush is Indicted in the Clark Circuit Court <hi rend="underline">for</hi> <hi rend="underline">treason</hi>, that he has been, as they understand with the confederate army, but has become satisfied that he was engaged in a bad cause, has returned home to Clark County the place of his residence, surrendered himself to the Military Authorities, and been discharged from custody on taking the oath of allegiance to the Government of the United States. Under these circumstances, and believing as your petitioners do, that the young men or our state, who have been deluded into the Confederate service, and have become sensible of their error, and wish to return home, and remain there as orderly and peaceable citizens, should be encouraged to do so, by the pardon of their offense, they petition your Excellency to exercise the executive clemency in favor of said Fielding M Bush who is a young man.</p>
+<p><date when="1863-01-30">January 30<hi rend="underline"><hi rend="sup">th</hi></hi> 1863</date></p>
+<p><milestone unit="column" n="2"/><cb n="1"/><hi rend="underline">James</hi> <hi rend="underline">Simpson</hi>
+<lb/>R N Winn
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Winn
+<lb/>J D Laughlin
+<lb/>H G Poston
+<lb/>Chas Poston
+<lb/>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> H. Moore
+<lb/>C, W, Capps
+<lb/>Willis F. Martin
+<lb/>John W Redmon
+<lb/><cb n="2"/>W, E, Reed
+<lb/>Ja<hi rend="sup">s</hi> P Glass
+<lb/>R C Nicholas
+<lb/>Alf<hi rend="underline"><hi rend="sup">erd</hi></hi> Patrick
+<lb/>C. W. Martin
+<lb/>S Trowbridge
+<lb/><hi rend="underline">John W. Bean</hi></p>
+<p>The Gentlemen whose names are signed above are reputable men &amp; loyal citizens -- Their statement of fealty should receive great consideration &amp; is entitled to full credence.</p>
+<p>A H Buckner<pb/>
+<lb/><milestone unit="column" n="1"/>J. R. Lyddane
+<lb/>W S West
+<lb/>M B Berry
+<lb/>Jeremiah Burk
+<lb/>Peter Evans Sr
+<lb/>Jerry C Robinson
+<lb/>J. B. Thomas
+<lb/>A C Stewart</p>
+<p><unclear/>
+<lb/>Fielding M Bush
+<lb/>Pettn for Pardon
+<lb/>To Be Considered</p>
+<p>It must <hi rend="str"><unclear/></hi> be a very true of precedent to grant the prayers of the pettn</p>
+  </body>
+ </text>
+</TEI>

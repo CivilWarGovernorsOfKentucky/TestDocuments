@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2243"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">W. Brown et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6880</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR15-66</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Nicholasville, Jessamine County, Kentucky</placeName>
+    <date when="1865-08-14">14 August 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Nicholasville. Ky. <date when="1865-08-14">August 14<hi rend="underline"><hi rend="sup">th</hi></hi> 1865</date>.
+<lb/>His Excellency. Thomas. E. Bramlette.
+<lb/>Governor. Of. Kentucky.
+<lb/>Sir.</p>
+<p>Your petitioners respectfully state that at the <date when="--03">march term</date> of the Jessamine Circuit Court. Joseph Chrisman, John. H. Scott, George Lowen and Chilton Lowen were indicted severally for stealing horses. Now whereas your excellency has already pardoned Joseph Chrisman and John H Scott. before conviction we respectfully petition, and ask for your pardon in the case of George Lowen and Chilton Lowen. They are the sons of a poor man and it is believed that if the executive clemency be extended to them, that the past will be a warning and in the future <hi rend="str">the future</hi> their conduct will be that of good citizens.</p>
+<p>Yours. Respectfully.
+<lb/>W. Brown.
+<lb/>John A Willis Clerk Jessamine County Ct -- 
+<lb/>S. Noland clk Jessa Cir ct
+<lb/>J. S. Brouaugh Co atty for Jessamine Co.
+<lb/>Jas H M<hi rend="sup"> </hi>Campbell
+<lb/>Foreman Grand Jury
+<lb/>N Dickerson S. J. C<pb/></p>
+<p>George Lowens Indicted for stealing one hog <date when="1865-03-06">March 6<hi rend="underline"><hi rend="sup">th</hi></hi> 1865</date> of Charlotte Paget.</p>
+<p>George Lowens Indicted for stealing one ^gray^ horse <date when="1865-03-06">March 6<hi rend="underline"><hi rend="sup">th</hi></hi> 1865</date> of James B Davis</p>
+<p>Chilton Lowens indicted for stealing ^and^ receiving a bay mare the property of Moroney Moore knowing the same had been stolen. <date when="1865-03-06">March 6<hi rend="underline"><hi rend="sup">th</hi></hi> 1865</date></p>
+<p>Jessamine Cir Ct
+<lb/>vs
+<lb/>George &amp; Chilton Lowen
+<lb/>Pardoned
+<lb/><date when="1865-08-17">17 Aug./65</date></p>
+  </body>
+ </text>
+</TEI>

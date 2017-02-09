@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0578"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Commonwealth of Kentucky v. Gabriel Weitzel, Transcript</title>
+    <title level="a" type="parallel">CWG4697</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR9-413 to BR9-418</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Be it remembered that when the case came up for trial on the <date when="1863-12-31">31<hi rend="underline"><hi rend="sup">st</hi></hi> day of December 1863</date> before John R. Graham Police Judge of the City of Frankfort, the deft Weitzel appeared and by his counsel moved to quash the warrant against him because the same does not charge an offense within the jurisdiction of this court or any offense known to the laws of the land_ which motion was overuled by the court to which defendant excepted and still excepts. The defendant then demurred to the warrant because it did not state facts Sufficient to constitute an offense against the laws, which being heard, the said demurrer was overuled, and the warrant sustained, to which ruling the defendant excepted and still excepts</p>
+<p>And thereupon both the Commonwealth and the defendants announcing themselves ready for trial came the following jury, towit R W Blackburn, Lewis Crutcher, Charles Featherstone, W T Bacon,<pb/>
+<lb/>H. J. Sheets, Minos Williams, Alex. Snelling, H. S. Ellis, J W Tate Nelson Heffner, James Walston &amp; F D Reddish, who were solemnly sworn to well and truly try the issue, and a true verdict render in this of case of the<hi rend="str">s</hi> Commonwealth and said Weitzel under said warrant.</p>
+<p>The Commonwealth then introduced Robert Aigie, who being examined upon his vocie due by defendants counsel, stated that he <hi rend="str">was</hi> was one of Several persons who, at the instance of the city attorney were engaged in ferreting out sales <hi rend="str">of Negroes</hi>, <unclear/> &amp; <unclear/> of spiritous liquors to slaves and free negroes, and he engaged in that capacity with a view further to &amp; obtain for himself whatever part of the penalty was allowed by the city ordinances of Frankfort as an informed in such cases_ that he communicated to the city attorney the facts set forth in the warrant &amp; he did so as the informer and with the view &amp; expectation<pb/>
+<lb/>of obtaining the informer's portion of any judgment rendered against the defendant in this case_ that he was the informer in this case &amp; expected if the defendant was convicted to get his portion ^(1/4) one fourth^ of the judgment_ Thereupon the deft by his counsel objected to said Aigie being examined as a witness for the Com'th because he was directly interested in the side of the Com'th in producing the conviction of the defendant. The City attorney here read in evidence the following ordinances passed by the Board of Council_ men of the city of Frankfort: on the <date when="1862-07-01">1<hi rend="sup">st</hi> July 1862</date>:</p>
+<p>"Be it ordained by the Board of Councilmen of the city of Frankfort</p>
+<p>$1. That if any person, within the limits of the city of Frankfort shall sell, give or lend to any slave or slaves, of which he is not the owner or hirer for the time being, any spiritous or intoxicating liquor, in any quantity whatever, without the<pb/>
+<lb/>written permission of the owner or hirer of such slave or slaves, he shall upon conviction thereof, be fined one hundred dollars for every such offense_ one fourth to go to the city Attorney, one fourth to the informer and the balance to the city Treasury.</p>
+<p>$2. The fact that a slave was seen to go into any house where liquor is ordinarily sold and come out with liquor, or come out drunk or intoxicated, if he was not in such condition when he went in, shall be deemed sufficient evidence of the guilt of the party accused under the first section; and this ordinance shall be in force from and after its passage.</p>
+<p>G W Gwinn Mayor
+<lb/>Attest
+<lb/>Jno W Batchelor, City Clerk
+<lb/><date when="--07-01">July 1</date>-<date when="--07-03">3</date><unclear/>.</p>
+<p>City ordinance</p>
+<p><hi rend="underline">Selling giving or Loaning Liquor to negroes</hi>.</p>
+<p>Be it ordained by the Board of councilmen of the city of Frankfort That the ordinance of the Board<pb/>
+<lb/><note place="left margin">2</note>
+<lb/>passed <date when="1862-07-01">July 1, 1862</date> in relation to selling giving, or <hi rend="str">loan</hi> lending intoxicating liquors to slaves &amp; c be and the Lawe is hereby sd amended,</p>
+<p>1<hi rend="sup">st</hi> That said ordinance shall apply to free negroes as well as to slaves.</p>
+<p>2<hi rend="sup">d</hi> That the informer in all cases and under all circumstances, shall be a competent witness under said ordinance, and that the reward of one fourth of the penalty which the city gives the informer shall in no wase invalidate his testimony</p>
+<p>3<hi rend="sup">d</hi> This ordinance to be in force from and after its passage.</p>
+<p>By order of the Board
+<lb/>G. W. Gwinn, Mayor,</p>
+<p>Attest:
+<lb/>Jas W Batchelor, City Clerk
+<lb/>Frankfort, <date when="1863-08-18">Aug 18, 1863</date>_3<unclear/></p>
+<p>Thereupon the court decided that said Robert Aigie was a competent witness and overruled said motion to exclude him as a witness to which defendant excepted and still excepts</p>
+<p>Said Aigie then stated further that he was at the defendants tavern in the city of Frankfort on the <date when="--12-07">17<hi rend="sup">th</hi> December</date>_ took a drink himself there_ that while he was there John Berney<pb/>
+<lb/>a free man of color living in Frankfort came, called for a draw of whiskey <hi rend="str">at</hi>- Weitzel the deft. furnished him the whiskey that is a draw, Berney drank it at the bar, paid for it and retired. John Prossel another free negro was with John Berney, &amp; also bought a draw from deft and paid for it. Wietzel keeps tavern and he keeps liquors for sale Berney brought no vessel with him &amp; had nothing with him to take the whiskey away. He asked only for a draw. Jas Aigie stated that he was with Robert Aigie on the occassion<hi rend="str">ed</hi> ^alluded to by him^ &amp; he stated the same facts which the latter did.</p>
+<p><hi rend="str">In</hi> It was admitted in the case by the Commonwealth that the defendant was a regularly licensed &amp; legal tavern keeper_ and was such on the <date when="1863-12-17">17<hi rend="underline"><hi rend="sup">th</hi></hi> December 1863</date>_ <hi rend="str">Here the evidence above and the foregoing was all the evidence in the cause on either side</hi> The witness James Aigie further stated that it was understood between him and his father Robert Aigie that he James Aigie was to get a part of the penalty which would be awarded to said Robert Aigie as informer herein_ that he James was about 16 years.</p>
+<p>The deft moved to exclude<pb/>
+<lb/>from the jury the entire testimony of James and Robert Aigie, on the ground that <hi rend="str">are</hi> in this case they are incompetent witnesses for the Commonwealth_ But the court overruled said motion to which deft excepted and still excepts-</p>
+<p>The <hi rend="str">Commonwealth by the exattorney </hi>Court then at the instance of the city attorney <hi rend="str">move the court addressed</hi> instructed the jury as follows: (<hi rend="underline">Here issued instructions of city attorney</hi>)- Deft. excepted to the giving of said instructions and still excepts.</p>
+<p>The deft then asked the court to instruct the jury as follows:</p>
+<p>(Here insert deft's instructions) marked from 1 to 10 inclusive) The Court <hi rend="str">then</hi> give No<hi rend="underline"><hi rend="sup">s</hi></hi> 2, 6, and 10 asked by deft and refused to give isntructions No<hi rend="sup">s</hi>. 1, 3, 4, 5, 7, 8, &amp; 9, to which deft excepted and still excepts.</p>
+<p>After the argument of counsel <hi rend="str">the</hi> before thee jury, the jury retired and returned into court, the following verdict:<pb/>
+<lb/>We of the jury find the defendant guilty.</p>
+<p>F D Reddish
+<lb/>Foreman</p>
+<p>And thereupon the court rendered the following judgment (Here insert it)-</p>
+<p>The defendant immediately after the rendition of the judgment herein moved the court to arrest said judgment because the warrant does not state facts sufficient to constitute a public offense, which motion was overruled, and the defendant excepted and still excepts-</p>
+<p>The foregoing was all the evidence addressed in the case, and the foregoing instructions were all ^the instructions^ given by the court in <hi rend="str">either</hi> the case <hi rend="str">and</hi> on either side-</p>
+<p>The defendant prays that this his bill of exceptions be refused and sealed<pb/>
+<lb/>by the <hi rend="str">cou</hi> Judge of this court which is accordingly done. and defendant prayers an appeal to the court of appeals which is granted<pb/></p>
+<p>Com'th 
+<lb/>vs } Bill of Exceptions
+<lb/>Gabriel Weitzel</p>
+  </body>
+ </text>
+</TEI>

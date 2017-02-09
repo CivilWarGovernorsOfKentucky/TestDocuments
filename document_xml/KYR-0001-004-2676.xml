@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2676"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Thomas T. Binford to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7313</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR16-303</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Hickman, Fulton County, Kentucky</placeName>
+    <date when="1865-11-10">10 November 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Hickman Ky
+<lb/><date when="1865-11-10">November 10<hi rend="sup">th</hi> 1865</date>
+<lb/>To his Excellency,
+<lb/>Gov Thos E Bramlette</p>
+<p>The undersigned a citizen of Fulton County Kentucky states on oath that the Petitioner H F Cheatham was not interested with him in the <hi rend="str">Union</hi> Farmer's Hotel where it is alledged that he Kept a gaming House but that the undersigned was at the time sole proprietor of the said Hotel and alone responsible for what went on there. Owing to his absence his evidence could not be made available for Cheatham or he could have proved that the said Cheatham never kept a gaming House on his premises and was not responsible for any gaming carried on there as this affiant alone had control of them.</p>
+<p>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> T. Binford</p>
+<p>subscribed &amp; Sworn to before me, <date when="1865-11-10">10<hi rend="sup">th</hi> Novr 1865</date></p>
+<p>Samuel Landrum Judge Fulton County Court</p>
+  </body>
+ </text>
+</TEI>

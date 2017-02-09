@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-031-0225"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Thomas E. Edwards, J. C. Vanarsdall, C. S. Abell, Affidavit</title>
+    <title level="a" type="parallel">CWG7965</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Appointments by the Governor, Civil Appointments, 1862-1863</collection>
+      <idno>R1-309</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Mercer County, Kentucky</placeName>
+    <date when="1863-05-06">6 May 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Commonwealth of Ky. Mercer County Sct</p>
+<p>We Thos. E. Edward P. J. M. C C, <hi rend="str">C</hi>S. Abell Clerk and I. C. Vanarsdale Sherriff, authorizeed by law to compare the poll books, do certify that at an election held in the Fourth district of Mercer County on Saturday <date when="1863-05-02">2<hi rend="underline"><hi rend="sup">nd</hi></hi> day of May 1863</date> Vance Wilson was duly elected to fill the office of Justice of the peace for said district.</p>
+<p>Given under our hands this <date when="1863-05-06">6<hi rend="underline"><hi rend="sup">th</hi></hi> day of May 1863.</date></p>
+<p>Tho<hi rend="sup">s</hi> Edwards P J M C C
+<lb/>I. C. Vanarsdale S. M. C.
+<lb/>C S Abell Clerk,
+<lb/>Mercer Co. Court<pb/></p>
+<p>Vance Wilson</p>
+  </body>
+ </text>
+</TEI>

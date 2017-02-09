@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0719"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Porter Johnson to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10187</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG19-122 to MG19-123</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date when="1860-02-15">15 February 1860</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency B Magoffin
+<lb/>Governor of Kentucky.</p>
+<p>Your Petitioner Porter Johnson respectfully states, that at the <gap/> term of the city court of Louisville he was indicted for an assault and battery, which he committed on Jeff. Mosly, alias, Jeff Short. his father E P Johnson gave bond in the sum of $100- that he would appear and answer, to an Indictment at the next Term of said court. Your Petitioner started on a Coal boat, down the river, intending to return to Lousville in time to appear at the trial, but he was greatly Exposed on the river and was taken sick at Paducah and was unable to return home, at the next term, and his bail bond was forfeited, and a Sci Fa, issued at him, and his Father. A few days ago he returned home (as soon as he was well enough) and the Marshal served the writ on him, in case of Indictment &amp; Sci Fa- when he was at his home sick in bed, and he is now very unwell, The said Indictment was tried, on the <date when="---14">14th inst</date>, and the Jury fined him Seventy five dollars, which sum he replieved costs &amp; amounting to $93.15. The Sci Fa was then dismissed at Defts Costs, which amounts to $10.55 He states that, Said Mosly alias Short, was at a house, rented by his Father, to a woman named Dashea Bowes, who is the aunt of said Mosly, and he Mosly lived at said house with a notorious prostitute <hi rend="str">His</hi> Doshea Bowes kept a house of prostitution, and as soon<pb/>
+<lb/>as his Father ascertained their character he gave them notice to move, and Ejected them from the premises- one night, at said house, then was a fuss and much noise, and Petitioner's Father sent him to stop the fuss and present injury to his house, whilst his Father went, after a Police officer to quell the difficulty and before his Father came with an officer, he got into a difficulty with this man Mosly. At the time of said trial he was too unwell to prepare for such defense as he could have made. Short, alias, Mosly is a man who lives in houses of Prostitution, who does no work and who is suspected of passing &amp; uttering counterfeit money for a livelihood. He sleeps &amp; east regularly in such a house. He could Easily have proved him worthy of credit before oath, had he been well enough to prepare for trial. He does not think that he has done <hi rend="str">an</hi> any injury To the community by assaulting Mosly- and he knows that the Dignity of Kentucky is a perfect stranger to him. Petitioner is a young man, and poor. Wherefore he asks for a remission of said fine the costs in both cases being heavy</p>
+<p>Louisville <date when="1860-02-15">Feb. 15th 1860</date>
+<lb/>Porter Johnson</p>
+<p>I am a police officer in the District in which the petitioner lives and know that his Father Edward Johnson called at the Engine house for an officer &amp; I went to his house with him but when we got there the difficulty &amp; fuss was over</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Jesse F Harmon
+<lb/>J. A. Weatherford
+<lb/>A Gilmore
+<lb/><cb n="2"/>B F Moore
+<lb/>Jn<hi rend="sup">o</hi> Doup
+<lb/>H. Lauer<milestone unit="column" n="1"/><pb/></p>
+<p>Louisville City Court
+<lb/>Respite 12 mo<hi rend="sup">s</hi>
+<lb/>B. M
+<lb/>$100
+<lb/>$75 }
+<lb/>Porter Johnson<figure type="hr"/>
+<lb/>Issd <date when="1860-02-21">Feby 21. 1860</date>
+<lb/>Remitted
+<lb/>B. M
+<lb/>Iss<hi rend="sup">d</hi> <date when="1861-02-11">Feby 11. 1861</date></p>
+  </body>
+ </text>
+</TEI>

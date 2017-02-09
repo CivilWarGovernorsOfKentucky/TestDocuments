@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0996"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Charles B. Thomas to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10464</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG20-56 to MG20-57</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1861-04-15">15 April 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Gov M<hi rend="sup">c</hi>Goffin
+<lb/>My Dear Sir</p>
+<p>At the request of M<hi rend="sup">r</hi> Samuel O Berr I write for the purpose of uniting with him in his petition for executive clemency -- I regret that I cannot, owing to the time that has elapsed state correctly the facts as detailed in the trial of his case I was his attorney and remember distinctly my sincere coviction that under the law he was entitled to an acquittal, and I attributed the verdict only to the very excited feeling that existed in the public mind at the time against those who were charged with keeping disorderly houses as grocers. I feel assured that a remission of his fine would give satisfaction to those acquainted with the facts -- M<hi rend="underline"><hi rend="sup">r</hi></hi> Berry has not been in the business for nearly two years and is regarded I think as an unoffending citizen -- 
+<lb/><date when="1861-04-15">April 15<hi rend="sup">th</hi> 1861 -- </date></p>
+<p>In haste your friend
+<lb/>Cha<hi rend="underline"><hi rend="sup">s</hi></hi> B Thomas</p>
+<p>From my recollection I believe the above facts to be true I was present at the trial -- </p>
+<p>B F Graves</p>
+  </body>
+ </text>
+</TEI>

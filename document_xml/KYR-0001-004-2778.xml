@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2778"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">E. B. Chapman to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7415</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR17-41</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Jamestown, Russell County, Kentucky</placeName>
+    <date when="1865-12-09">9 December 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Jamestown Ky. <date when="1865-12-09">9<hi rend="sup">th</hi> Decr 1865</date>.
+<lb/>Gov Bramlette
+<lb/>Dear Sir</p>
+<p>I went the Security of One John Padgett for his appearance at the Clinton C<hi rend="str">u</hi>ircuit Court at its <date when="--08">August</date> Term last to answer an Indictment for Horse Stealing bail $300. He Padgett lived a near neighbor to me and I Knew him well and that he had made a good Soldier in the first Ky Cavalry -- Through Sympathy for him and I did not like to see him got to jail (which it seemed he would have to do). I went his security under these Circumstances &amp; under a Solem. pledge from him that he would stand his trial. he Came home with me and went to work and in a short time secretly without my Knowledge he ? left for parts unknown. Had I had the least suspicion that he was going to leave I wuld have arrested him and delivered him to the jailer of Clinton County -- I sent you a petition stating the facts in regard to this matter and asking a remission of said bail bond -- but for fear s<hi rend="sup">d</hi> petiti<hi rend="str">g</hi>on has never reached you or wast burnt at the time your office was burned I have been as particular in setting forth the facts above. Will your excellency be pleased to remit said forfeited bond.</p>
+<p>Very Respectfully
+<lb/>E B Chapman<pb/></p>
+<p>Gov. Tho E Bramlette
+<lb/>Frankfort
+<lb/>Ky</p>
+<p>I think the Request ought to be granted under the Circumstance</p>
+<p>Yours Truly
+<lb/>W T Jackman</p>
+  </body>
+ </text>
+</TEI>

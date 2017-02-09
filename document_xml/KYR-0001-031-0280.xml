@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-031-0280"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John F. Fisk to James W. Tate</title>
+    <title level="a" type="parallel">CWG8020</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Appointments by the Governor, Civil Appointments, 1862-1863</collection>
+      <idno>R1-381</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Covington, Kenton County, Kentucky</placeName>
+    <date when="1863-07-25">25 July 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Covington Ky <date when="1863-07-25">July 25/63</date>
+<lb/>Mr James W. Tate.
+<lb/>Sir.</p>
+<p>Enclosed you will find one dollar -- for which you will please send to me a commission for my son Charles Henry Fisk Notary Public for Kenton County. Please be prompt.</p>
+<p>Respectfully yours
+<lb/><hi rend="underline">John F. Fisk</hi><pb/></p>
+<p>Kenton Co.<figure type="hr"/>
+<lb/>Cha<hi rend="underline"><hi rend="sup">s</hi></hi> Henry Fisk
+<lb/>Notary
+<lb/>Com. Iss<hi rend="sup">d</hi> <date when="1863-07-28">July 28. 1863</date><figure type="hr"/></p>
+<p><hi rend="str">Fayette Co<figure type="hr"/>
+<lb/>Cha</hi><hi rend="underline"><hi rend="str"><hi rend="sup">s</hi></hi></hi><hi rend="str"> Henry Fisk</hi>
+<lb/>C</p>
+  </body>
+ </text>
+</TEI>

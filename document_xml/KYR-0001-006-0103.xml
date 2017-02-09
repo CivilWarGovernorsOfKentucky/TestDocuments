@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-006-0103"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">James R. Page to James R. Dupuy</title>
+    <title level="a" type="parallel">CWG1149</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's Official Correspondence File, Requisitions for the Return of Fugitives from Justice, 1863-1867</collection>
+      <idno>BR6-131 to BR6-132</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1865-12-08">8 December 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Commonwealth of Kentucky,
+<lb/>OFFICE OF SECRETARY OF STATE,
+<lb/>Frankfort, <date when="1865-12-08">8 Dec, 1865</date>
+<lb/>J R. Dupuy Esq<hi rend="sup">r</hi>
+<lb/>Louisville Ky
+<lb/>D<hi rend="sup">r</hi> Sir</p>
+<p>Enclosed find Requisition as you required before Governor can offer a reward for fugitives, the Statutes require a petition from the Circuit or County Judge see page 374, Sec 22, Vol 1, Stantons Revised Statutes, as soon as petition is rec<hi rend="sup">d</hi>. the Governor will offer a reward.</p>
+<p>Yrs Respectfully
+<lb/>Jas R. Page
+<lb/>Asst Secty<pb/></p>
+<p>We respectfully suggest that his excellency offer a reward for Squire Cable Joseph Woods and Ben Woods for the murder of Joseph <hi rend="str"><unclear/></hi>Norton in Jefferson county <date when="1865-06">June 1865</date></p>
+<p>J R Dupuy
+<lb/>George W. Johnston
+<lb/>Judge 7<hi rend="underline"><hi rend="sup">th</hi></hi> Judicial
+<lb/>District of Ky.<pb/></p>
+<p>Louisville Ky
+<lb/><date when="1863-12-21">Dec 21. 1863</date>
+<lb/>Jas R Page Esqr
+<lb/>Asst secty of state
+<lb/>Dr Sir</p>
+<p>Meeting Judge Johnson in the street accidentally must be my apology for preferring his request on the same sheet of paper on which your letter is. I dont know what could have been in my head to neglect getting his signature to the request except that perhaps I was in great haste or some thing of the sort I refer you to my other letter to you on the subject for any necessary particulars</p>
+<p>Truly J R Dupuy<pb/></p>
+<p>Reward of $750, for Squire Cable, Joseph &amp; Ben Woods for the murder of Jos Norton Jefferson Co. offered <date when="1865-12-26">26<hi rend="sup">th</hi> Dec 1865</date></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0611"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">R. W. Walker et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG4730</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR9-470 to BR9-471</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency, the Governor of Kentucky.</p>
+<p>Your petitioners respectfully represent that at the <date when="--02">Feby term</date> of the Hickman Circuit Court Tho<hi rend="underline"><hi rend="sup">s</hi></hi> T. Scott was fined sixty dollars for the alleged keeping of a tippling house in the town of Baltimore, Hickman County Ky. The facts as elicited on the trial &amp; heard by many of the undersigned are as follows -- said Scott had regular license to keep a tavern in Baltimore, Ky. and under said license he kept a bar - but the tavern house was specifically named &amp; described in said license. During the course of the year &amp; pending the existence of the license said Scott moved his tavern &amp; bar to another house in said town <hi rend="underline">not</hi> named in said license. Said Scott avers &amp; your petitioners believe it to be true. That he was wholly ignorant that said removal would be an infringment of the law, and that he did not intend or design in any way to disregard the laws of his county. He avers that said removal was in no way detrimental to the public &amp; did not operate as a violation of the spirit of the law, if it did so as to the strict letter thereof. He kept a decent and orderly house &amp; in no way broke the condition of his bond as a tavern keeper except as above stated. He is a poor man and illy able to pay sixty dollars to the commonwealth for a mere technical breach of law.<pb/>
+<lb/>Your Petitioners respectfully ask your Excellency to remit such portion of said fine as may be due to the Commonwealth if from the facts stated you regard such remission not inconsistent with your executive duty.</p>
+<p>Yours respectfully.
+<lb/>R. W. Walker
+<lb/>Thomas G. Poore Ch C C
+<lb/>E J Bullock
+<lb/>J J Tazver
+<lb/>Geo Deeler
+<lb/>Robt A Gaithwill
+<lb/>Thos A Pennebaker
+<lb/>John Hoskins<pb/></p>
+<p>Hickman Cir Ct
+<lb/>vs
+<lb/>Tho T. Scott
+<lb/>Tipling
+<lb/>$60
+<lb/>Remt<hi rend="sup">d</hi> <date when="1864-03-14">14<hi rend="sup">th</hi> Mch
+<lb/>1864</date></p>
+  </body>
+ </text>
+</TEI>

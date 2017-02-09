@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0976"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">J. R. Cochran et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG5095</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR11-12</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Shelbyville, Shelby County, Kentucky</placeName>
+    <date when="1864-06-15">15 June 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Gov. Bramlette=</p>
+<p>John Smith of this place was fined twenty dollars &amp; costs by a jury in the Police Court of this town for a breach of the peace. He is a very poor man, &amp; we petition your excellency to remit so much of said fine as comes under the jurisdiction of the Pardoning power of your excellency</p>
+<p>Shelbyville <date when="1864-06-15">June 15<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date> J. D. Cochran
+<lb/><milestone unit="column" n="2"/><cb n="1"/>Names
+<lb/>W. M. Moody (Jury man)
+<lb/>L. W. Shaffar " "
+<lb/>Lewis Utterback
+<lb/>A Smith
+<lb/><note place="left margin">Names</note> J. Baker
+<lb/>C. W. Otterback
+<lb/>Chas. Gibson
+<lb/>Jno. T. Hastings
+<lb/>Charles. E. Blumer
+<lb/>John Churchill
+<lb/>Philip Zilhart
+<lb/>T W Lawell
+<lb/>John M M<hi rend="sup">c</hi>Grath
+<lb/>George Cacey
+<lb/>Edward Graham
+<lb/>Wilson Bodkin
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> C Bullock
+<lb/>L T Thulkeld
+<lb/><cb n="2"/>Names
+<lb/>G. R. Moody
+<lb/>C Fore
+<lb/>Geo Wells
+<lb/>J. D. Shaeffer
+<lb/>J. R. Casey
+<lb/>N. Crosby
+<lb/>Danl S. Slaughter M. D.
+<lb/>E.. S.. Miller
+<lb/>Geo C M<hi rend="sup">c</hi>Grath
+<lb/>D. H. Masonhimer
+<lb/>W<hi rend="sup">m</hi> Standiford
+<lb/>John F Ballarde
+<lb/>T. C M<hi rend="sup">c</hi>Grath
+<lb/>T. Wilson
+<lb/>W. S. Sparkes
+<lb/>George Sharewood
+<lb/>George Gesserman
+<lb/>David Wayne<milestone unit="column" n="1"/><pb/></p>
+<p>Shelbyville Police.
+<lb/>Court
+<lb/>vs
+<lb/>Jno Smith
+<lb/>Refused
+<lb/><date when="1864">64</date></p>
+  </body>
+ </text>
+</TEI>

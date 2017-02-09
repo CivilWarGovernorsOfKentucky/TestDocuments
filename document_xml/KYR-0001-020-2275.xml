@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-2275"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">B. S. Newton to Unknown</title>
+    <title level="a" type="parallel">CWG9351</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG25-19</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To the Govenor of the Commonwealth of Kentucky</p>
+<p>Your Petitioner respectfully represents that on the <date when="--06-30">30<hi rend="sup">th</hi> day of June last</date> he was in Stamping Ground Ky and while there he happened to meet with one of his Neighbors, between whom, and this Affiant, there was a misunderstanding in regard to some land, and in conversation with Said Neighbor, this affiant became became Somewhat excited, Because he <unclear/> that he had been badly treated, and affiant whilst being so excited Swore, and probably created some disturbance. for which he was fined the sum of Ten dollars, by the <hi rend="str">Police</hi> Justice of the Peace of said Town</p>
+<p>Your Petitioner respectfuly asks that Said fine be remitted as there was no personal conflict, or blow struck on the occasion and no damage done to any one.</p>
+<p>B S Newton
+<lb/>-7-</p>
+<p>We respectfully unite in the prayer of the above petition</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>A H Rennick
+<lb/>William Morris
+<lb/>H R Miller
+<lb/>G C Hughes
+<lb/>W. J. Chinn
+<lb/><cb n="2"/><hi rend="underline">J. Harlan</hi>
+<lb/>W Franklin
+<lb/>H B. James
+<lb/>G W. Craddock
+<lb/><hi rend="underline">Jno. Rodman</hi>
+<lb/>M. B. Chinn<pb/><milestone unit="column" n="1"/></p>
+<p>Remitted 
+<lb/>B. M.
+<lb/>Entered</p>
+  </body>
+ </text>
+</TEI>

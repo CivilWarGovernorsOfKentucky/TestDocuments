@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-227-0019"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">W. P. Anderson, Special Orders, No. 178</title>
+    <title level="a" type="parallel">CWG14249</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>11th Ky. Cav (US) Muster Rolls</collection>
+      <idno>Flat Storage Box: 11th Ky Cav (US) Muster Rolls, Bundle 6</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Cincinnati, Hamilton County, Ohio</placeName>
+    <date when="1863-05-13">13 May 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Order</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>HEAD QUARTERS, DEPARTMENT OF THE OHIO.
+<lb/>Cincinnati, Ohio, <date when="1863-05-13">May 13th. 1863</date>.</p>
+<p>SPECIAL ORDERS.
+<lb/>No. 178 }</p>
+<p>1 " " The resignation of 1st Lieutenant <hi rend="underline">Robert Terrill</hi>, 11th Regiment Cavalry Kentucky Volunteers, tendered on account of physical disability is hereby accepted, to take effect on the <date when="1863-05-15">fifteenth (15th) day of May, 1863</date>.</p>
+<p>BY ORDER OF MAJOR GENERAL BURNSIDE.</p>
+<p>W. P. Anderson
+<lb/>Assistant Adjutant General.</p>
+<p>Camp. E. Com<hi rend="sup">d</hi>. <date>Sep. 4, 1862</date>
+<lb/>1 2 3 4 5 6</p>
+<p>To
+<lb/>Governor of Kentucky<pb/></p>
+<p><hi rend="underline">11 Cav</hi>
+<lb/>Lt:
+<lb/>Terrill
+<lb/><hi rend="underline">resig</hi>:
+<lb/>Filed <date when="1863-05-18">May 18. 1863</date></p>
+  </body>
+ </text>
+</TEI>

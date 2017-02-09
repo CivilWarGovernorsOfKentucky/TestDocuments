@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0136"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">William L. Nugent, Oath</title>
+    <title level="a" type="parallel">CWG2484</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Civil Appointments, 1859-1862</collection>
+      <idno>MG4-21 to MG4-22</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Washington County, Mississippi</placeName>
+    <date when="1861-04-12">12 April 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>State of Mississippi
+<lb/>Washington County</p>
+<p>Personally appeared before me William A. Haycraft, clerk of the Circuit Court in &amp; for said County, &amp; authorized by Law to administer oaths, William L. Nugent, who stated on oath that he will well &amp; truly execute &amp; perform all the duty of his station as a Commissioner for the State of Kentucky resident in the state of Mississippi -- </p>
+<p><hi rend="underline">W</hi><hi rend="underline"><hi rend="sup">m</hi></hi><hi rend="underline"> L Nugent</hi></p>
+<p>Sworn to &amp; subscribed before me this <date when="1861-04-12">12<hi rend="sup">th</hi> April 1861</date>
+<lb/>W. A. Haycraft clk<pb/></p>
+<p>Mississippi<figure type="hr"/>
+<lb/>Com<hi rend="sup">r</hi>. of Deeds
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> L. Nugent</p>
+<p>Oath
+<lb/>Filed <date when="1861-04-19">Apr 19<hi rend="sup">th </hi>1861</date></p>
+  </body>
+ </text>
+</TEI>

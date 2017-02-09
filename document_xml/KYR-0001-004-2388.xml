@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2388"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">M. R. Tarter to Thomas e. Bramlette</title>
+    <title level="a" type="parallel">CWG7025</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR15-313</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1865-09-25">25 September 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency Thos. E. Bramblette Governor of the Commonwealth of Ky</p>
+<p>Your Petitioner M. R, Tarter would respectfully represent that at <date when="1865-07">July Term 1865</date> ^of the Pulaski Circuit Court^ he was fined $30 for an assault -- He states that he did not Know that there has to be any court in <date when="--07">July</date> and the case was tried in his absence. The only Testimony for the Commonwealth was Dickerson Thompson the prosecutor -- He states that had he Known the trial would be had in July he would have been able to have shown himself not guilty -- He says he did not assault or molest the Prosecutor any way and he was fined for an offense of which he was innocent -- He prays that sd fine be remitted -- </p>
+<p><date when="1865-09-25">Sept 25<hi rend="sup">th</hi> 1865</date> -- M R Tarter -- </p>
+<p>We concur in the prayer of the above Petition and recommend the remission of the fine -- </p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Rob Gibson
+<lb/>F, F, Shepherd
+<lb/>S <unclear/>
+<lb/>W Woodcock
+<lb/>Ja<hi rend="sup">s</hi> Chesney
+<lb/><cb n="2"/>W. M<hi rend="sup">c</hi>Kee Fox
+<lb/>W D Carpenter
+<lb/>E L Van Winkle
+<lb/>Thos. Z Morrow
+<lb/>James Singdon Sheff
+<lb/>J W Hail
+<lb/>John Griffen
+<lb/>Silas Lee<pb/></p>
+<p><milestone unit="column" n="1"/>J,, B. Dalton stats that he was one of guard,, that guarded Dickerson Thompson <hi rend="str"><unclear/></hi>&amp; that M,, R, Tarter drew no weapon upon the said Dickerson as he saw or believes</p>
+<p>J, B, Dalton</p>
+<p>Sworn to before me by J. B Dalton <date when="1865-09-25">Sept 25<hi rend="sup">th</hi> 1865</date></p>
+<p>Jas. M. Richardson J, P,</p>
+<p>Pulaski Cir Ct
+<lb/>vs
+<lb/>M R. Tarter
+<lb/>$30,
+<lb/>Remitted <date when="1865-10-23">23<hi rend="sup">d</hi> Oct 1865</date></p>
+<p>Waterloo P. O.
+<lb/>Pulaski Co
+<lb/>Ky</p>
+  </body>
+ </text>
+</TEI>

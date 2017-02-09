@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-009-0034"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">D. R. Haggard to Drinkwater</title>
+    <title level="a" type="parallel">CWG1189</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Christina K Adkins</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's Official Correspondence File, 1863-1867</collection>
+      <idno>BR1-64 to BR1-65</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1865-01-17">17 January 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Frankfort
+<lb/><date when="1865-01-17">Jany 17 1865</date>
+<lb/>Capt Drinkwater
+<lb/>Sir</p>
+<p>I understand that you have been circulating the infamously false statement that I had received as a bribe from ^some^ person the sum of eighteen hundred dollars -- as an inducement to not stop the navigation until certain capitolist could get out their Tobacco, and that I had made the <unclear/> sum and had pocketed it, and you intended -- that the publick should be apprised of it -- &amp;c</p>
+<p>Now Sir I have this to Say to you or any living man who makes the charge against me that I have swerved from ^my^ duty from any Consideration of a pecuniary charactor that it is false and that I demand of you a retraction at once</p>
+<p><hi rend="underline">D. R.</hi> Haggard<pb/></p>
+<p>162
+<lb/>1374</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-028-0065"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">David R. Murray et al. to James F. Robinson</title>
+    <title level="a" type="parallel">CWG7720</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Appointments by the Governor, Military Appointments, 1862-1863</collection>
+      <idno>R2-206</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Cloverport, Breckinridge County, Kentucky</placeName>
+    <date when="1862-10-13">13 October 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Cloverport <date when="1862-10-13">Oct 13<hi rend="sup">th</hi> 1862</date>
+<lb/>To His Excellency
+<lb/>The Governor of Ky.</p>
+<p>The undersigned Citizens of Cloverport and Vicinity would respectfully represent. -- </p>
+<p>That this County and the adjacent portions of Hancock and Ohio have early in the war furnished large portions of men for the 3<hi rend="sup">rd</hi> Regt Ky Cavalry, and for several of the Regiments of Infantry, and latterly have met liberally the demand for filling up the 12<hi rend="sup">th</hi> Regt Col. Shanks seeing the urgent necessity of filling these Regiments we have not heretofore directed our attention to riasing a Company of State Militia or Guards under the Laws of our own State, tho we have been entirely unprotected, except by Companies of home Guards in the Country around us -- </p>
+<p>As Col Shanks' Regiment has been removed to Owensboro we suppose but little more will be done here on raising men for the Federal Army, and we think it a favorable time to turn our attention to our home protection which is so much needed.</p>
+<p>Mr. David M Oglesby who proposes to visit you upon the subject is a young man of good character and Family. raised him. and<pb/>
+<lb/>is the Owner of a good estate in this vicinity. -- He has been for most of the last year in the 3<hi rend="sup">rd</hi> Regt Ky Cavalry, and since his return home actively engaged in recruiting for Shanks' Regiment.</p>
+<p>We regard him therefore the most competent person we have in this community to organise a company under the State Laws, and recommend him for the undertaking -- </p>
+<p>Should the undertaking meet your views we would recommend the furnishing at once to bring with him arms and amunition for one company, as the Union men here are defenceless. and we will enter into any bonds required to deliver them over to the Company when organised -- </p>
+<p>All which is respectfully submitted</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>David R. Murray
+<lb/><cb n="2"/>A L Simons
+<lb/>John Gregory
+<lb/>John C. Heist
+<lb/>Jas Goff
+<lb/>Geo H Gregory
+<lb/>Ben Hardin
+<lb/>Ro. R. Pierce<milestone unit="column" n="1"/><pb/></p>
+<p>Cloverport Pettn</p>
+  </body>
+ </text>
+</TEI>

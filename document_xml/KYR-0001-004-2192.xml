@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2192"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Henry S. Barnaby to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6829</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR14-432 to BR14-433</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date when="1865-08-31">31 August 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To
+<lb/>Hon Thos. E Bramlette.
+<lb/>Governor of Kentucky
+<lb/>Sir</p>
+<p>Henry S. Barnaby your petitioner would respectly represent that on the <date when="1865-03-06">6<hi rend="underline"><hi rend="sup">th</hi></hi> day March 1865</date> he was fined ($500.<hi rend="sup">x</hi>/<hi rend="sub">100</hi>) Five hundred dollars, in the Louisville City Court, Your petitioner would further state that at the time of said trial he was unavoidably absent from the city, Had he been present he could have established the fact that he was not the owner of the "Faro Bank," He says he is not a "faro dealer." He says he believes he could have <hi rend="str">establ</hi> established these facts, which are true. He says he is a poor man, and has a family to support, He says <hi rend="str"><unclear/></hi> <hi rend="str"><unclear/></hi> <hi rend="str"><unclear/></hi> <hi rend="str"><unclear/></hi> <hi rend="str"><unclear/></hi> <hi rend="str"><unclear/></hi> <hi rend="str"><unclear/></hi> <hi rend="str"><unclear/></hi> <hi rend="str"><unclear/></hi> <hi rend="str"><unclear/></hi> he hopes in his case where justice and <hi rend="str"><unclear/></hi> clemency seem united, you will Extend the Executive clemency to him. He prays for its remission</p>
+<p>H, S, Barnaby<pb/></p>
+<p>We the undersigned citizens of Louisville would respectfully request Your Excellency to remit so much of s<hi rend="underline"><hi rend="sup">d</hi></hi> fine of $500.<hi rend="sup">x</hi>/<hi rend="sub">100</hi> as is due the Commonwealth. We think this a case worthy of executive interference and clemency</p>
+<p>Louisville
+<lb/><date when="1865-08-31">August 31. 1865</date>
+<lb/><milestone unit="column" n="2"/><cb n="1"/>W K Thomas
+<lb/>James P Thornburg
+<lb/><cb n="2"/>&gt;
+<lb/><unclear>Selby</unclear> Harney
+<lb/>James R W Smith
+<lb/><hi rend="underline">R M J Pound</hi>
+<lb/>Pat Dillon M, C, C, L
+<lb/>A. Gilmore C. of Police
+<lb/>Isaac <unclear/>
+<lb/>Saml. M. Risley
+<lb/>Col. A. M. Stout
+<lb/>O. C. <hi rend="underline">Curry</hi>=
+<lb/>H <unclear>Kerley</unclear>
+<lb/>E. S. Craig
+<lb/>Policeman Carter Tiller
+<lb/>Juryman W<hi rend="underline"><hi rend="sup">m</hi></hi> P, Shepard</p>
+<p><milestone unit="column" n="1"/>I hope the remission will be made</p>
+<p><hi rend="underline">Jo. G. Wilson</hi>
+<lb/>W, G, Reasor
+<lb/>City Atto
+<lb/>Ja<hi rend="sup">s</hi> P Harbeson
+<lb/>city Judge<pb/></p>
+<p>Louisville City Ct
+<lb/>vs.
+<lb/>Henry L Barnaby
+<lb/>$500,
+<lb/>Dealing Faro
+<lb/>Remitted <date when="1865-09-16">16 Sept/65</date></p>
+  </body>
+ </text>
+</TEI>

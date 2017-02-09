@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1843"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John L. Scott et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6480</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR13-408</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1865-05-17">17 May 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>JOHN L. SCOTT. D. G. VENABLE.
+<lb/>SCOTT &amp; VENABLE,
+<lb/>Military Claim Agents,
+<lb/>FRANKFORT, KY.</p>
+<p>Frankfort, Ky <date when="1865-05-17">May 17, 1865.</date></p>
+<p>&amp;#9758;Will attend to the preparation and collection of all manner of Military Claims against the United States and State of Kentucky, including Officers' and Soldiers' back pay and bounty.</p>
+<p>&amp;#9758;Also Bounties, Back Pay, and Pensions due to Fathers, Mothers, and Heirs.</p>
+<p>&amp;#9758;Also claims for all manner of provisions furnished to Federal Soldiers; and claims for Horses and other property destroyed, pressed, or seized by any Officers or Soldiers of the Federal Army.</p>
+<p>&amp;#9758;We have all kinds of Military Blanks on hand, and are prepared to give prompt attention to all claims entrusted to us before the proper Departments in Washington City and Frankfort.<figure type="hr"/></p>
+<p>Dear Governor</p>
+<p>James Graves was fined in the Franklin Circuit Court the sum of Two Hundred Dollars for an assault committed some two years or more ago. He soon after left his wife and two small children in very destitute circumstances and has not since returned to support them. His wife has appealed to me to forgive her husband so far as in my power, so that he might return home. Under all the circumstance I believe the case presents facts calling for the exercise of Executive clemency, and therefore I recommend that the fine be remitted</p>
+<p>Very Respectfully
+<lb/><milestone unit="column" n="3"/><cb n="1"/>R E Collins D S
+<lb/>H I Todd
+<lb/>F. D. Reddish
+<lb/>H J Meets
+<lb/><hi rend="underline">James Harlan Jr</hi>
+<lb/><cb n="2"/>P. Swigert
+<lb/><cb n="3"/>John L. Scott.
+<lb/>Com. atty.
+<lb/>Moses Glove
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Craik J. F. C.
+<lb/><hi rend="underline">W. L. Jermane</hi>
+<lb/>J C Coleman<milestone unit="column" n="1"/><pb/></p>
+<p>Franklin Cir Ct
+<lb/>vs
+<lb/>Jas Graves
+<lb/>$200 -- </p>
+<p>Remitted
+<lb/><date when="1865-05-20">20<hi rend="sup">th</hi> May 1865</date></p>
+  </body>
+ </text>
+</TEI>

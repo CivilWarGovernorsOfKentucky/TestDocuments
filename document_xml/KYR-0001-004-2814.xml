@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2814"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">B. Rosenberg to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7451</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR17-83 to BR17-84</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency
+<lb/>Thos E. Bramlette
+<lb/>Govenor of Kentucky</p>
+<p>Your Petitioner, B Rosenberg would respectfully state that his two sons, one of the age of fifteen &amp; the other twenty, were fined in the city Court of Louisville at the <date when="--11">November</date> ^Term^ on an Indictment for assault &amp; Battery, the sum of twenty five dollars each -- add the cost to this &amp; it will amount to the sum of $40 -- each making $80 -- in the agragate. The Judgment is against Isaac Rosenberge &amp; Simon Roseberge. The offense was drawing a pistol by the younger Rosenberge, no one was hurt, &amp; it was not the intention of the boy to hurt any one. Your Excellency will please remit the amount in each case as the cost will amount to at least $20 -- </p>
+<p>Your Excellency is respectfully refered to the signers of this petition</p>
+<p>B Rosenberg<pb/></p>
+<p>M<hi rend="sup">r</hi> Vanwinkle</p>
+<p>Find enclosed $2 -- sec fee. The indictment against the two was joint &amp; I suppose there will be but one fee for the remission if it is double apprise me by letter &amp; I will send you the amount,</p>
+<p>Direct to Baird &amp; Price or to Phil Tompert the Clerk -- oblige</p>
+<p>J. H. p. Price</p>
+<p>Louisville City Ct
+<lb/>vs
+<lb/>Isaac &amp; Simon Rosenberg
+<lb/>$25 Each
+<lb/>assault
+<lb/>Remitted <date when="1865-12-10">10 Dec/65</date></p>
+  </body>
+ </text>
+</TEI>

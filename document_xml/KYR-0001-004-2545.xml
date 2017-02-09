@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2545"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">George W. Little and John Smith to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7182</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR16-70 to BR16-71</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Knox County, Kentucky</placeName>
+    <date when="1865-10-26">26 October 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his excetrice the govenor of the commowealth of Kentucky your petitioner Gorge W Little and John smith wold Respectfuly Represent to your excelence that they become the surity of one Thomas Graves who was a soldier in the servis of the united states and that the said Graves was <hi rend="str">enlisted</hi> arested in the Knox county Ky for Reciving a horse that had been stollen they state that Said Grave was bound <hi rend="str">to</hi> <hi rend="str">a</hi> by the Examin court for his appearen in the Knox Circuit court ^in a bond of $100,^ and the said Graves being a soldier and in the servis and subject to his comand Failed to appeare in the Knox circuit court for trial at the tim the Bond Required and that the bond was forfeited at the last <date when="--04">April</date> turm of said court and at the last <date when="--09">september</date> term judgment was Renderd against them for the $100 and cost and that ^they are unable to pay the fine and do justice to the Rest of the familey^</p>
+<p>The Primeses considerd the prayer of your petitioner is that your Excelence Remit the fine and set a side the forfeitur and for all proper Releaf</p>
+<p>George W Little
+<lb/>John Smith<pb/></p>
+<p>Sworn to before me this <date when="1865-10-26">26 day of Oct 1865</date></p>
+<p>Tyrel Foley clerk</p>
+<p>The under signed says that they beleave it wold be an act of Charity to Remit the fines and forfeitur and askes that it be Remited</p>
+<p>M R Mahan
+<lb/>M Richardson
+<lb/>John W Burch
+<lb/>M. V. B. Sutton
+<lb/>J,, C Foley
+<lb/>Nelson Cummins
+<lb/>F Nicholson
+<lb/>John L Smith
+<lb/>James Clarke
+<lb/>Franklin Rains
+<lb/>Lewes Meadors
+<lb/>J. H. Scott M. D
+<lb/>Daniel. W. Carroll
+<lb/>Lewis Adkins
+<lb/>T J Cravins
+<lb/>E. F. Adkins
+<lb/>John Henson
+<lb/>W<hi rend="sup">m</hi> Bowmon Jr<pb/></p>
+<p>Knox Cir Ct
+<lb/>vs
+<lb/>John Smith &amp; Geo W. Little
+<lb/>$100,
+<lb/>Forfeiture
+<lb/>Remit
+<lb/><date when="1865-11-04">4<hi rend="sup">th</hi> Nov /65</date></p>
+  </body>
+ </text>
+</TEI>

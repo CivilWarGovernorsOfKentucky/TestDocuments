@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-038-0051"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Thomas E. Bramlette, First Lieutenant, James B. Flask</title>
+    <title level="a" type="parallel">CWG12535</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>Union Artillery, Navy and Marines Primary Source Documents ; Misc U.S.C.T. Primary Source Documents</collection>
+      <idno>Box 14, Folder 1st INDEPENDENT BTRY LT. ARTY OFFICERS</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1863-12-18">18 December 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Commission/Appointment</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>IN THE NAME AND BY THE AUTHORITY OF
+<lb/>The Commonwealth of Kentucky,
+<lb/><figure type="seal"><ab>KENTUCKY
+<lb/>UNITED WE STAND DIVIDED WE FALL</ab></figure>
+<lb/>THOMAS E. BRAMLETTE,
+<lb/>GOVERNOR OF SAID COMMONWEALTH
+<lb/>To all whom these Presents shall come, Greeting:</p>
+<p>Know Ye, That James B. Flask having been duly appointed to the office of
+<lb/>First Lieutenant (vice James W. Conine promoted)
+<lb/>In the 1<hi rend="sup">st</hi> Independent Battery <hi rend="str">Regiment</hi> of Kentucky Volunteer Militia, organized under the Acts of the General Assembly of the Commonwealth, and to be mustered into the service of the United States:</p>
+<p>NOW KNOW YOU, That, by the powers vested in me by the Constitution and Laws of said State, and reposing special trust and confidence in your patriotism, valor, fidelity, and ability, I do, by these presents Commission you as 1<hi rend="underline"><hi rend="sup">st</hi></hi> Lieutenant as aforsaid, for the term of three years unless sooner discharged, upon condition that you take the oath indorsed hereon, within ten days form receipt hereof, sending a certificate thereof to General Headquarters; and I do hereby authorize and require you to discharge, all and singular, the duties and services appertaining to your said office, agreeably to law and general regulations, and to obey such orders and instructions as you shall, from time to time, receive from your superior officers.</p>
+<p><figure type="seal"><ab>SEAL OF KENTUCKY
+<lb/>UNITED WE STAND DIVIDED WE FALL</ab></figure></p>
+<p>In Testimony Whereof, I have hereunto set my name, and caused the seal of the State of Kentucky to be affixed, at Frankfort, the <date when="1863-12-18">eighteenth day of December, in the year of our Lord one thousand eight hundred and sixty=three</date> and in the eighty=eighth year of the Independence of the United States of America.</p>
+<p>Tho E Bramlette
+<lb/>BY THE GOVERNOR:
+<lb/>E. L. VanWinkle, <hi rend="italic">Secretary of State</hi>.
+<lb/>By Jas R Page
+<lb/>Asst Secty
+<lb/>Commonwealth Office -- WM. E. HUGHES, State Printer.<pb/></p>
+<p>1<hi rend="underline"><hi rend="sup">st</hi></hi> Ind Arty<figure type="hr"/>
+<lb/>Flask James B
+<lb/>1<hi rend="underline"><hi rend="sup">st</hi></hi> Lieut<figure type="hr"/>
+<lb/><hi rend="underline">Commission</hi><figure type="hr"/>
+<lb/>heretofore cancelled<figure type="hr"/>
+<lb/>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> A. G. O. <date when="1864-04-04">April 4. 1864</date>.<figure type="hr"/>
+<lb/>OATH.<figure type="hr"/>
+<lb/>I James B. Flask do solemnly swear, that I will faithfully support the Constitution of the United States and the Constitution of the State of Kentucky, and will discharge, all and singular, the duties and services appertaining to the office of First Lieutenant in the Kentucky Volunteer Militia, agreeably to law and general regulations, and will obey such orders and instructions as I shall from time to time receive from the proper officers.</p>
+<p>James. B. Flask</p>
+<p>Before me, personally appeared the above James B Flask and made the oath above written, and signed the same in my presence.</p>
+<p>H. Thompson Adjt 23<hi rend="underline"><hi rend="sup">rd</hi></hi> O. V. I
+<lb/><date when="1864-03-09">March 9 A. D. 1864</date>.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0446"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Williams et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG4565</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR9-202, BR9-202A, BR9-202B</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1864-01">January 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excelency Governor Bramblett</p>
+<p>We the undersgined citizens of Harrison County being to a considerable extent acquainted with the case of Garrett Wheton now in the jail of this county and condemed to be hanged on the <date when="--02-09">ninth of February</date> next for the murder of a man by the name of Speckard, would respectfully state that we think him a fit subject for the Executive clemency. We therefore ask your Excellency to pardon him</p>
+<p><date when="1864-01">Jan 1864</date>
+<lb/>John Williams
+<lb/>B. F. Dunn
+<lb/>L G Humble
+<lb/>Covington Coleman
+<lb/>Robert Coleman
+<lb/>Garner Sims
+<lb/>Richard <unclear/><pb/>
+<lb/><unclear/>
+<lb/>James <unclear/>
+<lb/>E. Faulcones Sr.
+<lb/>T. Crosthwait
+<lb/>R. N. Faulconer
+<lb/>T. S. Faulconer
+<lb/>J. W. Steward
+<lb/>R Morris
+<lb/>Willis Jones
+<lb/>C. P. Kinnan
+<lb/>Jackson Mathews
+<lb/>William Bryan
+<lb/>Sanford Faulconer
+<lb/>Jesse Bean
+<lb/>Tobias Rose
+<lb/>James Rose sen
+<lb/>James Rose
+<lb/>Thomas Rose
+<lb/>William Faulconer
+<lb/>John Burgess
+<lb/>Milton Garrard
+<lb/>Aaron Cook
+<lb/>F W Steward<pb/>
+<lb/>John N Ralston
+<lb/>Joshua Gulliford
+<lb/>Henson Courtney
+<lb/>James Crossthwait
+<lb/>John W. Morgan
+<lb/>John Coppage
+<lb/>Edmund Swinford
+<lb/>Newton Henry
+<lb/>Jessy Morris
+<lb/>Cornelius Dunn
+<lb/>James C. Whetson
+<lb/>Edmund Faulconer
+<lb/>John Swinford
+<lb/>Willis T. Whitson</p>
+  </body>
+ </text>
+</TEI>

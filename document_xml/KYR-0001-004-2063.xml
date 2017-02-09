@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2063"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">W. S. Sharp to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6700</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR14-252 to BR14-253</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Covington, Kenton County, Kentucky</placeName>
+    <date when="1865-07-26">26 July 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Covington Ky
+<lb/><date when="1865-07-26">July 26<hi rend="sup">th</hi> 1865</date>
+<lb/>To His Excellency
+<lb/>Gov Thos. E. Bramlette
+<lb/>Governor.</p>
+<p>The inclosed petition was sent to me from Bath Co Ky with a request to sign and forward it to you.</p>
+<p>I left Sharpsburg in the fall of <date when="1863">1863</date> -- hence I know nothing of the facts as set forth in s<hi rend="sup">d</hi> petition only that the said sharp is a very poor man.</p>
+<p>His Father &amp; Mother have both been dead for Many Years leaving two small daughters which the s<hi rend="sup">d</hi> Sharp had<pb/>
+<lb/>to support and educate. He is a Cousin of mine &amp; one of those Clever men, -- <hi rend="underline">liberal</hi> to <hi rend="underline">a fault</hi>.</p>
+<p>The men who have signed the petition are his neigbors and person^a^lly Known to me. They are good Citizens</p>
+<p>If Your Excellency can Consistently remit sd fine it be a great relief to him.</p>
+<p>Very Respectfully
+<lb/>Yours
+<lb/><hi rend="underline">W. S.</hi> <hi rend="underline">Sharp. MD</hi></p>
+  </body>
+ </text>
+</TEI>

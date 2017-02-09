@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-117-0035"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Boyle William R. Thompson</title>
+    <title level="a" type="parallel">CWG13864</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Christina K Adkins</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>Adjutant General Letter Book - No. 3 ; 9 April - 25 May 1864</collection>
+      <idno>355</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1864-05-16">16 May 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><note place="header">355</note>
+<lb/><date when="1864-05-16">May 16<hi rend="underline"><hi rend="sup">th</hi></hi> <gap/>4</date>
+<lb/>W<hi rend="sup">m</hi> R. Thompson. Esq
+<lb/>Sheperdsville Ky.
+<lb/>Sir</p>
+<p>Your communication of the <date when="1864-05-14">14<hi rend="underline"><hi rend="sup">th</hi></hi> inst</date> to His Excellency Gov<hi rend="sup">r</hi> Bramlette, has been referred to this office for reply. I have the honor to inclose herein Gen<hi rend="sup">l</hi>. Orders N<hi rend="sup">o</hi> 3 relative to raising the 10.000 troops called out for 6 months. You will observe that the points of rendezvous are designated in this order, and your son can report his men to the Agents of the state, at the nearest post there mentioned. Orders for the transportation of your men will be furnished upon application to any of the designated Agents -- I send per mail acts of enlistment, your son will send one copy of each recruits act of enlistment to these H<hi rend="underline"><hi rend="sup">d</hi></hi> qrs, and proceed in all respects similar to raising troops for 3 years. The men will be drafted if they do not volunteer -- </p>
+<p>Very Respectfully <hi rend="underline">John Boyle</hi> Adj<hi rend="sup">t</hi> Gen<hi rend="sup">l</hi> Ky</p>
+  </body>
+ </text>
+</TEI>

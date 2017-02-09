@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-031-0088"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">S. A. Spencer to James F. Robinson</title>
+    <title level="a" type="parallel">CWG7828</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Appointments by the Governor, Civil Appointments, 1862-1863</collection>
+      <idno>R1-133</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Greensburg, Green County, Kentucky</placeName>
+    <date when="1862-12-15">15 December 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Greensburg Green County Ky
+<lb/><date when="1862-12-15">Decr 15. 1862</date>
+<lb/>To His Excellency James F Robinson Esqr
+<lb/>Governor of Kentucky
+<lb/>Dear Sir</p>
+<p>Owing to the death of one of Our Justices of the peace for this county. (C. H. Craddock Esqr) who recently died.. being a Justice of District N<hi rend="underline"><hi rend="sup">o</hi></hi> 3 of this county...there is a vacancy in said office -- I respectfully recommend to your Excellency.. <hi rend="underline">James Whitlock</hi>. a resident of said District as a suitable person to fill said office Mr Whitlock is a man that Stands deservedly high in the Community. for honesty. integrity &amp; good deportment. he is a sound &amp; reliable union man. and one altogether acceptable to the Union men of this County</p>
+<p>I therefore hope that it may meet your Excellencys desires of propriety to make this appointment.</p>
+<p>I have the honor to be
+<lb/>Very respectfully
+<lb/>Your obed Sevnt
+<lb/>S. A. Spencer Presiding Judge Green Co Court<pb/></p>
+<p>Green Co<figure type="hr"/>
+<lb/>J. P.
+<lb/>Dist N<hi rend="sup">o</hi> 3
+<lb/>Ja<hi rend="underline"><hi rend="sup">s</hi></hi> Whitlock
+<lb/><hi rend="underline">App</hi><hi rend="underline"><hi rend="sup">d</hi></hi><hi rend="underline"> </hi><date when="1862-12-18"><hi rend="underline">Dec</hi><hi rend="underline"><hi rend="sup">r</hi></hi><hi rend="underline"> 18. 1862</hi></date></p>
+  </body>
+ </text>
+</TEI>

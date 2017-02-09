@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1308"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Thomas Stule to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10776</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG21-197 to MG21-198</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date when="1861-08-15">15 August 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency Gov. Magoffin</p>
+<p>Your petitioners Philip Judge and <hi rend="str">William</hi> ^Thomas^ Steele would respectfully State that in the City Court of Louisville they were Indicted on the <date when="1861-06-10">10<hi rend="sup">th</hi> of June 1861</date> for an alledged assault and battery on one Michal Collins ^<note place="left margin">The Indictment was against W<hi rend="sup">m</hi> Steel though meant for Thomas Steel. and the Judgment stands against W<hi rend="sup">m</hi> Steel.</note> and were summoned to appear and answer the Indictment at the <date when="1861-07">July</date> term of said court, at which time the appeared for trial, but the witnesses for the Commonwealth failed to attend -- and your Petitioners being told they might go, left the court under the full belief that the case was dismissed. To their great surprise they now find that at the August term of said Court <date when="1861-08-06">(on the 6<hi rend="sup">th</hi> day of August 1861)</date> the case was again called up <hi rend="underline">in their absence</hi> and without their knowledge and by the verdict of a Jury a judment rendered against them for $15. <hi rend="underline">each</hi>, and the costs.</p>
+<p>They were ignorant of the trial; made no defence because they thought the case was dismissed<pb/>
+<lb/>the trial was exparte and the judgment unjust. They would certainly have defended the case if they had known the case was still pending, and they verily believe the result would have been different if their defence had been made. They therefore ask your Excellency to remit the judgment or a part of it, as they consider it a hardship.</p>
+<p>Louisville <date when="1861-08-15">August 15. 1861.</date></p>
+<p>Thos Stule
+<lb/>Judge</p>
+<p>I W<hi rend="sup">m</hi> G Reasor City attorney state that the petitioners appeared as stated at the <hi rend="str">August</hi> <date when="1861-07">^July^</date> term to answer the indictment, and the cause was then continued for the absence of the Commonwealths witnesses and that at the <date when="1861-08">August</date> term the trial was had in their absence and no defence was made. From the circumstances of the case and my knowledge of the character and good standing of the parties<pb/>
+<lb/>I have no doubt of the entire truth of their statement that they labored under the belief that the case was dismissed. I therefore unite in the request that a part of the judgement be remitted. I have no doubt the petitioners were honestly deceived in the matter.</p>
+<p>W. G. Reasor</p>
+<p>Gov. M<hi rend="sup">c</hi>Goffin
+<lb/>Dear Sir</p>
+<p>The parties above, Philip Judge and Tho<hi rend="sup">s</hi>. Steele (who is indicted as W<hi rend="sup">m</hi> Steele) spoke to me to defend them before they were served with process and promised to let me know when the case was set (as I seldom go into the city court) but I never heard of it again till after judgment. They assure me that the statement in their petition is true, that they left the court room under a full assurance that the case was <hi rend="underline">dismissed</hi>, and consequently neither called on me nor attended at the subsequent time of trial. They are the proprietors of the Louisville Hotel, &amp; gentleman of high character. The City attorney<pb/>
+<lb/>has no doubt of the truth of their statement. The alledged assault arose out of some trouble in the necessary discipline of their Hotel with a troublesome &amp; discharged Irishman. I think the fine should be released except the 30 per cent.</p>
+<p>Geo. A. Caldwell</p>
+<p>Louisville City Ct</p>
+<p>Remitted
+<lb/>B. M</p>
+<p>$15. each } assault
+<lb/>Phil Judge &amp; Tho<hi rend="sup">s</hi> Steele</p>
+<p>Iss<hi rend="sup">d</hi> <date when="1861-08-30">Aug 30. 1861</date></p>
+  </body>
+ </text>
+</TEI>

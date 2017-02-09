@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2469"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Benjamin Underwood to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7106</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR15-433</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency Thomas E. Bramlett Govenor of the Commonwealth of Kentucky -- </p>
+<p>Your Petitioner Benjamine Underwood States that he was indicted in the Jessamine Circuit Court in two cases the one for Keeping a tipling house and in the other for retailing Spritous liquors, and at the <date when="1865-03">March Term of said Court 1865</date>. Judgment was rendered against him in each case by default, in the one case for Sixty Dollars and costs in the other for Twenty Dollars and costs -- </p>
+<p>Your Petitioner States that he is a very poor man with a wife &amp; several Small children entirely dependant upon the labor of your petitioner for a support, that his health has been such as to disqualify him from performing labor for several years except to a very limited extent and if he is compelled to pay said fines that it will leave him and family destitute, He further states that it is his <hi rend="underline">determination</hi> <hi rend="underline">never</hi> <hi rend="underline">again</hi> <hi rend="underline">to be guilty</hi> <hi rend="underline">of</hi> <hi rend="underline">said</hi> <hi rend="underline">offenses</hi></p>
+<p>He therefore prays your excellency to remit said fines &amp;c</p>
+<p>B ^his X mark^ Underwood<pb/></p>
+<p>The undersigned citizens of Jessamine County (who are acquainted with the Petitioner Benjamine Underwood) in consideration of the pressing necesaties of the Petitioner and his family at the time said offenses were committed, his feeble health, poverty and reformed habits, most earnestly unite with him in his petition to your excellency to remit said fines and recommend him to Executive clemency -- </p>
+<p>John A Willis
+<lb/>William Watts
+<lb/>J. S, Brouaugh
+<lb/>Saml. R. Welch
+<lb/>Tho<hi rend="sup">s</hi> &amp; Wilmore
+<lb/>L T. Hemphill
+<lb/>Jones Beudine
+<lb/><hi rend="underline">John H Dawes</hi>
+<lb/>Isaac <hi rend="underline">Bourn</hi>
+<lb/>J W. Wilmore
+<lb/>Tom R Letcher
+<lb/>Geo Brown
+<lb/>Phil Karrick
+<lb/>J L M<hi rend="sup">c</hi>afee</p>
+<p>Jessamine Cir Ct
+<lb/>vs
+<lb/>Benj Underwood
+<lb/>$60, Tipling
+<lb/>$20, Retailing
+<lb/>Remitted <date when="1865-10-24">24 Oct /65</date></p>
+  </body>
+ </text>
+</TEI>

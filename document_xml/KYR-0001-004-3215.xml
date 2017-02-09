@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-3215"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">B. F. Luten et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG5334</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR41-399 to BR41-400</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Trigg County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Gov Tho<hi rend="underline"><hi rend="sup">s</hi></hi> E Bramlett</p>
+<p>We the undersigned Citizens of Trigg County respectfully states that one W. D. Vickers was Indicted by the Grand Jury of this County for "<hi rend="underline">permitting</hi> <hi rend="underline">Gaming</hi> <hi rend="underline">in</hi> <hi rend="underline">his</hi> <hi rend="underline">House</hi>" and was tried and the <date when="--02">February Term</date> of the Trigg Cir. Court and fined <hi rend="underline">Two</hi> <hi rend="underline">Hundred</hi> <hi rend="underline">Dollars</hi>. We further state that there was only one Game played in his house, and the testimony showed conclusively that said Vickers was not at home at the time the game was played and had no Knowledge of the gaming whatever. And further that Mr Vickers is a hard working poor man with a family and a good civil law abiding citizen</p>
+<p>We therefore earnestly petition your Excellency to remit that portion of said fine which is going to the Commonwealth and we will ever pray as in duty bound</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>B F Luten
+<lb/>C. H. Smith
+<lb/>W. A. J Attebury
+<lb/>John C. Caorling
+<lb/>Marcus L. Mitchell
+<lb/>G. W. Richmond
+<lb/>A Thomas
+<lb/>G. B. Savens
+<lb/>J. W. Rhoades
+<lb/><cb n="2"/>John Lochhead
+<lb/>E Rhoades
+<lb/>Wm Adcock
+<lb/>John Dunaway
+<lb/>J C Yene
+<lb/>F. J. Barnes
+<lb/>M. D. Mitchuson
+<lb/>James Garnester<milestone unit="column" n="1"/><pb/>
+<lb/>Natty Harris
+<lb/>Natty Harris
+<lb/>Joseph Harris
+<lb/><unclear/> C <unclear/>
+<lb/>H Z Banister
+<lb/><unclear/> Sharp
+<lb/>John Ferguson
+<lb/>T G Baker
+<lb/>H Henderson
+<lb/>C. W. Franklin
+<lb/>A. J. Franklin
+<lb/><hi rend="str">H</hi> H. W. Flora
+<lb/>Jesse solomon
+<lb/>D. Flora
+<lb/>E. Vinson
+<lb/>John Whaley</p>
+  </body>
+ </text>
+</TEI>

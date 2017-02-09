@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0033"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Aaron G. Scott et al., Affidavit</title>
+    <title level="a" type="parallel">CWG9501</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG17A-94</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Caldwell County, Kentucky</placeName>
+    <date when="1861-01-29">29 January 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Kentucky Caldwell County.</p>
+<p>Aaron G. Scott, ^Mark Scott &amp; Norblet Jones &amp; S. C. Campbell^ E. B. Hooper, R. P. Dawson and Eli Nicholl say, they are acquainted with Mrs Mary Wadlington wife of Th<hi rend="underline"><hi rend="sup">os</hi></hi> B. Wadlington, and with her general Moral character. They say, that she is a kind &amp; good neighbor a good wife and mother. That from their knowledge of her good character they do verily believe that any statement she has or may make under oath is entitlted to full credit. They say they are her immediate neighbors, and have Known her for many years.</p>
+<p>A. G. Scott
+<lb/>Mark Scott
+<lb/>Noflet Jones
+<lb/>E B Hooper
+<lb/>R P Dawson
+<lb/>Eli Nickels
+<lb/>S. C. Campbell</p>
+<p>Sworn to and subscribed ^<hi rend="str">&amp; every to</hi>^ before me by the above named Scott, Hooper, Dawson &amp; Nichols ^&amp; Scott &amp; Jones &amp; Campbell^ -- This <date when="1861-01-29">29<hi rend="underline"><hi rend="sup">th</hi></hi> Jany 1861</date>.</p>
+<p>W. S. Talbott att. P. J. T. P.</p>
+  </body>
+ </text>
+</TEI>

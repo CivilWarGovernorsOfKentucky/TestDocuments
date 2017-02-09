@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-006-0060"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Andrew L. Robinson, Affidavit</title>
+    <title level="a" type="parallel">CWG1106</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's Official Correspondence File, Requisitions for the Return of Fugitives from Justice, 1863-1867</collection>
+      <idno>BR6-73</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Vanderburgh County, Indiana</placeName>
+    <date when="1865-05-15">15 May 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>State of Indiana
+<lb/>Vanderburgh County</p>
+<p>This day personally appeared before the undersigned a Notary Public, Andrew L. Robinson who after being sworn deposes and swears that the written named John W. Rutherford since the commission of the crime charged against him in the foregoing indictment has left the State of Indiana and is at the present term residing in the County of Crittenden in the Commonwealth of Kentucky</p>
+<p>A. L. Robinson</p>
+<p><stamp type="revenue">C. E. M.
+<lb/>Not Pub
+<lb/><date when="1865-05-16">May 16, 1865</date></stamp>
+<lb/><figure type="seal"><ab>NOTARY PUBLIC
+<lb/>VANDERBURGH CO. IND.</ab></figure></p>
+<p>Sworn to and subscribed before me Chas E. Marsh a Notary Public within and for said county this this <date when="1865-05-15">15th day of May A. D. 1865</date> as witness my hand and Notorial seal this date aforesaid</p>
+<p>Chas E. Marsh Notary Public<pb/></p>
+<p>V.C.C.
+<lb/>The State of Indiana vs John W. Rutherford<figure type="hr"/>
+<lb/>Copy of Indictment<figure type="hr"/>
+<lb/>costs of transcript $3.00
+<lb/>Paid by Maj Robinson
+<lb/><hi rend="underline">Blythe Hynes</hi></p>
+<p><date when="1865-05-17">May 17/65</date></p>
+<p>Sec. state will issue requisition as asked -- See letter of instructions herewith from Mr Robinson</p>
+<p>By order Gov<hi rend="sup">r</hi>
+<lb/>C. P. Jacobs
+<lb/>Priv. Secy -- </p>
+  </body>
+ </text>
+</TEI>

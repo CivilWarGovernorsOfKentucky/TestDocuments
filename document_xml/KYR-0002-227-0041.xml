@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-227-0041"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Edward D. Townsend, Special Orders, No. 2</title>
+    <title level="a" type="parallel">CWG14271</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>11th Ky. Cav (US) Muster Rolls</collection>
+      <idno>Flat Storage Box: 11th Ky Cav (US) Muster Rolls, Bundle 7</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Washington, District of Columbia</placeName>
+    <date when="1865-01-03">3 January 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Order</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>WAR DEPARTMENT,
+<lb/>ADJUTANT GENERAL'S OFFICE,
+<lb/><hi rend="italic">Washington, </hi><date when="1865-01-03"><hi rend="italic">January </hi>3<hi rend="italic">d</hi>, 1865</date>.
+<lb/>SPECIAL ORDERS,
+<lb/>No. 2 }
+<lb/>(<hi rend="italic">Extract</hi>.)<figure type="hr"/></p>
+<p>60. The following officers, recently escaped Prisoners of War, will proceed to join their regiments in the field. Permission to delay reporting for thirty days, is hereby granted them: -- </p>
+<p>Captain <hi rend="italic">Charles L. Unthank</hi>, 11th Kentucky Cavalry.<figure type="hr"/></p>
+<p>By order of the Secretary of War:
+<lb/>E. D. TOWNSEND,
+<lb/><hi rend="italic">Assistant Adjutant General</hi>.</p>
+<p>OFFICIAL:
+<lb/>E D Townsend
+<lb/><hi rend="italic">Assistant Adjutant General</hi>.</p>
+<p>Governor of Kentucky<pb/></p>
+<p>11 Cavy<figure type="hr"/>
+<lb/>Unthank Chas L
+<lb/>Capt<figure type="hr"/>
+<lb/>Order<figure type="hr"/>
+<lb/>to delay reporting for 30 days<figure type="hr"/>
+<lb/>Rec<hi rend="sup">d</hi> A. G. O. <date when="1865-01-13">Jany 13. 1865</date></p>
+  </body>
+ </text>
+</TEI>

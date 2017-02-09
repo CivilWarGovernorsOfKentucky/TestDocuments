@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-2130"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Squire Turner and James B. McCreary to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG9206</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG24-202 to MG24-203</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Richmond, Madison County, Kentucky</placeName>
+    <date when="1862-04-05">5 April 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Richmond Ky
+<lb/><date when="1862-08-05">April 5<hi rend="underline"><hi rend="sup">th</hi></hi> 1862</date>
+<lb/>Gov B_ MaGoffin</p>
+<p>Sir: Last fall we Sent you a copy of an order of Court Stating that the Judge of the Madison Circuit Court refused to preside on the trial of Francis Searcy under an indictment for Murder -- Whereupon you designated Judge Burns to preside on the trial of the case. Burns has gone out of office &amp; the case has not been tryed. The residence of the Hon. Melton Durham is nearer to this place than that of any other Judge &amp; no party will object to Judge Durham presiding on the trial -- C<hi rend="underline"><hi rend="sup">ol</hi></hi> Searcy desires a trial as early as possible &amp; we hope you will immediately designate Judge Durham to preside</p>
+<p>Respectfully
+<lb/>Yours
+<lb/>Squire Turner
+<lb/>Ja<hi rend="underline"><hi rend="sup">s</hi></hi> B M<hi rend="sup">c</hi>Creary<pb/></p>
+<p>Madison Cir Court
+<lb/>M. J. Durham
+<lb/>App<hi rend="underline"><hi rend="sup">d</hi></hi> to hold Special term in the Case of F. M. Searcey
+<lb/>App<hi rend="sup">d</hi> <date when="1862-04-09">Apr 9. 1862</date><figure type="hr"/></p>
+<p>Commission him
+<lb/>B. M</p>
+  </body>
+ </text>
+</TEI>

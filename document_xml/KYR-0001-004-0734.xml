@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0734"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">J. R. Watson to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG4853</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR10-123</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1864-04-29">29 April 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency Thos E Bramlette Governor of Kentucky</p>
+<p>Your Petitioner James Watson a citizen of Frankfort States that on the <date when="1864-03-22">22 Day of March 1864</date> the Police Court of Frankfort rendered two Judgements against him of $50. each upon a charge of Selling liquor to Minors</p>
+<p>The proof on the two cases was that two young men under 21 years of age drank liquor at your Petitioners Restaurant in Frankfort and the liquor was furnished to them by John Rupe one of your Petitioners bar Keepers.</p>
+<p>Rupe Stated on oath (and Such in the fact) that your Petitioner positively prohibited him from selling to infants whom he went into his employment</p>
+<p>Your Petitioner has always been careful not to violate the ban and has always directed his bar Keepers not to sell or give either to infants or Slaves</p>
+<p>He pray, that said Judgments be remitted</p>
+<p><date when="1864-04-29">April 29. 1864</date> J R Watson</p>
+<p>The above is a true statement of the proof in the cases above named</p>
+<p>Jno M Hewett Jr
+<lb/>City Attr.
+<lb/><date when="1864-04-28">April 28th 1864</date>
+<lb/>John R Graham P. J. C f<pb/></p>
+<p>Police Ct Frankfort
+<lb/>vs
+<lb/>Jas R Watson
+<lb/>2 Judgts
+<lb/>$50. each
+<lb/>Tipling
+<lb/><date when="1864-05-02">2<hi rend="sup">nd</hi> May/64</date></p>
+<p>Remit except fees &amp; costs
+<lb/>Tho E bramlette
+<lb/>Govr</p>
+  </body>
+ </text>
+</TEI>

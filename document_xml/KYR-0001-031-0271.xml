@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-031-0271"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">G. P. Jolly to James F. Robinson</title>
+    <title level="a" type="parallel">CWG8011</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Appointments by the Governor, Civil Appointments, 1862-1863</collection>
+      <idno>R1-369</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Hardinsburg, Breckinridge County, Kentucky</placeName>
+    <date when="1863-06-15">15 June 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Hardinsburge Ky <date when="1863-06-15">June 15<hi rend="underline"><hi rend="sup">th</hi></hi> 63</date>
+<lb/>To the Hon Governor of Ky</p>
+<p>Sir Some time since I with the County Judge Certified to the election of James Drury Esqr as Justice of the peace in District No 6 and at the same time we Certified that he was a strong Simpethiser of the rebelion in that I learn that we ware Some what Mistaken he is not so violant as we had been informed and the Deputy Sheriff in that part of the County thinks he Should have his Commission and that a large majority of the Union men in that part of the County or his district wish him to have it for they have no better Man that will hold the office and that it will do the Union Cause Good for they are almost Compelled to have a Justice there as there is a Small village in the neighborhood We tharefore Request you as Governor to Send on his Commission and if necessary we will Git the County Judge and high Sheriff to Certify the Same and also the Union men in his District to petition for his Commission.</p>
+<p>I am yours Respectfully
+<lb/>G. P. Jolly</p>
+<p>I Thomas J Jolly acting Deputy Sherriff in the Eastern portion of the County of Breckenridge Certify that the above is true.</p>
+<p>Tho<hi rend="sup">s</hi> J Jolly D S for G W Beards B C</p>
+<p>I J P Jolly Clk do Certify that Thos. J. Jolly is a Loyal man and that he would not do anything that would injer the Union Cause</p>
+<p>Att G. P. Jolly Clk B. C. C.<pb/></p>
+<p>Breckenridge County<figure type="hr"/>
+<lb/>J. P. Dist N<hi rend="sup">o</hi> 6.
+<lb/>Com Iss<hi rend="sup">d</hi> <date when="1863-06-23">June 23. 1863</date></p>
+  </body>
+ </text>
+</TEI>

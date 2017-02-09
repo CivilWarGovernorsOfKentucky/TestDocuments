@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-227-0014"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Bradburn to Daniel W. Lindsey</title>
+    <title level="a" type="parallel">CWG14244</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>11th Ky. Cav (US) Muster Rolls</collection>
+      <idno>Flat Storage Box: 11th Ky Cav (US) Muster Rolls, Bundle 4</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Jefferson County, Tennessee</placeName>
+    <date when="1865-03-21">21 March 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Mossey Creek Tenn
+<lb/><date when="1865-03-21">March 21<hi rend="underline"><hi rend="sup">st</hi></hi> 1865</date>
+<lb/>D. Lindsey
+<lb/>Adjt. Gen<hi rend="sup">l</hi>. Ky Vol.
+<lb/>Gen<hi rend="sup">l</hi>.</p>
+<p>I have to honor to State that you Commissioned me as first Lieut. in Company.D. 11<hi rend="underline"><hi rend="sup">th</hi></hi> Ky Cav on the <date when="1864-11-11">11<hi rend="sup">th</hi> day of November 1864</date> since which time I have performed the duty of such up to the present time and am now informed by Lt. Col. Slator that I cannot be mustered in the Company owing to the Company having but six months to serve</p>
+<p>I would also beg leave to state that the commission I now hold gives me a great deal of trouble to draw my pay as Sergt. and trust that you will not think hard of me to ask that you cancel my commission and I will wait untill some future time that promotion might offer in my own Company</p>
+<p>Verry Respectfully
+<lb/>Your Obt. Servant.
+<lb/>John Bradburn<pb/></p>
+<p><hi rend="underline">11 Cav</hi><hi rend="underline"><hi rend="sup">y</hi></hi>
+<lb/>Mossey Creek Tenn.
+<lb/><date when="1865-03-21">Mar. 21. 1865</date><figure type="hr"/>
+<lb/>Bradburn John<figure type="hr"/>
+<lb/>Says he cannot get mustered on enclosed commission, and asks that the same be cancelled-<figure type="hr"/>
+<lb/>cancel this commission and "by request" and notify him of same
+<lb/>D W Lindsey
+<lb/>Adj Gen<hi rend="sup">l</hi> Ky</p>
+<p>cancelled &amp; notification of same sent to him
+<lb/><date when="1865-04-03">Apl 3/65</date><figure type="hr"/>
+<lb/>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> A. G. O. Ky <date when="1865-03-31">31 Mar. 1865</date></p>
+  </body>
+ </text>
+</TEI>

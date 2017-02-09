@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-033-0007"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">P. H. Bullen et al. to James F. Robinson</title>
+    <title level="a" type="parallel">CWG1470</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Jacob A Glover</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Governor's Official Correspondence File, Apprehension of Fugitives from Justice Papers, 1862-1863</collection>
+      <idno>R3-29</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Jefferson County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency James F. Robinson Governor of the Commwth. of Kentucky -- </p>
+<p>We the undersigned Jurors who tried the case of Henry V. Sundrum on a charge of malicious stabbing finding abundant reasons in said case for the exercise of your Constitutional Prerogative of Pardon, do very earnestly recommend him to Executive clemency and ask a pardon in his behalf without delay -- He proved a good character, is honest and peacable, and has a wife &amp; two children, is a mechanic of Louisville, and committed the offence in anger -- He delievered himself up to the officer and was for awhile on bail, And is now in jail awaiting his sentence for <hi rend="underline">one year</hi> in the penetentiary -- </p>
+<p>Most Respectfully Submitted -- 
+<lb/><milestone unit="column" n="2"/><cb n="1"/><unclear>P</unclear>. H. Bullen
+<lb/>Thomas Meek
+<lb/>A A Harvey
+<lb/>H S. Blar
+<lb/>J A Benseman
+<lb/>J C M<hi rend="sup">c</hi>Donald
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Hurst
+<lb/>H. S. Gaar
+<lb/>R Whitney
+<lb/>H D Blankenbaker
+<lb/><cb n="2"/>W<hi rend="underline"><hi rend="sup">m</hi></hi> J. Cornell
+<lb/>Geo Brobston</p>
+<p>I hereby certify that the twelve names affixed to the above certificate were the jurors who convicted Henry V Sundrum</p>
+<p>att Jas P Chambers
+<lb/>clk Jef cir ct<milestone unit="column" n="1"/><pb/></p>
+<p>To his Excellency: The Governor of Kentucky:</p>
+<p>The undersigned states that He conducted the prosecution for the State on the trial of the above case being requested to do so by the Atto for the Commonwealth and consent of the Court: The Petition describes the case truly: and in as much Twelve respictable Citizen have joined in a Petition for his pardon; and there is doubt to some extent that the stabbing was done maliciously but in sudden heat &amp; passion: I cheerfully Join in their petition: the young man is of good repute in this city for honesty sobriety and industry</p>
+<p><hi rend="underline">E, S, Craig</hi></p>
+<p>Jefferson
+<lb/>Cir. Ct.
+<lb/>H. V. Sundrum
+<lb/>Pettn
+<lb/>Felony
+<lb/>1 yr Penty</p>
+<p>Pardon granted <date when="1862-11-03">3 Nov 1862</date>
+<lb/><hi rend="underline">J F Robinson</hi></p>
+<p>Iss<hi rend="sup">d</hi> <date when="1862-11-03">Nov 3. 1862</date></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2723"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">E. P. Davis et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7360</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR16-380 to BR16-380A</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Carter County, Kentucky</placeName>
+    <date when="1865-11-01">1 November 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>State of Kentucky
+<lb/>Carter County. SS
+<lb/>To His Excellency Thomas E. Bramlett Governor,</p>
+<p>The under signed petitioners would represent to your Excellency that whereas John P Stephens was fined the Sum of $60 at the <date when="1865-04">April</date> Term of the Carter Circuit Court <date when="1865">^1865^</date> for Keeping a tipling house. Now Th<hi rend="str">is</hi>ese <hi rend="str">is</hi>are the circumstances in which the selling was done Mr Stephens had a team Halling goods from Catletts burg Ky he being a merchant and among the goods he had a Keg of whisky in his waggon for his own use and some men went to the wagon from an Iron furnace and said Stephens Son was driving the team; the driver was about 15 years old; and they made or induced the boy by persuasion to Let them have <hi rend="str">a</hi> some whiskey against the, orders of his father who is now fined, Now Mr Stephens is a man of good character with a large family, Now as the selling was done by a trick by designing men; and the intention of halling the whiskey home was only for his own use and not to violate the Laws of the cuntry, as Mr Stephens is <hi rend="str">a</hi> truly a Loyal man and at all times done all he could to put down the Gurrillers and suffered very much for being a union man as all union men did in this cuntry Now we petition your exellency to remit Said fine and for such relief shall ever pray</p>
+<p><date when="1865-11-01">Nov 1<hi rend="sup">st</hi> 1865</date>
+<lb/><milestone unit="column" n="2"/><cb n="1"/>E P Davis
+<lb/>C M Vincent
+<lb/>R R Shepherd
+<lb/>Willy Deal
+<lb/>William Deal
+<lb/>preston Crank
+<lb/>William Bradford
+<lb/>Enoch Lewis
+<lb/>Charls Sewell
+<lb/><cb n="2"/>L pope
+<lb/>James Clay
+<lb/>G. W. Clay
+<lb/>Harvey Watson
+<lb/>Larkin Dawson
+<lb/>James Cott
+<lb/>Grimes maticks
+<lb/>James hawel
+<lb/>Samuel hawel<pb/>
+<lb/><cb n="1"/>James Yates
+<lb/>Isaac G. Chrisman
+<lb/>A. J. Bellamy
+<lb/>J R Strother
+<lb/>H Baker
+<lb/>Robert S. Strother
+<lb/>Soloman Stephens
+<lb/>Wm Stephens
+<lb/>John Z Duley
+<lb/>James Johnson
+<lb/>James porter
+<lb/>J F Stephens
+<lb/>John C porter
+<lb/>Robert Stephens
+<lb/>John R Boggs
+<lb/>liheu Boggs
+<lb/>Barney porter
+<lb/>James warnick
+<lb/>John W maddix
+<lb/><cb n="2"/>Rus horton
+<lb/>Noah <unclear/>
+<lb/>Moses Neithercutt
+<lb/>John S creech
+<lb/>Henrey creech
+<lb/>H Boggs
+<lb/>W<hi rend="underline">m</hi> L. Stephens
+<lb/>henrey Lee
+<lb/>Kit Simmons
+<lb/>Wm Simmons
+<lb/><unclear/> Jacobs
+<lb/>Wm Jacobs
+<lb/>Briant fannon
+<lb/>William frisbey
+<lb/>Gabriel Stephens
+<lb/>William neithercutt
+<lb/>Jacob porter
+<lb/>frances porter
+<lb/>H King
+<lb/><unclear/> willis
+<lb/>Aron Burton<pb/></p>
+<p><milestone unit="column" n="1"/><hi rend="str"><unclear/></hi>Carter Cir Ct
+<lb/>vs
+<lb/>John P. Stephens
+<lb/>$60,
+<lb/>Remitted <date when="1865-11-13">13<hi rend="sup">th</hi> Nov/65</date></p>
+  </body>
+ </text>
+</TEI>

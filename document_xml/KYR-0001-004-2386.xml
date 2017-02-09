@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2386"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Thomas Jones et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7023</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR15-309 to BR15-310</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Alexandria, Campbell County, Kentucky</placeName>
+    <date when="1865-09-29">29 September 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency
+<lb/>Thomas E Bramlett, "Governor"
+<lb/>Commonwealth of Kentucky,
+<lb/>Frankfort Kentucky.</p>
+<p>At the <date when="1865-08">August Term of Campbell Circuit Court, 1865</date> -- </p>
+<p>Ferdinand Winterhalter a Tavern Keeper at this place Alexandria was Indicted for Selling Liquor to a Minor, and a fine assessed against him of $50.<hi rend="underline"><hi rend="sup">00</hi></hi> Dollars.</p>
+<p>The Circumstances under which he was fined in the opinion of your petitioners deserve the interposition of your Excellency, Mr Winterhalter a German by birth has been a Citizen of this town for Several years, and has invariably been Strictly a law abiding man, and the minor who he is reported to of Sold Liquor to is one William Nelson who to all apperance was past the age of Twenty one, but the evidence<pb/>
+<lb/>in Court, proved him to be under that age, "with Shame a Father" makes that claim, after having several years allowed him to deal and carry on affairs for himself, believing as your petitioners do that offences of selling to minors Should be punished with the extremity of the Law, but in this instance Such was not the fact, for he is and was an adult in apperance &amp; transactions.</p>
+<p>Mr Winterhalter died but a few days ago and left a wife &amp; <hi rend="str">4</hi>5 children, with but little inheritence who must now battle with the world unprotected, We feel that your charitable hand will and should be extended in this Case, as in duty bound your petitioners will ever pray, <date when="1865-09-29">Sept 29<hi rend="sup">th</hi> 1865</date></p>
+<p>Thomas Jones
+<lb/>W, H, Thomas D, C, C, C. Court<pb/>
+<lb/>C. Smith
+<lb/>R. Riggall
+<lb/>Peter Kronz P. M.
+<lb/>Ph Gerlach<pb/></p>
+<p>Campbell Cir Ct
+<lb/>vs
+<lb/>F. Winterhalter
+<lb/>$50,
+<lb/>Selling liquor to minor
+<lb/>Remitted <date when="1865-10-03">3<hi rend="sup">d</hi> Oct 1865</date></p>
+  </body>
+ </text>
+</TEI>

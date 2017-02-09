@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2826"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">J. Saige Dury, A. E. Adams, and John Dils, Jr. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7463</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR17-101</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Piketon, Pike County,Kentucky</placeName>
+    <date when="1865-12-09">9 December 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Piketon, Ky. <date when="1865-12-09">Dec. 9<hi rend="sup">th</hi> '65</date>
+<lb/>To His Excellency
+<lb/>Gov Bramlette</p>
+<p>An Indictment for Tippling was found at the present term of our Circuit Court against James Black -- a colored man -- &amp;, although he could really have demurred the same out of Court, on account of his not being a free man, but as this might have prejudiced him in an other important matter, he did not choose thus to gratify those who were instrumental in indicting him, &amp; went into court &amp; confessed, &amp; now throws himself upon the mercy of your excellency for pardon.</p>
+<p>The undersigned vouch for his character as an upright, industrious, &amp; really respected black man -- being an exception from the majority of his race, in all the elements of a good citizen, &amp; believeing, &amp; knowing the liquor to have been sold under peculiar circumstances through the agency of white men takeing advantage of him, they ask your excellency to remit the fine.</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>I fully endorse the Above Statement &amp; Petition</p>
+<p>J. S. Dury
+<lb/>Com<hi rend="underline"><hi rend="sup">th</hi></hi> Atty.
+<lb/><cb n="1"/>A. E. Adams
+<lb/>John Dils Jr<pb/></p>
+<p><milestone unit="column" n="1"/>Pike Circuit Ct
+<lb/>vs
+<lb/>James Black
+<lb/>$60,
+<lb/>Tipling
+<lb/>Remitted <date when="1865-12-16">16 Dec/65</date></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0501"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Fenton M. Henderson to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG2166</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Appointments by the Governor, Civil Appointments, 1863-1867</collection>
+      <idno>BR2-457</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Leesburg, Loudoun County, Virginia</placeName>
+    <date when="1865-08-25">25 August 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>LEESBURG, LOUDOUN COUNTY, VA,
+<lb/><date when="1865-08-25">Augt 25<hi rend="sup">th</hi>, 1865</date>.
+<lb/>To His Excellency the Governor of the State of Kentucky.
+<lb/>Sir,</p>
+<p>I respectfully ask for the appointment of Commissioner to take acknowledgment of Deeds, &amp;c., for the State of Kentucky. I am now a Commissioner in Chancery and for Stating Accounts of Fiduciaries, and also a Notary Public for <hi rend="str">said</hi> ^this^ County. Should you appoint me to said position, please send me the forms, prescribed in your State, for taking such acknowledgments.</p>
+<p>I refer, with their permission, to the folloiwng named gentlemen:
+<lb/><milestone unit="column" n="2"/><cb n="1"/>John Janney, Attorney at Law,
+<lb/>Matthew Harrison. "
+<lb/>Jno. M. Orr, "
+<lb/>W. B. Downey, "
+<lb/><cb n="2"/>Dr. T. H. Clagett,
+<lb/>Dr. A. R. Mott,
+<lb/>C. P. Janney, Clerk of County Court,
+<lb/>G. K. Fox, jr., Deputy Clerk.<milestone unit="column" n="1"/></p>
+<p>Very respectfully,
+<lb/>Fenton M. Henderson<pb/></p>
+<p>Com<hi rend="sup">r</hi> Deeds
+<lb/>Virginia
+<lb/>F. M. Henderson
+<lb/>com<hi rend="sup">d</hi>
+<lb/><date when="1865-08-30">30<hi rend="sup">th</hi> Aug 1865</date></p>
+  </body>
+ </text>
+</TEI>

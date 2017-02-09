@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-002-0006"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Marcellus Mundy to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG0871</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Jacob A Glover</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Appointments by the Governor, Military Appointments, 1863-1867</collection>
+      <idno>BR5-315 to BR5-316</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date when="1863-12-01">1 December 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Head-Quarters Military Commander, Lousiville.
+<lb/>Louisville, Ky., <date when="1863-12-01">Dec. 1<hi rend="sup">st</hi> 1863.</date>
+<lb/>His Excellency Tho<hi rend="sup">s</hi>. E. Bramlette
+<lb/>Governor of Ky
+<lb/>Govenor.</p>
+<p>I would respectfully recommend to You the bearer J. K. Edwards who has been acting under me as U. S Detective for some months and whose Courage and efficiency I can endorse. By direction of Genl. Boyle I send him to report to you for special duty and I will say to you that you can rely on him. Edwards will relate his private history since the war Commenced to you and I know you will <unclear/> him the best in your power. He is desirous of holding an honorary Commission. Can't you appoint him a staff officer?</p>
+<p>Respectfully
+<lb/>M Mundy
+<lb/>Col &amp; Mil Com L.</p>
+  </body>
+ </text>
+</TEI>

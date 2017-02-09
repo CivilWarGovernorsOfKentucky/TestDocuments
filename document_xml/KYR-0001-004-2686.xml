@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2686"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">William Pugh et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7323</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR16-318 to BR16-319</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency Thomas E Bramlett Governer of Kentucky the undersigned petitioners of Boyd County Kentucky would respectfully represent that at the <date when="--10">October</date> term of the Boyd Circuit Court judgments wer rendered against Col John L Zeigler for fifty dollars for selling liquor to a minor and sixty dolls for Keeping a tipling House we are well acquainted with Col Ziegler and Know him to be a cleaver good man he has now license to Keep a Coffee house for which he has had to pay Two hundred and ten dollars we therefore pray you Excellency to remitt said fines</p>
+<p>W<hi rend="sup">m</hi> Pugh
+<lb/>Tho<hi rend="sup">s</hi> J. Ewing
+<lb/>Jasper Bowling
+<lb/>Jas. R Finn
+<lb/>K N Harris
+<lb/>J Frainor King
+<lb/>V. Reinhart
+<lb/>John <unclear/>
+<lb/>John Johnson
+<lb/>Ja<hi rend="sup">s</hi> Brise
+<lb/>B Burk
+<lb/>Laban T Moore
+<lb/>J. D. Jones<pb/></p>
+<p>Boyd Cir Ct
+<lb/>vs
+<lb/>John L Zeigler
+<lb/>2 judgts
+<lb/>one for $60 Tipling ^House^
+<lb/>one for $50 Selg to Mr
+<lb/>Remitted <date when="1865-11-10">10 Nov/65</date></p>
+  </body>
+ </text>
+</TEI>

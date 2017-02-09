@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2329"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">R. H. Stanton et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6966</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR15-219</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1865-09-20">20 September 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency Thomas E Bramlette, Governer</p>
+<p>The undersigned respectfully states, that at the present term of the Nicholas Circuit Court, he was fined $20 for playing a game of cards, on the premises of John Hughes &amp; Co, in an old abandoned house, without the consent of the owner. Four of us engaged in the game and only myself was fined, the rest being acquitted. We played only a short time, and when we quit the parties were even no money being lost or won in the final result, and not more than one dollar in all being ventured, My child died on the day of the trial and I was engaged in attending its burial when the trial came off and could not be present. I am poor and respectfully ask that you will remit so much of said fine as you may have it in your power to do, and I promise never to do so again, <date when="1865-09-20">Sep 20, 1865</date>,</p>
+<p>I respectfully unite in asking that the Governer will comply with M<hi rend="sup">r</hi> Hughes' request and remit said fine,</p>
+<p>R. H. Stanton</p>
+<p>R. W. Ricketts
+<lb/>T I Moffett
+<lb/>D. W. Hildreth
+<lb/>David Glasscock
+<lb/>Michael Rafferty
+<lb/>W A <unclear>M Alsop</unclear><pb/></p>
+<p>Nicholas Cir Ct
+<lb/>vs
+<lb/>Remit
+<lb/>Hughes
+<lb/>$20.
+<lb/>Gaming
+<lb/><date when="1865-09-28">28 Sept/65</date></p>
+  </body>
+ </text>
+</TEI>

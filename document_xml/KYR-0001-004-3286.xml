@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-3286"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">W. D. Carpenter to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG5405</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR42-101</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Exilency
+<lb/>Thomas E. Bramlette, Govenor of Kentucky
+<lb/>Sir</p>
+<p>Your Petitioners who sign this Petition would Respectfully represent = That in the <date when="1862">fall of 1862</date> while following up the retreating army of Braggs on their way out of this state, Col Wolford sent a sqad of men under command of Adjutant W. D. Carpenter of the First Ky Cav from Crab Orchard Ky across towards the Big hill road, to arrest deserters and stragglers from the Rebel Army, and did arrest a great many, and that Carpenter sent Sergeant J. W. Ross, down a road some half mile from where he was on duty, and while there a man by name of M<hi rend="sup">c</hi>Clure a stranger to <hi rend="underline">Ross</hi> came up dressed considerably like a rebel soldier, whom Ross ordered to surrender, when M<hi rend="sup">c</hi>Cure drew a pistol and snapped at Ross, when Ross fired and killed him; he was afterward tried by Court Martial and acquitted said Ross was mustered out of the army last Spring and came home, took part in the election for the amendment candidate in Garrard County, which caused Rebel Citizens to indict him before the Grand jury for Murder. In order as we believe to incarcerate him in jail or cause him to leave the country and we<pb/>
+<lb/>Resptly petition your Exilency to pardon him. he was a faithful Soldier and is a good citizen.</p>
+<p>Adjutant Carpenter will make oath to the above statements.</p>
+<p>We are very Resptly
+<lb/>Your Ob<hi rend="underline"><hi rend="sup">t</hi></hi> Serv<hi rend="underline"><hi rend="sup">ts
+<lb/></hi></hi>W D Carpenter</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1453"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John W. Cardwell to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6090</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR12-259 to BR12-260</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Mercer County, Kentucky</placeName>
+    <date when="1865-01-18">18 January 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency Thos E Bramlette
+<lb/>Governor of Kentucky</p>
+<p>Your Petitioner John W Cardwell would respectfully represent that himself and Jo<hi rend="sup">s</hi> H Tompkins now Lieut Col of the 4<hi rend="sup">th</hi> Ky Mounted Infantry became the sureties of W<hi rend="sup">m</hi> Barrett -- charged with the offense of horse stealing in a bail bond, conditioned for the appearance of the said Barrett -- to answer the said charge <hi rend="str">and</hi> before the Mercer Circuit Court and that at the last <date when="1864-11">November Term 1864</date> of the said Court the said bond was forfeited -- </p>
+<p>Your Petitioner states that Col Tompkins is now absent with his command and cannot join in this Petition but your Petitioner humbly conceives that a brief statement of facts will justify this appeal to your Clemency in his own behalf as well as in behalf of Col Tompkins</p>
+<p>The accused was passing down the main street of Harrodsburg in such a complete state of drunkenness as to scarcely comprehend what he ^was^ doing -- and in broad daylight with the street crowded with men and horses, and declaring that he must have a horse he <hi rend="str">mounted</hi> unhitched &amp; led off the horse of a well known practicing Physician of this Town<pb/>
+<lb/>(D<hi rend="sup">r</hi> Rose) and had not proceeded over one hundred yards before he was arrested, and confined in Jail on a charge of horse stealing, After remaining in Jail for some length of time Your petitioner with Col Tompkins became his bail the bond for which has been forfeited</p>
+<p>The accused was not present because he is in the service of the United States and as Your petitioner is informed believes &amp; states is doing his duty manfully &amp; well as a soldier -- </p>
+<p>D<hi rend="sup">r</hi> Rose the owner of the horse has informed Your petitioner that he was satisfied no felonious intent actuated the accused when the horse was taken &amp; that he would so tell the jury upon the trial, and further that he would not appear or prosecute the case against the accused -- </p>
+<p>Now in view of the above facts, for the purpose of saving Your Petitioner and Col Tompkins from costs annoyance &amp; expence, for the purpose of saving costs to the Commonwealth which must accrue upon the prosecution of the forfeiture (the principal witness for the Commonwealth being D<hi rend="sup">r</hi> Rose) Your Petitioner humbly asks that Your Excellency will remit the forfeiture of said bond &amp; recognizance in so far as Your Petitioner &amp; Col Tompkins are concerned -- and as in duty bound &amp;c<pb/>
+<lb/>Your Petitioner could procure other names to this Petition but relying upon his acquaintance with Your Excellency &amp; flattering himself that Your will beleive the truth of his statements he rests his petition alone upon its merits, satisfied that your Excellency will regard the case upon those facts alone which justify his prayer -- </p>
+<p><hi rend="underline">J. W. Cardwell</hi></p>
+<p>Signed &amp; Sworn to before me by John W Cardwell this <date when="1865-01-18">18<hi rend="sup">th</hi> of January 1865 -- </date></p>
+<p>T. J. Fisher N., P,
+<lb/><figure type="seal"><ab>T. J. FISHER,
+<lb/>NOTARY PUBLIC
+<lb/>MERCER CO. KY.</ab></figure>
+<lb/><stamp type="revenue"/><note place="stamp">T J F
+<lb/>18 <unclear/> <date when="1865">1865</date></note><pb/></p>
+<p>Mercer Cir Ct
+<lb/>vs
+<lb/>Caldwell &amp; Tompkins
+<lb/>Remit the forfeiture -- <figure type="hr"/>
+<lb/><date when="1865-01-23">23<hi rend="sup">d</hi> Jany/65</date></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0970"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">W. Hoffman to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG5089</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR11-2</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Washington, District of Columbia</placeName>
+    <date when="1864-06-21">21 June 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Office of the Commissary General of Prisoners
+<lb/>Washington, D. C., <date when="1864-06-21">June 21<hi rend="underline"><hi rend="sup">st</hi></hi>, 1864</date>.
+<lb/>Hon Tho<hi rend="sup">s</hi> E. Bramlette
+<lb/>Governor State of Ky
+<lb/>Frankfort. Ky
+<lb/>Sir.</p>
+<p>I have the honor to acknowledge the receipt of the petition referred by you on the <date when="1864-05-17">17<hi rend="sup">th</hi> of May/64</date> for the release of Henry C. Garth, a prisoner of War at Louisville, Ky and to inform you in reply, that the case was submitted to the Secretary of War, by whom it is not favorably considered at this time, but the prisoner will not be sent South for Exchange against his consent</p>
+<p>I am Sir very respectfully
+<lb/>Your Ob't Servt
+<lb/>W. Hoffman
+<lb/>Col 3<hi rend="sup">d</hi> Infty
+<lb/>Com'y General of Prisoners</p>
+  </body>
+ </text>
+</TEI>

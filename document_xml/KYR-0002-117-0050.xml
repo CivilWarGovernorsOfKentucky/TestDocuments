@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-117-0050"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Boyle to J. N. B. Hardwick et al.</title>
+    <title level="a" type="parallel">CWG13879</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Christina K Adkins</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>Adjutant General Letter Book - No. 3 ; 9 April - 25 May 1864</collection>
+      <idno>282</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1864-05-10">10 May 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><note place="header">282</note>
+<lb/><date when="1864-05-10">May 10<hi rend="underline"><hi rend="sup">th</hi></hi> <gap/>4</date>
+<lb/>J. N. B. Hardwick Esq
+<lb/>George Knox "
+<lb/>J. H. Scholl "
+<lb/>G. M. Pettit "
+<lb/>Stanton Ky:
+<lb/>Gentlemen</p>
+<p>Your communication of the <date when="1864-05-01">1<hi rend="sup">s</hi> inst</date> addressed to his Excellency Governor Bramlette, has been referred to me for reply. I have the honor to state that your letter has been referred to Brig Gen<hi rend="sup">l</hi> Burbridge who has entire jurisdiction in the matter, and who will doubtless give protection as far as he is able, to the loyal people of your county.</p>
+<p>Very Respectfully
+<lb/><hi rend="underline">John Boyle</hi>
+<lb/>Adjt Gen<hi rend="sup">l</hi> of Ky</p>
+  </body>
+ </text>
+</TEI>

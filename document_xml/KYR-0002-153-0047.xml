@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-153-0047"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Boyle to William B. Craddock</title>
+    <title level="a" type="parallel">CWG14169</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>Assistant Adjutant General Letter Book - No. 1 ; 5 Sept 1863 - 2 Feb 1864</collection>
+      <idno>218</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1863-11-01">1 November 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><note place="header">218</note>
+<lb/><date when="1863-11-01">Nov. 1<hi rend="underline"><hi rend="sup">st</hi></hi> <gap/>3</date>
+<lb/>Capt. W<hi rend="underline"><hi rend="sup">m</hi></hi> B. Craddock
+<lb/>Comm'dg Co. Capital Guards.
+<lb/>Frankfort -- Ky.
+<lb/>Captain,</p>
+<p>According to arrangements made by the Governor with the United States authorities, your company as soon as full, will be at once mustered into the service of the United States. This will relieve our poor State already much in debt, of a large burden, for the U. S. will pay equip and subsist the troops, while they will still remain entirely subject to the orders of the Governor, and serve as Guards for the city of Frankfort and the surrounding territory.</p>
+<p>You and your company are eminently fortunate in thus becoming the guardians of our immediate defense for no contingency will ever arise, to require your removal from our midst, and being under the direct control of our Governor, will have the best opportunity of protecting the Capital of your State, without being compelled to serve beyond its limits.</p>
+<p>Respectfully
+<lb/>Your obt Serv't
+<lb/><hi rend="underline">John Boyle</hi>
+<lb/>Adjt. Gen. of Ky</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0336"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Samuel Thompson to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG9804</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG18-24</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Lexington, Fayette County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency, the Hon. B. Magoffin,
+<lb/>Governor of Kentucky.</p>
+<p>The undersigned would respectfully lay the following statement of facts before your Excellency, for your consideration and clemency.</p>
+<p>He states that about two months ago judgment was rendered against him in the Lexington City Court, on a forfeited recognizance, for failing to appear to answer to a charge of vagrancy, in the sum of $100.<hi rend="underline"><hi rend="sup">00</hi></hi>. That he was absent from Lexington, at work, at the time of the trial. That on his return, he was arrested and confined in the City Work House, where he has worked out the fees &amp; costs. He respectfully prays your Excellency to remit the balance, and in attestation of the truth of the foregoing statement, he presents the names of the appended city officers.</p>
+<p>Samuel Thompson<pb/></p>
+<p>We, the undersigned officers of the City of Lexington attest the foregoing statement of Samuel Thompson, and respectully pray that your Excellency will remit the fine against him.</p>
+<p>F. G. Flanagan City Attorney
+<lb/>R B Parker clk, L. C. C,
+<lb/>Cha<hi rend="sup">s</hi> H Wikliffe
+<lb/>Dep M C Lex
+<lb/>M. S. Keith Acting Marshall
+<lb/>Marshall Kuser City Clerk
+<lb/>B F Graves
+<lb/>E D, Burke
+<lb/>L G Hall
+<lb/>J, N, sheppard
+<lb/>S. S Masner
+<lb/>E Montagu
+<lb/>W. Masur
+<lb/>John Robertson
+<lb/>M E Hoagland
+<lb/>D, L, Hougham Keper of <unclear/></p>
+<p>I know nothing about the within facts -- but hoeing that Thompson will reform -- and understanding that he is an expense to the City, during confinement. I concur in the petition that you will remit or suspend his punishment.</p>
+<p>A. H. Robertson</p>
+  </body>
+ </text>
+</TEI>

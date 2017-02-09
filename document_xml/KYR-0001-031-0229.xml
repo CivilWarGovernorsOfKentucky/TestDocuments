@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-031-0229"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Robert Hervey to Daniel C. Wickliffe </title>
+    <title level="a" type="parallel">CWG7969</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Appointments by the Governor, Civil Appointments, 1862-1863</collection>
+      <idno>R1-314</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Chicago, Cook County, Illinois</placeName>
+    <date when="1863-05-21">21 May 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>LEGAL DEPARTMENT
+<lb/>Galena &amp; Chicago Union Rail Road Co.
+<lb/>77 Dearborn Street
+<lb/>Chicago, <date when="1863-05-21">21. May 1863</date>
+<lb/>Sir,</p>
+<p>I held a Commission from the Government of Kentucky to take acknowledgements of deeds &amp;<hi rend="sup">c</hi> dated <date when="1834-01-13">13 Jany 1834.</date> It has of course long since expired by lapse of time. I am desirous of having a new one. Will you be good enough to let me know the fee &amp; I will remit it.</p>
+<p>Refer to Hon B. S. Morris of this City. &amp; to Sam<hi rend="sup">l</hi> B. Thomas Esq of Elizabethtown Kentucky.</p>
+<p>Very Respectfully
+<lb/>Your obt st.
+<lb/><hi rend="underline">Rob</hi><hi rend="underline"><hi rend="sup">t</hi></hi><hi rend="underline"> Hervey</hi></p>
+<p>To Hon
+<lb/>The Secretary of State
+<lb/>Frankfort
+<lb/>Kentucky<pb/></p>
+<p>Illinois<figure type="hr"/>
+<lb/>Com<hi rend="underline"><hi rend="sup">r</hi></hi> of Deeds
+<lb/>Rob<hi rend="sup">t</hi> Hervey
+<lb/>Chicago
+<lb/>App<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1863-05-30">May 30. 1863.</date></p>
+  </body>
+ </text>
+</TEI>

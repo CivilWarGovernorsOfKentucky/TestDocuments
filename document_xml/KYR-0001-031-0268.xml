@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-031-0268"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Samuel A. Spencer to James F. Robinson</title>
+    <title level="a" type="parallel">CWG8008</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Appointments by the Governor, Civil Appointments, 1862-1863</collection>
+      <idno>R1-366</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Greensburg, Green County, Kentucky</placeName>
+    <date when="1863-06-25">25 June 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Greensburg Green County Ky
+<lb/><date when="1863-06-25">June 25<hi rend="sup">th.</hi> 1863</date>
+<lb/>To His Excellency
+<lb/>James F. Robinson Esqr Governor of Kentucky
+<lb/>Dear Sir</p>
+<p>Owing to the refusal of B. E. Courts Esqr to accept and quallify to his Commission as "Justice of the peace for Green County in District N<hi rend="sup">o</hi> 1. (he haveing accepted the appointment as Sheriff of the County) there is a vacancy in the office of Justice of the peace in said District. which it is desired may be filled by appointment by your Excellency, until the next Regular Election -- </p>
+<p>I respectfully recommend to your Excellency as one Suitable and acceptable &amp; Competent for the duties of the office M<hi rend="underline"><hi rend="sup">r</hi></hi> John.. H. Alden a resident of the Town. Where his location Should be. Mr Alden is a good sound union man. true to the Constitution &amp; Government of the United States &amp; this State and his loyalty is undoubted, he is acceptable to the union men of this district &amp; one quallified for the office &amp; who I respectfully recommend to your Excellency &amp; ask that his Commission be forwarded on to him as we need the Service of a Justice here.</p>
+<p>I have the honor to be very respectfully your obdt servt
+<lb/>Sam<hi rend="underline"><hi rend="sup">l</hi></hi> A. Spencer Presiding Judge Green Co Co Ky<pb/></p>
+<p>Green Co<figure type="hr"/>
+<lb/>J. P. Dist N<hi rend="underline"><hi rend="sup">o</hi></hi> 1.
+<lb/>Jno. H. Alden
+<lb/>Com Iss<hi rend="sup">d</hi> <date when="1863-06-27">June 27. 1863.</date></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2360"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Susan Barr to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6997</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR15-267 to BR15-268</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date when="1865-09-15">15 September 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency Thomas E Bramlette Governor of the State of Kentucky:</p>
+<p>Your Petitioner the undersigned states that She is a widow woman living in the city of Louisville and State of Kentucky with a family of children: one of whom is now lying at the point of death: and being very poor and obscure, and living humbly in a <unclear>retired</unclear> part of the City the soldiers have been in the habit of coming to her house: and She could not prevent it: For this: she was indicted and tried in the city Court of Louisville: on the <date when="1865-09-14">14<hi rend="sup">th</hi> day of Sep<hi rend="sup">tr</hi> 1865</date>: for Keeping a disorderly house: and on the said <date when="1865-09-14">14<hi rend="sup">th</hi> day of Sep<hi rend="sup">tr</hi> 1865</date> She was fined $300.<hi rend="underline"><hi rend="sup">00</hi></hi> She says that she is wholly destitute of property or means: or money to pay the same: and if forced to pay it, She will be forced into the work house: to work it out; according to law: She has several little children that she is compelled to care for, and if taken from them, they would starve in the streets;</p>
+<p>She further states that not a single neighbor complained of her house, and the only witnesses against her was two of the watchmen;</p>
+<p>She prays your Excellency to remit to her the above fine: except the costs and will ever pray</p>
+<p>Susan Barr</p>
+<p>Sworn to Before me on this <date when="1865-09-15">15 of Sept 1865</date></p>
+<p>J Cornell J P J C</p>
+<p>State of Kentucky -- Jef County Sct</p>
+<p>Mary Barr states that the above petiton is true</p>
+<p>Mary Barr<pb/></p>
+<p>Geo. Rollinson States that he was present at the house of <hi rend="str">Mary</hi> ^Susan^ Barr in Louisville Ky at the time Several Soldiers came to her house. They broke down the front door and forcibly entered the house and for their disorder and noisy conduct She was fined on the <date when="1865-09-14">14<hi rend="sup">th</hi> Sept 1865</date> three hundred dollars (on the charge of Keeping a disorderly house)</p>
+<p>She is now in prison on account of Said fine</p>
+<p>George Rollinson
+<lb/><stamp type="revenue"/><note place="stamp"><unclear/>
+<lb/><date when="1864-09-16">Sept 16
+<lb/>1864</date></note></p>
+<p>Sworn to &amp; Subscribed before me on this <date when="1865-09-16">16 day of Sept 1865</date>.</p>
+<p>W. Franklin Clk
+<lb/>Franklin Circuit Ct<pb/></p>
+<p>Gov. Thomas E Bramlette
+<lb/>Frankfort
+<lb/><hi rend="underline">Ky</hi>.</p>
+<p>Louisville City Ct
+<lb/>vs
+<lb/>Susan Barr
+<lb/>$300,
+<lb/>Remit <hi rend="str">$1/2</hi> 200. the fine
+<lb/><date when="1865-09-16">16 Sept 1865</date></p>
+  </body>
+ </text>
+</TEI>

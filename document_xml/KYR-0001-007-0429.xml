@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0429"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Herman L. Emmons, Oath</title>
+    <title level="a" type="parallel">CWG2094</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Appointments by the Governor, Civil Appointments, 1863-1867</collection>
+      <idno>BR2-355 to BR2-355A</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Baltimore, Maryland</placeName>
+    <date when="1865-04-03">3 April 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>State of Maryland
+<lb/>City of Baltimore } ss.</p>
+<p>I Herman L Emmons, Jr. a Commissioner of Deeds duly authorized &amp; commissioned by the Governor of the State of Kentucky, to take &amp; certify to Depositions, acknowledgments of Deeds, &amp;c, in Baltimore, Md. to be used &amp; recorded in said State of Kentucky, being duly sworn do depose &amp; say That I will well &amp; truly execute &amp; perform all the duties of said Commissioner under the laws of said State of Kentucky. -- So help me God. -- </p>
+<p>Herman L. Emmons, Jr
+<lb/><stamp type="revenue"/><note place="stamp">J W B
+<lb/><date when="1865-04-03">Apl 3
+<lb/>1865</date></note></p>
+<p>Subscribed &amp; sworn to before me at Baltimore, Md. this <date when="1865-04-03">3<hi rend="sup">d</hi> day of April, 1865</date>. -- </p>
+<p>Jos. W. Blake J P<pb/></p>
+<p>State of Maryland, Baltimore City, Sct:</p>
+<p>I HEREBY CERTIFY, That Joseph W Blake Esquire, before whom the annexed affidavit was made, and who has thereto subscribed his name, was, at the time of so doing, a Justice of the Peace of the State of Maryland, in and for the City of Baltimore, duly commissioned and sworn.</p>
+<p>IN TESTIMONY WHEREOF, I hereto set my hand and affix the seal of the Superior Court of Baltimore City, this <date when="1865-04-03">Third -- day of April A.D. 1865</date>,</p>
+<p>Alfred Mace
+<lb/>Clerk of the Superior Court of Baltimore City.
+<lb/><stamp type="revenue"/><note place="stamp"><date when="1865-04-03">Apl 3
+<lb/>1865</date></note><figure type="seal"/><pb/></p>
+<p>Comr Deeds
+<lb/>Maryland
+<lb/>Oath of H. L. Emmons Jr
+<lb/>filed
+<lb/><date when="1865-04-07">7<hi rend="sup">th</hi> Apl 1865</date></p>
+  </body>
+ </text>
+</TEI>

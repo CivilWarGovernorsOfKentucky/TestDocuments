@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0445"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Hugh W. Tener, Oath</title>
+    <title level="a" type="parallel">CWG2110</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Appointments by the Governor, Civil Appointments, 1863-1867</collection>
+      <idno>BR2-377 to BR2-378</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Philadelphia, Philadelphia County, Kentucky</placeName>
+    <date when="1865-05-25">25 May 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>State of Pennsylvania,
+<lb/>City and County of Philadelphia, SS.:</p>
+<p>I, Hugh M. Tener, residing in the city of Philadelphia, in the state of Pennsylvania, appointed by the Governor of the State of Kentucky, a commissioner in and for the State of Pennsylvania, under Chapter 70 of the Act of the General Assembly of said State of Kentucky, entitled "An act to adopt the Revised Statutes" approved <date when="1852-01-07">January 7<hi rend="sup">th</hi>, 1852</date>, do solemnly swear that I will well and truly execute and perform all the duties of such commissioner, and by virtue of the laws of the said State of Kentucky, and that the following is an impression of my seal of office.</p>
+<p><hi rend="underline">Hugh W. Tener</hi>.</p>
+<p><figure type="seal"><ab>HUGH W. TENER
+<lb/>COMMISSIONER OF DEEDS.
+<lb/>PHILADELPHIA
+<lb/>PENNA:</ab></figure>
+<lb/><stamp type="revenue"/><note place="stamp">T D R
+<lb/>com
+<lb/><date when="1865-05-25">5/25/65</date></note></p>
+<p>Taken and subscribed before me, Theodore D. Rand Commissioner of the State of Kentucky in the State of Pennsylvania this <date when="1865-05-25">25<hi rend="sup">th</hi> day of May, 1865</date>.</p>
+<p><figure type="seal"><ab>THEO D. RAND
+<lb/>COMMISSIONER OF DEEDS.
+<lb/>PHILADELPHIA,
+<lb/>PENNA.</ab></figure></p>
+<p>Witness my hand and official seal.
+<lb/>Theo D Rand
+<lb/>Commissioner for Kentucky in Pennsylvania<pb/></p>
+<p>Comr Deeds
+<lb/>Pennsylvania
+<lb/>Oath of
+<lb/>H. W. Tener
+<lb/>filed
+<lb/><date when="1865-05-30">30<hi rend="sup">th</hi> May 1865</date></p>
+  </body>
+ </text>
+</TEI>

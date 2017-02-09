@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0901"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">J. M. Bullock to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10369</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG19-433</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Shelbyville, Shelby County, Kentucky</placeName>
+    <date when="1861-04-01">1 April 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Shelbyville, Ky.
+<lb/><date when="1861-04-01">April 1st. 1861.</date>
+<lb/>To His Excellency, B. Magoffin,
+<lb/>Dear Sir,</p>
+<p>There will be a petition presented you, praying that the judgment of the Shebly circuit court vs. him be remitted. Mr. Washburn was reared &amp; has lived all his life where he now resides, and I have never Known him to be in Court before on any account, he is a harmless, inoffensive, peacable man, his Father was an old Virginian &amp; raised his sons under that regime. He accidentally had some neighbors at his house a drew his liquor in accordance with the former habits of the country and he unfortunately got too much aboard &amp; was rather noisey -- His Petition is signed by many of the most respectable men of the County -- &amp; I understand, by every neighbor he has, &amp; all of the witnesses in the case -- The Jury I suppose were something after the order of your old friend M<hi rend="sup">r</hi> Henry upon the subject of Total abstenance -- Washburn is very much mortified &amp; diclares that a thing of the kind shall never again happen He is in very ordinary circumstances &amp; illy able to pay this expensive judgt.<pb/>
+<lb/>It is under all the circumstances a very oppressive finding -- &amp; I sincerely think that the Attys. fee in the case &amp; the costs of the suit would be of itself a heavy penalty -- If agreeable to your sense of propriety remit the fine &amp; you will, were it necessary, be sustained by this community, &amp; render, particularly during these hard-times a lasting benefit &amp; obligation upon the Petetioner -- were I in your stead, I would not hesitate to remit the same</p>
+<p>Yours very Respectfully
+<lb/>J. M. Bullock<pb/></p>
+<p>Shelby Cir. Ct
+<lb/>Respite 12 mo
+<lb/>B. M
+<lb/>$300 } Dis House
+<lb/>Moses Washburn</p>
+<p>Iss<hi rend="sup">d</hi> <date when="1861-04-05">Apr. 5. 1861</date></p>
+  </body>
+ </text>
+</TEI>

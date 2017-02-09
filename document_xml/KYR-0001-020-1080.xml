@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1080"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John M. Jackson et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10548</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG20-180 to MG20-181</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency B Magoffin Govrnor of the Commonwealth of Kentucky</p>
+<p>the undersigned citizens of Laurel County would respectfully represent that F T Hodge of this county was Indited in the Laurel Circuit Court for an assault upon Daniel Elam and was Tried at the <date when="1861-03">March Term of Said Court 1861</date> and fined $75,00</p>
+<p>We are personally acquainted with F T Hodge and know him To be a man of good morals have never Known him To be in any dificulty before or Since the one here refeered To, Hodge and Elam was a lone when the fight came up and Elam who Set the prosecution on foot and his Brother who came up a bout the close of the fight was the only witnesses there was no Serious injury done we are informed that Hodge has petitioned your Excellency To remit the fine we believe Hodge To be a man of Truth and would make a true statement of the facts Hodge is a poore man with a family and if forced To pay the fine it will be oppressive and from our own Knowledge of the circumstances Surrounding the case we would most respectfully ask the fine To be remitted</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>John M Jackson
+<lb/>C. B. Faris clk cir ct
+<lb/>Jno. C Hurling
+<lb/>C. W. Catching
+<lb/>J. R. Martin
+<lb/>Lem, Hibbard
+<lb/>W<hi rend="sup">m</hi> H. Jackson
+<lb/><cb n="2"/>G. W. Millen
+<lb/>N. B. Jones, P. J. L, C
+<lb/>Henry Wisor
+<lb/>Reuben Whitehead
+<lb/>S C Jackson Ex S. L. C
+<lb/>Wash Johnson
+<lb/>Levi Jackson<milestone unit="column" n="1"/><pb/></p>
+<p>Laurel Cir. Ct
+<lb/>Respite 6 mo
+<lb/>B, M
+<lb/>$75. } assault
+<lb/>F. T. Hodge
+<lb/><date when="1861-05-13">May 13. 1861</date></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-079-0028"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Thomas E. Bramlette to Beriah Magoffin et al.</title>
+    <title level="a" type="parallel">CWG14027</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>Enrolled Militia Records 1864 - 1865 ; Adair, Allen, Boyle, Daviess, Garrard, Owen, Pendleton, and Shelby counties</collection>
+      <idno>Flat Box 7, Folder 1861 ADAIR COUNTY - 3d Regt Home Guards organized 1 Jun 1861 Cpt Thomas E. Bramlette</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Columbia, Adair County, Kentucky</placeName>
+    <date when="1861-06-01">1 June 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Columbia Ky <date when="1861-06-01">June 1<hi rend="sup">st</hi> 1861</date>
+<lb/>Hon B Magoffin
+<lb/>Saml. Gill
+<lb/>Geo T Wood
+<lb/>Gen Peter Dudley
+<lb/>Doct Jno B Peyton -- </p>
+<p>On this day a company of House Guards was organized under the Act approved <date when="1861-05-24">24<hi rend="sup">th</hi> May 1861</date>. I was elected Captain -- and report 63 privates -- together with the officers provided for under our State Military law<hi rend="underline"><hi rend="sup">s</hi></hi> -- The number will in a few days be increased to 100 -- who will be sworn in as provided for when added to the company. I enclose the certificate of the County Judge &amp; my bond with the secruity required under the law; and desire to draw Rifled muskets if now to be had for the company. -- Can the arms now be furnished? If so I will send immediately for them.</p>
+<p>Respectfully
+<lb/>Tho E Bramlette<pb/></p>
+<p>3</p>
+<p>Adair County Home Gd
+<lb/><date when="1861">1861</date>
+<lb/><hi rend="underline">4</hi>
+<lb/>Adair Coy
+<lb/> -- Home guard -- 
+<lb/>T E Bramlette
+<lb/>Captain -- 
+<lb/>Granted</p>
+  </body>
+ </text>
+</TEI>

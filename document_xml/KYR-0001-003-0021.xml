@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-003-0021"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Andrew H. Clark, Affidavit</title>
+    <title level="a" type="parallel">CWG1538</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's Official Correspondence File, Military Correspondence, 1863-1867</collection>
+      <idno>BR5-36 to BR5-37</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Camp Nelson, Jessamine County, Kentucky</placeName>
+    <date when="1863-12-05">5 December 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>H<hi rend="sup">d</hi> Qers 47<hi rend="sup">th</hi> Ky Infty Vols
+<lb/>Camp Nelson Ky. <date when="1863-12-05">Decr 5<hi rend="sup">th</hi> 1863</date>.</p>
+<p>I Andrew H. Clark, Lt Col Comdg 47<hi rend="sup">th</hi> Ky Infty Vols, being duly Sworn. make the following Statement<hi rend="sup">s</hi>: Viz: that the causes which led to my resignation, as Captn Co "D" 7<hi rend="sup">th</hi> Ky Infty, had their origin in an unpleasant state of feeling which at the time I tendered my resignation existed between the Commander of the regiment and myself.</p>
+<p>I further state that this unfortunate State of feeling influenced the Commander of the regiment to treat me unkindly, and with disrespect. Forbearance ceased to be a virtue and I could no longer be subservient to such wanton unkindness.</p>
+<p>A, H, Clark
+<lb/>Lieut Col 47<hi rend="sup">th</hi> Ky</p>
+<p>Sworn and subscribed to before me at Camp Nelson Ky.
+<lb/><date when="1863-12-05">Decr 5<hi rend="sup">th</hi> 1863</date>
+<lb/>Tho. H. Barnes Lt &amp; Adjt 47<hi rend="sup">h</hi> Ky Infty vols.<pb/></p>
+<p>Head Qrs. Kentucky Volunteers
+<lb/>Adjutant General's Office
+<lb/>Frankfort. <date when="1863-12-07">Dec<hi rend="underline"><hi rend="sup">r</hi></hi> 7. 1863</date>.</p>
+<p>Respectfully referred to the Secretary of War, with the recommendation of the Governor of Kentucky, that A. H. Clark be permitted to be mustered.</p>
+<p><hi rend="underline">John Boyle</hi>
+<lb/>Adjt Gen<hi rend="sup">l</hi> of Ky</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-3270"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">A. C. Lamhart et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG5389</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR42-76</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Jackson County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>We the citizens of Jackson county Kentucky respectfully petition and represent to the Govenor of the commonwealth that William Legston was fined twenty dollars and James Francis Marian Coyle was fined the like amount by John W. Harcourt a justice of the peace of Madison county for getting drunk and making a noise in the town of Richmond. No person was hurt and the said parties accidentally became intoxicated. We know them well and know they are peaceably orderly good citizens and are not in the habit of getting drunk. Legston has just returned from several years service in the federal army. We must respectfully ask the remission of the fine.</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>A C Lamhart
+<lb/>Joseph Collins
+<lb/>Jackson Blanton
+<lb/>Alexander Blanton
+<lb/>G W Murphy
+<lb/>Pery g Cax<hi rend="str">t</hi>
+<lb/>Lewis Cax
+<lb/>William Blanton
+<lb/>John g Sparks
+<lb/>Wm B Murphy
+<lb/>Eg Murphy
+<lb/>John Murphy
+<lb/>Thomas P heather
+<lb/>Edward lynch
+<lb/><cb n="2"/>N j Coyle
+<lb/>J P Logsdon
+<lb/>W. R Coyle
+<lb/>Godfrey Isaacs
+<lb/>Ambrosen Logsdon
+<lb/>J B Logsdon
+<lb/>O F Ashlle
+<lb/>S R Baker
+<lb/>John Dose
+<lb/>Harden Cax
+<lb/>Milton D Cax
+<lb/>pary Skinner
+<lb/>Simpson Cax</p>
+  </body>
+ </text>
+</TEI>

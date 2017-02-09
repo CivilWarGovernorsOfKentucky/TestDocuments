@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2908"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">William Wiley and Margary Mury to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7545</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR17-230 to BR17-231</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Paintsville, Johnson County, Kentucky</placeName>
+    <date when="1865-12-26">26 December 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>State of Kentucky
+<lb/>Johnson County } Sct
+<lb/>Paintsville Ky <date when="1865-12-26">Dec 26<hi rend="sup">th</hi> 1865</date>
+<lb/>Tho<hi rend="sup">s</hi>, E, Bramlette,
+<lb/>Gov<hi rend="underline"><hi rend="sup">r</hi></hi> of Ky
+<lb/>Frankfort, Ky,</p>
+<p>Dear, Sir the undersigned -- William Wiley and Morgand Mury citizens of Johnson County, State that at the <date when="1865-06">June Term 1865</date> of the Johnson Circuit Court they was indicted for adultury -- And at the <date when="1865-12">December Term 1865</date> of Said County Circuit Court they was fined as the record shows by defauld Twenty Dollars Each, they state that the are not Guilty of the charge in any way whatever and was <unclear>passed</unclear> at the Term of the Court at which Judgment went <hi rend="str">to <unclear/> themselves in <unclear/> of</hi> was prepared to defend the charge -- and came to the Court house to Defend the Same -- And was in and about the Court house -- and in wating to answer the Indictment upon its Calling, time that Judgment was rendered Against ^them^ and they never was<pb/>
+<lb/>called to answer said charge -- and appeared on the next day still Expecting to <unclear/> when Called -- and then Learned for the first time that Judgment had been rendered Against them the Day before -- by Default -- for Twenty Dollars Each by Default -- He states that he is an old Man -- and has always been obedient to Law and order and never wantonly violated its Precepts -- And he think it is verry hard, to fine him in his old Days for what he is not guilty of and that to without being herd in Defence -- He states he is Poor and not able -- to Seek redress, by appeal -- he therefore asks that he be herd -- by Executive Clemency that the fines be remitted -- and will <hi rend="str">always</hi> -- Always -- pray -- </p>
+<p>W<hi rend="underline"><hi rend="sup">m</hi></hi> Wiley
+<lb/>Margary Mury</p>
+<p>William Wily Margary Murray state that the Statemnts of this Petition are true</p>
+<p>W<hi rend="sup">m</hi> Wily
+<lb/>Margary Mury<pb/></p>
+<p>Sworn to before me by William Wiley this <date when="1865-12-26">December 26" 1865</date></p>
+<p>att John Hawes clk</p>
+<p>We the undersigned Citizens of Johnson County -- Join in the above petition and ask -- the fines be Remitted -- as these Persons are old -- and Poor and Law obiding citizens</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Nathan Preston
+<lb/><unclear>N N</unclear> Brown
+<lb/>Jos Bardens
+<lb/>Jas Hammond
+<lb/><cb n="2"/>James, E, Stewart
+<lb/>John Hawes Clk
+<lb/>Charles I Howes
+<lb/>E F Howes
+<lb/>John F Fletcher
+<lb/>E. H. Conly
+<lb/>B, F, Price
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> N. Randolph
+<lb/>S W Castle
+<lb/>John W horn
+<lb/>J, C. M<hi rend="sup">c</hi>Carty
+<lb/>Geo W Castle
+<lb/>G H Whetten Mem Legis^lature^
+<lb/>Kesey Wiliams
+<lb/>Ralph Stafford
+<lb/>F A Brown<pb/></p>
+<p><milestone unit="column" n="1"/>Johnson Cir Ct
+<lb/>vs
+<lb/>William Wiley &amp; Margara Murray
+<lb/>to } Petition -- To $20, each
+<lb/>Tho, E, Bramlette
+<lb/>Gov<hi rend="underline"><hi rend="sup">r</hi></hi> of Ky<figure type="hr"/>
+<lb/><date when="1866-02-06">6<hi rend="sup">th</hi> Feby 1866</date>
+<lb/>Remit
+<lb/><hi rend="str">Refused</hi></p>
+  </body>
+ </text>
+</TEI>

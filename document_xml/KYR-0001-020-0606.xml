@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0606"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Commonwealth of Kentucky v. Sally E. Grant, Warrant</title>
+    <title level="a" type="parallel">CWG10074</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG18-433</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date when="1861-02-21">21 February 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>The Commonwealth of Kentucky To the Marshall of the City Court of Louisville Greeting Whereas I have this day received information on oath from Louisa Jones that on the <gap/> day of <date when="1861-02">Feby 1861</date> in the City of Louisville One Blue Fress One Blue Silk Dress One Bonnett one cloth cloak one head dress one Belt one pair Cuffs one pair Kid gloves one finger Ring one dozen towells worth about One Hundred ^&amp; three^ dollars Were feloniously taken and carried away out of the possession of the Said Louisa Jones and that She has good reason and does Suspect that Sally E Grant did feloniously take and carry away the same</p>
+<p>These are therefore to Command you forthwith to apprehend the Said Sally Grant and bring her before the City Court of Louisville at the Court house thereof in said city to be dealt with according to Law and have then there this Writ</p>
+<p>Witness O H Strattan clk of Said Court this <date when="1861-02-21">21<hi rend="sup">st</hi> day of Feby 1861</date></p>
+<p>O H Strattan clk</p>
+<p>a copy att
+<lb/>Jno W Allen D C<pb/></p>
+<p>Comwth
+<lb/>vs } copy Felony <unclear/>
+<lb/>Sally E Grant</p>
+  </body>
+ </text>
+</TEI>

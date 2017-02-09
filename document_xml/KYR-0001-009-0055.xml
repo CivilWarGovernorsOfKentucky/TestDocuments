@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-009-0055"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">George Nichols, Affidavit</title>
+    <title level="a" type="parallel">CWG1210</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Christina K Adkins</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's Official Correspondence File, 1863-1867</collection>
+      <idno>BR1-108 to BR1-109</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Montpelier, Washington County, Vermont</placeName>
+    <date when="1865-11-06">6 November 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>State of Vermont.<figure type="hr"/>
+<lb/><figure type="seal"><ab>VERMONT
+<lb/>FREEDOM AND UNITY</ab></figure>
+<lb/>Secretary of State's Office,
+<lb/>Montpelier, <date when="1865-11-06">November 6<hi rend="sup">th</hi> A. D. 1865</date>.</p>
+<p>I hereby certify that the foregoing is a true copy of a Joint Resolution passed by the General Assebmly of the State of Vermont at the <date when="1865-10">October session, held A. D. 1865</date>.</p>
+<p><figure type="seal"><ab>SECRETARY OF STATE
+<lb/>VERMONT</ab></figure></p>
+<p>Given under my hand and the seal of this Office, this <date when="1865-11-06">sixth day of November A D. 1865</date>.</p>
+<p>George Nichols,
+<lb/>Secretary of State.<pb/></p>
+<p>JOINT RESOLUTION,</p>
+<p>ASKING AN APPROPRIATION BY CONGRESS TO ENDOW FEMALE COLLEGES, IN THE SEVERAL STATES.</p>
+<p><hi rend="italic">Resolved by the General Assembly of the State of Vermont:</hi></p>
+<p>That our Senators and Representatives in Congress be, and are hereby, requested to use their influence to procure a donation of lands by Congress, to endow Female Colleges in the several States.</p>
+<p><hi rend="italic">Resolved: </hi>That we hereby invite and urgently recommend the Legislatures of the several States to co-operate with this State is procuring from the Federal Government a grant of lands for the aforesaid purpose.</p>
+<p><hi rend="italic">Resolved</hi>: That the Secretary of State be, and he is hereby, requested to transmit a copy of the foregoing resolutions to each of our Senators and Representatives in Congress, and to each of the Legislatures of all the loyal States.</p>
+<p>JOHN W STEWART, <hi rend="italic">Speaker of the House of Representatives.</hi>
+<lb/>A. B. GARDNER,<hi rend="italic"> President of the Senate.</hi></p>
+  </body>
+ </text>
+</TEI>

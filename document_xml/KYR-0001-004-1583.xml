@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1583"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Allen Atchison to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6220</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR13-15</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency
+<lb/>Gov. Bramlete</p>
+<p><hi rend="underline">Allen Atchison</hi> states that at the present term of the Fayette Circuit court he was indicted for dealing Faro &amp; has <hi rend="underline">confessed Judgment</hi> He did so, because it <hi rend="underline">is true</hi> that on <hi rend="str">a few</hi> one occasion &amp; for small sums he had done so -- He is <hi rend="underline">poor</hi> &amp; <hi rend="underline">feeble of health</hi> &amp; not able to pay the whole of the fine -- He says he is young &amp; defendent &amp; simply &amp; <hi rend="underline">truthfully</hi> states the whole matter and asks for <hi rend="underline">mercy</hi> and hopes he will not be ruined &amp; put to prison for indiscretion in dealing <hi rend="underline">but</hi> <hi rend="underline">one game</hi> -- He hopes for mercy &amp; promises reformation.</p>
+<p><hi rend="underline">Allen Atchison</hi></p>
+<p>We recommend the above petition</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>John G Kiser
+<lb/><unclear>W<hi rend="sup">m</hi> H Kane</unclear>
+<lb/>J A M<hi rend="sup">c</hi>Millan
+<lb/>L B Grigsby
+<lb/>T Norris
+<lb/><cb n="2"/>B. F. Edge
+<lb/>J C Darby
+<lb/>C J Sheppard
+<lb/>Jno K Meeker
+<lb/>R. Underwood
+<lb/>J<hi rend="underline"><hi rend="sup">as</hi></hi> Hearnes<milestone unit="column" n="1"/>
+<lb/>(over)<pb/>
+<lb/>H. M<hi rend="underline"><hi rend="sup">c</hi></hi>Skillman
+<lb/>J W. Whitney
+<lb/>Frank P Hord
+<lb/>Jno. H. Hunter
+<lb/>H B Boordman
+<lb/>Jno B Payne
+<lb/><hi rend="underline">N. S. </hi>Chiles
+<lb/>Tho Bradley
+<lb/>James A <unclear>Swinstead</unclear></p>
+<p>Among the attached names are some of our best citizens -- I know Allen Atchison &amp; believe his statements. I have had no connection with this case as Lawyer or otherwise</p>
+<p>Jno. B. Huston</p>
+<p>Fayette Cir Ct
+<lb/>vs
+<lb/>Allen Atchison
+<lb/>$500,
+<lb/>Remitted
+<lb/><date when="1865-03-07">7<hi rend="sup">th</hi> Mch/65</date></p>
+<p>Remit</p>
+  </body>
+ </text>
+</TEI>

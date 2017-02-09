@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-2072"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Alfred H. Hise, Warrant</title>
+    <title level="a" type="parallel">CWG9148</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG24-105</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Jefferson City, Cole County, Missouri</placeName>
+    <date when="1862-07-24">24 July 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>STATE OF MISSOURI.
+<lb/><figure type="seal"><ab>UNITED WE STAND DIVIDED WE FALL.
+<lb/>SALUS POPULI SUPREMA LEXESTO.
+<lb/>MDCCCXX</ab></figure></p>
+<p>To His Excellency, Governor of Kentucky</p>
+<p>The undersigned Governor of the State of Missouri, would inform your Excellency, that Alfred H. Hise in this State charged with the crime of Obtaining goods under false pretences (as will fully appear by the copy of an Affidavit of M. E. Martin hereunto annexed, which I certify to be authentic,) is a fugitive from the justice of this State, and now supposed to be within the limits of the State of Kentucky</p>
+<p>Your Excellency is therefore requested, in conformity to the Consttution and a law of the United States, to cause the said Alfred H. Hise to be delivered to <hi rend="str">John</hi> ^George^ H Maguire who is appointed Agent to receive him, that he may be brought into this State, and dealt with as to law and justice may appertain.</p>
+<p><figure type="seal"><ab>THE GREAT SEAL OF THE STATE OF MISSOURI
+<lb/>UNITED WE STAND DIVIDED WE FALL.
+<lb/>SALUS POPULI SUPREMA LEXESTO.
+<lb/>MDCCCXX</ab></figure></p>
+<p>In Testimony Whereof, I have hereunto set my hand, and caused to be affixed the Great Seal of the State of Missouri. Done at the City of Jefferson, this <date when="1862-07-24">24<hi rend="sup">th</hi> day of July in the year of our Lord one thousand eight hundred and 62,</date> of the Independence of the United States the 87<hi rend="sup">th</hi> and of this State the 42<hi rend="sup">nd</hi></p>
+<p>BY THE GOVERNOR</p>
+<p>H. R. Gamble</p>
+<p>M. Oliver
+<lb/>Secretary of State<pb/></p>
+<p>Missouri<figure type="hr"/>
+<lb/>Demand for A. H. Hise<figure type="hr"/>
+<lb/>Felony
+<lb/>Warrant Iss<hi rend="sup">d</hi> <date when="1862-07-31">July 31. 1862</date></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0498"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Robert Byrns to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG9966</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG18-272</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Lexington, Fayette County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excelllency the Governor of Kentucky</p>
+<p>Your petitioner Robert Burns states that he was indicted in the Fayette Circuit Court for shooting at John alias Bass White in Lexington with intent to kill him, &amp; after the case was kept on the docket of the Fayette Circuit court for a long time, and a trial had in which a decided majority of the Jury were for acquiting your petitioner the case was dismissed upon your petitioner agreeing to pay $50, -- &amp; costs, he was compelled to do this not because it was right but because his counsel advised him that he ran the risk of another hung Jury &amp; the costs were accumulating so rapidly from the number of witnesses that it was better to do so, The fine &amp; costs amount to $118, -- &amp; he is finds himself wholly unable to pay it &amp; will be compelled to go to Jail, He did not hit White. but White wounded him severely White had attempted to take his life several time before, &amp; then fired at him without cause: &amp; he verily believes intended then to kill him, He begs your Excellency to remit as much of the fine as possible as it is unjust -- that he should pay it.</p>
+<p>Your obt servant
+<lb/>Robert Byrns</p>
+<p>Attest Ja<hi rend="sup">s</hi> B Beck.<pb/></p>
+<p>Fayette Cir. ct
+<lb/>Petition of Robert Burns<figure type="hr"/>
+<lb/>Remitted
+<lb/>B, M.
+<lb/>$50
+<lb/>Iss<hi rend="sup">d</hi> <date when="1861-01-21">Jany 21. 1861</date></p>
+  </body>
+ </text>
+</TEI>

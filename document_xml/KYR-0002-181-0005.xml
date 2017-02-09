@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-181-0005"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Daniel W. Lindsey, General Orders, No. 3</title>
+    <title level="a" type="parallel">CWG13989</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>General Orders No. 2</collection>
+      <idno/>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1865-03-10">10 March 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Order</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Headquarters Kentucky Volunteers,
+<lb/>ADJUTANT-GENERAL'S OFFICE,
+<lb/>Frankfort, <date when="1865-03-10">March 10, 1865</date>.
+<lb/>GENERAL ORDERS
+<lb/>No. 3.</p>
+<p>Arrangements having been perfected with the General Commanding the Department of Kentucky, the following instructions are ordered for the guidance of all State troops:</p>
+<p>1. Commanding officers of all detachments, companies, or battalions, of State troops now in the service, will report immediately, through Division Headquarters, to the Commanding General of the Department, the effective strength of their respective commands, and the date of their muster and term of service.</p>
+<p>2. The commanding officer of each detachment, company, or battalion of State troops will make all reports required by the U. S. Regulations in duplicate, sending one copy to these Headquarters, and the other, through Division Headquarters, to the Department Headquarters.</p>
+<p>3. All requisitions for camp and garrison equipage, clothing, subsistence, medical supplies, &amp;c., will be made in due form upon the proper Federal officers. United States officers issuing to State troops are requested to forward duplicate invoices to the Quartermaster General of Kentucky, to enable him to keep correct accounts with officers receipting for same.</p>
+<p>4. The conditions upon which State troops were recruited, as to terms of enlistment, will be strictly complied with; but they will be required to conform to all the orders and regulations prescribed for U. S. troops serving within the limits of Kentucky.</p>
+<p>5. All authorities issued from these Headquarters to recruit State forces will be revoked, unless the strength and organization of men raised under said authorities are reported both to these Headquarters and to Headquarters Department of Kentucky, through the proper military channels, within twenty (20) days from the date of this order.</p>
+<p>The provisions of this order will be <hi rend="italic">strictly</hi> and <hi rend="italic">immediately</hi> executed by all commanding officers of State troops.</p>
+<p>By order of the Govnernor.
+<lb/>D. W. LINDSEY,
+<lb/>ADJUTANT-GENERAL OF KENTUCKY.</p>
+  </body>
+ </text>
+</TEI>

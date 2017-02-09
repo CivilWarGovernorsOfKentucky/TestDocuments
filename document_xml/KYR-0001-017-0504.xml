@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0504"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">R. W. Park to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG2852</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Civil Appointments, 1859-1862</collection>
+      <idno>MG4-518 to MG4-519</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Elizabethtown, Hardin County, Kentucky</placeName>
+    <date when="1862-06-26">26 June 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Elizabethtown Ky
+<lb/><date when="1862-06-26">June 26 1862</date>
+<lb/>Hon Beriah MaGoffin
+<lb/>Governor of Ky
+<lb/>Sir</p>
+<p>The Police Judge of this place who was elected at the <date when="1860-04">April election 1860</date> failing to qualify &amp; refusing to do so, at a Meeting of the board of Trustees held the following order was adopted "Monday <date when="1862-06-23">June 23</date> It appearing to the board of Trustees that the office of Police Judge of Elizabethtown is now vacant. It is ordered that James D Culey be recommended to the Governor of Kentucky as a suitable person to fill said office"<pb/>
+<lb/>You will please Send his commission as soon as possible</p>
+<p>R. M. Park
+<lb/>President, Board Trustees
+<lb/>Elizabethtown<pb/></p>
+<p>Elizabethtown<figure type="hr"/>
+<lb/>Po Judge</p>
+<p>Com Iss<hi rend="sup">d</hi> <date when="1862-07-28">July. 28 1862</date></p>
+<p>Issue Commission
+<lb/>B. M</p>
+  </body>
+ </text>
+</TEI>

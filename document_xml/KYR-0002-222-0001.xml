@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-222-0001"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">James F. Robinson, Jr., Receipt to Samuel C. Bull</title>
+    <title level="a" type="parallel">CWG13690</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>Misc. QM Expenditures, 1863-1865</collection>
+      <idno>QMG Box 10; 1863 Office Expenses - Telegraph, Stationary - Transportation - Ordinance Stores; Bundle 1</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1863-04-05">5 April 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>No. 12.<figure type="hr"/>The State of Kentucky,
+<lb/>To Saml C Bull Dr.</p>
+<p><table rend="rules">
+<row>
+	<cell>Date of Purchase.</cell>
+	<cell/>
+	<cell>DOLLARS.</cell>
+	<cell>CENTS.</cell>
+</row>
+<row>
+	<cell><date when="1863">1863</date></cell>
+	<cell/>
+	<cell/>
+	<cell/>
+</row>
+<row>
+	<cell><date when="1863-01-05">Janry 5</date></cell>
+	<cell>To 2500 Large Envelopes ✓</cell>
+	<cell>20</cell>
+	<cell>00</cell>
+</row>
+<row>
+	<cell><date when="1863-01-15">" 15</date></cell>
+	<cell>" One Gross Pens ✓</cell>
+	<cell>1</cell>
+	<cell>00</cell>
+</row>
+<row>
+	<cell><date when="1863-01-16">" 16</date></cell>
+	<cell>" Blank Book ✓</cell>
+	<cell/>
+	<cell>75</cell>
+</row>
+<row>
+	<cell><date when="1863-02-10">Febry 10</date></cell>
+	<cell>" One Gross 303 Pens ✓</cell>
+	<cell>1</cell>
+	<cell>50</cell>
+</row>
+<row>
+	<cell><date when="1863-02-17">" 17</date></cell>
+	<cell>" Blank Book ✓</cell>
+	<cell/>
+	<cell>25</cell>
+</row>
+<row>
+	<cell><date when="1863-02-27">" 27</date></cell>
+	<cell>" One Gross 303 Pens ✓</cell>
+	<cell/>
+	<cell>25</cell>
+</row>
+<row>
+	<cell><date when="1863-03-04">March 4</date></cell>
+	<cell>" 2 Letter Books @ ✓ 325</cell>
+	<cell>6</cell>
+	<cell>50</cell>
+</row>
+<row>
+	<cell><date when="1863-03-04">" "</date></cell>
+	<cell>" <hi rend="sup">1</hi>/<hi rend="sub">2</hi> Ream Legal Cass ✓</cell>
+	<cell>2</cell>
+	<cell>75</cell>
+</row>
+<row>
+	<cell><date when="1863-03-17">" 17</date></cell>
+	<cell>" Bottle Copying Ink ✓</cell>
+	<cell>1</cell>
+	<cell>00</cell>
+</row>
+<row>
+	<cell/>
+	<cell/>
+	<cell>$35</cell>
+	<cell>25</cell>
+</row>
+<row>
+	<cell><date when="1863-03-25">" 25</date></cell>
+	<cell>" 6 oz Red Office Tape ✓ 75</cell>
+	<cell>4</cell>
+	<cell>50</cell>
+</row>
+<row>
+	<cell><date when="1863-03-25">" "</date></cell>
+	<cell>" 4 Goods Boxes ✓ 25</cell>
+	<cell>1</cell>
+	<cell>00</cell>
+</row>
+<row>
+	<cell/>
+	<cell/>
+	<cell>$40</cell>
+	<cell>75</cell>
+</row>
+</table></p>
+<p>Approved 
+<lb/>By order of the Governor
+<lb/>Jno. W. Finnell Adjt Genl</p>
+<p>I certify that the above account is correct and just, and that the articles <hi rend="str">have been accounted for on my Property Return for the <gap/> ending on the <gap/> of <gap/> 186<gap/></hi> ^were purchased for use of Adjt Generals office -- ^</p>
+<p>Jno W. Finnell
+<lb/>Adjt Genl Ky vols
+<lb/>Quartermaster.</p>
+<p>Received at Frankfort, Kentucky, the <date when="1863-04-05">5<hi rend="sup">th</hi> of April, 1863</date>, of James F Robinson Jr, Quartermaster for the State of Kentucky, Forty 75/100 Dollars and <gap/> Cents, in full of the above account.</p>
+<p>(SIGNED IN DUPLICATE.)</p>
+<p>Saml C Bull<pb/></p>
+<p>No. 12.
+<lb/>No. 19 Abstract <hi rend="str">A</hi>. "L"
+<lb/>FOR THE
+<lb/><gap/> ending <gap/> 186<gap/>
+<lb/>Saml C Bull
+<lb/>Dollars 40 <hi rend="sup">75</hi>/<hi rend="sub">100</hi>
+<lb/>Paid <date when="1863-04-05">April 5<hi rend="sup">th</hi> 1863</date>
+<lb/>Stationery
+<lb/>8
+<lb/>J 200</p>
+  </body>
+ </text>
+</TEI>

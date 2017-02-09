@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1139"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">R. C. Hayslip et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10607</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG20-283</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Brownsville, Edmonson County, Kentucky</placeName>
+    <date when="1861-06-06">6 June 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Brownsville Ky <date when="1861-06-06">June the 6<hi rend="sup">th</hi> 1861</date></p>
+<p>To His Excelency Beriah Magoffin Governor of the Commonwealth of Kentucky your petitioners would respectively represent to your Honor that whereas F. B. Watters was fined the Sum of Twenty Dollars before the Edmundson Equity and Criminal Court at its <date when="1861-03">March Term 1861</date> for the offence of retailing Spirituous Liquors Said Watters retailed the Liquors in the following manners and under the following circumstances (To wit) ^whereas^ W N. Palmore the proprietors of the Hotell in the Town of Brownsville had obtained a Licence to keep a Tavern in the Said Town and Benjamin Watters the uncle of the Said F. B. Watters having rented the Bare of Said Palmore with the understanding ^from Mr Palmore^ that it was Legal to Sell under his License and taking the obligation of Mrs Palmore for the exclusive privoledges of the Bare and giving his obligations <hi rend="str">fr</hi> in the penal Sum of $<gap/> that he would keep good orders which he did, and the Said Bery Watters having <hi rend="str">his</hi> employed the Said F B. Watters to Keep bare for him, all acting in Good faith, not <hi rend="str">who</hi> wishing or intending to Violate the Law but thinking all the time that it was Liagle and wright therefore we the undersigned Petitioners think it a great hard Ship for the Said F. B. Watters to pay Said find under all the facts in the cause wherefore we Join in <hi rend="str">for</hi> asking that your clemency May be extended and that you remit Said fine and ever oblige yours &amp;c</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Names
+<lb/>R C. Hayslip
+<lb/>R. A. Crump
+<lb/>M. M. Palmar
+<lb/>J. E. Bacon J P E C
+<lb/><cb n="2"/>Names
+<lb/>J. A. Bledsoe
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Elmore
+<lb/>P H Sohan P. A.
+<lb/>Charles Lindsey<milestone unit="column" n="1"/><pb/>
+<lb/>Simeon Brooks
+<lb/>P Russell Jones
+<lb/>W M Houchin
+<lb/>M F Deulton
+<lb/>C. C. Crump
+<lb/>W<hi rend="sup">m</hi> A Hutchason
+<lb/>Dr. W. Hazelip
+<lb/>M N Drake
+<lb/>John S. Davis
+<lb/>Robert hayslip
+<lb/>P. S. Hayslip
+<lb/>H. K. Lyon
+<lb/>Erwin Johnson
+<lb/>Isaac J P Johnson
+<lb/>W. J. Frost
+<lb/>S. E. Sanders
+<lb/>C. W. Morrison
+<lb/>W. N. Ford
+<lb/>W H Clark
+<lb/>John Keefass
+<lb/>Henry Musgrove
+<lb/>W Hazlip
+<lb/>T B M<hi rend="sup">c</hi>Intire</p>
+<p>Respite 12 Mo
+<lb/>B. M</p>
+<p>Is<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1861-06-24">June 24</date></p>
+<p>Edmunson Eq. Ct
+<lb/>$20. } liquor
+<lb/>F. B. Waters</p>
+  </body>
+ </text>
+</TEI>

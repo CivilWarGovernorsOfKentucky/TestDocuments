@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1175"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">E. B. Treadway et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10643</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG20-339 to MG20-340</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his excellency B M<hi rend="sup">c</hi>Goffin Esqr 
+<lb/>Govener of Ky</p>
+<p>your petitioners represent that Sometime since <date when="1858">1858</date> E B Treadway H B Hampton D B Capps W Glass &amp; H F Hensley became the security of one B Broun for his appearance in the ousley circuit court to answer a charge of fellony to wit <hi rend="underline">Poligamy</hi> they state that Broun failed to appear in discharge of said recognizance the consequence of which was a forfeiture and Judgment was rendered thereon against said securities for the whole amount $250,, at the last term of the ousley cirucit court they state that Broun has left the commonwealth that it was impossible for his securities to bring him up to Justice they state that said securities entered into said Broun before an examining court and that <hi rend="str">there</hi> <hi rend="str">was</hi> the circumstances of Brouns Guilt was but slight on the trial the proof conduced to show that he had been married twice but it failed to prove that <hi rend="str">stu</hi> ^the first wife^ was alive <hi rend="str">an</hi> <hi rend="str">the probabilty</hi> <hi rend="str">is</hi> <hi rend="str">she</hi> <hi rend="str">was</hi> <hi rend="str">dead</hi> they state that Broun was considered a good citizen till he Absconded<pb/>
+<lb/>they state furthermore that they donot believe that the proof ever would have convicted Broun altho the grand Jury found an indictment the circuit Judge was of opinion that the proof was not sufficient to convict him the case being stated to him they failed to prove the first <hi rend="underline">marrage</hi> <hi rend="underline">in</hi> <hi rend="underline">fact</hi> as the law requires they failed to prove that the first wife was alive as the law requires in the absence of which the law presumes him innocent this was the state of case when the securities <hi rend="str">went</hi> entered into the bond the securities suffered Judgement to go against them believing as your petitioners do that the case presented strong considerations for the interposition of the executive clemency they think that it is the wish of all persons acquainted with the facts that said fine be remitted &amp; they therefore hope your clemency will be moved in their behalf that the fine be remitted and for every thing else they right to pray for<pb/></p>
+<p><milestone unit="column" n="2"/><cb n="1"/>E. B. Treadway S. O. C
+<lb/>Luther Brawner
+<lb/>A. Bowman
+<lb/>John Combs
+<lb/>W<hi rend="sup">m</hi>.S. Hurst
+<lb/>W. Hetton
+<lb/>Jesse Mitchell Esq
+<lb/>Capt Heton
+<lb/>Rev. Ambrose Cobb
+<lb/>Isaac H Gabbard
+<lb/>Jacob Gabbard
+<lb/>O R Major
+<lb/>Clab Rasner
+<lb/>Samuel McIntosh
+<lb/>Lewis Eversole
+<lb/>Isaac Fox
+<lb/>Martin Woodard
+<lb/>M. V. Winn,
+<lb/>Isaac Gilbert
+<lb/>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> Burnell Atty for O. C_
+<lb/><cb n="2"/>H F Hensley
+<lb/>H B Hampton
+<lb/>D B Capps
+<lb/>H. C Hargis<milestone unit="column" n="1"/><pb/></p>
+<p>Owsley Cir. Ct
+<lb/>$250. } Forfeited Recognizance</p>
+<p>E. B. Treadway &amp; others.<figure type="hr"/></p>
+<p>Resp<hi rend="sup">d</hi>. 12. Mos.</p>
+<p>Iss<hi rend="sup">d</hi> <date when="1863-06-06">June 6. 1863</date></p>
+<p>Remitted
+<lb/>B. M.</p>
+<p>Iss<hi rend="sup">d</hi> <date when="1863-07-11">July 11. 1861</date><figure type="hr"/></p>
+<p>Respite 12 Mo<hi rend="sup">s</hi>
+<lb/>B. M.</p>
+  </body>
+ </text>
+</TEI>

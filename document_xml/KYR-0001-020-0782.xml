@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0782"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">A. D. Rodgers to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10250</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG19-217</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Hopkinsville, Christian County, Kentucky</placeName>
+    <date when="1861-04-09">9 April 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Hopkinsville Ky <date when="1861-04-09">April 9<hi rend="sup">th</hi> 1861</date>
+<lb/>Gov Magoffin</p>
+<p>Sir. at the present term of the Christian Circuit Court. Johnathan Greer was found guilty of Manslaughter and the penalty fined at five years in the Penitentiary of our state a petition has been circulated among the citizens of the county praying your Honor to pardon. I have been requested to write a letter in behalf of M<hi rend="sup">r</hi> Greer and Join in the prayer for his release. which I most cheerfully do. I have known M<hi rend="sup">r</hi> Greer for twenty years and a more orderly upright citizen in My Judgment cannot be found in the county I acted as the prosecutor on the examining trial I heard the trial on motion for bail and a part of the trial at the time of his conviction and honestly I did not nor do I now think that the evidence warrants or Justifies the finding of the Jury. I trust your Honor will give M<hi rend="sup">r</hi> Greer a favorable hearing and in view of his <unclear/> age and the Family he must have imporvided for that your will give him a full pardon and restore him to the potitian he so fully merrits a free man</p>
+<p>Respt A D Rodgers
+<lb/>Judge of Christian Cty</p>
+  </body>
+ </text>
+</TEI>

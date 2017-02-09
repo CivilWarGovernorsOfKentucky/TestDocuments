@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-031-0314"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">G. S. Kimberly to James F. Tate</title>
+    <title level="a" type="parallel">CWG8054</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Appointments by the Governor, Civil Appointments, 1862-1863</collection>
+      <idno>R1-423</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Foster, Bracken County, Kentucky</placeName>
+    <date when="1863-08-05">5 August 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Foster Ky <date when="1863-08-05">Aug 5<hi rend="underline"><hi rend="sup">th</hi></hi> 1863</date>
+<lb/>His Excellency Governor of Ky</p>
+<p>Sir Some time ago I sent you the returns of an election held at this place to fill the vacancy Supposed to have occured in the Police Judges office by the absence of that functionary'.' and received in answer the opinion of the attorney General that the office was not vacant. Since which time the board of Trustees has received his ^Jesse Gays^ resignation.. and have ordered and held an election to fill the vacancy occrring by said resignation'' the returns of which I herewith Enclose you duly certified to the question has arrissen here in the minds of some whether the resignation should have been made to you or to the board.</p>
+<p>if this action be not correct and legal the Board of Trustees would be gratified to receive the Attorney Generals advise upon the subject if it be correct and legal they would be pleased for Mr. Watson to receive his commission as early as convenient if it be not correct they would be equally pleased, to receive the attorney's advise soon</p>
+<p>With many well wishes for his excellency and our country I am</p>
+<p>Respt yours
+<lb/>(Address) G. S. Kimberly
+<lb/>Clerk Board Trustees</p>
+  </body>
+ </text>
+</TEI>

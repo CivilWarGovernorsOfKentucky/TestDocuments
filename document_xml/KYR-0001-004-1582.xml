@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1582"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Hiram Laurence to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6219</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR13-14</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency
+<lb/>Thomas E. Bramlette:
+<lb/>Governor of Kentucky:</p>
+<p>Your Petitioner would respectfully state that at the <gap/> Term of the Lexington City Court ^for the year <date when="1864">1864</date>^ he was tried upon a charge of Assault and Battery at the suit of the Commonwealth of Kentucky and fined in the sum of Twenty-five Dollars and costs.</p>
+<p>That again at another Term of said Court held for the month of <gap/> <date when="1864">1864</date> he was <hi rend="str">again</hi> tried upon a like charge at the suit of the Commonwealth and fined in the sum of Fifty Dollars &amp; costs.</p>
+<p>He states that he is a laboring man and has for the whole of the present winter has been confined at home suffering, beside intense and protracted physical pain, a great loss of time from his employment and great expense, that in consequence of these misfortunes he asks that your Excellency remit so much of the said fines as may be within the proper exercise of Executive clemency.</p>
+<p>The fees and costs in these cases will be heavy and he respectfully asks a remission of the fines excepting these.</p>
+<p>Hiram Laurence -- <pb/></p>
+<p>We, whose names are signed hereto would respectfully ask the Governor to remit the fines referred to within as we believe the facts stated to be true -- </p>
+<p>W T Scott
+<lb/><hi rend="underline">D. C Wickliffe</hi>
+<lb/><hi rend="underline">F. K. Hunt</hi>
+<lb/>J. F. Robinson Jr</p>
+<p>City Ct Lexington
+<lb/>vs
+<lb/>Laurence, Hiram
+<lb/>to } Petition
+<lb/>His Excellency, the Gov<hi rend="underline"><hi rend="sup">r</hi></hi><figure type="hr"/>
+<lb/>Remitted
+<lb/><date when="1865-03-27">27<hi rend="sup">th</hi> Mch/65</date></p>
+<p><hi rend="underline">Remit</hi></p>
+  </body>
+ </text>
+</TEI>

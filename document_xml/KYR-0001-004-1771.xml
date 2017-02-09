@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1771"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John E. Records to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6408</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR13-291</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Falmouth, Pendleton County, Kentucky</placeName>
+    <date when="1865-05-06">6 May 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Falmouth Ky <date when="1865-05-06">May 6<hi rend="sup">th</hi> 1865.</date>
+<lb/>Governor Thomas E Bramlette
+<lb/>Dear sir:</p>
+<p>Enclosed you will find a petition of S M Clark who was indebted for keeping a Tippling house at our last term of the Pendleton Circuit The name by which he was indebted was Alesk Clark, but he took no advantage of the error in the Indictment, He desires to have all of the judgment except the costs remitted, I am not much in favor of the remission of fines, but I think this to be one of true merit, The petion is signed by the very best citizens of our County who are his immediate neighbors, The witness who attempted &amp; did to certain extents prove the charge was trif<hi rend="str">f</hi>ling fellows by person enemies, I think his case has true merits</p>
+<p>Respectfully yours<hi rend="underline">
+<lb/>John E. Records</hi></p>
+  </body>
+ </text>
+</TEI>

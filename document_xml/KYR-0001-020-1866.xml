@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1866"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">I. O'Hara, Jr. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG11334</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Bradley Strait</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG23-271 to MG23-272</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Covington, Kenton County, Kentucky</placeName>
+    <date when="1862-05-10">10 May 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Covington Ky <date when="1862-05-10">May 10/62.</date>
+<lb/>Dear Govenor.</p>
+<p>This will be handed to you by M<hi rend="underline"><hi rend="sup">rs</hi></hi> White of this city who visits you with an application for the discharge of her son Mortimer Peck a youth of about eighteen, who was convicted at the last term of our court of an alleged to commit a rape on the person of a little girl of this place. </p>
+<p>I am not well advised of the circumstances attending the commisson of the offence, having heard only a portion of the testimony. but I am informed and I doubt not the conection of the information judging as well from the appearance of the young<pb/>
+<lb/>man on the trial as the character of the persons who give the information, that he is the subject of that most horrible and destructive practice of <hi rend="underline">masterbation</hi>, which has greatly impaired his moral and physical constitution. </p>
+<p>He has never before been accused of any bad or criminal conduct</p>
+<p>In his confinement nothing can be effeciently done to reform his unfortunate habit or recuperate his health; he is indeed absolutely dieng in prison -- </p>
+<p>His mother designs sending him to some friends in the state of Missouri, where she hopes he may receive the care and attention of friends which will relieve him in time from this greatest misfortune that could befall one of our race. </p>
+<p>I believe it will be a mercy indeed to relieve him from the further expiation of his offense in the County Jail, while to continue him longer in confinement will <unclear>subsume</unclear> no public or private good. </p>
+<p>Yours &amp;
+<lb/>I. O'Hara Jr</p>
+  </body>
+ </text>
+</TEI>

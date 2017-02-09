@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-2257"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">J. Q. A. Foster et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG9333</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG24-419</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency Gov
+<lb/>Beriah Magoffin</p>
+<p>The Undersigned citizens of Newport Ky would most respectfully represent to Your Excellency that Thomas Walsh was fined at the <date when="--08">last August Term</date> of the Campbell Circuit Court in the Sum of $200.00 for keeping a tippling house in this City Which Sum You in Your Clemency did Most Graciously respite for the term of 8 Months But we would further represent that the afsd Thos Walsh had before the receipt of the respite from Your Excellency paid the $200.00 by borrowing the Same and Giving a Mortgage on the Small amount of property which he was worth.</p>
+<p>The Money has now become due and the poor man and his wife and children will be left without a shelter or any Means of Subsistence unless You interpose in his behalf.</p>
+<p>We therefore humbly pray that You will remit his fine.<pb/>
+<lb/>J Q A Foster
+<lb/>A D Dury
+<lb/>Tho M gideon
+<lb/>J R Stone
+<lb/>T Rafferty
+<lb/>C Southgate
+<lb/>E W Hawkins
+<lb/>H D <unclear/>
+<lb/>Geo. R Fearons
+<lb/>Robt B MCrackin
+<lb/>F. A. Boyd
+<lb/>J. M. Boyd
+<lb/>J. R. Hallam
+<lb/>Owen Conlan
+<lb/>Moses Cook</p>
+  </body>
+ </text>
+</TEI>

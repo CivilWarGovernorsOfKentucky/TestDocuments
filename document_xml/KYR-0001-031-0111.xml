@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-031-0111"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">R. F. Vinson to Daniel C. Wickliffe</title>
+    <title level="a" type="parallel">CWG7851</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Appointments by the Governor, Civil Appointments, 1862-1863</collection>
+      <idno>R1-158</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisa, Lawrence County, Kentucky</placeName>
+    <date when="1862-09-16">16 September 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Louisa Ky <date when="1862-09-16">Sep 16<hi rend="sup">th</hi> 1862.</date>
+<lb/>To the Secretary State Ky.</p>
+<p>Dear Sir -- The Election Returns for Lawrence County were duly placed in the Post Office in this place but up to this date the Commissions of the Presiding Judge and Justices Elected have not come to hand I here give a list of those Elected.
+<lb/><table rend="rules">
+<row>
+	<cell>Pleasant M Savage</cell>
+	<cell>was duly Elected</cell>
+	<cell>Presing Judge</cell>
+</row>
+<row>
+	<cell>John Savage</cell>
+	<cell>" " "</cell>
+	<cell>J. P. for Dis No 1.</cell>
+</row>
+<row>
+	<cell>John Thompson</cell>
+	<cell>" " "</cell>
+	<cell>J. P. for Dis " 4</cell>
+</row>
+<row>
+	<cell>Berry E Fuggitt</cell>
+	<cell>" " "</cell>
+	<cell>J. P. " Dis " 5.</cell>
+</row>
+<row>
+	<cell>Michael Wellman</cell>
+	<cell>" " "</cell>
+	<cell>J. P. " Dis " 6.</cell>
+</row>
+<row>
+	<cell>John Jones.</cell>
+	<cell>" " "</cell>
+	<cell>J P. " Dis. " 9.</cell>
+</row>
+</table></p>
+<p>It is important at least that the Presidng Judge should be commissioned and Great issue, as the old Co Judge is absent and no Justice of the Pease living nearer than 5 miles of the Courthouse if the Election Return for the other officers have not reached you let me know and I will forward them again</p>
+<p>Respectfully
+<lb/>R. F. Vinson Co C. Clk.
+<lb/>per <hi rend="underline">Geo B Pough Dpy</hi><pb/></p>
+<p>Lawrence Co<figure type="hr"/>
+<lb/>Duplicate Comm<hi rend="underline"><hi rend="sup">s</hi></hi>
+<lb/>Iss<hi rend="underline"><hi rend="sup">d</hi></hi> to Co Judge &amp; J P.
+<lb/><date when="1863-01-07">Jany <hi rend="str">5</hi>7. 1863</date></p>
+  </body>
+ </text>
+</TEI>

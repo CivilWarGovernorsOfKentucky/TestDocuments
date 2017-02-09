@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0703"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Isaac Vertruse and John Erwin to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG4822</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR10-75 to BR10-76</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Calhoun, McLean County, Kentucky</placeName>
+    <date when="1864-04-12">12 April 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Calhoon Ky <date when="1864-04-12">April 12<hi rend="sup">th</hi>/64</date>
+<lb/>His Excelency
+<lb/>Thomas E. Bramblett Gov &amp; c</p>
+<p>your Petitioners would respectfully represent to your Honner that they were informed against at the <date when="--09">September term</date> of the M<hi rend="sup">c</hi>Clean Circuit Court and an indictment found against them for selling spirits to a slave in violation of the statute your Petitioner employed council to attend to the management of said cause which they failed to do properly but let the court take the case on the indictment without any Evidence on the part of these Petitioners and the court thereupon rendered Judgment against these Petitioners for 50$ your Petitioners were wholy ignorant of the prosecuting if they had been aprised of the case they could have introduced the owner of the slave and proven that we had daily orders from him to sell said slave sprits where ever he called for it as will fuly appear to your Honer by reference to his affidavit herwith filed</p>
+<p>Now therfore your Petitioner declare that they have not violated the Statute of Kentucky as alledged and Pray your Honner to release him from this unjust penalty as they will ever pray</p>
+<p>Respectfully
+<lb/>Isaac. Vertuse
+<lb/>John. Erwin</p>
+  </body>
+ </text>
+</TEI>

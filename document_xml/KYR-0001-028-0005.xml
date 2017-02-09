@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-028-0005"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">A. V. Townes to James F. Robinson</title>
+    <title level="a" type="parallel">CWG7660</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Appointments by the Governor, Military Appointments, 1862-1863</collection>
+      <idno>R2-120</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Mount Sterling, Montgomery County, Kentucky</placeName>
+    <date when="1862-08-20">20 August 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Camp Apperson Ky
+<lb/><date when="1862-08-20">20<hi rend="sup">th</hi> Aug<hi rend="sup">s</hi> 1862</date>
+<lb/>Gov' J. F. Robinson
+<lb/>Respected Sir</p>
+<p>I am here at Mount Sterling in command of six hundred men at the present time I have found out a good deal more since I left Frankfor<hi rend="str">d</hi>t about the Rebel mail line between this place and the Rebel camp there are three lines in this portion of the State from Mayslick to Humphrey Marshal from this place to same &amp; from Madison Co to Morgan I have men at work <hi rend="underline">true</hi> <hi rend="underline">men</hi> and I intend to break it up If you can get the Legislature to pass an act giving you a secret fund for the scouting business and will let me go Regularly into it I think I can do good I am will Resign my position heare (I understand that the Field officers are to be elected if so I will be unanimously elected ^Jun<hi rend="sup">r</hi> major^) and go into the work without any rank or pay if the state will pay my expenses I would like to heare from you at your earliest leasure</p>
+<p>Very Respectfully your
+<lb/>Obedient Servant
+<lb/>A V Townes
+<lb/>Lt' Com' Battallion
+<lb/>10<hi rend="sup">th</hi> Ky Cav'<pb/></p>
+<p>A V. Towns
+<lb/>Mt Sterling
+<lb/>Rebel Mails</p>
+  </body>
+ </text>
+</TEI>

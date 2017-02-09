@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0290"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">C. Bailey, Receipt to John R. Cargill</title>
+    <title level="a" type="parallel">CWG8742</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Governor's Official Correspondence File, Petitions for Pardons, Remissions, and Respites, 1862-1863</collection>
+      <idno>R3-426</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Franklin County, Kentucky</placeName>
+    <date when="1863-03-06">6 March 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>John R. Cargill
+<lb/>Sheriff Hopkins Rev <date when="1860">1860</date>
+<lb/>Paid in full except Damages
+<lb/><table rend="rules">
+<row>
+	<cell>Amt of Judgment</cell>
+	<cell>(Principal)</cell>
+	<cell>$9.155.45</cell>
+</row>
+<row>
+	<cell>" " "</cell>
+	<cell>(Damages)</cell>
+	<cell>$1.831.09</cell>
+</row>
+</table>
+<lb/>Attest
+<lb/>C. Bailey
+<lb/>Asst Aud<figure type="hr"/></p>
+<p><date when="1863-03-06">March 6 1863</date><pb/></p>
+<p>Franklin Cir. Ct
+<lb/>$1851.09 } Damages
+<lb/>Jno. R. Cargill
+<lb/>Shff of Hopkins Co
+<lb/>Remission Iss<hi rend="sup">d</hi>
+<lb/><date when="1863-03-06">Mar. 6. 1863</date></p>
+  </body>
+ </text>
+</TEI>

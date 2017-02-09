@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0299"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Thomas Baly Tarter to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG9767</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG17-296</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Pulaski County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency Beriah Magoffin. Governor of Kentucky.</p>
+<p>Your Petitioner Baily Tarter would respectfully state that at short time since he got into a difficulty with one Christian Timme Jr. -- that each was throwing rocks at the other -- that one of the rocks thrown by him struck a third party accidentally, <hi rend="str">causing</hi> inflicting however upon him no material injury &amp; but little pain: that although the rock struck him upon the arm, so slight was the injury that he was in his field hoeing corn the second day afterwards, and most probably could have been the next day -- </p>
+<p>That for his offense he was arrested and tried before W. P Muse Esqr a Justice of the Peace for Pulaski County and find the sum of Fifteen dollars: which to him is an onerous fine, as he is quite a young man, has but recently married &amp; is very Poor -- and as it is the first and only fight he has been in since he was a small boy, he earnestly invokes the interposition of your Executive Clemency in this premises and prays ther remission of said fine.</p>
+<p>Thos Baly Tarter</p>
+<p>We are acquainted with the Petitioner Baily Tarter -- know that he is, in property and money very poor, and never heard of his being in a fight before and belive his case highly deserving the interposition of executive clemency.</p>
+<p>John. Crawford
+<lb/>D, W, Barron
+<lb/>W D Black
+<lb/>F Gastineau
+<lb/>John S Kindrick
+<lb/>J. V. Sallee<pb/></p>
+<p>Pulaski
+<lb/>Remitted
+<lb/>B. M
+<lb/>Is<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="--09-01">Sept 1</date>
+<lb/>$15 
+<lb/>Tarter</p>
+  </body>
+ </text>
+</TEI>

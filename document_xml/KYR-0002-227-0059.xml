@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-227-0059"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">W. O. Boyle to Daniel W. Lindsey</title>
+    <title level="a" type="parallel">CWG14289</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>11th Ky. Cav (US) Muster Rolls</collection>
+      <idno>Flat Storage Box: 11th Ky Cav (US) Muster Rolls, Bundle 11</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Lexington, Fayette County, Kentucky</placeName>
+    <date when="1864-10-31">31 October 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Lexington Ky <date when="1864-10-31">Oct 31<hi rend="sup">st</hi> 1864</date>
+<lb/>Gen. D. W. Lindsay
+<lb/>General:</p>
+<p>I have the honor to make the following recommendations for promotion in the 11' Ky Cav.</p>
+<p>2nd Lt Rufus Somerby to be Capt Co "M" vice Mangan</p>
+<p>Sergt Jno Bradburn to be 2nd Lieut Co "M" " Somerby</p>
+<p>" Jas Powell to be 1st Lieut Co "F." vice Dickerson resigned</p>
+<p>Sergt B. F. Lewis to be 2nd Lieut CO "K" vice Harris Resgd</p>
+<p>I am Very Respectfully
+<lb/>Your Obdt Servt
+<lb/>W. O. Boyle
+<lb/>Lt Col 11' Ky Cav<pb/></p>
+<p><hi rend="underline">11 Cav</hi><hi rend="underline"><hi rend="sup">y</hi></hi><hi rend="underline">
+<lb/></hi>Lexington Ky
+<lb/><date when="1864-10-31">Oct 31" 1864-</date>
+<lb/>Boyle W. O.
+<lb/>Lt Col 11" Ky Cav<hi rend="sup">y</hi>.<figure type="hr"/>
+<lb/>Recommends 2" Lieut Rufus Somerby to be Capt "M" Vice Mangan - Sergt Jno. Bradburn to be 2" Lt Co (M) Vice Somerby - Sergt Jas Powell to be 1" Lt Co. (F) Vice Dickerson resig and sergt B. F. Lewis to be 2" Lt Co (K) Vice Harris resig-<figure type="hr"/>
+<lb/>Lewis has been Com<hi rend="sup">d</hi> 2<hi rend="sup">d</hi> Lt vice Harris</p>
+<p>L B. N<hi rend="sup">o</hi>. 8. <date when="1864">1864</date> p. 38.<figure type="hr"/>
+<lb/>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> A. G. O. <date when="1864-11-02">Nov 2" 1864</date></p>
+  </body>
+ </text>
+</TEI>

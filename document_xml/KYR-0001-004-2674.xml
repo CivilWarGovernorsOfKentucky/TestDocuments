@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2674"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Patrick Welch to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7311</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR16-301</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date when="1865-11-27">27 November 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Louisville Jail <date when="1865-11-27">27 Nov<hi rend="underline"><hi rend="sup">r</hi></hi> 1865</date>.
+<lb/>To His Excellency
+<lb/>Tho E. Bramlette.</p>
+<p>The undersigned was at the present term convicted of Larceny and sentenced by the Jury to one years imprisonment in the state Penitentiary. The Jury were good enough to recommend me to your Excellency for Pardon.</p>
+<p>I Petition for pardon -- I did not steal the Watch. The facts are these. I was employed as Cabin boy on a steamer from Cincinnati to Louisville. After the Boat had landed and the passengers had all left. I found a gold Watch on a birth that had been occupied by a stranger. He is the prosecuter, M<hi rend="underline"><hi rend="sup">r</hi></hi> Stokes -- I took the watch and converted it to my own use. that is I swapped it off for another. I had no intention of doing so when I first found it. I am poor and the temptation overcame me. I was alarmed for fear of the consequences or I would have ownd it all. I have never been in question for any offence against the law but this -- It is my first violation of duty. I know I have done wrong -- </p>
+<p>I appeal to your Excellency to pardon my offence. I am young -- I am not a theif, and if your Excellency can, consistently with your public duty pardon this my first offence, I will strive to resist temptation in future, and ever hold your goodness in grateful remembrance.</p>
+<p>Patrick ^X^ Welch<pb/></p>
+<p>Patrick Welch's
+<lb/>Petition</p>
+  </body>
+ </text>
+</TEI>

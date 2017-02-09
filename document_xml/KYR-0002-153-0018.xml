@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-153-0018"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Boyle to C. W. Biggers</title>
+    <title level="a" type="parallel">CWG14140</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>Assistant Adjutant General Letter Book - No. 1 ; 5 Sept 1863 - 2 Feb 1864</collection>
+      <idno>84</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1863-10-01">1 October 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><note place="header">84</note>
+<lb/><date when="1863-10-01">October 1<hi rend="sup">st</hi> <gap/>3</date>
+<lb/>C. W. Biggers
+<lb/>Sulphur Lick Ky
+<lb/>Dear Sir</p>
+<p>Yours of the <date when="1863-09-26">26<hi rend="sup">th</hi> ult.</date> has been referred, by the Govenor, to this Office.</p>
+<p>As soon as companies or battallions are raised, under "Special Order No 1" -- (a copy of which is herewith encolsed) -- and reported to these Hd. Qrs. the necessary blanks will be forwarded -- an election held and the officers commissioned.</p>
+<p>Arms and Equipage will be furnished them and "when called into active service they shall be entitled to pay at the same rates in every respect as the corresponding grades may at the time be entitled to in the United States Service."</p>
+<p>Respectfully
+<lb/><hi rend="underline">John Boyle</hi>
+<lb/>Adjt. Gen. Ky.</p>
+  </body>
+ </text>
+</TEI>

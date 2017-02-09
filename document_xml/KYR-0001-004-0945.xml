@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0945"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Commonwealth of Kentucky v. William Rice, Judgment</title>
+    <title level="a" type="parallel">CWG5064</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR10-457</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Casey County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Casey Circuit Court
+<lb/><date when="1862-11">November term 1862</date>
+<lb/>The Commonwealth Pltff
+<lb/>against } upon Indictment for standing a Horse &amp;c
+<lb/>William Rice Deft</p>
+<p>This day appeared the attorney for the commonwealth and the <hi rend="str">Defendant</hi> Sheriff returned the summons duly executed on the defendant and he having failed to answer the Indictment thereupon came W T Royalty J J Smith W<hi rend="sup">m</hi> Wells Mat Wilkerson, Martin Morgan, Alfred Goode B N C Allen H H M<hi rend="sup">c</hi>Harrick, Green Davis F. Lucas B. F. Goode J Robert Allen sa<hi rend="sup">d</hi>. who were elected &amp; sworn a Jury well &amp; truly to enquire and a verdict render according to the evidence say "We of the find the Defendant William Rice guilty of the offence charged in the Indictment and assess his fine to Twenty five Dollars William Wills foreman" It is adjudged by the Court that the Deft Rice make good by fine of Twenty five dollars to the Commonwealth of Kentucky in manner as assessed by the verdict of the jury aforesaid and that the Commonwealth never against him the costs herein expounded"</p>
+<p>Atteste Joel Sweeney Clk C C C</p>
+  </body>
+ </text>
+</TEI>

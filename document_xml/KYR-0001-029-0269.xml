@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0269"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Thornton F. Marshall to James W. Tate</title>
+    <title level="a" type="parallel">CWG8721</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Governor's Official Correspondence File, Petitions for Pardons, Remissions, and Respites, 1862-1863</collection>
+      <idno>R3-398 to R3-399</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Augusta, Bracken County, Kentucky</placeName>
+    <date when="1863-03-25">25 March 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Augusta Ky
+<lb/><date when="1863-03-25">March 25<hi rend="underline"><hi rend="sup">th</hi></hi> 1863</date>
+<lb/>Hon Jas. W. Tate
+<lb/>Dear Sir</p>
+<p>I write by the same mail which conveys this a letter, one to Gov. Robinson in reference to a fine imposed upon a gentleman by the name of John Elliott of Bracken County -- He was fined for <hi rend="underline">giving</hi> a negro man a "<hi rend="underline">horn</hi>" of Whiskey at an <hi rend="underline">oyster</hi> supper given by his (the negro<hi rend="underline"><hi rend="sup">s</hi></hi>) young <hi rend="underline">master</hi> &amp; others, <hi rend="underline">and in the presence</hi> of his young master -- </p>
+<p>The fine was for record<pb/>
+<lb/>by an Enemy of Elliott<hi rend="underline"><hi rend="sup">s</hi></hi> &amp; <hi rend="underline">not</hi> by the owner of the slave -- </p>
+<p>M<hi rend="underline"><hi rend="sup">r</hi></hi> Elliott is a Hotel Keeper &amp; a clever gentleman, &amp; I think with others that the fine should be remitted under the <unclear/> circumstances -- Upon such an occasion as <hi rend="underline">that</hi>, in the <hi rend="underline">presence</hi> of the negro<hi rend="underline"><hi rend="sup">s</hi></hi> Master, who one would dream of being made responsible for giving him a dram under the circumstances,</p>
+<p>Please call the Governors <hi rend="str">ear</hi> attention to this matter at <hi rend="str">your</hi> his earliest leisure<pb/>
+<lb/>&amp; if remitted enclose the evidence to me -- </p>
+<p>Sincerely your friend
+<lb/><hi rend="underline">Thornton F. Marshall</hi></p>
+  </body>
+ </text>
+</TEI>

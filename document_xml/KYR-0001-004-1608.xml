@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1608"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">N. N. Wolford et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6245</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR13-50 to BR13-51</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1865-03-07">7 March 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency the Governor of Kentucky
+<lb/>Your Petitioners, N N Wolford
+<lb/>F R Tucker &amp; Matthew Worthington</p>
+<p>state in the Spring of <date when="1864">1864</date> one W B Tucker was arrested charged with killing a negro &amp; being arrested to bail in the sum of $1000 -- these petitioners became his sureties for his appearance at the next Term of the Casey Circuit Court; they state at the <date when="1864-11">Nov</date> Term of said court Tucker did appear but was not arrested but was held further on his bond, but they state a short time after said Court said Tucker was about being mobbed &amp; being in great danger of his life he was compelled to leave his house in Casey &amp; flee the country to save his life &amp; in consequence thereof did not appear at the <date when="1865-03">March</date> Term of said Court. and said bond was forfeited. They state the absence of said Tucker was without any fault of them &amp; they pray to be released from the penalties of said bond they file affidavits of Nancy Tucker for Sarah J Thomson &amp; T B Harrison as part hereof<pb/>
+<lb/>and they believe the statements therein are true</p>
+<p>N N Wolford</p>
+<p>sworn to before me by N N Wolford <date when="1865-03-07">March 7 1865</date></p>
+<p>Z. W. Wash Exr c c,</p>
+<p>We Join in the prayer of this Petitioner</p>
+<p><hi rend="underline">Fon T Fox</hi>
+<lb/>B M Burdett
+<lb/>atty for Commonwealth
+<lb/>Protem
+<lb/>J. E Huffman
+<lb/><hi rend="underline">atty at Law</hi>
+<lb/>Frank Wolford
+<lb/>atty at Law
+<lb/>M J Dunham Atty
+<lb/>W. C. Myers
+<lb/>M<hi rend="sup">c</hi>Dowell Fogle
+<lb/>Hiram Harris
+<lb/>Joel Sweeney Ct Ct Clk
+<lb/>R Blain<pb/></p>
+<p>Casey Cir Ct
+<lb/>vs
+<lb/>Tucker Wolford &amp; Worthington
+<lb/>$1000 -- 
+<lb/>Remitted
+<lb/><date when="1865-03-20">20<hi rend="sup">th</hi> Mch/65</date></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1955"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Commonwealth of Kentucky v. John Castle, Indictment</title>
+    <title level="a" type="parallel">CWG6592</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR14-85</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Johnson County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Johnson Circuit Court
+<lb/>The Commonwealth of Kentucky
+<lb/>against } Indictment
+<lb/>Jno Castle</p>
+<p>The Grand Jury of Johnson County, in the name and by the authority of the Commonwealth of Kentucky, accuse <hi rend="underline">John</hi> <hi rend="underline">Castle</hi>. of the offence of Grand Larceny committed as follows, to wit</p>
+<p>The said <hi rend="underline">John</hi> <hi rend="underline">Castle</hi> on the <date when="1864-01-01">1<hi rend="sup">st</hi> day of January 1864</date> in the county an circuit aforesaid did willfully &amp; feloniously take, steal &amp; carry off a certain Blacksmiths Vice the personal property of Stephen Bryan &amp; Henry Chandler of the value of more than four dollars Against the peace and dignity of the Commonwealth of Kentucky</p>
+<p>(<hi rend="underline">Sgd</hi>) J. S Drury
+<lb/>Commonwealths' Attorney</p>
+<p>I Certify that the above is a true copy of the Indictment here on file in our county,</p>
+<p>John Hawes
+<lb/>Clerk Johnson circuit court,<pb/></p>
+<p><hi rend="underline">200</hi>
+<lb/>Johnson Cir Ct
+<lb/>The Commonwealth
+<lb/>vs. } Indictment for Gd. Larceny
+<lb/>Jno Castle<figure type="hr"/>
+<lb/>A True Bill
+<lb/>^sgd^ N. A. Brown Foreman<figure type="hr"/>
+<lb/>Comths Witnesse
+<lb/>Stephen Bryan
+<lb/>Henry Chandler<figure type="hr"/>
+<lb/>Filed <date when="1865-06-01">June 1<hi rend="sup">st</hi> 1865</date>
+<lb/>Sgd J Hawes clk<figure type="hr"/>
+<lb/>refused</p>
+  </body>
+ </text>
+</TEI>

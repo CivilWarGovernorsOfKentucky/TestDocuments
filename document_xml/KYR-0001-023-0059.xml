@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-023-0059"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">A. J. James to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG2972</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, 1859-1862</collection>
+      <idno>MG1-250 to MG1-251</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1861-05-06">6 May 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Attorney Generals office
+<lb/><date when="1861-05-06">May 6 1861</date>.</p>
+<p>In the Matter of Hon. V. Coleman's right to seat in H.R. I am of opinion a resignation not delivered to the Governor, by a person with whom it had been entrusted, but destroyed and not delivered would not amount to a resignation.</p>
+<p>The state of facts in regard to the basis of action upon which the proclamation <hi rend="str">is</hi> was issued for the election of another member in his place, is not fully within the knowledge of M<hi rend="underline"><hi rend="sup">r</hi></hi> Coleman -- and I have not the facts sufficient to enable me to determine whether a resignation did take place.</p>
+<p>I think from the statements made to me that M<hi rend="underline"><hi rend="sup">r</hi></hi> Coleman should occupy the seat until some other claimant appears -- The House is the Judge of the qualifications of its own members<pb/></p>
+<p>If there has been no Election under the Proclamation -- there should be no other issued unless a proper resignation is on file in the Secretary's office.</p>
+<p><hi rend="underline">A J James</hi> att<hi rend="sup">o</hi> Gen<hi rend="sup">l</hi>.</p>
+<p>Gov. Magoffin</p>
+  </body>
+ </text>
+</TEI>

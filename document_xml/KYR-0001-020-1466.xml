@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1466"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John J. Dulaney to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10934</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Amanda Boczar</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG22-44</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Florence, Boone County, Kentucky</placeName>
+    <date when="1861-10-29">29 October 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Florence Ky. <date when="1861-10-29">Octr 29<hi rend="underline"><hi rend="sup">th</hi></hi> 1861</date>
+<lb/>To Hon. B. Magoffin, Gov. of Ky. </p>
+<p>Dr Sir. In August last The police court of this town imposed a fine of twenty dollars and costs upon Cornelius O'Hern, for giving whiskey to a negro man belonging to my father, Benj<hi rend="sup">n</hi> Dulaney. Upon petition from the jury, judge &amp; citizens of this place you were disposed to interpose your executive pardon so far as to respite all, save costs, for the term of twelve months. This gives him but temporary relief; and in a few months, that promise but faint hope of accumulating the Sum of twenty dollars by daily labor after providing for the Support of a large family, he will be subject to the collection of the fine. I will rehearse to you the circumstances of the case, and if compatible with your convictions of right and justice would respectfully urge a total remission of the fine. O'Hern is poor man -- depends entirely upon his manual labor for a support for himself, wife and five children -- he is remarkably industrious. he has worked more or less every year for years past for my father on the farm, and thus become well aquanted with the negroes. This summer he engaged the boy to whom he gave the whiskey to cut him a piece of grass which my father had given him, and considered it no wrong to give him some spirits to be used during the performance of the labor, as he knew that all the hands on the farm were ac-<pb/>
+<lb/>customed to their regular drams during the progress of harvest. Please give to this matter your immediate attention, for notwithstanding the object of this petition is an irishman and a Catholic, and I am one who was once and during the existance of the party a K. N. I will vouch for him being all right -- </p>
+<p>Very Respectfully Yours.
+<lb/>Jno. J. Dulaney M. D. </p>
+<p>P.S. There is no informant in the case to claim a part of the fine -- it being imposed by his own confession.</p>
+<p>J. J. D. </p>
+<p>Florence Po Ct</p>
+<p>Remitted 
+<lb/>B. M. </p>
+<p>$20 } Giving liquor to slave
+<lb/>C. O'Hern
+<lb/>Iss<hi rend="sup">d</hi> <date when="1861-11-01">Nov. 1. 1861</date></p>
+  </body>
+ </text>
+</TEI>

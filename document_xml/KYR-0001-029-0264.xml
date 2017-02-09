@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0264"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Nelson Baird et al. to James F. Robinson</title>
+    <title level="a" type="parallel">CWG8716</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Governor's Official Correspondence File, Petitions for Pardons, Remissions, and Respites, 1862-1863</collection>
+      <idno>R3-391</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1863-01-19">19 January 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To Gov Robinson</p>
+<p>Your undersigned petitioners would Respectfully Represent that A Judgement was Rendered in a Justice Court in Daviss County to wit J. A. Robertson ^cousin^ Against William A Mitchell in the name of the Commonwealth for disturbing Religious worship -- your petitioners would State that Mr Mitchell young not twenty one years of age peacably disposed and has been quiet all the time during the troubles in our Country and we believe him to be A union man</p>
+<p>Also he is An industrious good Citizen peacably disposed and we Respectfully Ask that your Excellency will Remit the fine imposed on him <date when="1863-01-19">Jany 19<hi rend="sup">th</hi> 1863</date></p>
+<p><cb n="2"/><cb n="1"/>Nelson Baird
+<lb/>Samuel A. Walis
+<lb/>W,, R. Ligon
+<lb/>J. A. Robertson
+<lb/>John H. Lemons
+<lb/>James Waltrip
+<lb/>John H Hogden
+<lb/>R. L. Head
+<lb/>A Riggs Jr
+<lb/>Nathan Baughn
+<lb/>A Riggs Sr
+<lb/>S. C. Baughn
+<lb/>J T Baughn
+<lb/><cb n="2"/>Banister, W. Dickens
+<lb/>D. C. Robertson
+<lb/>Solomon Aams
+<lb/>Fayette Riggs
+<lb/>William Riggs
+<lb/>Tho<hi rend="sup">s</hi> J Brooks
+<lb/>Green Kenady
+<lb/>Henry Austin
+<lb/>J H Taylor
+<lb/>Fenby Jones
+<lb/>Nazra Jones
+<lb/>William Brooks
+<lb/>Lawrence Goff
+<lb/>Handley Baird<pb/></p>
+<p><milestone unit="column" n="1"/>Com
+<lb/>William A. Mitchell
+<lb/>Pettn to remit fine
+<lb/>Daviess J. P. Ct.<figure type="hr"/></p>
+<p>Remit one half fine for <unclear/></p>
+<p>J F Robinson
+<lb/>$10. } Disturbing Worship
+<lb/>Iss <date when="1863-02-09">Feby 9. 1863</date></p>
+  </body>
+ </text>
+</TEI>

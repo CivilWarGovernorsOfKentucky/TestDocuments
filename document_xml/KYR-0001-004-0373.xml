@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0373"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">George Larrison, Affidavit</title>
+    <title level="a" type="parallel">CWG4492</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR9-93</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Barren County, Kentucky</placeName>
+    <date when="1863-12-11">11 December 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Barren Equity &amp; Criminal Court
+<lb/>Commonwealth Plff
+<lb/>against
+<lb/>John W. Hauze &amp;c Defent<hi rend="str">da</hi></p>
+<p>The affiant George Larrison states that he is the agent of the Defendant Marrion Larrison Who is his brother, that his brother appointed &amp; empowered him to attend to the prosecution vs him in the Court &amp; all the transactions growing out of the Same he the deft being in the army</p>
+<p>He further states that the saw his said brother almost daily about the <date when="--06-01">first June</date> last &amp; knows of his own knowledge that Said brother was sick with a chronic disease or one at least that the is subject to when he takes cold and at other times being sick Stomache with puking &amp; general disability &amp; was not abel to attend the <date when="--06">June term</date> of this court That he is now in the Service of his country &amp; unable to attend this term of said court that he affiant wrote Several letters to W<hi rend="underline"><hi rend="sup">m</hi></hi> Sampson inquiring about his brothers case &amp; got no answer from Sampson that he did not know when he left his home in the state of Indiana that the Bail in said case had been forfeited but supposed that his brother<pb/></p>
+<p>a Soldier in the service had prevented its forfeiture That his said brother now or was a Short time since in the State of Tenn or Georgia in the Service &amp; he has been unable to visit him for some Months that these statements are true</p>
+<p>George Larrison</p>
+<p>Sworn to before me by George Larrison <date when="1863-12-11">Dec 11<hi rend="underline"><hi rend="sup">th</hi></hi> 1863</date></p>
+<p>L H M Winn D. C.
+<lb/>A Copy Attest
+<lb/>W. S. Porter Clk</p>
+<p>Affidavit of Geo Larrison</p>
+  </body>
+ </text>
+</TEI>

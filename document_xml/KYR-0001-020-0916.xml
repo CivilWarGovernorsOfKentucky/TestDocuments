@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0916"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Granville Pearl to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10384</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG19-455</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Jackson, Breathitt County, Kentucky</placeName>
+    <date when="1860-10-18">18 October 1860</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Jackson <date when="1860-10-18">Oct 18<hi rend="sup">th</hi> ^1860^</date>
+<lb/>Gov Magoffin</p>
+<p>Dear Sir Jacob Neace who was convicted last week in Perry now on his way to the Penitentiary asks me to write to you in regard to his case he was found guilty upon circumstantial evidence of stealing more than four dollars worth of Bacon from W<hi rend="sup">m</hi> Eversole the circumstances were very strong against M<hi rend="sup">r</hi> Nice and fully justified the finding by the Jury but Jake has a large family and if he would not steal any more which he says he will not he ought to be with his family for they need his services very badly Jake is a good hand to work and takes care of his family I am told very well and they are poore and may suffer in Jakes absense Jake says he did not steal this bacon and perhaps he did not but the evidence would convince any one that he did I have no ill feeling towards Jake not a particle I am going sorry to se him in the condition he is in and have no objections to his being pardoned</p>
+<p>yours respectfully
+<lb/>Granville Pearl<pb/></p>
+<p>Neace's case Perry
+<lb/>Granville Pearl -- </p>
+  </body>
+ </text>
+</TEI>

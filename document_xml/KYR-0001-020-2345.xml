@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-2345"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John W. Finnell et al. to Unknown</title>
+    <title level="a" type="parallel">CWG9421</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG25-116 to MG25-117</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Kenton County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>A judgment having been rendered agaisnt Albert Caldwell, and in favor of the Com<hi rend="underline"><hi rend="sup">th</hi></hi> of Ky, for $500, by reason of the non appearance of said Caldwell to answer a criminal charge at the <date when="1859-03">March term for 1859</date> ^of the Kenton Circuit Court^; at the ensuring June term a Judgt for $500 was entered against Alexander Caldwell, his father, and security in the recognizance We the undersigned, hearing that said Judgment has been respited by His Excellency Gov. Magoffin for one year, do most earnestly solicit a remission of the same Mr. Alex Caldwell we knew, and believe from all we have heard of him, to be a good citizen and a good man At present a collector of him of the above amount would involve him in ruin; moderatly circumstanced as he is; with but little property ^and that^, all earned by his own industry. We believe the non-appearance of his son to answer the charge preferred against him was unwise The evidence which has already been submitted to your Excellency shows that the charge was made on, at best, not strong proofs; and it probably could<pb/>
+<lb/>have been entirely refuted. We again msot earnestly ask of your Excellency a remission of the above fine</p>
+<p>Jno. W. Finnell
+<lb/>Charles Maddox
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> J Reddick
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Threlkeld
+<lb/>Joseph Winston
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> S Saben
+<lb/>R Simmons
+<lb/>J. S. Scott
+<lb/>W<hi rend="sup">m</hi> H Wood
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Maxwell
+<lb/><hi rend="underline">N. B. Stephens</hi>
+<lb/><hi rend="underline">R K </hi><unclear><hi rend="underline">Sumerwell</hi></unclear>
+<lb/>J C Goodson
+<lb/><hi rend="underline">D. Mooar</hi> Mayor
+<lb/>S. F. Roberts
+<lb/>John, F, Fisk<pb/></p>
+<p>I cannot endorse somethings alleged in the within petition -- but I knew that Mr Caldwell is a worthy man and that any clemency bestowed in him by the Executive would not be misplaced -- I therefore join in the prayer of the petition</p>
+<p>W, E, Arthur
+<lb/>Atty Com'th</p>
+  </body>
+ </text>
+</TEI>

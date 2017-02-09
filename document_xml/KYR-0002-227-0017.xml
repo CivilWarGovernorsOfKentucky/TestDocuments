@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-227-0017"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">W. O. Boyle to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG14247</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>11th Ky. Cav (US) Muster Rolls</collection>
+      <idno>Flat Storage Box: 11th Ky Cav (US) Muster Rolls, Bundle 5</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Marietta, Cobb County, Georgia</placeName>
+    <date when="1864-08-09">9 August 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Marietta, Georgia,
+<lb/><date when="1864-08-09">August 9" 1864</date>
+<lb/>Gov. Tho<hi rend="sup">s</hi>. E. Bramlette,
+<lb/>Sir:-</p>
+<p>I hereby earnestly recommend that 1<hi rend="underline"><hi rend="sup">st</hi></hi> Lieut Edward H. Green, Company "E" 11" Ky. Vol. Cavalry be promoted Captain of said Company. vice Capt Frederick Slater, promoted Major.</p>
+<p>Also 2<hi rend="sup">d</hi> Lieut Dunn R. Stage, to be 1<hi rend="underline"><hi rend="sup">st</hi></hi> Lieut of said company, <hi rend="underline">vice</hi>, Lieut Green, promoted Captain.</p>
+<p>Also, 1<hi rend="underline"><hi rend="sup">st</hi></hi> Sergeant Solomon Huffman to be 2<hi rend="sup">d</hi> Lieut of said Company, <hi rend="underline">vice</hi> Lieut Stage promoted.</p>
+<p>I make these recommendations fully estimating the worth and merrit of the Officers above recommended.</p>
+<p>W. O. Boyle
+<lb/>Maj 11 Ky Cav Comdg<pb/></p>
+<p><hi rend="underline">11 Cav</hi><hi rend="underline"><hi rend="sup">y</hi></hi><hi rend="underline">
+<lb/></hi>Marietta Ga
+<lb/><date when="1864-08-09">Augt 9<hi rend="sup">th</hi> 1864</date><figure type="hr"/>
+<lb/>Boyle W. O
+<lb/>Maj Com<hi rend="sup">d</hi> 11<hi rend="sup">th</hi> Cav<figure type="hr"/>
+<lb/>Recommend 1<hi rend="sup">st</hi> Lt E H Green Co 'E" to be comssioned Cap<hi rend="sup">t</hi> same Co vice Slater promoted &amp; Dunn R Stage to be 1<hi rend="sup">st</hi> Lt vice Green, and S Huffman to be 2<hi rend="sup">d</hi> Lt. vice Stage.hr/&gt;
+<lb/>Issue
+<lb/>D W Lindsey
+<lb/>Insp &amp; A G Ky</p>
+<p>Com iss<hi rend="sup">d</hi> &amp; forw<hi rend="sup">d</hi>.
+<lb/><date when="1864-08-19">Aug 19. 1864</date><figure type="hr"/>
+<lb/>Rec<hi rend="sup">d</hi> A. G O <date when="1864-08-15">15 Aug 1864</date><pb/></p>
+<p><note place="left margin">1. 2. 3. 4. 5 6</note>
+<lb/>1 Lieut Edward H. Green Co<hi rend="sup">y</hi> E. 11 Cav<hi rend="sup">y</hi> com Capt. Co<hi rend="sup">y</hi> E. <date when="1864-08-09">August 9. 1864</date> vice Fred<hi rend="sup">k</hi>. Slater promoted<figure type="hr"/></p>
+<p><note place="left margin">1 2. 3 4. 5 6</note>
+<lb/>2 Lieut Dunn R. Stage com 1 Lieut Co<hi rend="sup">y</hi> E. 11 Cav<hi rend="sup">y</hi> <date when="1864-08-09">Aug 9. 1864</date> vice Edw<hi rend="sup">d</hi>. H. Green promo:<figure type="hr"/></p>
+<p><note place="left margin">1. 2. 3. 4. 5, 6</note>
+<lb/>Serg't Solomon Huffman com 2 Lieut Co<hi rend="sup">y</hi> E. Cav<hi rend="sup">y</hi> <date when="1864-08-09">Aug 9. 1864</date> vice Dunn R. Stage promo</p>
+  </body>
+ </text>
+</TEI>

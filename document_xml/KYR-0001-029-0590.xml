@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0590"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Commonwealth of Kentucky v. Elijah Jones and William Norman, Indictment</title>
+    <title level="a" type="parallel">CWG9042</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Governor's Official Correspondence File, Petitions for Pardons, Remissions, and Respites, 1862-1863</collection>
+      <idno>R4-431</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Todd County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Todd Circuit Court
+<lb/>The Commonwealth of Kentucky
+<lb/>against } Indictment <date when="1863-04">April Term 1863</date>
+<lb/>Ellijah Jones
+<lb/>William Norman </p>
+<p>The Grand Jury of Todd County in the name and by the authority of the Commonwealth of Kentucky accuse Elijah <hi rend="str">L</hi> Jones and William Norman of the offense of unlawfully carrying away property committed as follows viz</p>
+<p>The said Elijah Jones and William Norman on the <date when="1862-10-10">10<hi rend="sup">th</hi> day of October 1862</date> in the County aforesaid willfully and unlawfully went with felonious intent took from the House and possession of Noel Stinnett and carried away one Gun the property of said Stinnett and of the value of <hi rend="str">one</hi>Ten Dollars, against the peace and dignity of the Commonwealth of Kentucky</p>
+<p>W T Kennedy foreman
+<lb/>Grand Jury
+<lb/>E P Campbell attorney for the Commonwealth</p>
+<p>Information by
+<lb/>Leander Stinnett
+<lb/>Nicholas Lacy
+<lb/>Dr J N Bartlett</p>
+<p>A Copy
+<lb/>Attest
+<lb/>Ben T Perkins C. T. C. C.</p>
+  </body>
+ </text>
+</TEI>

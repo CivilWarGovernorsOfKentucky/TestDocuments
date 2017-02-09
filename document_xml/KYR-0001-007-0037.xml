@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0037"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Nelson County Court, Order</title>
+    <title level="a" type="parallel">CWG1702</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Appointments by the Governor, Civil Appointments, 1863-1867</collection>
+      <idno>BR1-418</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Nelson County, Kentucky</placeName>
+    <date when="1863-10">October 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Order</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>State of Kentucky
+<lb/>Nelson County } SS <date when="1863-10">October County Court 1863</date></p>
+<p>It appearing to the Court that William R. Livers and T. C. Warren who were elected as Justices of the Peace in and for District N<hi rend="sup">o</hi> 5 in Nelson County in <date when="1863-05">May 1863</date>. have heretofore failed and refused to qualify as such, It is now declared that a vacancy exists in said offices and the same is ordered to be certified to the Governor of Kentucky</p>
+<p>A Copy Att 
+<lb/>John S. Beau clk. N. C. C.
+<lb/>By Joe W. Dupin D. C.</p>
+<p>To his Excillency the Gov of Ky</p>
+<p>Dear Sir the two Justices of the Peace referred to in the above order have <unclear/> and <unclear/> to <unclear/> I have from the citizens in the district that George M Barger &amp; Jas R Jackman will act. &amp; from my knowledge of them I recommend them to you for appointment</p>
+<p>Rect Your T P Linthicum
+<lb/>George M. Barger
+<lb/>Ja<hi rend="sup">s</hi>. R Jackman<pb/></p>
+<p>Nelson Co
+<lb/>J. P.
+<lb/>apptd.
+<lb/><date when="1863-11-03">3<hi rend="sup">d</hi> Nov 1863</date></p>
+  </body>
+ </text>
+</TEI>

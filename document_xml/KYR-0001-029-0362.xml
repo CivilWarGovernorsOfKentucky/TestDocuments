@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0362"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">C. F. Burnam to James F. Robinson</title>
+    <title level="a" type="parallel">CWG8814</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Governor's Official Correspondence File, Petitions for Pardons, Remissions, and Respites, 1862-1863</collection>
+      <idno>R4-84</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Richmond, Madison County, Kentucky</placeName>
+    <date when="1863-05-16">16 May 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Richmond Ky
+<lb/><date when="1863-05-16">16 May 1863</date>
+<lb/>His Excellency Gov. Robinson</p>
+<p>At the <date when="1862-06">June term 1862</date> of the Madison Circuit Court a fine of $25. was imposed on Sydney Whitaker by the verdict of a jury on a Commonwealths indictment for an assault. Mr Whitaker is very poor, is a soldier in the 11<hi rend="sup">th</hi> Ky Cavalry of the true Union grit, and thinks he was unjustly convicted. An Execution is now out against him for the fine and costs. He would be very grateful to your excellency to have his fine remitted, &amp; I hope it will be done.</p>
+<p>Yours sincerely
+<lb/><hi rend="underline">C. F. Burnam</hi><pb/></p>
+<p>Madison Cir. Ct
+<lb/>$25. } Assault
+<lb/>S. Whitaker
+<lb/>Iss <date when="1863-05-18">May 18 1863</date><figure type="hr"/></p>
+<p>Fine remitted on C. F. Burnam credit</p>
+<p>J F Robinson</p>
+  </body>
+ </text>
+</TEI>

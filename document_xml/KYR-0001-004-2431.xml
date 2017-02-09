@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2431"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">William Walker to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7068</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR15-377</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency Thomas E. Bramlette
+<lb/>Govenor of the Commonwealth of Kentucky</p>
+<p>Your petitioner William Walker States that he was Indicted by a Grand Jury of Russell County in two Cases for Keeping a Tipling house and that at the <date when="1865-04">April Term 1865</date> of the Russell Circuit Court judgment was rendered against him by default for $60 fine in each case -- Your pet<hi rend="sup">nr</hi> further states that while a member of Company C. 1<hi rend="sup">st</hi> Kentucky Cavalry Commanded by Co<hi rend="underline"><hi rend="sup">l</hi></hi> Frank Wolford, and in the line of his duty by extreme exposure he Contracted a disease of the head that distroyed his hearing so much so that he was unfit for duty; he procured permission to return home to his widowed mother who was poor and almost entirely dependant upon him for a support and while so at home and for the purpose of providing something for the support of himself and mother ^And having applied to Judge Green U. S. ast ass<hi rend="underline"><hi rend="sup">r</hi></hi> for United States license to retail Spirits^ he without Knowing that he was violating any law did Sell Spirits by the Small -- but on account of his diseased condition ^&amp; being unable to work,^ and for the supporting his aged mother he would not have engaged in such business -- Your petitioner respectfully asks the remission of said fines</p>
+<p>William Walker</p>
+<p>Post office address
+<lb/>Jamestown
+<lb/>Ky.</p>
+<p>We the undersigned respectfully as join in the petition of W<hi rend="sup">m</hi> Walker for a remission of the<pb/>
+<lb/>fines Set fort therein <hi rend="str">&amp;c</hi> -- </p>
+<p><milestone unit="column" n="2"/><cb n="1"/>George Bryan
+<lb/>Cap N G Wells
+<lb/>W. T Jackman S. R. C
+<lb/>S P Collins Judge R C C
+<lb/>W M Green
+<lb/>capt Thomas Wood
+<lb/><cb n="2"/>Abner Jones
+<lb/>Isham Bolin
+<lb/>G. W. Twidwell
+<lb/>C. R. Coffey
+<lb/>W. P. Payne
+<lb/>A P, Simpson</p>
+<p><milestone unit="column" n="1"/>Russell Cir Ct
+<lb/>vs
+<lb/>W<hi rend="sup">m</hi> Walker
+<lb/>2 judgts $60. each
+<lb/><date when="1865-09-11">11<hi rend="sup">th</hi> Sept/65</date></p>
+<p>Sent for fee <date when="1865-08-25">25 August /65</date></p>
+  </body>
+ </text>
+</TEI>

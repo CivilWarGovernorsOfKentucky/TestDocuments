@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0148"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">M. Mayes et al. to James F. Robinson</title>
+    <title level="a" type="parallel">CWG8600</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Governor's Official Correspondence File, Petitions for Pardons, Remissions, and Respites, 1862-1863</collection>
+      <idno>R3-226</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Eddyville, Lyon Counrt, Kentucky</placeName>
+    <date when="1862-12-09">9 December 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Eddyville Ky <date when="1862-12-09">Dec 9th 1862</date>
+<lb/>To His Excellency
+<lb/>J F Robinson
+<lb/>Frankfort, Ky</p>
+<p>The undersigned would respectfully state, that during the year <date when="1859">1859</date> one Henry F Farrier was indicted by the Lyon Circuit Court for a misdemeanor and bound over to answer in the sum of one hundred dollars with James Lester as surety -- In <date when="1861">1861</date> Farrier joined the rebel army and ^has^ remained in the army ever since and on account of the difficulties of the country and the almost constant occupation of this portion of the state by the rebel forces Mr Lester has not been able to produce him before the Court. We would further state that Mr. Lester has been a heavy loser on account of the present rebellion, and we think that the Commonwealth can better afford to lose the above amount of $100.<hi rend="sup">00</hi>, than Mr. Lester.</p>
+<p>Therefore under the circumstances ^we^ would respectfully ask your Excellency to remit the above named fine of $100.<hi rend="sup">00</hi> &amp; that Mr. Lester be acquitted from the payment of the same</p>
+<p>Respectfully Yr Obt Servts
+<lb/>M Mayes
+<lb/>E P Campbell
+<lb/><hi rend="underline">Comths Atty</hi>
+<lb/>D. W. M<hi rend="underline"><hi rend="sup">c</hi></hi>Goodwin
+<lb/><hi rend="underline">John Stacker Jr</hi>
+<lb/>F. A. Wilson
+<lb/>C. D. Bradley<pb/></p>
+<p>Ja<hi rend="underline"><hi rend="sup">s</hi></hi> Lester
+<lb/><hi rend="str">M C</hi> Lester Pettn
+<lb/><hi rend="str">Refused <date when="1863-01-15">15 Jan 63</date></hi>
+<lb/>J F R</p>
+<p>Upon additional facts from rebells guerllias I remit one half the fine in this case <date when="1863-02-16">16 Feb 1863</date></p>
+<p>J F Robinson
+<lb/>Lyon Cir. Ct
+<lb/>$100. } Recog -- 
+<lb/>Iss<hi rend="sup">d</hi> <date when="1863-02-16">Feby 16. 1863</date><figure type="hr"/>
+<lb/>send to James Morton</p>
+  </body>
+ </text>
+</TEI>

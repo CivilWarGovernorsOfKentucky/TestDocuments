@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0219"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">James G. Carter to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG1884</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Appointments by the Governor, Civil Appointments, 1863-1867</collection>
+      <idno>BR2-80</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Mount Vernon, Rockcastle County, Kentucky</placeName>
+    <date when="1864-05-09">9 May 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Mount Vernon Rockcastle Co Ky <date when="1864-05-09">May 9<hi rend="sup">th</hi> 1864</date>
+<lb/>Hon T. E Bramlette Governor of Commonwealth of Kentucky
+<lb/>Dear sir</p>
+<p>There being a vancey in the office of <hi rend="underline">Notary</hi> <hi rend="underline">Public</hi> for this county. I would like to have the appointment</p>
+<p>your Truly
+<lb/>James G. Carter</p>
+<p>We the undersigned residents of Mount Vernon Rockcastle County Ky. Recommend James G. Carter as being a Loyal citizen and suitable person for a Notary Public</p>
+<p>E T. Fish, Clerk
+<lb/>Rockcastle Circuit Court
+<lb/>W. A. Brooks
+<lb/>G W Payne J R C
+<lb/>Edwin Shivel, Common School Comm<hi rend="sup">r</hi>.
+<lb/>B K Bethuram Judge of the Rockcastle county court<pb/></p>
+<p>Notary Public
+<lb/>Rockcastle Co
+<lb/>J. G. Carter
+<lb/>appt<hi rend="sup">d</hi>
+<lb/><date when="1864-05-10">10<hi rend="sup">th</hi> May/64</date></p>
+  </body>
+ </text>
+</TEI>

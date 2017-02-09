@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-028-0026"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John W. Finnell to Daniel C. Wickliffe</title>
+    <title level="a" type="parallel">CWG7681</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Appointments by the Governor, Military Appointments, 1862-1863</collection>
+      <idno>R2-152</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1862-08-29">29 August 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><figure type="seal"><ab>UNITED WE STAND, DIVIDED WE FALL.
+<lb/>KENTUCKY.</ab></figure>
+<lb/>Head-Quarters Kentucky Volunteer Militia,
+<lb/>ADJUTANT GENERAL'S OFFICE,
+<lb/>Frankfort, <date when="1862-08-29">Aug 29 1862.</date>
+<lb/>Hon: D. C. Wickliffe
+<lb/>Sec: of State -- </p>
+<p>I have commissioned &amp; delivered the following viz:</p>
+<p><hi rend="underline">Commissions issued</hi>
+<lb/><hi rend="str">John G. Eve Captain -- date August 29. 1862 -- </hi></p>
+<p>James A. Johnson Captain
+<lb/>Preston F. Hansbrough 1 Lieut:
+<lb/>George Burgess 2 Lieut: } dated <date when="1862-08-25">Aug 25. 1862.</date></p>
+<p>James B. Harrison Captain
+<lb/>Edgar M. Guynn 1 Lieut:
+<lb/>David J. Block 2 Lieut } dated <date when="1862-08-22">Aug 22, 1862.</date></p>
+<p>George W. M<hi rend="underline"><hi rend="sup">c</hi></hi>Cullough Capt:
+<lb/>W<hi rend="sup">m</hi> H. Poindexter 1st Lieut:
+<lb/>Thomas Hardey 2<hi rend="sup">d</hi>. Lieut:
+<lb/>James T. Donaldson Jr 2 Lieut: Super } dated <date when="1862-08-26">Aug 26. 1862</date></p>
+<p>James H. Hudspeth Captain
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> A. Sasseen 1st Lieut: } dated <date when="1862-08-26">Aug 26, 1862</date><pb/></p>
+<p>W<hi rend="sup">m</hi> D. Crane 2<hi rend="underline"><hi rend="sup">d</hi></hi> Lieut:
+<lb/>Rich<hi rend="sup">d</hi>. L. Boulware 2 Lieut. super:
+<lb/>Sam<hi rend="sup">l</hi>. F. Johnson Captain
+<lb/>Presley L. Morehead. 1 Lieut
+<lb/>Thomas Boyd 2 Lieut:
+<lb/>Clark E. Ritter 2 Lieut: super
+<lb/>James M. Morrow Captain
+<lb/>Samuel M. Crandle 1 Lieut:
+<lb/>Fielding W. Starling 2 Lieut:
+<lb/>Sam B Read 2 Lieut: super: } All dated <date when="1862-08-26">Aug 26th. 1862,</date></p>
+<p>W<hi rend="underline"><hi rend="sup">m</hi></hi> K. Sadler Ass<hi rend="sup">t</hi>. Surg:
+<lb/>Reid Leslie M<hi rend="underline"><hi rend="sup">c</hi></hi>Murtry 1 Lieut } both dated <date when="1862-08-21">Aug. 21. 1862.</date></p>
+<p>Joseph Pickering 1 Lieut: dated <date when="1862-08-29">Aug 29. 1862.</date>
+<lb/>Tho. Yountsey 2 Lieut: dated <date when="1862-08-29">Aug 29. 1862,</date></p>
+<p>Resp<hi rend="underline"><hi rend="sup">ly</hi></hi>
+<lb/>John W. Finnell
+<lb/>Adj<hi rend="underline"><hi rend="sup">t</hi></hi> Gen<hi rend="underline"><hi rend="sup">l</hi></hi> Ken Vols:</p>
+<p><date when="1862-08-29">29. Aug 1862</date></p>
+  </body>
+ </text>
+</TEI>

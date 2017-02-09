@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1983"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Amanda M. Linnell to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG11451</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Bradley Strait</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG23-445 to MG23-446</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Covington, Kenton County, Kentucky</placeName>
+    <date when="1862-06-24">24 June 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Covington Ky <date when="1862-06-24">June 24<hi rend="sup">th</hi> 1862</date>
+<lb/>To Hon B Magoffin
+<lb/>Governor of Ky</p>
+<p>Your Petitioner would respectfully ask your honour to reprieve her She was Tried and convicted for stealing $12.50 from the drawn of his neighbours She states that she is but twelve years old and did not know it was felony but knows she done wrong She prays that your Exercise the Power that you possess and grant her reprieve &amp; your Petitioner will ever pray </p>
+<p>Amanda M. Linnell</p>
+<p>We the undersigned were on the Jury that found the above named <hi rend="underline">Amanda M Linnell</hi> guilty and Say that we sentenced her for the shortest time we could to Wit one year in the Penetentiary, we join cheerfully in the prayr of the Petitioner and recommend the reprieve as she is the only daughter of a poor Ignorant widowed mother -- </p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Names of Jurors
+<lb/>H C Halley
+<lb/>M. W. Graves
+<lb/>G. C. Tarvin
+<lb/>J B Lendrum
+<lb/>Jn<hi rend="underline"><hi rend="sup">o</hi></hi> MacKay
+<lb/><cb n="2"/>names of Jurors
+<lb/>J. M. Lohman
+<lb/>Thomas Hill 
+<lb/>W<hi rend="sup">m</hi> Graham<milestone unit="column" n="1"/><pb/></p>
+<p>We the undersigned Say that we believe the Statement in the foregoing Petition to be true and join asking you however to reprieve the unfortunate child</p>
+<p><hi rend="underline">S. C. Perrin</hi>
+<lb/>A H Hood
+<lb/>A C Ellis
+<lb/>R Simmons
+<lb/>R A Athey
+<lb/>Jas. Pryor -- 
+<lb/>J G Carlisle Atty for Comth Pro Tem
+<lb/>James R. Hallam
+<lb/>John F. Fisk
+<lb/>Joe M Kennedy</p>
+<p>The above names I think are Enough with the following certificate of the clerk to justify you in Pardong the Peitioner </p>
+<p>S. C Perrin</p>
+<p>N B Please direct to me </p>
+<p><hi rend="underline">S. C. Perrin</hi><pb/></p>
+<p>Kenton Circuit Court 
+<lb/><date when="1862-06">June Term 1862</date>
+<lb/>Comm<hi rend="sup">th</hi> 
+<lb/>vs } Verdict
+<lb/>Amanda M Tinnell</p>
+<p>We the Jury find the Defendent guilty and fix her punishment at one year in the Penetentiary and unanimously recommend her to Executive Clemency -- John Mackay foreman"</p>
+<p>A Copy 
+<lb/>Att N B Stephens Clk 
+<lb/>By A C Ellis D C<pb/></p>
+<p>Issue pardon 
+<lb/>B. M.
+<lb/>(<hi rend="underline">Issued</hi>) </p>
+<p>A M Linnells 
+<lb/>Petition</p>
+  </body>
+ </text>
+</TEI>

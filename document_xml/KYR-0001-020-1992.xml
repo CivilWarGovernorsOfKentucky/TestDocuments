@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1992"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Reuben T. Durrett to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG11460</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Bradley Strait</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG23-459 to MG23-460</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1862-06-05">5 June 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Frankfort Ky 
+<lb/><date when="1862-06-05">June 5<hi rend="underline"><hi rend="sup">th</hi></hi> 1862</date>
+<lb/>My Dear Governor </p>
+<p>I much regret that you were not at home and that I could not see you upon my visit to Frankfort Besides wanting to converse with you on matters personal to you &amp; myself I desired to present the petition of Jacob Hauserman for pardon His is a hard case and I trust you will read his petition and find it consistent with your official duty to pardon him. An unlimited number of names could have been gotten to his petition but I thought it best to get those principally of his own countrymen who knew him <hi rend="str">here</hi> in his native land &amp; know him here and can vouch reliably for his character.<pb/>
+<lb/>All of the Jurymen who connected him would gladly have signed the petition but I could not see them; they live in the county and I could not spare the time to go after them. All that I asked cheerfully signed the petition and some of the names of the six who signed are familiar enough to you to <unclear/> that the petition is all right. Among them is Tho<hi rend="underline"><hi rend="sup">s</hi></hi> H Crawford late Mayor of Louisville &amp; Buck Miller whom you personally know.</p>
+<p>I hope My Dear Governor you will parden Hauserman. He is an old man and is not guilty of theft as I verily believe. He found the stolen articles and thought they were his by the finding. I did not appear as counsel in his defense; for if I had he should never have been convicted. I would have proven for him such a character for<pb/>
+<lb/>honesty as to forbid the idea of his committing the larceny charged.</p>
+<p>I would not ask this pardon, My Dear Governor, if I did not believe it right I never have asked you to do wrong and I never will. You pardoned one man more than a year ago upon my request and he has turned out well -- worthy of the character I assured you he had. If you will pardon Hauserman I will guaranty that he will turn out all right He is no thief and never will be one.</p>
+<p>Yours truly
+<lb/>R. T. Durrett</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-2018"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John F. Cunningham, Oath</title>
+    <title level="a" type="parallel">CWG9094</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG24-19</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Corydon, Harrison County, Indiana</placeName>
+    <date when="1862-06-10">10 June 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>The State of Indiana
+<lb/>County of Harrison } SS.</p>
+<p>John F. Cunningham, Sheriff of said County of Harrison, makes oath and says that Samuel Allen, late of said County, against whom an indictment for assault and battery with intent to murder has been presented in the Harrison Circuit Court in said State of Indiana, is absent from said State, and is in a boat at Cedar Branch, Meade County, Kentucky, as affiant is informed and believes.</p>
+<p>John. F, Cunningham</p>
+<p>The State of Indiana
+<lb/>County of Harrison } SS.</p>
+<p>I, David M. Jones, Clerk, of the Harrison Circuit Court, hereby certify that on this the <date when="1862-06-10">10<hi rend="sup">th</hi> day of June, A. D. 1862,</date> at my office in Corydon the above names John F. Cunningham personally appeared before me as Clerk aforesaid, duly authorized by law to administer oaths, and made oath, in due form of law, to the foregoing affidant. </p>
+<p><figure type="seal"><ab>HARRISON CIRCUIT COURT
+<lb/>INDIANA</ab></figure></p>
+<p>Witness, David M. Jones, Clerk and the seal of said Court at Corydon on this <date when="1862-06-10">10<hi rend="sup">th</hi> day of June A. D. 1862.</date></p>
+<p>David M. Jones Clk
+<lb/>Har. Cir. Court</p>
+  </body>
+ </text>
+</TEI>

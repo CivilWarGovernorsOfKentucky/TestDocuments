@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1021"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">B. F. Lumpton to Elisha Heady</title>
+    <title level="a" type="parallel">CWG5658</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR[11]-78</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Lexington, Fayette County, Kentucky</placeName>
+    <date when="1864-07-25">25 July 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>HEAD-QUARTERS DISTRICT OF KENTUCKY,
+<lb/>Office of Chief of U. S. Police,
+<lb/>Lexington, <date when="1864-07-25">July 25th 1864.</date>
+<lb/>Capt Elisha Heady = U S Police office -- </p>
+<p>Will proceed under the direction of Capt A N Hale -- with the squad of men under Liut E J Vantyle 12<hi rend="sup">th</hi> Regt Ohio Vols to Scour the county through which he may go -- and arrest all Guerrillas -- and seize all Arms &amp; ammunition belonging to Disloyal men and all Govt property or Abandoned or Captured mules or Horses -- or any other property belonging to Govt and bring them to this office</p>
+<p>he will report to this office as often as necessary -- his acts and doing he will see that his men do no wrong to union citizesn -- &amp;C.</p>
+<p>B F Lumpton A. D. C &amp;
+<lb/>Cheif Police Dist of Kentucky<pb/></p>
+<p><unclear>1</unclear>
+<lb/><unclear>Darno</unclear> Heady
+<lb/>Jacob S Brown</p>
+  </body>
+ </text>
+</TEI>

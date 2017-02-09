@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-028-0041"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Robert Vaughan to George D. Prentice</title>
+    <title level="a" type="parallel">CWG7696</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Appointments by the Governor, Military Appointments, 1862-1863</collection>
+      <idno>R2-174</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Bowling Green, Warren County, Kentucky</placeName>
+    <date when="1862-09-09">9 September 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Bowlinggreen Ky <date when="1862-09-09">Septr 9/62</date>
+<lb/>Friend Prentise</p>
+<p>I wrote you some weeks ago soliciting your aid, in securing me a promoted appointment I also gave you in the same letter the circumstances connected with my recommendation for the Majority in our Regt &amp; the commissioning of Capt Claggett, by the Military Board -- after I had been acting as Maj for one month -- <hi rend="underline">Believing</hi> that my claims were superior to Capt C's as a military man I have deeply felt his appointment over me under the circumstances -- &amp; knowing your intimacy, &amp; influence with Gov Robinson &amp; Agt Genl Finnell I shall depend upon your active influence with these Gentlemen in securing me a Field appointment -- the long &amp; severe marshes to which we have been subjected is terribly severe upon me -- &amp; I am at present unwell. but never flinch from duty -- We are now here &amp; marched from Nashville ^in^ three days -- If friend Prentise will use his exertions &amp; secure my promotion, I think he knows me well enough to know that I will endeavor to ^do^ honor to any position -- let me hear from you <hi rend="underline">in</hi> <hi rend="underline">haste</hi> -- </p>
+<p>Your friend
+<lb/><hi rend="underline">Robt Vaughan</hi>
+<lb/>Capt. Co. I, 17. Ky<pb/></p>
+<p>Capt Vaughn &amp;
+<lb/>G. D. Prentice</p>
+  </body>
+ </text>
+</TEI>

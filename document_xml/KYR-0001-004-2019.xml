@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2019"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Thomas Nolan, Affidavit</title>
+    <title level="a" type="parallel">CWG6656</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR14-180</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Covington, Kenton County, Kentucky</placeName>
+    <date when="1865-06-23">23 June 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><hi rend="underline">Commonwealth of Kentucky</hi>
+<lb/><hi rend="underline">Kenton County</hi> } SS.</p>
+<p>Personally appeared, before me Notary Public in and for the County aforesaid <hi rend="underline">Thomas Nolan</hi>, and made oath as follows=</p>
+<p>I am 45 years of age -- was born in the county of Roscommon Ireland -- was early in life and for 4 years a Fellow of Trinity College Dublin -- I emigrated to America many years since -- married -- was engaged for some time as Teacher in the Academy of Prattsville N. Y. -- subsequently taught nearly 2 years in the College of Burllington Vt. where by reason of over use of my eyes in reading and study -- as my physician told me -- I became nearly blind -- My eyesight has since been but feeble -- Have resided in Covington Ky. about 10 years.</p>
+<p>My son Patrick James Nolan was born <date when="1845-07-21">July 21, 1845</date> -- and is now in his 20<hi rend="underline"><hi rend="sup">th</hi></hi> year.</p>
+<p>In this city, and some months before he was convicted, with Bud Timberlake, of crime committed in Jefferson Co.<pb/>
+<lb/>an intimacy had sprung up between my son and a sister of said Timberlake. I cannot say how long that intimacy existed -- for one year or thereabouts it was, to the best of my knowledge and information. On one occasion I know that my son was indisposed -- indeed sick -- I left him at home; and when I returned in the evening I found him gone; and my wife informed me that Miss Timberlake had called at the house for him, and they had gone away together. This was but a few weeks before the crime was committed at Louisville -- I did not see my son again; nor was he again at home since the day Miss Timberlake called for him. He was very extravagant in purchases, and went beyond his means and my own during his intimacy with that young woman. Almost all his money was spent for her.</p>
+<p>Tho<hi rend="sup">s</hi> Nolan
+<lb/><stamp/>
+<lb/><figure type="seal"><ab>R. RICHARDSON,
+<lb/>ATT'Y AT LAW
+<lb/>&amp; COMMISSIONER
+<lb/>COVINGTON, KY.</ab></figure>
+<lb/><note place="seal"><unclear/>
+<lb/><date when="1865-06-23">6.23.'65</date></note></p>
+<p>Subscribed and sworn to before me Thos. Nolan this <date when="1865-06-23">June 23<hi rend="underline"><hi rend="sup">d</hi></hi> 1865</date>.</p>
+<p>R. Richardson
+<lb/>N. P. K. C. Ky.</p>
+  </body>
+ </text>
+</TEI>

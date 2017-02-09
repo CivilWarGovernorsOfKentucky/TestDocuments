@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-023-0127"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Beriah Magoffin to Joshua F. Speed</title>
+    <title level="a" type="parallel">CWG3040</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, 1859-1862</collection>
+      <idno>MG1-364 to MG1-365</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1862-02-28">28 February 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><note place="header">Joshua F. Speed Esq.</note>
+<lb/>EXECUTIVE DEPARTMENT,
+<lb/>Frankfort, Ky., <date when="1862-02-28">Feby 28, 1862</date>.
+<lb/>Dear Sir:</p>
+<p>You are hereby authorized and empowered by me to represent and settle the claims ^then paper vouchers^ of the State of Kentucky against the Federal Government incurred in raiding troops to aid in suppressing the present rebellion, and as the agent of the state to receive <hi rend="str">and</hi> <hi rend="str">receipt</hi> <hi rend="str">for</hi> from the Secretary of the Treasury of the United States <hi rend="str">all</hi> <hi rend="str">such</hi> ^whatever sum or^ sums of money may be due to the State of Kentucky under an act of Congress Approved <date when="1861-07-27">July 27th 1861</date>.</p>
+<p>Respectfully
+<lb/>B. Magoffin<pb/></p>
+<p>Joshua F. Speed<figure type="hr"/></p>
+<p>Appointed as Agent to settle Claims of Ky Against the United States</p>
+<p>App<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1862-02-28">Feby 28<hi rend="underline"><hi rend="sup">th</hi></hi> 1862</date><figure type="hr"/>
+<lb/>Comm<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1862-04-07">Apr. 7. 1862</date></p>
+  </body>
+ </text>
+</TEI>

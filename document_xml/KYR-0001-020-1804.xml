@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1804"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">D. H. Hughes to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG11272</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Bradley Strait</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG23-171</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Morganfield, Union County, Kentucky</placeName>
+    <date when="1862-04-16">16 April 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><milestone unit="column" n="3"/><cb n="1"/>W. G. HUGHES,
+<lb/><hi rend="italic">Morganfield</hi>.
+<lb/><cb n="2"/><hi rend="str">F. H. DALLAM,</hi>
+<lb/><hi rend="italic"><hi rend="str">Henderson</hi></hi><hi rend="str">.</hi><hi rend="italic">
+<lb/><cb n="3"/>D. H. HUGHES,
+<lb/>Morganfield</hi>.<milestone unit="column" n="1"/>
+<lb/>HUGHES, <hi rend="str">DALLAM</hi> &amp; HUGHES, 
+<lb/>COUNSELORS AND ATTORNEYS AT LAW,
+<lb/>MORGANFIELD AND HENDERSON, KY
+<lb/>Will attend Promptly to all Business committed to them.<figure type="hr"/>
+<lb/>Morganfield, Ky., <date when="1862-04-16">April 16 1862</date>
+<lb/>Hon Beriah MaGoffin 
+<lb/>D<hi rend="sup">r</hi> Sir</p>
+<p>One or two terms ago of our Union Circuit Court a young Mr Thos. O. Owen of this county was found guilty &amp; fined fifty Dollars on charge of selling whiskey to a slave, and I respectfully petition for the remitance of the commonwealth portion of the debt -- Mr Owen could send you a petition to that effect from all his neighbors but I advise him that its influence would not be worth the trouble as the masses generally take no trouble to inform themselves of the justness or otherwise of the petition they are asked to sign &amp; I never knew one to refuse to sign a petition -- </p>
+<p>My recollection of Mr Owen's case is that he had let a slave have whiskey one time ignorantly or without thought on a verbal order from the master given the day before and in the absence of the written order the letter of the law requires. It is Mr Owen's first offence that I know of, he is an honest meaning &amp; poor young man<pb/>
+<lb/>and he promises faithfully to be a law abiding citizen hereafter in every respect, and I think he can be relied on for its fulfilment Mr. O. is a resident of the county and on his presentment was so mortified as to quit his grocery and go to farming. If you can do so consistantly with yr sense of duty to the Public yr remiting the Commonwealth's 70 per cent would be a charity to Owen and be esteemed a favor by me awaiting yr early answer</p>
+<p>I am respy yrs &amp;c
+<lb/>D. H. Hughes</p>
+<p>Remited
+<lb/>B M</p>
+<p>Union Cir. Ct. 
+<lb/>$50 } Liquir to a Slave
+<lb/>Tho. O. Owen 
+<lb/>Iss<hi rend="sup">d</hi> <date when="1862-05-01">May 1. 1862</date></p>
+  </body>
+ </text>
+</TEI>

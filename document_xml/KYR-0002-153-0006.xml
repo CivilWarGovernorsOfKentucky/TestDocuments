@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-153-0006"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Boyle, Special Order, No. 1</title>
+    <title level="a" type="parallel">CWG14128</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>Assistant Adjutant General Letter Book - No. 1 ; 5 Sept 1863 - 2 Feb 1864</collection>
+      <idno>16</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1863-09-14">14 September 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Order</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><note place="header">16</note>
+<lb/>Head Quarters Kentucky Militia
+<lb/>Adjutant Generals Office
+<lb/>Frankfort <date when="1863-09-14">Sept<hi rend="underline"><hi rend="sup">r</hi></hi> 14 1863.</date>
+<lb/>Special Order
+<lb/>N<hi rend="sup">o</hi>. 1.</p>
+<p>Without a military organization, we cannot protect ourselves against guerillas and bandit robbers. It is, therefore, desired that Companies at once organize, in each County, under the Act approved <date when="1862-08-31">31<hi rend="underline"><hi rend="sup">st</hi></hi> August 1862.,</date> Known as the State Guard Law. As soon as Companies are organized they will be armed, and subject to be called out to repel invasion or suppress guerillas.</p>
+<p>Unless a sufficient number very soon form themselves into Comapnies for the purpose of defense, a draft from the enrolled Militia will be ordered.</p>
+<p>The Companies will be as nearly as possible filled to the maxiumum. As soon as a Company is organized under the law the commanding Officer will transmit to this Office a complete roll of the Officers and men when the former will be commissioned and such orders given as the public exigencies demand</p>
+<p>By order of the Governor
+<lb/>John Boyle
+<lb/>Adj<hi rend="sup">t</hi> Gen<hi rend="sup">l</hi> Ky Militia</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-018-0274"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John W. Finnell to Nathaniel Gaither, Jr.</title>
+    <title level="a" type="parallel">CWG8340</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Military Appointments, 1859-1862</collection>
+      <idno>MG6-386 to MG6-387</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1862-04-03">3 April 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><figure type="seal"><ab>UNITED WE STAND, DIVIDED WE FALL.
+<lb/>KENTUCKY.</ab></figure>
+<lb/>Head-Quarters Kentucky Volunteer Militia,
+<lb/>ADJUTANT GENERAL'S OFFICE,
+<lb/>Frankfort, <date when="1862-04-03">3 April 1862</date>.</p>
+<p>Hon: 
+<lb/>Nat Gaither Jr
+<lb/>Sec: of State-
+<lb/>Sir</p>
+<p>The following changes have taken place with the officers names viz:
+<lb/>Lieut: W<hi rend="underline"><hi rend="sup">m</hi></hi> T. Jackman Promoted (Com: dated <date when="1861-10-08">8 Octo 1861</date>)
+<lb/>Lieut: Benjamin J. Bolin Promoted (Com: dated <date when="1861-10-08">8 Oct 1861</date>)
+<lb/>Lieut: Henry C. Oath Promoted (Com: dated <date when="1862-01-28">28 Jan '62</date>)
+<lb/>Capt: Tho. M. Duvall has resigned (Com. dated <date when="1861-11-15">15 Nov. '61</date>)
+<lb/>Lieut: John Glenn Promoted (Com dated <date when="1861-01-28">28 Jan / '62</date>)
+<lb/>Lieut: Adam W. Trebein Promoted (Com. dated <date when="1862-01-28">28 Jan/ '62</date>)
+<lb/>Lieut: W<hi rend="underline"><hi rend="sup">m</hi></hi> Spencer Promoted (Com. dated <date when="1861-11-16">16 Novr/ '61</date>)</p>
+<p>I send thirty seven Commissions for record viz:
+<lb/><table rend="rules">
+<row>
+	<cell>1862</cell>
+	<cell>Mar</cell>
+	<cell><date when="1862-03-28">28</date>_</cell>
+	<cell>W<hi rend="sup">m</hi> T. Jackman</cell>
+	<cell>Capt:</cell>
+	<cell>#1</cell>
+</row>
+<row>
+	<cell> </cell>
+	<cell> </cell>
+	<cell><date when="1862-03-26">26</date>_</cell>
+	<cell>John Glenn</cell>
+	<cell>"</cell>
+	<cell>" 2</cell>
+</row>
+<row>
+	<cell>1861</cell>
+	<cell>Oct</cell>
+	<cell><date when="1861-10-09">9</date>-</cell>
+	<cell>Robert M Kelly</cell>
+	<cell>"</cell>
+	<cell>" 3</cell>
+</row>
+</table><pb/>
+<lb/><table rend="rules">
+<row>
+	<cell>1861</cell>
+	<cell>Oct</cell>
+	<cell><date when="1861-10-09">9</date>_</cell>
+	<cell>James B Brewer</cell>
+	<cell>Capt</cell>
+	<cell>#4</cell>
+</row>
+<row>
+	<cell> </cell>
+	<cell> </cell>
+	<cell><date when="1861-10-09">"</date></cell>
+	<cell>Richard L Mayes</cell>
+	<cell> -- </cell>
+	<cell>" 5</cell>
+</row>
+<row>
+	<cell> </cell>
+	<cell> </cell>
+	<cell><date when="1861-10-09">"</date></cell>
+	<cell>Josephus H. Tomkins</cell>
+	<cell> -- </cell>
+	<cell>" 6</cell>
+</row>
+<row>
+	<cell> </cell>
+	<cell> </cell>
+	<cell><date when="1861-10-09">"</date></cell>
+	<cell>Geo. M. Jackson</cell>
+	<cell> -- </cell>
+	<cell> -- 7</cell>
+</row>
+<row>
+	<cell> </cell>
+	<cell> </cell>
+	<cell><date when="1861-10-09">"</date></cell>
+	<cell>Jas. J. Hudnall</cell>
+	<cell>"</cell>
+	<cell>" 8</cell>
+</row>
+<row>
+	<cell> </cell>
+	<cell> </cell>
+	<cell><date when="1861-10-09">"</date></cell>
+	<cell>John L. Williams</cell>
+	<cell>" </cell>
+	<cell>" 9</cell>
+</row>
+<row>
+	<cell> </cell>
+	<cell> </cell>
+	<cell><date when="1861-10-09">"</date></cell>
+	<cell>James A. Vaughan</cell>
+	<cell>"</cell>
+	<cell>" 10</cell>
+</row>
+<row>
+	<cell> </cell>
+	<cell> </cell>
+	<cell><date when="1861-10-09">"</date></cell>
+	<cell>Wellington Harlan</cell>
+	<cell>"</cell>
+	<cell>" 11</cell>
+</row>
+<row>
+	<cell>1862</cell>
+	<cell>Mar</cell>
+	<cell><date when="1862-03-28">28</date>_</cell>
+	<cell>Ben J Bolin</cell>
+	<cell>1<hi rend="underline"><hi rend="sup">st</hi></hi> Lieut</cell>
+	<cell>" #12</cell>
+</row>
+<row>
+	<cell> </cell>
+	<cell> </cell>
+	<cell><date when="1862-03-31">31</date>-</cell>
+	<cell>Irvine M<hi rend="sup">c</hi>Dowell</cell>
+	<cell>"</cell>
+	<cell>" 13</cell>
+</row>
+<row>
+	<cell> </cell>
+	<cell> </cell>
+	<cell><date when="1862-03-11">11</date>-</cell>
+	<cell>Henry C. Oats</cell>
+	<cell>"</cell>
+	<cell>" 14</cell>
+</row>
+<row>
+	<cell> </cell>
+	<cell> </cell>
+	<cell><date when="1862-03-26">26</date>_</cell>
+	<cell>Adam W. Trebein</cell>
+	<cell>"</cell>
+	<cell>" 15</cell>
+</row>
+<row>
+	<cell> </cell>
+	<cell> </cell>
+	<cell><date when="1862-03-28">28</date>_</cell>
+	<cell>W<hi rend="sup">m</hi> Spencer</cell>
+	<cell>"</cell>
+	<cell>" 16</cell>
+</row>
+<row>
+	<cell>1861</cell>
+	<cell>Oct</cell>
+	<cell><date when="1861-10-09">9</date>-</cell>
+	<cell>James M. Givens</cell>
+	<cell>"</cell>
+	<cell>" 17</cell>
+</row>
+<row>
+	<cell> </cell>
+	<cell> </cell>
+	<cell><date when="1861-10-09">"</date>-</cell>
+	<cell>Sidney B. Jones</cell>
+	<cell>"</cell>
+	<cell>" 18</cell>
+</row>
+<row>
+	<cell> </cell>
+	<cell> </cell>
+	<cell><date when="1861-10-09">"</date>-</cell>
+	<cell>Mathew H. Jenkins</cell>
+	<cell>"</cell>
+	<cell>" 19</cell>
+</row>
+<row>
+	<cell> </cell>
+	<cell> </cell>
+	<cell><date when="1861-10-09">"</date>- </cell>
+	<cell>Robert D. Cook</cell>
+	<cell>"</cell>
+	<cell>" 20</cell>
+</row>
+<row>
+	<cell> </cell>
+	<cell> </cell>
+	<cell><date when="1861-10-09">"</date>- </cell>
+	<cell>Merrill Hicks</cell>
+	<cell>"</cell>
+	<cell>" 21</cell>
+</row>
+<row>
+	<cell> </cell>
+	<cell> </cell>
+	<cell><date when="1861-10-09">"</date>- </cell>
+	<cell>Isaac N. Jacobs</cell>
+	<cell>"</cell>
+	<cell>" 22</cell>
+</row>
+<row>
+	<cell> </cell>
+	<cell> </cell>
+	<cell><date when="1861-10-09">"</date>-</cell>
+	<cell>Charles V. Ray</cell>
+	<cell>"</cell>
+	<cell>" 23</cell>
+</row>
+<row>
+	<cell> </cell>
+	<cell> </cell>
+	<cell><date when="1861-10-09">"</date>-</cell>
+	<cell>Robert L. Williams</cell>
+	<cell>"</cell>
+	<cell>" 24</cell>
+</row>
+<row>
+	<cell> </cell>
+	<cell> </cell>
+	<cell><date when="1861-10-09">"</date>-</cell>
+	<cell>W<hi rend="underline"><hi rend="sup">m</hi></hi> M. Sanders</cell>
+	<cell>"</cell>
+	<cell>" 25</cell>
+</row>
+</table><pb/>
+<lb/><table rend="rules">
+<row>
+	<cell>1862</cell>
+	<cell>Mar</cell>
+	<cell><date when="1862-03-28">28</date>_</cell>
+	<cell>Fon: T. Fox Jr</cell>
+	<cell>2<hi rend="sup">d</hi> Lieut</cell>
+	<cell>#26</cell>
+</row>
+<row>
+	<cell> </cell>
+	<cell> </cell>
+	<cell><date when="1862-03-31">31</date>_</cell>
+	<cell>W<hi rend="sup">m</hi> Geissman</cell>
+	<cell> -- </cell>
+	<cell>#27</cell>
+</row>
+<row>
+	<cell> </cell>
+	<cell> </cell>
+	<cell><date when="1862-03-31">"</date>-</cell>
+	<cell>John C. Carroll</cell>
+	<cell> -- </cell>
+	<cell> -- 28</cell>
+</row>
+<row>
+	<cell> </cell>
+	<cell> </cell>
+	<cell><date when="1862-03-11">11</date>-</cell>
+	<cell>Joseph M Wilson</cell>
+	<cell> -- </cell>
+	<cell> -- 29</cell>
+</row>
+<row>
+	<cell> </cell>
+	<cell> </cell>
+	<cell><date when="1862-03-26">26</date>_</cell>
+	<cell>W<hi rend="sup">m</hi> W Rice</cell>
+	<cell> -- </cell>
+	<cell> -- 30</cell>
+</row>
+<row>
+	<cell>1861</cell>
+	<cell>Oct</cell>
+	<cell><date when="1861-10-09">9</date>-</cell>
+	<cell>Bunwell S. Tucker</cell>
+	<cell> -- </cell>
+	<cell> -- 31</cell>
+</row>
+<row>
+	<cell> </cell>
+	<cell> </cell>
+	<cell><date when="1861-10-09">"</date>-</cell>
+	<cell>W<hi rend="underline"><hi rend="sup">m</hi></hi> B. Riggs</cell>
+	<cell> -- </cell>
+	<cell> -- 32</cell>
+</row>
+<row>
+	<cell> </cell>
+	<cell> </cell>
+	<cell><date when="1861-10-09">"</date>-</cell>
+	<cell>Francis M. Hardin</cell>
+	<cell>"</cell>
+	<cell>" 33</cell>
+</row>
+<row>
+	<cell> </cell>
+	<cell> </cell>
+	<cell><date when="1861-10-09">"</date>-</cell>
+	<cell>John T. Merimie</cell>
+	<cell>"</cell>
+	<cell>" 34</cell>
+</row>
+<row>
+	<cell> </cell>
+	<cell> </cell>
+	<cell><date when="1861-10-09">"</date>-</cell>
+	<cell>N. L. Turner</cell>
+	<cell>"</cell>
+	<cell>" 35</cell>
+</row>
+<row>
+	<cell> </cell>
+	<cell> </cell>
+	<cell><date when="1861-10-09">"</date>-</cell>
+	<cell>John W. Lewis</cell>
+	<cell>"</cell>
+	<cell>" 36</cell>
+</row>
+<row>
+	<cell> </cell>
+	<cell> </cell>
+	<cell><date when="1861-10-09">"</date>-</cell>
+	<cell>Sidney M. Wiehl</cell>
+	<cell>"</cell>
+	<cell>" 37</cell>
+</row>
+</table></p>
+<p>I am Sir
+<lb/>Very Resp<hi rend="sup">ly</hi>
+<lb/>John W. Finnell
+<lb/>Adj<hi rend="sup">t</hi> Gen<hi rend="sup">l</hi></p>
+<p>As soon as the Governor signs the blanks, be pleased to send them to me as I am nearly out-</p>
+<p><hi rend="underline">J. W. F.</hi><pb/></p>
+<p>Entered <date when="1862-04-03">Apr <hi rend="str">4</hi>3. <hi rend="underline">1862</hi></date></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1625"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Joseph R. Logan et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG11093</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Andrew P Patrick</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG22-280 to MG22-281</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Garrard County, Kentucky</placeName>
+    <date when="1862-01-13">13 January 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency the Governor of Kentucky,</p>
+<p>Your petitioner Joseph R Logan states that at the <date when="1860-08">August Term of the Garrard Circuit Court 1860</date> a judgment was rendered against him for the sum of $50,,00 for an assault.</p>
+<p>He states that at the time the offence was alleged to have been commited he was unfortunately addicted to occassionally spreeing &amp; was at the time under the influence of strong drink.</p>
+<p>He states that he has reformed, &amp; is now a sober man, &amp; has a wife &amp; child to support, &amp; in these war times it is as much as he can do with convenience, <hi rend="str">a</hi>^as^ he is now an exemplary man he most respectfully asks your Excellency to remit said fine.</p>
+<p>Joseph R Logan
+<lb/><date when="1862-01-13">Jany 13<hi rend="sup">th</hi> 1862</date>. </p>
+<p>We the undersigned citizens of Garrard County join in the above petition &amp; pray for a remission of said fine</p>
+<p><date when="1862-01-13">Jany 13<hi rend="sup">th</hi> 1862</date>.</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Stephen Murphy 
+<lb/>Woodson Murphy
+<lb/>J Burdett
+<lb/>R D Lusk
+<lb/>M H Pollard
+<lb/>J B Aldridges
+<lb/>A. T. Burdett
+<lb/>S O Middleton
+<lb/>Jas. A. Anderson
+<lb/>Samuel H. Hill
+<lb/><cb n="2"/>G. E. Hackley Shefiff Garrard County
+<lb/>W C Bailey <unclear/> Dallins
+<lb/>W H Harek
+<lb/>Kinchen Byrum
+<lb/>Isham Hamilton 
+<lb/>W, G, Luck
+<lb/><hi rend="underline">C Jackman</hi>
+<lb/>Wallace Brandis
+<lb/>R. Hackley Depty Shefiff Garrard ^County^
+<lb/>J. S. Burdett<pb/></p>
+<p><milestone unit="column" n="1"/>Garrard Cir. Ct
+<lb/>Joseph R Logan 
+<lb/>Petition<figure type="hr"/>
+<lb/>Remitted
+<lb/>B. M
+<lb/>$50. } assault
+<lb/>Iss<hi rend="sup">d</hi> <date when="1862-01-17"><hi rend="underline">Jany 17. 1862</hi></date>
+<lb/>Address
+<lb/>J Burdett
+<lb/>Lancaster Ky</p>
+  </body>
+ </text>
+</TEI>

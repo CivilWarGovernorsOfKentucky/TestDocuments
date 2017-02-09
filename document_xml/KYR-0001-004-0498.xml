@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0498"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Michael H. Owsley to Ephraim L. Van Winkle</title>
+    <title level="a" type="parallel">CWG4617</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR9-294 to BR9-295</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Lancaster, Garrard County, Kentucky</placeName>
+    <date when="1864-02-11">11 February 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Lancaster Ky
+<lb/><date when="1864-02-11">Feby. 11<hi rend="sup">th</hi>" 1864</date>
+<lb/>Dear Euf</p>
+<p>James L Anderson Sheriff of this county informs me that the letter I wrote to Gov Bramlette in reference to Richard Lutrell's forfeiture has been mislaid or lost and that you requested me to write another -- Richard Latrell was security in Bail bond for $500- for the Appearance of. W<hi rend="sup">m</hi>" Williams in Garrard Circuit Court Bond was forfeited at the last <date when="--08"><hi rend="str">August</hi></date> <date when="--02">Febr. Term</date> of this court<pb/></p>
+<p>And Judgment obtained against said Latrell at the <date when="1863-08">Aug. Term 1863</date> for the sd $500- I have been informed by quite a number of very reliable citizens of this county that Latrell is honest and industrious but now very poor. had some property at the time the bond was taken but has since been cheated out of it the bond was given for the appearance of his nephew These person also inform me that Latrell has his sister who is a widow with a large family of little children to support) which is all and more than he can well do comfortably That he is state honest &amp;<pb/></p>
+<p>industrious and is laboring faithfully to discharge his duties to his sisters family That he is entirely unable to pay and will have to go to Jail For these reasons I have been urged to submit these facts to his excellency for his consideration. If the Gov. shall remit the fine I am willing to have the greater part of my fee in the case.</p>
+<p>I think this case more meritorious than any which has fallen under my Jurisdiction and I cheerfully submit the facts-</p>
+<p>Respectfully
+<lb/>M. H. Owsley Atty for the Commonwealth</p>
+<p>Hon.
+<lb/>E L VanWinkle
+<lb/>Secty State Frankfort Ky<pb/></p>
+<p>The undersigned citizens of Garrard County concur in the statements and unite in the request of the foregoing letter-</p>
+<p>Jas L <unclear/>
+<lb/>Jo Burnside
+<lb/>Alex Lusk
+<lb/>Jas. A. Burnside</p>
+<p>Garrard Cir Ct
+<lb/>vs
+<lb/>R. Latrell</p>
+<p>Remit except fees &amp; costs
+<lb/>Tho E Bramlette
+<lb/>Govr
+<lb/>Forfeiture
+<lb/>$500.
+<lb/><date when="1864-02-15">15<hi rend="sup">th</hi> Feby/ 64</date></p>
+  </body>
+ </text>
+</TEI>

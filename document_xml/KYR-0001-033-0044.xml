@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-033-0044"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">L. B. Cox to James F. Robinson</title>
+    <title level="a" type="parallel">CWG1507</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Governor's Official Correspondence File, Apprehension of Fugitives from Justice Papers, 1862-1863</collection>
+      <idno>R3-76</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Flemingsburg, Fleming County, Kentucky</placeName>
+    <date when="1863-05-28">28 May 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><hi rend="str">AS</hi>
+<lb/>Flemingsburg,^(Fleming County)^ Ky.
+<lb/><date when="1863-05-28">May 28, 1863</date>
+<lb/>Dear Sir,</p>
+<p>Mr. James Lansdown Jr. a volunteer soldier of the 24<hi rend="underline"><hi rend="sup">th</hi></hi> Ky. Regt. was Brutally murdered in the town of Poplar Plains on Tuesday evening last <date when="1863-05-26">26 inst</date> by James Caldwell &amp; <gap/> Kennedy two notorious rebel recruiting officers of Campbell County, Ky. and they were making their way towards that County when last heard from. I, under the circumstances respectfully petition that you offer the highest possible reward for them, &amp; do so promptly, to ensure their arrest, &amp; I make this as the County Judge of this (Fleming) County, under the law providing for my petition to that effect, to authorize you to <unclear><hi rend="str">make</hi></unclear>offer the reward <hi rend="underline">as</hi> <hi rend="underline">requested</hi> for their apprehension,</p>
+<p>Your prompt attention 
+<lb/>will oblige yours truly,
+<lb/>L. B. Cox County Judge</p>
+<p>To his Excellency
+<lb/>The Governor,
+<lb/>Frankfort,
+<lb/>Ky.<pb/></p>
+<p><figure type="postmark"><listPlace><place><placeName>FLEMINGBURG KY
+<lb/><date when="1863-05-28">MAY
+<lb/>28</date></placeName></place></listPlace></figure></p>
+<p>To his Excellency,
+<lb/>the Governor.
+<lb/>Frankfort,
+<lb/>Ky
+<lb/>Important</p>
+<p>L.B. Cox County Judge
+<lb/>Fleming County</p>
+<p>Ask reward to be offered for two murderers</p>
+<p>Offer $150. for each</p>
+<p>J F Robinson</p>
+<p>Off<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1863-06-01">June 1. 1863</date><figure type="hr"/>
+<lb/>Ja<hi rend="underline"><hi rend="sup">s</hi></hi> Caldwell Kennedy</p>
+  </body>
+ </text>
+</TEI>

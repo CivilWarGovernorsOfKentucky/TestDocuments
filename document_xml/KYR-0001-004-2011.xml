@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2011"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Norton et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6648</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR14-167 to BR-168</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Carlisle, Nicholas County, Kentucky</placeName>
+    <date when="1865-06-20">20 June 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Carlisle <date when="1865-06-20">June 20. 1865</date>
+<lb/>To His Excellency Tho<hi rend="underline"><hi rend="sup">s</hi></hi> E. Bramblet Gov. of Kentucky Frankfort</p>
+<p>Your Petition John Norton would Respectfully represent that, at the <date when="1865-04">April Term 1865</date> ^of the Bourbon Circuit Court^ Judgment was rendered against him on a forfeited Bail Bond for $100. &amp; summons is now out against his security B. W. Graves -- </p>
+<p>The Offence Charged against him was for Betting on the <date when="1860-11">Nov. Election of 1860</date> &amp; ^Indictment^ found at the <date when="1861-04">April Term 1861</date>. After he gave Bond for his appearance, the Next Court he attended, but on account of a rumor that the Rebels were Coming to Paris the Court adjourned &amp; he was told he need not again appear till he was notified -- Thus the matter stood till last April -- It had escaped his Memory until execution was in the sheriffs hand which is the Case now and it payment will be enforced -- </p>
+<p>He says he is poor &amp; the payment of the $100. Judgment will distress &amp; embarrass him -- He would therefore ask a remission of the fine</p>
+<p>John Norton
+<lb/>(Over)<pb/></p>
+<p>We are well acquainted with John Norton who Petitions to be released from a fine rendered agt. him in the Bourbon Circuit Court -- He is a very quiet orderly Citizen &amp; with small means -- We would Recommend that the fine be remitted -- </p>
+<p>Fitch Munger
+<lb/>W. W. Howard Clerk N. Cir. Ct.
+<lb/>G. M. Chevis J. P. N. C
+<lb/>Jno A Campbell clk Co. ct
+<lb/>John F. M<hi rend="sup">c</hi>Millan
+<lb/>William Norrell
+<lb/>Thomas Kennedy<pb/></p>
+<p>Bourbon Cir Ct
+<lb/>vs
+<lb/>John Norton
+<lb/>$100.
+<lb/>Bail Bond
+<lb/><date when="1865-06-27">27 June 65</date>
+<lb/>Remit</p>
+  </body>
+ </text>
+</TEI>

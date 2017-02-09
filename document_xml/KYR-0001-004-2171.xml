@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2171"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Jacob Heiligers to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6808</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR14-407</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Lexington, Fayette County, Kentucky</placeName>
+    <date when="1865-08-12">12 August 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Lex. Ky. <date when="1865-08-12">August 12. 1865</date>.
+<lb/>To his Excellency the Governor of Ky.</p>
+<p>Your Petitioner, Jacob Heiligers, states that he came to Kentucky a few days since, ignorant of the laws of the same, and procured when he arrived here, a l<hi rend="str">it</hi>imited States license ^&amp; a city license,^ to peddle, thinking that these were all that w<hi rend="str">as</hi>were necessary.</p>
+<p>He thereupon commenced peddling china ware; and was on the <date when="1865-08-09">9<hi rend="sup">th</hi> day of august 1865</date>, fined $100 -- for this offense before the Judge of the Fayette County Court. He understands that it is in the power of your Excellency to remit all of this except the <hi rend="str">of</hi>County atty<hi rend="sup">s</hi> &amp; informers fees &amp; the costs; and he hereby respectfully asks you to do so. He is a poor man with a family dependant on him for support, and he does hope that in these facts of the case, you will see a proper occasion for the exercise of Executive clemency.</p>
+<p>Jacob Heiligers</p>
+<p>The above is substantially true and I join in the recommendation to remit the fine except costs</p>
+<p>C D Carr P, J, F, C,<pb/></p>
+<p>Fayette County Court
+<lb/>vs
+<lb/>Jacob Heiligers
+<lb/>$100,
+<lb/>Replevin Bond
+<lb/>Remitted <date when="1865-08-22">22 Aug /65</date></p>
+  </body>
+ </text>
+</TEI>

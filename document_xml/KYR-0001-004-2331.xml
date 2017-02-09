@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2331"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Alexander Curd and James Adkins to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6968</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR15-221 to BR15-222</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency <hi rend="underline">Thomas</hi> <hi rend="underline">E</hi> <hi rend="underline">Bramlett</hi>
+<lb/>Governor of the Commonwealth of Kentucky</p>
+<p>your petitioners Alexander Curd and James Adkins respectfully represent unto your Excellency that at the presant term of the Whitley Circuit Court they were fined Seventy five Dollars for having failed to put up in the public room of this Tavern house the tavern rates fixed by the County Court they state that they did not Know that it was made their duty by law to put up the rates and as soon as they learned it was their duty they procurred the rates from the clerk &amp; set them up as required</p>
+<p>Alexander Curd &amp;
+<lb/>James Adkins } Petitioners</p>
+<p>We the undersigned ask to be heard in in behalf of the petitioners that your excellency May remit said fine</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>A R Barton
+<lb/>J, Q, Barton
+<lb/>S. M. Cox
+<lb/>Isam Jones
+<lb/>M, L, Davis
+<lb/>John White
+<lb/>Jackson Campbell
+<lb/>T J. Meddows
+<lb/>W. A. Champlin
+<lb/>Jackson M
+<lb/><cb n="2"/>David Y Lyttle
+<lb/>John shipherd
+<lb/>T R Harman
+<lb/>Alexr. Litton
+<lb/>Seth <unclear/>
+<lb/>J. T. Curd
+<lb/>H. M<hi rend="sup">c</hi>Kee
+<lb/>H Bryant
+<lb/>W C cox<pb/></p>
+<p><milestone unit="column" n="1"/>Gov Bramblet</p>
+<p>I hope that you will remit the fine against Curd &amp; Adkins</p>
+<p>Granville Pearl</p>
+<p>Gov Bramlet Enclosed you find $2 as I <hi rend="str">find</hi> understand it is necesary to Send it for Some purpos thought dont know</p>
+<p>yours Respectfuly
+<lb/>Curd and Adkins</p>
+<p>Whitley Cir Ct
+<lb/>vs
+<lb/>Alexander Curd &amp; James Adkins
+<lb/>Petition
+<lb/>$75,
+<lb/>Remit
+<lb/><date when="1865-09-20">20<hi rend="sup">th</hi> Sept/65</date></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0656"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">W. S. Lowery and W. C. Goodloe to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10124</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG18-508</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Lexington, Fayette County, Kentucky</placeName>
+    <date when="1861-02-27">27 February 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Lexington <date when="1861-02-27">Feb 27 1861</date>
+<lb/>Gov. Magoffin
+<lb/>D<hi rend="sup">r</hi> Sir,</p>
+<p>At the present Term of this Court an Indictment was found against Dennis Mulligan for Giving Liquor to a slave of O A Reynolds. I was present in the very town where the evidence was detailed. There was no proof of rule. Mulligan is a respectable grocer who does a large business, and I never heard him suspected of any thing of this sort before. He acknowledges that he gave the liquor to the slave, but says and I believe the statement that he intended no violation of the law. Still it was a violation, and with the permission of the Court, he confessed Judgment for $50- As I know Mulligan, and do not think he intended to do wrong, I have thought proper at his request to say this much to your excellency with the hope that you will grant him remission</p>
+<p>Respectfully
+<lb/>W. S Lowery
+<lb/>Com atty</p>
+<p>I concur in the above -- </p>
+<p>W C Goodloe
+<lb/>Crct Judge<pb/></p>
+<p>Fayette
+<lb/>Remitted
+<lb/>B. M.
+<lb/>Is<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1861-02-28">Feby 28 1861</date></p>
+  </body>
+ </text>
+</TEI>

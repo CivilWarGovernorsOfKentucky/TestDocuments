@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2062"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">A. J. Hicks, A. J. Lyons, and Robert H. Rainey to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6699</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR14-251</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Harrison County, Kentucky</placeName>
+    <date when="1865-06-20">20 June 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His excellency Thos E Bramlett Gov of Ky. James H Lyon was fined at the <date when="1865-05">May Term 1865</date> of the Harrison Circuit Court in the sum of sixty Dollars for Keeping a tippling house. The only witness who was sworn or testified in the case was Thomas R Rorer who stated that Lyon sold whisky to A J. Hicks in the presence of said Rorer at one time and at another time to Robert Rainey in the presence of said Rainey &amp; A J Lyon</p>
+<p>A J Hicks states that he never purchased or paid for any whisky from Lyon in the presence of Rorer nor in the presence of any other person nor upon any occasion &amp; Rorers statement as ^to^ Hicks is false. And Robert Rainy And H J Lyon State that said J H Lyon never did sell any whisky to Rainey in the presence of Rorer or in the presence of any other person so far as they know and that Rorers whole statement is false. We ask said fine be remitted.</p>
+<p>A. J. Hicks
+<lb/>A J Lyons
+<lb/>Robert ,,H,, Rainey<pb/></p>
+<p>Sworn to before me by A J Hicks and A J Lyon <date when="1865-06-20">Jne 20 1865</date></p>
+<p>Cha<hi rend="underline"><hi rend="sup">s</hi></hi> I. Wilson <hi rend="underline">C H C</hi>
+<lb/><stamp/><note place="stamp"><unclear/></note></p>
+<p>Sworn to before Me by R H Rainey. this <date when="1865-07-26">26<hi rend="underline"><hi rend="sup">th</hi></hi> July 1865</date></p>
+<p><hi rend="underline">H H Haviland J P H C</hi><pb/></p>
+<p>Harrison Cir Ct
+<lb/>vs
+<lb/>Jas H A Lyon
+<lb/>$60,
+<lb/>Tipling
+<lb/><date when="1865-10-24">24 Oct/65</date></p>
+<p><date when="1865-10-10">10 Oct/65</date>
+<lb/>Sent for fee,
+<lb/><date when="--07-28">28 July</date></p>
+  </body>
+ </text>
+</TEI>

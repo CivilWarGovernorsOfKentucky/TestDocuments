@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0340"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">James H. Mullins and W. H. Kirtley to James F. Robinson</title>
+    <title level="a" type="parallel">CWG8792</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Governor's Official Correspondence File, Petitions for Pardons, Remissions, and Respites, 1862-1863</collection>
+      <idno>R4-49</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Rockcastle County, Kentucky</placeName>
+    <date when="1863-04-01">1 April 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency James F. Robinson Governor of Kentucky -- Your petitioner respectfully represents to your Excellency that <hi rend="str">that </hi>Just before the <date when="1861-08">August Term of the Rockcastle Circuit Court 1861</date>. he had collected a small debt due him in Whisky without any intention of retailing some, but being called on by a neighbor who represented that his family was sick and as a matter of Kindness he let him have one quart and at the last Feby Term; he was fined $20 &amp; costs. He also states that on account of high water he could not get to Court &amp; and Judgt went by default -- The premises considered he asks that your Excellency remit said fine except fees &amp; cots.</p>
+<p><date when="1863-04-01">Apl 1<hi rend="sup">st</hi> 1863.</date> Ja<hi rend="underline"><hi rend="sup">s</hi></hi> H Mullins
+<lb/>W H. Kirtley</p>
+<p>Thomas farley <hi rend="str">1</hi>
+<lb/>John A Dams <hi rend="str">2</hi>
+<lb/>SpenCer <unclear>ordery</unclear> <hi rend="str">4</hi>
+<lb/>William M Mullins<hi rend="str"> 6</hi> 
+<lb/>David owens <hi rend="str">53</hi>
+<lb/>Abner McHenry <hi rend="str">6</hi>
+<lb/>Gardner G Mullins
+<lb/>Balbirger Mullins
+<lb/>R, Singleton
+<lb/>J Owens
+<lb/>Wesley Owens
+<lb/>John C L Mullins<pb/>
+<lb/>Richard Wilson
+<lb/>R, P, Gresham</p>
+<p>Referred</p>
+<p>Jas. H. Mullins of Rockcastle County pettn to remit fine</p>
+  </body>
+ </text>
+</TEI>

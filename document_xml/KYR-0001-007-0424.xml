@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0424"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Albert W. Adams, Oath</title>
+    <title level="a" type="parallel">CWG2089</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Appointments by the Governor, Civil Appointments, 1863-1867</collection>
+      <idno>BR2-348 to BR2-349</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Boston, Suffolk County, Massachusetts</placeName>
+    <date when="1865-04-05">5 April 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>State of Massachusetts
+<lb/>County of Suffolk
+<lb/>City of Boston } ss.</p>
+<p>I, Albert W. Adams, of the City of Boston aforesaid, duly appointed by the Governor of the State of Kentucky, a Commissioner for the State of Kentucky within the State of Massachusetts, do solemnly swear that I will well and faithfully execute and perform all the duties of such Commissioner, under and by virtue of the laws of said State of Kentucky.</p>
+<p>A. W. Adams.</p>
+<p>Sworn to and subscribed before me, this <date when="1865-04-05">fifth day of April A.D. Eighteen Hundred and sixty-five</date>.</p>
+<p><figure type="seal"><ab>COMMISSIONER
+<lb/>C.B.F.A
+<lb/>MASSACHUSETTS</ab></figure></p>
+<p>Cha<hi rend="sup">s</hi> B. F. Adams
+<lb/>Com<hi rend="sup">r</hi> for the State of Kentucky</p>
+<p><stamp type="revenue"/><note place="stamp">CBFA
+<lb/><date when="1865-04-05">Apr 5
+<lb/>1865</date>S</note><pb/></p>
+<p>Com<hi rend="sup">r</hi> Deeds
+<lb/>Massachusetts
+<lb/>Oath of A. W. Adams
+<lb/>filed <date when="1865-04-10">10<hi rend="sup">th</hi> Apl/65</date></p>
+  </body>
+ </text>
+</TEI>

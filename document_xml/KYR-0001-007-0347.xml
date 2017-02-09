@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0347"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Henry Holdship, Oath</title>
+    <title level="a" type="parallel">CWG2012</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Appointments by the Governor, Civil Appointments, 1863-1867</collection>
+      <idno>BR2-247 to BR2-248</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Pittsburgh, Allegheny County, Pennsylvania</placeName>
+    <date when="1865-01-27">27 January 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>State of Pennsylvania
+<lb/>County of Allegheny
+<lb/>City of Pittsburg } S.S</p>
+<p>On this <date when="1865-01-27">27<hi rend="underline"><hi rend="sup">th</hi></hi> day of January A. D. 1865</date>, before me a Notary Public in and for said City, personally appeared Henry Holdship, to me well known, who having been duly sworn, doth depose and say: That having been appointed by "Letters Patent" dated <date when="1865-01-16">January 16<hi rend="underline"><hi rend="sup">th</hi></hi> A. D. 1865</date> issued by the Governor of the State of Kentucky, a commissioner of Deeds for the State of Kentucky, in and for the State of Pennsylvania, he will well and truly, execute and perform all the duties of his station under said appointment -- </p>
+<p>Henry Holdship</p>
+<p>Sworn and subscribed to on the day above written in testimony whereof I have hereunto placed my hand and affixed my seal of office.</p>
+<p>C H ISRAELL
+<lb/>Notary Public</p>
+<p><figure type="seal"><ab>NOTARY PUBLIC, ALLEGHENY CO. PA.
+<lb/>C. H. ISRAELL</ab></figure><pb/></p>
+<p>Comr of Deeds
+<lb/>Oath of
+<lb/>Henry Holdship
+<lb/>Filed
+<lb/><date when="1865-02-02">2<hi rend="sup">nd</hi> Feby 1865</date></p>
+  </body>
+ </text>
+</TEI>

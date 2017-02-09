@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-117-0016"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Thomas E. Bramlette to Burgess Preston</title>
+    <title level="a" type="parallel">CWG13845</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Christina K Adkins</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>Adjutant General Letter Book - No. 3 ; 9 April - 25 May 1864</collection>
+      <idno>423 to 424</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1864-05-02">2 May 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><note place="header">423</note>
+<lb/><date when="1864-05-02">May 2 <gap/>4</date>
+<lb/>Col. Burgess Preston
+<lb/>Com'ding 65<hi rend="underline"><hi rend="sup">th</hi></hi> Reg<hi rend="sup">t</hi> E M
+<lb/>Johnson County; Ky
+<lb/>Colonel.</p>
+<p>You are hereby ordered to call out your entire command to serve for the period of thirty days, and report with it for duty to the U.S officer in command at Louisa Ky. A. state mustering officer will be there to muster in your companies -- </p>
+<p>If any of your command have enlisted for six months under -- the late call, you will not compel them to do service under this order, but require them to report at once to the state agent at the rendezvous mentioned in General Order N<hi rend="sup">o</hi> 3 from the Adjutant Genl' Office.</p>
+<p>As the emergency is equally as great, it is hoped that your men and officers will be equally as as prompt in responding to this call, as Col <unclear>M<hi rend="sup">c</hi>Kinster</unclear><pb/>
+<lb/><unclear><note place="header">424</note></unclear>
+<lb/>of the 68<hi rend="underline"><hi rend="sup">th</hi></hi> Regt E M of Lawrence County. was in the call recently made upon them by Col Gallup It being desired to prevent the claims growing out of this service to the US. for payment, you will not require the 3<hi rend="underline"><hi rend="sup">d</hi></hi> Lieutenants of companies to respond to this call and be mustered in.</p>
+<p>Tho E Bramlette
+<lb/>Gov<hi rend="sup">r</hi> of Ky</p>
+  </body>
+ </text>
+</TEI>

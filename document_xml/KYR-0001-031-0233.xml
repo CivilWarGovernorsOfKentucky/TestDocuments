@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-031-0233"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Edgar R. Bissell to James F. Robinson</title>
+    <title level="a" type="parallel">CWG7973</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Appointments by the Governor, Civil Appointments, 1862-1863</collection>
+      <idno>R1-320 to R1-321</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date when="1863-05-19">19 May 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Louisville <date when="1863-05-19">May 19<hi rend="underline"><hi rend="sup">th</hi></hi> 1863</date></p>
+<p>The undersigned, an employee of the Quarter Master's Dep't in this city, is desirous of obtaining a commission as Notary Public, the business of this office rendering the employement of a Notary, a matter of frequent occurrence.</p>
+<p>Very Respectfully
+<lb/>Your Obt servant
+<lb/>Edgar R. Bissell</p>
+<p>His Excellency
+<lb/>J. R. Robinson
+<lb/>Governor of the State of Kentucky
+<lb/>Frankfort Ky.</p>
+<p>Journal Office
+<lb/><date when="1863-05-19">May 19<hi rend="sup">th</hi> 1863</date></p>
+<p>Will Gov. Robinson please issue a Commission to Mr Russel as Notary &amp; greatly oblige</p>
+<p>Yr Obt Srvt
+<lb/><hi rend="underline">J. D. Osborne</hi><pb/></p>
+<p>Jefferson Co<figure type="hr"/>
+<lb/>Notary
+<lb/>E. R. Bissell
+<lb/>Comm. Iss<hi rend="sup">d</hi> <date when="1863-05-25">May 25. 1863.</date></p>
+  </body>
+ </text>
+</TEI>

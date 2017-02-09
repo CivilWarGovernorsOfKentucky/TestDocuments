@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2799"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Jackson Deskins to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7436</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR43-64</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Piketon, Pike County, Kentucky</placeName>
+    <date when="1865-12-07">7 December 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Piketon Pike Co. <date when="1865-12-07">Dec. 7<hi rend="underline"><hi rend="sup">th</hi></hi> 1865</date>
+<lb/>To his excellency Tho<hi rend="underline"><hi rend="sup">s</hi></hi> E Bramlett
+<lb/>Governor of the Commonwealth of Kentucky</p>
+<p>your petitioner states at the present <date when="1865-12">December ^term of the Pike Circuit Court^ (1865)</date> he was fined for Keeping a Tipling House $60 -- and selling Liquor to a Minor $50 -- he says that same was by confession -- He states that the Broken condition of the country -- that he is left in a very poor conditon to pay the penalty annexed -- he states that he is always been an orderly Law abiding citizen that the sale in tipling House was not done by his Knowledge or consent that the sale to the Minor -- was likewise sold he says that he was engaged in the manufacturing of Brandy which he sold by the quantity -- He says he has just the business -- he ask your honour to grant him a pardon &amp;c</p>
+<p>Jackson Deskins</p>
+<p><note place="left margin">The facts in this petition are correctly stated &amp; I would consider it a proper case for Executive clemency
+<lb/><hi rend="underline">J. S. Dury</hi>, Com<hi rend="underline"><hi rend="sup">th</hi></hi> atty</note></p>
+<p>we the undersign present the case of Jackson Deskins above from our Knowledge of the facts as one that the executive should interfear and ask the same as just and right -- </p>
+<p><milestone unit="column" n="2"/><cb n="1"/>John Sword
+<lb/>Wm Mullins
+<lb/>Mardy lane
+<lb/>Linsey Manard
+<lb/>John Charles J, P, P, C
+<lb/><cb n="2"/>C,, C, Mainard
+<lb/>William Bishop
+<lb/>Harvey Justice
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Williams
+<lb/>Wm Sword
+<lb/>Lankford Mor<pb/>
+<lb/><milestone unit="column" n="1"/>William Dawson
+<lb/>Alexander Ratliff
+<lb/>John P. M<hi rend="sup">c</hi>cay
+<lb/>Thomas Prisson
+<lb/>James M Thornbury
+<lb/><hi rend="str"><unclear/></hi>dred Sparks
+<lb/><unclear>Wm Seat</unclear>
+<lb/>Randlph Maccay
+<lb/>Eli<hi rend="str">ja</hi>as Maguire
+<lb/>george stunpe
+<lb/>James H. Williamson
+<lb/>John. P. Cecil
+<lb/>Franklin Williamson</p>
+<p>Pike Cir Ct
+<lb/>vs
+<lb/>Jackson Deskins
+<lb/>2 judgts
+<lb/>$60
+<lb/>$50,
+<lb/>Tipling
+<lb/>Remitted <date when="1865-12-04">4th Dec/65</date></p>
+  </body>
+ </text>
+</TEI>

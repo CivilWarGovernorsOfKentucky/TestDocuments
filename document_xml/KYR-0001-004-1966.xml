@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1966"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John M. Vaughn to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6603</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR14-102 to BR14-103</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency Thomas E. Bramlette,</p>
+<p>Your Excellency's petitioner John M. Vaughn respectfully represents that he is a citizen of Kentucky and a resident of Louisville, That on the <date when="1864-10-10">10<hi rend="sup">th</hi> day of October 1864</date> one John Gallagher being under indictment for felony in the Jefferson Circuit Court, your petitioner, induced by the belief that the said Gallagher was innocent, became bound for his appearance in said court on the <date when="1864-10-17">17<hi rend="sup">th</hi> of October</date> for trial in the sum of four hundred dollars and thereafter on the said <date when="1864-10-17">17<hi rend="sup">th</hi> of October</date> the said Gallagher failing to appear his bail was declared forfeited and a writ of <hi rend="underline">scire</hi> <hi rend="underline">facias</hi> was issued against your Excellency's petitioner and on the <date when="1865-05-20">20<hi rend="sup">th</hi> of May 1865</date> a judgment was entered against your petitioner for four hundred dollars and costs,</p>
+<p>Your Petitioner further represents that he is a poor man and that the payment of so large a sum of money would subject him to serious in convenience and privation and he petitions your Excellency to relieve him of the payment of so much of said judgment as may be accruing to the state</p>
+<p>Respectfully
+<lb/>J. M. Vaughan</p>
+<p>We the undersigned respect-<pb/>
+<lb/>fully join in the prayer of the foregoing petition</p>
+<p>Respectfully
+<lb/>P. B. Muir
+<lb/>W. A. Ronald Sheriff
+<lb/>J R Dupuy
+<lb/>com' atty<pb/></p>
+<p>Jefferson Cir Ct
+<lb/>vs
+<lb/>Petition of
+<lb/><hi rend="underline">John M. Vaughn</hi>
+<lb/>$400,
+<lb/>Forfeiture
+<lb/>Remitted
+<lb/><date when="1865-06-02">2<hi rend="sup">d</hi> June/65</date></p>
+  </body>
+ </text>
+</TEI>

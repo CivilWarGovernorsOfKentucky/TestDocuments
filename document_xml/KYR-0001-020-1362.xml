@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1362"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">H. Moore et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10830</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG21-296</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1861-08-25">25 August 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Ex<hi rend="sup">l</hi> B Magoffin governor of Ky.</p>
+<p>We the undersigned citizens of Rockcastle county state that we have known Jacob Scarborough who is now confined in the penatentiary for killing Robert Aulder for between Thirty and forty years, he was born<hi rend="str">ed</hi> <hi rend="str">in this</hi> and raised in this county He is a peaceable quiet old man inoffensive a good citizen, poor and has a large helpless and now destitute family, and we must respectfully ask your Exl<hi rend="underline"><hi rend="sup">n</hi></hi> to pardon the balance of his time</p>
+<p><date when="1861-08-25">August 25<hi rend="underline"><hi rend="sup">th</hi></hi> 1861.</date></p>
+<p><milestone unit="column" n="2"/><cb n="1"/>H. Moore
+<lb/>Alf<hi rend="underline">red</hi> ,<hi rend="underline">Smith</hi>
+<lb/>A. Chesnut
+<lb/>Ashley Owens
+<lb/>Daniel Roberts cor. R. E
+<lb/>W. H. Kirtley
+<lb/>W Styall
+<lb/>M R Moore
+<lb/>Thomas. J. Smith
+<lb/>Caperton Jones
+<lb/>Samuel. S. Bryant
+<lb/>E. Smith
+<lb/>R G W<hi rend="underline"><hi rend="sup">ms</hi></hi>
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> L Mullins
+<lb/>W<hi rend="sup">m</hi> P. Hiatt
+<lb/>Solomon Griffin
+<lb/>James M Chesnut
+<lb/>A. Carpenter
+<lb/><cb n="2"/>W<hi rend="underline"><hi rend="sup">m</hi></hi> M. Smith
+<lb/>Champ Mullins
+<lb/>John Adams
+<lb/>Robert Adams
+<lb/>Ja<hi rend="sup">s</hi> P. <hi rend="underline">Poteel</hi>
+<lb/>Preston Taylor
+<lb/>John Dollans
+<lb/>W Dollans</p>
+  </body>
+ </text>
+</TEI>

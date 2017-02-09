@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0394"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">James A. Graham et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG2742</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Civil Appointments, 1859-1862</collection>
+      <idno>MG4-379</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1862-03-18">18 March 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>We the undersigned Citizins of Peaks Mill Precinct in Franklin County Ky would respectfully reccomend L L Sullivan Esqr of said Precinct as a suitable person to fill the vacancy of Magistrate in said Precinct occasioned by the removal from Said County of J H Poindexter Esq<hi rend="sup">r</hi>, and would respectfully <hi rend="str">ask</hi> request his Excellency the Gov<hi rend="sup">r</hi> to appoint him to the position to <hi rend="str">fill</hi> Serve the unexpired term for which said Poindexter was elected
+<lb/><date when="1862-03-18">March 18<hi rend="sup">th</hi> 1862</date></p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Names
+<lb/>James A Graham
+<lb/>S. M. Hughes
+<lb/>W Church
+<lb/>Jas. W. Winter
+<lb/>John, J, Moss
+<lb/>Jas, W, Reas
+<lb/>Wiliam Long
+<lb/>James Sullivan
+<lb/>H C Church
+<lb/>M B Christopher
+<lb/>H E Gaines
+<lb/>W<hi rend="sup">m</hi> C Scott
+<lb/>W<hi rend="sup">m</hi> B Gaines
+<lb/>Mason Gaines
+<lb/><cb n="2"/>Names
+<lb/>F. J. Little
+<lb/>James B Gaines
+<lb/>John Baker
+<lb/>J C Jackson
+<lb/>E. F. Bacon
+<lb/><hi rend="underline">W W. Graham</hi>
+<lb/>J, T, Graves
+<lb/>H J Morris
+<lb/>Michael O Driskall
+<lb/>John Clarke
+<lb/>Cha<hi rend="sup">s</hi> Peirce
+<lb/>Louis S Head
+<lb/>James Wise
+<lb/>Reuben M Wallace<pb/>
+<lb/><cb n="1"/>Names
+<lb/><cb n="2"/>Names
+<lb/>Jonas Pride
+<lb/>M R Peirce
+<lb/>W R Johnson
+<lb/>C. S. Hampton
+<lb/>C M Christopher
+<lb/>R. T Penn
+<lb/>W, R Johnson
+<lb/>R V. Pollett
+<lb/>John. Pollett
+<lb/>James W Church
+<lb/>Doct Will Morris
+<lb/>T. N. Sullivan
+<lb/>Mordica Winston
+<lb/>Wilt C. Arnold
+<lb/>David A. Peters</p>
+  </body>
+ </text>
+</TEI>

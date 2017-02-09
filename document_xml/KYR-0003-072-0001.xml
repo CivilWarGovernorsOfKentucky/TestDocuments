@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0003-072-0001"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Edmund A. Starling to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG14373</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Christina K Adkins</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Historical Society</repository>
+      <collection>Edmund A. Starling Collection</collection>
+      <idno/>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Hopkinsville, Christian County, Kentucky</placeName>
+    <date when="1864-01-11">11 January 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Head Quarters U. S. Forces
+<lb/>Hopkinsville <date when="1864-01-11">Jany 11. 1864</date>
+<lb/>His Excellency
+<lb/>Tho<hi rend="sup">s</hi>. E. Bramlette
+<lb/>Governor of Kentucky
+<lb/>Frankfort.
+<lb/>Governor:</p>
+<p>Enclosed is an order I will issue here, as soon as I can have items printed.</p>
+<p>In view of the lukewarm disposition shown by many to enroll themselves into organizations, I would respectfully suggest, would it not be well to adopt something similar to this throughout the state?</p>
+<p>I beg to assure you Governor, of my highest respect, and to remain</p>
+<p>Very Respectfully
+<lb/>Your Ob<hi rend="underline"><hi rend="sup">t</hi></hi> Sv<hi rend="underline"><hi rend="sup">t</hi></hi>
+<lb/>Edmund A. Starling
+<lb/>Col 35 Regt Ky Mt Infy
+<lb/>Comdg</p>
+  </body>
+ </text>
+</TEI>

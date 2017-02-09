@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1777"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">E. H. Smith et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6414</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR13-300</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1865-05-23">23 May 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency Tho<hi rend="sup">s</hi>, E, Bramlett
+<lb/>Govenor of The Commonwealth Ky</p>
+<p>The undersigned Petitioners would respectfully state that ^at^ the present Term of the Grant Circuit Court Geo Williams was fined fifty Dollars for carrying concealed weapons upon his person We know Mr Williams well -- he is an old man; upward of seventy years, is a cripple; draws a Pension for injuries rc<hi rend="underline"><hi rend="sup">d</hi></hi> in the war of 1812. and withall a very poor man We respectfully ask your Excellency to remit so much of the s<hi rend="sup">d</hi> fine as is in your Power -- <date when="1865-05-23">23<hi rend="sup">d</hi> May 1865</date></p>
+<p><milestone unit="column" n="2"/><cb n="1"/>E H Smith
+<lb/>John Marksbury
+<lb/>O, D, M<hi rend="sup">c</hi>manaman
+<lb/>A Lingenfelter
+<lb/>A. W. Childess
+<lb/>John Metcalfe
+<lb/>T A Franklin Ck Co Ct
+<lb/>B. N. Carter J. P. G. C.
+<lb/>J. F. Shriff
+<lb/>Ja<hi rend="sup">s</hi> B Hume
+<lb/><cb n="2"/>J M Collins
+<lb/>N. H. Jeffers C. G. C. C.
+<lb/>D. E. Craig
+<lb/>W. T. Simmons
+<lb/>W L Rankin
+<lb/>B Stewart, M, C, G, C, C
+<lb/>O P Hogan
+<lb/>P. F. Hansbrough
+<lb/>B. F. Sarcy
+<lb/>Alfred Rickers
+<lb/>A Kendall
+<lb/>N. Stewart J. P. G. C
+<lb/>J E Stone J P G C
+<lb/>P. L. Mcbatton J. P. G. C
+<lb/>W N Simpson<milestone unit="column" n="1"/><pb/></p>
+<p>Grant Cir Ct
+<lb/>vs
+<lb/>Geo Williams
+<lb/>$50,
+<lb/>Concealed Weapons
+<lb/>Remitted
+<lb/><date when="1865-06-03">3<hi rend="sup">d</hi> June/65</date></p>
+  </body>
+ </text>
+</TEI>

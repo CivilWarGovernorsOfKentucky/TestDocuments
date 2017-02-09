@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2492"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">P. D. Clayton et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7129</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR15-463 to BR15-464</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency Thomas E Bramlett
+<lb/>Govenor of the Commonwealth of Ky</p>
+<p>We the undersigned Citizens of Webster County and others being personally acquainted with Daniel J Christian the subject of this memorial and the Causes of its presentation would respectfully represent to your honor that at the <date when="1863-03">march term of the Webster circuit court for 1863</date> the said Daniel J Christian was fined the sum of Sixty dollars for the offence of <hi rend="str">selling</hi> <hi rend="str">Liquor</hi> ^keeping a tippling house^</p>
+<p>now we would represent to your honor that said Christian is a criple having lost partially the use of his right hand that he has a wife and four small children that his Wife is also a criple having lost the use of her right arm that he is a very poor man and of Sober and industrious habits and that what he done was in ignorance of the law and was by him <unclear><hi rend="str">for the better</hi></unclear> to enable him to support his family</p>
+<p>we therefore in consideration of the Condition of himself and wife in the name of humanity pray your Excellency to Commute or remit Said fine against the said Daniel J Christian and in duty well ever pary &amp;c</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>P. D, Clayton
+<lb/>James S Chalkwell
+<lb/>S.. A.. Doris
+<lb/>John pullam
+<lb/>R. P. Howard J <hi rend="underline">peace</hi>
+<lb/>Clem Jenkins
+<lb/><cb n="2"/>G C Gaines
+<lb/><unclear/> <unclear/>
+<lb/><unclear>Tho H Gaines</unclear>
+<lb/>Joseph H Mitchell
+<lb/>james Blackwell<pb/>
+<lb/><cb n="1"/>W W Jenkins
+<lb/>J P Wallais
+<lb/>E. N Blackburn
+<lb/>F B Wallace
+<lb/>John Watson
+<lb/>Jas M Dill Clk
+<lb/><hi rend="str"><unclear/> <unclear/></hi>
+<lb/>Charles Williams
+<lb/>B D Winstead
+<lb/>Will Greir
+<lb/>Andrew Boyle
+<lb/>Basiel Watson
+<lb/>John Blackwell
+<lb/>J F Hicks
+<lb/>W<hi rend="sup">m</hi> P Newman
+<lb/>R J Harris
+<lb/>Josephus Welch
+<lb/><hi rend="str"><unclear/> <unclear/></hi>
+<lb/>W T Vaughn
+<lb/>G, B, Tolley
+<lb/>R <unclear/>
+<lb/>B pullam
+<lb/><unclear/> <unclear/>
+<lb/>B. A. <unclear/>
+<lb/>James R Jones
+<lb/>T D Jenkins
+<lb/>J J <unclear/>
+<lb/>Willis Jenkins
+<lb/>Wesley Curry
+<lb/>Jacob Marlgan
+<lb/><cb n="2"/>James M Morgan
+<lb/>G George Morgan
+<lb/>John Randals
+<lb/>D T Nall
+<lb/>L Nall
+<lb/>To overfeild
+<lb/>J, S, Thomas
+<lb/>William Muir
+<lb/>R M Corneal
+<lb/><unclear/> Price
+<lb/>M. W. Marrs
+<lb/>G. F. M<hi rend="sup">c</hi>Clintock
+<lb/>John Nasbitt S W C
+<lb/>John N. Thomason
+<lb/>S. Herrick
+<lb/>John W Melton
+<lb/>H H Smith T J F W C
+<lb/>D H Thomasson C, W, C
+<lb/>C W Cook Judge W, C, C
+<lb/>M C Denis C, W, C, C
+<lb/>Marion Rice<pb/></p>
+<p><milestone unit="column" n="1"/>Thomas E Bramlett Govenor Kentucky
+<lb/>Frankfort
+<lb/>Ky</p>
+<p>Webster Cir Ct
+<lb/>vs
+<lb/>D J Christian
+<lb/>$60
+<lb/>Tipling
+<lb/>Remit
+<lb/><date when="1865-10-02">2<hi rend="sup">d</hi> Oct 1865</date></p>
+  </body>
+ </text>
+</TEI>

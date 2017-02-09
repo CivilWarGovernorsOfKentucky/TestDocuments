@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0003-119-0002"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Richard Hawes, Military Aide, T. T. Smith</title>
+    <title level="a" type="parallel">CWG14451</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Christina K Adkins</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Historical Society</repository>
+      <collection>Emilie Todd Helm Papers</collection>
+      <idno>Box 1, Folder 2</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Macon, Bibb County, Georgia</placeName>
+    <date when="1864-03-07">7 March 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Commission/Appointment</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Macon, Geo <date when="1864-03-07">March 7. 1864</date>.</p>
+<p>I Richard Hawes, Provisional <hi rend="underline">Governor</hi> of the State <hi rend="underline">of Kentucky</hi>, by virtue of authority in me vested by the laws of Said State, and Reposing especial confidence in the skill, ability &amp; patriotism of T. T. Smith a ctizen of Lousville, Jefferson County Kentucky do by these presents nominate &amp; appoint the said T. T. Smith my military aid. In testimony of which I have had my name &amp; affixed my private seal, the date above.</p>
+<p>R. Hawes <figure type="seal"/>
+<lb/>Prov<hi rend="sup">l</hi> Gov<hi rend="sup">r</hi> of Ky.,</p>
+<p>The <hi rend="underline">Confederate</hi> Governor of Kentucky.
+<lb/>Col TT.S.to <hi rend="underline">CII 187</hi><hi rend="underline"><hi rend="sup">th</hi></hi></p>
+<p>To Capn John Boyd
+<lb/>from Chas Herbet late 2<hi rend="underline"><hi rend="sup">nd</hi></hi> Ky Inf CSA
+<lb/>Macon <unclear/><unclear/><unclear/></p>
+  </body>
+ </text>
+</TEI>

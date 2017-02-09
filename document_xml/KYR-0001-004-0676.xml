@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0676"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">W. H. Fox to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG4795</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR10-36</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Lexington, Fayette County, Kentucky</placeName>
+    <date when="1864-04-26">26 April 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency
+<lb/>Gov Bramlette</p>
+<p>The Undersigned would represent to your Excellency that at the <date when="1859-08">Augt Term 1859</date> of the Fayette Circuit Court Dudley Kent was fined $250 for keeping a disorderly house and the undersigned was induced to become his surity on the Replevin bond for the debt. Kent paid the Costs of the judgment and the part coming to the Attorney for the Com'th and procured from B. Magoffin then Governor of the state a respite of the debt for 12 months which respite is dated on the <date when="1859-10-26">26<hi rend="sup">th</hi> day of Oct 1859</date> and is on file in the records of the court house. In the year <date when="1859">1859</date> Kent left the Country &amp; has not been heard of since &amp; is supposed to be dead. Your Petitioner Supposed that the entire debt had been remitted, but the Sheriff recently informed him that he had an execution against Petitioner- for $175 &amp; int.</p>
+<p>Your Petitioner is a poor man and it would almost break him up to pay this debt</p>
+<p>He agreed to go on his bond, to save him from prison, Kent was a young man who had no fam<pb/>
+<lb/>ily- and who had borne a good reputation until a short time before this indictment</p>
+<p>Your Petitioner begs that your Excellency will remit him the amount of the fine.</p>
+<p>Lexington <date when="1864-04-26">Apl 26. '64</date> W. H. Fox</p>
+<p>We solicit the Governor to remit the fine above spoken of-</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Cha<hi rend="sup">s</hi> S. Bodley
+<lb/>J. H. Harrison DS
+<lb/>Chas F Lowry
+<lb/>John H. Werts
+<lb/>Thos. P. Nichols Deputy ^Sheriff^
+<lb/>D. Bush
+<lb/>T D Ballard
+<lb/>N. C. Pruders
+<lb/>Augs Clark
+<lb/>G. T. Edge
+<lb/>H T Duncan
+<lb/>Tho Bradley
+<lb/><cb n="2"/>Davis A Juger
+<lb/>A. A. Carr
+<lb/><hi rend="underline">Geo B Kinkead</hi>
+<lb/>M C Johnson
+<lb/>Jno B Norton<milestone unit="column" n="1"/></p>
+<p>I concur in this position very Sincerely
+<lb/>Leslie Combs</p>
+  </body>
+ </text>
+</TEI>

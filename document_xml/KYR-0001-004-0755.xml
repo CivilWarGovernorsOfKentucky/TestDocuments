@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0755"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Delany Sanders to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG4874</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR10-152</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency Thomas E Bramlett Governor of the Commonwealth of Kentucky &amp;c &amp;c</p>
+<p>Your petitioner Delany Sanders states that at the <date when="1863-08">August term of the Hancock Circuit Court for the year 1863</date> he was indicted for obstructing a public road in Hancock County by running his fence across the road, at the <date when="1864-02">February term of said Court for the year 1864</date> upon the fine of said Indictment it was found that he had obstructed the road and continued the obstruction for 62 days, and he was fined $62 &amp; costs.- He says that the road had been frequently charged about the place, where the obstruction was and that he placed the fence there under the beliefs that he was not encroaching on the public road but the Jury found the road to be where the obstruction was. Now he says he had no desire or intention to obstruct the road - He prays that your Excelency will remit said fine.</p>
+<p>Delany Sanders</p>
+<p>We Recommend the remission of the aforesaid fine</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>G W McComas
+<lb/>Eldred E Pate Clk
+<lb/>Cha<hi rend="sup">s</hi> S. Colbourne
+<lb/>J J. Moredock
+<lb/>Henry Wilston
+<lb/>Peter Short
+<lb/>Arthur <unclear/>
+<lb/>Thomas Burke
+<lb/><cb n="2"/>edward humfres
+<lb/>Edward B Wake
+<lb/>Samuel M Priest
+<lb/><unclear>Rollie A</unclear> walters</p>
+  </body>
+ </text>
+</TEI>

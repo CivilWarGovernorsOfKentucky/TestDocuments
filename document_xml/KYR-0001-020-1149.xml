@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1149"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">J. W. Kendall et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10617</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG20-297 to MG20-298</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1861-06-30">30 June 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency B. MaGoffin
+<lb/>Governor of the Commonwealth of Kentucky.</p>
+<p>Your Petitioners citizens of Morgan County would Respectfully State that at the <date when="1861-06">June term 1861.</date> of the Morgan Circuit Court one W<hi rend="sup">m</hi> Ballard Jones was fined in two cases $20 -- each for Illegal Gaming and further that said Jones is a good man, and old "Virginia GentleMan" and was only caught by the Grand Jury for playing a game with some Gentlemen for some little "<hi rend="underline">Refreshments</hi>" a thing we think the law never contemplated to harass Gentlemen for -- they would further represent that said <hi rend="underline">Wm B. Jones</hi> is a <hi rend="underline">poor man</hi> with Scarcly any Estate Except a family of Small children, it will nearly impoverish him and family to pay the costs of the Commonwealth, for these reasons and considering the "<hi rend="underline">hard times</hi>" we Respectfully ask to you to <hi rend="underline">remit</hi> the two fines- <date when="1861-06-30">June 30 1861.</date></p>
+<p><milestone unit="column" n="2"/><cb n="1"/>J W Kendall</p>
+<p>I think that Mr Jones ought not to pay the fines that have been assest against him</p>
+<p>A S Davidson
+<lb/><cb n="2"/>J M Davidson
+<lb/>Wm Mynheir
+<lb/>W Glearter
+<lb/>W<hi rend="sup">m</hi> Ward<pb/>
+<lb/><cb n="1"/>Jas. B. Fugett
+<lb/><hi rend="underline">G M Hampton</hi>
+<lb/>Henry Craige
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Cassity
+<lb/>B. S. Wells</p>
+<p>times are so hard that it would be next to impossible for Mr Jones to pay them &amp; your Excellency will remit them your &amp;c</p>
+<p>A. J. May,
+<lb/><cb n="2"/>Jn<hi rend="sup">o</hi>. T. Hazelrigg
+<lb/>Ben. F. Perry
+<lb/>William Troopes
+<lb/>S. T. Filson
+<lb/>R. C. Day<milestone unit="column" n="1"/><pb/></p>
+<p>Remitted
+<lb/>B. M</p>
+<p>Morgan Cir Ct
+<lb/>2 Jud $20 } Gaming
+<lb/>W. B. Jones</p>
+<p>Iss<hi rend="sup">d</hi> <date when="1861-07-18">July 18 1861</date></p>
+  </body>
+ </text>
+</TEI>

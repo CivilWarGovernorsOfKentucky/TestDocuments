@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2336"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">James P. Harbeson to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6973</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR15-231</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date when="1865-09-18">18 September 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><milestone unit="column" n="2"/><cb n="1"/>PHIL. TOMPPERT Jr., CLERK.
+<lb/><cb n="2"/>FRED. WOBBE, DEPUTY CLERK.
+<lb/><milestone unit="column" n="1"/>Clerks' Office, Louisville City Court,
+<lb/>Louisville, Ky., <date when="1865-09-18">Sept 18<hi rend="sup">th</hi> 1865</date> 186<gap/>
+<lb/>His Excellency
+<lb/>Thos. E Bramlette,
+<lb/>Governor State of Kentucky.
+<lb/>Sir,</p>
+<p>The fine of $110.<hi rend="underline"><hi rend="sup">00</hi></hi> imposed upon Anne Cooke by a jury in my court for keeping a disorderly house was done after the proo<hi rend="str">f</hi>f that, "you could not know it a house of prostitution unless you went into it and not then unless you were known.</p>
+<p>I think about half would be nearly right, say $50<hi rend="underline"><hi rend="sup">00</hi></hi>.</p>
+<p>I am sir with high regard your
+<lb/>obedient Servant
+<lb/>James P Harbeson
+<lb/>Judge L. City Court<pb/></p>
+<p>Remit all but $10 &amp; fees &amp; costs</p>
+<p>Louisville City Ct
+<lb/>vs
+<lb/>Anne Cook
+<lb/>$110.
+<lb/><date when="1865-09-20">20 Sept/65</date></p>
+  </body>
+ </text>
+</TEI>

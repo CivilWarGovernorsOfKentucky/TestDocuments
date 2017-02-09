@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1694"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John M. Rice to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG11162</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Andrew P Patrick</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG22-382 to MG22-383</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisa, Lawrence County, Kentucky</placeName>
+    <date when="1862-02-27">27 February 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><hi rend="underline">$40.</hi> 
+<lb/>Louisa <date when="1862-02-27">Feby 27<hi rend="sup">th</hi> 1862</date>
+<lb/>Dear Governor</p>
+<p>Near twelve months ago, you respited ^for twelve months^ a fine against Joseph Oroark of Lawrance County you then said that should the old man live and sin no more you would remit at expiration of respite. he is yet alive and less able to pay the fine than ever. owing to the efforts which have been made to save the Union here. The substance of the people has been insted.</p>
+<p>"<hi rend="underline">Sic</hi> <hi rend="underline">transit</hi>" &amp;<hi rend="underline">c</hi> &amp;c -- </p>
+<p>Yours Truly
+<lb/>Jno M Rice<pb/></p>
+<p>N, B, The fine was 40$<pb/></p>
+<p>Lawrence Cir. ct
+<lb/>$40 } liquor
+<lb/>Jo<hi rend="underline"><hi rend="sup">s</hi></hi> O Roard
+<lb/>Remiss Iss<hi rend="sup">d</hi> <date when="1862-03-07">Mar. 7. 1862</date></p>
+  </body>
+ </text>
+</TEI>

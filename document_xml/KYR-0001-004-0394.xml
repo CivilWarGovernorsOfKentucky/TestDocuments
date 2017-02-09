@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0394"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">A. Cline to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG4513</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR9-121 to BR9-122</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency the Governor of the Commonwealth of Kentucky</p>
+<p>Your petitioner A. Cline will state that in the year of <date when="1860">1860</date> he procurred from the County Court of Hickman County a Licens to keep a Tavern in the town of Moscow Ky &amp; in good faith did keep a Tavern &amp; connected therewith he also had a grocery, but he states that the grocery was kept in a house not connected with the Tavern house, &amp; thereafter he was indicted in Hickman County for keeping a Tipling house and at the <date when="1860-11">November ^November^ term of the Hickman Equity &amp; Criminal Court for 1860</date> he was find the sum of Sixty dollars. The Court <unclear>believing</unclear> that your petitioner had no right to keep his bar in a house not connected with his Tavern house.</p>
+<p>He states that at the time he kept his bar in the house stated he did not know it was in violation of law, but from what he understand the law to be, he believed he had the right so to do under his Tavern licens, &amp; such was the construction given by some of the Lawyers of the law, &amp; so understood by many, &amp; if he was guilty of a violation of law it was done ignorantly</p>
+<p>Wherefore he asks your Excellency to remit the fine referred to.</p>
+<p>A. Cline<pb/></p>
+<p>We whose names are hereunto <unclear/> state that we are acquainted with M<hi rend="underline"><hi rend="sup">r</hi></hi> A. Cline who resides in Moscow That he is a poor man &amp; has a large family, &amp; that the coersion of the fine out of him at this time would oppress him &amp; we believe it would be matter of justice under the circumstances that your Excellency should remit said fine which we ask may be done.</p>
+<p><milestone unit="column" n="2"/><cb n="1"/> Wiley P Griffey
+<lb/>Foreman of Jury
+<lb/>Thomas G Poorechee
+<lb/>J D Harlan
+<lb/>W. F. Boone
+<lb/>J. B. <hi rend="underline">Morris</hi>
+<lb/>W. H. Ramen
+<lb/><cb n="2"/>W. S. Jordan
+<lb/>R. P. Smith
+<lb/>B. F. M<hi rend="underline"><hi rend="sup">c</hi></hi>Gehee
+<lb/>G N Taylor
+<lb/>F Leip
+<lb/>Elem Roper
+<lb/>C. Arrington
+<lb/>J. N. Broon
+<lb/>Gorg Leigh
+<lb/>J. W. Mayes
+<lb/>L. H. Noonon
+<lb/>L. G Jones
+<lb/>W. H. Roper
+<lb/>M. V. B. Griffy
+<lb/>T. G. Jordan
+<lb/>Jamsom Gibson
+<lb/>Jos. Kennedy
+<lb/>P. B. Sullivan
+<lb/>James Zimmerman
+<lb/>G. W<hi rend="sup">m</hi> Rennick
+<lb/>Thomas Stone<milestone unit="column" n="1"/><pb/></p>
+<p>Hickman Eq &amp; Crim
+<lb/>vs
+<lb/>A Cline $60
+<lb/>Tipling
+<lb/><date when="1864-01-29">29<hi rend="sup">th</hi> Jany/ 64</date></p>
+<p>A Clines Petition
+<lb/>To
+<lb/>The Governor<figure type="hr"/></p>
+<p>Remit except fees &amp; costs
+<lb/>Tho E Bramlette</p>
+  </body>
+ </text>
+</TEI>

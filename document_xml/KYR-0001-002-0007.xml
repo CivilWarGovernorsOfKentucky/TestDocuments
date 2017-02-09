@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-002-0007"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">R. W. Johnson to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG0872</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Jacob A Glover</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Appointments by the Governor, Military Appointments, 1863-1867</collection>
+      <idno>BR5-317 to BR5-318</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1863-12-06">6 December 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Hd. Q<hi rend="sup">rs</hi>. 1<hi rend="sup">st</hi>. Div. 14<hi rend="sup">th</hi>. A.C.
+<lb/><date when="1863-12-06">Dec 6<hi rend="sup">th</hi>. 1863.</date>
+<lb/>Gov.</p>
+<p>Permit me to recommend to you Lt. Col. Gwynne of the 4<hi rend="sup">th</hi>. Ky Cavalry as a suitable person for the Colonelcy of the 5<hi rend="sup">th</hi>. Ky. Cav. made vacant by the death of its former Col. (Sanders).</p>
+<p>Lt. Col. Gwynne by his faithful and gallant services has clearly shown himself worthy and qualified for the position and I hope he may be commissioned.</p>
+<p>I am satisfied that his promotion would give satisfaction to the 5<hi rend="sup">th</hi>, and greatly add to its efficiency.</p>
+<p>Yours very truly
+<lb/>R W Johnson
+<lb/>Brg Gen <unclear/></p>
+  </body>
+ </text>
+</TEI>

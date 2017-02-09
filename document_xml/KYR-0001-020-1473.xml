@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1473"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">E. A. W. Roberts to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10941</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Amanda Boczar</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG22-55</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Falmouth, Pendleton County, Kentucky</placeName>
+    <date when="1861-10-22">22 October 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Falmouth <date when="1861-10-22">October 22nd 1861</date>
+<lb/>Beriah Magoffin governor of the Commonwealth of Kentucky</p>
+<p>I herewith Send you an additional Petition for the pardon of Geoge Knorr from Newport including 11 of the Trail Jury Praying for the Pardon of said Knorr.</p>
+<p>his wife is now at her fathers with her chid boath sick and his father is Sick and a very poor man and if they can not git Some Relief Some way they will undaubtedly Suffer, I hope you will give the said Knorrs case a mercifully ^hearing^ and if you can pardon him do it as Soon as possable that he may releive the suffering ^<hi rend="str">hearing</hi>^ condition of his wife, and child </p>
+<p>I am Sir your obt servant,
+<lb/>E. A. W. Roberts<pb/></p>
+<p>Campbell
+<lb/>Commonwealth
+<lb/>vs
+<lb/>George Knorr<figure type="hr"/></p>
+<p>Aditianal Petition with 11 of the Trail Juror's Signed<figure type="hr"/></p>
+<p>Penty</p>
+<p>Issue pardon
+<lb/>B. Magoffin</p>
+  </body>
+ </text>
+</TEI>

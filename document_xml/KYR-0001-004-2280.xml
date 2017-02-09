@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2280"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Robert J. Breckinridge, Jr. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6917</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR15-148 to BR15-149</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Lexington, Fayette County, Kentucky</placeName>
+    <date when="1865-08-15">15 August 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Lexington
+<lb/><date when="1865-08-15">August 15<hi rend="sup">th</hi> 1865</date>
+<lb/>To His Excellency
+<lb/>Gov Bramlette
+<lb/>Sir</p>
+<p>Your Petitioner Robert J. Breckinridge Jr. states that he was a Colonel in the late Confederate army -- that he was ordered into Kentucky in the Fall of <date when="1864">1864</date>, by his Military Superiors, to perform certain duties -- In the performacnce of said duties, he with a small command went to Williams<hi rend="str">burg</hi>town. Grant County Ky and <hi rend="str"><unclear/></hi>took from the store of a man named Tunis, sixty four muskets and betweeen eight and ten thousand rounds of fixed ammunition he likewise took some over coats. Cavalry Boots and Hats. for his men who were Confederate soldiers -- Your Petitioner states that since his return to Ky. the Grand Jury of Grant County has Indicted him for Grand Larceny, (together with some seventeen others, who were soldiers under the command of your Petitioner) charging him with having stolen the articles mentioned above, and in addition then to charging him with stealing at the same time and place as small number of Pocket Knives. Your Petitioners utterly denies having taken the<pb/> 
+<lb/>Knives; &amp; Your Petitioner further states that his object in going to Williamstown was to capture the Guns and Amunition, and that he made a small detail and would not allow the store to be plundered Your Petitioner would respectfully urge that had he been disposed either to destroy or carry away the entire stock of goods in the Store ^which was very large^ and even to destory the Store itself -- under the Laws of War, he would have been justifiable in doing either, after having found in the store, Government Guns and Ammunition -- regularly and constantly kept there; as in our Arsenal or Government Store House -- </p>
+<p>Your Petitioner therefore, -- under the circumstances -- appeals to your Excellency to interfer and Grant him Pardon</p>
+<p>Respectfully
+<lb/><hi rend="underline">Robt J.</hi> <hi rend="underline">Breckinridge</hi> Jr<pb/></p>
+<p>Grant Cir Ct
+<lb/>vs
+<lb/>R J. Breckinridge Jr
+<lb/>Grand Larceny
+<lb/><date when="1865-05">May term/65</date>
+<lb/>Pardoned <date when="1865-08-19">19 Aug/65</date></p>
+  </body>
+ </text>
+</TEI>

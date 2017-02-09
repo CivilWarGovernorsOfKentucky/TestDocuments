@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-211-0028"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Samuel G. Suddarth, Receipt to I. W. Scott</title>
+    <title level="a" type="parallel">CWG13676</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>Adjt. Gen. &amp; QMG Expenditures, 1864-1865</collection>
+      <idno>QMG Box 11; Bundles of AG &amp; QMG Expenditures 1864-65; Bundle 3</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1864-06-23">23 June 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>No. 12.<figure type="hr"/>
+<lb/>THE STATE OF KENTUCKY,
+<lb/>To I W Scott, Dr.
+<lb/><date when="1864">1864</date>.</p>
+<p><table rend="rules">
+<row>
+	<cell>Date of Purchase.</cell>
+	<cell/>
+	<cell>Dollars.</cell>
+	<cell>Cents.</cell>
+</row>
+<row>
+	<cell><date when="1864-06-23">June 23.</date></cell>
+	<cell>To amount of money expended in procuring Hospital Stores for sick and wounded soldiers belonging to Kentucky Regiments by order of the Governor of Kentucky
+<lb/>Five hundred dollars</cell>
+	<cell>$500</cell>
+	<cell>00</cell>
+</row>
+</table></p>
+<p>Approved
+<lb/>Thos E Bramlette Govr</p>
+<p>The Quarter Master General is directed to pay the above account from the Military Fund. <date when="1864-06-23">June 23. 1864</date></p>
+<p>Thos E Bramlette Govr</p>
+<p>I certify that the above account is correct and just, and that the services were rendered as stated, and were necessary for the public service.</p>
+<p>S. G. Suddarth
+<lb/>Quarter-Master Gen. of Ky.</p>
+<p>Received at Frankfort, Kentucky, the <date when="1864-06-23">23 of June, 1864</date>, of S. G. SUDDARTH, Quarter-Master General of the State of Kentucky, the sum of Five hundred and four dollars and -- cents, in full of the above account.
+<lb/>(DUPLICATE.)</p>
+<p>I W Scott<pb/></p>
+<p>506<hi rend="underline">
+<lb/></hi>No 12.<figure type="hr"/>
+<lb/>No 96 Abstract. G
+<lb/>I. W. Scott
+<lb/>Dollars 500.<hi rend="sup">00</hi>/<hi rend="sub">100</hi>
+<lb/>Paid <date when="1864-06-23">June 23<hi rend="sup">d</hi>, 1864</date>.
+<lb/>Hospital
+<lb/>J 244
+<lb/>(Certif. No. 286.)</p>
+  </body>
+ </text>
+</TEI>

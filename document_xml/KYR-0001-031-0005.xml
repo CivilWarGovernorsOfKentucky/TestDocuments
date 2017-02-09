@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-031-0005"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">James H. Fremont to James F. Robinson</title>
+    <title level="a" type="parallel">CWG7745</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Appointments by the Governor, Civil Appointments, 1862-1863</collection>
+      <idno>R1-31 to R1-32</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Mount Sterling, Montgomery County, Kentucky</placeName>
+    <date when="1862-08-28">28 August 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Mt Sterling Montgomery Co <date when="1862-08-28">^Augt^ 28. 1862</date>
+<lb/>To his Excellency 
+<lb/>James F Roberson
+<lb/>Dear Sir</p>
+<p>I am informed that John H. Stevens of this County, who was formerly a magistrate <hi rend="str">of this</hi>, has resigned his office and that his resignation has been forwarded to you, John N Shoubart of this County desires the appointment in the place of John H Stevens. I think he is well qualified for the office, a clever man, and would give general satisfaction if he was appointed. I have been presiding Judge of the county court of this county for the last four years and know pretty well who will suit the people, he is a union man and his loyalty, as far as I know, has never been questioned &amp;c</p>
+<p>James H. Fremont P J M C C<pb/></p>
+<p>For appt. of Justice</p>
+  </body>
+ </text>
+</TEI>

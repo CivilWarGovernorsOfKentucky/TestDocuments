@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-003-0095"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John J. Hawes to E. L. Van Winkle</title>
+    <title level="a" type="parallel">CWG1612</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's Official Correspondence File, Military Correspondence, 1863-1867</collection>
+      <idno>BR5-155 to BR5-156</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Lexington, Fayette County, Kentucky</placeName>
+    <date when="1864-10-11">11 October 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Lexington Ky <date when="1864-10-11">Oct 11<hi rend="sup">th</hi> 1864</date>.
+<lb/>Secretary of State
+<lb/>Frankfort
+<lb/>Ky.</p>
+<p>My Battery is stationed at this post. and among the men of which it is composed are some, who, when they enlisted, were residents of other states than Kentucky, on the <date when="1863-10-06">6<hi rend="underline"><hi rend="sup">th</hi></hi></date> of this month one year ago, they were mustered into the service of the United States, Since which time they have not been out of the state only excepting a few days, when some were absent on reenlistment furlough.</p>
+<p>They have been within the city of Lexington Ky since the <date when="--06-01">1<hi rend="underline"><hi rend="sup">st</hi></hi> day of June</date>. Now, Sir, in view of the above state of case, <hi rend="str">does not have</hi> ^has not^ each and every voter in my Battery the privilege of voting at this city: and is not each and every one of them a citizen of Ky. by virtue of having been in the state one year</p>
+<p>Any information which you can give me upon the subject will be highly appreciated.</p>
+<p>I am, Sir,
+<lb/>Very Respectfully
+<lb/>Your Obedient Servant
+<lb/>John. J. Hawes
+<lb/>Capt. 5<hi rend="underline"><hi rend="sup">th</hi></hi> Ky. Battery</p>
+  </body>
+ </text>
+</TEI>

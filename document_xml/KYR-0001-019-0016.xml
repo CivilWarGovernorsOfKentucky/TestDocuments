@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0016"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">W. D. Pape to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG1322</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Military Correspondence, 1859-1862</collection>
+      <idno>MG5-61</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Santa Fe, Bracken County, Kentucky</placeName>
+    <date when="1861-04-28">28 April 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Santa Fe Bracken County Ky
+<lb/><date when="1861-04-28">April 28<hi rend="sup">th</hi> 1861</date>
+<lb/>Hon Beriah Magoffin
+<lb/>Governor of Ky</p>
+<p>Sir the Present Existing and threatening attitude and Condition the Country is in It is time all true patriots was up and Doing if it is Consistent under the present Circumstances I ask permission of you to raise 100 able bodied men in this vicinity armed and Equiped by the State to hold them in rediness at any Emergency Subject to your Order let me Know forth with</p>
+<p>Your Obedient Servt
+<lb/>W. D. Pape<pb/></p>
+<p>Arms. Answ<hi rend="underline"><hi rend="sup">d</hi></hi></p>
+  </body>
+ </text>
+</TEI>

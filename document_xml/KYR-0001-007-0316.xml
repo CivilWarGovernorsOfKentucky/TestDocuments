@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0316"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">F. J. Thibault, Oath</title>
+    <title level="a" type="parallel">CWG1981</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Appointments by the Governor, Civil Appointments, 1863-1867</collection>
+      <idno>BR2-207 to BR2-208</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>San Francisco, San Francisco County, California</placeName>
+    <date when="1864-11-15">15 November 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><hi rend="underline">United States of America</hi>
+<lb/>State of California
+<lb/><hi rend="underline">City and County of San Francisco</hi> } S.S:</p>
+<p><hi rend="underline">I</hi>, <hi rend="underline">F. J. Thibault</hi>, residing in the city and county of San Francisco, in the State of California, appointed by the Governor of the Commonwealth of Kentucky, a Commissioner to take the acknowledgement and proof of the execution of deeds and other instruments in writing to be used or recorded in the Said Commonwealth of Kentucky and to administer oaths affirmations &amp;<hi rend="sup">c</hi> do solemnly swear that I will faithfully perform all the duties of such commission under and by virtue of the laws of said Commonwealth of Kentucky according to the best of my ability.</p>
+<p>F. J. Thibault</p>
+<p>Subscribed and Sworn to before me this <date when="1864-11-15">Fifteenth day of November A D 1864</date>.</p>
+<p>Samuel Condy
+<lb/>County Judge</p>
+<p><stamp type="revenue"/><note place="stamp">S. C.
+<lb/><date when="1864-11-15">Nov
+<lb/>15.64</date></note></p>
+<p><figure type="seal"/></p>
+<p>official seal
+<lb/><figure type="seal"><ab><unclear>F. J. THIBAULT.</unclear>
+<lb/>COMMISSIONER
+<lb/>FOR KENTUCKY
+<lb/><unclear>UNITED WE STAND DIVIDED WE FALL</unclear>
+<lb/>CITY &amp; COUNTY OF SAN FRANCISCO STATE OF CALIFORNIA.</ab></figure></p>
+<p>Signature
+<lb/>F. J. Thibault
+<lb/>Commissioner for Kentucky in California<pb/></p>
+<p>Comr Deeds
+<lb/>California
+<lb/>Oath of Office of F. J. Thibault
+<lb/>filed <date when="1864-12-15">15<hi rend="sup">th</hi> Dec/64</date></p>
+  </body>
+ </text>
+</TEI>

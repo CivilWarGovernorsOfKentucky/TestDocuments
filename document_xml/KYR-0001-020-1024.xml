@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1024"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John H. Caldwell to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10492</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG20-96 to MG20-97</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Crab Orchard, Lincoln County, Kentucky</placeName>
+    <date when="1861-05-15">15 May 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Craborchard Springs
+<lb/><date when="1861-05-15">May 15<hi rend="sup">th</hi> 1861</date>
+<lb/>Hon B. Magoffin
+<lb/>Dear Sir</p>
+<p>I send a pettion to have a fine remitted imposed on me by the Lincoln Circuit court you will please attend to it I know your mind is harrassed by matters far more important, but I hope you will ^attend to this^ immediately on the reception of this, as the execution is returnable on next monday.</p>
+<p>Very truly yours
+<lb/>John H Caldwell</p>
+<p><hi rend="str">Remitted</hi>
+<lb/>Respited 12 mos.
+<lb/>B. M
+<lb/>Iss<hi rend="sup">d</hi> <date when="1861-06-24">June 24</date>
+<lb/>Lincoln Cir. Ct
+<lb/>$500 } <hi rend="str">For</hi> Gaming
+<lb/>Jno. H. Caldwell
+<lb/>Remission Iss<hi rend="sup">d</hi>
+<lb/><date when="1861-08-05">Aug 5. 1861</date><pb/></p>
+<p>To His Excellency
+<lb/>Governor B. Magoffin</p>
+<p>The undersigned John. H. H. Caldwell respectfully showeth to your Excellency that at the <date when="1860-09">September term 1860</date> of the Lincoln Circuit Court, he was fined the sum of Five Hundred Dollars on charge of suffereing gaming in his house. He states that he is the keeper of the Hotel, known as the Crab Orchard Springs, a watering place, and being a large and <unclear/> establishment, it is impossible for him to intently suppress gaming, even with the greatest vigilance, and under the law he is finable of gaming is committed without his knowledge. He states that he never ran the gaming going on, and he forbid gaming on his premises -- He states that under the circumstances the law operates hardly on him and is oppresive, and in these times of trouble and financial disaster, it is utterly impossible for him to pay the fine.</p>
+<p>In consideration of the previous he respectfully asks your Excellency to interpose and remit the hard fine and release him therefrom. He believes his case is one for Executive clemency and he earnestly &amp; respectfully prays your Excellency for the exercise of it. And as in duty bound will ever pray &amp;c -- <date when="1861-05-15">May 15<hi rend="sup">th</hi> 1861 -- </date></p>
+<p>John H. Caldwell</p>
+<p>We believe the above petition is true and join in the same and respectfully ask the Governor to remit the fine -- </p>
+<p>Jno Engleman
+<lb/>E. B. Caldwell</p>
+  </body>
+ </text>
+</TEI>

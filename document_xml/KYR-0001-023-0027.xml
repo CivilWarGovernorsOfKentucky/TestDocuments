@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-023-0027"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">James Guthrie et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG2940</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, 1859-1862</collection>
+      <idno>MG1-204</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Washington, Distict of Columbia</placeName>
+    <date when="1861-02-28">28 February 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Washington <date when="1861-02-28">Feby 28<hi rend="sup">th</hi> 1861</date>
+<lb/>To his Excellency
+<lb/>B. Magoffin, Gov. of Ky.</p>
+<p>The undersigned Commissioners appointed by a resolution of the General Assembly of the Commonwealth of Kentucky, to meet such commissioners as might be appointed by the several states in accordance with the request of the State of Virginia, to confer together upon the present condition of our country, respectfully report</p>
+<p>That they assembled in the City of Washington on the 4<hi rend="sup">th</hi> Inst. twenty one states being represented and continued in session until the 27<hi rend="sup">th</hi> Inst and finally agreed on the enclosed printed propositions as a basis of settlement and pacification -- </p>
+<p>The Journal of our proceedings as soon as completed and printed will be transmitted as part of this report</p>
+<p>Respectfully
+<lb/>James Guthrie
+<lb/>C. S. Morehead
+<lb/>Johua F. Bell
+<lb/>C. A. Wickliffe<figure type="hr"/></p>
+<p>P. S.
+<lb/>It is proper to remark that before this report was written &amp; signed two of the Commissioners Hon J. B. Clay &amp; Gen<hi rend="underline"><hi rend="sup">l</hi></hi> Butler had left the City<pb/></p>
+<p>Com<hi rend="sup">s</hi> to Washington City
+<lb/>Report</p>
+  </body>
+ </text>
+</TEI>

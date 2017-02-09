@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2204"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Davis et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6841</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR15-13</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency Thomas E Bramlette
+<lb/>Governor of the Commonwealth of Kentucky</p>
+<p>The undersigned, state, that John W Harris was indicted in the Fayette Circuit Court for maliciously stabbing with intent to kill, one James Harkins. That he was at the <date when="1865-08">August term 1865</date> of said Court tried for said offense, and <hi rend="underline">fined</hi> <hi rend="underline">$250</hi> for a <hi rend="underline">misdemeanour</hi>. That we <hi rend="str">we</hi> were of the jury who tried him, and although <hi rend="underline">bound in law as expounded by the court to inflict the fine</hi> yet we beleived, and now beleive from the evidence, that his case is one that would fully <hi rend="underline">justify</hi> the interposition of your Excellency. Mr Harris is, as was shown by some of the most respectable men in Woodford County ^to be^ of good character, of a peaceable, and quiet disposition and industrious in his habits We would therefore respectfully ask that the prayer of his petition asking a remission of his firm so far as your Excellency can remit it, be granted</p>
+<p>John Davis
+<lb/>Simon Hopper
+<lb/>E J Smith
+<lb/>J T Hughes
+<lb/>J L Keyes
+<lb/>R R Allen<pb/>
+<lb/><unclear/> <unclear>Elbert</unclear>
+<lb/>John M Farmer
+<lb/>W, W, Gray -- </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-033-0033"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Charles Glass, Affidavit</title>
+    <title level="a" type="parallel">CWG1496</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Jacob A Glover</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Governor's Official Correspondence File, Apprehension of Fugitives from Justice Papers, 1862-1863</collection>
+      <idno>R3-60</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Jefferson County, Kentucky</placeName>
+    <date when="1863-02-09">9 February 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>The state of Kentucky
+<lb/>County of Jefferson</p>
+<p>This day Charles Glass made oath before me a Justice of the peace for said county that one <hi rend="underline">"Elliot</hi>" a slave (the property of Willis Field late of (<hi rend="underline">Davis</hi> County Kentucky) has been guilty, of the crime of Murder in the Killing and Murdering of his master and owner the said Willis Field in the fall of <date when="1862">1862</date> and that the said "<hi rend="underline">Elliot</hi>" is now a fugitive from Justice running at large in the state of Indiana That said Crime of Murder was committed by said slave "Elliot" in the County of Davis in the state of Kentucky,</p>
+<p>Charles Glass</p>
+<p>Subscribed and sworn to before one a Justice of the peace this <date when="1863-02-09">9<hi rend="sup">th</hi> day of February 1863</date></p>
+<p>Jo<hi rend="sup">s</hi>. Clement J. P. J. C<pb/></p>
+<p>Indiana<figure type="hr"/>
+<lb/>Requisition for Elliot (a Slave)
+<lb/>Murder<figure type="hr"/>
+<lb/>Requisition Iss <date when="1863-02-12">Feby 12. 1863</date><figure type="hr"/>
+<lb/>R. Gilchrist</p>
+  </body>
+ </text>
+</TEI>

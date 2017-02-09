@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0022"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Warren Parker to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG4141</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR8-33 to BR8-34</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Franklin County, Kentucky</placeName>
+    <date when="1863-09-14">14 September 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Franklin County
+<lb/><date when="1863-09-14">Sept<hi rend="sup">r</hi> 14" 1863</date>
+<lb/>To
+<lb/>Governor Bramlette</p>
+<p>Your petition Warren Parker who resides in Franklin County on Cedar Creek twelve miles from Frankfort, states that during the canvass of <date when="1861">1861</date>, he was induced to have a burgoo -- at which the offence hereinafter named was charged to have been committed. At the last term of the Franklin Circuit Court he was fined in the sum of sixty dollars for the offence of selling spirits at the burgoo. The only witness against him was Spencer Davidson with whom your petitioner was on ill terms, who stated that he had bought spirits from your petitioner; so far from this being so, he has never sold any ardent spirits of any kind to Davidson.</p>
+<p>There being no evidence against your petitioner until the last term of the Court, he supposed the prosecution was abandoned, and was not present, nor had he consulted with his lawyer on the subject.</p>
+<p>Your petitioner considers that he is a good citizen and a law abiding man.<pb/></p>
+<p>He hopes his <hi rend="str">peition</hi> fine will be remitted. Your petitioner is a man of humble means, which do not amount to over $200 -- all told.</p>
+<p>Warren ^his x mark^ Parker
+<lb/>witness</p>
+<p>Sworn to and subscribed before me this <date when="1863-09-14">14th day of September</date> by the above named Warren Parker.</p>
+<p>John R Graham C. J. C. S.</p>
+<p>Franklin Co
+<lb/>Pet of Warren Parker for Remission of $60. fine in Franklin Circuit
+<lb/>No sufficient reason is presented for Executive interposition</p>
+<p><date when="1863-09-23">Sept<hi rend="sup">r</hi> 23<hi rend="sup">rd</hi> 1863</date>
+<lb/>Thos E Bramlette<pb/></p>
+<p>The undersigned citizens of Frankfort and Franklin County, unite in the above petition of Warren Parker for a remission of his fine -- </p>
+<p><milestone unit="column" n="2"/><cb n="1"/>G. W. Hall
+<lb/>Charles H Moss
+<lb/>H. B. Innes
+<lb/>Isaac Paul
+<lb/>Sam<hi rend="sup">l</hi>. Hardy
+<lb/>Robt. T. Penn
+<lb/>WH Gray
+<lb/>HR Miller
+<lb/>W. F. Parrent
+<lb/>J P Long
+<lb/>P. Joyce
+<lb/>W.B. Holeman
+<lb/>J. T. Graham
+<lb/>J A Long
+<lb/>M R Plien
+<lb/>E D Hensly
+<lb/>Whiffield West
+<lb/><cb n="2"/></p>
+<p>I respectfully ask the Govr to grant the within petition</p>
+<p>Jno. A. Crittenden
+<lb/>A H Rennull
+<lb/>C Warren
+<lb/>W. W. Graham
+<lb/>H I Morris</p>
+  </body>
+ </text>
+</TEI>

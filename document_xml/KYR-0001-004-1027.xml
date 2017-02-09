@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1027"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">W. N. Sweeney et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG5664</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR[11]-84</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency Thos. Bramlette Govenor of the Commonwealth of Kentucky</p>
+<p>The Petition of the sender signed respectfully sheweth that at the <date when="1863-08">August Term 1863</date> of the Daviess Circuit Court the Commonwealth received judgment against B <hi rend="str">C</hi>W. Murphy for the sum of $200. for <gap/> </p>
+<p>M<hi rend="sup">r</hi>. Murphy is a poor man &amp; for the last year has been a Cripple -- is so still &amp; barely able to get about -- He has not the means to pay the judgement &amp; unless Executive Clemency interpose must go to jail -- He has a family of small Children who are dependant upon the little he can do, for their Support -- without advising as to the facts upon which the indictment &amp; Verdict were based -- we do not Know them, we have no hesitation, knowing the man as we do &amp; his condition, to recommend him, to the favorable Consideration of yr. Excellency &amp; to ask that the fine be remitted -- </p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Geo W Swope.
+<lb/>John O Brien Clk cty ct
+<lb/>J. H. Blair
+<lb/>Ed. T. White
+<lb/>J W Compton
+<lb/>J P Marlowe
+<lb/>W. B. Tyler Cashier
+<lb/>Jos <unclear>W Car</unclear>
+<lb/><cb n="2"/>W. N. Sweeney
+<lb/>E S Ayers
+<lb/>Danl. M. Griffith
+<lb/>Jo. G. Harrison Shff.
+<lb/>J. D. Shepherd
+<lb/>C S. Todd
+<lb/><hi rend="underline">John H, McHenry</hi>
+<lb/>Jesse Moore PM
+<lb/>J. H, Brannon
+<lb/>Joesph Thomas, Circt Clk
+<lb/>J M Bodine <unclear>C S C</unclear>
+<lb/>James J Norris<milestone unit="column" n="1"/><pb/></p>
+<p>Daviess Cir Ct
+<lb/>vs
+<lb/>Remit $100
+<lb/>half the fine
+<lb/>B. C. Murphey
+<lb/><date when="1864-07-12">12<hi rend="sup">th</hi> July/64</date></p>
+  </body>
+ </text>
+</TEI>

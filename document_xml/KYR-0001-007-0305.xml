@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0305"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John L. Hollingshead to James R. Page</title>
+    <title level="a" type="parallel">CWG1970</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Appointments by the Governor, Civil Appointments, 1863-1867</collection>
+      <idno>BR2-193</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Washington, District of Columbia</placeName>
+    <date when="1864-10-11">11 October 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Washington City D. C.
+<lb/><date when="1864-10-11">October 11, 1864</date>
+<lb/>Hon James R. Page
+<lb/>Asst Secy of State
+<lb/>Frankfort Ky.
+<lb/>Sir:</p>
+<p>I have the honor to acknowledge the receipt of your communication of <date when="1864-10-07">7<hi rend="sup">th</hi> inst</date>. And would state in reply that I do desire to have my Commission as Commissioner of Deeds, renewed and herewith enclose five dollars ($5.00) the amount of the state Tax on said commission.</p>
+<p>I have the honor to be,
+<lb/>Very Respectfully
+<lb/>Your Obt Servt
+<lb/>John S. Hollingshead<pb/></p>
+<p>Comr Deeds
+<lb/>Dis of Columbia
+<lb/>Washington City
+<lb/>appt<hi rend="sup">d</hi>
+<lb/><date when="1864-10-14">14<hi rend="sup">th</hi> Oct/64</date></p>
+  </body>
+ </text>
+</TEI>

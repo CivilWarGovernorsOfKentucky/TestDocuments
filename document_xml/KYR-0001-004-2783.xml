@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2783"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">James T. Page et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7420</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR17-46 to BR17-47</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Columbia, Adair County, Kentucky</placeName>
+    <date when="1865-12-07">7 December 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency Thomas E Bramlette
+<lb/>Governor of the State of Kentucky</p>
+<p>The undersigned represent to your Excellency that at the <date when="1865-11">November term 1865</date>, of the Adair Circuit Court W<hi rend="underline"><hi rend="sup">m</hi></hi> E. Hancock was adjudged by said Court to pay a fine of fifty dolalrs on an Indictment for Shooting at without wounding one B. F. Loving, who had grossly insulted the wife of said Hancock while he Hancock was absent in the army We think the case is one for the exercise of Executive Clemency and pray that said Hancock be release from paying said Judgment except Costs, and as in duty bound &amp;c</p>
+<p>Columbia <date when="1865-12-07">Decr 7<hi rend="underline"><hi rend="sup">th</hi></hi> 1865</date>.</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>James T. Page
+<lb/><cb n="2"/>W<hi rend="underline"><hi rend="sup">m</hi></hi>. E. Russell
+<lb/>Jn<hi rend="underline"><hi rend="sup">o</hi></hi>. A Peebles
+<lb/>C T Dillingham
+<lb/>W F. Neat
+<lb/>W. H. Walker
+<lb/>Jo. Coffey
+<lb/>C R Page</p>
+<p><milestone unit="column" n="1"/>See Copy of Letter on other Side<pb/></p>
+<p>Copy of Letter Sent by Loving
+<lb/>"<date when="1865-07-29">July 29<hi rend="underline"><hi rend="sup">th</hi></hi> 1865</date>,</p>
+<p>Mrs Hancock I would like the best Kind to see you but not through any harm if you have no objections you will be at the Spring at 5 P.M. if it ant agreeable you can let me Know by bowing or Shaking your head at me this is a secret, I would not have divulged for $500 dollars So I hope this will meet your approval </p>
+<p>Respectfully your
+<lb/>Dearest friend
+<lb/>Captain Loving lat 8 Tenn vols -- Infy <hi rend="str">vols</hi>
+<lb/>U. S. A."</p>
+<p>Addresed to "Mrs L Hancock at home Near Columbia Ky <date when="1864">1864</date>"</p>
+<p>The above is a copy of the original in my hands</p>
+<p>W<hi rend="underline"><hi rend="sup">m</hi></hi> E. Russell<pb/></p>
+<p>Adair Cir Ct
+<lb/>vs
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> E Hancock
+<lb/>$50,
+<lb/>Shooting with intent to kill
+<lb/>Remitted <date when="1865-12-11">11<hi rend="sup">th</hi> Dec/65</date></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2857"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Allie S. Cooper, Affidavit</title>
+    <title level="a" type="parallel">CWG7494</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR17-149</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Lexington, Fayette County, Kentucky</placeName>
+    <date when="1865-12-09">9 December 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><stamp type="revenue"/><stamp><unclear/></stamp>
+<lb/>Lexington <date when="1865-12-09">Dec 9<hi rend="sup">th</hi> 1865</date></p>
+<p>Maj I L Frost having been indicted before the <date when="--09">Sept</date> and <date when="--11">Nov</date> term of the Fayette Circuit Court on the charge of receiving a small mare knowing at the time that siad mare was the property of T Bacy and had been stolen her.</p>
+<p>I herby make the following statement. I was at Maj Frosts house at the time said mare was received. And know that Maj Frost purchased her and paid $63 <hi rend="sup">65</hi>/<hi rend="sub">100</hi> for her. I was in the house at the time the trade was made but was present when the contact was closed and the bill of sale was given and considered at a fair and legitimate transaction between the parties. And am confident that Maj Frost did not know that said mare belong to T Bacy or any one else but the party of whom he purchased her</p>
+<p>to the best of my recolection the statement is correct</p>
+<p>Allie S Cooper</p>
+<p>Sworn to and subscribed in my Presents this <date when="1865-11-09">9 of November 1865</date></p>
+<p>M B Johnson J P f c</p>
+  </body>
+ </text>
+</TEI>

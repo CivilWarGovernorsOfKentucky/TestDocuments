@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-032-0005"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">L. J. Cist to James F. Robinson</title>
+    <title level="a" type="parallel">CWG7646</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Governor's Official Correspondence File, 1862-1863</collection>
+      <idno>R1-9</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>St. Louis, St. Louis County, Missouri</placeName>
+    <date when="1863-03-25">25 March 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><milestone unit="column" n="2"/><cb n="1"/>JOHN HOW, President.
+<lb/>ISAAC ROSENFELD, Jr., Cashier.
+<lb/>L. J. CIST, Assistant Cashier<figure type="hr"/>
+<lb/><cb n="2"/>AUTHORIZED CAPITAL,
+<lb/>$1,000,000.<figure type="hr"/>
+<lb/><milestone unit="column" n="1"/>STATE SAVINGS ASSOCIATION,
+<lb/>St. Louis, Mo., <date when="1863-03-25">March 25<hi rend="sup">th</hi> 1863</date>
+<lb/>Gov<hi rend="sup">r</hi> Jas F. Robinson
+<lb/>Frankfort Ky
+<lb/>Dear Sir</p>
+<p>Will you be kind enough to inform me the <hi rend="underline">date</hi> of your election as Governor of Kentucky, &amp; also the date on which your present term of office will expire, by the Inauguration of your Successor, &amp; oblige,</p>
+<p>With great respect
+<lb/>Your obd Sevt
+<lb/><hi rend="underline">L. J. Cist</hi><pb/></p>
+<p>L. J. Cist
+<lb/>St. Louis
+<lb/>Ans<hi rend="sup">d</hi> <date when="1863-04-02">Apr 2 1863</date></p>
+  </body>
+ </text>
+</TEI>

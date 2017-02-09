@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-030-0005"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">J. M. Mills, J. S. Hayes, and J. H. Garrard, Report</title>
+    <title level="a" type="parallel">CWG7641</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Governor's Official Correspondence File, Special Studies and Reports to the Governor, 1862-1863</collection>
+      <idno>R1-25 to R1-26</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1863-08-17">17 August 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Report</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Frankfort <date when="1863-08-17">August 17<hi rend="sup">th</hi> 1863</date>
+<lb/>Hon James F. Robinson
+<lb/>Govr of Kentucky
+<lb/>Sir</p>
+<p>Since our last report we have the pleasure to inform you that we have noticed a general improvement in the Penitentiary. The yard is in a cleanly condition, and the Hospital and Cells, have been renovated, presenting quite an air of neatness and comfort.</p>
+<p>The special object however of this report is to call to your notice the necessity of two very important improvements, which we consider should be made without delay.</p>
+<p>1. The building used as the Carpenter shop is in such a condition as to need immediate repair. The walls are very defective, the roof literally worthless and the entire building should be overhauled in all its apartments and receive the attention its necessities demand.</p>
+<p>2. The ceilings in the new building or hemp house are too low, and we suggest that the one in the <hi rend="str">third day</hi> ^hackling room^ be raised from its present position on the joist and attached to the rafters supporting the roof. Being a plank ceiling, this could easily be done, and the necessity for <pb/>
+<lb/>it is as follows.</p>
+<p>The working in hemp has always been regarded as injurious to health, particularly the hackling, the inhaling of dust and minute portions of the fibre, inducing disease of the lungs. This is <hi rend="str">liable to</hi> commonly observed in all hemp and bagging factories, but it is the testimony of physicians who at various times have attended the prison, that the cases of Pneumonia occurring in the hemp department of the institution, were of the most alarming and fatal character, the greater proportion of them being from the hackling room in the third story. About five years since the disease prevailed to such an extent amongst the convicts at labor in this building, the cases being so sudden in their approach, rapid in their progress, and fatal in their termination, that Dr. Sneed, then the attending physician, made them a subject of special report to some of the medical journals of the country, with the object of eliciting investigation in regard to a more successful treatment. A similar state of affairs has occurred since that time, especially during the past Winter, when many of the cases were rapidly fatal, some of them lasting not over thirty six hours from their commencement.</p>
+<p>With a view therefore of preventing as far as possible the occurrence of this dreadful malady, as well as lessening<pb/>
+<lb/>its fatality, and thereby maintaining the effectiveness of the force employed in this branch of industry, we recommend the raising of the ceiling in the manner proposed. The shutters in the domes on the top of the building should be hung upon hinges, and with these alterations, as greater opportunity would be afforded for the escape of the dust, and the comfort of the prisoners be greatly increased.</p>
+<p>Very Respectfully
+<lb/>J.M. Mills
+<lb/>J. S. Hays } Insps Ky Penitentiary
+<lb/>J. H. Garrard<pb/></p>
+<p>Kenty Penitentiary
+<lb/>Comm Report</p>
+  </body>
+ </text>
+</TEI>

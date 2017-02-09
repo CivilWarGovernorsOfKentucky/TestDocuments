@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2185"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">James W. Sweeny to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6822</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR14-423</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date when="1865-08-29">29 August 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency Thomas E Bramlette
+<lb/>The Governor of Kentucky</p>
+<p>The Petitioner James W Sweeney will respectfully represent that at the <date when="1865-06">June Term 1865</date>, of the City Court of Louisville: a forfeiture was taken in a Bail Bond which he had executed for the appearance of his brother Bluford Sweeny to answer to an Assault &amp; Battery committed upon Louis Sweydorf: in the sum of $200,00</p>
+<p>He states the Grand Jury returned an indictment against his brother: and the Same was set for trial at the last august Term of said Court <date when="1865-08-08">8<hi rend="sup">th</hi> day of August 1865</date>: Your petitioner states that on the day of the Trial. He took his brother to the Court room and being very busy He left him in the room, in the Custody of M<hi rend="sup">r</hi> Pat Dillen the Marshall of the said Courts: informing Mr Dillen about the matter:</p>
+<p>He states that afterwards the case was Called and his brother Bluford Sweeny not being acquainted with the usages of the Court did not answer and therefore the forfeiture was taken:</p>
+<p>Your Petitioner says that He in good faith did all that the law required of him in delivering his brother to the Custody of the Marshall of the Courts: Yet the Commonwealth now has a capias in the hands of the Marshall of said Court -- to compel the payment of the $200.00 on the forfeited Bond. Your Petitioner submits to your Excellency, and humbly prays that the same may be remitted<pb/>
+<lb/>to him: He will be compelled to pay the Costs and He is not able to pay now: by misfortune he has recently lost all he had by the fraudulent conduct of a partner in business:</p>
+<p>Very Respectfully
+<lb/><hi rend="underline">James W Sweeny</hi></p>
+<p>State &amp; Commonwealth of Kentucky
+<lb/>Jefferson County Sc<hi rend="underline"><hi rend="sup">t</hi></hi></p>
+<p>James W Sweeny states that the above petition is true:</p>
+<p>James W Sweeny</p>
+<p>Sworn to before me by James W Sweeny this <date when="1865-08-29">29<hi rend="sup">th</hi> August 65</date>.</p>
+<p>S S Aletrisness N, P, L, C,</p>
+<p>The undersigned Citizens respectfully join in the petition of Mr James W. Sweeny and hope your Excellency will grant the prayer of the Petitioner:</p>
+<p>Respectfully
+<lb/><milestone unit="column" n="2"/><cb n="1"/>J A Weathford
+<lb/>2 lieut 28 Ky vol. inft
+<lb/><hi rend="underline">Sam</hi><hi rend="underline"><hi rend="sup">l</hi></hi><hi rend="underline"> Griffith</hi>
+<lb/>J, C. Ellis
+<lb/>L T Cunningham
+<lb/>W. C. Vaughn
+<lb/><cb n="2"/>Louis <unclear>Zonegelorff</unclear>
+<lb/>Stephan Schwind
+<lb/>S M Hewett. late, Capt 2d Ky Battery
+<lb/>Geo. W. Johnston
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi>. N. Sinkhorn
+<lb/>Charles F Grimes
+<lb/>John L Treanor
+<lb/>Late L<hi rend="underline"><hi rend="sup">t</hi></hi> Col 5<hi rend="underline"><hi rend="sup">th</hi></hi> Ky. Vol. Infr
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Hipwell Late C." C." 35<hi rend="sup">t</hi>. Inf
+<lb/>Cha<hi rend="underline"><hi rend="sup">s</hi></hi> Fais.</p>
+  </body>
+ </text>
+</TEI>

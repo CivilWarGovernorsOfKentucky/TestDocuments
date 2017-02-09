@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-038-0030"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Stephen G. Burbridge to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG12514</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>Union Artillery, Navy and Marines Primary Source Documents ; Misc U.S.C.T. Primary Source Documents</collection>
+      <idno>Box 14, Folder BTRY C - 1st REGT LIGHT ARTILLERY 3nd BTRY OFFICERS</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Lexington, Fayette County, Kentucky</placeName>
+    <date when="1864-10-28">28 October 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Head-Quarters Military District of Kentucky,
+<lb/>Lexington, <date when="1864-10-28">Oct. 28<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date>.
+<lb/>Gov. Thos. E. Bramlette
+<lb/>Frankfort Ky
+<lb/>Gov.</p>
+<p>I take pleasure in recommending Lieut. J. A. M<hi rend="sup">c</hi>Reynolds 3<hi rend="underline"><hi rend="sup">d</hi></hi> Ky Lt. Arty. for promotion to the captaincy of his Battery Lieut. M<hi rend="sup">c</hi>Reynolds was with me through the late Morgan Raid in command of the Artillery, and behaved himself with gallantry &amp; managed his Guns with skill &amp; ability</p>
+<p>I am very respectfully
+<lb/>Your obot Sevt
+<lb/>S. G. Burbridge
+<lb/>Brvt. Maj Gen U. S. A.<pb/></p>
+<p>Head Qrs Mil Dist of Ky
+<lb/>Lexington <date when="1864-10-28">Oct 28" 1864</date><figure type="hr"/>
+<lb/>Burbridge S. G
+<lb/>Brevt Maj. Gen<hi rend="underline"><hi rend="sup">l</hi></hi> U. S. A.<figure type="hr"/>
+<lb/>Recomends Lt J. A_ McReynolds 3" Ky Light Artillery, for promotion to captaincy of his Battery -- <figure type="hr"/>
+<lb/>Write to Gen<hi rend="underline"><hi rend="sup">l</hi></hi> B -- what the Lt has represented about the <hi rend="str"><unclear/></hi>Strength of the Bat &amp; ask if a Capt could be mustered</p>
+<p>L B N<hi rend="sup">o</hi> 8 -- <date when="1864">1864</date> P. 151<figure type="hr"/> 
+<lb/>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> A. G. O. <date when="1864-10-28">Oct 28" 1864</date> -- </p>
+  </body>
+ </text>
+</TEI>

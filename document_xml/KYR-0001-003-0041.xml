@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-003-0041"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Lovell H. Rousseau to E. E. Potter</title>
+    <title level="a" type="parallel">CWG1558</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's Official Correspondence File, Military Correspondence, 1863-1867</collection>
+      <idno>BR5-69 to BR5-70</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Strawberry Plains, Jefferson County, Tennessee</placeName>
+    <date when="1863-12-30">30 December 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Head Q<hi rend="sup">rs</hi> 12' Ky Infty Vols'
+<lb/>Strawberry Plains Tenn
+<lb/><date when="1863-12-30">30<hi rend="sup">th</hi> Decr 1863</date>
+<lb/>Brig Genl E E. Potter
+<lb/>Chf. Staff Army of the Ohio
+<lb/>Sir</p>
+<p>Under the late order for recruiting "Veteran Volunteers I have been enabled to recruit at least three" fourths of the 12' Ky Infty Regiment with the Consideration that they be mounted and in order to ascertain whether this arrangement could be made or not I forwarded two applications one to the Adjt Genl of Ky and the other to the Secty of war through your Department Since which we have learned through Corps Head Q<hi rend="sup">rs</hi> that after the <date when="1864-01-05">5<hi rend="sup">th</hi> Jany 1864</date> the inducements for reenlisting are not so good and as it wil be imposible for us to learn by that time whether our population will be accepted or not I would respectfully ask what Steps is would be advisable to take as the Regiment will not reenlist as Infantry. If the above proposition is accepted under the fired inducements three fourths and verry probably the entire regiment will reenlist but under no other Circumstances</p>
+<p>Will you please to give us the necessary information as soon as convienent</p>
+<p>I am General very respectfully
+<lb/>Your Obt Servt
+<lb/>(Signed) L, H, Rousseau. Lt Col Comdg. Regt</p>
+<p>official
+<lb/>E. F. Hays
+<lb/>Adjt 12" ky V I.<pb/></p>
+<p>Hd. Q<hi rend="sup">rs</hi> 12" Ky Infty
+<lb/>Strawberry Plains <date when="1863-12-30">Decr 30/63</date>
+<lb/>R 52 D of O <date when="1864"><hi rend="underline">1864</hi> </date><figure type="hr"/>
+<lb/>Rosseau L H Lt Col
+<lb/>Comdg.<figure type="hr"/>
+<lb/>Submits statement in regard to his regiment reenlisting<figure type="hr"/>
+<lb/>E B 86 D of O <date when="1864">1864</date>
+<lb/>Hd Q<hi rend="sup">rs</hi> Dept of the Ohio
+<lb/>Knoxville <date when="1864-01-01">Jan 1<hi rend="sup">s</hi> 1864</date></p>
+<p>If this regt will reinlist as veteran Volunteers, I will mount them as Mounted Infty. I have in power to make it a cavalry Regt</p>
+<p>(Signed) J. G. Foster
+<lb/>M. G. Comdg.</p>
+<p>Hd Q<hi rend="sup">rs</hi> 23<hi rend="sup">rd</hi> A C
+<lb/><date when="1864-01-07">Jany 7<hi rend="sup">th</hi> 1864</date></p>
+<p>Respectfully refered thru Head Q<hi rend="sup">rs</hi> 3<hi rend="sup">rd</hi> Divis to C. V. -- 12'Ky Infty</p>
+<p>By command of Brig Genl J, D, Cox
+<lb/>(Signed) G M Bascom
+<lb/>Maj &amp; a a, G</p>
+<p>Forwarded to me by mistake and respectfy returned the 12' Ky is not in my command</p>
+<p>O W Wilcox
+<lb/>B. G.
+<lb/>Jany 2,
+<lb/>Recd (Hd Q<hi rend="sup">rs</hi> D O) <date when="1864-01-01">Jany 1<hi rend="sup">st</hi> 1864</date></p>
+  </body>
+ </text>
+</TEI>

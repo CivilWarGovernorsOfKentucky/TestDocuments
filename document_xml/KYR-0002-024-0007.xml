@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-024-0007"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">E. S. Dunster to James F. Robinson</title>
+    <title level="a" type="parallel">CWG12061</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Mitchell A Krock</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>1st - 20th Regiments Kentucky Infantry Primary Source Documents</collection>
+      <idno>Box 7, Folder 2nd Ky Infantry - Misc</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Washington, District of Columbia</placeName>
+    <date when="1863-05-15">15 May 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><note place="header">2 Inf 1</note>
+<lb/>Surgeon General's Office
+<lb/>Washington City, D.C.
+<lb/><date when="1863-05-15">May 15<hi rend="underline"><hi rend="sup">th</hi></hi> 1863</date></p>
+<p>Sir,
+<lb/>Official notification has been received at this office, of the following vacancies in regiments from your State.
+<lb/><table rend="rules">
+<row>
+	<cell>Asst. Surg</cell>
+	<cell>2<hi rend="underline"><hi rend="sup">nd</hi></hi> Ky. vice</cell>
+	<cell>W. L. Reed,</cell>
+	<cell>resigned</cell>
+	<cell><date when="1863-03-11">March 11<hi rend="underline"><hi rend="sup">th</hi></hi> 1863</date></cell>
+</row>
+<row>
+	<cell>" "</cell>
+	<cell>6<hi rend="underline"><hi rend="sup">th</hi></hi> " "</cell>
+	<cell>E. T. Long</cell>
+	<cell>"</cell>
+	<cell><date when="1863-03-11">" 1863</date></cell>
+</row>
+</table></p>
+<p>It is desirable that such of these vacancies as still exist, be filled as soon as may be consistent with the interests of the service.</p>
+<p>Very respectfully
+<lb/>Your obedient servant.
+<lb/>By order of the Surgeon General.
+<lb/><unclear><hi rend="underline">E S Dunster</hi></unclear>
+<lb/>Asst. Surgeon U.S. Army</p>
+<p>His Excellency
+<lb/>James F. Robinson.
+<lb/>Governor of Kentucky.
+<lb/>Frankfort. Kentucky.<pb/></p>
+<p>Genl French</p>
+<p>Surg. Gen<hi rend="sup">l</hi>
+<lb/>Washington
+<lb/>(D. C)</p>
+<p>Filed <date when="1863-05-26">May 26. 1863</date></p>
+  </body>
+ </text>
+</TEI>

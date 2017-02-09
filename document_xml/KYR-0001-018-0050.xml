@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-018-0050"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Beriah Magoffin, Captain, T. L. Burnett</title>
+    <title level="a" type="parallel">CWG8116</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Military Appointments, 1859-1862</collection>
+      <idno>MG6-144</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1861">1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Commission/Appointment</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>IN THE NAME AND BY THE AUTHORITY OF
+<lb/>The Commonwealth of Kentucky,
+<lb/><figure type="seal"><ab>KENTUCKY
+<lb/>UNITED WE STAND DIVIDED WE FALL</ab></figure>
+<lb/>BERIAH MAGOFFIN,
+<lb/>GOVERNOR OF SAID COMMONWEALTH,
+<lb/>To all who shall see these Presents, Greeting:</p>
+<p>Know Ye, That T. L. Burnett having been duly elected to the office of Captain, and that reposing special trust and confidence in the patriotism, valor, fidelity, and abilities of said Burnett, I do hereby commission him as CAPTAIN, with the rank of Captain, in the Kentucky State Guard to rank as such from the <date when="1861-05-18">18<hi rend="sup">t</hi> day of May, eighteen hundred and sixty one</date>. He is therefore carefully and diligently to discharge the duty of Said office, by doing and performing all manner of things thereunto belonging.</p>
+<p>And I do strictly charge and require all officers and soldiers under his command to be obedient to his orders as Captain; and he is to observe and follow such orders and directions, from time to time, as he shall receive from me or the future Governor of the Commonwealth of Kentucky, or the General or other superior officers set over him, according to the rules and discipline presecribed in the Military Laws of the Commonwealth of Kentucky. This commission to continue in force during the term of six years, or until a successor is elected.</p>
+<p><figure type="seal"><ab>SEAL OF KENTUCKY
+<lb/>UNITED WE STAND DIVIDED WE FALL</ab></figure></p>
+<p>In Testimony Whereof, I have caused these letters to be made patent, and the Seal of the Commonwealth to be hereunto affixed. Done at Frankfort, the <date when="1861-05-27">27<hi rend="sup">th</hi> day of May, in the year of our Lord one thousand eight hundred and Sixty one</date>, and in the 69<hi rend="sup">t</hi> year of the Commonwealth.</p>
+<p>B. Magoffin</p>
+<p>BY THE GOVERNOR:
+<lb/>Thos B Monroe Jr, <hi rend="italic">Secretary of State</hi>.<pb/>
+<lb/>OATH.<figure type="hr"/></p>
+<p>I do solemnly swear, that I will support the Constitution of the United States and the Constitution of this State, and be faithful and true to the Commonwealth of Kentucky, so long as I continue a citizen thereof, and that I will faithfully execute, to the best of my abilities, the office of Captain according to law; and I do further solemnly swear, that since the adoption of the present Constitution, I, being a citizen of this State, have not fought a duel with deadly weapons, within this State nor out of it, with a citizen of this State; nor have I sent or accepted a challenge to fight a duel with deadly weapons, with a citizen of this State; nor have I acted as second in carrying a challenge, or aided or assisted any person thus offending -- so help me God.</p>
+<p>T. L. Burnett</p>
+<p><hi rend="italic">Subscribed and sworn before me, a Justice of the Peace for </hi>Spencer <hi rend="italic">County, Kentucky, this</hi> <date when="1861-06-24">24<hi rend="sup">th</hi> <hi rend="italic">day of</hi> June, 1861</date>.</p>
+<p>J. J. Wood J. P. S. C
+<lb/><hi rend="italic">Justice of the Peace</hi>.</p>
+<p>I hereby resign the within commission
+<lb/>T. L. Burnett
+<lb/><date when="1861-09-19">Sept 19<hi rend="sup">th</hi> 1861</date></p>
+<p>accepted
+<lb/>B. Magoffin
+<lb/>Com<hi rend="sup">r</hi> in Chief</p>
+<p><date when="1861">1861</date></p>
+  </body>
+ </text>
+</TEI>

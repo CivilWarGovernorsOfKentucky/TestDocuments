@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0379"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">R. F. Caldwell to James W. Tate</title>
+    <title level="a" type="parallel">CWG2727</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Civil Appointments, 1859-1862</collection>
+      <idno>MG4-358</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Newport, Campbell County, Kentucky</placeName>
+    <date when="1862-03-05">5 March 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>R. H. CALDWELL,
+<lb/>R. F. CALDWELL.</p>
+<p>Banking House of Caldwell Brothers.
+<lb/>Newport, Ky <date when="1862-03-05">March 5<hi rend="sup">th</hi> 1862</date>
+<lb/>James W Tate, Esq
+<lb/>Ass<hi rend="sup">t</hi> Secy of State
+<lb/>Frankfort
+<lb/>Ky
+<lb/>Dear Sir</p>
+<p>I wish the appointment of Notary Public for Campbell County</p>
+<p>Enclosed please find $1. -- fee for commission</p>
+<p>I refer to M<hi rend="underline"><hi rend="sup">r</hi></hi> Baker of the Senate and M<hi rend="underline"><hi rend="sup">r</hi></hi> Webster of the House</p>
+<p>Yours Respectfully
+<lb/><hi rend="underline">R F Caldwell</hi><pb/></p>
+<p>Notaries Public<figure type="hr"/>
+<lb/><hi rend="underline">Com</hi><hi rend="underline"><hi rend="sup">d</hi></hi>.
+<lb/><date when="1862-03-07">Mar. 7. 1862</date></p>
+  </body>
+ </text>
+</TEI>

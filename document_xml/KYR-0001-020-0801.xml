@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0801"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Michael B. Johnson to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10269</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG19-261</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Lexington, Fayette County, Kentucky</placeName>
+    <date when="1861-03-07">7 March 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><date when="1861-03-07">March 7' 1861</date>
+<lb/>To his Excellency Governor Magoffin</p>
+<p>Your Petitioner Michael B. Johnson states that he is a citizen and resident of Lexington Ky and was a citizen and resident of this place in <date when="1859">Sept. 1859;</date> about which time he, with a view to make something with which to support his family, rented the booths on the Fair Grounds at Crab Orchard Ky; and during the Fair he opened these booths and endeavored to the best of his ability to have his business there conducted in an orderly manner. During the Session of the Lincoln Circuit Court, held shortly after said Fair, he was indicted in some four cases for selling liquor by the drink. Your Petitioner believed that if he attended Court and defended these cases, that he would get clear of them; but knowing that he could not attend and take his witnesses ^who lived in Lex;^ without considerable expense to him; he agreed to compromise the same by letting judgment go against him in two of the cases; all others to be dismissed. So judgment was entered against him for $20 -- in each case and this your Petitioner intended, and promised in good faith, to pay. An execution for the same was sent to this county but your Petitioner was unable to pay it and having no property out which it could be made, it was returned "no property."</p>
+<p>A Capias has been issued and is now in the hands of the Shff. of this County. Your Petitioner now state he is totally unable to pay the same. He representes to you that he has recently been unfortunate and been broken up in his business and that he has a family dependant upon him; and that unless the ^execution of the^ process, now in the hands of the Shff. is arrested by your order, it will be a source of real distress to him.</p>
+<p>He therefore respectfully asks you to remit said fines.</p>
+<p>M, B, Johnson</p>
+<p>Fayette County
+<lb/>State of Kentucky</p>
+<p>Sworn to before me this <date when="1861-03-06">6<hi rend="sup">th</hi> day of March 1861,</date></p>
+<p>C D Carr P J F Co<pb/></p>
+<p>Lincoln Circuit
+<lb/>M B Johnson
+<lb/>Two judgments $20
+<lb/>Is<hi rend="underline"><hi rend="sup">d</hi></hi>
+<lb/>Respite 12 mos</p>
+  </body>
+ </text>
+</TEI>

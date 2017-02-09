@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1973"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">J. M. Bullock to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG11441</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Bradley Strait</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG23-430</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Shelbyville, Shelby County, Kentucky</placeName>
+    <date when="1862-06-13">13 June 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Shelbyville, Ky 
+<lb/><date when="1862-06-13">June 13th 1862.</date>
+<lb/>Hon. B Magoffin 
+<lb/>D<hi rend="sup">r</hi> Sir, </p>
+<p>The Petition on the part of Moses Washburn herewith enclosed is signed only by a few, because it was thought under the circumstances unnesseary, as the former one was numerously signed -- If you recollect Judge J. P. Fone, our mutual friend, presented in person the other petition when you remarked. I will hold the rod over him for 12 months, it will be of service to him -- at the end of which time if he conducts himself well, I probably will remit all allowed by law -- Washburn tells me that he has drank nothing since his trial, last <date when="1861-03">March twelve months</date> &amp; indeed his appearance shows it I have virtually, as you know, acted in your present position &amp; I cant call to mind a solatary case then presenting itself that justified more entirely, clemency and Executive interfearance than this -- The cost which is heavy &amp; the attys fee of $90 besides is of itself excessive -- The Shff has returned "no property found" &amp; he is now living at the cost of the Comw<hi rend="underline"><hi rend="sup">th</hi></hi> I am satisfied that the neighbors would be much gratified at your<pb/>
+<lb/>remitting the fine -- &amp; I have no hesitancy myself in saying that it would be right, &amp; proper &amp; charitable &amp; a just exercise of your discription to do so. -- </p>
+<p>With sincere regard
+<lb/>I remain yours &amp;<hi rend="sup">c</hi>
+<lb/>J. M. Bullock </p>
+<p>Gov<hi rend="sup">r</hi>. B Magoffin</p>
+  </body>
+ </text>
+</TEI>

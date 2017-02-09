@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0617"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Curtis F. Burnam to Ephraim L. Van Winkle</title>
+    <title level="a" type="parallel">CWG4736</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR9-479</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Richmond, Madison County, Kentucky</placeName>
+    <date when="1864-03-31">31 March 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Richmond Ky.
+<lb/><date when="1864-03-31">31<hi rend="sup">st</hi> March 1864</date>.</p>
+<p>Dear Sir. At the late <date when="--03">March term</date> of our Circuit Court a Judgment was rendered for the Commonwealth against St. Clair Ogg for $25 -- for standing a Stud horse Hercules without first obtaining a license in the year <date when="1863">1863</date>. He had obtained and paid the Clerk for his license during the Season, but prior to obtaining it he had allowed his horse to serve serveral mares. For that service he had been paid nothing. His Stallion was stolen by the Rebels, and soon afterward he got his arm cut off by a threshing machine_ He is poor and I hope you will ask Gov Bramlette to remit the fine against him It is proper to do so.</p>
+<p>Your friend
+<lb/>Curtis F Burnam</p>
+<p>E. L. Vanwinkle Esq
+<lb/>Secretary of State<pb/></p>
+<p>Madison Cir Ct
+<lb/>vs
+<lb/>St Clair Ogg
+<lb/>$25 -- 
+<lb/>Remt<hi rend="sup">d</hi> <date when="1864-04-22">22d Apl/64</date></p>
+<p>100
+<lb/>6
+<lb/><hi rend="str">1</hi>6.00
+<lb/>3
+<lb/>18.00</p>
+<p>110</p>
+<p>100
+<lb/>30
+<lb/>3000
+<lb/><hi rend="str">1998</hi></p>
+  </body>
+ </text>
+</TEI>

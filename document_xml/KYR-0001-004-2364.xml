@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2364"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Mary Green to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7001</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR15-274 to BR15-275</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency
+<lb/>Thos. E. Bramlette
+<lb/>Govenor of Kentucky</p>
+<p>Your petitioner Mary Green would respectfully state that she was indicted by a Grand Jury in the Louisville City Court for Keeping a disorderly house. The Jury that tried the case imposed a fine of four hundred dollars $400.</p>
+<p>It was proven on the trial that petitioner kept a house of prostitution, &amp; That at the common law constituting a disorderly house, The verdict was rendered on the evidence alone.</p>
+<p><note place="left margin">Judgment for $400 at the September Term of the Louisville City Court</note></p>
+<p>Your petitioner is a poor woman &amp; unable to pay any part of the fine, &amp; if not relieved by your Excellency, imprisonment in the city work house will be the result.</p>
+<p>Your Excellency is respectfully refered to the Signers who unite in the prayer for a remission of the fine<pb/>
+<lb/>Your petitioner prays your Excellency to remit the fine</p>
+<p>Mary ^her X mark^ Green<pb/></p>
+<p>Louisville City Ct
+<lb/>vs
+<lb/>Mary <hi rend="str"><unclear/></hi>Green
+<lb/>$400,
+<lb/>Remit except $80 &amp; fees &amp; costs
+<lb/><date when="1865-09-16">16 Sept /65</date></p>
+  </body>
+ </text>
+</TEI>

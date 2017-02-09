@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0626"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">A. W. Graham to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10094</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG18-460</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Bowling Green, Warren County, Kentucky</placeName>
+    <date when="1861-02-26">26 February 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Bowlinggreen <date when="1861-02-26">Feby 26<hi rend="sup">th</hi> 1861</date>.
+<lb/>Gov Magoffin
+<lb/>Sir</p>
+<p>I have been informed that a petition will be presented to you asking the pardon of Rufus Jones convicted of Manslaughter at the last term of the Warren <hi rend="str">Cir</hi> Criminal Court. I did not hear the evidence on the trial &amp; of cause can say nothing on that subject. I know that his very aged grandfather, and his sisters and others of his relations are highly respectable and estimable citizens, and if you, upon examining the proof, (which it is said will be forwarded to you) come to the conclusion that it is a case in which you could feel justifiable in granting a pardon, I trust that the youth of Jones, and <hi rend="str">his</hi> the afflictions of his friends will plead in his behalf and induce the exercise of executive clemency.</p>
+<p>Very respectfully
+<lb/>A W Graham</p>
+<p>With the assent of Judge Graham, I subscribed to the foregoing</p>
+<p>A G Hobson<pb/></p>
+<p>Judge Graham &amp; Mr Hobson</p>
+  </body>
+ </text>
+</TEI>

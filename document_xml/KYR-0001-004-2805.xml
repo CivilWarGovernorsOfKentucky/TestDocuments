@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2805"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Nancy Smith to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7442</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR17-73</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date when="1865-12-11">11 December 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency Thomas E Bramlette The Governor of the State of Kentucky</p>
+<p>The undersigned Nancy Smith would respectfully represent to your Excellency that on the <gap/> day of <date when="1865-09">September 1865</date> She was indicted in the City Court of Louisville on a charge of Keeping a Disorderly house, and that on the <date when="1865-11-10">10<hi rend="sup">th</hi> day of November 1865</date>, said Indictment was heard and your petitioner was fined $100.<hi rend="sup">00</hi> &amp; Costs The petitioner says that the witnesses found that her house was reputed to be a Bawdy-house but they had never Known any truble to be made about, that no difficulties had ever taken place, in it, and that it was as quiet and peaceable house as any in the neighborhood. the only witnesses introduced were police-officers The Court held that if it was proven to be a Bawdy house that of itself was proof that it was a disorderly house:</p>
+<p>The petitioner states that she is a widow and poor and at the time the indictment was found She had taken her mother &amp; brother &amp; ^2 children^ and self into the Country and were living in the county, outside of the City<pb/>
+<lb/>She states that said fine &amp; costs is very heavy and She is unable to pay the same even if compelled to pay it it will cause her to suffer very much and she prays your Excellency to remit to her the Fine and will ever pray</p>
+<p>Respectfully
+<lb/><hi rend="underline">Nancy Smith</hi></p>
+<p>State of Kentucky
+<lb/>Jefferson Circuit Sct</p>
+<p>Nancy Smith says the above petition is true</p>
+<p>Nancy Smith</p>
+<p>Subscribed and sworn to Before me this <date when="1865-12-11">1<hi rend="str"><unclear/></hi>1 of December 1865</date></p>
+<p>J Cromwell P J</p>
+<p>H C Russell
+<lb/>T. Blitz
+<lb/>J. F.. Gelham
+<lb/>Th. A <unclear/>
+<lb/>V Beck
+<lb/>Cha<hi rend="underline"><hi rend="sup">s</hi></hi> J Vander<unclear/>
+<lb/>John Vetter
+<lb/>Mike <unclear/>
+<lb/>W<hi rend="sup">m</hi> H Silliman</p>
+<p>Louisville City Ct
+<lb/>vs
+<lb/>Nancy Smith
+<lb/>$100.
+<lb/>Remitted <date when="1865-12-13">13<hi rend="sup">th</hi> Dec 1865</date>
+<lb/>Remit</p>
+  </body>
+ </text>
+</TEI>

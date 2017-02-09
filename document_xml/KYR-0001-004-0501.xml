@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0501"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">James H. Bohannon to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG4620</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR9-298</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency Tho<hi rend="sup">s</hi>. E. Bramlette Governor of Kentucky</p>
+<p>Your Petitioner James Bohannon respectfully represent that on the <date when="1863-02-02">2 day of February 1863</date> he was fined fifty Dollars in the Police Court of Frankfort upon a charge of breach of the peace</p>
+<p>He States that on the <date when="--02-01">first day of Feby</date> (as the day before the trial) In is as required by Military Authority or Shelby County Ky to guard certain prisoners to Frankfort and that in obedience to the order he came with Said prisoners to Said City. That after he had discharged the duty he drank spiritous liquor to a greater extent than he ought to have done and without having any enmity toward the person at whose bar he drank he quarreled with Said person and having been ^previously^ furnished a pistol by the officer in Shelby County who required him to act as guard he pulled out the pistol having no intention to shoot with it whatever; and Some disturbance was created although no one was inferred. Your Petitioner is unable to pay the fine and will State that he regrets extremely that he suffered himself to be guilty of Said Conduct</p>
+<p>He prays for a remission of the fine fees and costs assessed.</p>
+<p>James. H. Bohannon</p>
+<p>We concur in the prayer of the Petitioner</p>
+<p>Henry Bohannon
+<lb/>Robert Johnson<pb/></p>
+<p>I certify that I was the prosecuting atto on the part of the City in this case and I think that it is a case that warrants the interposition of Executive Clemency. all the facts considered.</p>
+<p>Very Respectfully
+<lb/>W. H. Sneed atto
+<lb/>Pro tem</p>
+<p>John C. Boline
+<lb/>J. L. M<hi rend="sup">c</hi>Grivies</p>
+<p>Frankfort Police Court
+<lb/>vs
+<lb/>Petition of James Bohannon
+<lb/>Remit except fees &amp; costs
+<lb/>Tho E Bramlette
+<lb/>Breach Peace<figure type="hr"/>
+<lb/>$50
+<lb/><date when="1864-02-04">4<hi rend="sup">th</hi> Feby/ 64</date></p>
+  </body>
+ </text>
+</TEI>

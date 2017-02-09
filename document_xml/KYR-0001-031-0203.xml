@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-031-0203"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">J. LaFayette Gosling, Oath</title>
+    <title level="a" type="parallel">CWG7943</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Appointments by the Governor, Civil Appointments, 1862-1863</collection>
+      <idno>R1-182 to R1-283</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>New York City, New York County, New York</placeName>
+    <date when="1863-04-08">8 April 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>State of New-York,
+<lb/>City and County of New-York, } ss.</p>
+<p>I, HENRY W. GENET, CLERK of the City and County of New-York, and also Clerk of the Supreme Court, for the said City and County, being a Court of Record, DO HEREBY CERTIFY, That George G. Barnard before whom the annexed deposition was taken, was at the time of taking the same, a Justice of the Supreme Court for said City and County, duly elected and sworn, and that his signature <gap/> thereto is genuine, as I verily believe.</p>
+<p>In Testimony whereof, I have hereunto set my hand, and affixed the Seal of the said Court and County, the <date when="1863-04-08">8 day of April 1863</date></p>
+<p>H W Genet <hi rend="italic">Clerk.</hi>
+<lb/><figure type="seal"/><pb/></p>
+<p>State of New York
+<lb/>City and County of New York ss.</p>
+<p>J. Lafayette Gosling of said city being duly sworn says, that he will well and truly execute and perform all the duties of his station as Commissioner of Deeds for the State of Kentucky.</p>
+<p><hi rend="underline">J. Lafayette Gosling</hi></p>
+<p>Sworn to before me <date when="1863-04-08">April 8. 1863.</date></p>
+<p><unclear/> <unclear/>
+<lb/><unclear/><pb/></p>
+<p>New York<figure type="hr"/>
+<lb/>Oath
+<lb/>J. L. Gosling
+<lb/>Com<hi rend="underline"><hi rend="sup">r</hi></hi> of Deeds <date when="1863-04-13">Apr 13. 1863</date></p>
+  </body>
+ </text>
+</TEI>

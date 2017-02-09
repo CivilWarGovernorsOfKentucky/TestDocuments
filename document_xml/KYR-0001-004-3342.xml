@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-3342"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">A. J. Ogilvie et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG5461</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR42-186</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>McCracken County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency Thos. E. Bramlett Gov.. of Kentucky we the undersigned we are aquainted with the facts and Circumstances Establish her on trial of G. G. Tatman conviction in the M<hi rend="sup">c</hi>Cracken circuit court of Manslaughter we believe said Tatman guilty of the of the Killing of Heady and Respectfully but Earnestly remonstrate against your Excellency of pardoning him</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>L. Wood
+<lb/>Jos. G. Mansfield
+<lb/>G. R. Kelly
+<lb/>J S. Tomlinson
+<lb/><cb n="2"/>A. J. Ogilvie
+<lb/>T. W. Speir
+<lb/>W H Ogilvie
+<lb/>James Wilkins
+<lb/>J. S. Crawford
+<lb/>A W Carrady
+<lb/>J. J. Crawford
+<lb/>W. g. Crawford
+<lb/>C P Matlock
+<lb/>C c Averett
+<lb/>J B Baker
+<lb/>L. W.. Parker
+<lb/>A T Miers
+<lb/>T miers
+<lb/>W<hi rend="sup">m</hi> Hase
+<lb/>C E Bradley
+<lb/>T H Flours
+<lb/>W. R. Peal
+<lb/>C G Royster
+<lb/>S C Vaughan
+<lb/>E... W. Woodson
+<lb/>H Angler
+<lb/>C B Bunnles
+<lb/>S. Y. Haselwood</p>
+  </body>
+ </text>
+</TEI>

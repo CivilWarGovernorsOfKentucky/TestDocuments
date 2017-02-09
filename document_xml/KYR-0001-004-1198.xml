@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1198"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John H. Castham et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG5835</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR11-343</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency Thomas E Bramlete Govener of Kentucky Your petitioners would represent that at the last term of the Boyd Circuit court, held in <date when="1863-11">November 1863,</date> a judgment was rendered against Jabez Hold for Fifty-six <hi rend="str">Sixty-four</hi> dollars for Selling liquor to soldiers within five miles of a millatary Camp They further state that there was great contrarilty of opinion, among the witnesses whether the Camp was within five miles of the grocery kept by the said Hold, ^or not^ The said Hold had License at that time to sell liquor in small quantities and we do not believe that he intended to violate the Law as, there is great doubt about the distance from the Camp to the place where sold we therefore pray Your excellency to remit said fine</p>
+<p>John. H..Eastham S. B. C
+<lb/>C. L. M<hi rend="sup">c</hi>Connell J, B, C, C
+<lb/>James W Riley C, B, C, C<pb/>
+<lb/>H A Padge J P
+<lb/>Jasper Rawlins
+<lb/>Richard Adams J P
+<lb/>Laban T Moore</p>
+<p>Boyd Cir Ct
+<lb/>vs
+<lb/>J. Hold
+<lb/>$56 -- 
+<lb/>Tipling
+<lb/>Remit
+<lb/><date when="1864-09-24">24<hi rend="sup">th</hi> Sept/64</date></p>
+  </body>
+ </text>
+</TEI>

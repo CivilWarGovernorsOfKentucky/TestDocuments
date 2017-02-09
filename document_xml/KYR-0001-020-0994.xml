@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0994"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">J. A. Hagan et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10462</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG20-53</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>We whose names are hereto attached respectfully represent to his Excellency Govenor Magoffin that Francis W Downs ^is^ in the county Jail of Nelson County confined for the term of fifteen days from &amp; after the <date when="1861-03-30">30 March 1861.</date> for a Breach of the peace He has a wife &amp; one child depending upon his daily toil for support &amp; knowing Downs to be a clever man and this Breach of the peace being the only thing Whereof we his neighbors ever knew him to be guilty &amp; knowing that his family must Suffer on account of his imprisonment &amp; that the present time is all important with him to pitch his crop for the coming season, we respectfully ask that he be released &amp; his fine which is $15.00 be remitted He is a poor man &amp; $15.00 which to some persons would be insignificant is to him more money than he can spare from the support of his family -- we make this petition not at his request &amp; without his knowledge &amp; in order that he may be enabled to go home to his family where he is needed indeed</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>J A Hagan
+<lb/>george Ball
+<lb/>John R. geenwell
+<lb/>Joseph Boon
+<lb/>John B Hagan
+<lb/>Isaac Ball
+<lb/>Henry monarch
+<lb/>James W Burns
+<lb/>John Ball
+<lb/>Henry Howard
+<lb/>Charles mudd
+<lb/><unclear>E</unclear>dward Boon
+<lb/><cb n="2"/>Thomas A Bowling
+<lb/>Richard E <unclear/>
+<lb/>Joseph H Edlen
+<lb/>Stephen Wimsett
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> J Metcalf
+<lb/>Basil Avis
+<lb/>William Bartly
+<lb/>James P Ballard
+<lb/><unclear/> <unclear/>
+<lb/>John A Wimsatt
+<lb/>Robert Wimsatt
+<lb/>John L Cissel<pb/>
+<lb/><cb n="1"/>george W eaton
+<lb/>L W greenwell
+<lb/>James P geenwell
+<lb/>Silvester Parton
+<lb/>John C bell
+<lb/>Alexander Reid
+<lb/>James H Nalley
+<lb/><cb n="2"/>S Humphry
+<lb/>John <unclear>Maxwell</unclear><milestone unit="column" n="1"/><pb/></p>
+<p>Nelson J. P.
+<lb/>$15. &amp; 15 days impt.
+<lb/>F. W. Downs</p>
+<p>Remitted
+<lb/>B. M</p>
+<p>Iss<hi rend="sup">d</hi> <date when="1861-04-09">Apr 9. 1861</date></p>
+  </body>
+ </text>
+</TEI>

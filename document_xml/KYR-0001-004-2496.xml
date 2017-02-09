@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2496"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Eliza Jane Turpin to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7133</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR15-469</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1865-10-13">13 October 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency.
+<lb/>Thos. E. Bramlette Gov<hi rend="underline"><hi rend="sup">r</hi></hi> of Kentucky.</p>
+<p>Your Petitioner Eliza <hi rend="str">Ann</hi> Jane Turpin would respectfully represent that a Judgment was rendered against her at the present Fall Term of the Wayne Circuit Court, for $60; being charged <hi rend="str">with</hi> <hi rend="str">sellin</hi> with "Keeping a tipling house"</p>
+<p><hi rend="str">T</hi>She states, that she had some liquor, and was induced to sell a small quantity at one time, to the person who indicted her: She states she only sold once -- That she is very poor, That she had three sons in the Fedral service and four small children at home to be supported by her labor alone; That she has no property. <hi rend="str">money</hi>, but a little which has been accumulated by her own work since the death of her husband -- (That the prosecution was malicious)</p>
+<p>She says. if forced to pay the judgment, it will leave her penniless, and bring suffering to the four small children who now constitute her family, and dependant on her for food -- </p>
+<p>She ^Petitions^ asks Your Excellency to remit this fine and judgment. <date when="1865-10-13">Oct 13. 1865</date>.</p>
+<p>x. Eliza J ^her X mark^ Turpin</p>
+<p>Sworn to by Eliza Ann Turpin before me this <date when="1865-10-18">18<hi rend="sup">t</hi> day of Oct 1865</date>. -- </p>
+<p>x John L Sallee Clk</p>
+<p>We Citizens of Wayne County, Know the above applicant, Eliza Ann Turpin, and<pb/>
+<lb/>believe Your Excellency ought to extend to her the pardon and relief asked for -- </p>
+<p><milestone unit="column" n="2"/><cb n="1"/>We <hi rend="str">I</hi> concur in the prayer of the above &amp; foregoing Petition</p>
+<p><hi rend="underline">Fon T Fox</hi>
+<lb/>Sd. M. Sallee
+<lb/>J, S, Crutchfield
+<lb/>Jno G VanWinkle
+<lb/>Ja<hi rend="underline"><hi rend="sup">s</hi></hi> A. Crutchfield
+<lb/>W. Simpson
+<lb/>John D <unclear/>
+<lb/>John L Sallee clk
+<lb/>Micajah Phillips
+<lb/>J, E, Vickers
+<lb/><cb n="2"/><hi rend="underline">W. M</hi><hi rend="underline"><hi rend="sup">c</hi></hi><hi rend="underline">Kee. Fox</hi>
+<lb/>John W. Tuttle
+<lb/>Joseph E. Hay of Russell
+<lb/>John. W. Higginbotham
+<lb/>G,, M,, Hardwick
+<lb/>P. W. Hardin
+<lb/>G. H. Marcum
+<lb/>Darrell Kennede
+<lb/>Thomas. J. Caldwell
+<lb/>James, P, Kelly
+<lb/>B N Mills</p>
+<p><milestone unit="column" n="1"/>Wayne Cir Ct
+<lb/>vs
+<lb/>Eliza Jane Turpin
+<lb/>$60,
+<lb/>Tipling
+<lb/>Remit -- <figure type="hr"/>
+<lb/><date when="1865-10-21">21<hi rend="sup">st</hi> Oct /65</date>
+<lb/>No fee charged</p>
+  </body>
+ </text>
+</TEI>

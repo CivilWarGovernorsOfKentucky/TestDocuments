@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0334"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">James S. McHatton et al. to James F. Robinson</title>
+    <title level="a" type="parallel">CWG8786</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Governor's Official Correspondence File, Petitions for Pardons, Remissions, and Respites, 1862-1863</collection>
+      <idno>R4-38</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Gallatin County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency the Governor of Kentucky</p>
+<p>We the undersigned Citizens of the county of Gallatin State of Kentucky would respectfully represent your Exellency that at the last term of the Gallatin Circuit Court Charles Williams was fined twenty dollars and cost upon a charge of Gaming at the time of the s<hi rend="sup">d</hi> Trial the s<hi rend="sup">d</hi> Williams was absent had no atty and his plea of not guilty was not made he could not attend the court from the fact that he was engaged as pilot on a Visit in the United States Service on the Mississippi he says that he has not been guilty at any time of any description of gameing and never does engage in gameing of any sort from our knowledge of his well known moral character and varasity we believe his Statements and think he was not guilty and as the indictment was found upon the testimony of a Single witness we think the whole proceeding has Occurred by mistake</p>
+<p>We therefore ask that his fine to the Commonwealth be remitted</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>James,, S, M<hi rend="underline"><hi rend="sup">c</hi></hi>Hatton
+<lb/>Frank W. Bacon
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> F. Hilton
+<lb/>Thomas Sacre
+<lb/>D, P, Ginn
+<lb/>H, Sebree
+<lb/>Dr John T Robinson -- 
+<lb/>J H Gilbson
+<lb/><cb n="2"/>R L Ireland
+<lb/>L Graves
+<lb/>T. M. Sineback
+<lb/>Jn<hi rend="underline"><hi rend="sup">o</hi></hi> D Culliam
+<lb/>C W Farris
+<lb/>Jonathan Tyson
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> R Ermis
+<lb/>Ja<hi rend="sup">s</hi> Redman
+<lb/>W C Sleet<pb/></p>
+<p><milestone unit="column" n="1"/>Gallatin Cir, Ct<figure type="hr"/></p>
+<p>Pettn to remit fine of Chs Williams in Gallatin Circt</p>
+<p>$20. } Gaming</p>
+<p>I think upon the facts of this Pettn the story probability is that injustice has been done by the infliction of the force &amp; <unclear/> remit the same</p>
+<p>J F Robinson
+<lb/>Cha<hi rend="underline"><hi rend="sup">s</hi></hi> Williams
+<lb/>Iss <date when="1863-04-28">Apr 28. 1863</date></p>
+  </body>
+ </text>
+</TEI>

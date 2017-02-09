@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0882"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Commonwealth of Kentucky v. H. E. Read &amp;c, Judgment</title>
+    <title level="a" type="parallel">CWG5001</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Andrew P Patrick</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR10-353</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>LaRue County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Larue Circuit Court
+<lb/><date when="1864-05">May Term 1864</date>
+<lb/>Commonwealth of Ky Plff
+<lb/>vs } Forfeited Recogonizance 
+<lb/>H. E. Read &amp;c Defts</p>
+<p>The securities of H. E Read in his bail bond living in this county to wit, Saml, Wilson, &amp; W<hi rend="sup">m</hi>. P. Turpin having been duly summoned and failing to appear, it is adjudged that the Plff recover of said Defts the sum of Two Hundred Dollars and her costs herein expended and may have execution &amp;c and the remainder of this proceeding is continued for service of process on H. A. Coleman.</p>
+<p>A copy attest. 
+<lb/>Robt. D. Murray clk<pb/></p>
+<p>Commonwealth of Ky
+<lb/>vs } judgt.
+<lb/>H. E. Read &amp; <hi rend="sup">c</hi><figure type="hr"/>O. B. 6<hi rend="sup">th</hi> 329</p>
+  </body>
+ </text>
+</TEI>

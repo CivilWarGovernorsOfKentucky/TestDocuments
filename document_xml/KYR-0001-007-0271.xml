@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0271"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John R. Aubrey to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG1936</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Appointments by the Governor, Civil Appointments, 1863-1867</collection>
+      <idno>BR2-149</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Hudsonville, Hardin County, Kentucky</placeName>
+    <date when="1864-08-01">1 August 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Hardin County Ky
+<lb/>Hudsonville Po office
+<lb/>To his Excellency Thos. E. Bramblette
+<lb/>Governor of Kentucky.</p>
+<p>you will accept this as my resignation of the office of Justice Peace of Hardin county, District No. 5, and I recommend Willson L. South as my successor,</p>
+<p><date when="1864-08-01">August 1<hi rend="sup">st</hi> 1864</date>
+<lb/>Respectfully yours
+<lb/>John R. Awbrey</p>
+<p>I know Mr South, he is a true union man &amp; will make an excellent J P. Direct Com to Hudsonville Ky. Al. J. <unclear>Summerall</unclear><pb/></p>
+<p>Hardin Co J. P. Resignation Accepted <date when="1864-08-08">8th Aug/64</date>
+<lb/>W. L. South
+<lb/>appt<hi rend="sup">d</hi>
+<lb/><date when="1864-08-20">20<hi rend="sup">th</hi> Aug/64</date></p>
+  </body>
+ </text>
+</TEI>

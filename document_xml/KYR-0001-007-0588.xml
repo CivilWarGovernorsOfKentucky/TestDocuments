@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0588"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">William M. Wiley to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG2253</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Appointments by the Governor, Civil Appointments, 1863-1867</collection>
+      <idno>BR2-574 to BR2-575</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Indianapolis, Marion County, Indiana</placeName>
+    <date when="1865-10-20">20 October 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Indianapolis Ind
+<lb/><date when="1865-10-20">Oct 20" 65</date>
+<lb/>To his Excellency
+<lb/>The Governor of Kentucky
+<lb/>Frankfort
+<lb/>Dr Sir</p>
+<p>My commission as Commissioner of Deeds for Kentucky having nearly expired. I would respectfully request that the new commission issue to Luther R Martin of this City as other engagements will prevent my further continuance in the office.</p>
+<p>Yours Respectfully
+<lb/>W<hi rend="sup">m</hi> Y. Wiley
+<lb/>(over)<pb/></p>
+<p>Indianapolis Ind
+<lb/><date when="1865-10-20">Oct 20" 1865</date>
+<lb/>To his Excellency
+<lb/>the Governor of Kentucky
+<lb/>Dr Sir</p>
+<p>I am acquainted with Luther R Martin of this city &amp; believe him to be a competent person to discharge the duties of Commissioner of Deeds for your state</p>
+<p>Respectfully
+<lb/>O. P. Morton
+<lb/>Gov. of Ind'a<pb/></p>
+<p>Comr Deeds
+<lb/>Indiana
+<lb/>Luther R. Martin
+<lb/>com<hi rend="sup">d</hi>
+<lb/><date when="1865-10-23">23<hi rend="sup">d</hi> Oct 1865</date></p>
+  </body>
+ </text>
+</TEI>

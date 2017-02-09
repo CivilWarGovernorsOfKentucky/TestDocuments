@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2917"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Henry C. Burnett to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7554</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR17-242</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Cadiz, Trigg County, Kentucky</placeName>
+    <date when="1865-12-11">11 December 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Cadiz <date when="1865-12-11">Decr 11<hi rend="sup">th</hi> 1865</date>
+<lb/>To his Excellency Thos E Bramlette
+<lb/>Govenor of Kenty
+<lb/>Frankfort
+<lb/>Sir.</p>
+<p>I enclose your the letter of Honbl R T Petree recommending the remission of the fine agaisnt Charles Baker of this place. -- </p>
+<p>It is proper for me to add, that the case agst Baker was not ready for trial at the time he confessed Judgment and his Father being an old man, and quite infirm desired him to confess. -- Baker could not have been convicted of unlawful taking of property -- I know that he was a Soldier regularly in the Confederate Service and he had two witnesses who would have testified that he took the horse under written orders from his Colonel. Should you regard his case as meritorious and remit the fine, please enclose to me at this place. -- The Comlths Atty's feels, Clerk's and Sheriff's have been paid by the Father of Young Baker. The Judgment was rendered at the <date when="--11">Novr</date> Term of the Caldwell Circuit Court.</p>
+<p>I have the honor to be
+<lb/>very respectfully
+<lb/>Yr. obt. Servt
+<lb/>H. C. Burnett</p>
+  </body>
+ </text>
+</TEI>

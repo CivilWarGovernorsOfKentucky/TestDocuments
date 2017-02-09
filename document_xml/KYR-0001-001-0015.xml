@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-001-0015"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Thomas E. Bramlette, Proclamation by the Governor</title>
+    <title level="a" type="parallel">CWG0865</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's Official Correspondence File, Proclamations, 1863-1865</collection>
+      <idno>BR1-368 to BR1-368-1</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1865-05-16">16 May 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Proclamation/Legislation</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Proclamation by the Governor
+<lb/>Commonwealth of Kentucky
+<lb/>Executive Department</p>
+<p>Whereas The President and Cashier of the Commerical Bank of Ky have certified to me that the stockholders of said Bank at a ^regular^ meeting held at their Banking House in Paducah on the <date when="1865-03-04">4<hi rend="sup">th</hi> day of May 1865,</date> by resolutions unanimously adopted, accepted the provisions of the act of the General Assembly, "An act for the benefit of the Incorporated Banks of Issue of Kentucky," approved <date when="1865-02-22">22<hi rend="sup">nd</hi> February 1865</date> as an amendment of the Charter of said Bank,</p>
+<p>Now, therefore, I. Thomas E. Bramlette Governor of the Commonwealth of Kentucky, in pursuance of the provisions of Section 6 of said act, do proclaim and make known that the Commerical Bank of Kentucky has ceased to be a Bank of Issue for the period of three years from and after the <date when="1865-05-16">16<hi rend="sup">th</hi> day of May 1865,</date> and that after ninety days from this date the Notes and Bills of the Commercial Bank of Ky shall no longer circulate as money or currency.</p>
+<p>In Testimony Whereof I have hereunto set<pb/>
+<lb/>my hand, and caused the seal of the Commonwealth to be affixed. Done at Frankfort this the <date when="1865-05-16">16<hi rend="sup">th</hi> day of May AD 1865.</date> and in the 73<hi rend="sup">rd</hi> year of the Commonwealth.</p>
+<p><figure type="seal"/>Thos E Bramlette
+<lb/>By the Governor
+<lb/>E. L. VanWinkle
+<lb/>Secty of State</p>
+<p>By
+<lb/>Jas R. Page
+<lb/>Asst Secty<pb/></p>
+<p>Proclamation
+<lb/>Commercial Bank
+<lb/>issued <date when="1865-05-16">16<hi rend="sup">th</hi> May 1865</date></p>
+<p>Publish 10 days &amp; send bill to Bank for collection</p>
+  </body>
+ </text>
+</TEI>

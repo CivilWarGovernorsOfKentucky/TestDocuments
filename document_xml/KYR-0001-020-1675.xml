@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1675"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">W. J. Still to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG11143</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Andrew P Patrick</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG22-350</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Carlisle, Nicholas County, Kentucky</placeName>
+    <date when="1862-02-17">17 February 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Carlisle Nicholas County 
+<lb/><date when="1862-02-17">Febuary 17<hi rend="sup">th</hi> 1862</date>
+<lb/>To His Excellency Gov B. Magoffin</p>
+<p>Permit me to call your attention again to the forfeited <hi rend="underline">Bail Bond</hi> of W<hi rend="underline"><hi rend="sup">m</hi></hi> Ricketts Jr with his Father as his suriety. The respite given him will expire on the <date when="--03-01">1<hi rend="sup">st</hi> of next month</date> and if you could relieve Mr Ricketts altogether from the payment of the debt it certainly would meet with the approbation of nine tenths of the Citizens of this County. Mr Ricketts is far advanced in years his means are quite limited while he is left all most without any assistence to aid him upon his little farm to make living for his family. </p>
+<p>His son W<hi rend="underline"><hi rend="sup">m</hi></hi> that draged the old man into this trouble left soon after the shooting of <hi rend="underline">Brother</hi> and the report is that ^he^ has been Killed in some one of the battles recently fought in Missouri, While his last and only son left last fall and is at this time I am informed a souldier in the Confederate Army. Should the old man be compelled to pay this debt now -- while propreity of every description is reduced so ^in^ price it would sweep every thing from him to pay the debt and would leave him all most without any thing to live upon.</p>
+<p>Such being the facts of the case I hope your Honor will not with-hold the favor asked by his Neighbors &amp; friends. </p>
+<p>Respectfully your obt Servant
+<lb/><hi rend="underline">W J. Still</hi></p>
+  </body>
+ </text>
+</TEI>

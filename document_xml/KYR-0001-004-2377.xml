@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2377"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Commonwealth of Kentucky v. R. H. Buckley, Indictment</title>
+    <title level="a" type="parallel">CWG7014</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR15-297</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>New Castle, Henry County, Kentucky</placeName>
+    <date when="1865-09-16">16 September 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Henry Circuit Court
+<lb/><date when="1865-09"><hi rend="underline">Sept</hi> Term 1865</date>
+<lb/>Commonwealth of Ky
+<lb/>against } Indictment
+<lb/>R H Buckley Deft</p>
+<p>This day came the atty for the Comth also the atty for the deft who plead not guilty and to try the Issue Joined ten come a Jury to wit -- </p>
+<p>O J Krack John James Robt Cooper W<hi rend="sup">m</hi> Black Wiford Chilton E M Baskete James Pearce John Mahorney Joshua Sewell Robt Johnson Blaek Chilton &amp; John Clarke -- </p>
+<p>who were duly Elected tried and sworn and return into Court the following verdict</p>
+<p>We of the Jury find the defendent guilty and assess his fine at forty Dollars</p>
+<p>B Chilton Forman -- </p>
+<p>It is therefore considered by the Court that the Plff the Comth of Ky recover of R H Buckly the Sum of forty dollars the amt by the jury assessed and the cost herein Expended -- And thereupon came the atty for the Comth and in open Court released the Said Buckly from the payment of His part of the fine in this Case -- </p>
+<p>Copy Attst
+<lb/><hi rend="underline">Geo T Hamston</hi> <hi rend="underline">Ck H C C</hi>
+<lb/>New Castle Ky
+<lb/><date when="1865-09-16">Sept 16<hi rend="sup">th</hi> 1865</date><pb/></p>
+<p>Henry Cir Ct
+<lb/>vs
+<lb/>Comth of Ky.
+<lb/>vs } Copy order
+<lb/>R H Buckley<figure type="hr"/>
+<lb/>$<hi rend="str">5</hi>40.
+<lb/>Remitted <date when="1865-10-19">19<hi rend="sup">th</hi> Oct 1865</date></p>
+  </body>
+ </text>
+</TEI>

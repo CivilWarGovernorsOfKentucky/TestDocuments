@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0242"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">William Y. Wiley to Nathaniel Gaither, Jr.</title>
+    <title level="a" type="parallel">CWG2590</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Civil Appointments, 1859-1862</collection>
+      <idno>MG4-167 to MG4-168</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Indianapolis, Marion County, Indiana</placeName>
+    <date when="1861-11-02">2 November 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Indianapolis Ind <date when="1861-11-02">Nov 2,, "61</date>
+<lb/>Secretary of State
+<lb/>Frankfort Ken -- 
+<lb/>Dr Sir</p>
+<p>Being in receipt of Commission bearing date <date when="1861-10-30">Oct 30" 1861.</date> I herewith transmit my oath of office as "Commissioner of Deeds" for the State of Kentucky -- </p>
+<p>Yours Truly
+<lb/>William Y. Wiley<pb/></p>
+<p>State of Indiana
+<lb/>County of Marion
+<lb/>City of Indianapolis } ss</p>
+<p>Be it remembered that on this <date when="1861-11-02">second day of November A D 1861.</date> before me Luther R Martin Notary Public in and for the County and State aforesaid personally came William Y. Wiley personally to me known who being first by me duly sworn upon his oath says that he will well and faithfully execute and perform all the duties of his office of "Commissioner" of Deeds" for the State of Kentucky in Indiana -- </p>
+<p>William Y. Wiley</p>
+<p><figure type="seal"><ab>NOTARY PUBLIC SEAL
+<lb/><unclear>INDIANAPOLIS</unclear>
+<lb/>MARION COUNTY IND.</ab></figure></p>
+<p>Sworn to and subscribed before me the day and year above written Witness my hand and notarial seal -- </p>
+<p>Luther R Martin
+<lb/>Notary Public<pb/></p>
+<p>Indiana<figure type="hr"/>
+<lb/>Oath<figure type="hr"/>
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Y. Wiley
+<lb/>Com<hi rend="sup">r</hi>. of Deeds
+<lb/>Filed <date when="1861-10-05">Octo 5. 1861</date></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0051"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">James W. Crawford to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG2399</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Civil Appointments, 1859-1862</collection>
+      <idno>MG3-404</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Shelby County, Kentucky</placeName>
+    <date when="1861-01-14">14 January 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Shelby County Kentucky
+<lb/><date when="1861-01-14">Jany 14<hi rend="sup">th</hi> 1861 -- </date>
+<lb/>To His Excellency B Magoffin
+<lb/>Governor of Kentucky</p>
+<p>I hereby tender my resignation of the office of Justice of the Peace for the 4<hi rend="sup">th</hi> District of Shelby County Kentucky -- </p>
+<p>Ja<hi rend="sup">s</hi> W Crawford<pb/></p>
+<p>Shelby County
+<lb/>J. P.
+<lb/>J. E Sodousky
+<lb/>vice
+<lb/>J. W. Crawford
+<lb/>Dist N<hi rend="sup">o</hi> 4
+<lb/>Iss<hi rend="sup">d</hi> <date when="1861-01-22">Jany 22<hi rend="sup">d </hi>1861</date></p>
+<p>Resignation</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-018-0428"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John W. Finnell to Nathaniel Gaither, Jr.</title>
+    <title level="a" type="parallel">CWG8494</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Military Appointments, 1859-1862</collection>
+      <idno>MG7-46</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1862-08-08">8 August 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><figure type="seal"><ab>UNITED WE STAND, DIVIDED WE FALL.
+<lb/>KENTUCKY.</ab></figure>
+<lb/>Head-Quarters Kentucky Volunteers,
+<lb/>ADJUTANT GENERAL'S OFFICE,
+<lb/>Frankfort, <date when="1862-08-08">Aug 8. 1862</date>.</p>
+<p>Hon: Nat Gaither Jr
+<lb/>Sec State_</p>
+<p>The following Comms: are issd. &amp; delivered please record:
+<lb/><table rend="rules">
+<row>
+	<cell>Tho. J. Elliott</cell>
+	<cell>2 Lieut</cell>
+	<cell>dated</cell>
+	<cell><date when="1862-08-07">7</date></cell>
+	<cell>Aug</cell>
+	<cell>1862</cell>
+</row>
+<row>
+	<cell>John Lafon</cell>
+	<cell>" "</cell>
+	<cell>"</cell>
+	<cell><date when="1862-08-07">"</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+</row>
+<row>
+	<cell>A W Holman</cell>
+	<cell>" "</cell>
+	<cell>"</cell>
+	<cell><date when="1862-08-08">8</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+</row>
+<row>
+	<cell>Stephen E. Jones</cell>
+	<cell>1 "</cell>
+	<cell>"</cell>
+	<cell><date when="1862-08-08">"</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+</row>
+<row>
+	<cell>John R. M<hi rend="sup">c</hi>Clure</cell>
+	<cell>2 "</cell>
+	<cell>"</cell>
+	<cell><date when="1862-08-01">1</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+</row>
+<row>
+	<cell>Joseph M. Owens</cell>
+	<cell>Major</cell>
+	<cell>"</cell>
+	<cell><date when="1862-07-15">15</date></cell>
+	<cell>July</cell>
+	<cell>"</cell>
+</row>
+<row>
+	<cell>John Travis</cell>
+	<cell>2 Lieut-</cell>
+	<cell>"</cell>
+	<cell><date when="1862-07-15">"</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+</row>
+</table></p>
+<p>2 Lieut: Moses Higginbottom is dead (date of Com: is <date when="1861-11-05">Nov 5. 1861</date>)
+<lb/>Capt: Joseph M. Owens is promoted_ (date of ^Com:^ <date when="1861-11-18">Nov. 18. 1861</date>)
+<lb/>2 Lieut: John Travis is promoted (date of Com: <date when="1862-02-08">Feb. 8. 1862</date>)</p>
+<p>Resp<hi rend="sup">ly</hi>
+<lb/>John W. Finnell
+<lb/>Adj<hi rend="sup">t</hi> Gen<hi rend="sup">l</hi></p>
+  </body>
+ </text>
+</TEI>

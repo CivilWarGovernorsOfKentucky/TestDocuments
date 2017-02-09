@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-033-0051"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Edmund Rowe, Affidavit</title>
+    <title level="a" type="parallel">CWG1514</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Governor's Official Correspondence File, Apprehension of Fugitives from Justice Papers, 1862-1863</collection>
+      <idno>R3-85 to R3-86</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Ohio County, Kentucky</placeName>
+    <date when="1863-07-30">30 July 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Commonwealth of Kentucky
+<lb/>County of Ohio } Sct</p>
+<p>Edmund Rowe a citizen of the County &amp; State aforesaid states on oath that he has good reason to believe and does believe that in the County &amp; state aforesaid on the <date when="1863-07-22">22<hi rend="sup">nd</hi> day of July 1863</date> one Thomas Rice did feloniously &amp; wilfully &amp; with force rob one W<hi rend="sup">m</hi> P Render of a horse ^belonging to affiant^ and took said horse away from the possession of said Render ^&amp; from affiants possession^ and converted him to his own use. The said Rice is now in the State of Indiana in Spincer County &amp; the town of Rockfort and confined to Jail -- upon some charge against him in that County He has procured a warrant for his arrest which is now in the hands of the Sheriff of Ohio County Ky -- and he feels confident that<pb/>
+<lb/>an Indictment will be found against said Rice for the robbery aforesaid at the next Term of the Ohio Circuit ^Court^ Wherefore he prays the Governor of this State to demand said Thomas Rice from the Governor of Indiana and that such steps be taken as will cause the return of said fugative to this County</p>
+<p>Edmund Rowe</p>
+<p>Sworn to by Edmund Rowe before me this <date when="1863-07-30">30<hi rend="sup">th</hi> of July 1863</date></p>
+<p>D. S. Hill P J O C C</p>
+  </body>
+ </text>
+</TEI>

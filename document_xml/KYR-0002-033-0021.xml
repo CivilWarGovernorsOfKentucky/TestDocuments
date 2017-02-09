@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-033-0021"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Ambrose E. Burnside, Special Orders, No. 266</title>
+    <title level="a" type="parallel">CWG11572</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Andrew P Patrick</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>1st - 2nd Regiments Kentucky Cavalry Muster Rolls</collection>
+      <idno>Box 45, Bundle 1</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Cincinnati, Hamilton County, Ohio</placeName>
+    <date when="1863-07-15">15 July 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Order</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>HEAD QUARTERS, DEPARTMENT OF THE OHIO.
+<lb/><hi rend="italic">Cincinnati, Ohio</hi>, <date when="1863-07-15">July 15<hi rend="underline"><hi rend="sup">th</hi></hi> <hi rend="italic">1863</hi>.</date>
+<lb/>SPECIAL ORDERS, No. 266.</p>
+<p>4 " " " The resignation of 2<hi rend="underline"><hi rend="sup">nd</hi></hi> Lieutenant <hi rend="underline">W</hi><hi rend="underline"><hi rend="sup">m</hi></hi><hi rend="underline"> B. Kelly</hi>, 1<hi rend="sup">st</hi> Regiment Cavalry Kentucky volunteers, is, for the good of the service, hereby accepted to take effect on the seventeenth <date when="1863-07-17">(17) day of July 1863.</date></p>
+<p>BY ORDER OF MAJOR GENERAL BURNSIDE.
+<lb/>R. H. J Goddard
+<lb/>Acting Assistant Adjutant General. </p>
+<p>1.2.3.4.5.6.
+<lb/>date of Com. <date when="1862-11-13">Novr 13. 1862</date></p>
+<p>Govenor of Kentucky.<pb/></p>
+<p>1 Cavy<figure type="hr"/>
+<lb/>Lt. Kelly<figure type="hr"/>
+<lb/>resig:
+<lb/>Filed <date when="1863-07-23">July 23 1863</date></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2348"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">F. Riddell et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6985</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR15-251</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><hi rend="underline">Thomas J &amp; James A Akin</hi>
+<lb/>To his excellency Thomas E Bramlett
+<lb/>Govenor of Kentucky</p>
+<p>Your petitioners respectfully represent to your Excellency that on the <gap/> day of <date when="1864">1864</date> Thomas J &amp; James A Akin were indicted by the Grandjury for Boone county on a charge of <hi rend="str">Selling</hi> Keeping a tipling house in Boone County The defendants were brought to trial at the <date when="1865-04">aprile term 1865</date> of the circuit Court for said County and did consent that a ^joint^ judgment might go against them for Sixty Dollars which was thereupon entered and now stands of record in Said court</p>
+<p>Your petitioners State that the offence for which Said Akins were indicted was commited by them as follows to wit by selling a small quantity of Blackbery Cordial made by themselves. That at the time the cordial was sold they believed that the right to sell it and that there was no law against it And that So Soon as they found that it was a violation of the law they quit it The Akins are each poor men having no surplus meas, but<pb/>
+<lb/>are compelled to earn their living for themselves, &amp; families by their own personal labor, Your Petitioners believe it would be a great hardship for the ^said^ Akins to be forced to pay said judgment, under the circumstances and they respectfully present this case as one suitable fo the interposition of executive clemency by the remission of the fine before referrd to</p>
+<p>F Riddell
+<lb/>R. C. Green
+<lb/>Conty atty
+<lb/>Robt F Coleman</p>
+<p>County Judge I believe the state of facts are true and join in the prayer</p>
+<p>Lewis W. Webb County Clerk
+<lb/>James Calvert
+<lb/>M. B. Greene</p>
+<p>Boone Cir Ct
+<lb/>vs
+<lb/>Tho<hi rend="sup">s </hi>J &amp; J A Akin
+<lb/>$60,
+<lb/>Tipling
+<lb/>Remitted
+<lb/><date when="1865-09-18">18<hi rend="sup">th</hi> Sept/65</date></p>
+<p>Sent for fee <date when="--09-09">9 Sept</date></p>
+  </body>
+ </text>
+</TEI>

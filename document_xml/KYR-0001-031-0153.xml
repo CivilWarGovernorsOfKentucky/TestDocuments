@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-031-0153"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">H. F. Turner et al. to James F. Robinson</title>
+    <title level="a" type="parallel">CWG7893</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Appointments by the Governor, Civil Appointments, 1862-1863</collection>
+      <idno>R1-208 to R1-209</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Henderson, Henderson County, Kentucky</placeName>
+    <date when="1863-02-13">13 February 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Henderson Ky
+<lb/><date when="1863-02-13">Feby 13<hi rend="underline"><hi rend="sup">th</hi></hi> 1863</date>
+<lb/>To his Excellency
+<lb/>Gov Robinson -- 
+<lb/>Dear Sir -- </p>
+<p>Some time last Month -- the Office of Justice of the peace for the 5<hi rend="underline"><hi rend="sup">th</hi></hi> district in this county was vacated by the resignation of S S Sizemore -- A petition was sent to your excelllency to appoint P. H. Lockett -- Since then we have had no acting Justice, in this district, that is one who keeps an office for that purpose -- </p>
+<p>Our county Judge has been absent for a week &amp; expect to be absent for two more weeks<pb/>
+<lb/>so that we are really in want of such an Officer -- Subdivision 2 Sec 5 Chap 32 of statutes gives you the power to appoint if you have not already done so -- Your early attention to fillilng said vacancy would confer a favor upon the people of this district.</p>
+<p>Yours most truly
+<lb/><hi rend="underline">H. F. Turner</hi>
+<lb/><hi rend="underline">Y. E. Walken</hi> Co Judge Pro Tem
+<lb/>Sol. S. Sizemore Const
+<lb/><hi rend="underline">Y, E, Allison</hi> Cstn
+<lb/>Adam Rankin C. H. C. C.<pb/></p>
+<p>Henderson Co<figure type="hr"/>
+<lb/>J. P.
+<lb/>Dist N<hi rend="sup">o</hi> 5
+<lb/>P. H. Lockett
+<lb/>Iss <date when="1863-02-17">Feby 17. 1863</date></p>
+  </body>
+ </text>
+</TEI>

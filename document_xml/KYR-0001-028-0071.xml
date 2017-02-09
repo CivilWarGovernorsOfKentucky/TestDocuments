@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-028-0071"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Thomas C. Mercer to James F. Robinson</title>
+    <title level="a" type="parallel">CWG7726</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Appointments by the Governor, Military Appointments, 1862-1863</collection>
+      <idno>R2-216 to R2-217</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date when="1863-04-02">2 April 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Gen<hi rend="sup">l</hi> Hospital No 13
+<lb/>Louisville <date when="1863-04-02">April 2<hi rend="sup">nd</hi> 1863.</date>
+<lb/>To his Excellency
+<lb/>Gov Robinson
+<lb/>Sir</p>
+<p>Permit me to present to your notice, for recommendation for examination before the State Board, for Asst Surgeon in the Army M<hi rend="sup">r</hi>. James A Post of this city. He is a young man of great promise and of unimpeachable moral conduct.</p>
+<p>He has been under my administration for nearly six months, during the entire time, he has evinced the most exemplary and untiring industry, and ability.</p>
+<p>I have no wish to achieve in this matter, but to improve the medical Department of the Army, which should be the first aim of all the true followers of medical science.</p>
+<p>I trust you will present his claims to the State Board of Examiners, and allow him to be tried as to his professional attainments and merits. I honestly believe that he will do credit to himself and your recommendation, and that he will achieve for the service as much or more good, than many of the older members of the profession now under orders.</p>
+<p>Very Respecfully your Obt sert.
+<lb/>Tho<hi rend="sup">s</hi> C. Mercer
+<lb/>Surg in chge.<pb/></p>
+<p>Doct Thos C. Mercer recommends Jas A Post for exam as Asst Surgeon
+<lb/>Recommendation made <date when="1863-04-04">Apr 4. 1863</date></p>
+  </body>
+ </text>
+</TEI>

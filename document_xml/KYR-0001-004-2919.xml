@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2919"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Bonta to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7556</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR17-244 to BR17-245</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Mercer County, Kentucky</placeName>
+    <date when="1865-12-15">15 December 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency Thomas E Bramlette Govenor of Kentucky;</p>
+<p>Your petitioner John Banta, states that at the <date when="1863-10">October term 1863</date> of he Mercer Circuit he was tried on an indictment charging him with keeping a tipling house and was fined $60 and costs -- He states the fact to be, and such was the proof, that he had no license to keep a tavern or sell liquor; but he had whiskey at his house which he kept for his own use and a ^<hi rend="str"><unclear/></hi>man living in his^ neighborhood <hi rend="str">his</hi> by the name of Charles Catlett having a sick wife came to the house of your petitione as often as twice to purchase a pint of whiskey for the use of his sick wife which your petitioner sold to him, although he had no license to sell, but being poor he could not afford to give his liquor away -- This was the whole proof against petitioner and to this extent only he states that he did not comply with the law -- He states that he has replevied the fine and will have to pay it soon unless Your Excellency will remit it, which he most respectfully petitions your Excellency to do -- He says the foreging statements are true -- </p>
+<p>John Bonta</p>
+<p><stamp type="revenue"/><stamp><unclear/></stamp></p>
+<p>Subscribed &amp; sworn to before me this <date when="1865-12-15">15<hi rend="underline"><hi rend="sup">th</hi></hi> day of December 1865</date></p>
+<p>Richard Board C, M, C, C<pb/></p>
+<p>We the undersigned citizens of Mercer County would state that Your petitioner on the opposite page John Banta, is a man of good character and we think it would be an act of justice to him to remit the fine mentioned by him -- ; We join with him in the petition to your Excellency to remit it</p>
+<p>Richard Board clk
+<lb/>Mercer Circuit Court
+<lb/>Tho<hi rend="sup">s</hi> Edwards P J M C C
+<lb/>Richard F Connor D C
+<lb/>John G. Kyle
+<lb/>James D Hardin
+<lb/>E. Low M. <unclear/>T. H<unclear/>
+<lb/><hi rend="underline">J. W. Cardwell</hi>
+<lb/>A G Kyle<pb/></p>
+<p>Mercer Cir Ct
+<lb/>vs
+<lb/>John Bonta
+<lb/>$60
+<lb/>Tipling
+<lb/>Remitted
+<lb/><date when="1866-01-15">15 Jany/66</date>
+<lb/>Remit</p>
+  </body>
+ </text>
+</TEI>

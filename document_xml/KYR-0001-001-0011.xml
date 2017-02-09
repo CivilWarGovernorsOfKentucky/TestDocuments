@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-001-0011"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Thomas E. Bramlette, Proclamation of the Governor</title>
+    <title level="a" type="parallel">CWG0861</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Joshua D Farrington</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's Official Correspondence File, Proclamations, 1863-1865</collection>
+      <idno>BR1-355A</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1863-11-04">4 November 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Newspaper Article</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><hi rend="bold">Proclamation of the Governor.</hi><figure type="hr"/></p>
+<p>The President's call for 300,000 volunteers, to serve three years or during the war, to fill up the old regiments, makes the allotment to Kentucky of 12,000 to be raised.</p>
+<p>This call must be met, either by volunteers, or by draft, at an early day. The <date when="1864-01-05">5th of January</date> is set by the President as the time of ordering the draft. This will give time for Congress to repeal the $300 exemption.</p>
+<p>Volunteers will receive the liberal bounty and increased pay offered by the Government; the conscript will not. Volunteers select their own company and regiment -- the conscript will be assigned without regard to his wishes. The volunteer will be honored by his companions in arms and by his country -- the conscript will not.</p>
+<p>Recruiting officers will be detailed from the various regiments and assigned their recruiting posts by the Adjutant General. The proportion due from each connty, to equalize the service from the commencement of the war, will be made known by the Adjutant General, and notice thereof given. Each county will be required to furnish its allotment either in volunteers or conscripts.</p>
+<p>Recruiting for the twelve months service will cease with the authorities heretofore given, so soon as the regiments forming are filled. </p>
+<p>Let no man say he would volunteer if it were for defense of the State or to serve in the State. Facts answer such declarations. For months you have been called on for such service, and failed to respond. This service is now closed to you. </p>
+<p>Kentucky is now, and must continue to be, exposed so long as there are rebel armies in the field. Guerrilla raids will cease when the rebel armies are broken up. The only security to your State against invasions and raids, is the destruction of the rebel armies. Were our old regiments full even to the minimum, the days of rebellion would be numbered, and but few. The true defense of your State therefore is by filling the old regiments now in the field. This will give a crushing force, which must soon sweep the rebel armies from the field. </p>
+<p>It's better for you, and for the service that you enlist in the old regiments. It secures you from much of the dangers of camp and field, and greatly increases your efficiency as a soldier. These regiments are now historic. They are ennobled by deeds of brave suffering and lofty heroism. Their banners bear inscriptions of living memories. By volunteering you will become a sharer in in those living memories and historic glories. If you would preserve the honorable name of you county, volunteer. If you would not humiliate your noble companions in arms, volunteer. If you would save your homes and State from desolation, and your county from ruin volunteer. If you would not shame the memory of your fathers, volunteer. Remember that Kentucky has never waited for a draft. Kentucky patriotism is not constrained, but is the voluntary homage of loyalty to the Government of our fathers. It is the inner voice of love to our free institutions, which voluntarily responds to the call for defense of the priceless heritage. Frame no excuses -- the call admits of none. Kentucky will meet her allotment. It is noble to meet it voluntarily. Look to the honor of your respective counties -- for equality will be enforced. </p>
+<p>The defense of your homes, of your State, your Government, your liberties; the vindication of your honor, the veneration for the memories of your fathers ; all the cherished hopes of the future, urge you to a prompt, voluntary response to this call to duty. Kentuckians, who will hesitate? We shall see. </p>
+<p>THOS. E. BRAMLETTE.
+<lb/>By the Governor:
+<lb/>E.L. VANWINKLE, <hi rend="italic">Sect'y of State</hi>.
+<lb/><date when="1863-11-04">Nov. 4, 1863</date>-tJ5.<pb/></p>
+<p>Proclamation calling for 12,000 Volunteers
+<lb/>issued <date when="1863-11-04">4<hi rend="sup">th</hi> Nov 1863</date></p>
+  </body>
+ </text>
+</TEI>

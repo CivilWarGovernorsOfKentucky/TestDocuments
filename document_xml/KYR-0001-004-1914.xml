@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1914"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Lee Chambers et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6551</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR14-28</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1865-05-06">6 May 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency Thomas E Bramlette
+<lb/>Govener of Kentucky</p>
+<p>The undersigned would respectfully represent that they as Jurors in the case of Comwt vs Tho<hi rend="sup">s</hi> Woodward. charged with the murder of Baker, <hi rend="str"><unclear/></hi>found the said Woodward guilty of manslaughter and sentenced him to two Years confinement in the penitentiary. They state that the evidence was conflicting and they have since learned that said Woodward was industrious sober man, with a helpless family: and they pray your Excellency to pardon him: said Verdict was rendered in the <date when="1865-05-04">4<hi rend="sup">th</hi> day of May 1865</date></p>
+<p>Respectfully
+<lb/><milestone unit="column" n="2"/><cb n="1"/>Lee Chambers D C Jeff cir ct
+<lb/>W K Thomas J J C
+<lb/><hi rend="str">E</hi>. <hi rend="str">L</hi>. </p>
+<p>State of Kentucky</p>
+<p>I James P Chambers Clerk of the Jefferson Circuit Court certify that the persons whose names are hereto signed were of the jury in case of Comwth vs Thos Woodward convicted of manslaughter at this term <date when="1865-05-06">May 6 1865</date></p>
+<p>Att J P Chambers
+<lb/>E. L. Stoll
+<lb/><cb n="2"/>W<hi rend="underline"><hi rend="sup">m</hi></hi>. K. Allan
+<lb/>foreman -- 
+<lb/><hi rend="underline">W</hi><hi rend="underline"><hi rend="sup">m</hi></hi><hi rend="underline">. Grubb</hi>
+<lb/>R. W. Tompkins
+<lb/>Ch S. Robards
+<lb/>E L Dorsy
+<lb/>W S Conahey
+<lb/>W<hi rend="sup">m</hi>. Stevens
+<lb/>A Campbell
+<lb/>L A Bartels
+<lb/>N. Gwynn</p>
+  </body>
+ </text>
+</TEI>

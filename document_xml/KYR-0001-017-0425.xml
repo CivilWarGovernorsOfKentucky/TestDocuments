@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0425"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">W. W. Pope to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG2773</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Civil Appointments, 1859-1862</collection>
+      <idno>MG4-419</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1862-03-26">26 March 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Gov Beriah MaGoffin
+<lb/>Frankfort Ky</p>
+<p>Sir A vacancy haveing occured in the office of Justice of the Peace in District N<hi rend="sup">o</hi> 1 Knox County inconsequence of my resignation as a Justice in said District, I would most respectfully recomed to your Excellcy O P Herndon. as worthy honest and competent to fill said vacancy and hope you will commission him as such The vacancy in District N<hi rend="sup">o</hi> 8 for which you have heretofore commissd John Bright &amp; James <unclear>Worn</unclear> was caused by the resignations of William Carnes and A J Cope</p>
+<p>Very Respectfully
+<lb/>W W Pope
+<lb/>Presiding Judge of
+<lb/>Knox County Ky
+<lb/>Barbourville
+<lb/><date when="1862-03-26"><hi rend="underline">March 26" 1862</hi></date><pb/></p>
+<p>Knox Co<figure type="hr"/>
+<lb/>J. P.
+<lb/>Dist No
+<lb/>Iss<hi rend="sup">d</hi> <date when="1862-04-24">Apr. 24. 1862</date><figure type="hr"/></p>
+<p>Barbourville Ky
+<lb/><stamp>PAID
+<lb/>3</stamp>
+<lb/><date when="1862-03">March 1862</date><figure type="hr"/></p>
+<p><hi rend="underline">Gov</hi>. Beriah MaGoffin
+<lb/>Frankfort
+<lb/>Kentucky</p>
+<p>Issue Commission
+<lb/>B. M</p>
+  </body>
+ </text>
+</TEI>

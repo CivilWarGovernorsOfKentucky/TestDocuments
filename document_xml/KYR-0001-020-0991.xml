@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0991"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Talton E. Walker et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10459</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG20-50</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Richmond, Madison County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency
+<lb/>Hon. Beriah Magoffin</p>
+<p>The undersigned would respectfully represent that at some time in <date when="1860">1860</date> a young man, a friend and neighbor of Talton E Walker the petitioner, called on him &amp; spent the night with him, and left there a pistol; he afterwards requested the petitioner to bring it to him in Richmond which he did. Not wishing to carry it in his hand he put it in his pocket &amp; carried it to Town and just before he delivered it up, it was seen by the witness William H Smith who indicted him at the <date when="1860-09">September</date> term of the Madison Circuit Court &amp; on the <gap/> day of <gap/> during the present <date when="1861-03">March</date> Term of said court. He was convicted by confession of Judgment ^in the sum of $50^ &amp; believing it to be a case worthy of Executive Clemency would recommend to your Excellency a remission of the fine against said Walker</p>
+<p>Talton E Walker</p>
+<p>Bradley &amp; Billingsly
+<lb/>W<hi rend="sup">m</hi> Quincy Davis
+<lb/>R. G. Burton
+<lb/>W<hi rend="sup">m</hi>. Holloway
+<lb/>W M Stone
+<lb/>W. M. Irvine<pb/></p>
+<p>Madison Cir. Ct</p>
+<p>Remitted
+<lb/>B. M</p>
+<p>$50 } Weapons
+<lb/><hi rend="str">F</hi>T. E Walker</p>
+<p>Iss <date when="1861-04-01">Apr 1. 1861</date></p>
+  </body>
+ </text>
+</TEI>

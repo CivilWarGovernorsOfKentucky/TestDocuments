@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-2064"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Lucian Anderson and A. R. Boon to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG9140</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG24-94 to MG24-95</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Mayfield, Graves County, Kentucky</placeName>
+    <date when="1862-07-15">15 July 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Mayfield <date when="1862-07-15">July 15<hi rend="sup">th</hi> 1862</date>
+<lb/>Gov MaGoffin,</p>
+<p>At the <date when="1861-02">February term 1861</date> of the Graves Equity &amp; Criminal Court a Judgement was rendered on a recognizance taken before a Justice of the peace of the county for the appearance of one <unclear>Davies</unclear> Powers to answer any presentment which the grand Jury might find against him for a misdemeanor that Judgement we rendered against Alford <hi rend="str">Lee</hi> Lee who was the surety of Powers -- Lee is an honest upright good man but is in very reduced circumstances, the execution is now in the hands of the Sheriff &amp; what little property he has will be sacrificed unless. the Judgment is released -- Powers had before the Judgt left the state &amp; gone over to Tennessee in an adjoining county to this &amp; Lee intended to have him present at the <date when="1862-08">August</date> term succeeding the term of which the Judgt was rendered but these difficulties came on the County &amp; Powers went into the Army<pb/>
+<lb/>&amp; left Lee to pay the Judgt which is Two Hundred Dollars we hope you will interpose in the case in behalf of Mr Lee as we feel that it is a case which calls for Executive interposition</p>
+<p>Respectfully Yours
+<lb/>Lucian Anderson
+<lb/>A R Boon</p>
+<p>P S.
+<lb/>If the Judgement is released enclose to me at this place as Lee resides in South part of the County where there is no mail or post office</p>
+<p>Lee Anderson<pb/></p>
+<p>Graves Eq &amp; Crim Ct
+<lb/>For Recog
+<lb/>Alfred Lee</p>
+<p>Remission Iss<hi rend="sup">d</hi> <date when="1862-07-22">July 22 1862</date></p>
+<p>Remitted B. M</p>
+  </body>
+ </text>
+</TEI>

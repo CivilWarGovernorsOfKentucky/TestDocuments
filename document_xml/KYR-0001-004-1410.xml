@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1410"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Charles H. Meyer to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6047</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR12-195 to BR12-196</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date when="1864-12-15">15 December 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Louisville Jail
+<lb/><date when="1864-12-15">Dec<hi rend="sup">r</hi> 15<hi rend="sup">th</hi>. 1864</date>
+<lb/>To His Excellency,
+<lb/>The Governor of Kentucky:</p>
+<p>Your petitioner, Charles H, Meyer, humbly and respectfully states that he is a young man, now in the 26 year of his age; that on the <date when="1864-11-29">29<hi rend="sup">th</hi> Nov<hi rend="sup">r</hi>, 1864,</date> an indictment was returned in the Jefferson Circuit Court against him, for obtaining money, about $46.<hi rend="sup">00</hi>, from M<hi rend="sup">r</hi> J. B. Walker, under false pretences, committed by your petitioner obtaining the money from M<hi rend="sup">r</hi> Walker and giving him a due bill therefor, signing thereto the names "N &amp; W. J Smith by Cha<hi rend="sup">s</hi> H. Meyer"; your petitioner representing himself as having authority so to sign.</p>
+<p>Upon this indictment, the Jury on the <date when="1864-12-07">7<hi rend="sup">th</hi> day of Dec<hi rend="sup">r</hi>, 1864,</date> found your petitioner guilty, fixing his time of confinement in the State Penitentiary at one year; in conformity with which, sentence has been passed.</p>
+<p>Your petitioner admits that he did get the money and that he therein violated the law; he sees the error of his way, and, while sincerely repenting, admits that the sentence against him is just.</p>
+<p>He hopes, however, that your Excellency<pb/>
+<lb/>may find it consistent with your duty to let "mercy season justice"; and he, therefore, humbly and penitently prays that Executive clemency may be exercised towards him, and he be pardoned, released from confinement and returned to his family and friends. Yet, whether pardoned or not, your petitioner has resolved that he will never hereafter, Knowingly violate the law; and to aid him in carrying out his resolve, he now sincerely prays the aid of divine Providence</p>
+<p>Respectfully,
+<lb/>Cha<hi rend="sup">s</hi>. H. Meyer</p>
+  </body>
+ </text>
+</TEI>

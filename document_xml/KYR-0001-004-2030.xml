@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2030"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">W. A. Ronald to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6667</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR14-195 to BR14-196</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Hon Thos. E. Bramlette
+<lb/>Govenor of Kentucky</p>
+<p>We the undersigned would respectfully state, that at the <date when="--10">October Term</date> of the Jeff Circuit Cout, Mary Holmes f. w. c, &amp; Sarah Robinson f w c, were convicted upon a charge of Grand Larceny for one year. They have already served more than half the term. We think from the circumstances of the case that Executive Clemency would be rightfully bestowed if they were Pardoned. We therfor respectfully ask your Excellency to grant each one of the parties named a pardon &amp; we will ever pray &amp;c</p>
+<p>W. A. Ronald) Sheriff<pb/>
+<lb/>Dear Governor</p>
+<p>I do hope you will pardon Mary Holmes and Sarah Robinson. I regret that I ever allowed them to be sent to the penitentiary.</p>
+<p>resptly &amp;c
+<lb/>P. B. Muir</p>
+<p>and I regret that I prosecuted them</p>
+<p>Martin Bijur<pb/></p>
+<p>Jefferson Cir Ct
+<lb/>vs
+<lb/>Mary Holmes &amp; Sarah Robinson
+<lb/>f W C.
+<lb/>Pardon<figure type="hr"/>
+<lb/><date when="1865-06-29">2<hi rend="str">8</hi>9 June/<hi rend="underline">65</hi></date></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0114"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Dorsey Plummer et al. to James F. Robinson</title>
+    <title level="a" type="parallel">CWG8566</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Governor's Official Correspondence File, Petitions for Pardons, Remissions, and Respites, 1862-1863</collection>
+      <idno>R3-176</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Foster, Bracken County, Kentucky</placeName>
+    <date when="1862-11-21">21 November 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Foster Kentucky <date when="1862-11-21">Nov 21<hi rend="sup">st</hi> 62</date>
+<lb/>To the Honorable Govenour of State of Kentucky</p>
+<p>We the undersigned citizens of Bracken and Pendleton Countyes do pray your honor and Excellency to remit a fine of thirty dollars that was assest against Washington Shaver on the account of said Shaver being present when a few soldiers was Insulted by a Secesh, the Soldiers rocked him and his old tobacco house, the Secesh warranted the Soldiers and could not do any thing with them He then pitched his Spite on Shaver and warranted him and proved by two Secesh that Shaver told the Soldiers to continue to rack the Secesh, Shaver Swears he did not, the Jury was ten in number they was all Secesh and Sothern Sympathisers Except three the Secesh in our neighborhood Envies Shaver on the account of his Union principals Shaver is a through-going Union Man the Secesh can not make a moove <hi rend="str">but</hi> without Shaver finding it out he has been one of our best men in holding the rebels in check in our neighborhood and they hate him as they hate old Saton Shaver is a poore man and has a large family and a wife with only one arm we the undersigned do Solamlly believe that, it was through Secesh Malice that the fine ^was^ assest we present our names before your honor that you may have Just reasons to release the fine you will please address Washington Shaver) Foster Bracken Conty) Ky( in haste as he is a waiting your speedy answer Respectfully your honor<pb/></p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Dorsey Plumer
+<lb/>Simpson Mackbee
+<lb/>Jerry H Moore
+<lb/>Nelson Plummer
+<lb/>P. T. Records
+<lb/>C. W. Saxton
+<lb/>B. F. McGill
+<lb/>John Cowen
+<lb/>N. W. Leming
+<lb/>David Smih
+<lb/>Jacob Caseman
+<lb/>John Cummins
+<lb/>Haines Dickason
+<lb/>S, M, Marshall
+<lb/>J, C, McCane
+<lb/>P Highbanks
+<lb/><cb n="2"/>John Biddle
+<lb/>James Huffman
+<lb/>Thos. Biddle
+<lb/>John Mathewess
+<lb/>H. W. S. Agrue
+<lb/>Caleb Canases
+<lb/>James Cumins
+<lb/>Edmund Gray
+<lb/>Johnson Cummins
+<lb/>Lewis Shotwell
+<lb/>William M<hi rend="sup">c</hi>Math
+<lb/>Christopher Cummins
+<lb/>John B. Askren
+<lb/>T. T. Dawndrd
+<lb/>E. Carnens
+<lb/>G, P, Hudelston Soldrer
+<lb/>James Andrews
+<lb/>David Flaugher
+<lb/>Madison Moore
+<lb/>Eldridg Bush
+<lb/>Lin Bulluck
+<lb/>W F Nickoson
+<lb/>S. C. Girhorn
+<lb/>David, Parker
+<lb/>Fowler Conelly
+<lb/>W. Neal
+<lb/>N, Miller
+<lb/>J. P. Armcost
+<lb/>Jacob ^his X mark^ White<pb/></p>
+<p><milestone unit="column" n="1"/>Pettn of W. Shaver to remit fine
+<lb/>See Bracket &amp; Pendleton representatives</p>
+  </body>
+ </text>
+</TEI>

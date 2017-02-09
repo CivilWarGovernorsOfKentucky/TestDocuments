@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-117-0048"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Boyle to T. W. Kennedy</title>
+    <title level="a" type="parallel">CWG13877</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Christina K Adkins</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>Adjutant General Letter Book - No. 3 ; 9 April - 25 May 1864</collection>
+      <idno>289</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1864-05-10">10 May 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><note place="header">289</note>
+<lb/><date when="1864-05-10">May 10<hi rend="sup">th</hi> <gap/>4</date>
+<lb/>T W Kennedy Esq
+<lb/>Custom House
+<lb/>Paducah. Ky:
+<lb/>Sir.</p>
+<p>Your communication of the <date when="1864-05-06">6<hi rend="underline"><hi rend="sup">th</hi></hi> inst</date> to his Excellency Gov<hi rend="sup">r</hi>. Bramlette, has been referred to me for reply. We have no authority to recruit 100 day men, but have been granted the permission by the Secy of War to raise 10.000 six months men. General Orders N<hi rend="sup">o</hi> 3 from these H<hi rend="underline"><hi rend="sup">d</hi></hi> qrs in relation thereto, I inclose you. We will accept any number of men you may raise for that term of service, and they will be armed as soon as organized. I telegraphed you, the purport of this letter, to day -- </p>
+<p>Very Respectfully
+<lb/><hi rend="underline">John Boyle</hi>
+<lb/>Adjt Gen<hi rend="sup">l</hi> of Ky</p>
+  </body>
+ </text>
+</TEI>

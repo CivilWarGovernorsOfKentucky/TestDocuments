@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0065"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Benjamin F. Blood, Oath</title>
+    <title level="a" type="parallel">CWG1730</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Appointments by the Governor, Civil Appointments, 1863-1867</collection>
+      <idno>BR1-452 to BR1-453</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Pittsburgh, Allegheny County, Pennsylvania</placeName>
+    <date when="1863-11-16">16 November 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>State of Pennsylvania
+<lb/>County of Allegheny
+<lb/>City of Pittsburgh } Sct.</p>
+<p>I, Benjamin F. Blood residing in Pittsburgh, County of Allegheny, State of Pennsylvania, appointed by the Governor of the State of Kentucky, a commissioner of Deeds for the said State of Kentucky, to take depositions, acknowledgment of deeds &amp;c. to be used or recorded in the said State of Kentucky, do solemnly swear that I will well and truly execute and perform all the duties of such commissioner, under and by virtue of the laws of the state of Kentucky.,</p>
+<p>Benjamin F. Blood</p>
+<p>Taken and subscribed this <date when="1863-11-16">16<hi rend="underline"><hi rend="sup">th</hi></hi> day of November A. D. 1863</date>. before me</p>
+<p>A S Nicholson
+<lb/>Alderman; and Ex. Office a Justice of the Peace in &amp; for the said County of Allegheny<pb/>
+<lb/>ALLEGHENY COUNTY,
+<lb/>State of Pennsylvania. } SS.
+<lb/><figure type="seal"/><stamp type="revenue"/><note place="stamp">H E
+<lb/><date when="1863-11-11">11 Nov
+<lb/>1863</date></note></p>
+<p>I, HENRY EATON, Prothonotary of the Court of Common Pleas in and for the County of Allegheny, in the Commonwealth of Pennsylvania, the same being a Court of Law and Record, do by these presents certify that A S. Nicholson Esquire, before whom the foregoing afft was taken, and who has thereunto, in his own proper handwriting, subscribed his name, was at that time, and now is, an alderman in and for the City of Pittsburgh and EX-OFFICIO an acting Justice of the Peace in and for the said County, duly commissioned and sworn, and authorized by law to take acknowldgements, administer oaths, &amp;c; to all whose acts, as such, due faith and credit are, and of right ought to be given, throughout the United States and elsewhere.</p>
+<p>In Testimony Whereof, I have hereunto set my hand and affixed the seal of the said Court, at Pittsburgh, in the said county, this <date when="1863-11-16">16<hi rend="sup">th</hi> day of November in the year of our Lord one thousand eight hundred and sixty-three</date>, and of the sovereignty and independence of the United States of America the eighty-eight</p>
+<p>Henry Eaton Prothonotary.
+<lb/>JONSTONS PRINT<pb/></p>
+<p><figure type="seal"/> An impression of my official seal as commissioner of Deeds for the State of Kentucky <date when="1863-11-16">Nov. 16, 1863</date></p>
+<p>Benj. F. Blood<pb/></p>
+<p>Pennsylvania
+<lb/>Oath
+<lb/>B F Blood
+<lb/>Comr of
+<lb/>Deeds</p>
+  </body>
+ </text>
+</TEI>

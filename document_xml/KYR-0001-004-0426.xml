@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0426"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Joseph Hennin and Charles Dupree, Bond</title>
+    <title level="a" type="parallel">CWG4545</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR9-172</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Nelson County, Kentucky</placeName>
+    <date when="1862-05-31">31 May 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>We Joseph Hennin principle
+<lb/>Cha<hi rend="sup">s</hi> Dupree Security
+<lb/>do bind ourselves three months after date to pay The commonwealth of Ky (The plaintiff in Execution) The sum of Five Hundred and twenty four dollars and 84 cents. with Interest thereon from this date being the amount of prinicpal, interest and cost of an Execution No 322 which issued from the clerks office of the Nelson Circuit Court on the <date when="1862-03-09">9<hi rend="underline"><hi rend="sup">th</hi></hi> day of March 1862</date> in favor of the said commonwealth for the sum of
+<lb/><table rend="rules">
+<row>
+	<cell>Principal</cell>
+	<cell>$500 cts</cell>
+	<cell> </cell>
+</row>
+<row>
+	<cell>interest</cell>
+	<cell>5.50</cell>
+	<cell> </cell>
+</row>
+<row>
+	<cell>Cost</cell>
+	<cell>9 30</cell>
+	<cell> </cell>
+</row>
+<row>
+	<cell>Sheriff half com</cell>
+	<cell>9.64</cell>
+	<cell> </cell>
+</row>
+<row>
+	<cell>writing Bond</cell>
+	<cell>40</cell>
+	<cell>commission and forty ceents for writing amounting in the whole to the (this Bond Sum of</cell>
+</row>
+<row>
+	<cell>amount</cell>
+	<cell>$524.84 cts</cell>
+	<cell> </cell>
+</row>
+</table>
+<lb/>against the Said Jo<hi rend="sup">s</hi> Hennin -- and we the said Jo<hi rend="sup">s</hi> Hennin Principal and <gap/> Cha<hi rend="sup">s</hi> Dupree- Security have replievid the same witnesseth our hands and Seals this <date when="1862-05-31">31_ day of May - 1862</date>.</p>
+<p>J Hennin [Seal]
+<lb/>Ch<hi rend="sup">s</hi> Dupree [Seal]</p>
+<p>attest S S Meddis
+<lb/>D Sssr,
+<lb/>J. Wash Davis <gap/> [Seal]
+<lb/>S.J C</p>
+<p>The above bond<hi rend="str">s</hi> was given in satisfaction of an Exam &amp; Henin as bailee of Paul Garras under charge Larceny in Nelson Circuit Court</p>
+<p>Att Wm H Slaughter Clk</p>
+  </body>
+ </text>
+</TEI>

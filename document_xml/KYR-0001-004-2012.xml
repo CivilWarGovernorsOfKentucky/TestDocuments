@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2012"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Henry H. McDougall to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6649</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR14-169 to BR14-170</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency Thos E. Bramlette
+<lb/>Gov of the State of Kentucky</p>
+<p>Your petitioner Henry H. McDougall Says, that on the <date when="1865-05-03">3<hi rend="sup">d</hi> day of May 1865</date>, he was tried and convicted of an assault and battery, upon one Lewis Swidoff. He was Jointly indicted with one Bluford Sweeney, and they <hi rend="str">made</hi>were fined $100 each.</p>
+<p>He would respectfully State that he thinks the fine was excessive -- greatly disproportionate to the offense. He Says that he happened in Swidoff's Coffee-house with Sweeney, and he and Sweeney had Some ^angry^ words, and your petitioner apprehended a difficulty between them, and he Steped round the counter towards Swidoff, with the intintion of preventing a difficulty. Swidoff had a larger artillery <hi rend="str">Knife</hi> ^Sword^ in his hand, and as he steped round toward him, Swidoff Struck at me with it. I dodged the lick. And believing <unclear><hi rend="str">ever</hi></unclear> he would renew his effort to Strike me, I Struck him and Knocked him down, and Struck him a few licks after he was down Swidoff being the only witness, and Sweeney and I being both indicted Jointly -- we could not get the facts before the Jury and they occurred; he did not, nor would not State before the Jury that he Struck at me atall. It may have been, that he thought that I was coming round to <hi rend="str">him</hi> <hi rend="str">to</hi> Strike him; but Such was not my purpose.</p>
+<p>I am a young man with but Small means, and dependent upon my Salary for a living. This is the first time I was ever before <hi rend="str">the</hi> a court on any charge and this was wholly unexpected to me<pb/></p>
+<p>If the fine had not been more than fifty dollars I would have paid it without appealing to your Excellency. But as it is, I feel that it is excessive, and more than I ought to pay more than I am able to pay.</p>
+<p>I therefore pray your Excellency will remit that portion of the fine whi<hi rend="str">g</hi>ch by law, goes to the Commonwealth.</p>
+<p>Respectfully <hi rend="underline">Henry H. McDougall</hi></p>
+<p>We the undersigned citizens of Louisville, would respectfully State, that, the above named Henry H M<hi rend="sup">c</hi>Dougall, is a young man of good habits, good character; and an orderly well-behaved Young man. And in as much as we think the fine excessive, and as it is his first offense, we think it a case in which your Excellency's <hi rend="str">pardon</hi> remitting power <hi rend="str">Should</hi> might be properly and commendably exercised. to the extent of the prayr of the above petition</p>
+<p>Respectfully
+<lb/><milestone unit="column" n="2"/><cb n="1"/>Wm <unclear>Karrye</unclear>
+<lb/>I hope the prayer of petitioner will be granted
+<lb/>R. J. Elliott
+<lb/>J B, Ehrich, clk of Police
+<lb/><hi rend="underline">Ro.</hi> F.,, <hi rend="underline">Baird</hi>
+<lb/>Ben M. Harney
+<lb/><cb n="2"/>Barrett Mullikin <hi rend="str">agn</hi>
+<lb/>Frank Roberts
+<lb/>W A Smith
+<lb/>John DeHart
+<lb/>R O. Priest chf of Police
+<lb/>Selby Harney<pb/></p>
+<p>Louisville City Ct
+<lb/>vs
+<lb/>H. H. M<hi rend="sup">c</hi>Dougall
+<lb/>$100.
+<lb/>Remitted
+<lb/><date when="1865-06-02">2<hi rend="sup">nd</hi> June 1865</date></p>
+  </body>
+ </text>
+</TEI>

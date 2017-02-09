@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0727"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Carpenter to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10195</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG19-131 to MG19-132</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Garrard County, Kentucky</placeName>
+    <date when="1861-03-18">18 March 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency the Governor of Kentucky.</p>
+<p>Your petitioner John Carpenter states that at the <date when="1860-08">Augt Term of the Garrard Circuit Court 1860</date>, he was indicted by the Grand jury for carrying on his person a concealed deadly weapon in <date when="1860">1860</date>, &amp; at the <date when="1861-02">February Term of Said Court ^1861</date>^ he was fined $52- for said offence by the Judgt of the Garrard Circuit Court.</p>
+<p>He states that the reason he carried weapons were that his life had been threatened &amp; he in good faith believed that his person was in danger &amp; carried weapons to defend himself, &amp; he believed his safety required it, &amp; he proved a clear defense on the trial, &amp; the party who threatened him to his utter astonishment, in the trial denied the threats, &amp; in his testimony the judgt was obtained</p>
+<p>Wherefore he prays your excellency to remit said fine.</p>
+<p>John Carpenter<pb/></p>
+<p>Garrard County Sct:</p>
+<p>John Carpenter says he believes the statements of the foregoing petition are true.</p>
+<p>John Carpenter</p>
+<p>Sworn to before me by John Carpenter this <date when="1861-03-18">18<hi rend="sup">th</hi> of March 1861</date>.</p>
+<p>Thomas P. Hewitt Notary Public
+<lb/>Garrard County Ky</p>
+<p>I was present at the trial of the <hi rend="str">trial</hi> petitioner &amp; heard the testimony &amp; I am clearly of opinion that the fine ought to be remitted</p>
+<p>J Burdett<pb/></p>
+<p>Garrard Cir Ct
+<lb/>John Carpenter
+<lb/>Weapons
+<lb/>To Petition
+<lb/>Remitted
+<lb/>B. M
+<lb/>$50
+<lb/>Iss <date when="1861-04-01">Apr 1
+<lb/>1861</date></p>
+  </body>
+ </text>
+</TEI>

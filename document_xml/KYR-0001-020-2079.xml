@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-2079"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">James Dalton to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG9155</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG24-116</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1862-07-23">23 July 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency, The Governor of Kentucky:</p>
+<p>Your petitioner, James Dalton, respctfully states that at the present <date when="1862-07">July</date> term of the City Court of Louisville, he was fined the sum of $20. for selling liquor without license, or rather, for the sale of one glass of liquor without license. Of this fine, your petitioner has paid $6. being the 30 per cent allowed by law to the prosecuting attorney, and has also paid the further sum of $10. -- being the costs.</p>
+<p>In consideration of the premises and as your petitioner is in very limited circumstances and the times are hard, he humbly prays your Excellency to Extend to him your Executive Clemency and to remit the portion of the above fine which belongs to the Commonwealth, and, as in duty-bound, he ever will &amp;<hi rend="sup">c</hi>.</p>
+<p>James Dalton</p>
+<p><date when="1862-07-23">July 23<hi rend="sup">rd</hi> 1862.</date></p>
+<p>The finding of the Jury in the above case reads as follows. "We of the Jury find the Defendant guilty of once selling as charged in the within Indictment &amp; assess his fine at twenty Dollars to the Commonwealth of Ky. W. G Timberlake Foreman</p>
+<p>Mr. Dalton has paid the cost in the case amounting to the sum of $16.</p>
+<p>O N Stratton clk<pb/></p>
+<p>Respite 8 mo
+<lb/>B. M</p>
+<p>Louisville City Court
+<lb/>$20 } Liquor
+<lb/>Ja<hi rend="sup">s</hi> Dalton
+<lb/>Iss<hi rend="sup">d</hi> <date when="1862-07-31">July 31. 1862</date></p>
+  </body>
+ </text>
+</TEI>

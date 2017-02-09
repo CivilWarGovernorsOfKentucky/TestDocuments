@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-3403"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Lloyd Hackett et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG5522</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR42-279</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>His Eclency the Goverenor of the Common of Kentucky Your Petitioner John C Baker makes known to your Honer that at the <date when="1863-06">June term of of the year 1863</date> he thinks. He was fined in the Sum of $120.00 under two indictments in Said Court for the offence of retaling Spirtuous Liquer by the <hi rend="str">retail</hi> Small and a Petition was gottin up and Presented to your Predesessor Governor Magoffin and was all remitted by him But twenty dollars and that amount was Respited for twelve months and that time is about Expired and that he has paid all the Costs of the actions that occurd there on and he hops that your honer will remit the remaining $20 as he is a Pore man and has a large and helpless family and but little means of Support and never will in future violate the Laws of his countery if he knows it</p>
+<p>P.S. we whos names ar under Signed maks known to your Excencly that we are well acquainted with your Petitioner John C Baker and know him to be a honest Peaceabl and well dispersed citizen a pore man with a Large and helpless family and hope your honer may remit the fine is the Prayer your Petition</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Lloyd Hackett
+<lb/>John Childers
+<lb/>John Ramsy
+<lb/>William Bruer
+<lb/>Enich Bruer
+<lb/>William Coalman
+<lb/>Cha<hi rend="sup">s</hi> Hosman
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> B Tracy
+<lb/><cb n="2"/>W. H. Sneed Co. atty
+<lb/>H Rodgers
+<lb/>W Franklin
+<lb/>G. W. Chism
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Craik
+<lb/>W. H.. Gray
+<lb/>James Milam
+<lb/>H. G. Banta,
+<lb/>Cap Sanford Goins
+<lb/>H J Maets Dept Prov <unclear/><milestone unit="column" n="1"/><pb/>
+<lb/>R E Collins</p>
+<p>J. C. Baker</p>
+<p>I see no reason for further Executive Clemency beyond that already bestowed and therefore</p>
+<p>Refuse further relief</p>
+<p> -- T. E. B</p>
+  </body>
+ </text>
+</TEI>

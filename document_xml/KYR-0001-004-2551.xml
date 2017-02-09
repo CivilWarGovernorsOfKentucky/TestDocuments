@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2551"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">James J. Ross to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7188</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR16-81</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Grant County, Kentucky</placeName>
+    <date when="1865-10-25">25 October 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency the Governor of Kentucky</p>
+<p>The petitioner states that judgt was rendered against him in the Grant Circuit Court at the <date when="1865-10">Oct Term 1865</date> for selling liquer to James Gouge a young man under twenty one years of age ^for the sum of Forty Dollars &amp; Costs^ -- He states that said James Gouge came and informed the petitioner that his father authorised him to buy a small quantity of whiskey one pint to be taken to a brother-in laws house -- The petitioner confideing in the statement sold the liquor, he being a tavern Keeper at the time -- He asks the Governor to remit the fine</p>
+<p>James J Ross</p>
+<p>Sworn to by Jas J Ross before me <date when="1865-10-25">Oct 25<hi rend="sup">th</hi> 1865</date></p>
+<p>N. H. Jeffers C, G, C, C,</p>
+<p>The undersigned ask the remission of the above fine</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Th N Lindsey
+<lb/>J. OHara jr
+<lb/>J M Collins -- 
+<lb/>J J Landram
+<lb/>W, L, Simmons
+<lb/>N. H. Jeffers C, G, C, C,
+<lb/>Kemp G Carter D. Clk
+<lb/>W Smith
+<lb/>J J Gouge
+<lb/>T J Gouge
+<lb/>R M<hi rend="sup">c</hi>Duffer
+<lb/>James W Hume
+<lb/><cb n="2"/>D L Cunningham
+<lb/>E H Smith
+<lb/>R A Dickerson
+<lb/>John Marksbury Sheriff Grant ^Co^
+<lb/>O. D. M<hi rend="sup">c</hi>Manama
+<lb/>V Seman
+<lb/>W Harrison
+<lb/>W. Tully
+<lb/>Geo. H. Norton
+<lb/>W Fugate
+<lb/>A Kendall
+<lb/>O P. Hagan
+<lb/>Jonathan Hedgen
+<lb/><stamp type="revenue"/><note place="stamp">N H J
+<lb/>Oct
+<lb/>25 /65</note><pb/>
+<lb/><cb n="1"/>J. F. Sheriff
+<lb/>M M<hi rend="sup">c</hi>Daniel
+<lb/>W N Simpson
+<lb/>Robt Sheriff
+<lb/>W. Oldham
+<lb/>J,, W, hutcherson
+<lb/>T. P. Evans
+<lb/>A. H. Childers
+<lb/>Peter K Burns
+<lb/><hi rend="str">W</hi>
+<lb/>W A <unclear/>
+<lb/>G, W, Nichols
+<lb/>M. J. Simpson
+<lb/>H S Ransom
+<lb/>Jas. F. M<hi rend="sup">c</hi>Ilvain
+<lb/>M Burnett
+<lb/>G, B, Dance
+<lb/>I Holbrook
+<lb/>H S Rankin
+<lb/>Wm, R, Ransom
+<lb/><hi rend="str">J</hi> Tho<hi rend="sup">s</hi> E Williams
+<lb/>J S Lucas
+<lb/>C S Iness
+<lb/>J. L. Clark
+<lb/>A Lingenfelter
+<lb/>B. Wilson S, G, C
+<lb/><cb n="2"/>James F Pondes. 18. Ky. V V
+<lb/>G W Simpson
+<lb/>B. Stewart
+<lb/>W G Frank</p>
+<p><milestone unit="column" n="1"/>Grant Cir Ct
+<lb/>vs
+<lb/>James Ross
+<lb/>$50,
+<lb/>selling to Minor
+<lb/><date when="1865-11-04">4 Nov /65</date></p>
+  </body>
+ </text>
+</TEI>

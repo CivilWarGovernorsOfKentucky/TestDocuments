@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-009-0066"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Unknown to Unknown</title>
+    <title level="a" type="parallel">CWG1221</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Christina K Adkins</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's Official Correspondence File, 1863-1867</collection>
+      <idno>BR1-272 to BR1-273</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Albany, Albany County, New York</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>(Issued to County Officers)</p>
+<p>STATE OF NEW-YORK.<figure type="hr"/>
+<lb/>Executive Department,
+<lb/>Albany, <gap/> 186<gap/>
+<lb/>Sir:</p>
+<p>I am directed by GOVERNOR FENTON to ask your attentiion to the requirements embraced in the following regulations.</p>
+<p>To avoid the frequent irregluarities and defects in applications to the Governor for requisitions on the Governors of other States for the surrender of fugitives from justice, the following rules have been adopted by this Department, and will be strictly enforced<hi rend="italic">;</hi> and any application not complying with them in all respects will be rejected, without inquiry into its intrinsic merits.</p>
+<p>Applications for requisitions must in all cases be made by the<hi rend="italic"> </hi>District Attorney, or, in his absence, by his Deputy, who must certify that he approves of the application; and it must be shown by affidavit duly verified that the party complained of is a Fugitive from Justice, and he believes is at the time in the State of <gap/>; and the grounds of such belief must be specifically set forth in such affidavit: that he fled from this State before arrest could be made, and that the ends of justice require that he should be brought back to this State for trial.</p>
+<p>If the application is made upon an indictment, a certified copy thereof must be furnished by the Clerk of the Court in which it was found.</p>
+<p>If upon affidavits, the Magistrate taking them must certify, that in his opinion the parties making them are to be believed, and that they present a proper case for a requisition; and the official character of the Magistrate must be proved.</p>
+<p>The District Attorney must further certify that if the facts stated in the affidavits are true, they would in his opinion result in a conviction.</p>
+<p>It must also be affirmatively stated, whether any application for a requisition for the same person, for an offence arising out of the same transaction, has been previously made, and if a prior application has been made, any new facts appearing in the papers must be specially pointed out.</p>
+<p>The District Attorney must also name the State upon which the requisition is asked and a<hi rend="italic"> </hi>proper person to whom the warrant is to issue, and must certify that such person has no private interest in the arrest of the fugitive.<pb/></p>
+<p>Where any statements are made on information and belief, the statements so made must be distinctly defined, and the sources of information and grounds of belief must be set forth in detail.</p>
+<p>In all cases the greatest care will be exercised in this Department to ascertain, beyond a doubt, that the object in seeking a requisition is not to collect a debt, or to afford some person an opportunity to travel at the public expense, or to answer some other private end. In all cases of false pretences, embezzlement, conspiracy and similar crmes, the strongest affirmative evidence will be required that the real object is not the collection of a private debt.</p>
+<p>If a requisition shall have been improperly or unadvisedly granted, there will be no hesitation in revoking it.</p>
+<p>If the offence is not of recent occurence, sufficient reasons must be given why the application has been delayed.</p>
+<p>If known, it should also be stated whether the accused has ever been a resident of this State, or has only been transiently here.</p>
+<p>In all cases of rejected applications for requisitions, the paper will be retained in this Department.</p>
+<p>The Governor has no power to require the surrender of fugitives, who have taken refuge in the British Provinces.</p>
+<p>As it has been decided in the Third Judicial District that Notaries Public are not "Magistrates" within the meaning of Federal Law, no application for a requisition based upon affidavits made before a Notary Public will be granted.</p>
+<p>Requisitions will as a general thing, be granted only upon the express condition, inserted in the warrant, that no portion of the expense shall fall upon the State, but that the entire expense shall be borne by the County from which the application comes. District Attorneys will, therefore, remember that in making application for a requisition they are sanctioning a County charge. This rule will be waived only in extraordinary cases, though the expense may somtimes be imposed on the complaint or applicant.</p>
+<p>Duplicates of ALL papers necessary upon the application must be furnished, that one set may be retained in this office, and the other attached to the requisition, though only one set need be certified. This requirement is designed to embrace the formal application or letter of the District Attorney.</p>
+<p>In no case can a requisition be granted at the same time for the same offender upon the Governor of more than a single State.</p>
+<p>Very truly,</p>
+  </body>
+ </text>
+</TEI>

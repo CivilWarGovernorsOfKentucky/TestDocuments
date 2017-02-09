@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1615"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">James Thompson et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6252</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR13-65 to BR13-66</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1865-03-02">2 March 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency:
+<lb/>Thomas E Bramlette,</p>
+<p>The undersigned Petitioner would represent unto your Excellency. that at the <date when="1865-02">Feby Term of the Rockcastle Circuit Court 1865.</date> He was <hi rend="underline">Fined</hi> by a Jury of Said Court the sum of $22.00 for standing a <hi rend="underline">Jack</hi> without first having procured a Licinse therefor. He states that the offense charged was Committed in the year <date when="1863">1863.</date> That he in <hi rend="underline">good</hi> <hi rend="underline">faith</hi> intended to Licinse his Jack, at the rate of $4.00 per season or by the insurance and so made his contract with those who bred to his Jack. But he states that before he could procure a Licinse therefor, the Rebels under the Command of one Gen Pegram invaded Kentucky and scattered the mares of the country, and believing that he could not do any good with his Jack, he abandoned the idea of obtaining a licinse therefor and did not intent to charge any thing for the season of his Jack, and in fact has never charged any thing for the same, and has never collected one cent. He states that he has unintentionally violated the laws of his state and has done the same ignorantly and innocently. That he is a law abiding citizen and under the circumstances of the case as presented. He prays that your Excellency will <hi rend="underline">remit</hi> said Fine, That it will be unjust to coerce Your Petitioner to pay the same,</p>
+<p>James Thompson</p>
+<p>James Thompson says the statements made in the foregoing Petition are true</p>
+<p>James Thompson</p>
+<p>Sworn to before me by James Thompson <date when="1865-03-02">March 2<hi rend="sup">nd</hi> 1865</date></p>
+<p>Alfred Smith <hi rend="underline">C R C C</hi><pb/></p>
+<p>We the undersigned believe it is Just and right that ^the^ Fine and Judgment against the petitioner James Thompson should be remitted,</p>
+<p>F B M<hi rend="sup">c</hi>Cleary
+<lb/>Alfred Smith
+<lb/>H H Baker
+<lb/>W Higall
+<lb/>R D. Cook S. R. C
+<lb/>D. G. Colyer
+<lb/>Logan Owens
+<lb/>Robert Snodgrass
+<lb/>George Proctor (Sen)<pb/></p>
+<p>Gov Bramlette</p>
+<p>Dear Sir I believe the Judgment against James Thompson ought to be remited</p>
+<p>Yours truly
+<lb/>Granville Pearl
+<lb/>H F Finley<pb/></p>
+<p>Rockcastle Cir Ct
+<lb/>vs
+<lb/>Jas Thompson
+<lb/>$22 -- </p>
+<p>Remit
+<lb/><date when="1865-04-05">5<hi rend="sup">th</hi> Apl/65</date></p>
+<p>Sent for fee
+<lb/><date when="1865-03-08">8<hi rend="sup">th</hi> Mch/65</date></p>
+  </body>
+ </text>
+</TEI>

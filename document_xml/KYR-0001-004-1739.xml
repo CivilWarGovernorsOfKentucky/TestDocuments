@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1739"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John L. St. Clair to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6376</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR13-243 to BR13-244</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1865-04-14">14 April 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency Thomas E Bramlette Governor of the State of Kentucky Your Petitioner John StClair would most respectfully state that at the last <date when="1865-02">February</date> term of the Marion Circuit Court Ky a judgement was rendered in favour of the Commonwealth of Ky against Your Petitioner for five hundred dollars and costs for the alledged offense of dealing <hi rend="underline">faro</hi> -- Your Petitioner frankly admits that during the last Summer in Lebanon Ky while a large crowd was congregated in said town being assembled here in consequence of the draft and with a view to supply substitutes procure exemptions &amp;C while so in said term a number of his friends &amp; acquaintances were at his room at the Harris house and while there &amp; wanting Some amusement requested that Your Petitioner would deal a little for their amusement and he did so Your Petitioner does not make his living by dealing <hi rend="underline">faro</hi> He is poor and totally unable to pay the fine -- Nor has he any relatives or friends that can or will do so for him -- Therefore he will be compelled to lay in the Jail of Marion County Ky unless your Excellency interposes &amp; remits the fine for which your Petitioner prays -- </p>
+<p>J. L. S<hi rend="sup">t</hi>. Clair<pb/></p>
+<p>Sworn to before me by John St Clair This <date when="1865-04-14">April 14<hi rend="sup">th</hi> 1865</date></p>
+<p>T. <hi rend="str">T</hi>C. Jackson Clk, M, C, C</p>
+<p><stamp type="revenue"/><note place="stamp">T W G
+<lb/><date when="1865-01-21">Jany 21 1865</date></note></p>
+<p>The undersigned join in the prayer of Petitioner John St Clair for a remission of the fine</p>
+<p>J. R. Thomas
+<lb/><hi rend="underline">T. C. Jackson</hi>
+<lb/>B. Spalding
+<lb/>D. W. Phillip</p>
+<p>The Assitant Secratarys fee $2,00 Enclosed</p>
+<p>St. Clair<pb/></p>
+<p>Marion Cir Ct
+<lb/>vs
+<lb/>John St Clair Petition
+<lb/>Remitted
+<lb/><date when="1865-04-24">24<hi rend="sup">th</hi> April/65</date></p>
+  </body>
+ </text>
+</TEI>

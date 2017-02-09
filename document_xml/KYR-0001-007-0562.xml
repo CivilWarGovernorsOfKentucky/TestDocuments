@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0562"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Anderson County Court, Order</title>
+    <title level="a" type="parallel">CWG2227</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Appointments by the Governor, Civil Appointments, 1863-1867</collection>
+      <idno>BR2-540</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Anderson County, Kentucky</placeName>
+    <date when="1865-09-25">25 September 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Order</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>State of Kentucky.
+<lb/>Anderson County Court. <date when="1865-09">Sept Term 1865</date></p>
+<p>At a county court began and held for the county of Anderson at the court house in Lawrenceburg <date when="1865-09-25">Sept. 25<hi rend="sup">th</hi> 1865</date>. Present Hon Geo W Catlett Presiding Judge of the Anderson County Court.</p>
+<p>Among other things the following proceeding were had</p>
+<p>Ordered That Allen Roach be appointed a Justice of the peace to fill the vacancy in the office occasioned by the resignation of G. W. Catlett for District No 3 in this county if approved by the <hi rend="underline">Governor</hi></p>
+<p>Copy Attest
+<lb/>G W Mathews C. L. K. A. C. C<pb/></p>
+<p>Justice Peace
+<lb/>Anderson Co
+<lb/>G W Catlett
+<lb/>resigned
+<lb/>&amp;
+<lb/>Allen Roach
+<lb/>appt<hi rend="sup">d</hi>
+<lb/><date when="1865-10-06">6<hi rend="sup">th</hi> Oct 1865</date></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1098"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">William Gardner to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10566</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG20-202</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Carroll County, Kentucky</placeName>
+    <date when="1861-05-22">22 May 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To the Hon B. Magoffin Governor of the Commonwealth of Kentucky</p>
+<p>Your petitioners would respectfully state that at the <date when="1861-03">March term ^1861^</date> of the Carroll Circuit Court William Gardner was fined $50. for selling Liquor to a minor -- That the offense was committed shortly after the law went into effect That said Gardner was not apprised at the time of the exestince of the law we further state that said Gardner is a law abiding man</p>
+<p>We therefore believing that said Gardner is entitled to executive clemency, request your excellency to remit said fine</p>
+<p>William Gardner</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Petitioners
+<lb/>W M Fisher
+<lb/>M T Pryor
+<lb/>A, H, Lothross
+<lb/>A, I, Guthrie
+<lb/>Isaac Griffin
+<lb/>Jno. F. Gano
+<lb/>L. O"Neal
+<lb/>R. J. Wilson
+<lb/>H W Pryor
+<lb/>T W Minish
+<lb/>M. W. Dillehunt
+<lb/><cb n="2"/>Petitioners
+<lb/>A F Dunagun
+<lb/>Stephen Mosley
+<lb/>H Harris
+<lb/>G G Minish
+<lb/>F M Gert
+<lb/>T. C. Lawrence
+<lb/>David W Hogan
+<lb/>M T MClure<milestone unit="column" n="1"/></p>
+<p>Carroll County Sct</p>
+<p>The subscribers to the foregoing petition are<pb/>
+<lb/>citizens of Carroll County, &amp; reliable men and their Signatures genuine</p>
+<p>Given under my hand this <date when="1861-05-22">22 May 1861</date></p>
+<p>John Hogan C. C. C. C</p>
+<p>Carroll Cir. Ct
+<lb/>$50. } Liquor to a Minor
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Gardner</p>
+<p>Resp<hi rend="sup">d</hi> 12 mos</p>
+<p>Iss<hi rend="sup">d</hi> <date when="1861-05-24">May 24, 1861</date></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0361"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">J. L. Clemmons to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG2709</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Civil Appointments, 1859-1862</collection>
+      <idno>MG4-331 to MG4-332</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date when="1862-02-14">14 February 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Louisville <date when="1862-02-14">14<hi rend="sup">th</hi> Feby 1862</date>
+<lb/>To his Excellency Gov. Magoffin
+<lb/>Dear Sir</p>
+<p>I wish the appointment of Notary Public for Jefferson County. I held that office under the appointment of Gov. Powell some years ago but my commission has expired. I am a practicing lawyer in this city &amp; only wish the appointment for the convenience of taking the affidavits of my clients in the range of my own practice. For my character I refer you to Messrs Speed, Wolf, Beeman &amp; almost any one you may meet with in Frankfort from this city. If you will present my name to the Senate I will feel greatly obliged. Would it not be well to have a general law passed authorizing all regular attorneis to take the affidavits of their clients? I was accustomed to that arrangement in Carolina where I practiced many years. The gentlemen above referred to differ from me in politics but will doubtless do me Justice personally.</p>
+<p>Very Respectfully yours -- 
+<lb/>J. L. Clemmons<pb/></p>
+<p>Notaries Public<figure type="hr"/>
+<lb/>&amp; Manager to Western Lunatic Asylum
+<lb/>Nominated <date when="1862-02-20">Feby 20 1862</date></p>
+<p>Issue Commission
+<lb/>B. M.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0854"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">E. P. Davis et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10322</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG19-342</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Carter County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>State of Kentucky
+<lb/>Carter County Sct</p>
+<p>To his Excellency B. Magoffin governor. The under signed petitioners would represent to your Excellency that Francis M<hi rend="sup">c</hi>Guire was fined for a breach of the penal Laws of this state by the Carter circuit the Sum of $10 Now we think that his case kneeds your clemency for these reasons. he is a poor man with a family to support and Educate and the breach of the Penal Law was a mere accident and that his <hi rend="str">are <unclear/> walking man</hi> character is good that he is a man resepcted by his neighbors and those that Know him but times are so hard that he is unable to pay said fine, therefore we petition you to remit said fine of ten Dollars, and for such relief we shall ever pray</p>
+<p>E P Davis
+<lb/>George Northercutt
+<lb/>Allen Duncan
+<lb/>S. M<hi rend="sup">c</hi>Gable
+<lb/>Hiram Anglin
+<lb/>John T Shepherd
+<lb/>C. P. Savage
+<lb/>G. W. Everman
+<lb/>W<hi rend="sup">m</hi> Kitchery
+<lb/>B F Shepherd c<pb/></p>
+<p>Carter Cir Ct
+<lb/>Remitted
+<lb/>B. M
+<lb/>$10 } Breach
+<lb/>F. M<hi rend="sup">c</hi>Guire
+<lb/><date when="1861-03-26">Iss<hi rend="sup">d</hi> Mar 26. 1861</date></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2183"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">P. D. Yeiser to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6820</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR14-420</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Paducah, McCracken County, Kentucky</placeName>
+    <date when="1865-08-25">25 August 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Paducah Ky <date when="1865-08-25">Aug 25<hi rend="sup">th</hi> 1865</date>
+<lb/>Gov<hi rend="underline"><hi rend="sup">r</hi></hi> Bramlette</p>
+<p>L Anderson &amp; A. R. Boone have applied to me to make a Statement of facts to you with a view of getting remittance or a forfeited bond in M<hi rend="sup">c</hi>Cracken Circuit Court</p>
+<p>Some years ago W P Miller a free negro was indicted for Migrating to this State &amp; Anderson and Boone went his Security fo his appearance -- the Cause was continued by com<hi rend="sup">l</hi> chiefly for several terms until <date when="1863-04">April 1863</date> when the defendant in the vicessitudes of war failed to come up &amp; there was a forfeiture &amp; Summons &amp; in <date when="1863-10">Oc<hi rend="underline"><hi rend="sup">tr</hi></hi> 1863</date> Judgment for 250$ &amp; at same term I being com<hi rend="sup">l</hi> atty assertained that no case could ever be made out against defendant even if he was present with leave of court ordered it Stricken from the docket -- the indictment I assertained was found in the first place more with the view of running the defendant off than with any expectation of a conviction -- I think under all circumstances Anderson and Boone should be pardoned</p>
+<p>Yours truly
+<lb/>P D Yeiser</p>
+<p>If remitted Send it to L Anderson of Paducah Ky</p>
+<p>Yeiser<pb/></p>
+<p>M<hi rend="sup">c</hi>Cracken Cir Ct
+<lb/>vs
+<lb/>L. Anderson &amp; A. R. Boone
+<lb/>Forfeiture
+<lb/>$250.
+<lb/>Remitted <date when="1865-09-05">5 Sept/65</date></p>
+<p>Sent for fee
+<lb/><date when="1865-08-28">28 Aug/65</date></p>
+  </body>
+ </text>
+</TEI>

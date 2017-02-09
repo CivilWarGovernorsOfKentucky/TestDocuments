@@ -1,0 +1,767 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-018-0316"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John W. Finnell to Nathaniel Gaither, Jr.</title>
+    <title level="a" type="parallel">CWG8382</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Military Appointments, 1859-1862</collection>
+      <idno>MG6-429 to MG6-430</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1862-06-06">6 June 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><figure type="seal"><ab>UNITED WE STAND, DIVIDED WE FALL.
+<lb/>KENTUCKY.</ab></figure>
+<lb/>Head-Quarters Kentucky Militia,
+<lb/>ADJUTANT GENERAL'S OFFICE,
+<lb/>Frankfort, <date when="1862-06-06">6 June 1862</date>.</p>
+<p>Hon: Nat Gaither Jr
+<lb/>Sec: of State-</p>
+<p>I send you a list of promotions, resignations &amp;<hi rend="sup">c</hi> for record viz:
+<lb/><table rend="rules">
+<row>
+	<cell> </cell>
+	<cell> </cell>
+	<cell> </cell>
+	<cell>date of Com:</cell>
+	<cell> </cell>
+	<cell> </cell>
+</row>
+<row>
+	<cell>John L. Treinor</cell>
+	<cell>Capt.</cell>
+	<cell>promoted-</cell>
+	<cell><date when="1861-09-09">9</date></cell>
+	<cell>Sep.</cell>
+	<cell>1861</cell>
+</row>
+<row>
+	<cell>W<hi rend="sup">m</hi> W. Roland</cell>
+	<cell>Lieut -- </cell>
+	<cell>"</cell>
+	<cell><date when="1861-09-09">"</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+</row>
+<row>
+	<cell>Theo. F. Cummings</cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell><date when="1861-09-09">"</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+</row>
+<row>
+	<cell>Joseph Front</cell>
+	<cell>Major</cell>
+	<cell>Resigned</cell>
+	<cell><date when="1862-04-10">10</date></cell>
+	<cell>Apl</cell>
+	<cell>1862</cell>
+</row>
+<row>
+	<cell>Tho. B. Fairleigh</cell>
+	<cell>Capt:</cell>
+	<cell>promoted</cell>
+	<cell><date when="1862-02-28">28</date></cell>
+	<cell>Feb</cell>
+	<cell>"</cell>
+</row>
+<row>
+	<cell>James H. Ashcraft</cell>
+	<cell>Lieut:</cell>
+	<cell>"</cell>
+	<cell><date when="1862-02-28">"</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+</row>
+<row>
+	<cell>Sam<hi rend="sup">l</hi> D. Brown</cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell><date when="1862-02-28">"</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+</row>
+<row>
+	<cell>R. T. Hackett</cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell><date when="1861-11-09">9</date></cell>
+	<cell>Nov</cell>
+	<cell>1861</cell>
+</row>
+<row>
+	<cell>W. W. Ranney</cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell><date when="1861-11-09">"</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+</row>
+<row>
+	<cell>Fred Grey</cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell><date when="1861-11-10">10</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+</row>
+<row>
+	<cell>James Carlile</cell>
+	<cell>L<hi rend="sup">t</hi> Col<hi rend="sup">o</hi></cell>
+	<cell>Dead</cell>
+	<cell><hi rend="str">15</hi> <date when="1862-01-21">^21</date>^</cell>
+	<cell><hi rend="str">Ap</hi> ^Jan^</cell>
+	<cell>'62</cell>
+</row>
+<row>
+	<cell>Sam<hi rend="sup">l</hi> T. Coyne</cell>
+	<cell>Capt:</cell>
+	<cell>promoted</cell>
+	<cell><date when="1861-11-19">19</date></cell>
+	<cell><hi rend="str">Oct</hi> ^Novr^</cell>
+	<cell>'61</cell>
+</row>
+<row>
+	<cell>W. W. Brady</cell>
+	<cell>Lieut:</cell>
+	<cell>"</cell>
+	<cell><date when="1862-01-21">21</date></cell>
+	<cell>Jan</cell>
+	<cell>'62</cell>
+</row>
+<row>
+	<cell>Ben W. Cleaver</cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell><date when="1862-01-21">"</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+</row>
+<row>
+	<cell>George Hammer</cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell><date when="1861-11-19">19</date></cell>
+	<cell>Nov</cell>
+	<cell>'61</cell>
+</row>
+<row>
+	<cell>Peterson Roff</cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell><date when="1861-11-19">"</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+</row>
+<row>
+	<cell>Geo. W. William</cell>
+	<cell>"</cell>
+	<cell>resigned</cell>
+	<cell><date when="1862-02-10">10</date></cell>
+	<cell>Feb</cell>
+	<cell>'62</cell>
+</row>
+<row>
+	<cell>Preston Morton</cell>
+	<cell>Capt_</cell>
+	<cell>Killed-</cell>
+	<cell><date when="1861-10-22">22</date></cell>
+	<cell>Oct</cell>
+	<cell>'61</cell>
+</row>
+<row>
+	<cell>W<hi rend="underline"><hi rend="sup">m</hi></hi> Keith</cell>
+	<cell>Lieut_</cell>
+	<cell>promoted</cell>
+	<cell><date when="1861-10-22">"</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+</row>
+<row>
+	<cell>Tho. R. Brown</cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell><date when="1861-11-26">26</date></cell>
+	<cell>Nov</cell>
+	<cell>"</cell>
+</row>
+<row>
+	<cell>Henry S. Barnett</cell>
+	<cell>Capt:</cell>
+	<cell>Dead</cell>
+	<cell><date when="1861-10-11">11</date></cell>
+	<cell>Oct</cell>
+	<cell>"</cell>
+</row>
+</table><pb/>
+<lb/><table rend="rules">
+<row>
+	<cell> </cell>
+	<cell> </cell>
+	<cell> </cell>
+	<cell><hi rend="underline">date of Com:</hi></cell>
+	<cell> </cell>
+	<cell> </cell>
+</row>
+<row>
+	<cell>Jon Nall</cell>
+	<cell>Lieut_</cell>
+	<cell>promoted</cell>
+	<cell><date when="1861-10-11">11</date></cell>
+	<cell>Oct</cell>
+	<cell>1861</cell>
+</row>
+<row>
+	<cell>David M Dryden</cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell><date when="1862-01-22">22</date></cell>
+	<cell>Jan</cell>
+	<cell>1862</cell>
+</row>
+<row>
+	<cell>Alfred M. Smith</cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell><date when="1862-01-22">"</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+</row>
+<row>
+	<cell>Moses L. Norvell</cell>
+	<cell>"</cell>
+	<cell>dead</cell>
+	<cell><date when="1861-11-11">11</date></cell>
+	<cell>Nov</cell>
+	<cell>1861</cell>
+</row>
+<row>
+	<cell>Demetrius B. Coyle</cell>
+	<cell>"</cell>
+	<cell>promoted</cell>
+	<cell><date when="1861-11-11">"</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+</row>
+<row>
+	<cell>Henry W. Mayer</cell>
+	<cell>"</cell>
+	<cell>Mustered out of Service</cell>
+	<cell><date when="1861-11-11">"</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+</row>
+<row>
+	<cell>Charles A. M<hi rend="sup">c</hi>Cue</cell>
+	<cell>"</cell>
+	<cell>" "</cell>
+	<cell><date when="1861-11-11">"</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+</row>
+<row>
+	<cell>Geo. H. Carm</cell>
+	<cell>Capt_</cell>
+	<cell>promoted</cell>
+	<cell><date when="1861-11-11">"</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+</row>
+<row>
+	<cell>Charley D. Bailey</cell>
+	<cell>Lieut_</cell>
+	<cell>"</cell>
+	<cell><date when="1861-12-15">15</date></cell>
+	<cell>Dec</cell>
+	<cell>"</cell>
+</row>
+<row>
+	<cell>Allen J. Roark</cell>
+	<cell>L<hi rend="sup">t</hi> Col<hi rend="sup">o</hi></cell>
+	<cell>Dead</cell>
+	<cell><date when="1861-11-11">11</date></cell>
+	<cell>Nov</cell>
+	<cell>"</cell>
+</row>
+<row>
+	<cell>John H. Grinder</cell>
+	<cell>Adj<hi rend="sup">t</hi> -</cell>
+	<cell>promoted</cell>
+	<cell><date when="1861-11-12">12</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+</row>
+<row>
+	<cell>Speed S. Fry -- </cell>
+	<cell>Col<hi rend="underline"><hi rend="sup">o</hi></hi></cell>
+	<cell>"</cell>
+	<cell><date when="1861-10-09">9</date></cell>
+	<cell>Oct</cell>
+	<cell>"</cell>
+</row>
+<row>
+	<cell>John T. Croxton</cell>
+	<cell>L<hi rend="sup">t</hi> Col<hi rend="sup">o</hi></cell>
+	<cell>"</cell>
+	<cell><date when="1861-10-09">"</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+</row>
+<row>
+	<cell>P. B. Hunt</cell>
+	<cell>Major</cell>
+	<cell>"</cell>
+	<cell><date when="1861-10-09">"</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+</row>
+<row>
+	<cell>Rob. M. Kelly</cell>
+	<cell>Capt</cell>
+	<cell>"</cell>
+	<cell><date when="1861-10-09">"</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+</row>
+<row>
+	<cell>Dan<hi rend="sup">l</hi> B. Waggoner</cell>
+	<cell>Adj<hi rend="sup">t</hi></cell>
+	<cell>resigned</cell>
+	<cell><date when="1862-01-21">21</date></cell>
+	<cell>Jan</cell>
+	<cell>1862</cell>
+</row>
+<row>
+	<cell>James L. Burch</cell>
+	<cell>Capt_</cell>
+	<cell>dead</cell>
+	<cell><hi rend="str">19</hi> ^<date when="1862-02-22">22</date>^</cell>
+	<cell><hi rend="str">Ap</hi> ^Feb^</cell>
+	<cell>"</cell>
+</row>
+<row>
+	<cell>Henry C. Dunlap</cell>
+	<cell>Adj<hi rend="sup">t</hi></cell>
+	<cell>resigned</cell>
+	<cell><date when="1861-09-09">9</date></cell>
+	<cell>Sep</cell>
+	<cell>'61</cell>
+</row>
+</table></p>
+<p>William Rains Capt: heretofore reported as mustered out U. S. Services by order of the U. S. Military Board &amp; approved by President U. S. <date when="1862-04-14">14 April 1862</date> &amp; it is now reported here, that</p>
+<p><table rend="rules">
+<row>
+	<cell>Capt: Rains</cell>
+	<cell>resigned</cell>
+	<cell><date when="1862-05-21">21</date></cell>
+	<cell>May</cell>
+	<cell>1862</cell>
+	<cell><date when="1861-10-28">28</date></cell>
+	<cell>Oct</cell>
+	<cell>'61-</cell>
+</row>
+<row>
+	<cell>Geo. W. Richardson</cell>
+	<cell>Lieut:</cell>
+	<cell>resigned</cell>
+	<cell> </cell>
+	<cell> </cell>
+	<cell><date when="1861-09-09">9</date></cell>
+	<cell>Sep</cell>
+	<cell>'61</cell>
+</row>
+<row>
+	<cell>James H Howard</cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell> </cell>
+	<cell> </cell>
+	<cell><date when="1861-12-09">9</date></cell>
+	<cell>Dec</cell>
+	<cell>'61</cell>
+</row>
+<row>
+	<cell>Herman Hont</cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell> </cell>
+	<cell> </cell>
+	<cell><date when="1862-01-25">25</date></cell>
+	<cell>Jan</cell>
+	<cell>'62</cell>
+</row>
+</table><pb/>
+<lb/><table rend="rules">
+<row>
+	<cell> </cell>
+	<cell> </cell>
+	<cell> </cell>
+	<cell><hi rend="underline">date of Com</hi></cell>
+	<cell> </cell>
+	<cell> </cell>
+</row>
+<row>
+	<cell>Theo F. Cummings</cell>
+	<cell>Lieut-</cell>
+	<cell>resigned</cell>
+	<cell><date when="1862-01-01">1</date></cell>
+	<cell>Jan</cell>
+	<cell>'62</cell>
+</row>
+<row>
+	<cell>David Pool-</cell>
+	<cell>"</cell>
+	<cell>promoted</cell>
+	<cell><hi rend="str">25</hi> ^<date when="1861-11-11">11</date>^</cell>
+	<cell><hi rend="str">Ap</hi> ^Nov^</cell>
+	<cell><hi rend="str">62</hi> ^61^</cell>
+</row>
+<row>
+	<cell>Isaac W. Sketo-</cell>
+	<cell>Capt:</cell>
+	<cell>killed in Battle at Shiloh</cell>
+	<cell><date when="1861-11-11">"</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+</row>
+<row>
+	<cell>Jesse K. Freeman</cell>
+	<cell>_Lieut</cell>
+	<cell>promoted</cell>
+	<cell><date when="1861-11-11">"</date></cell>
+	<cell>"</cell>
+	<cell>'</cell>
+</row>
+<row>
+	<cell>Addison Turner</cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell><date when="1861-11-11">"</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+</row>
+<row>
+	<cell>Elijah C. Phelps</cell>
+	<cell>Capt:</cell>
+	<cell>Dead</cell>
+	<cell><date when="1861-11-11">"</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+</row>
+<row>
+	<cell>Oliver P. Johnson</cell>
+	<cell>Lieut:</cell>
+	<cell>pro:</cell>
+	<cell><date when="1861-11-11">"</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+</row>
+<row>
+	<cell>W<hi rend="sup">m</hi> R Willis</cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell><date when="1861-11-11">"</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+</row>
+<row>
+	<cell>James R Wise</cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell><date when="1861-11-11">"</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+</row>
+<row>
+	<cell>Geo. W. Roberts</cell>
+	<cell>Q<hi rend="sup">r</hi> Mas.</cell>
+	<cell>"</cell>
+	<cell><date when="1862-02-16">16</date></cell>
+	<cell>Feb</cell>
+	<cell>'62</cell>
+</row>
+<row>
+	<cell>John W Tuttle</cell>
+	<cell>Lieut</cell>
+	<cell>"</cell>
+	<cell><date when="1861-10-04">4</date></cell>
+	<cell>Oct</cell>
+	<cell>'61</cell>
+</row>
+<row>
+	<cell>James W. Bristow</cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell><date when="1861-10-08">8</date></cell>
+	<cell>Oct</cell>
+	<cell>'61</cell>
+</row>
+<row>
+	<cell>B. F. Powell</cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell><date when="1861-10-08">"</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+</row>
+<row>
+	<cell>W. H. Tyree</cell>
+	<cell>"</cell>
+	<cell>resigned</cell>
+	<cell><date when="1861-10-20">20</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+</row>
+<row>
+	<cell>Fon T. Fox Jr</cell>
+	<cell>Major</cell>
+	<cell>"</cell>
+	<cell><date when="1862-04-15">15</date></cell>
+	<cell>Ap:</cell>
+	<cell>'62</cell>
+</row>
+<row>
+	<cell>Ben V. Banks</cell>
+	<cell>Lieut</cell>
+	<cell>Promoted</cell>
+	<cell><date when="1861-11-12">12</date></cell>
+	<cell>Nov</cell>
+	<cell>'61</cell>
+</row>
+<row>
+	<cell>W<hi rend="underline"><hi rend="sup">m</hi></hi> L. Lee</cell>
+	<cell>"</cell>
+	<cell>Killed in Battle</cell>
+	<cell><date when="1861-11-30">30</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+</row>
+<row>
+	<cell>Patrick G. Fisher</cell>
+	<cell>"</cell>
+	<cell>Promoted</cell>
+	<cell><date when="1861-11-30">"</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+</row>
+<row>
+	<cell>Giles A Gallup</cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell><date when="1861-11-16">16</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+</row>
+<row>
+	<cell>W<hi rend="underline"><hi rend="sup">m</hi></hi> H. Stratton</cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell><date when="1861-11-16">"</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+</row>
+<row>
+	<cell>Berry M. Webb</cell>
+	<cell>"</cell>
+	<cell>Deceased</cell>
+	<cell><date when="1861-11-12">12</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+</row>
+<row>
+	<cell>Isaac T. Hizer</cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell><date when="1861-11-20">20</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+</row>
+<row>
+	<cell>Tho. A. Lowe</cell>
+	<cell>"</cell>
+	<cell>Killed in Battle</cell>
+	<cell><date when="1861-11-20">"</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+</row>
+<row>
+	<cell>Samuel H. Murrell</cell>
+	<cell>"</cell>
+	<cell>resigned</cell>
+	<cell><date when="1861-11-13">13</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+</row>
+<row>
+	<cell>James M. Anderson</cell>
+	<cell>"</cell>
+	<cell>Promoted</cell>
+	<cell><date when="1861-12-30">30</date></cell>
+	<cell>Dec</cell>
+	<cell>"</cell>
+</row>
+<row>
+	<cell>James Blue</cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell><date when="1861-11-29">29</date></cell>
+	<cell>Nov</cell>
+	<cell>"</cell>
+</row>
+<row>
+	<cell>John Kinney</cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell><date when="1861-11-26">26</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+</row>
+</table><pb/>
+<lb/><table rend="rules">
+<row>
+	<cell/>
+	<cell> </cell>
+	<cell> </cell>
+	<cell><hi rend="underline">Date of Com</hi></cell>
+	<cell> </cell>
+	<cell> </cell>
+</row>
+<row>
+	<cell>W<hi rend="sup">m</hi> B. Johnson</cell>
+	<cell>Lieut:</cell>
+	<cell>Promoted</cell>
+	<cell><date when="1861-11-23">23</date></cell>
+	<cell>Nov</cell>
+	<cell>'61</cell>
+</row>
+<row>
+	<cell>Henry C. Carr</cell>
+	<cell>" -- </cell>
+	<cell>resigned-</cell>
+	<cell><date when="1861-09-27">27</date></cell>
+	<cell>Sep</cell>
+	<cell>"</cell>
+</row>
+<row>
+	<cell>Isaac Singleton</cell>
+	<cell>" -- </cell>
+	<cell>do -- </cell>
+	<cell><date when="1861-12-12">12</date></cell>
+	<cell>Dec</cell>
+	<cell>"</cell>
+</row>
+<row>
+	<cell>L. P. Ellis -- </cell>
+	<cell>Capt -- </cell>
+	<cell>do -- </cell>
+	<cell><date when="1861-11-01">1</date></cell>
+	<cell>Nov</cell>
+	<cell>"</cell>
+</row>
+<row>
+	<cell>J. P. Jones -- </cell>
+	<cell>Q. M. -- </cell>
+	<cell>do -- </cell>
+	<cell><date when="1862-01-18">18</date></cell>
+	<cell>Jan</cell>
+	<cell>'62</cell>
+</row>
+<row>
+	<cell>Walter O. Woods</cell>
+	<cell>Capt -- </cell>
+	<cell>do -- </cell>
+	<cell><date when="1861-11-18">18</date></cell>
+	<cell>Nov</cell>
+	<cell>'61</cell>
+</row>
+<row>
+	<cell>Oliver D. Botner</cell>
+	<cell> -- " -- </cell>
+	<cell>do -- </cell>
+	<cell><date when="1861-10-22">22</date></cell>
+	<cell>Oct</cell>
+	<cell>'61</cell>
+</row>
+<row>
+	<cell>Ben N. Milton</cell>
+	<cell>Lieut -- </cell>
+	<cell>do -- </cell>
+	<cell><date when="1861-10-28">28</date>-</cell>
+	<cell>"-</cell>
+	<cell>"-</cell>
+</row>
+<row>
+	<cell>Sam<hi rend="sup">l</hi> M<hi rend="sup">c</hi>Kee-</cell>
+	<cell>Capt-</cell>
+	<cell>promoted-</cell>
+	<cell><date when="1861-10-08">8</date></cell>
+	<cell>"-</cell>
+	<cell>"-</cell>
+</row>
+<row>
+	<cell>James T. Bramlette</cell>
+	<cell>Lieut_</cell>
+	<cell>decline Acc:</cell>
+	<cell><date when="1862-04-05">5</date></cell>
+	<cell>Ap.</cell>
+	<cell>'62-</cell>
+</row>
+</table>
+<lb/>Very Resp<hi rend="sup">ly</hi>
+<lb/>John W. Finnell
+<lb/>Adj<hi rend="sup">t</hi> Gen<hi rend="sup">l</hi></p>
+  </body>
+ </text>
+</TEI>

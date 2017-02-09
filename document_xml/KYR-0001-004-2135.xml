@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2135"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Patric Fitzgerald to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6772</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR14-361</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Lawrenceburg, Anderson County, Kentucky</placeName>
+    <date when="1865-08-15">15 August 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency Thos. E. Bramlette Governor of Kentucky</p>
+<p>Your petitioner Patrick Fitzgerald would respectfully represent on the <date when="1865-07-31">31<hi rend="sup">st</hi> day of July 1865</date>, he was tried before the Police Judge of Lawrenceburg &amp; fined the Sum of Four Dollars for the offense, of having Committed a breach of the peace in Said Town on Saturday the <date when="1865-07-29">29<hi rend="sup">th</hi> July 1865</date>. He would respectfully represent the facts in the case to be as follows. He &amp; a friend proposed to another gentleman to join them in a "Drink", whereupon his friend &amp; the gentleman so invited got into a difficulty &amp; Some friends of this gentleman, Struck your petitioner, whereupon your petitioner made an effort to defend himself &amp; indulged in some loud &amp; profane language, for which he was fined as aforesaid. Wherefore he asks that Your Excellency will Extend to him Executive Clemency &amp; remit said fine.</p>
+<p>With Respect.
+<lb/>Your obt. Servt
+<lb/>Patric Fitzgerald
+<lb/>Lawrenceburg Ky
+<lb/><date when="1865-08-15">Aug 15<hi rend="sup">th</hi> 1865</date></p>
+<p><note place="left margin">Your Petitioner would further add, that he was arrested &amp; confined in jail from the time of the Said disturbance until the following Monday.</note><pb/></p>
+<p>We the undersigned Citizens of Lawrenceburg would Respectfully unite with Patric Fitzgerald in his within petition</p>
+<p>Respectfully -- 
+<lb/><milestone unit="column" n="2"/><cb n="1"/>John Droffen Attor A. C.
+<lb/><cb n="2"/>J. S. Boswell
+<lb/>James Saffell
+<lb/>J. H. Linny
+<lb/>W. E. Jordan
+<lb/>W H M<hi rend="sup">c</hi>Brayers
+<lb/>James M. Posey
+<lb/>John F Wills
+<lb/>J W Sherman
+<lb/>W<hi rend="sup">m</hi> Safell
+<lb/>M Walker
+<lb/>Wm Searcy</p>
+<p>Lawrenceburg Police Court
+<lb/>vs
+<lb/>P Fitzgerald
+<lb/>Refused</p>
+  </body>
+ </text>
+</TEI>

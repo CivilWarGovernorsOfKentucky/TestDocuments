@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-161-0018"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Thomas E. Bramlette to Edwin M. Stanton</title>
+    <title level="a" type="parallel">CWG13931</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>Adjutant General Letter Book - No. 10 ; 10 Feb - 16 March 1865</collection>
+      <idno>111</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1865-02-16">16 February 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><note place="header">111</note>
+<lb/><date when="1865-02-16">Feby 16<hi rend="underline"><hi rend="sup">th</hi></hi> <gap/>65</date>
+<lb/>Hon. E. M. Stanton
+<lb/>Secty of War
+<lb/>Washington D. C
+<lb/>Sir.</p>
+<p>I have the honor to request information as to whether or not special authority has been granted Lt Col Sam<hi rend="sup">l</hi> Johnson formerly of the 52<hi rend="sup">d</hi> Ky Infty, and Col H. T. Burge formerly of the 48<hi rend="underline"><hi rend="sup">th</hi></hi> Ky Infty, to raise Each a regiment. These two regiments the 48<hi rend="underline"><hi rend="sup">th</hi></hi> and 52<hi rend="sup">d</hi>, have been mustered out of service. Each have recruited some three or four hundred men, and made application to me for commissions. If authority has not been granted him, I respectfully request orders to consolidate the men they have recruited into a regiment, and have them mustered into service at once. This I deem but an act of justice to the men they have Enlisted. They Enlisted as cavalry for one year.</p>
+<p>Very Respectfully Thos E Bramlette Gov of Ky</p>
+  </body>
+ </text>
+</TEI>

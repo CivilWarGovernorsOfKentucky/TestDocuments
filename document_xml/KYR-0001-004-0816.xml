@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0816"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Lucinda Greenman to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG4935</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR10-261 to BR10-262</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Chicago, Cook County, Illinois</placeName>
+    <date when="1864-05-21">21 May 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency the
+<lb/>Governor of the State of Kentucky.</p>
+<p>Your Petitioner Lucinda Greenman of the City of Chicago In the State of Illinois on oath represents to your Excellency that her son Silas L. Greenman is now confined in the Penitentiary at Frankfort on a conviction for larceny obtained during the <date when="1862-05">month of May A.D. 1862</date> or thereabouts, and that he was sentenced for the term of five years as your Petitioner is informed &amp; believes to be true which term is still unexpired.</p>
+<p>And your Petitioner further represents to your Excellency that she is in very feeble health without any means of support and entirely dependant upon her sons for her maintenance, two of which are quite young, &amp; one of them incapacitated by a bodily injury from engaging in any laborious occupation, and that she had been entirely supported by her son Silas previous to his arrest, and is now entirely deprived of his aid.</p>
+<p>And your Petitioner further shows that her said son had resided in said City of Chicago up to within about a year of his arrest or conviction as aforesaid and for about two years had been employed as a Porter in the<pb/>
+<lb/>Metropolitan Hotel in said City, and that she is informed by the Proprietor of said Hotel that during such employment the deportment of he son was unexceptionable, and that he had a most excellenct reputation for honesty, integrity, &amp; for careful attention to the duties of his place. and that he left his sittuation as Porter for that of Steward on one of the river Boats under the inducement of higher wages.</p>
+<p>And your Petitioner further shows that her said son was convicted under the name of George Thomas which was assumed out of regard to the feelings of his mothers your Petitioner.</p>
+<p>And your Petitioner further shows that her said son Silas L. Greenman has never before been convicted, nor accused nor even suspected of the commission of any offence against the Laws, but has always hitherto been a good citizens, &amp; a kind, attentive and affectionate son.</p>
+<p>Wherefore your Petitioner prays your Excellency to exercise your prerogative and to grant to the said Silas L. Freeman. otherwise called George Thomas a Pardon in order that he may be restored to his mother &amp; to his friends.</p>
+<p>And your Petitioner with full<pb/>
+<lb/>faith in just<hi rend="str">ice</hi>^ness ^ of her petition will ever pray &amp;c</p>
+<p>Sworn before me this <date when="1864-05-21">21<hi rend="sup">st</hi> Day of May 1864</date> } Lucinda Greenman
+<lb/><hi rend="str">Before</hi>
+<lb/>O. R. W Lull
+<lb/>Notary Public
+<lb/>In &amp; for the City of Chicago Cook County Illinois</p>
+<p><figure type="seal"><ab>A. W. Lull
+<lb/>CHICAGO
+<lb/>ILLS.
+<lb/><unclear/></ab></figure></p>
+<p><stamp type="revenue"/><note place="stamp"><date when="1864-05-21">5/21
+<lb/>1864</date>
+<lb/>O R W
+<lb/>N. P.</note></p>
+  </body>
+ </text>
+</TEI>

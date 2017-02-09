@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-079-0020"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">W. H. Whewitt to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG14019</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>Enrolled Militia Records 1864 - 1865 ; Adair, Allen, Boyle, Daviess, Garrard, Owen, Pendleton, and Shelby counties</collection>
+      <idno>Flat Box 7, Folder 864 GARRARD COUNTY 7th RGT KY MILITIA To Be DRAFTED</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Lancaster, Garrard County, Kentucky</placeName>
+    <date when="1864-05-28">28 May 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Lancaster <date when="1864-05-28">May 28<hi rend="sup">th</hi> 1864</date>
+<lb/>Hon T. E. Bramlette
+<lb/>Dear Sir</p>
+<p>I rec<hi rend="sup">d</hi> yesterday a paper from the Inspector General<hi rend="sup">s</hi> office directing <hi rend="underline">me</hi> to make all necessary arrangements to draft 95 men of the Enrolled Militia of this County.</p>
+<p>I am at a loss what to do. The assessors of the County have given the enrollment so little attention that I am confident from my knowledge of the facts. and information that very few more that 2/3 of the militia has been reported. Will you be kind enough as to instruct me.</p>
+<p>I remain your 
+<lb/>Obt servt
+<lb/>W H. Whewitt<pb/></p>
+<p>Ky State Militia
+<lb/>Lancaster Garrard Co. Ky
+<lb/><date when="1864-05-28">May 28 -- 1864</date><figure type="hr"/>
+<lb/>Whewitt W. H. clk
+<lb/>Garrard County Court</p>
+<p>To the Gov. and by him referred for answer. Wants to be instructed as to his duty in relation to the draft. He does not think the assessor of the county have reported more than 2/3 of the Militia<figure type="hr"/>
+<lb/>An<hi rend="sup">s</hi> <date when="1864-05-31">May 31 -- 1864</date> on letter book Page 321<figure type="hr"/>
+<lb/>Rec. I. G. O. <date when="1864-05-31">May. 31 -- 1864</date></p>
+  </body>
+ </text>
+</TEI>

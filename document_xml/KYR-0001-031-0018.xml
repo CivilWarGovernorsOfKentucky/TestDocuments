@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-031-0018"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">B. L. D. Griffy to Unknown </title>
+    <title level="a" type="parallel">CWG7758</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Appointments by the Governor, Civil Appointments, 1862-1863</collection>
+      <idno>R1-51</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date when="1862-10-06">6 October 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><figure type="seal"><ab>UNITED WE STAND DIVIDED WE FALL</ab></figure>
+<lb/>Commonwealth of Kentucky,
+<lb/>EXECUTIVE DEPARTMENT,
+<lb/>Louisville, <gap/> 186
+<lb/>Dear Sir:</p>
+<p>Appoint Jonathan Butler Justice of the peace for Butler County in district No 1 in place of B B Sublett made vacant by removal</p>
+<p>This is to certify that Isaac O Adkins Justice of the peace for Butler County in District No 3 has removed from said &amp; said office is vacant</p>
+<p>I reccommend Abraham Womack as his Successor</p>
+<p>B L. D Guffy P. J. B. C. C.
+<lb/><date when="1862-10-06">Oct 6<hi rend="sup">th</hi> 1862</date><pb/></p>
+<p>Butler Co.<figure type="hr"/>
+<lb/>J. P.
+<lb/>N<hi rend="sup">o</hi> 1. &amp; 3.
+<lb/>App<hi rend="sup">d</hi> Iss<hi rend="sup">d</hi> <date when="1862-10-06">Octo 6 1862</date></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2013"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Sebastian Eifort to William G. Reasor</title>
+    <title level="a" type="parallel">CWG6650</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR14-171 to BR14-172</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Boone Furnace, Carter County, Kentucky</placeName>
+    <date when="1865-06-09">9 June 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Boone Furnace Carter County
+<lb/><date when="1865-06-09">June 9<hi rend="sup">th</hi> 1865</date>
+<lb/>W<hi rend="underline"><hi rend="sup">m </hi></hi>Reassor Esqr.
+<lb/>Dear Sir</p>
+<p>M<hi rend="underline"><hi rend="sup">r</hi></hi> Skines called upon to day in regard to his son in Prisson, at the time he was in Frankfort I have done all I possible could do in regard to his case. Co<hi rend="underline"><hi rend="sup">l</hi></hi> Hanson and myself (after he left went before the Governor, as he was a member of his Regt, and gave him all the prasie as in regard to a good soldier, and if the papers would have been there, the Governor would have repreived him at once.</p>
+<p>There is nothing in the case and as you will find in the petition that he should come out of prisson get M<hi rend="sup">r</hi> Dupuy to do all he can in regard to his case, (in connection with his office) I am sattisfied that he has stayed long enough, do all you can let me hear from you</p>
+<p>Yours truley
+<lb/>S Eifont</p>
+  </body>
+ </text>
+</TEI>

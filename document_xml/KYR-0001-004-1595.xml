@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1595"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">James F. Mayberry to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6232</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR13-30</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Covington, Kenton County, Kentucky</placeName>
+    <date when="1865-03-24">24 March 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Covington Ky <date when="1865-03-24">March 24 1865</date>
+<lb/>Gov Bramlette,</p>
+<p>D<hi rend="sup">r</hi> Sir, At the last term of the Circuit Court I was fined for selling playing cards Fifty Dollars ^and costs^ I had sold but one deck in perfect ignorance of the law and furthermore until this case the law had never been enforced, I am unable to pay this fine from the fact that under Gen Burbridge<hi rend="sup">s</hi> permit system <hi rend="str">of permits</hi> I was compelled to abandon business thereby almost depriving me of a liveing, Under such circumstances I am sure that you will think that I was perfectly innocent in selling that deck of cards, Hopeing earnestly that you will remit my fine</p>
+<p>I remain
+<lb/>Yours Truly
+<lb/>James P Maybery<pb/></p>
+<p>Kenton Cir Ct
+<lb/>vs
+<lb/>Jas P. Maybery
+<lb/>$50 -- 
+<lb/><hi rend="underline">Remit</hi>
+<lb/><date when="1865-03-31">31<hi rend="sup">st</hi> Mch 1865</date></p>
+<p>sent for fee
+<lb/><date when="1865-03-29">29<hi rend="sup">th</hi> Mch/65</date></p>
+  </body>
+ </text>
+</TEI>

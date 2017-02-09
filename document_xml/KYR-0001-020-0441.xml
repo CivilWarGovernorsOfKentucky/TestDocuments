@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0441"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">T. J. Cornelison et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG9909</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG18-186 to MG18-187</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Jackson County, Kentucky</placeName>
+    <date when="1860-11-15">15 November 1860</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>We the undersigned would most respectfully ask your Exelecny B. Magoffin Governor of Kentucky to pardon J. R Isaacs now confined in the state penetentiary convicted in the Jackson Circuit Court upon a charge of manslaughter <date when="1860-11-15">15<hi rend="underline"><hi rend="sup">th</hi></hi> Novr/60</date>.</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>T. J. Cornelison
+<lb/>william willies
+<lb/>hutchison powel
+<lb/>Geo. Caudel
+<lb/>John Coyle
+<lb/>Levi Park
+<lb/>H. O Wild
+<lb/>E. H. Harrison J P J C
+<lb/>John Reece
+<lb/>John Dishman
+<lb/>A, Powell
+<lb/>Thos Richardson
+<lb/>S W abrams
+<lb/>Philip Marcum
+<lb/>Alfred Evans
+<lb/>J. L. Tussey
+<lb/>Wm Metcalf
+<lb/>Bartley Rogers
+<lb/>Hugh O Donnell
+<lb/>Cornelious Moor
+<lb/>Franklin Faubus
+<lb/>Bodie Baker
+<lb/>William Blanton
+<lb/><cb n="2"/>James Cox
+<lb/>W<hi rend="sup">m</hi> Abner
+<lb/>Henrey Angle
+<lb/>Samuel Abner
+<lb/>William Shelton
+<lb/>Tho<hi rend="sup">s</hi> I Eyle
+<lb/>Morrel tax
+<lb/>Andrew Cornelius
+<lb/>Robrt Hayes
+<lb/>Henry Merius
+<lb/>M N Forbus J P J C
+<lb/>Matthias Seabon
+<lb/>W<hi rend="sup">m</hi> Harris
+<lb/>Wm Willson
+<lb/>R. E. Nichols
+<lb/>James Tincker one of Jury
+<lb/>Jacob Hellard
+<lb/>Joel Parratt
+<lb/>Allen Sumers
+<lb/>M, C, Hughs
+<lb/>Wm C Todd
+<lb/>Saml Correl
+<lb/>E Forbus<pb/>
+<lb/><milestone unit="column" n="1"/>Potition for J R Isaacks
+<lb/>John,, S,, Hamilton
+<lb/>James Engle
+<lb/>Mical M<hi rend="sup">c</hi>cinny
+<lb/>G M Pigg
+<lb/>pilip Gabberd
+<lb/>J<hi rend="underline"><hi rend="sup">no</hi></hi> Marcum
+<lb/>W. H Randall
+<lb/>J Newcum
+<lb/>Thomas H Carson
+<lb/>J, K, Scot
+<lb/>M Freeman J P J C
+<lb/>Jos Prance
+<lb/>W<hi rend="underline">m</hi> Clark jr
+<lb/>R. M. green
+<lb/>B H Robberson
+<lb/>John Cox
+<lb/>H J Clark
+<lb/>Isac lunsford
+<lb/>robert ramsey
+<lb/>William H Morris jr
+<lb/>Ellis Foules
+<lb/>Wm Allum baugh
+<lb/>H J Hughs -- 
+<lb/>Josip a s Bell
+<lb/>W C Muhaffy
+<lb/>David Goury</p>
+<p>732
+<lb/><hi rend="underline">350</hi>
+<lb/>282
+<lb/><hi rend="underline">275</hi>
+<lb/>1,0<hi rend="str">6</hi>7</p>
+<p>274 -- 
+<lb/><hi rend="underline">10</hi>
+<lb/>270</p>
+<p>Isaac<hi rend="sup">s</hi> -- case
+<lb/>2 yrs Pen<hi rend="sup">y</hi> -- 
+<lb/>Jackson Cir Ct
+<lb/>Issue pardon
+<lb/>B, M.
+<lb/>Manslaughter
+<lb/>Iss<hi rend="sup">d</hi> <date when="1861-01-29">Jany 29. 1861</date></p>
+  </body>
+ </text>
+</TEI>

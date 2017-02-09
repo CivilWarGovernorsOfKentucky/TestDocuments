@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-024-0099"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">W. Anthony et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG12151</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Mitchell A Krock</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>1st - 20th Regiments Kentucky Infantry Primary Source Documents</collection>
+      <idno>Box 8, Folder 17th Ky. Inf. - Misc.</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Owensboro, Daviess County, Kentucky</placeName>
+    <date when="1864-05-19">19 May 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Owensboro' Ky. <date when="1864-05-19">May 19<hi rend="sup">th</hi> 64</date>
+<lb/>Hon. Thomas E. Bramlett
+<lb/>D<hi rend="sup">r</hi> Sir -- </p>
+<p>Permit us the pleasure of introducing to you our young friend Robert Allen -- He has been in the service of his country, and was a member and officer in the "17<hi rend="sup">th</hi> Ky" but owing to sickness was honorably discharged -- Having recovered his strength, he looks to the war path again and visits Frankfort to consult our patriotic Governor as to the best place for him to fill in maintaining our glorious country -- </p>
+<p>We hope you will aid him in his purpose -- </p>
+<p>Truly your friends
+<lb/>W, Anthony
+<lb/>W<hi rend="sup">m</hi> B Wall
+<lb/>J. W. Compton
+<lb/>Surgeon Brd Enrolment 2<hi rend="sup">nd</hi> Dist Ky
+<lb/>N B Allen Comr. Brd.
+<lb/>Enrolment 2<hi rend="sup">d</hi> Dist
+<lb/>John R Grissom Ky.
+<lb/>Pro War 2nd
+<lb/>Dist Ky<pb/></p>
+<p><note place="header">17</note>
+<lb/>Owensboro Ky
+<lb/><date when="1864-05-19">May 19<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date><figure type="hr"/>
+<lb/>Allen Robert
+<lb/>Athony W } &amp; others<figure type="hr"/></p>
+<p>Recommending Mr Robert Allen to your favorable consideration He is desirus to assist the Governor in raising the 10.000 six months men.<figure type="hr"/></p>
+<p>Recruiting authority issued &amp; delivered <date when="1864-05-23">23<hi rend="sup">d</hi> May 1864</date><figure type="hr"/>
+<lb/>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> A G O. <date when="1864-05-23">23<hi rend="sup">d</hi> May 1864</date></p>
+  </body>
+ </text>
+</TEI>

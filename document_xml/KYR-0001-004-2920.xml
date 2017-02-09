@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2920"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Ben. P. Cissell to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7557</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR17-246</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Henderson, Henderson County, Kentucky</placeName>
+    <date when="1865-12-28">28 December 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Henderson
+<lb/><date when="1865-12-28">Decr 28<hi rend="sup">t</hi> 1865</date>.
+<lb/>To His Excellency
+<lb/>Tho<hi rend="sup">s</hi> E Bramlette
+<lb/>Sir</p>
+<p>Enclosed please find the record and proceedings on an indictment agst C. Sixty on charges for selling liquor to slaves and a forfeiture of recognisance agst. D. Hollinger in same cases. It will be seen that in 1861 deft Sixty appeared and demurred to the indictment, which was overruled and case continued -- In <date when="1862">1862</date> he did not appear, and the charge, nothing but a misdemeaner -- &amp; his appearance not necessary under the Code yet his bond was taken as forfeited &amp; summons awarded agst Hollinger, the security In <date when="1863-06">June 1863</date>, judgment is rendered agst Hollinger for Sixty dollars amount of said bond with interests &amp; costs. At <date when="1864-12">December term 1864</date>, the commonwealth failing to make ^out^ the case, dismissed same. It seems from this state of case, it presents strong grounds for appealing to executive clemency in behalf of D. Hollinger I take the Liberty of calling your attention for him to the facts, and ask in in behalf a remission thereof</p>
+<p>Truly Ben. P. Cissill</p>
+  </body>
+ </text>
+</TEI>

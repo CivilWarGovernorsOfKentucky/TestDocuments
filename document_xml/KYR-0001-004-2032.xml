@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2032"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">G. P. Shanklin to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6669</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR14-198 to BR14-199</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Paris, Bourbon County, Kentucky</placeName>
+    <date when="1865-06-20">20 June 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Paris Ky
+<lb/><date when="1865-06-20">June 20<hi rend="sup">th</hi> 1865</date>
+<lb/>His Exce<hi rend="underline"><hi rend="sup">l</hi></hi> Gov. Bramlett
+<lb/>D Sir</p>
+<p>Two young men John Scott, &amp; Joseph Chrisman, raised in the County of Jessamine and belongin to two of the most respectable familys in the County are indicted in the County of Jessamine for Mule stealing, I have known boath of them from ther infancy, thay are mear boys, and I have now no doubt that at the time the offence was commited thay ware boath under<pb/>
+<lb/>the influence of liquor and induced to commit the act, by artfull and disorderly men, and made dupes off</p>
+<p>Thay have boath sustained good caracters upto this occurance, and now much regrett their folly, I believe if thay are pardoned, thay will reform their lives and make good and usefull citizens.</p>
+<p>I therefore make and aske your Ecelencey to pardon ther offence and restore them to their distinguished families, I believe it will be approved by all that know the facts, Yours truly</p>
+<p>G. P. Shanklin</p>
+  </body>
+ </text>
+</TEI>

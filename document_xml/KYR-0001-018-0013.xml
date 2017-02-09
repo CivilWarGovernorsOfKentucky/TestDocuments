@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-018-0013"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">James Thomas to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG8079</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Military Appointments, 1859-1862</collection>
+      <idno>MG6-89</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Donaldson, Trigg County, Kentucky</placeName>
+    <date when="1861-04-24">24 April 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Donaldson, Ky. Trigg. Co. <date when="1861-04-24">Apl. 24. 61</date>.</p>
+<p>To His Excellency.</p>
+<p>Beriah Mogoffin Govenor of Kentucky. Whereas Such is the threathening aspect of public affairs, and civil war is so iminent, it is the part of prudence and patriotism that I ask at your hand. The appointment of an office of Col or Commandent of a Regiment in The Green River Country or some other. For I Served a twoer in the War with Mexico and their learned Military tactic and the use of arms. Which I have made my study evry Since, and feel confident that I can dscharge the duty of that office with honor to you and my native state. For Refferences Y. A. Ginn of Trigg our representative or Hon H. C. Burnett. I am Ready to go any wher that I am ordered. Whith those remarks I Remain Your Servent.</p>
+<p>James Thomas<pb/>
+<lb/>Ja<hi rend="sup">s</hi> Thomas
+<lb/>Trigg Co
+<lb/>An<hi rend="sup">d</hi> <date when="1861-04-29">Apr 29. 1861</date></p>
+  </body>
+ </text>
+</TEI>

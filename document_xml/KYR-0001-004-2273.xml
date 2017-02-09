@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2273"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Raly et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6910</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR15-118</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Sherburne, Fleming County, Kentucky</placeName>
+    <date when="1865-08-10">10 August 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Sherburne Ky. <date when="1865-08-10">Aug. 10 1865</date>
+<lb/>To His Excellency Gov. Bramlet
+<lb/>Frankfort Ky.
+<lb/>Dear Sir -- :</p>
+<p>We the undersigned citizens of Bath and Fleming countes do aske of you the release of Frederic Green for a few dayes; who whilst intoxicated committed a breack of the peace in Fleming Co. Ky. and was arrested by the civil authorites here tryed before <hi rend="str">a</hi> lawful and impartial Jurors and convicted to twenty days imprisenment. Now the resans of our requests are these <hi rend="str">1st</hi></p>
+<p>1st In consequence of his wifes ill<hi rend="underline">ness</hi> which is very greate and casideraly ammaciating under grief.</p>
+<p>2<hi rend="sup">d</hi> No one to take of her<hi rend="str">e</hi> in the right maner. Furthermore he is poor and cant be relieve with out the help of your gereous hands and we aske you through a spirit of humanity and christianity to casider the misfortuns of the afflicted and extend &amp; help in time of need.</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>John Raley J, P,
+<lb/>J. M. Williams (Juror)
+<lb/>N. H. M<hi rend="sup">c</hi>New Physician to wife
+<lb/>Isaac <unclear>Fahoon</unclear>
+<lb/>T F Stephens
+<lb/>Wick. Hopewell
+<lb/>I. S. Wrenchy
+<lb/>John M. Emmons
+<lb/>A. D. Miller
+<lb/>J F Burgess
+<lb/>James K Anderson
+<lb/>P J Jones
+<lb/>John Hermon
+<lb/><cb n="2"/>James Leforge
+<lb/>Stephen Terhune
+<lb/>Tohmas Rise
+<lb/>Joel pearce
+<lb/>S h Dailey
+<lb/>William hornback
+<lb/>James Lynam
+<lb/>Williams Smith
+<lb/>Lewis Story
+<lb/>Thomas Jester
+<lb/>Jim Cample
+<lb/>Dick Costren<pb/>
+<lb/><milestone unit="column" n="1"/>M Dailey
+<lb/>Dennis D Taylor
+<lb/>Richard Linam
+<lb/>John Seward
+<lb/>Ambros D Watson
+<lb/>Richard Terrmen
+<lb/>Isaac Wrenchey
+<lb/>E, T, Harmon
+<lb/>T, P, Hendrix</p>
+<p>Fleming Co
+<lb/>vs
+<lb/>F. Green
+<lb/>Remitted <date when="1865-08-19">19 Aug/65</date></p>
+  </body>
+ </text>
+</TEI>

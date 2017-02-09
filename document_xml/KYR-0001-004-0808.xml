@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0808"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">J. H. Lowry et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG4927</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR10-247 to BR10-248</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Elkton, Todd County, Kentucky</placeName>
+    <date when="1864-05-16">16 May 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Elkton <date when="1864-05-16">May 16<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date>
+<lb/>To His Excellency Thos. E. Bramlette
+<lb/>Governor of Ky</p>
+<p>Your Petitioners would respectfully represent That by a Judgment of the Todd Circuit Court at the <date when="1863-10">Oct. Term 1863</date>, there is in the Penitentiary, a young man by the name of James Shapp, confined on a charge of horse stealing. Sentenced for four years. The facts of his case are about these: In the <date when="1861">fall of 1861</date> he joined a company of Rebel Cavalry Stations in this county. After the fall of Fort Donnellson his company was ordered farther South in rather a hurry his horse was lame he went to the Stable of F. M. Bristow and took therefrom one of his (Bristow's) horses and left his own in the lot the proof conduced to show these facts-towit all circumstantial. he left the Confederate Service returned, was arrested and turned over to the Civil authorities (an indictment in the Mean time having been found against him) was tried and sentenced as above stated. We do think under the circumstances that the punishment already inflicted has been adequate to the offense. Hence we appeal to you for his pardon, and the parties directly in interest Sign this petition. We learn that he is repentant and promises reform. He has a little brother &amp; three sisters without father or mother that need his services. Prior to that time was a poor young man of good reputation.</p>
+<p>Very respectfully Yr Ob<hi rend="underline"><hi rend="sup">dt</hi></hi>. Ser<hi rend="underline"><hi rend="sup">vt</hi></hi>.
+<lb/>J. H. Lowry
+<lb/>J. M. Gill
+<lb/>J. D. Christian
+<lb/>J. G. Hallingwoods</p>
+<p>If it be true that the boy is repentant, he ought to be pardoned
+<lb/>F. M. Bristow
+<lb/>B H Bristow</p>
+  </body>
+ </text>
+</TEI>

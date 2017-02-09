@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0666"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">William Owens to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10134</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG19-8 to MG19-8B</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1861-02-28">28 February 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency
+<lb/>Beriah Magoffin Esq<hi rend="sup">r</hi>
+<lb/>Governor of Kentucky
+<lb/>Your Petition William Owens would respectfully represent.</p>
+<p>That at the <date when="--02">present February term</date> of the Montgomery Circuit, he confessed Judgement, for the sum of Five hundred Dollars, on an Indictment for <hi rend="underline">Gaming</hi> heretofore found against him in said Court; which said Judgement he has Replevied with good and approved security for the period of Three months in the office of said Court.</p>
+<p>He saith that the indictment aforesaid, was gotten up against him as he verily believes, though the ill-will of Certain of his enemies, but not being aware of any valid legal defence which he could make thereto, he made the Confesssion of Judgement as aforestated.</p>
+<p>He further saith that said Indictment was biased on his first offence of the kind in the said County &amp; he has since then refrained from its repetition and expects to do so as he resides in another County of this state and very seldom visits here. He has no other or<pb/>
+<lb/>further excuse to offer, and as the times have closed in so tight, and money is so hard to get hold of, <hi rend="str">that</hi> he feels impelled to ask your Excellency for the interposition of Executive clemency on his behalf, and a remission of so much of said Judgement and replevin bond, as may be on them the reach of Executive power</p>
+<p><hi rend="underline">William Owens</hi></p>
+<p>We whose name are hereto subscribed having examined the above petition, and seeing no reason why the same should not be granted do most heartily concur in the request Contained in said Petition</p>
+<p><date when="1861-02-28">February 28<hi rend="sup">th</hi> 1861</date> -- </p>
+<p>Walter Chiles Atty at Law
+<lb/>Thos Turner atty at law
+<lb/>J. W. Moore atto at law.
+<lb/>Tho F. Hazelrigg atto
+<lb/>at Law
+<lb/>O. S. Fenney Atty at Law
+<lb/>W<hi rend="sup">m</hi>. Ragam <unclear>farmer</unclear>
+<lb/>W. Messick Atty at Law.
+<lb/>A B Gatewood M D
+<lb/>J M Crawford C. M. C. Ct.
+<lb/>J. E. Clarke D. C. M. C. C.
+<lb/>Samuel McKee Atty at Law<pb/>
+<lb/>Jno Maupin constable M. C
+<lb/>Ch<hi rend="sup">a</hi>. Thompson Jailor M. C
+<lb/>Tho<hi rend="sup">s</hi> Metcalfe Atty at law
+<lb/>E O Garrett clerk M co court
+<lb/>P C Bedford D S for
+<lb/>J S Wyatt S M C
+<lb/>W T Gilkey D. S. M. C. C<pb/></p>
+<p>Montgomery Cir. Ct
+<lb/>Remitted
+<lb/>$500 } Gaming
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Owens
+<lb/>Iss<hi rend="sup">d</hi> <date when="1861-03-14">Mar 14. 1861</date></p>
+  </body>
+ </text>
+</TEI>

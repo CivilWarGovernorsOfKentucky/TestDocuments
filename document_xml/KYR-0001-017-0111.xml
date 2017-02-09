@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0111"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">William P. Mellen, Oath</title>
+    <title level="a" type="parallel">CWG2459</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Civil Appointments, 1859-1862</collection>
+      <idno>MG3-482</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Cincinnati, Hamilton County, Ohio</placeName>
+    <date when="1861-03-16">16 March 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>State of Ohio
+<lb/>Hamilton Co } ss</p>
+<p>W<hi rend="sup">m</hi> P. Mellen of the City of Cincinnati in said county &amp; state, being duly sworn says that he will well and truly execute and perform all his duties as Commissioner of Deeds for the state of Kentucky resident in said city &amp; county in the state of Ohio, according to the best of his skill &amp; judgment</p>
+<p>W<hi rend="sup">m</hi> P. Mellen</p>
+<p>State of Ohio
+<lb/>Hamilton County } ss:</p>
+<p>I Ethan A Brown a Notary Public within and for the county of Hamilton and state of Ohio, and duly commissioned as such do hereby certify, that William. P. Mellen. appeared before me in my office in the city of Cincinnati in said county and state; and being by me duly sworn made oath to the above affidavit and subscribed the same in my presence -- </p>
+<p>In testimony whereof I have hereunto set my hand and affixed my Notarial Seal this <date when="1861-03-16">sixteenth day of March AD 1861 -- </date></p>
+<p><figure type="seal"><ab>HAMILTON COUNTY OHIO
+<lb/>NOTARIAL SEAL</ab></figure></p>
+<p>Ethan A Brown -- 
+<lb/>Notary Public.
+<lb/>Hamilton County Ohio -- <pb/></p>
+<p>Ohio<figure type="hr"/>
+<lb/>Oath of W<hi rend="underline"><hi rend="sup">m</hi></hi> P. Mellen
+<lb/>Com<hi rend="sup">r</hi>. of Deeds
+<lb/>Filed <date when="1861-03-18">Mar 18 1861</date></p>
+  </body>
+ </text>
+</TEI>

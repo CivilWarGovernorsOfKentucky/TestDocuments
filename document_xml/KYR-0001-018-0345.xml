@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-018-0345"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John W. Finnell to Nathaniel Gaither, Jr.</title>
+    <title level="a" type="parallel">CWG8411</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Military Appointments, 1859-1862</collection>
+      <idno>MG6-460</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1862-06-26">26 June 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><figure type="seal"><ab>UNITED WE STAND, DIVIDED WE FALL.
+<lb/>KENTUCKY.</ab></figure>
+<lb/>Head-Quarters Kentucky Volunteer Militia,
+<lb/>ADJUTANT GENERAL'S OFFICE,
+<lb/>Frankfort, <date when="1862-06-26">June 26th 1862</date>.</p>
+<p>Hon: Nat Gaither Jr 
+<lb/>Sec. of State-</p>
+<p>I send Eighteen Commissions for record viz:
+<lb/><table rend="rules">
+<row>
+	<cell>William Forrester-</cell>
+	<cell>Surgeon-</cell>
+	<cell>dated</cell>
+	<cell><date when="1862-03-26">26</date></cell>
+	<cell>March</cell>
+	<cell>1862-</cell>
+	<cell>1</cell>
+</row>
+<row>
+	<cell>William Price-</cell>
+	<cell>Chaplain=</cell>
+	<cell>"</cell>
+	<cell><date when="1861-07-05">5</date></cell>
+	<cell>July</cell>
+	<cell>1861-</cell>
+	<cell>2</cell>
+</row>
+<row>
+	<cell>Delor Alden-</cell>
+	<cell>2<hi rend="sup">d</hi> Lieut-</cell>
+	<cell>"</cell>
+	<cell><date when="1862-03-13">13</date></cell>
+	<cell>March </cell>
+	<cell>1862-</cell>
+	<cell>3</cell>
+</row>
+<row>
+	<cell>John W. Parkhurst-</cell>
+	<cell>1st "-</cell>
+	<cell>"</cell>
+	<cell><date when="1862-03-13">"</date></cell>
+	<cell>"</cell>
+	<cell>"-</cell>
+	<cell>4</cell>
+</row>
+<row>
+	<cell>Samuel K. Cox</cell>
+	<cell>2nd "-</cell>
+	<cell>"</cell>
+	<cell><date when="1862-06-01">1</date></cell>
+	<cell>June</cell>
+	<cell>"-</cell>
+	<cell>5</cell>
+</row>
+<row>
+	<cell>John C. Northant</cell>
+	<cell>" "-</cell>
+	<cell>"</cell>
+	<cell><date when="1862-05-21">21</date></cell>
+	<cell>May</cell>
+	<cell>"-</cell>
+	<cell>6</cell>
+</row>
+<row>
+	<cell>James C. Morris</cell>
+	<cell>Captain-</cell>
+	<cell>"</cell>
+	<cell><date when="1862-05-21">"</date></cell>
+	<cell>"</cell>
+	<cell>"-</cell>
+	<cell>7</cell>
+</row>
+<row>
+	<cell>Henry C. Brennan</cell>
+	<cell>" -</cell>
+	<cell>"</cell>
+	<cell><date when="1862-06-12">12</date></cell>
+	<cell>June</cell>
+	<cell>"-</cell>
+	<cell>8</cell>
+</row>
+<row>
+	<cell>James A. M<hi rend="sup">c</hi>Campbell</cell>
+	<cell>2nd Lieut</cell>
+	<cell>"</cell>
+	<cell><date when="1862-05-20">20</date></cell>
+	<cell>May</cell>
+	<cell>"-</cell>
+	<cell>9</cell>
+</row>
+<row>
+	<cell>Daniel T. Buckner</cell>
+	<cell>" "</cell>
+	<cell>"</cell>
+	<cell><date when="1862-06-01">1</date></cell>
+	<cell>June</cell>
+	<cell>"-</cell>
+	<cell>10</cell>
+</row>
+<row>
+	<cell>Benjamin M. Chiles</cell>
+	<cell>1st "</cell>
+	<cell>" "</cell>
+	<cell><date when="1862-05-10">10</date></cell>
+	<cell>May-</cell>
+	<cell>"-</cell>
+	<cell>11</cell>
+</row>
+<row>
+	<cell>Henry S. Parrish</cell>
+	<cell>Captain</cell>
+	<cell>"</cell>
+	<cell><date when="1862-05-10">"</date></cell>
+	<cell>"</cell>
+	<cell>"-</cell>
+	<cell>12</cell>
+</row>
+<row>
+	<cell>Joseph Higden</cell>
+	<cell>2nd Lieut</cell>
+	<cell>"</cell>
+	<cell><date when="1862-05-01">1</date></cell>
+	<cell>"</cell>
+	<cell>"-</cell>
+	<cell>13</cell>
+</row>
+<row>
+	<cell>Ben F. Pumphrey</cell>
+	<cell>1st "-</cell>
+	<cell>"</cell>
+	<cell><date when="1862-05-01">"</date></cell>
+	<cell>"</cell>
+	<cell>"-</cell>
+	<cell>14</cell>
+</row>
+<row>
+	<cell>W<hi rend="sup">m</hi> H. Henry -- </cell>
+	<cell>Captain</cell>
+	<cell>"</cell>
+	<cell><date when="1862-05-01">"</date></cell>
+	<cell>"</cell>
+	<cell>"-</cell>
+	<cell>15</cell>
+</row>
+<row>
+	<cell>Basil F. Summers</cell>
+	<cell>2nd Lieut</cell>
+	<cell>"</cell>
+	<cell><date when="1862-05-01">"</date></cell>
+	<cell>"</cell>
+	<cell>"-</cell>
+	<cell>16</cell>
+</row>
+<row>
+	<cell>Beckwith Belmear</cell>
+	<cell>1st "</cell>
+	<cell>"</cell>
+	<cell><date when="1862-05-01">"</date></cell>
+	<cell>"</cell>
+	<cell>"-</cell>
+	<cell>17</cell>
+</row>
+<row>
+	<cell>Albert B. Ragsdale</cell>
+	<cell>Captain</cell>
+	<cell>"</cell>
+	<cell><date when="1862-05-01">"</date></cell>
+	<cell>"</cell>
+	<cell>"-</cell>
+	<cell>18</cell>
+</row>
+</table><pb/>
+<lb/>I am Sir
+<lb/>Very Resp<hi rend="sup">ly</hi>
+<lb/>John W. Finnell
+<lb/>Adj<hi rend="sup">t</hi> Gen<hi rend="sup">l</hi></p>
+<p>Also
+<lb/>One Com: for record viz:
+<lb/>Hawkins Brown Ass<hi rend="sup">t</hi> Surg: <date when="1862-06-24">24 June 1862</date>
+<lb/>J. W. F. 
+<lb/>A. G.</p>
+  </body>
+ </text>
+</TEI>

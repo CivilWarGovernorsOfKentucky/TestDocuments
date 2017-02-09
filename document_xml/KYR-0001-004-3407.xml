@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-3407"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">F. Maguire et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG5526</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR42-285 to BR42-286</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency, Thomas E. Bramlette, Governor of the Commonwealth of Kentucky.</p>
+<p>The Petition of the undersigned citizens of Louisville, respectfully represent that at the <date when="1863-01">January term 1863</date> of the Jefferson Circuit Court, Josiah Easton was convicted on an indictment for Grand Larceny. The deft. had previously sustained an excellent character for honesty. He has a wife and four children now destitute, having no support other than that supplied by the labor of the said Eaton. He had been nearly a year in prison awaiting his trial on the above charge and has been over a year in prison since his conviction. We believe that the punishment he has already suffered, and a reference to his former good character, with the fact of the helpless condition of his innocent family, are matters that will be taken into consideration and justify an exercise of the Executive clemency in his behalf.</p>
+<p>And your Petitioners will ever pray &amp;c.</p>
+<p><milestone unit="column" n="2"/><cb n="1"/><hi rend="underline">F. Maguire</hi>
+<lb/>J G Doyle
+<lb/><cb n="2"/>J. M. Foree
+<lb/>J. P. Gailbreath<pb/>
+<lb/><cb n="1"/>John N. Mattingly
+<lb/>M K Murphy
+<lb/>John W. Niven
+<lb/>Joseph Clement
+<lb/>John M. Farrar
+<lb/>J Browder
+<lb/>Wood Dannecker
+<lb/>Jos. R Buchanan
+<lb/>G. V. Prather
+<lb/>Byron Bacon
+<lb/>S. A. Atchison
+<lb/>Phil Tomppert Jr.
+<lb/>Joseph B. Reads
+<lb/>B S Geoffory
+<lb/>Silas F Miller
+<lb/><cb n="2"/>O H Strattan
+<lb/>Kilpatrick Strattan
+<lb/>Jeff. Brown.
+<lb/>F Clark
+<lb/>Geo. Bahr
+<lb/>A. M. Gaylay
+<lb/>C S Standiff
+<lb/>Baird &amp; Price
+<lb/>W K Thomas
+<lb/>James S Pirtle
+<lb/>John Cawein
+<lb/>William <unclear/><milestone unit="column" n="1"/><pb/></p>
+<p>Louisville
+<lb/>No sufficient reason for Executive clemency therefore Refused
+<lb/>Tho E Bramlette</p>
+  </body>
+ </text>
+</TEI>

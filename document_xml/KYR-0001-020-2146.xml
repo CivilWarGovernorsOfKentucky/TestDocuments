@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-2146"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Alfred C. Tanner to Unknown</title>
+    <title level="a" type="parallel">CWG9222</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG24-233 to MG24-234</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>McLean County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency
+<lb/>The Governor of Kentucky</p>
+<p>Whereas at the <date when="--03">late March Term</date> of the M<hi rend="sup">c</hi>Lean Circuit Court a Judgment for <gap/> hundred dollars was rendered in favor of this Commonwealth against Robin Stringer and others upon a forfeited Bail Bond executive in the Examining Court by said Robin Stringer and others for the appearance of Bayles Stringer at the <date when="--09">September Term</date> of said Circuit Court to answer the charge of drinking</p>
+<p>Whitaker -- </p>
+<p>Now we the Undersigned Citizens of M<hi rend="sup">c</hi>Lean County pray that Your Excellency may remit that portiion of said Judgment going to the Commonwealth for the following reasons to wit</p>
+<p>(1) The Said Whitaker was in the first instance only slightly injured by the striking charged and has since entirely recevied,</p>
+<p>2ndly The party Bayless Stringer was at last Court, ready and willing and anxious to be present and have his trial but was detained by Sickness which confined him to his Room -- </p>
+<p>Alf. C. Tanner Cllk M<hi rend="sup">c</hi>Lean Cir Cos
+<lb/>D Little Dr Judge for sd County
+<lb/>Wm Calhoun County Att<pb/>
+<lb/>Wm. H. Overhuls
+<lb/>A J Coffman
+<lb/>W L Bland
+<lb/>J A Miller
+<lb/>J. T. Mason
+<lb/>J. A. Birdwell,
+<lb/>J A Mason
+<lb/>F Karnes
+<lb/>R Shonnbery
+<lb/>M W, Oliver Esq
+<lb/>J J Coffman
+<lb/>John Barett
+<lb/>G W Mullins
+<lb/>H Lyons
+<lb/>A. S. M. Mullins
+<lb/><unclear/> Besbley
+<lb/>Thomas W,, Henry
+<lb/>John Bruce
+<lb/>B. F. Shutt
+<lb/>H Stringer
+<lb/>J Humphrey
+<lb/>J Donohoo
+<lb/>J Ry Miller
+<lb/>Benjamin Miller
+<lb/>Wm G Nopsinger<pb/>
+<lb/>Rejected
+<lb/><hi rend="underline">Tho P Porter</hi>
+<lb/>M<hi rend="sup">c</hi>Lean Co</p>
+  </body>
+ </text>
+</TEI>

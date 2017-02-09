@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1277"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Thomas Murnear et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10745</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG21-156</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excelency Beriah Magoffin Esqr
+<lb/>Govrnor of the Commonwealth of Kentucky</p>
+<p>Whereas Abijah Burns a citizen of owsley (Co) was indicted for carrying Consealed deadly weapons. and at the <date when="1861-05">May term of the owsley Circuit Court 1861</date> was tried and fined $50.. your petitioners would respectfully State that he is a very poor honest hard working man and very quiet peaceable man and owing to the great secarcety of money we believe that if the Collection of <hi rend="underline">sd</hi> fine was pressed he would be forced to go to prison</p>
+<p>therefore we your petitioners would respectfully ask your Excelincy to remit so much of <hi rend="underline">sd</hi> fine as is in your power to remit beleiving it is a case worthy of Executive Clemency</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> Murnear
+<lb/>A B Gilbert
+<lb/>R C Minter
+<lb/>O R Mayor
+<lb/>Joseph P <unclear>Slomes</unclear>
+<lb/>Wm A Rornald
+<lb/>Jesse Thomas
+<lb/>Joel Flanery
+<lb/>Eli Boling
+<lb/>Rob R Johnson
+<lb/>U P. Hampton
+<lb/><cb n="2"/>Charles G Cole
+<lb/>A T Hampton
+<lb/>Madison Cecil
+<lb/>William R. Cox
+<lb/>William W. Cecil
+<lb/>Joy G. Penington
+<lb/>John Cole
+<lb/>T G Green
+<lb/>S Isaacs
+<lb/>John J. Daugherty
+<lb/>T. H. Carson<pb/>
+<lb/><cb n="1"/>Isham Mayse
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Mays
+<lb/>John Maire
+<lb/>C, S Frase
+<lb/>S L Marions
+<lb/>Robert Mearson
+<lb/>Stephen Pelworth
+<lb/>James Cole
+<lb/>J. W. Seale
+<lb/>John L. Williams
+<lb/>Abraham Cormack
+<lb/>John K. Baley
+<lb/>eli g <unclear/>
+<lb/>Wm Bruer
+<lb/>Samuel Honley
+<lb/>J H Honley
+<lb/>H B Hampton
+<lb/>Aly Ledford
+<lb/>J N Cardwell att. at Law
+<lb/>William Combs
+<lb/>Z T Cecil
+<lb/>T D. G Combs
+<lb/>Anderson Bowman
+<lb/>H C Moor
+<lb/>E. Nimel P. M
+<lb/>Jacob Cornshell
+<lb/>John C. Cole
+<lb/>James Jesse
+<lb/><cb n="2"/>M. B. Woodward
+<lb/>Osten Pamer
+<lb/>Elisha Gabbard
+<lb/>Perry V Turner
+<lb/>Daniel M Callon
+<lb/>John <unclear>Cromery</unclear>
+<lb/>Lewis C Gabban
+<lb/>G W Daniel
+<lb/>James lynch
+<lb/>James Turner
+<lb/>Thomas milton
+<lb/>H C Hargis
+<lb/>Eli Barbin
+<lb/>W<hi rend="sup">m</hi> S. Heirst
+<lb/>H C Smith<milestone unit="column" n="1"/></p>
+<p>Owsley Cir. ct</p>
+<p>Respite 12 mo -- B M</p>
+<p>$50. } Weapons
+<lb/>A. Burns</p>
+<p>Iss<hi rend="sup">d</hi> <date when="1861-07-01">July 1. 1861</date></p>
+  </body>
+ </text>
+</TEI>

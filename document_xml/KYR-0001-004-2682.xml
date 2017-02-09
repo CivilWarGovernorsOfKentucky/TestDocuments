@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2682"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Seeley to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7319</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR16-311 to BR16-312</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Clay County, Kentucky</placeName>
+    <date when="1865-11-29">29 November 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><stamp type="revenue"/><stamp/>
+<lb/>To his Excellency Thomas E. Bramlette
+<lb/>Governor of the state of Kentucky,</p>
+<p>Your petitioner John Seeley, on oath says that the <date when="1865-06">June Term of the Clay Circuit court 1865</date>, he confessed a Judgment upon an Indictment for retailing Spirituous liquors, for the sum of $20,<hi rend="sup">00</hi> And cost? The facts are as follows, Your petitioner is a feeble Old man, And in consequence of a severe burn received by falling in the fire; in consequence of said burn or accident, his health was for many months quite feeble, so much so as to disable him from earning either in whole or in part ^a support^ And having no estate whatever he became a charge to the county After a long illness his health improved untill he thought he could in part earn a support. And one W<hi rend="underline"><hi rend="sup">m</hi></hi> L White there being a license retailer of spirituous liquors in the town of Manchester Clay County, state of Kentucky, tooke your petition in his house as Clerk or Bar Keeper; And being anxious to relieve the county of the burden of supporting him, and earning his support as far as possible, but not intending to violate the laws, And indeed not Knowing he was violationg the law, he did hand out to customers from behind the counter and receive the money for the same, liquors in small quanitities with^out^ having taken the oath prescribed for retailers of spirits He is <hi rend="str">9</hi>70 years old a very poor, destitute of property; dependant entirely on his labor for a support -- He Respectfully ask Your Excellency to relieve him from the payment of the said fine to the Commonwealth of Ky</p>
+<p>John Seeley</p>
+<p>Subscribed Sworn to before me by John Seeley this <date when="1865-11-29">29 day November 1865</date></p>
+<p>R P Young Examiner for Clay co Ky<pb/></p>
+<p>We the undersigned Citizens of Clay county and State of Kentucky are well acquainted with John Seeley and have read or heard read his statements and believe the fact therein Stated are true</p>
+<p>R P Young
+<lb/>J, G, Gilbert
+<lb/>James Gibson
+<lb/>G. W. Miller
+<lb/>George Frasur
+<lb/>J, S, M, Dickinson
+<lb/>Stephen Gibson
+<lb/>Alex. W. Chastain
+<lb/>Morgan Ingart
+<lb/>T J Gilbert
+<lb/>T J Baughman
+<lb/>E. Botner
+<lb/>M B Jones
+<lb/>John A. Crawford
+<lb/>William Jones
+<lb/>Wilson Lucas
+<lb/>John <unclear/>
+<lb/>John <unclear/>
+<lb/>J. W. Hern<pb/></p>
+<p>Clay Cir Ct
+<lb/>vs
+<lb/>John Seeley
+<lb/>To } Petition
+<lb/>$20
+<lb/>Tipling
+<lb/>Thomas E Bramlette
+<lb/>Gov<hi rend="sup">r</hi> Kentucky<figure type="hr"/>
+<lb/>Remitted <date when="1865-12-18">18<hi rend="sup">th</hi> Dec 1865</date></p>
+  </body>
+ </text>
+</TEI>

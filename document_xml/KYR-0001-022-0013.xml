@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-022-0013"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Oliver P. Morton, Agent, John W. Barker</title>
+    <title level="a" type="parallel">CWG2911</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Requisitions for the Return of Fugitives from Justice, 1859-1861</collection>
+      <idno>MG7-179 to MG7-180</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Indianapolis, Marion County, Indiana</placeName>
+    <date when="1861-07-04">4 July 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Commission/Appointment</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>AGENT'S APPOINTMENT TO RECEIVE A FUGITIVE FROM JUSTICE.<figure type="hr"/>
+<lb/>IN THE NAME AND BY THE AUTHORITY OF THE STATE OF INDIANA.</p>
+<p>I, Oliver P. Morton
+<lb/>GOVERNOR OF THE STATE OF INDIANA.
+<lb/>To all who shall see these Presents--Greeting.</p>
+<p>Know Ye, That reposing especial trust and confidence in the integrity, diligence, and ability of John W. Barker I do hereby appoint him Agent on the part of this State to proceed to the State of Kentucky for the purpose of demanding and receiving from the proper authorities of said State, Frank Smith a Fugitvie from Justice from the State of Indiana, charged with the crime of Grand Larceny and I do hereby authorize and direct the said John W. Barker to demand and receive the said Fugitive, and bring him to this State, and deliver him to the custody of the Sheriff of the County of Clark in said state of Indiana</p>
+<p>"The State will pay no part of the expenses of the execution of this Writ."</p>
+<p><figure type="seal"/></p>
+<p>In Testimony Whereof, I have hereunto set my hand and caused to be affixed the Seal of the State, at the City of Indianapolis this <date when="1861-07-24">Twenty Fourth day of July in the year of our Lord one thousand eight hundred and sixty=one,</date> the Forty Sixth year of the State, and of the Independence of the United States the Eighty Sixth</p>
+<p>BY THE GOVERNOR,
+<lb/>Oliver P. Morton</p>
+<p>W. A. Peelle Secretary of State.</p>
+  </body>
+ </text>
+</TEI>

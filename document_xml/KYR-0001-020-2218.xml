@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-2218"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Peter Hinkle to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG9294</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG24-348</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency Beriah Magoffin
+<lb/>Govenor of the Commonwealth of Ky</p>
+<p>Your petitioner would most respectfully represent unto your Excellency that at the <date when="1859-09">last Sept Term 1859</date> of the Knox Circuit Court he was indicted for the offense of Gaming. and at the present Term of said Court (<date when="1860-09">Sept Term 1860</date>) he personally appeared in court and <hi rend="underline"><unclear/></hi> <hi rend="underline">the</hi> <hi rend="underline">court</hi> and the Judge of said court assesed against him a fine of twenty dollars ^$20^ He says that he is very sory indeed that he has to say to your Excellency that it was his unfortunate to have been engaged in the game. He says that gaming has become so very fashionable in every circle of society that he did not dream of a penalty for engaging or <hi rend="underline">implicating</hi> in a social polite friendly game for a little of the <hi rend="underline"><unclear/></hi> He says it is the last scrape he will ever be caught<pb/>
+<lb/>in He says that he is poor and has a family to take care of and that it is greatly <hi rend="underline"><unclear/></hi> times up here in the mountains about money &amp; that it will distress him greatly to have the fine and cost to pay He prays that your Excelly will remit the fine against him &amp; H H</p>
+<p>Peter Hinkle
+<lb/>Remitted
+<lb/>Jn<hi rend="underline"><hi rend="sup">o</hi></hi> Lepsey B. M.</p>
+<p>We the undersigned citizen of Knox County would like to see your Excellency remit the above fee against Peter Hinkle</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>F P Hickly
+<lb/>D. F. Davis
+<lb/>John W Cullen
+<lb/>W A Dozier
+<lb/>A B Cullen
+<lb/>John K, Dickinson
+<lb/>B S Pinson
+<lb/>William Shelton
+<lb/>P F Hopper of Knox
+<lb/>Duey <unclear/>
+<lb/>James Triggle
+<lb/>John G. Eve
+<lb/>J. W. Anderson
+<lb/>M. L Rice
+<lb/><cb n="2"/>I know Mr Hinkle to be a clever gentleman is a young &amp; poor only plaid cards for a <unclear/></p>
+  </body>
+ </text>
+</TEI>

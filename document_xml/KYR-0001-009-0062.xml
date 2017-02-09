@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-009-0062"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Unknown, Fair Play</title>
+    <title level="a" type="parallel">CWG1217</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Christina K Adkins</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's Official Correspondence File, 1863-1867</collection>
+      <idno>BR1-267</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Newspaper</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>FAIR PLAY. -- Not long ago the police made a raid upon several keno establishments, while, almost upon the public streets, with doors wide open day and night, enjoying as much publicty of location and occupation as the principal hotels of the city, are several faro banks, where a great many mechanics and many merchants' clerks, and other young men, deposit their weekly salaries every Saturday night and during the Sabbath day. Yet no one has attempted to molest these houses. If we are to have a crusade upon gambling institutions, then let us not confine ourselves to a warfare upon any one particular species of gambling, but level our blows at all alike. The dealers of keno have as much right to ply their unlawful calliing as the dealers of faro have to ply theirs. We can see no distinction between games, nor discover degrees in gambling. "Fair play is a jewel," and we cannot understand why keno is not correct if faro is all right. We, of course, are opposed to gambling of every description, and would be rejoiced if every gaming institution in town was abolished, but we are opposed to any invidious distinctions.</p>
+<p>Correct</p>
+  </body>
+ </text>
+</TEI>

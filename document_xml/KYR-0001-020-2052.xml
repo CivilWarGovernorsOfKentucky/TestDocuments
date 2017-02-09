@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-2052"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">A. P. Cooper et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG9128</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG24-70</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>His Excellency B Magoffin
+<lb/>Gov. of Kentucky -- </p>
+<p>Sir Your petitioners John M Phipps and Eliza Hampton was arrested in the fall of <date when="1861">1861</date> and brought before B Hamons J P. for trial under a charge of fornication and the trial terminated in a fine of Ten Dollars Against each of your petitioners and an Executions issued agt. each of us for said fines And is now in the hands of the Sheriff of Magoffin County Ky. &amp; Who will proceed to collect the Same unless restrained by your Honor and ^We^ humbly ask your honor to interpose &amp; remit the Said fines &amp; We further Say We will not be fined for Such offences any More</p>
+<p>The undersigned Join in the prayer with the above petitioners for the remission of their fines Owing to the fact that they are poor &amp; Needy and has Solemnly avowed to Join together in the holy State of Matrimony</p>
+<p>A. P Cooper Esqr.
+<lb/>Samuel Salyer
+<lb/>B F Howard
+<lb/>Miles Williams
+<lb/>H P Williams
+<lb/>J C. Stamper
+<lb/>Jacob Wireman
+<lb/>David Reid<pb/></p>
+<p>Remitted
+<lb/>B M</p>
+<p>Magoffin J P Ct
+<lb/>$10 each } Fornication
+<lb/>Jno. M Phipps
+<lb/>Eliza Hampton</p>
+<p>Iss<hi rend="sup">d</hi> <date when="1862-07-22">July 22 1862</date></p>
+<p>J. M. Phipps &amp;c.
+<lb/>Petition</p>
+  </body>
+ </text>
+</TEI>

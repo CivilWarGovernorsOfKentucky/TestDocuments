@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0806"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">E. Fugate to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10274</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG19-267 to MG19-268</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Pendleton County, Kentucky</placeName>
+    <date when="1861-03-08">8 March 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To the Gov of the Commonwealth of Kentucky</p>
+<p>Your Petitioner Edward Fuget states that he was Indited at the <date when="1860-04">April</date> Term of the Pendelton Circuit Court for keeping a tippling house &amp; at the <date when="1860-10">Oct term of sd Court 1860</date> he was fined the sum of $60 upon the evidence of one D C Fugerson who swore that he had bough whiskey from the wife of your petitioner on two difrent accasions by the small &amp; that he paid his sd wife for sd whiskey &amp; that he drunk the same upon the primises of your petitioner he states that he is an old man &amp; a Criple that for sevral years he has keep some whiskey for himsef but not for the purpus of selling that on account of his age &amp; Condishen he had became invalued in debt &amp; his small farm had been sold under Execution &amp; the sd Fergerson had become the purchaser of the same &amp; in order to git him off of his place <pb/>
+<lb/>&amp; that Fergerson Could Git the same for a trifle he went to the house of deft when he was not at home asked for a Drink of Licker far himself &amp; friend &amp; the wife of your Petitioner set out the whiskey to him &amp; Refused to take Any pay for the same but told him he was welcom to what they drinked but he Insisted on paying for the same &amp; did Leave the money with her &amp; don the same thing as he was Returning home &amp; then went before the grand Jury &amp; gave infirmation &amp; he was fined for sd offence he states that he has not a daugh but that the whole ofare was for the purpas of one stated he states that it has always been his object to obay the Laws of his state &amp; he thinks that where there was but 20 cents werth sold &amp; that was sold as above stated that it is hard for him to have to <pb/>
+<lb/>pay the full amount of <hi rend="str">fifty</hi> sixty Dollars &amp; Cost of suit he prays that your Exelency will take his case under consideration &amp; that you will Remit the same fees &amp; cost Excepted as</p>
+<p>E Fugate</p>
+<p>State of Kentucky Pendleton Cty Edward Fuget states that the ^statements Contained in the^ foregoing Pet are true</p>
+<p>E Fuget</p>
+<p>Sworn to before me by Edward Fuget this <date when="1861-03-08">8th day of March 1861</date></p>
+<p>A G Roberts N P P C</p>
+<p>we the undersigns state that we are wll acquanted with the Petitioner Edward Fuget that he is a poore man &amp; a Criple that he is of a good Famaly &amp; is Regarded as a Honest Hardworking man &amp; we think his Case is entitled to clemency</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>A G Roberts
+<lb/><hi rend="underline">M Mullins</hi>
+<lb/><hi rend="underline">S. Tho. Hauser</hi>
+<lb/><cb n="2"/><hi rend="underline">T E Moore</hi>
+<lb/>H, T, Fitzpatrick
+<lb/>C. Duncan<milestone unit="column" n="1"/><pb/></p>
+<p>Pendleton Cir Ct
+<lb/>Commonwealth
+<lb/>vs } Pet
+<lb/>Edward Fugate<figure type="hr"/>
+<lb/>$60 } Tipling</p>
+<p>Repsited 12 months
+<lb/><date when="1861-03-14">Mar 14 1861</date></p>
+  </body>
+ </text>
+</TEI>

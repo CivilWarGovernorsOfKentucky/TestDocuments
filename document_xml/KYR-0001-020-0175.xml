@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0175"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">E. R. Cook et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG9643</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG17-111</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Hopkinsville, Christian County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Hopkinsville Ky
+<lb/>To his Excellency Beriah Magoffin
+<lb/>Governor of Kentucky</p>
+<p>Your petitioners would recommend the case of Taylor &amp; West fined in two cases for keeping a tipling house, in the sum of One hundred &amp; fifty Dollars each as one worthy the interposition of the Executive power vested in you and ask the remission of said fines</p>
+<p><hi rend="underline">E R Cook</hi>
+<lb/><unclear/>, F, Brown
+<lb/>W R Payne
+<lb/>Ja<hi rend="sup">s</hi> F Buckner
+<lb/>E, M, Buckner
+<lb/>C. T. Ratcliffe
+<lb/>Geo W Ratcliffe
+<lb/>W D M<hi rend="sup">c</hi>Comb
+<lb/>J J M<hi rend="sup">c</hi>Comb
+<lb/>F. P. Stuart
+<lb/>Wm D Gentry
+<lb/>J. M. Wilson
+<lb/>Jo M<hi rend="sup">c</hi>Carroll
+<lb/><hi rend="underline">H, A, Phelps</hi>
+<lb/>B. H. Bristow
+<lb/>G A Champlin
+<lb/>J. B. Gowen<pb/></p>
+<p>Respite 12 Mos
+<lb/>B. M</p>
+<p>Christian Cir. ct.
+<lb/>2 Judgt each $150
+<lb/>Taylor &amp; West
+<lb/>Resp<hi rend="underline"><hi rend="sup">d</hi></hi> 12 Mos
+<lb/>Iss<hi rend="sup">d</hi> <date when="1860-11-22">Nov 22<hi rend="sup">d</hi> 1860</date></p>
+  </body>
+ </text>
+</TEI>

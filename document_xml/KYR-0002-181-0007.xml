@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-181-0007"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">William H. Hays, General Order, No. 4</title>
+    <title level="a" type="parallel">CWG13991</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>General Orders No. 2</collection>
+      <idno/>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1865-07-19">19 July 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Order</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Headquarters Kentucky National Legion,
+<lb/>INSPECTOR GENERAL'S OFFICE,
+<lb/>Frankfort, Ky., <date when="1865-07-19">July 19, 1865</date>.
+<lb/>GENERAL ORDER
+<lb/>No. 4.</p>
+<p>The companies of Active Militia for the Kentucky National Legion, now organized and being organized, will not go into camp, nor will they be furnished with camp and garrison equipage or clothing, unless by special order from the Governor placing them upon active duty in the field.</p>
+<p>When a company is organized they will be furnished with guns by the State, and will be expected to meet together at least once a month, for the purpose of drilling, during the summer and fall months.</p>
+<p>Companies that have gone into camp are directed to turn over their camp and garrison equipage, and the men allowed to go to their homes, but subject to the orders of their commanding officer.</p>
+<p>By order of the Governor.
+<lb/>W. H. HAYS,
+<lb/><hi rend="italic">Inspector General of Kentucky.</hi></p>
+  </body>
+ </text>
+</TEI>

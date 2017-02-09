@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0212"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">J. S. Withers to Nathaniel Gaither, Jr.</title>
+    <title level="a" type="parallel">CWG2560</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Civil Appointments, 1859-1862</collection>
+      <idno>MG4-122</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Cynthiana, Harrison County, Kentucky</placeName>
+    <date when="1861-10-03">3 October 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Deposit Bank of Cynthiana,
+<lb/>Cynthiana, Ky., <date when="1861-10-03">Octo 3<hi rend="sup">rd</hi>. 1861</date>
+<lb/>Secty of State</p>
+<p>My appointment as Notary Public for this County is about expiring, Please refer and have my commission renewed and I will, if you will state it forward you the required fee,</p>
+<p>Will you be so kind as to inform me whether, Col Hanson forwarded my resignation as 1<hi rend="sup">st</hi> Lieut in the "McDowell Guard" Ky State Guard, &amp; if so whether the resignation was accepted</p>
+<p>Very Ry
+<lb/><hi rend="underline">J S Withers</hi><pb/></p>
+<p>Harrison Co
+<lb/>Notary
+<lb/>J S Withers
+<lb/>Confirmed <date when="1861-10-04">Oct 4. 1861</date></p>
+<p>147
+<lb/>191</p>
+  </body>
+ </text>
+</TEI>

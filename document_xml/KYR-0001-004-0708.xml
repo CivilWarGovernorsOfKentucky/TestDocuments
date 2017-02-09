@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0708"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John K. Goodloe and John B. Huston to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG4827</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR10-82</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Versailles, Woodford County, Kentucky</placeName>
+    <date when="1864-04-14">14 April 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Versailles <date when="1864-04-14">April 14, 1864</date>
+<lb/>To His Excellency Thomas E Bramlette, Governor of Kentucky</p>
+<p>At the <date when="1864-04">April Term 1864</date>, ^of the Woodford Circuit Court^ <hi rend="str">Isaac Webb was</hi> a Judgment was taken against Isaac Webb for $34. fine and penalty for standing a Jack without license. A Judgment was also taken against said Webb in said Court for $40- the fine and penalty for standing a Horse without license.</p>
+<p>Mr Webb has stated to us, and we give full credit to his statements, that the failure to take out license, was through circumstance and forgetfulness partly, and partly from want of minute knowledge of his duty. We also know that Webb proffered to pay the licenses and all costs that had been incurred. We are satisfied that Mr Webb never had any intention of defrauding the Commonwealth. He is a highly respectable man, lives on the Versailles &amp; Shyrocks Ferry Trunpike road, within three miles of Versailles and is as well known as any citizen of the County. His position and respectability, all forbid the idea, that he was attempting to defraud the State. He proffers to pay the price of the license for each animal with costs and only asks to have remitted the penalty beyond the licenses. We respectfully solicit Your Excellency to remit the Judgments as far as you can.</p>
+<p>Very Respectfully
+<lb/>Jno. K. Goodloe</p>
+<p>I acted as pro Term Commonwealths Atty when the above judgments were rendered &amp; believe the facts stated above to be true &amp; recommend the prayer of the Petition</p>
+<p>Jn<hi rend="sup">o</hi>. B. Huston</p>
+<p>Govr Bramlette
+<lb/>Dr Sir.</p>
+<p>Will you please act on this petition and write <hi rend="str">me or</hi> Isaac Webb at this place or myself. Respectfully</p>
+<p>Jno K Goodloe<pb/></p>
+<p>Woodford Cir Ct
+<lb/>vs
+<lb/>Isaac Webb
+<lb/>Remitted
+<lb/><date when="1864-04-19">19<hi rend="sup">th</hi> Apl/64</date>
+<lb/>$34 &amp; 40$
+<lb/>Standing horse &amp; Jack without License</p>
+  </body>
+ </text>
+</TEI>

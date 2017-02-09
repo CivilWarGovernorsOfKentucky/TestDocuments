@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-031-0200"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Y. Wallace to James F. Robinson</title>
+    <title level="a" type="parallel">CWG7940</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Appointments by the Governor, Civil Appointments, 1862-1863</collection>
+      <idno>R1-279</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Edmonton, Metcalfe County, Kentucky</placeName>
+    <date when="1863-03-13">13 March 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Edmunton Metcalfe County Ky
+<lb/><date when="1863-03-13">March 13". 1863</date>
+<lb/>To his Excellency J F Robinson.</p>
+<p>Your excellency is hereby informed of the death of W E Spindle Esq. an acting Justice of the peace for District No. Four of Metcalfe ^County,^ and I would respectfully recommend that you appoint and commission <hi rend="underline">Lucien Knight</hi> Esq. of said county to fill the vacancy occasioned by said death.</p>
+<p>Yours Respectfully
+<lb/>Jno. Y. Wallace Judge
+<lb/>Metcalfe County Court<pb/></p>
+<p>Metcalfe Co
+<lb/>Justice of Peace for Metcalf County
+<lb/>Issue Comn
+<lb/>Lucien Knight
+<lb/>J. P.. Dist N<hi rend="underline"><hi rend="sup">o</hi></hi> 4.
+<lb/>Iss<hi rend="sup">d</hi> <date when="1863-04-28">April 28. 1863.</date></p>
+  </body>
+ </text>
+</TEI>

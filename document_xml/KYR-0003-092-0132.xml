@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0003-092-0132"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">James F. Jaquess to Anne E. V. Johnson</title>
+    <title level="a" type="parallel">CWG14422</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Christina K Adkins</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Historical Society</repository>
+      <collection>George W. Johnson Papers</collection>
+      <idno>Folder 6</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Evansville, Vanderburgh County, Indiana</placeName>
+    <date when="1862-04-15">15 April 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Evansville Ind <date when="1862-04-13">April 13<hi rend="underline"><hi rend="sup">th</hi></hi> 62</date>
+<lb/>Mrs. G. W. Johnson
+<lb/>Indiana
+<lb/>Madam</p>
+<p>The sad tidings of your husband's decease will have reached you before this falls into your hands. As I was with him in his last moments, I have thought that a word from me would be acceptable. He was wounded in the abdomen, the ball pushing through the body. He lay on the battlefield some thirty hours, before he was found and brought to our hospital. He had every possible attention both from physicians and nurses. But his wound was so fatal that no human skill could possibly save him. I need not tell you that he suffered most intensely, but he bore his sufferings with manly firmness. He was conscious to the last and talked freely of his decease -- put his papers into the hands of a friend of which you will be notified in due time. I brought his body to this place from here it will reach you by express<pb/></p>
+<p>You may be assured that your deceased husband had every possible attention and every thing was done that could be done to alleviate his sufferings, and smooth his descent to the dark valey and shadow of death. I sang several hymns to him besides talking with him freely for all of which he seemed truly gratful.</p>
+<p>I am compelled to write in great haste, should you wish any further particulars, I will gladly communicate any information that I may be in possession of at your request.</p>
+<p>Address Rev James F. Jaquess
+<lb/>Quincy Ill.</p>
+<p>I would state that Geo. Johnson was wounded in that dreadful battle of <unclear>Shiloh</unclear> <date when="1862-04-06">April 6th.</date></p>
+<p>Yours truly
+<lb/>J. F. Jaquess</p>
+  </body>
+ </text>
+</TEI>

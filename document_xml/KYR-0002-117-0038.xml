@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-117-0038"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Boyle to C. W. Biggers</title>
+    <title level="a" type="parallel">CWG13867</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Christina K Adkins</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>Adjutant General Letter Book - No. 3 ; 9 April - 25 May 1864</collection>
+      <idno>340</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1864-05-14">14 May 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><note place="header">340</note>
+<lb/><date when="1864-05-14">May 14<hi rend="underline"><hi rend="sup">th</hi></hi> <gap/>4</date>
+<lb/>Col. C W Biggers
+<lb/>Sulpher Lick
+<lb/>Monroe Co Ky.
+<lb/>Colonel.</p>
+<p>Your letter of the <date when="1864-05-11">11<hi rend="underline"><hi rend="sup">th</hi></hi> inst</date> to his Excellency Gov<hi rend="sup">r</hi> Bramlette, has been referred to this office for reply. The Secretary of War has called on Ky for 10 000 men to serve for six months. They are to ^be^ mustered into the U S service, and to be armed, clothed and subsisted, by the Government. They are to take the place of those veterans now among us guarding different posts, whose services are wanted at the front. I inclose for your information General Orders N<hi rend="sup">o</hi> 3 issued from these H<hi rend="underline"><hi rend="sup">d</hi></hi> qrs. As the time for raising these troops is very limited, it will require prompt and immediate action to insure success.</p>
+<p>Very Respectfully <hi rend="underline">John Boyl</hi>e. Adjt Gen<hi rend="sup">l</hi> Ky.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2602"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">W. H. Randall to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7239</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR16-159</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>London, Laurel County, Kentucky</placeName>
+    <date when="1865-10-13">13 October 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>His Excellency Gov Bramlette.</p>
+<p>The bail bond of Michael Felts &amp; James Farow ($450) Fourhundred fifty dollars for the appearance of Crawford Felts in the Mercer Circuit Court, has been forfeited, and Judgt rendered against them on account of the non appearance of said Crawford Felts. The Indictment was for passing Counterfeit money, and it was case pending before the war -- Crawford Felts the principal left the county shortly after the war began &amp; was reported to have went into the military service of the U. S. and is reported to have died, but whether he went into the service or died, is not Known here -- an execution is now in the hands of our sheriff for the full amount of the forfeiture afs<hi rend="underline"><hi rend="sup">d</hi></hi> &amp; costs against Michael Felts &amp; James Farow who are too poor to pay it in fact the payment of the costs will almost ruin them, and they have asked me to intercede with you and get you to remit So much of the Judgmt as you can.</p>
+<p>I think it would be right under all circumstances that these men Michael Felts and James Farow should have relief, I therefore respectfully ask you to remit said Forfeiture.</p>
+<p>Hour obt Servt
+<lb/><hi rend="underline">W. H. Randall</hi>
+<lb/>London Ky
+<lb/><date when="1865-10-13"><hi rend="underline">Oct 13. 1865</hi></date><pb/></p>
+<p>Mercer Cir Ct
+<lb/>vs
+<lb/>Michael Felts
+<lb/>&amp;
+<lb/>James Farow
+<lb/>$450,
+<lb/>Forfeiture
+<lb/><date when="1865-10-16">16 Oct 1865</date></p>
+  </body>
+ </text>
+</TEI>

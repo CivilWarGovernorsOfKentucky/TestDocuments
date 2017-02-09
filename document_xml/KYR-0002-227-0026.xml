@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-227-0026"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Robert Terrill to James F. Robinson</title>
+    <title level="a" type="parallel">CWG14256</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>11th Ky. Cav (US) Muster Rolls</collection>
+      <idno>Flat Storage Box: 11th Ky Cav (US) Muster Rolls, Bundle 6</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Columbus, Franklin County, Ohio</placeName>
+    <date when="1863-02-18">18 February 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Camp Chase. Ohio <date when="1863-02-18">Feb 18<hi rend="sup">th</hi> 1863</date>
+<lb/>To his Excellency
+<lb/>James F Robinson
+<lb/>Gov. of Ky
+<lb/>Dear Sir</p>
+<p>I was commissioned by you as 1<hi rend="sup">st</hi> Lieut 11<hi rend="sup">th</hi> Reg Ky Cav on the <date when="1862-09-04">4<hi rend="sup">th</hi> day of September 1862</date>, on the <date when="1862-12-07">7<hi rend="sup">th</hi> day of December last</date>, I lost my commission at Hartsville, Tennessee, during the engagement there between our Troops and the confederates, I would be thankful to you if you will cause to be issued to me another commission in its stead- Gov. I was over one month recruiting my company I commenced in the last of July and had my company at Louisville by the <date when="18652-09-02">2<hi rend="sup">nd</hi> of September</date> I think that I ought to be paid for my services. I think that my commission should be dated at the commencement of my services, say the <date when="1862-08-01">1<hi rend="sup">st</hi> day of August 1862</date>. I have never had any pay yet from Uncle Sam. and if I had the commission dated back I could receive<pb/>
+<lb/>pay on the commission from its date. viz <date when="1862-08-01">1<hi rend="sup">st</hi> of Aug 1862</date>.- I was captured paroled and have been exchanged I supposed will soon be sent to the field. </p>
+<p>With respect your
+<lb/>Obedient Servt
+<lb/>Robert Terrill
+<lb/>1<hi rend="sup">st</hi> Lieut Co E 11<hi rend="underline"><hi rend="sup">th</hi></hi> Ky Cav</p>
+<p><hi rend="underline">11 Cav:</hi>
+<lb/>Lt: Terrill
+<lb/>Copy Com. sent this <date when="1863-02-12">Mar 12, 1863</date></p>
+  </body>
+ </text>
+</TEI>

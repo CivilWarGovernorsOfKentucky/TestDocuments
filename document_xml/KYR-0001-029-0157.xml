@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0157"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">W. T. Owen, Affidavit</title>
+    <title level="a" type="parallel">CWG8609</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Governor's Official Correspondence File, Petitions for Pardons, Remissions, and Respites, 1862-1863</collection>
+      <idno>R3-239 to R3-240</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date when="1862-01-29">29 January 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Louisville <date when="1863-01-29">January 29<hi rend="sup">th</hi> 1863</date>.</p>
+<p>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> Edrington just sentenced to confinement in the state Penitentiary for a term of 3 years &amp; 9 months, was under my medical treatment, several times within the last 12 months.</p>
+<p>I saw him one week before the notice of the shooting of his wife was published in the daily paper here. He had at that time discharged his pistol, the ball passing through the ceiling. I learned from his wife and mother that it was a random shot, unexpected: that he was under the influence of a deep potation of alcoholic spirits, and I prescribed medicine for Mania <unclear>a pote</unclear>. He was well as ordinary the succeeding day.</p>
+<p>One year ago, I was called to see T. Edrington, and found him a wreck, both of ^his^ mental and physical systems. I considered him almost if not entirely imbecile -- in a condition of passive stolidity? to all ordinary events, which was highly marked to my mind in view of my acquaintance with him from boyhood up, as this contrasted. His mental status is no better, if as good, now.</p>
+<p>It is evident that he should be kept in restraint, and pardoned only with the view of immediate control of his movements.</p>
+<p>W. T. Owen M. D.<pb/></p>
+<p>City of Louisville Jefferson County Kentucky Sct</p>
+<p>Be it known that on this <date when="1863-01-29">29<hi rend="underline"><hi rend="sup">th</hi></hi> day of January A D 1863</date> before me the undersigned A Notary Public in and for said City and County personally appeared Doctor W. T. Owen of Said City well known to me and he did Sign and in due form of law make oath to the the foregoing affidavit as containing his opinion as a Doctor of Medicine in the case therein referred to And I certify that Said Doctor W. T. Owen is a practicing physician and Surgeon in and of Said city, of more than ten years standing and that he has good reputation for professional skill and personal integrity.</p>
+<p><figure type="seal"><ab><unclear/></ab></figure>
+<lb/>Witness my name and Notarial Seal on this <date when="1863-01-29">29<hi rend="sup">th </hi>day of January A D 1863</date>
+<lb/>Crawford H, Barkley
+<lb/>Notary Public Jeff. Co, Ky,</p>
+  </body>
+ </text>
+</TEI>

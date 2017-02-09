@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0511"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John G. Lennon to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG2176</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Appointments by the Governor, Civil Appointments, 1863-1867</collection>
+      <idno>BR2-474</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency Gov Bramlette</p>
+<p>Peition of the uncersigned a Resident Citizen of the City of Louisvlle County of Jefferson State of Ky I have the honor to respectfully solicit the appointment of Notary Public for the County of Jefferson and as a stranger to your Excellency submit the following testimonial of qualification for the office</p>
+<p>Your Obedient Serv<hi rend="sup">t</hi>
+<lb/>John G. Lennon</p>
+<p>The undersigned residents of the City of Louisville Ky recommend to the consideration of his excellency Governor Bramlette of the State of Ky the above applicant John G. Lennon as duley afit and proper person for the appointment of Notary Public for the county of Jefferson, a Gentleman and duley qualified and of honorable antecedent, to guarantee a faithful discharge of the duties apertaining thereto</p>
+<p>E. J. Vaughan
+<lb/>Ja<hi rend="sup">s</hi>. P. Flint
+<lb/>James P. Sharp<pb/></p>
+<p>Notary Public
+<lb/>Jefferson Co
+<lb/>John G. Lennon
+<lb/>appt<hi rend="sup">d</hi>
+<lb/><date when="1865-09-13">13 Sept 1865</date></p>
+  </body>
+ </text>
+</TEI>

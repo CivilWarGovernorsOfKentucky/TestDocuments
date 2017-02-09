@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0906"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">James T. Tucker to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10374</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG19-440</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Winchester, Clark County, Kentucky</placeName>
+    <date when="1861-04-11">11 April 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Winchester <date when="1861-04-11">11" April 1861</date>
+<lb/>Dear sir</p>
+<p>A petition was handed you some time ago in Behalf of young West, who claimed to be released from a fine of one hundred dollars inflicted upon him at the last Term of our Circuit Court for carrying a consealed weapon I desire to call your attention to it again thinking that you had perhaps forgotten it. If you <hi rend="underline">can</hi> <hi rend="underline">possibly</hi>, <hi rend="str">consistent with your</hi> remit his fine. I earnestly hope you will do it. I think it ought to be done. that the circumstances would justify it. If in your press of business you would attend to this matter you would greatly oblige your Obt servt</p>
+<p>Jas T Tucker</p>
+<p>To
+<lb/>His Excellency Gv Magoffin<pb/></p>
+<p>Clarke Cir. Ct
+<lb/>$100 } Weapons
+<lb/>West
+<lb/>Iss<hi rend="sup">d</hi> <date when="1861-04-17">Apr. 17 1861</date></p>
+<p>Respite 12 mo
+<lb/>B. M</p>
+  </body>
+ </text>
+</TEI>

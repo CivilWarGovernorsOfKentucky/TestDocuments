@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1194"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">F. F. S. Robertson et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10662</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG21-29</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1861-06-11">11 June 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency Go<hi rend="underline"><hi rend="sup">v</hi></hi> Berriah Magoffin</p>
+<p>Your Petitioner John Kissick Most Humbly represents that at the <date when="1861-02">Feb term of the Rowan Circuit Court 1861</date> He was fined the Sum of $10.<hi rend="sup">43</hi>/<hi rend="sub">100</hi> <hi rend="sup">2</hi>/<hi rend="sub">3</hi> for an assault and Battery</p>
+<p>Your Petitioner Trasher States that he inflicted no injury, he Merely threw a rock at Said (<hi rend="str">Mathias Lee</hi>) John Cassity it Missing him &amp; ^Cassity^ <hi rend="str">Lee</hi> Sustained no injury by reason of the rock being throwed</p>
+<p>The undersigned Petitioners Pray &amp; asks that Said fine be remitted &amp; that Said Kissick be for ever released from the payment of said fine They Humbly represent that said Kissick is a poor man and has a considerable Family to support and that he (Kissick) makes his liveing by his daily labor. He therefore throws himself upoon the Mercy of Your Excellency, and ask that he be pardoned, and he will be guilty no more</p>
+<p>Your undersigned Petitioners Further represent that said Kissick is an industrious &amp; laboring man &amp; not to throw too many obstacles in his future path no doubt he wi<unclear>ll</unclear> prosper &amp; make a liveing &amp; support for his wife &amp; Little children</p>
+<p>Wherefore they pray that said fine be remitted and will forever pray &amp;c</p>
+<p>Yours Truly</p>
+<p><date when="1861-06-11">June 11" 1861</date></p>
+<p><milestone unit="column" n="2"/><cb n="1"/>F. F. S. Robertson
+<lb/>W. H. Norris
+<lb/>Nathaniel White
+<lb/>Andrew Nickell
+<lb/>W W Richards
+<lb/>J W M<hi rend="sup">c</hi>Intire
+<lb/>M. B. Lee
+<lb/>W B Cornett
+<lb/><cb n="2"/> J. E. Coooper <figure type="seal"/>
+<lb/>E. H. Logan
+<lb/>Richard Hawkins
+<lb/>James W. Johnson
+<lb/>J A Hawkins
+<lb/>Silas Bartlett
+<lb/>A Keeton
+<lb/>H R Myers
+<lb/>H. C. Davis<milestone unit="column" n="1"/><pb/>
+<lb/>John N. M<hi rend="sup">c</hi>Intire
+<lb/>Tho<hi rend="sup">s</hi> Christian
+<lb/>James A Thomas
+<lb/>W O Fant
+<lb/>J. H. Steele
+<lb/>George M Carey
+<lb/>J. R. Hawkins
+<lb/>C H porterman
+<lb/>Jeff. Amburgey
+<lb/>R P Christan</p>
+<p>Remitted B. M </p>
+<p>Iss<hi rend="sup">d</hi> <date when="1861-06-21">June 21st</date></p>
+  </body>
+ </text>
+</TEI>

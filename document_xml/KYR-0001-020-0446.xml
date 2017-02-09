@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0446"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">George Bunch to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG9914</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG18-196</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Williamsburg, Whitley County, Kentucky</placeName>
+    <date when="1861-01-15">15 January 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Williamsburg Kentucky <date when="1861-01-15">Jany 15th 1861</date>
+<lb/>To His Excellency the Governor of Ky</p>
+<p>Your petitioner George Bunch would Respectfully and humbly represent that at <gap/> term of the Whitley Circuit Court He was indicted upon the information of Larkin Boling for playing cards for money and at the <gap/> Term of Said Court He was tryed and fined $20. which was also upon the testimony of Said Boling alone He States most positively that Said Boling Sware are a ball faced lie against Him that He did not play or bet in the game for which He was indicted &amp; that is intirely inocent in the Matter He states that Said Boling is a perfect desperado and is now a fugitive from Justice and has Spent a considerable portion of His life thus far in the Jail of this county for numerous violations of the penal &amp; criminal Laws of this Commonwelth and now Stands indicted for felony in the Whitley Circuit court and has fled to parts unknown to your petitioner who States that He is a very poor man with a large Family and really not able to pay Said fine &amp; that unless your Excellency will interpose His Sureties who are clever men will in spite of all your petition can do have Said <note place="left margin">fine to pay as He feels that it is not possible for Him to raise the money to pay it Himself oweing to the extreme pressure in money matters at present The foregoing letter or petition was this day sworn to before me by George Bunch this <gap/> day of <date when="1861-01">Jany 1861</date>
+<lb/>George Bunch</note><pb/>
+<lb/>We the undersigned believing the Statements of Geore Bunch in His Petition to be true would respectfully Solicit a remission of Said fine <date when="1861-01">Jany the <gap/> 1861</date></p>
+<p>W. H. Wilson
+<lb/>T, C, Burch
+<lb/>R. Boyd C. w. c. s.
+<lb/>L Mossler.
+<lb/>Lee Leforce
+<lb/>Lewis Meadors
+<lb/>George, W. Parker
+<lb/>J J Tye
+<lb/>J A Tye
+<lb/>E, S, Banion
+<lb/>R, B, Clark
+<lb/>Wm H Beckett
+<lb/>Joseph. E, Tye
+<lb/>Ephram Jones
+<lb/>J E Cain
+<lb/>L T Barton
+<lb/><hi rend="underline">J Q Barton</hi>
+<lb/>H W. Hogan D S, W, C
+<lb/>James Atkins
+<lb/>N, B, Davis
+<lb/>Thomas Fadis
+<lb/>Martin Caddell
+<lb/>J. D. Gilliss
+<lb/>G W Tye</p>
+<p>Remitted
+<lb/>B M
+<lb/>Whitley Cir. Ct
+<lb/>$20. } Gaming
+<lb/>Geo Bunch
+<lb/>Iss<hi rend="sup">d</hi> <date when="1861-01-30">Jany 30. 1861</date></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-023-0071"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">C. P. Collier to P. E. Royse</title>
+    <title level="a" type="parallel">CWG2984</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, 1859-1862</collection>
+      <idno>MG1-268</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1860-07-25">25 July 1860</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Battle Creek <date when="1860-07-25">July 25. 1860</date>
+<lb/>Rev P E Royse
+<lb/>Cincinnati Ohio
+<lb/>D<hi rend="sup">r</hi> Sir</p>
+<p>Your note of the 19<hi rend="sup">th</hi> Came to hand yesterday. In reply have to Say that I have no <hi rend="underline">particular</hi> acquantence with William Jaques.. His wife has been in my family for three years and is a worthy woman My acquantence with him is made from his calling two or three times to see his wife He has spent several days at my house. The opinion I had formed of him is that he is an inefficient well meaning man, His wife Says he has not been in good health for Several years and that quite a portion of the time he has been unable to perform laber. I have never heard any thing against his moral character and presence that charity expended upon him will be as worthily bestowed perhaps as it is in the one case in ten. His wife is absent from my house for a week or So visiting his friends. She does no know of his whereabouts.</p>
+<p>Yours Truly
+<lb/>C P. Collier</p>
+  </body>
+ </text>
+</TEI>

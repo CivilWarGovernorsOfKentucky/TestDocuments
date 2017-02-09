@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0697"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Walton and Isaac Walton to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10165</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG19-87 to MG19-88</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1861-02-13">13 February 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency Beriah Magoffin
+<lb/>Govenor of the Commonwealth of Kentucky</p>
+<p>Your petitioner John Walton and Isaac Walton would most respectfully represent unto Your Excellency that at the Term of the Knox Circuit Court they were indicted for the offence of playing cards with a slave and at the <date when="1860-09">Sept Term 1860</date> of said Court they was tried and found guilty of said offence, and a fine of ten dolls was assessed against each of them they say they are not nor never was guilty of said offense they say it was proven on the trial by one witness that they did engage in the game, and by one that they did not and they could have probly another witness that they did not play but that he was out of this state at the trial and they could not get his testimony, but that he has since returned and says unconditionally that they did not play. They say that they are very poor, and that it is almost impossible to get money and they have repleived the fine and cost and will have the cost to pay which is $ -- and also the fine unless your Excellency intervenes in ther behalf they say it is the first time they have<pb/>
+<lb/>ever been indicted for a violation of the laws, and it is the last time, the premises considered they pray that your Excellency may extend to them the arm of your Executive clemency and they pray for a remission of the fine against them</p>
+<p>John Walton
+<lb/>Isaac Walton</p>
+<p>We the undersigned citizen of Knox County would like to see your Excilly remit the fine against John &amp; Isaac Walton</p>
+<p>F. P. Stickly
+<lb/>Stephen <unclear/>
+<lb/>David Dishman
+<lb/>James T Goshen one of the Jury
+<lb/>B S Pearson
+<lb/>J D Mayhue
+<lb/>J W Anderson
+<lb/>J. W. Ridgell
+<lb/>Wm Lye<pb/></p>
+<p>John Walton &amp; Isaac Walton<figure type="hr"/>
+<lb/>Petition to Gov<figure type="hr"/>
+<lb/>Knox Cir. Ct
+<lb/>$10 } playing cards
+<lb/>Iss<hi rend="sup">d</hi> <date when="1861-02-13">Feby 13 1861</date></p>
+<p>Respite 12 mos
+<lb/>B. M</p>
+  </body>
+ </text>
+</TEI>

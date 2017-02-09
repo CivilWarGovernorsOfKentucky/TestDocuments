@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0364"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John E. Records to James F. Robinson</title>
+    <title level="a" type="parallel">CWG8816</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Governor's Official Correspondence File, Petitions for Pardons, Remissions, and Respites, 1862-1863</collection>
+      <idno>R4-86</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Falmouth, Pendleton County, Kentucky</placeName>
+    <date when="1863-05-09">9 May 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Falmouth Ky <date when="1863-05-09">May 9<hi rend="sup">th</hi> 1863,</date>
+<lb/>Gov<hi rend="underline"><hi rend="sup">r</hi></hi> Ja<hi rend="underline"><hi rend="sup">s</hi></hi> F Robinson:
+<lb/>Dear Sir:</p>
+<p>Permit me to trouble you with two more petitions, in behalf of two unfortunate citizens of Pendleton County, I regret being under the necessity of making these appeals to Executive clemency, but the circumstances of these particular cases, are such as to make them peculiarly the object, of this beneficient power with which you are invested,</p>
+<p>Cummins was convicted by the evidence of a man by the name of Gallaspie, whose standing was not good as a man of truth, and it was clearly shown that Gallaspie previous to the conflict, had made threats of what he would do with Cummins, We only ask that the imprisonment be remitted, This County would not only not be benefitted, but would be injured by his being confined in the jail, It would have to pay the expenses, Cummins also has a young family that needs all his time and efforts for their comfort, I can assure you upon my honor as a man, that you will hazzard nothing by remitting the imprisonment<pb/>
+<lb/>The names to the petition are his own immediate neighbors, who are best acquainted with him, Please determine the matter at your earliest convenience, as this is the season of the year for farmers to be at work,</p>
+<p>The other is in the case of <unclear/> Myers. The petition speaks for itself. It is signed by none but members of the bar who are cognizant of the facts stated,</p>
+<p>Respectfully yours
+<lb/><hi rend="underline">Jn</hi><hi rend="underline"><hi rend="sup">o</hi></hi><hi rend="underline"> E, Records</hi></p>
+  </body>
+ </text>
+</TEI>

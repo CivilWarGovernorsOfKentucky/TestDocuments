@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-222-0029"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John W. Finnell, Receipt to Robert Wilson</title>
+    <title level="a" type="parallel">CWG13718</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>Misc. QM Expenditures, 1863-1865</collection>
+      <idno>QMG Box 10; 1863 Office Expenses - Telegraph, Stationary - Transportation - Ordinance Stores; Bundle 3</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1863-03-20">20 March 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>The State of Kentucky
+<lb/>To Robert Wilson Dr</p>
+<p><table rend="rules">
+<row>
+	<cell><date when="1863">1863</date></cell>
+	<cell/>
+	<cell/>
+	<cell/>
+</row>
+<row>
+	<cell><date when="1863-01-26">Jany 26.</date></cell>
+	<cell>To 1563 Pounds Flour at 4d</cell>
+	<cell>$62.</cell>
+	<cell>52</cell>
+</row>
+<row>
+	<cell/>
+	<cell>" 68<hi rend="sup">1</hi>/<hi rend="sub">2</hi> Bushels Meal at 60<hi rend="sup">d</hi></cell>
+	<cell>41.</cell>
+	<cell>10</cell>
+</row>
+<row>
+	<cell/>
+	<cell/>
+	<cell>$103.</cell>
+	<cell>62</cell>
+</row>
+</table></p>
+<p>I certify that the above account is correct and just that the articles were furnished as stated. and that they were a necessary for the public service.</p>
+<p>J C Eversol maj
+<lb/>3 Bat 14" Ky Cav</p>
+<p><stamp type="clerical">Third Auditor's
+<lb/><date when="1874-08-13">AUG 13 1874</date>
+<lb/>OFFICE</stamp></p>
+<p>Received at Frankfort on, the <date when="1863-03-20">20<hi rend="underline"><hi rend="sup">th</hi></hi> of March 1863</date> of John W Finnell <hi rend="str">Quarter-master</hi> Adjutant General Kentucky Volunteers, the sum of One hundred an three -- Dollars and sixty two -- cents, in full of the above account.</p>
+<p>Approved
+<lb/>By order of the Governor
+<lb/>Jno. W. Finnell
+<lb/>Adjt Genl Ky vols<pb/></p>
+<p>no 78. Abst. A
+<lb/>Robt. Wilson
+<lb/>$103<hi rend="underline"><hi rend="sup">62</hi></hi>
+<lb/>allowed <date when="1863-08-08">Aug 8. 63</date>
+<lb/>Suspend
+<lb/>Recpt not 
+<lb/>signed</p>
+<p><stamp type="clerical">Third Auditor's
+<lb/><date when="1874-08-13">AUG 13 1874</date>
+<lb/>OFFICE</stamp></p>
+<p>Original filed in 3<hi rend="sup">rd</hi> auditors office <date when="1874-08-13">Aug 13<hi rend="underline"><hi rend="sup">th</hi></hi> 1874.</date></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-031-0187"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Edward G. Asay to James W. Tate</title>
+    <title level="a" type="parallel">CWG7927</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Appointments by the Governor, Civil Appointments, 1862-1863</collection>
+      <idno>R1-262</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1863-04-10">10 April 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Jas. W. Tate Esqre
+<lb/>Dear Sir,</p>
+<p>Simeon W. King Esq. of Chicago, who is a very competent person &amp; holds commissions from most of the States, desires to obtain Commission from your State. I have therefore handed him this with a request that Commission may issue to him</p>
+<p>Yours Respy
+<lb/>E. G. Asay
+<lb/><date when="1863-04-10">April 10<hi rend="sup">th</hi>/63 -- </date></p>
+<p>Mr. Tate,</p>
+<p>Please inform me soon as convenient if I can be appointed a <hi rend="underline">Commissioner of Deeds</hi> &amp;c for your state -- as <hi rend="underline">successor</hi> to E, G, Asay Esqr of Chicago, Ills -- Address P. O. Box <hi rend="str">202</hi> 4025 -- </p>
+<p>Yours truly
+<lb/>Simeon W. King</p>
+<p><hi rend="underline"><hi rend="str">Back in 6 minutes</hi></hi><pb/></p>
+<p>Office of Secretary of State,
+<lb/>Frankfort, Ky., <date when="1863-04-04">Apr. 4, 1863.</date></p>
+<p>Dear Sir: I find, upon examining the records of this office, that you were appointed a Commissioner of Deeds for Kentucky, resident in the city of Chicago, State of Illinois, on the <date when="1859-04-13">13<hi rend="sup">th</hi> day of April, 1859.</date> Your appointment will expire on the <date when="1863-04-13">13 inst,</date> my object is to know if you wish a renewal of your commission. If so, upon your notification to that effect, accompanied by the State tax of FIVE DOLLARS thereon, (required by the Statutes of this State to be paid on each commission,) your commission will be forthwith renewed. </p>
+<p>Very Respectfully,
+<lb/>Ja<hi rend="underline"><hi rend="sup">s</hi></hi> W Tate
+<lb/>Asst. Secretary of State.</p>
+<p>Mr. Edw<hi rend="sup">d</hi> G. Asay
+<lb/><hi rend="underline">Chicago Ills</hi></p>
+  </body>
+ </text>
+</TEI>

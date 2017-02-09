@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0828"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Schroeder to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG4947</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR10-277 to BR10-278</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1864">1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To Governor Bramlette</p>
+<p>Your petitioner John Schroeder respectfully states that he is only 15 years and two months old. He states that he was found guilty on the <date when="---14">14<hi rend="underline"><hi rend="sup">th</hi></hi></date> instant in the Jefferson Circuit Court of the charge of maliciously stabbing Andrew Doran on the <date when="--09-03">3<hi rend="sup">rd</hi> Sept last</date>. He was indicted tried and found guilty with his father David Schroeder. He states that he was present and witnessed the difficulty that took place at the time, between Doran and his father but that he your petitioner took no part in the difficulty. The jury found his father guilty and said that he should be confined in the penetentiary for two years and your petitioner one, but the ^Jury^ recommended your petitioner to the clemency of your Excellency. He makes an attested copy of the verdict part hereof. He prays your Excellency to pardon him and he will ever pray &amp;c.</p>
+<p>John ^his x mark^ Schroeder</p>
+<p>Subscribed and sworn to before me this <date when="1864">17<hi rend="sup">th</hi> 1864</date> by John Schroeder.</p>
+<p>John N. Mattingly
+<lb/>Notary Public Jeff Co Ky</p>
+<p>To the Governor</p>
+<p>We the undersigned pray your Excellency to grant the foregoing petition</p>
+<p>John N. Mattingly
+<lb/>M A Walker
+<lb/>Philip Fiskey</p>
+<p>I respectfully unite with the Jury in recommending the boy John Shroeder to Executive clemency</p>
+<p>P. B. Muir</p>
+<p>I have known the petitioner John Schroeder for four years last past. His father is my near neighbor. John is a peaceable good natured boy and I believe him <hi rend="str">a</hi> good &amp; honest.</p>
+<p>Isaac R Greene</p>
+  </body>
+ </text>
+</TEI>

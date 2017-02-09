@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-006-0066"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Andrew Johnson, Requisition</title>
+    <title level="a" type="parallel">CWG1112</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's Official Correspondence File, Requisitions for the Return of Fugitives from Justice, 1863-1867</collection>
+      <idno>BR6-80</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Nashville, Davidson County, Kentucky</placeName>
+    <date when="1865-01-21">21 January 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><figure type="seal"><ab>XVI.
+<lb/>AGRICULTURE
+<lb/>COMMERCE.</ab></figure>
+<lb/>State of Tennessee.
+<lb/>EXECUTIVE DEPARTMENT.<figure type="hr"/>
+<lb/>To His Excellency, the Governor of The Commonwealth of Kentucky</p>
+<p>Sir: It has been made known to me that a certain Patrick Meyer of our County of Davidson stands charged with having in the month of June 1864 <hi rend="str">the</hi> Committing the Crime of Grand Larceny by stealing and carrying away feloniously two mules the Property of Benjamin Groomis as will more fully appear from an authenticated copy of an affidavit herewith transmitted: And whereas, it has been made known to me that the said Patrick Meyer fled from justice and is now running at large in the State of Kentucky</p>
+<p>Now, therefore, I, Andrew Johnson Governor of the State of Tennessee, in pursuance of the Act of Congress, entitled "An Act respecting Fugitives from Justice," do hereby demand that your Excellency will please cause the said Patrick Meyer to be arrested, if to be found within the limits of the State over which you preside, and have him safely delivered to James A Steele who is appointed Agent on the part of this State to receive the said fugitive from the civil authorities of the State of Kentucky to the end that <gap/> may be brought to the State of Tennessee and dealt with according to law.</p>
+<p><figure type="seal"><ab>THE GREAT SEAL OF THE STATE OF TENNESSEE
+<lb/>XVI.
+<lb/>AGRICULTURE
+<lb/>COMMERCE
+<lb/>1796</ab></figure></p>
+<p>In Testimony Whereof, I have hereunto set my hand, and caused the Great Seal of the State to be affixed, at Nashville, on the <date when="1865-01-21">21<hi rend="sup">st</hi> day of January 1865</date></p>
+<p>Andrew Johnson
+<lb/>By the Governor:
+<lb/>Edward H. East Secretary of State.<pb/></p>
+<p>Tennessee
+<lb/>Requsition of Andrew Johnson Gov of Tenn
+<lb/>Warrant issued <date when="1865-01-24">24<hi rend="sup">th </hi>Jany /65</date></p>
+  </body>
+ </text>
+</TEI>

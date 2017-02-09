@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2728"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Joseph Croxton to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7365</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR16-385 to BR16-385A</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County,Kentucky</placeName>
+    <date when="1865-11-02">2 November 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Louisville Ky
+<lb/><date when="1865-11-02">Nov 2<hi rend="underline"><hi rend="sup">ond</hi></hi> 1865</date>
+<lb/><hi rend="underline">To</hi> <hi rend="underline">His</hi> <hi rend="underline">Excelency</hi> -- 
+<lb/>Thomas,, E,, Bramlet -- 
+<lb/>Governor of Kentucky.
+<lb/>Gov -- </p>
+<p>Your petitioner, Joseph Croxton would most Respectfully Represent to your <hi rend="underline">Exelency</hi> that on the <gap/> day of <date when="1865-09">September 1865</date> he was fined five Hundred dollars in the City Court of Louisville Ky for dealing a <hi rend="underline">game</hi> <hi rend="underline">of</hi> <hi rend="underline">Faro</hi> which fine he is unable to pay with-out Entailing on Him-self and Family great pecuniary Embarisment -- He Having paid $222.<hi rend="sup">40</hi>/<hi rend="sub">100</hi> cost -- in the case your petitioner Hopes your <hi rend="underline">Exelency</hi> will Regard that as a sufficient punishment for the offence and therefore most Respectfully asks your <hi rend="underline">Exelency</hi> to Remit that portion of the fine that comes to the commonwealth -- </p>
+<p>Joseph Croxton.<pb/></p>
+<p>We the undersigners, Citazens of the City of Louisville most Respectfully Requests your Excelency to Remit the find imposed on the petitioner -- </p>
+<p><milestone unit="column" n="2"/><cb n="1"/>W M <unclear/>
+<lb/>W. L Mitchell Agt Agt L N A &amp; C R R
+<lb/>G. E. Lynn Agt L N A &amp; C R R
+<lb/>B Marks
+<lb/>N Bassinger
+<lb/>Marks &amp; Co Bankers
+<lb/>Louis Landau
+<lb/>J. J. Jones
+<lb/>J P Walker Esq
+<lb/>W. A Ronald S J C</p>
+<p>I think Mr Croxton has paid pretty well already &amp; do hope his Excellency the Gov May deem it proper to remit the ballance of his fine -- </p>
+<p>Lovell Rouseau
+<lb/><cb n="2"/>W K Thomas Jailor
+<lb/>H C Thomas ast Jailor<pb/></p>
+<p><milestone unit="column" n="1"/>Louisville City Ct
+<lb/>vs
+<lb/>Jos Croxton
+<lb/>$500,
+<lb/>Faro
+<lb/>Remit
+<lb/><date when="1865-11-08">8<hi rend="sup">th</hi> Nov/65</date></p>
+  </body>
+ </text>
+</TEI>

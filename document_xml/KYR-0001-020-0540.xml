@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0540"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">William Langdon to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10008</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG18-333 to MG18-334</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date when="1861-01-24">24 January 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency B Magoffin
+<lb/>Governor of Kentucky.</p>
+<p>Your Petitioner Wm Langdon, states that he was fined fifty dollars in the city court of Louisville, at the ^<date when="1859-09">September 1859</date>^ Term -- for an assault &amp; battery alleged to have been committed on a negro man. He alleges that the negro man was in company with some white women, where he came where they <hi rend="str">was,</hi> were, and the negro was insolvent and guilty of outrageous &amp; bad conduct toward him, which caused the difficulty, very little injury was done him, and many persons in this city could have done what petitioner did &amp; the matter would <hi rend="str">have</hi> not have been noticed, Petitioner, was down the river between Louisville &amp; New Orleans when the case was tried, and a Judgment had against him on his own admissions as to the assault -- He had no opportunity to defend the case, and had he been present &amp; prepared his defense, he is certain that the Jury would have acquitted him. He is very poor, and wholly unable to pay said fine -- being hardly able to pay the costs in this case, He assures your Excellency that difficulties of this character, an unusual matter with him &amp; he most respectfully asks your Excellency to remit the fine promising &amp; -- </p>
+<p>Louisville <date when="1861-01-24">Jan 24th 1861</date>.</p>
+<p>Respectfully
+<lb/>Wm Langdon</p>
+<p>We the undersigned citizens of the portion of Louisville, in which the Pet<hi rend="sup">r</hi> Wm Langdon resides most respectfully Join in his petition &amp; ask your Excellency to remit the <hi rend="str">foregoing</hi> aforementioned fine.</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Isham Talbot
+<lb/><cb n="2"/>W. G. Reasor<milestone unit="column" n="1"/><pb/>
+<lb/>William Gregory
+<lb/>Alfred Haffeld
+<lb/>Jenkins Figg
+<lb/>Ed. Meglemry
+<lb/>J. M. Campbell
+<lb/>Ben Figg Sr
+<lb/>W. W. Owen
+<lb/>henry Munchhof
+<lb/>Wendelin Rampp
+<lb/>Joseph A. Gall
+<lb/>H <unclear/>
+<lb/>Jim Tobart
+<lb/>W. A. Hundley
+<lb/>Diley Gibson
+<lb/>J. F. Gailbrath
+<lb/>Pat Hawes
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> E. Jones
+<lb/>Louis Ehrman
+<lb/>J B Hemp
+<lb/>H. T. Figg
+<lb/>John Better
+<lb/>Peter Renter</p>
+<p>Will Mr Crozxton be Kind Enough To bring with him the remission if one be obtained.</p>
+<p>Talbot &amp; Pfeiffer<pb/></p>
+<p>Louisville City Ct
+<lb/>Respite 12 mo
+<lb/>B. M
+<lb/>$50 } Assault
+<lb/>W<hi rend="sup">m</hi> Langdon
+<lb/>Iss<hi rend="sup">d</hi> <date when="1861-01-30">Jany 30 1861</date></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-2288"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">W. Payne et al. to Unknown</title>
+    <title level="a" type="parallel">CWG9364</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG25-37</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>We the undersigned, residents of Lexington in the neighborhood of John Sheppards Grocery &amp; Provision Establishment respectfully represent that the said Sheppard keeps an orderly, well governed house, that he keeps constantly on hand a large and well assorted stock of groceries and that his establishment instead of being an annoyance to the neighborhood is a source of great convenience.</p>
+<p><hi rend="underline">W Payne</hi>
+<lb/>E Montague cap po
+<lb/>G A. Shely
+<lb/>James, M, Graves
+<lb/>W. W Graves
+<lb/>J. Lanckart
+<lb/>J S Masner Po
+<lb/>W J M Chesney
+<lb/>J. R Warwick
+<lb/>Jno G. Shrock
+<lb/>ASA. Collins
+<lb/>T Lindner
+<lb/>H B Boordman
+<lb/><hi rend="underline">J, Y, Yellman</hi>
+<lb/>W L Thwait
+<lb/>T M Bruen
+<lb/>H B uttes
+<lb/>C. J. Gilbert</p>
+  </body>
+ </text>
+</TEI>

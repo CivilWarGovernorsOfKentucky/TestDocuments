@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0687"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Joh C. Deboe et al. to Unknown</title>
+    <title level="a" type="parallel">CWG10155</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG19-35</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Joh C deboe
+<lb/>Wm B wilson
+<lb/>D S Green
+<lb/>Jacob Morse
+<lb/>James Singleton
+<lb/>Robert williamson
+<lb/>A G <unclear>Morawe</unclear>
+<lb/>Daniel M<hi rend="sup">c</hi>dowell
+<lb/>E F Hill
+<lb/>Henry Garner
+<lb/>R W Spencer
+<lb/>Dan<hi rend="sup">l</hi> E Drennon
+<lb/>James M Morse
+<lb/>D W Reed
+<lb/>A Y Crisp
+<lb/>Z Wiliamson
+<lb/>C. T. Remmaday
+<lb/>David Leech
+<lb/>John L. Adamson
+<lb/>Eli M<hi rend="sup">c</hi>farlan
+<lb/>W D Crowdr
+<lb/>Jobe Carner
+<lb/>H G. Brown
+<lb/>J D Moore
+<lb/>Daniel <unclear/>
+<lb/>John Rustin
+<lb/>Calib aldridge
+<lb/>A.. T.. Traylor
+<lb/>John H Grove
+<lb/>Wm. G.. Butler
+<lb/>A D. Alexander
+<lb/>J. C. Trayler
+<lb/>S W M<hi rend="sup">c</hi>Chsny
+<lb/>W R M<hi rend="sup">c</hi>Chesney<pb/></p>
+<p>Caldwell Cir Ct
+<lb/>Respite 12 mo.
+<lb/>B. M
+<lb/>$10 } disturbance Pub. worship
+<lb/>Iss<hi rend="sup">d</hi> <date when="1861-02-15">Feby 15. 1861</date>
+<lb/>Tho. Simpson</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2154"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">J. E. Bacon et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6791</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR14-382</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Brownsville, Edmonson County, Kentucky</placeName>
+    <date when="1865-08-21">21 August 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Brownsville <date when="1865-08-21">Aug 21st ^<hi rend="str">5</hi>65^</date>
+<lb/>To ^the Hon^ T E Bramlette Governor of Kentucky</p>
+<p>Your petitioner would humbly represent to your excelency that at the last <date when="--05">may term</date> of the edmonson Circuit court a fine was assessed against Mary Jones Wife of R D Jones for the ^sum of^ $20 dollars &amp; cost for selling ardent Spirits in less quantities than alowed by law one time we would represent also that the woman was unlearned and do not think that any thing was done in the premises to try to brake or evade the law also that they are poor people with considerable family of children that Said R D Jones is a cripple for life from an attact of rhumatism some few years since and that they have one boy deformed and idiotic we would therfor respectfuly recommend said Jones to your excelencyes clemency as being worthy of the same Said R D Jones <hi rend="str">s</hi>and Petter Salling state that the inditement and and testimony was got up through ambition</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>J. E. Bacon P J E C C
+<lb/>Petter Salling wit
+<lb/>Joseph Crawford
+<lb/>B. F. White
+<lb/>Simeon Brooks J E C
+<lb/>G, T, Weath D S C C
+<lb/>William Dicus
+<lb/>Wm. B. Duncan
+<lb/>O. C. G. Buthram
+<lb/>Wiiliam Wells
+<lb/>James Reed
+<lb/><cb n="2"/>Isaac Wells
+<lb/>James Crawford
+<lb/>Finas York
+<lb/>J C Durbin
+<lb/>harper Wallkins
+<lb/>E B Johnson
+<lb/>W W Cochran
+<lb/>M D Skaggs
+<lb/>Asel Howlkin
+<lb/>J. L. Lindsey
+<lb/>G. P. Logan<pb/>
+<lb/><milestone unit="column" n="1"/>L. M. Hazlip
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> H Wells</p>
+<p>Edmonson Cir Ct
+<lb/>vs
+<lb/>Mrs Mary Jones</p>
+  </body>
+ </text>
+</TEI>

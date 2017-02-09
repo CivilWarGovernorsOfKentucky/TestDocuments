@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1610"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">E. S. Bomon et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6247</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR13-54 to BR13-56</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excelence thomas E Bramblet govenor of the commonwealth of Kentucky your petitioner E. S. Boman wold Respectible Represent to your Excelence that he was Indited by the Granjury of Whitley county for caring concealed deadley weapens and for an asault <hi rend="str">wit</hi> and that at the <date when="1864-08">last August</date> term of said Courte that he was called and being absent failed to appeare and answer the inditements and the court proseeded to tryal and that a judgment for $50.00 on the inditement for ca<unclear/> conceal deadley weapons was Rend<unclear/> and on the Inditement for asault <unclear/> was a judgement Renderd for $<unclear/> and ten days imprisonment an<unclear/> he further states that he is a pore m<unclear/> and hard Run and that he turned out as a volunteer in the sevis of his contry in the 7 Reg of Kentucky infantry and Remained in said sevis till <hi rend="str">the</hi> he was discharged on acount of disability he pray your Excelence to Remit the fines and set aside the Judgement and and to Relas him from the imprisenment imposed on him and for all proper Releaf</p>
+<p>E. S. Bomon<pb/></p>
+<p>The under signed Say that they beleave it wold be an act of charity to Remit the fine and set aside the Judgement and &amp;</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>J. C. Watkins clk
+<lb/>Whitley circuit court
+<lb/>C L Creekmore P J W C
+<lb/><cb n="2"/>John Smith
+<lb/>S. P. Brawem
+<lb/>Jackson. M<hi rend="sup">c</hi>Dowell
+<lb/>Tyrel Foley Clerk
+<lb/>of the Whitley county court
+<lb/>M V B Ryan
+<lb/>E F Adkins
+<lb/>James M. Adkins
+<lb/>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> Cravens
+<lb/>Hanibal Ross
+<lb/>Lewis Adkins
+<lb/>Daniel. W. Carroll
+<lb/>J. T. Freeman
+<lb/>Seth Freeman junior
+<lb/>T. R. Harman
+<lb/>Joseph H. Sutton
+<lb/>G. W. Little Atty
+<lb/>for Whitley County<milestone unit="column" n="1"/><pb/></p>
+<p><figure type="postmark"><listPlace><place><placeName>WHITLEY C. H.
+<lb/><date when="1865-02-05">FEB
+<lb/>5</date>
+<lb/>KY.</placeName></place></listPlace></figure></p>
+<p>His Excellency Tho. E. Bramlett
+<lb/>Frankfort
+<lb/>Ky</p>
+<p>Whitley Cir Ct
+<lb/>vs
+<lb/>E. S. Bomon
+<lb/>2 judgts
+<lb/>$50. &amp; 25$</p>
+<p>Remit the
+<lb/>fine &amp; also
+<lb/>imprisonment</p>
+<p>Remitted
+<lb/><date when="1865-03-10">10<hi rend="sup">th</hi> Mch 1865</date></p>
+<p>sent for fee</p>
+  </body>
+ </text>
+</TEI>

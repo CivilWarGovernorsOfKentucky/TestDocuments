@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0294"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">William V. Archer to James R. Page</title>
+    <title level="a" type="parallel">CWG1959</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Appointments by the Governor, Civil Appointments, 1863-1867</collection>
+      <idno>BR2-180</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Philadelphia, Philadelphia County, Pennsylvania</placeName>
+    <date when="1864-09-30">30 September 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>LEDYARD &amp; BARLOW,
+<lb/>SUCCESSORS TO
+<lb/>DAVIS &amp; BIRNEY,
+<lb/>WM. W. LEDYARD.
+<lb/>WM. M. BARLOW.
+<lb/><hi rend="italic">Attorney at Law.</hi>
+<lb/>WM. V. ARCHER,
+<lb/>Commissioner of Deeds.</p>
+<p>LAW AND COLLECTION OFFICE,
+<lb/>(429 Chestnut St., Farmers' and Mechanics. Bank.)
+<lb/>Philadelphia, <date when="1864-09-30">Sep 30 1864</date></p>
+<p>James R Page Eq
+<lb/>Fankfort Ky
+<lb/>Dear Sir</p>
+<p>Your esteemed favor has been received advising me that my commission for Kentucky has expired Will you please send me the renewal by an early mail. I had overlooked the fact that my commission would expire the <date when="---10">10<hi rend="sup">th</hi> Inst</date> until your letter was received Be good enough to date the renewal <date when="--09-10">Sep 10th</date> that no interupnance may occur</p>
+<p>I will take it as a very great favor if you will send my Commission by an early mail</p>
+<p>Yr Resply
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> V. Archer</p>
+<p>Enclose you will find fee of $5 as requested<pb/></p>
+<p>Pennsylvania
+<lb/>Com<hi rend="sup">r</hi> Deeds
+<lb/>W<hi rend="sup">m</hi> V. Archer
+<lb/>appt<hi rend="sup">d</hi>
+<lb/><date when="1864-09-10">10<hi rend="sup">th</hi> Sept/64</date></p>
+  </body>
+ </text>
+</TEI>

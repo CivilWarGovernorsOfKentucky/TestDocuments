@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-031-0066"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">S. B. Brown to Daniel C. Wickliffe</title>
+    <title level="a" type="parallel">CWG7806</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Appointments by the Governor, Civil Appointments, 1862-1863</collection>
+      <idno>R1-105 to R1-106</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Lexington, Fayette County, Kentucky</placeName>
+    <date when="1862-11-21">21 November 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Assis't Quartermasters Office
+<lb/>Lexington Ky <date when="1862-11-21">Nov 21, 1862</date>
+<lb/>Hon D. C. Wickliffe
+<lb/>Sect State
+<lb/>Frankfort
+<lb/>Ky
+<lb/>Sir</p>
+<p>I have the honor to request the appointment of John H Carr -- (a Loyal Citizen of this county &amp; City and clerk in the Quartermasters Depart. under me) as Notary Public -- Such an appointment would facilitate my business much in the taking of affidavits</p>
+<p>Very Respectfully
+<lb/>Yr Obt Svt
+<lb/>S. B. Brown
+<lb/>Capt &amp; A Q<hi rend="sup"> </hi>M<pb/></p>
+<p>Fayette Co<figure type="hr"/>
+<lb/>Notaries
+<lb/>Jno. H. Carr
+<lb/>Ja<hi rend="underline"><hi rend="sup">s</hi></hi> T. Davidson<figure type="hr"/>
+<lb/>App<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1862-11-24">Nov. 24 1862</date></p>
+  </body>
+ </text>
+</TEI>

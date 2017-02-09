@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-031-0038"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Bennett et al. to James F. Robinson</title>
+    <title level="a" type="parallel">CWG7778</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Appointments by the Governor, Civil Appointments, 1862-1863</collection>
+      <idno>R1-81</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Richmond, Madison County, Kentucky</placeName>
+    <date when="1862-11-01">1 November 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Richmond <date when="1862-11-01">Nov 1<hi rend="sup">st</hi> 1862</date>
+<lb/>To his Excellency Jas F Robinson</p>
+<p>The election of John W <unclear>Bourn</unclear> to the office of County Judge for this County, leaves a vacancy in this district for Magistrate, -- We therefore knowing our fellow townsman R H Johnson to be a gentleman of fine sense and judgment, and thoroughly qualified to discharge in every particular the duties of said office, <hi rend="str">Respfully</hi>Respectfully suggest that you appoint him to fill said vacancy</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>John Bennett
+<lb/><cb n="2"/>Will Rodes
+<lb/>C W White
+<lb/>Ja<hi rend="sup">s</hi> R Williams
+<lb/><hi rend="underline">S P Walters</hi>
+<lb/>M M<hi rend="sup">c</hi>Clanahan
+<lb/>R.. G.. Burton
+<lb/>P. C. Ballard
+<lb/><hi rend="underline">David Irvine</hi>
+<lb/>Tho. H. Barnes
+<lb/><hi rend="underline">C. F. Burman</hi><milestone unit="column" n="1"/><pb/></p>
+<p>Madison Co<figure type="hr"/>
+<lb/>J P. Dist
+<lb/>N<hi rend="underline"><hi rend="sup">o</hi></hi> 1.
+<lb/>App<hi rend="sup">t</hi> Made
+<lb/><date when="1862-11-07">Nov. 7. 1862</date></p>
+  </body>
+ </text>
+</TEI>

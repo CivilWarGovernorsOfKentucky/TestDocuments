@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0835"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John W. Stevenson to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10303</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG19-313 to MG19-314</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Washington, District of Columbia</placeName>
+    <date when="1861-03-01">1 March 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>House of Reps
+<lb/><date when="1861-03-01">1<hi rend="sup">st</hi> March 1861</date>
+<lb/>My dear Gov<hi rend="sup">r</hi>.</p>
+<p>I am not in the habit of often especially of asking the interposition of Executive Clemency as to a stay of criminal process. I am justified in doing so on the present occasion by the strong equity of the present application. Norman Sebree was fined some two years ago in the Boone Circuit Court for a raffle for some turkeys, which took place in his stable at Bellvue, he keeping tavern there at that time -- He admitted the fact as I learned on the trial but innocently believed that a raffle for four turkeys was not a violation of the criminal statutes agt gaming -- Several Circuit Judges &amp; among them Judge H O Brown &amp; Judge Reid had decided<pb/>
+<lb/>on the same Circuit that playing games for segars or raffles for turkeys were not violations of the statute -- He was however for his ignorance fined two hundred dollars -- He was so clearly innocent of any <hi rend="underline">mala fides</hi> that I understand Judge Nuttall -- the Com<hi rend="sup">lt</hi> Attorney M<hi rend="sup">r</hi> Major the entire Grand &amp; petit Jury who tried it all ask your Excellency to remit -- You stayed it -- &amp; that stay is now about expiring -- I do not think a stronger case could well be presented.</p>
+<p>Mr Sebree is a poor industrious man -- &amp; to force him to pay this fine would be almost to break him up -- I do hope<pb/>
+<lb/>as he had no intention to violate the law that you will pardon &amp; remit the fine -- </p>
+<p>Yours truly
+<lb/>J. W Stevenson</p>
+<p>I concur in the above</p>
+<p>L. W Powell<pb/></p>
+<p>Boone Cir. Ct
+<lb/>$200 } Gaming
+<lb/>N. Sebree</p>
+<p>Remission Iss<hi rend="sup">d</hi>
+<lb/><date when="1861-03-27">Mar 27. 1861</date></p>
+  </body>
+ </text>
+</TEI>

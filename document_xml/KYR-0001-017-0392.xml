@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0392"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">George W. Norton to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG2740</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Civil Appointments, 1859-1862</collection>
+      <idno>MG4-378</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Russellville, Logan County, Kentucky</placeName>
+    <date when="1862-03-17">17 March 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>G. W. NORTON, President. 
+<lb/>M. B. MORTON, Cashier.
+<lb/>Southern Bank of Kentucky,
+<lb/>Russellville, <date when="1862-03-17">17 March 1862</date></p>
+<p>To His Excellency
+<lb/>Beriah Magoffin
+<lb/>Governor of Ky.
+<lb/>Dear Sir:</p>
+<p>Many of our citizens are anxious for the appointment of Dreury W. Poor as Magistrate for this district to fill the vacancy occasioned by the death of Alex<hi rend="sup">r</hi>. Hull Esq<hi rend="sup">r</hi>. I take pleasure in saying that Mr. Poor is an excellent upright citizen and in my opinion, will make a good magistrate. I trust you will confer the appointment on him.</p>
+<p>Very Truly &amp; Respy, Your
+<lb/>obt Sevt</p>
+<p>G. W. Norton</p>
+  </body>
+ </text>
+</TEI>

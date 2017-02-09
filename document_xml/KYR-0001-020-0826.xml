@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0826"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John J. Dennis et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10294</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG19-299 to MG19-300</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Livermore, McLean County, Kentucky</placeName>
+    <date when="1861-03-18">18 March 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency B. Magoffin Gov. of commonwealth of Kentucky, your petitioners would respectfully state, that on the <gap/> day of <gap/> <date when="1859">1859</date> Virgel Brown was arrested for the crime of Larceny and the examining court held him to the further bail at the <date when="1860-03">March term 1860</date> of the M<hi rend="sup">c</hi>Lean Circuit Court and George Brown and John Robertson became his sureties in the bail bond of the <date when="1860-03">said March</date> term of the M<hi rend="sup">c</hi>Lean Circuit Court 1860. The bail bond was forfeited owing to the failure of Virgil Brown to make his appearance and George Brown and Jno. Robertson became responsible to the commonwealth for the amount of s<hi rend="underline"><hi rend="sup">d</hi></hi> bail bond whch is one hundred and fifty dollars, They would respectfully state that Jno. Robertson one of the sureties in the bond has left this state without leaving any means whereby to assist in paying s<hi rend="underline"><hi rend="sup">d</hi></hi> bond and that George Brown who is a very poor but worthy man with a large and helpless family is now responsible for the whole amount of s<hi rend="underline"><hi rend="sup">d</hi></hi> bond and that s<hi rend="underline"><hi rend="sup">d</hi></hi> Brown from his poverty is unable to pay the execution which was issued on the bond and that he has but a small tract or parcel of land, say 40 acres, and that s<hi rend="underline"><hi rend="sup">d</hi></hi> Brown would be<pb/>
+<lb/>entirely broken up if compelled to pay the forfeiture and thereby leave his family in a helpless and destitute condition, Wherefore they respectfully request your Excellency to remit. the entire forfeiture and release s<hi rend="underline"><hi rend="sup">d</hi></hi> Brown from the payment of the same</p>
+<p>Livermore <date when="1861-03-18">Mch 18<hi rend="sup">th</hi> 1861</date></p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Jno. J. Dennis
+<lb/>Alf. C. Tanner
+<lb/>L W Gates
+<lb/>E F M<hi rend="sup">c</hi>Null
+<lb/>W<hi rend="sup">m</hi> Hamilton
+<lb/>M tellus Cravens
+<lb/>Col,, W<hi rend="sup">m</hi> T Russell
+<lb/>Thos Massie
+<lb/>T. Mayes
+<lb/>I R Priest
+<lb/>J Blaser
+<lb/>Thomas Neubaner
+<lb/>William G Whitaker
+<lb/>James S Morton
+<lb/>Wm Stevens
+<lb/>S L Lindley
+<lb/>Ben.. B. Whitaker
+<lb/>S Hackett
+<lb/>T B Basset
+<lb/>C R Cook
+<lb/><cb n="2"/>W, W, Ramey
+<lb/>Jesse Bates J<hi rend="underline"><hi rend="sup">r</hi></hi>
+<lb/>Elijah Brashear
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Bewley
+<lb/>Henry. D. Clapper
+<lb/>John M Farmer
+<lb/>E M Johnson<milestone unit="column" n="1"/><pb/></p>
+<p>Respite 12 mo
+<lb/>B. M
+<lb/>M<hi rend="sup">c</hi>Lean Cir Ct
+<lb/>Geo. Brown &amp; Jno. Robertson
+<lb/>$150 } Recog
+<lb/>Iss<hi rend="sup">d</hi> <date when="1861-04-17">Ap 17. 1861</date></p>
+<p>220.13</p>
+  </body>
+ </text>
+</TEI>

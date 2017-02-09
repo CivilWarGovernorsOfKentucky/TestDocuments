@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0282"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Moses Mullins to James F. Robinson</title>
+    <title level="a" type="parallel">CWG8734</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Governor's Official Correspondence File, Petitions for Pardons, Remissions, and Respites, 1862-1863</collection>
+      <idno>R3-415</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Laurel County, Kentucky</placeName>
+    <date when="1863-03-09">9 March 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>His Excellency Governor Robinson</p>
+<p>Your Petitioner Moses Mullins says that at the <date when="1861-03">March Term 1861</date> of the Laurel Circuit court he was fined $15. for an alleged disturbance of Religious Worship. and afterwards upon petition he obtained a respite thereon, which expired on the <gap/> day of <date when="1863">1863</date> -- He now repeats all the statements made in his original petition and says they are true, he did not intend to disturb the meeting and he was wholey unable to pay said fine, but replevied the same, and the sheriff is now endeavoring to coerce the same out of his surities -- and he is less able to pay now than he was at the time of the respite -- that the rebel army last fall under Kirby Smith took from him pretty much all he had which was but little, but that little greatly needed for the support of his family, and his neighbors found about the same way -- He says the fine cannot possibly be paid without serious oppression, altho' it is small -- he therefore prays your Excellency to remit it -- </p>
+<p>Moses Mullins</p>
+<p>Sworn to before me by Moses Mullins this <date when="1863-03-09">9 day of March 1863</date>.</p>
+<p>Rholand Hodges <unclear>J P</unclear></p>
+<p>We are neighbors of Moses Mullins, know his condition and do not hesitate to endorse the facts above stated as being true, and believe that the fine ought to be remitted</p>
+<p>Wm T Young
+<lb/>H C Mason
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> L. Burnett<pb/>
+<lb/>Philip Swaner
+<lb/>Riley Wadkins
+<lb/>J Cothers
+<lb/>J F Blalek
+<lb/>S swaner
+<lb/>J jonson
+<lb/>B M Porter
+<lb/>C M Carter
+<lb/>L Jons
+<lb/>C Wadkins</p>
+<p>Laurel Cir. Ct
+<lb/>Remitted except Five dollars &amp; costs
+<lb/>J F Robinson
+<lb/>$15. } Mis.
+<lb/>M. Mullins
+<lb/>Iss<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1863-04-28">Apr. 28. 1863</date> -- </p>
+  </body>
+ </text>
+</TEI>

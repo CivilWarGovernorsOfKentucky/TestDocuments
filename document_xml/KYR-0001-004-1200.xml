@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1200"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">James R. Carrighan to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG5837</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR11-345</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1864-09-07">07 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency
+<lb/>The Governor of Kentucky.</p>
+<p>The undersigned, your petitioner, James R. Carrigan, respectfully shews that at the <date when="1864-08">August Term 1864,</date> of the Boyle Circuit Court, he was fined $20 for unlawful gaming.</p>
+<p>Your petitioner would state that he is not in any sense, a professional gamester, nor does he often indulge in play -- never except for pastime and amusement when having nothing else to do. He is a poor man and a mechanic, with an increasing family dependant upon his unaided exertions, and it will subject him to no little inconvienance to pay this fine and cost. He asks your Excellency, therefore, to remit the fine, and he faithfully promises that you shall not be again troubled with an application of this character from him. <date when="1864-09-07">Sept 7' 1864.</date></p>
+<p>James R Carrigan</p>
+<p>The undersigned, Citizens of Danville, are well acquainted with James R Carrigan, and knowing his Circumstances, unite with him in the prayer of his petition.</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>M S Chrisman
+<lb/>Al Chiles
+<lb/><cb n="2"/>Ro. P Jacobs
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> M. Fields
+<lb/>A. R Sneed<pb/>
+<lb/><cb n="1"/>W. R. Orear
+<lb/>M R Boic
+<lb/>Jon<hi rend="underline"><hi rend="sup">a</hi></hi>. B. Nicholas
+<lb/><hi rend="underline">Jo. H. Thomas</hi>
+<lb/><cb n="2"/>R. M. Orear
+<lb/><hi rend="underline">M R Boice</hi>
+<lb/><hi rend="underline">Fon T Fox</hi>
+<lb/>G W Doneghy
+<lb/>Joshua F Bell
+<lb/>B. D. Williams</p>
+<p>Boyle Cir Ct
+<lb/>vs
+<lb/>Jas R Carrington
+<lb/>Gaming
+<lb/>$20
+<lb/>Remit
+<lb/><date when="1864-09-24">24<hi rend="sup">th</hi> Sept/64</date></p>
+  </body>
+ </text>
+</TEI>

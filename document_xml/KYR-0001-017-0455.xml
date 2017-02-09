@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0455"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">James M. Coulter to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG2803</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Civil Appointments, 1859-1862</collection>
+      <idno>MG4-453</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Mayfield, Graves County, Kentucky</placeName>
+    <date when="1862-05-10">10 May 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Mayfield Ky. <date when="1862-05-10">May 10<hi rend="sup">th</hi> 62</date>
+<lb/>To his Excellency.
+<lb/>Beriah Magoffin.
+<lb/>Gov<hi rend="sup">r</hi>. of the
+<lb/>Commonwealth of
+<lb/>Kentucky.
+<lb/>Dr. Sir.</p>
+<p>I herewith again for.d copy of Co. Ct order vacating the Office of County Judge and Certificate of the Election of W. G. Blount Esq to fill said Vacancy. I hope you will find proceedings regular &amp; for.<hi rend="sup">d</hi> Commission at y.<hi rend="sup">r</hi> very earliest convenience -- as we greatly need a County Judge.</p>
+<p>The enclosed are Copies of others for<hi rend="sup">d</hi>. to you, some time since, fear they never reached you.</p>
+<p>Most Respectfully
+<lb/>Jas M. Coulter c. g. c. c.</p>
+<p>P. S. There are many cases, where Defendents Estates need attention and nothing can be done.</p>
+<p>J. M. C.<pb/></p>
+<p>Graves Co<figure type="hr"/>
+<lb/>Election of Pr.
+<lb/>Judge
+<lb/>Comr Iss<hi rend="sup">d</hi>.</p>
+  </body>
+ </text>
+</TEI>

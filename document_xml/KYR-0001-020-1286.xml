@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1286"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">James M. Fogle to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10754</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG21-171</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Lebanon, Marion County, Kentucky</placeName>
+    <date when="1861-07-23">23 July 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Lebanon Ky <date when="1861-07-23">July 23<hi rend="sup">rd</hi> 1861</date>
+<lb/>Hon B Magoffin
+<lb/>Dear Sir</p>
+<p>Enclosed find a petition and I do candidly think is a proper subject for your interposition It is possibly true that the old lady is not free of fault tho her situation is caused by the imprudence &amp; indiscrection of her daughters. If the judgement is enforced she cannot pay nor has she friends that will pay and the consequence must be imprissonment and a continual tax upon our county and we have already as much as we can bear. She is not free of guilt in consequence of her daughters conduct in the eyes of these so exact in morals tho there are hundreds who might be indicted in the same &amp; more guilty and yet a conviction &amp; punishment would make them no better_ Her age and condition forbids the idea of imprisonment I hope you will if you can in justice to yourself pardon her. Hoping still<pb/>
+<lb/>better <unclear>propests</unclear> for our benighted children &amp; misguided people of this state and trusting yet that the Recent victory may arouse them to their true intent</p>
+<p>Believing me your true friend as ever</p>
+<p>James M. Fogle</p>
+  </body>
+ </text>
+</TEI>

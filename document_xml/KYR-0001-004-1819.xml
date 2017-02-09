@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1819"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">James I. Hudnall et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6455</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR13-368 to BR13-369</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excelincy Thos E Bramlete
+<lb/>Govenor of Kentucky</p>
+<p>We the undersigned Citizens of Pendleton County would most respectfully represent that some one or two years since on John Marshall <hi rend="str">of</hi> late of this County swore out from the office W<hi rend="sup">m</hi>. A. Brann a Justice of this Peace a warrant against the wife of his son, <hi rend="str">a</hi> <hi rend="str">warrant</hi>. to Keep the Peace that in the Trial of the warrant the Defendant therein (Jane Marshall) was required to execute Bond for her appearance at the succeeding Term, of The Pendleton Circuit Court ^in the Sum of $250.<hi rend="underline"><hi rend="sup">00</hi></hi>^ (and in the mean time to keep the Peace) which she did with P. S. Ransom W. C. Wilson and J. P. Jones. as her Bail -- Shortly after the Execution of which Bond She removed to the state of Indiana where she yet is (her husband then and now being in the Army) in consequence of ^which^ the Bond was forfeited and a Judgment rendered on the forfeiture at <date when="1864-04">April Term 1864</date> of s<hi rend="sup">d</hi> Circuit Court and the Bail have paid all the case and attos fees -- leaving the remainder of said Judgment unsatisfied; We are satisfied that the trouble in the beginning was the result of a Family Quarrel -- and therefore think it a case in which you would do well to interpose your Excellency's Clemency -- we think it a great hardship to require the Bail to further pay said Judgment -- we therefore Earnestly Petition your Excellency to remit the <hi rend="str">Jude</hi> Judgement.</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Jas. I. Hudnall
+<lb/>James Wilson
+<lb/>C A Waudelohr
+<lb/>M Mullins
+<lb/><cb n="2"/>Jno. E. Records
+<lb/>Cty. atto. for Pendleton
+<lb/>L. Tho Hauser<milestone unit="column" n="1"/><pb/></p>
+<p>I was acting as Commonwealth's atto Pro Tem at the Term of the Court where the Bond was forfeited and the Prosecutor informed me that the matter had been compromised &amp; his Daughter in-Law had removed to the state of Indiana -- &amp; he wanted the matter be dismissed I think it will be an act of Justice to the Bail to remit the Judgt</p>
+<p>O. D. M<hi rend="underline"><hi rend="sup">c</hi></hi>Namarra<pb/></p>
+<p>Pendleton Cir Ct
+<lb/>vs
+<lb/>P. S. Ranson, W. P. Wilson &amp; J. P. Jones
+<lb/>$250.
+<lb/><date when="1865-05-24">24<hi rend="sup">th</hi> May 1865</date>
+<lb/>Remit -- </p>
+<p>(See Reps. of Pendleton)</p>
+  </body>
+ </text>
+</TEI>

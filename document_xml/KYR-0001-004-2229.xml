@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2229"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John W. McWhorter to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6866</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR15-46 to BR15-47</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Springfield, Washington County, Kentucky</placeName>
+    <date when="1865-08-11">11 August 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Springfield Ky
+<lb/><date when="1865-08-11">August 11<hi rend="underline"><hi rend="sup">th.</hi></hi> 1865</date>.
+<lb/>His Excellency Gov Thomas E Bramlette
+<lb/>Frankfort Ky
+<lb/>Sir,</p>
+<p>I arrested Milton B, Cox on the <date when="1865-03-17">17<hi rend="underline"><hi rend="sup">th</hi></hi> day of March 1865</date>, at the widow Powell's on Casey Creek in Adair County, for a charge of robbery commited upon the person or property of George W Walker. For this Same charge he was tried and convicted and Sentenced to the penitentiary for five years. On the <date when="1865-03-15">fifteenth of Said March</date>, myself in company with Several others<pb/>
+<lb/>Walker being one of the number, met Said Milton B Cox ^and others^ upon the public road, and Some one of the party remarked that one of their horses tracks Suited the description of the tracks we ha<hi rend="str">ve</hi>d been following, <hi rend="str">when</hi> <hi rend="str"><unclear/></hi> whereupon I proposed to arrest them, but Mr Walker Said that if these were the horses, they were not the men</p>
+<p>The prejudice against union men in that Section is so high that I believe he was convicted upon that prejudice and not upon the evidence. I recruited two of his brothers and they are now in Captain Cozine's company, and I can truly say that two better behaved or more honest men never belonged to any company and Captain Cozine will Say the same for them. His father came to this country in <date when="1863-03">March 1863</date>.<pb/>
+<lb/>a union refugee from Georgia, and no man has been a better citizen than he, Since he came to Kentucky. I reccommend him to your favor</p>
+<p>Very Respectfully Your
+<lb/>Ob'd't Serv't John. W. M<hi rend="underline"><hi rend="sup">c</hi></hi>Whorter</p>
+  </body>
+ </text>
+</TEI>

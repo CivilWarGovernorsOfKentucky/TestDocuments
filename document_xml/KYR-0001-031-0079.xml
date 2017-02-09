@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-031-0079"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Taylor County Court, Order</title>
+    <title level="a" type="parallel">CWG7819</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Appointments by the Governor, Civil Appointments, 1862-1863</collection>
+      <idno>R1-122</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1862-12">December 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Order</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>State of Kentucky
+<lb/>Taylor County Sct
+<lb/><date when="1862-12">Dec<hi rend="sup">r</hi> Term 1862</date></p>
+<p>It appearing to the Court that John G Newcomer a justice of the peace in district No 3 in Taylor County Kentucky has departed this life, R. E. Jeter is therefore recommended to his excellency the Governor of Kentucky as a suitable person to fill the vacancy occasioned by the death of said Newcomer -- </p>
+<p>A Copy att
+<lb/>Geo. W. Montague clk
+<lb/><hi rend="underline">Taylor County Court</hi></p>
+<p>Taylor County Court
+<lb/><date when="1862-12">Dec<hi rend="underline"><hi rend="sup">r</hi></hi> Term 1862</date></p>
+<p>It appearing to the Court that Jn<hi rend="underline"><hi rend="sup">o</hi></hi> R. Robinson Notary public for Taylor County is now absent from said County acting as Captain in the United States Army, Robt S Montague is recommended to his excelency the Governor of Kentucky as a suitable person to fill the office of Notary Public for said County -- </p>
+<p>A Copy Att
+<lb/>Geo. W. Montague clk
+<lb/><hi rend="underline">Taylor County Court</hi><pb/></p>
+<p>Taylor Co<figure type="hr"/>
+<lb/>J. P. Dist N<hi rend="underline"><hi rend="sup">o</hi></hi> 3.
+<lb/>R. E. Jeter<figure type="hr"/>
+<lb/>Notary
+<lb/>R. S. Montague
+<lb/>App<hi rend="sup">d</hi> made <date when="1862-12-06">Dec 6. 1862</date></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-018-0020"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Samuel K. Hays to Simon B. Buckner</title>
+    <title level="a" type="parallel">CWG8086</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Military Appointments, 1859-1862</collection>
+      <idno>MG6-98</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Covington, Kenton County, Kentucky</placeName>
+    <date when="1861-06-06">6 June 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Covington <date when="1861-07-06">July 6<hi rend="sup">th</hi> 1861</date>
+<lb/>Genl S B Buckner</p>
+<p>Please accept this resignation as Major of 1<hi rend="underline"><hi rend="sup">st</hi></hi> Battalion 3<hi rend="underline"><hi rend="sup">rd</hi></hi> Regiment KY. S. G. business calls me from my native state &amp; assign as the cause</p>
+<p>Sam<hi rend="underline"><hi rend="sup">l</hi></hi> K Hays
+<lb/>Maj 1 Battalion
+<lb/>3 Regint Ky. S. G.<pb/>
+<lb/>Ky State Guard
+<lb/>3' Regiment
+<lb/>Resignation
+<lb/>Maj. S. K Hays
+<lb/><date when="1861-07-06">July 6<hi rend="underline"><hi rend="sup">t</hi></hi> 1861</date></p>
+<p>Approved
+<lb/>H T Buckner
+<lb/><unclear/> &amp; Col
+<lb/>Com</p>
+  </body>
+ </text>
+</TEI>

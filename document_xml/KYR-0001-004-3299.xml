@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-3299"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">J. Saige Dury to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG5418</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR42-126</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Catlettsburg, Boyd County, Kentucky</placeName>
+    <date when="1865">1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Catlettsburg <date when="1865">20<hi rend="sup">th</hi> 65</date>
+<lb/>To His Excellency
+<lb/>Gov Bramlette</p>
+<p>Our mutual friend Jno. M. Burns an attorney at the bar went the security of a man by the name of Daniel W. Dalton a year or more ago for<hi rend="underline"> three hundred Dollars</hi> for his appearance at the Boyd Circuit Court on a chg. of Gr. Larceny, on condition that he would go in the United States military service which he did, being as he now recollects the 56<hi rend="underline"><hi rend="sup">th</hi></hi> Ohio- he has never heard from him &amp; dont know whether he was killed or what became of him- he knows that he was in for some time after he joined, but not further - forfeiture of bond &amp; judgment went of course- and I would be glad if you would favor M<hi rend="underline"><hi rend="sup">r</hi></hi> Burns under these circumstances &amp; relieve him of the judgment, believing that his case is a really merritorious one</p>
+<p>Yours ever &amp;c
+<lb/>J.S Drury
+<lb/>Cm<hi rend="underline"><hi rend="sup">th</hi></hi> Atty.<pb/>
+<lb/>Boyd Cir Ct
+<lb/>vs
+<lb/>John M. Burns
+<lb/>J F.. Day
+<lb/>To } Letter</p>
+<p><hi rend="underline">Governor</hi> <hi rend="underline">Bramlett</hi>
+<lb/><hi rend="underline">Remit</hi></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-3379"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Shepherd to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG5498</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR42-245</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Whitley County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency
+<lb/>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> E. Bramlett Govenor of Kentucky</p>
+<p>Your Petitioner John Sheppard would respectfully represent that in the year <date when="1864-03">1864 at the March term</date> of the Whitley Circuit, He was fined in the Sum of fifteen dollars for malfeasance in office as one of the Constables of Whitley County -- </p>
+<p>Now these are the facts a Daughter of Old John Fredric Swore out a Bastardy warrant against one Hugh Cain - the warrant was put into my hands to execute as I was a constable- Cain Layout for Some time to avoid being arrested- At length I came upon him and being by myself he made his- escape- The next time I Saw Said Cain was at an Election I was advised that I had no right to arrest him on that day and consequently did not Serve the warrant on that day.</p>
+<p>After this I did arrest him and Caused him to appear before the County Court for Whitley County- and he had his trial and was acquited- A Short time after this Old John Fedric Got mad at me and had me Indicted he being the only witness against me and the Jury either disregarding or not under Standing the- instructions of the Court found me Gilty I was not Gilty- of the Charge-</p>
+<p>Now if your Excellency can under the circumstances remit the fine it will only be Justice to your humble Petitioners-</p>
+<p>John Shepherd<pb/></p>
+<p>I C. L. Creekmore Judge of the Whitley County Court do hereby Certify that- John Sheppard the petitioner in the foregoing Petition- made oath in Due form of Law that the Statements in the foregoing petition were true to the best of his knowledge and belief </p>
+<p>C. L. Creekmore P J W C C</p>
+<p>Whitley C. H. Ky</p>
+<p>We the undersigned Citizens of Whitley County believe it would be a matter of Justice to M<hi rend="sup">r</hi> Sheppard the petitioner to remit the fine Spoken of</p>
+<p>J. C. Watkins clerk
+<lb/><hi rend="underline">Whitley Circuit Court </hi></p>
+<p>C. S. Creekmore Judge of the Whitley County Court
+<lb/>G. W. Little
+<lb/>Atty for Whitley County
+<lb/>James Cutberth
+<lb/>C.. Harm C. W. C.</p>
+<p>Gov Bramlette I think you would do right to remit this within fine</p>
+<p>H F Finley</p>
+<p>Whitley Cir Ct
+<lb/>vs
+<lb/>J Shepperd</p>
+  </body>
+ </text>
+</TEI>

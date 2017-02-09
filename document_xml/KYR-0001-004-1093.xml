@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1093"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">E. P. Thomas et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG5730</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR11-181 to BR11-181A</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Henry County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency the Governor of Kentucky</p>
+<p>The undersigned Citizens of Henry County would represent that Will T. Sutherland was fined $100. at the <date when="1864-04">Apl Term 1864</date> ^of Henry Circuit Court^ for striking a man called Isaac Allagood, who signs this petition -- The case was this Sutherland was a soldier in the Army of the United States and had just returned Home to his wife &amp; seven children and Isaac Allagood being his neighbor they were in town together and both took too much whiskey: they fell out &amp; Sutherland struck him: this is the case and the Jury fined him $100 -- Now We say that Sutherland is a very poor man, dailey labourer &amp; the wife &amp; children are entirely dependent on him for support -- He will be placed in jail for this offence -- Therefore we earnestly Solicit your Excellency to remit all the fine -- the costs will be as much as he can pay -- It is truly a case of mercy -- </p>
+<p><milestone unit="column" n="2"/><cb n="1"/>W. J. Brewer, sheriff,
+<lb/>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> Pearce s. r
+<lb/>Jo<hi rend="underline"><hi rend="sup">s</hi></hi> S. Drane
+<lb/>J N Coplinger
+<lb/>Jos Thomason
+<lb/>A. Joseph
+<lb/>G T Chilton
+<lb/>W H Wilkinson
+<lb/>N Smith
+<lb/><cb n="2"/>E. P. Thomas
+<lb/>late clk Henry Circt. &amp; Co Courts
+<lb/>Richard Neal
+<lb/>Ellis White
+<lb/>J, L, Arnold
+<lb/>J B Jones
+<lb/>J R Berryman
+<lb/>A. A. Jones
+<lb/>Horace Riner<pb/>
+<lb/><cb n="1"/>W. W Buckley
+<lb/>W,, Pearce
+<lb/>Elias Luckett 9<hi rend="underline"><hi rend="sup">th</hi></hi> Ky Cavaly =Do o o
+<lb/>William Pearce
+<lb/>Daniel Brannin
+<lb/>David Fitzgerald
+<lb/><hi rend="underline">Louis,, J,, Warsfall</hi>
+<lb/>Wm Fleming
+<lb/>George Buckley
+<lb/>J R Robertson
+<lb/>B. F. Cagle
+<lb/>B Silley
+<lb/>Jas Atcheson
+<lb/>L P Owens 9<hi rend="sup">th</hi> Ky Cav
+<lb/>Ed Bartell
+<lb/>W<hi rend="sup">m</hi> Fleming
+<lb/>W<hi rend="sup">m</hi> Buckley Jr
+<lb/>R Allan
+<lb/>Uriah Edwards
+<lb/>J M. Barnes
+<lb/><cb n="2"/>H,, Ellis
+<lb/>Posey Buckly 9<hi rend="sup">th</hi> Ky
+<lb/>Dan Branan<milestone unit="column" n="1"/><pb/></p>
+<p>Henry Cir Ct
+<lb/>vs
+<lb/>W.T. Sutherland
+<lb/>$100</p>
+<p><hi rend="underline">Remit</hi></p>
+<p><date when="1864-08-10">10<hi rend="sup">th</hi> Aug'/64</date></p>
+  </body>
+ </text>
+</TEI>

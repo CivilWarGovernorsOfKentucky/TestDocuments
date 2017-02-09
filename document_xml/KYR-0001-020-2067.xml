@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-2067"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">J. B. Hinds et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG9143</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG24-97</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency the Governor of Kentucky, B. Magoffin Your petitioners, citizens of Estill county, would most respectfully represent to ^your^ Excellency that Joseph Dozier was Indicted &amp; fined $20 for illegal gaming ^at the <date when="1862-06">June term of the Estill Circuit Curt 1862^</date> That he is a very poor man with a large family -- He only bet 8 cents on the game -- He is not able to pay the debt or to replevy it &amp; will have to go to Jail unless <hi rend="str">your</hi> he can have Executive clemency -- We hope that you will remit the fine for him.</p>
+<p>Respectfully yours -- </p>
+<p><milestone unit="column" n="2"/><cb n="1"/>J. B. Hinds
+<lb/>M B Mosely
+<lb/><hi rend="underline">C C Bell</hi>
+<lb/>J. M. Pigg C. E. C.
+<lb/><cb n="2"/>Robt Riddell J<hi rend="sup">r</hi>
+<lb/>H C Lilly
+<lb/>Greene B. Kelley
+<lb/>J H Riddell
+<lb/>R W. Smith
+<lb/>Robt Feluby
+<lb/>C W Friend
+<lb/>R G Benton
+<lb/>Jo B Bunn
+<lb/>David Wott
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> A L B Sharp<milestone unit="column" n="1"/><pb/></p>
+<p>Gov Magoffin Dear sir I hope that you will remit this fine</p>
+<p>Your Respt
+<lb/>G Pearl</p>
+<p>Respite 12 mo
+<lb/>B M</p>
+<p>Estill Cir Ct
+<lb/>$20 } Gaming
+<lb/>Jo<hi rend="sup">s</hi> Dozier</p>
+<p>Iss<hi rend="sup">d </hi><date when="1862-07-22">July 22<hi rend="sup">d</hi> 1862</date></p>
+  </body>
+ </text>
+</TEI>

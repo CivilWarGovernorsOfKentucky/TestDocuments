@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-079-0012"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">W. J. Seale, John Phillip, and Alfred England to the Military Board of Kentucky</title>
+    <title level="a" type="parallel">CWG14011</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>Enrolled Militia Records 1864 - 1865 ; Adair, Allen, Boyle, Daviess, Garrard, Owen, Pendleton, and Shelby counties</collection>
+      <idno>Flat Box 7, Folder 861 MARION COUNTY Home Guards - Organized 1st Ky Militia</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Lebanon, Marion County, Kentucky</placeName>
+    <date when="1861-06-28">28 June 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Lebanon Kentucky <date when="1861-06-28">June 28th 1861</date>
+<lb/>Secretary of the Board of Military
+<lb/>Commissioners:
+<lb/>Dear Sir,</p>
+<p>We have organized here a company of Home Guards, all loyal men, and true to the Constitution of the United States, and the Union. We are without arms, and are greatly deserious to procure them for the use, and benefit of our Company. We have been drilling for a month or two with success. We would like to get sixty stand of arms, and side arms for the officers as soon as possible We are not advised as to all the necessary steps to take to get there from the Military Board of Kentucky. You will greatly oblige us if you will at your earliest convenience put us in posession of all the necessary information so that we can get the arms as soon as possible. If necessary we can give you the best assurances of our political loyalty -- Lebanon is a place of some importance in this section, interior of the state and is without an armed military company. If you can let us have a cannon any way, write us how we can get it.</p>
+<p>Address</p>
+<p>W. J. Seale
+<lb/>John Phillip
+<lb/>Alfred England } Lebanon Ky<pb/></p>
+<p>5
+<lb/>W. J. Leslie Jr
+<lb/>Home Guards
+<lb/>Marion Co
+<lb/>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> of army <date when="1861-06-28">28<hi rend="underline"><hi rend="sup">th</hi></hi> June 1861</date>.</p>
+  </body>
+ </text>
+</TEI>

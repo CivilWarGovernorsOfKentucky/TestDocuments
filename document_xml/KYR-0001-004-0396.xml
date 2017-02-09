@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0396"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">William Kennlinber et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG4515</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR9-125 to BR9-126</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency Thomas E. Bramlette
+<lb/>Governor of the Commonwealth of Kentucky</p>
+<p>We the undersigned petitioners &amp; citizens of Boyd County Respectly Salicit The Remitance of the fines agst Doctor W<hi rend="underline"><hi rend="sup">m</hi></hi> Pugh who was fined at the last <date when="--11">November term</date> of the Boyd Circuit Court sixty dollars for keeping a tippling House Doctor W<hi rend="underline"><hi rend="sup">m</hi></hi> Pugh is a Drugess in our town, and being under the impression as the Keeper of a Drug Store he ^had^ the lawfull right to sell whisky when <unclear/> parties Repersentts it was for a medical purpose and he did not violate the law willfuly. but only through ingnorance He being an Englishman and not understanding the laws of our state Doctor Pugh is a good citizen and useful man in our community -- and ^we^ pray and ask ^you^ to Release him of this fine aforesaid</p>
+<p>William <unclear>Kennlinber</unclear></p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Names
+<lb/>James W Riely
+<lb/><cb n="2"/>W. A. Foster
+<lb/>H M Childs
+<lb/>over<pb/>
+<lb/><cb n="1"/>H A Poage
+<lb/>C L. M<hi rend="sup">c</hi>Connell
+<lb/>Ja<hi rend="sup">s</hi> T Ford
+<lb/>Asa Bellow
+<lb/>J D Kincaid
+<lb/>L J Ewing
+<lb/>J. Wellman
+<lb/>H. Preston
+<lb/>A P Borclers
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Campbell
+<lb/>J N Eastham S.A.C
+<lb/>J. D. Jones
+<lb/>Jasper Bowling
+<lb/>Andrew Scott
+<lb/><cb n="2"/>James Fanhanes
+<lb/>K. N. Harris<milestone unit="column" n="1"/><pb/></p>
+<p>Boyd Cit Ct
+<lb/>vs
+<lb/>D<hi rend="sup">r</hi> W<hi rend="sup">m</hi> Pugh
+<lb/>$60-
+<lb/>Tipling
+<lb/>Remit except fees &amp; costs
+<lb/>Tho E Bramlette
+<lb/><date when="1864-01-30"><hi rend="str">2</hi>30<hi rend="sup">th</hi> Jany/ 64</date></p>
+  </body>
+ </text>
+</TEI>

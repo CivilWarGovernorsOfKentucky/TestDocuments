@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0571"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Abraham Gum to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG4690</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR9-398 to BR9-399</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1864-03-15">15 March 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Frankfort <date when="1864-03-15">Mar 15/64</date>
+<lb/>To His Excellency
+<lb/>Governor Bramlette</p>
+<p>The undersigned states that in the year <date when="1857">1857</date>, by the Owsley Circuit Court, one Jos Redwine was fined ten dollars for an offense not now remembered, for the payment of which I became security. Said fine has never been paid, and since the rebellion broke out, said Redwine has been in the Southern Confederacy giving aid to the enemy, and unless remitted the whole burden will fall upon me. John Dishman <hi rend="str">is</hi> was the prosecuting Attorney and he also is in the rebel army on service. This application is respectfully made for a remission of so much as is within the power of your excellency. I am and have been loyal to the government and state. I served eighteen months in the 8<hi rend="sup">th</hi> Ky Infantry and the execution has been issued since my return from the army.</p>
+<p>Abraham Gum</p>
+<p>We the undersigned citizens of Owsley, in Frankfort on business, are well<pb/>
+<lb/>acquainted with Abraham Gum_ Know him to be a good citizen, that he has faithfully served as a solider, and join in his petition, which we know to be true.</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Witness
+<lb/>James Harlan <unclear/> for the three names
+<lb/><cb n="2"/>David Price
+<lb/>Asa Smith
+<lb/>Thomas Rock
+<lb/>G. M. Calmes
+<lb/>Wm B Gum
+<lb/>John T Gum Capt
+<lb/>John B. Phillips
+<lb/>John Congleton
+<lb/>G. W. Hieronymous
+<lb/>A E Howerton
+<lb/>W. C. Howerton<milestone unit="column" n="1"/><pb/></p>
+<p>Owsley County<figure type="hr"/>
+<lb/>Abram Gum's petition<figure type="hr"/>
+<lb/>Refused
+<lb/>Tho E Bramlette
+<lb/><date when="1864">64</date></p>
+  </body>
+ </text>
+</TEI>

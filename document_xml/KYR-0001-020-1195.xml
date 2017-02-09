@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1195"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">B. A. Wheat to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10663</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG21-30</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency Beriah Magofin Governor of Kentucky,</p>
+<p>The undersigned a citizen of Barren County, would most respectfully represent unto your Excellency that James White, a youth was sometime ago placed in the Jail of this county, for stealing a shawl, learning the fact and that said James was a son of his old Prefector Doct. B. White of Danville in this state, he bailed James out of Jail And who has failed to appear in discharge of his recognizance, And consequently payment has been induced against your petitioner at the present <date when="1861-06">June term 1861</date> of the Barren Equity &amp; Criminal Court on said bail bond for $200. He states that said James is a very unfortunate youth he seems to be a constitutional pilferer of small things, and is certainly a <unclear/> on that Subject. And your petitoner feeling a great regard for the Father of James, who is poor and <unclear/> quite an old man, And believing that owing to James, mind he did not regard him a fit subject for punishment, he bailed him out of jail as aforsaid, He refers your Excellency to the accompanying papers herewith sent. And asks your Excellency to remit so much of said payment as you can constitutionaly do.</p>
+<p>Yours respectfully
+<lb/>B A Wheat<pb/></p>
+<p>The case mentioned in the within Petition I am fully satisfied presents the strangest grounds for executive clemency. and I know from facts in my ^knowledge^ <hi rend="str">possession</hi> and which are fully reliable, that it would not only be an act of charity but of Justice to grant the prayer of the petition</p>
+<p>W<hi rend="sup">m</hi> B Jones Atty for the Comth</p>
+<p>Petition of Doct Wheat<figure type="hr"/>
+<lb/>Endorsement on the same by the Commwlths Atty.<figure type="hr"/>
+<lb/>Letter of W. F. Evans.</p>
+  </body>
+ </text>
+</TEI>

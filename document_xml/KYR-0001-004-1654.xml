@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1654"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">George C. Rae to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6291</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR13-124</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Greenupsburg, Greenup County, Kentucky</placeName>
+    <date when="1865-04-19">19 April 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Greenupsburg Ky
+<lb/><date when="1865-04-19">April 19<hi rend="underline"><hi rend="sup">th</hi></hi> 1865</date>
+<lb/>Thomas E Bramlet Esq<hi rend="underline">r</hi>
+<lb/>Dear Governor</p>
+<p>I enclose, you the petition of the Jury, or 11 of them with the Statement of Comlth. Atty. in the case of the Commonwealth Against Huston Griffey -- for an assault. Griffey is poor with a large Family of Little Children. The Jury found him guilty of that assault. and fine $50<hi rend="underline"><hi rend="sup">00</hi></hi> they recommend the remission of it, and I fully concur with M<hi rend="underline">r</hi> Thomas Atty for Comlth. and the Jury who Sign the petition. the facts Set up in the petition, are Substantially. what was proven in the cause, yours with very Great respect</p>
+<p><hi rend="underline">Geo. E. Rae</hi></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-018-0275"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John W. Finnell to Nathaniel Gaither, Jr.</title>
+    <title level="a" type="parallel">CWG8341</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Military Appointments, 1859-1862</collection>
+      <idno>MG6-388</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1862-04-04">4 April 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><figure type="seal"><ab>UNITED WE STAND, DIVIDED WE FALL.
+<lb/>KENTUCKY.</ab></figure>
+<lb/>Head-Quarters Kentucky Volunteer Militia,
+<lb/>ADJUTANT GENERAL'S OFFICE,
+<lb/>Frankfort, <date when="1862-04-04">4 April 1862</date>.</p>
+<p>Hon: Nat Gaither Jr
+<lb/>Sec: of State.
+<lb/>Sir</p>
+<p>The following returns have been made from Head Quarters, which please record viz:
+<lb/>Lieut: James Roddy has resigned (date of term: <date when="1861-11-11">11 Nov. 1861</date>)
+<lb/>Lieut: Green B. Eads has resigned (date of Com: <date when="1861-11-11">11 Nov 1861</date>)
+<lb/>Lieut: John J. Roberts has resigned (date of Com: <date when="1862-01-09">9 Jan 1862</date>)
+<lb/>Lieut: J. H. Millens Com: dated <date when="1862-03-12">12 March 1862</date> &amp; forwarded at the time: it was intended he should rank from <date when="1861-11-25">25<hi rend="underline"><hi rend="sup">th</hi></hi> Novr: 1861</date>. the date of his predecessors' resignations. &amp; in care of R. A. Moffets' commission of same date, he is to rank from <date when="1862-02-06">6<hi rend="underline"><hi rend="sup">th</hi></hi> Feb 1862</date>. the date of his predecessors' resignation-</p>
+<p> -- I send One Commission for record viz:
+<lb/>(over<pb/>
+<lb/><date when="1861-04-04">1861 Apl 4</date>- G. Clay Smith Colonel-</p>
+<p>I am
+<lb/>Sir
+<lb/>Very Resp<hi rend="sup">ly</hi>
+<lb/>John W. Finnell
+<lb/>Adj<hi rend="sup">t</hi> Gen<hi rend="sup">l</hi></p>
+<p>Entered <date when="1862-04-04">Apr 4 <hi rend="underline">1862</hi></date></p>
+  </body>
+ </text>
+</TEI>

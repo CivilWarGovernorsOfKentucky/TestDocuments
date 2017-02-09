@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-031-0239"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">C. T. Foulks to Daniel C. Wickliffe</title>
+    <title level="a" type="parallel">CWG7979</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Appointments by the Governor, Civil Appointments, 1862-1863</collection>
+      <idno>R1-329 to R1-330</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Philadelphia, Philadelphia County, Pennsylvania</placeName>
+    <date when="1863-06-13">13 June 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Philadelphia <date when="1863-06-13">June 13th. 1863</date>
+<lb/>Office 7<hi rend="underline"><hi rend="sup">th</hi></hi> St. N<hi rend="underline"><hi rend="sup">o</hi></hi> 115:
+<lb/>To. D. C. Wickliffe Esq
+<lb/>Secretary of the Commonwealth of Kentucky
+<lb/>Hon<hi rend="underline"><hi rend="sup">l</hi></hi> Sir</p>
+<p>Your favor of the <date when="1863-06-07">7<hi rend="underline"><hi rend="sup">th</hi></hi> inst</date> was duly received.</p>
+<p>Please accept our sincere thanks, for your very prompt and courteous, reply to our Application, and also for enclosing Com<hi rend="underline"><hi rend="sup">s</hi></hi> before receiving fees &amp;c..</p>
+<p>Enclosed please find $5, for Com<hi rend="underline"><hi rend="sup">s</hi></hi> issued to me. Also "Oath of Office" Signature and impress<hi rend="underline"><hi rend="sup">n</hi></hi> of seal -- </p>
+<p>My associate Mr. Pfeiffer is now out of the City. When he returns he will enclose Oath, Fees, &amp; impression of seal &amp;c.</p>
+<p>I have the honor to be
+<lb/>Very Respectfully
+<lb/><hi rend="underline">C. T. Foulks</hi>
+<lb/>for
+<lb/>Foulks &amp; Pfeiffer<pb/></p>
+<p>Pennsylvania<figure type="hr"/>
+<lb/>Com<hi rend="underline"><hi rend="sup">r</hi></hi> of Deeds
+<lb/>Oath
+<lb/>Cha<hi rend="underline"><hi rend="sup">s</hi></hi> T. Foulks
+<lb/>Filed <date when="1863-06-18">June 18. 1863</date></p>
+  </body>
+ </text>
+</TEI>

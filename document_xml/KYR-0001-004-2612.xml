@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2612"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Peter Lawless et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7249</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR16-179 to BR16-180</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency Thomas E. Bramlett Govenor of Kentucky</p>
+<p>The undersigned petitioners would respectfully represent that at the <date when="1865-10">October term of the Lawrence Circuit Court 1865</date> Washingtin Chafin was convicted and Sentenced to the pentitentiary of Kentucky for one year before a charge of Grand Larceny, we would further represent that the said Washingtin Chaffin belongs to one of the oldest most numerous and respectable families of Lawrence County and that said Chaffin is a Young Man who has aside from dissipation sustained a good character at the time of the commission of the offence. the proof conduced to shew that he was drunk <hi rend="str">and</hi>we therefore pray your Excellency to parden the said Chafin and permitt him to return home we believe that it will result greatly to the good of the prisoner -- and do no public injury</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Peter <unclear>Lawless</unclear>
+<lb/>Jn<hi rend="underline"><hi rend="sup">o</hi></hi>, B, Hatcher
+<lb/><cb n="2"/>Laban T Moore
+<lb/>J H Allison S L C
+<lb/>F R Moore
+<lb/>Calvin Wellman
+<lb/>W. Shoemaker
+<lb/>Hiram. H. Tyler
+<lb/>J, D, Jones
+<lb/>A J Vinson <hi rend="str">C</hi><pb/></p>
+<p><milestone unit="column" n="1"/>Lexington Ky <date when="1865-10-21">Oct 21<hi rend="sup">st</hi> 1865</date></p>
+<p>From what information I have in <unclear>in</unclear> regard to this young mans case I am certain it is a case in which your Excellency not only has a good cause but that it is your duty to exercise clemency &amp; pardon this case</p>
+<p>Respectfully
+<lb/>Samuel M<hi rend="underline"><hi rend="sup">c</hi></hi>Kee<pb/></p>
+<p>Lawrence Cir Ct
+<lb/>vs
+<lb/>Washington Chafin
+<lb/>Grand Larceny
+<lb/>1 year
+<lb/>Oct term/65
+<lb/>Pardoned <date when="1865-10-21">21 Oct/65</date></p>
+  </body>
+ </text>
+</TEI>

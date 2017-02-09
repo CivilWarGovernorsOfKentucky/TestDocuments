@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1803"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Smith to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG11271</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Bradley Strait</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG23-169 to MG23-170</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1862-04-07">7 April 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To the Excelence of the governor of The Commonwealth of Ky your petioner John Smith would repectifull represent to your Excelence that some time in the year <date when="1861">1861</date> that he weent one Robert Right surity for his appearence in the Whitley Circuit Courte <hi rend="str">for the offence of Robery</hi> at the <date when="1861-08">Aug term 1861</date> to answer the commonwealth for the offence of <hi rend="str">Robery</hi> larceny at the <date when="1861-08">august term 1861</date> and the said Robert Right lived neare Russel<hi rend="str">l</hi>ville Tenesse that said Robert went home with the express understanding that he was to a<hi rend="str"><unclear/></hi>ppeare in the Whitley Circuit cowrte on the first day of it next August term to answer the charge he states that previous to the first day of the next August tern 1861 that the loine between Kentuckey and tenesse was so blocaded that it was all most passible or was dangerous to pass he states that said Robert Right fail to a tend cowrte and the bond was forfeited and at the <date when="1862-03">march term 1862</date> they was a Judgment Rendered against him for two hundred dollars on the forfeite <hi rend="str"><unclear/></hi>Bond <hi rend="str">st</hi> your petitioner states that the granjury faile and Refused to find an iditement on said charge he states that they still have failed and <hi rend="str">now</hi> they is no such a charge in the Whitley Circuit Courte against Robert Right <hi rend="str">as</hi> or any other inditement against <hi rend="str">them</hi> him. Your petitioner states that he is <hi rend="str">in</hi> a pore man and if he has said fine to pay that it will greatley distress him he states that it wold be an act of charity to Remit said <hi rend="str">fine</hi> Judgment on said forfeited Reconizens</p>
+<p>The prayers of your petitioner is that the Judgment on the forfeited Reconizens be remited and and for all proper Releaf. </p>
+<p>Jon Smith </p>
+<p>John Smith says he believes the states ments in the forgoing petition to be true</p>
+<p>John Smith </p>
+<p>Sworn to before me by John Smith this the <date when="1862-04-07">7th day of April 1862</date></p>
+<p>Isaiah Bird J P W C<pb/></p>
+<p>We the under signed <hi rend="str">state</hi> says that we are a aquaited with the petticant and believs that it wod be act of charity to Remit said <hi rend="str">fine</hi> fine</p>
+<p>Isaiah Bird
+<lb/>John Ellison
+<lb/>G. W. <unclear>Keever</unclear>
+<lb/><unclear/> <unclear/>
+<lb/>John D R<unclear/>
+<lb/>E. F. Adkins
+<lb/>Wm S <unclear>Mearitt</unclear>
+<lb/>James <unclear/>
+<lb/>James <unclear/>
+<lb/> J<unclear/> <unclear/>
+<lb/>Wm Pebler
+<lb/>Deny Meadous
+<lb/>James <unclear/>
+<lb/><unclear>Henry Mot</unclear>
+<lb/>J C <unclear>Troby</unclear>
+<lb/>Tyrell Foley 
+<lb/>J F Brosfield
+<lb/>Sal Stephens
+<lb/>John <unclear/>
+<lb/>Joseph Neel
+<lb/>John Hanson<pb/> </p>
+<p>London 
+<lb/><date when="1862-05-03">May 3rd 1862</date>
+<lb/>Gov Magoffin </p>
+<p>I would be gratified if you would remit the within fine I believe that it should be done</p>
+<p>yours respt 
+<lb/>Granville Pearl<pb/></p>
+<p>Whitley Cir. Ct
+<lb/>John Smith 
+<lb/>To Petition 
+<lb/>$200 } Recog 
+<lb/>Remission Iss<hi rend="sup">d</hi> <date when="1862-06-09">June 9. 1862</date></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-3230"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">D. Bradshaw et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG5349</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR42-16</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Nicholas County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency Hon Thos. E. Bramlette,
+<lb/>Governer of Kentucky</p>
+<p>The undersigned citizens of Nicholas County, respectfully pray your honor to pardon Jonthan Young a colored man, who was convicted at the present term of the Nicholas Circuit Court of stealing two heiferers and sentenced to the penitentiary for one year. There is great doubt as to whether he is guilty of the offince there being strong reason to believe that the owner permitted him to sell the heifers. He surrendered himself up to the jailor after he had escaped, and has not behaved as if he was guilty.</p>
+<p>He is a poor man, has a family of children, and heretofore has borne an excellent character.</p>
+<p>We respectfully ask that he may be pardoned.</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>D Bradshaw
+<lb/>John.G. Blair
+<lb/>David Bird
+<lb/>James H Sears
+<lb/>J H Serbry
+<lb/>John A. Tribble
+<lb/>George Wills
+<lb/><cb n="2"/>C King
+<lb/>W. T. Henry, Agt Bureau
+<lb/>Refugees Freedmans A Lands
+<lb/>Eliseph Morrson, Jailor<milestone unit="column" n="1"/></p>
+<p>The above persons are mainly neighbors of Jonathan Young, (Colored)<pb/>
+<lb/>Nicholas Cir Ct
+<lb/>vs
+<lb/>Jonathan Young
+<lb/>Pententiary
+<lb/>1 year
+<lb/>Grand Larceny</p>
+  </body>
+ </text>
+</TEI>

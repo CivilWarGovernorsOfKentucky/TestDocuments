@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0835"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Lewis P. DeWolf, Affidavit</title>
+    <title level="a" type="parallel">CWG4954</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR10-288</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Chicago, Cook County, Illinois</placeName>
+    <date when="1864-05-21">21 May 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>State of Illinois
+<lb/>Cook County SS:
+<lb/>City of Chicago }</p>
+<p>Lewis T. DWolf of said city being duly sworn saith that he is Weigh Master in the Elevator of Munger Wheeler &amp; C. Chicago, that prior to his present employment &amp; for two years &amp; upwards he was Head Porter at the Metropolitan Hotel in said City &amp; that during most of such time he employed one Silas L. Freeman as Porter. that he is well acquainted with him &amp; with his character &amp; deportment. and that during said time said Freeman sustained a most excellent reputation for honesty, sobriety &amp; business capacity, that he was as such Porter during all of said time freely &amp; fully entrusted with a great deal of valuable property, that he was always considered perfectly trustworthy. &amp; had the full confidence of his employers, &amp; was never suspected of any dishonesty or want of integrity. And this Deponent further saith that he knows that the said Greenman was for about two years employed by the Proprietors of the Briggs House in said City &amp; while there had the full confidence of such employers &amp; left said Hotel enjoying the best reputation for honesty &amp; integrity<pb/>
+<lb/>and has always sustained a good character among all of his acquaintances in said City.</p>
+<p>Lewis T. DeWolf</p>
+<p>Sworn before me this <date when="1864-05-21">21<hi rend="sup">st</hi> Day of May A.D. 1864</date>.</p>
+<p>O. R. W. Lull
+<lb/>Notary Public
+<lb/>In aforesaid City of Chicago</p>
+<p><stamp type="revenue"/><note place="stamp"><date when="1864-05-25">5/25
+<lb/>1864</date>
+<lb/>O R W L
+<lb/>N P</note></p>
+<p><figure type="seal"/></p>
+  </body>
+ </text>
+</TEI>

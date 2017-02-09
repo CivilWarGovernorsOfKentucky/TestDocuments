@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2772"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Elhannon Jones, David Y. Lyttle, and R. Boyd to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7409</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR17-32 to BR17-33</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his excellency Thomas E. Bramlett
+<lb/>Gov, of the Commonwealth of Kentucky</p>
+<p>your petitioner Elhannon Jones states that at the <date when="1865-08">August term of Laurel Circuit Court 1865</date> he was fined the Sum of twenty Dollars for playing a game of Cards at Bushe's store he states that the same was merely for amusement a treat being bet on the game he states that he is no gambler only plays for amusement occasionally he hopes your excellency will remit said fine</p>
+<p>Elhannon Jones Ptr
+<lb/>David Y. Lyttle
+<lb/>R. Boyd</p>
+<p><hi rend="str">Govner</hi>
+<lb/>Gov Bramllet</p>
+<p>I hope that you will remit this fine In my opinion it ought to be done</p>
+<p>Granville Pearl</p>
+<p>I asigne the within as Sheriff Clay Co, Ky Tho<hi rend="underline"><hi rend="sup">s</hi></hi> Cook S, C, C<pb/></p>
+<p>Laurel Cir Ct
+<lb/>vs
+<lb/>Elhannon Jones
+<lb/>$20,
+<lb/>Gaming
+<lb/>Remitted <date when="1865-12-23">23<hi rend="sup">d</hi> Dec/65</date></p>
+  </body>
+ </text>
+</TEI>

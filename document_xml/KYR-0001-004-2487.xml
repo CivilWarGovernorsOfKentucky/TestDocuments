@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2487"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Thomas P. Porter to John M. Harlan and James Harlan, Jr.</title>
+    <title level="a" type="parallel">CWG7124</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR15-455</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Versailles, Woodford County, Kentucky</placeName>
+    <date when="1865-10-24">24 October 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Versailles <date when="1865-10-24">Oct 24. 1865</date>
+<lb/>Messrs Jno M &amp; Jas Harlan
+<lb/>Gentlemen</p>
+<p>Mr Jno W Harris a worthy and clever citizen of our county, to whom I introduce you, will be in Frankfort to-day with a petition asking the Governor to remit a fine imposed upon him by the Fayette Court.</p>
+<p>I Know that the statements in the petition of Harris are true, because I was present at the trial, aided in defending him, and of course heard all the testimony I fully concur in all <hi rend="str">the</hi> <hi rend="str">petition</hi> that is said in the petition of Harris, of the <hi rend="underline">jury</hi>, and of our citizens all of whom you know, and can safely recommend to Governor Bramlette. Any aid you can render Mr Harris will be duly appreciated by him</p>
+<p>Truly yours &amp;c
+<lb/><hi rend="underline">Tho P. Porter</hi></p>
+  </body>
+ </text>
+</TEI>

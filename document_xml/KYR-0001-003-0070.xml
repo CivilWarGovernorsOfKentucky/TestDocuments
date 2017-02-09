@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-003-0070"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Thomas B. Boyd to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG1587</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's Official Correspondence File, Military Correspondence, 1863-1867</collection>
+      <idno>BR5-101</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Gov Bramlette Sir if you want any more Proof then this Gen Shackelford knowes me and knowes that I was in this Regiment and Served as Second Lieut in comp H, of the 25<hi rend="underline"><hi rend="sup">th</hi></hi> Ky Infentry at Donnelson &amp; at Shilow after which I Rezined and went in too the 8<hi rend="underline"><hi rend="sup">th</hi></hi> Ky Cav for twelve months.</p>
+<p>If you can grant me permission just write me word wether to sweare them in or not as I recruit them or not,</p>
+<p>If Permission is granted I would like too Rendevooze <hi rend="str">foen</hi> at Hopkinsville &amp; Madinsonville Ky these two plases are very good plases to get men, I think I can get them in ^a^ hurrie</p>
+<p>You will find becids this a nother letter in closed, which <hi rend="str">will</hi> will give the first of my <unclear/> of you</p>
+<p>Pleas approve these fiew bad written Requests</p>
+<p>Lieut Thomas. B Boyde</p>
+  </body>
+ </text>
+</TEI>

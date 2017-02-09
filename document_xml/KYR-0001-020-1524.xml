@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1524"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">D. H. Hughes to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10992</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Amanda Boczar</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG22-122-1</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Morganfield, Union County, Kentucky</placeName>
+    <date when="1861-11-11">11 November 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><milestone unit="column" n="3"/><cb n="1"/>W. G. HUGHES,
+<lb/><hi rend="italic">Morganfield</hi>.
+<lb/><cb n="2"/>F. H. DALLAM,
+<lb/><hi rend="italic">Henderson</hi>.
+<lb/><cb n="3"/>D. H. HUGHES
+<lb/><hi rend="italic">Morganfield</hi>.
+<lb/><milestone unit="column" n="1"/>HUGHES, DALLAM &amp; HUGHES,
+<lb/>COUNSELORS AND ATTORNEYS AT LAW,
+<lb/>MORGANFIELD AND HENDERSON, KY.
+<lb/>Will attend Promptly to all Business committed to them.<figure type="hr"/></p>
+<p>Morganfield, Ky., <date when="1861-11-11">Nov 11th 1861.</date>
+<lb/>To his Excellency Beriah Magoffin Governor of Ky
+<lb/>Dr Sir</p>
+<p>You will remember my statement to you in the latter part of September in Frankfort of the case of young Berry confessing judgement for $150 on an indictment for carrying a challenge and your promise that it should be remitted. Mr Lowe our commonwealth's atty wrote you a letter last spring defining the circumstances with his opinion &amp; request that the same should be remitted.</p>
+<p>I send you a copy of the judgement and hope you will give it your immediate attention, the Sherriff having the "capias pro fine" in his hands=</p>
+<p>Very Resp'y. Yr. Ob't. Serv't,
+<lb/>D, H, Hughes<pb/></p>
+<p>Union Cir. Ct
+<lb/>$150. } Carrying Challenge
+<lb/>N. C. Berry
+<lb/>Iss<hi rend="sup">d</hi> <date when="1861-11-19">Nov 19. 1861</date></p>
+<p>Remitted 
+<lb/>B. M.</p>
+  </body>
+ </text>
+</TEI>

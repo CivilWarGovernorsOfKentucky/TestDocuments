@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0095"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">R. A. Wise to William R. Thompson</title>
+    <title level="a" type="parallel">CWG4214</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR8-143</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>M<hi rend="sup">r</hi> Wm R. Thompson
+<lb/>Dr. Sir</p>
+<p>Yours I Just rec<hi rend="underline"><hi rend="sup">d</hi></hi> and will send you a few lines that I think will answer your purpose the Breach of the Peace was commited on the <date when="1863-08-03">3<hi rend="underline"><hi rend="sup">rd</hi></hi> Aug 1863</date>. Executed on the Parties the 10<hi rend="str">1</hi><hi rend="sup">st</hi> and tried at Lewis Leaches on the <date when="--08-11">11<hi rend="sup">th</hi> day of Aug</date> (R A. Wise</p>
+<p>We of the Jury Find Hillry Jackson for the Commonwealth. Fifteen Dollars and Cost<hi rend="underline"><hi rend="sup">s</hi></hi></p>
+<p>We of the Jury Find also George Jackson for the Commonwealth Fifteen Dollars and cost<hi rend="sup">s</hi></p>
+<p>(Sined) B. H. Crist forman</p>
+<p>I presume this is all you want to see</p>
+<p>I Remain yours Respectfully
+<lb/>R. A. Wise</p>
+  </body>
+ </text>
+</TEI>

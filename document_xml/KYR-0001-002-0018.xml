@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-002-0018"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Berry S. Young et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG0882</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Jacob A Glover</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Appointments by the Governor, Military Appointments, 1863-1867</collection>
+      <idno>BR5-338 to BR5-339</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Marion, Crittenden County, Kentucky</placeName>
+    <date when="1864-02-16">16 February 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><date when="1864-02-16">Marion Ky Feby 16<hi rend="sup">th</hi> 1864</date>
+<lb/>To His Excellency Thos E Bramlette Governor of Kentucky</p>
+<p>The Undersigned citizens of Crittenden having been informed that by Legislative enactment and by the authority vested in you as Governor of said State that forces are to be Raised for the defense of the state against Guerrilla invasion if such be the fact We would Recommend to your favorable Consideration Lieut F S Loyd of Co H 20<hi rend="sup">th</hi> Ky Regt as Col and J N Hughey 1<hi rend="sup">st</hi> Sergt Co E 48<hi rend="sup">th</hi> Ills Regt ^for Lt Col^ both Recruited from this (Crittenden) County both of them accomplished Gentlemen and Soldiers they Refer you to Col Edward of your Staff By promoting those Young Gentlemen you will greatly oblige the Undersigned and Reward merit gained by gallant service in their country<hi rend="sup">s</hi> cause</p>
+<p><hi rend="underline">Berry</hi> <hi rend="underline">S Young</hi> <hi rend="underline">clk</hi> c c c
+<lb/>James M Steele
+<lb/>W C Carnahan
+<lb/>S L. R. Wilson
+<lb/>Robt F Haynes County Atty,,
+<lb/>J H Walker Clerk
+<lb/>Crittenden Circuit Court
+<lb/>D N Stinson Post Master at Marion Crittenden Co Ky
+<lb/>John N Woods
+<lb/>Alfred Armstrong
+<lb/>James W Wilson -- 
+<lb/>J. E. Black
+<lb/>J C Henson
+<lb/>H. L. Leigh
+<lb/>S U Elder</p>
+  </body>
+ </text>
+</TEI>

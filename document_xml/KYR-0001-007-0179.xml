@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0179"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">M. C. Davis to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG1844</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Appointments by the Governor, Civil Appointments, 1863-1867</collection>
+      <idno>BR2-25</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Dixon, Webster County, Kentucky</placeName>
+    <date when="1864-04-09">9 April 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Dixon Webster County Ky
+<lb/><date when="1864-04-09">April 9<hi rend="sup">th</hi> 1864</date>
+<lb/>To his excellency Gov. Thos E Bramlett
+<lb/>Dr Sir</p>
+<p>I would respectfully represent to your excellency that at the <date when="1863-05">May election 1863</date> myself and B F Davis were elected Justices for District No. 6 in this County I became a candidate for the Clerkship and did not qualify and B F Davis also failed to qualify. </p>
+<p>consequently those offices are vacant in that district. and at the request of a number of citizens of that district I would recommend to your favorable consideration N. D. Martin as a suitable person to fill one of said vancies Mr Martin is a Union man and loyal to his Government</p>
+<p>Repsectfully Yours
+<lb/>M C Davis Clerk
+<lb/>of Webster County Court<pb/></p>
+<p>Webster Co
+<lb/>J. P
+<lb/>N. D. Martin
+<lb/>appt<hi rend="sup">d</hi>
+<lb/><date when="1864-04-14">14<hi rend="sup">th</hi> Apl/64</date></p>
+  </body>
+ </text>
+</TEI>

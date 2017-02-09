@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0952"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Joseph Henry to Unknown</title>
+    <title level="a" type="parallel">CWG10420</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG19-508 to MG19-509</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Washington, District of Columbia</placeName>
+    <date when="1861-04-22">22 April 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>SMITHSONIAN INSTITUTION,
+<lb/>WASHINGTON, <date when="1861-04-22">April 22 18<hi rend="str">5</hi>61</date></p>
+<p>The Smithsonian Institution is now making preparations to send copies of its publications to the different Libraries and Societies in Europe and other parts of the world, with which it is in correspondence. As in previous years, it will undertake the transmission and safe delivery of the publications of other American Institutions, on the following conditions:</p>
+<p>1st. The volumes or publications to be put up in compact packages, enveloped separately to each particular address. They must not be sealed, although they can be pasted up or tied. Unsealed letters relating to the contents of the package may be placed inside, or sent separately. <hi rend="italic">In no case will sealed letters or packages be forwarded by the Institution.</hi></p>
+<p>2d. The packages must have their addresses marked legibly in full, (if German, they must be in Roman character,) and the name of the donor must be endorsed on each.</p>
+<p>3d. <hi rend="italic">The parcels must be delievered in Washington, free of expense to the Smithsonian Institution</hi>.</p>
+<p>4th. A detailed and full invoice of all the addresses on the parcels must be sent separately, in advance, by mail.</p>
+<p>5th. The parcels should conform as nearly as possible in length and breadth to the corresponding dimensions of the Smithsonian Contributions to Knowledge, if in quarto, or to half this size, if octavo. Octavo pamphlets should not be folded. No single package should exceed six inches in thickness.</p>
+<p>6th. No charge will be made for the expenses of sending from Washington, if the parcels be moderate in bulk. In any case the proportion of actual expenses will be alone called for.</p>
+<p>If desired, the Smithsonian Institution will make the selection of the most suitable recipients of any publications. In this case nothing but the name of the donor need be marked on the parels.</p>
+<p>The next transmission of packages from the Smithsonian Institution will take place about the <date when="1861-05-25">25 of May</date></p>
+<p>Your parcels should be in hand by the <date when="1861-05-21">21 of May,</date> and the lists sent by mail at the earliest possible moment. These will be wanted considerably in advance of the parcels, in order to make out the complete invoices for each different address before commencing to pack.</p>
+<p>You are requested to report immediately whether you desire to make use of the Smithsonian Institution on this occasion.</p>
+<p>Very respectfully, your obedient servant,</p>
+<p>JOSEPH HENRY,
+<lb/><hi rend="italic">Secretary S. I.</hi></p>
+<p>N. B. Unless the above conditions are severally and strictly observed, the parcels cannot be forwarded by the Smithsonian Insititution.</p>
+  </body>
+ </text>
+</TEI>

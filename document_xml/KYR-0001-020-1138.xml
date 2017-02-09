@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1138"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Berry S. Young to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10606</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG20-282</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Marion, Crittenden Couty, Kentucky</placeName>
+    <date when="1861-06-09">9 June 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Marion Ky <date when="1861-06-09">June 9<hi rend="sup">th</hi> 1861</date>
+<lb/>Beriah Magoffin Governor of Ky
+<lb/>Frankfort Kentucky
+<lb/>Dear Sir</p>
+<p>At the last Term of the Crittenden Circuit Court a Judgement was Rendered by said court against D A Butler for $500 and against J S Lowery for the sum of $500 and against W B Travis for the sum of $250. I think that said Judgements are Exorbitant and that executive interferance would meet the approbation of the citizens of this county I have known the defendants for many years and have found them to be law abiding men and the offence of which they were charged was for assault and Battery</p>
+<p>I am Yours truly
+<lb/><hi rend="underline">Berry. S. Young</hi><pb/></p>
+<p>Crittenden Cir. Ct
+<lb/>$500 D A Butler
+<lb/>$500 J. S. Lowery
+<lb/>$250 W. B Travis</p>
+<p>Remitted as to one half of Judgt iss<hi rend="sup">d</hi> respite 6 mo<hi rend="sup">s</hi> as to balance</p>
+<p>B M</p>
+<p>Iss<hi rend="sup">d</hi> <date when="1861-07-02">July 2. 1861</date></p>
+  </body>
+ </text>
+</TEI>

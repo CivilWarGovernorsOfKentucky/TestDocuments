@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-211-0006"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Samuel G. Suddarth, Receipt to H. M. McCarty</title>
+    <title level="a" type="parallel">CWG13654</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>Adjt. Gen. &amp; QMG Expenditures, 1864-1865</collection>
+      <idno>QMG Box 11; Bundles of AG &amp; QMG Expenditures 1864-65; Bundle 1</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1865-04-06">6 April 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>No. 22.<figure type="hr"/>
+<lb/>The State of Kentucky,
+<lb/>To H. M. M<hi rend="underline"><hi rend="sup">c</hi></hi>Carty D<hi rend="underline"><hi rend="sup">r</hi></hi></p>
+<p><table rend="rules">
+<row>
+	<cell><date when="1865">1865</date></cell>
+	<cell/>
+	<cell>DOLLARS.</cell>
+	<cell>CENTS.</cell>
+</row>
+<row>
+	<cell><date when="1865-03-15">March 15</date></cell>
+	<cell>To Pressing Blank Letters</cell>
+	<cell/>
+	<cell>75</cell>
+</row>
+<row>
+	<cell>" "</cell>
+	<cell>" Binding 300 Militia Laws</cell>
+	<cell>12</cell>
+	<cell>00</cell>
+</row>
+<row>
+	<cell><date when="1865-03-23">" 23</date></cell>
+	<cell>" Putting on &amp; Lettering 6 Titles</cell>
+	<cell>1</cell>
+	<cell>50</cell>
+</row>
+<row>
+	<cell>" "</cell>
+	<cell>" Pressing 16 grs Negro Muster Rolls</cell>
+	<cell>1</cell>
+	<cell>50</cell>
+</row>
+<row>
+	<cell><date when="1865-03-29">" 29</date></cell>
+	<cell>" 4 Imperial Negro Muster &amp; Descriptive Roll Books @ $24 -- </cell>
+	<cell>96</cell>
+	<cell>00</cell>
+</row>
+<row>
+	<cell/>
+	<cell/>
+	<cell>$111</cell>
+	<cell>75</cell>
+</row>
+</table></p>
+<p>I Certify that the above account is correct and just; that the services were rendered as stated; and that they were necessary for the public service, <hi rend="str">and will be reported on my return of <gap/> for the month ending the <gap/> day of<gap/> 1865</hi>.</p>
+<p>D W. Lindsey</p>
+<p><hi rend="str">Captain and Assistant Quarter-Master Ky. Vols</hi>. Adjt Gen<hi rend="underline"><hi rend="sup">l</hi></hi> Ky</p>
+<p>Received at Frankfort, Kentucky, the <date when="1865-04-06">6 of April, 1865</date>, of S. G. SUDDARTH, Quarter-Master General of the State of Kentucky, the sum of One hundred and eleven Dollars and seventy five Cents, in full of the above account.
+<lb/>(DUPLICATE.)</p>
+<p>H. M. M<hi rend="underline"><hi rend="sup">c</hi></hi>Carty<pb/></p>
+<p>No. 22.<figure type="hr"/></p>
+<p>No. 118 Abstract "B<hi rend="sup">2</hi>" Qr. 186<gap/>.
+<lb/>H. M. M<hi rend="underline"><hi rend="sup">c</hi></hi>Carty
+<lb/>Dollars 111<hi rend="sup">75</hi>/<hi rend="sub">100</hi>
+<lb/>Paid <date when="1865-04-06">6th April, 1865</date>
+<lb/>Stationary
+<lb/>285</p>
+  </body>
+ </text>
+</TEI>

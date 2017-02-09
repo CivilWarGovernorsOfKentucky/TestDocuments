@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2267"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">S. B. Vance to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6904</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR15-110 to BR15-111</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Henderson, Henderson County, Kentucky</placeName>
+    <date when="1865-08-27">27 August 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Henderson, Ky, <date when="1865-08-27">Aug 27<hi rend="sup">th</hi>/65</date>,
+<lb/>Hon. Thos. E. Bramlette:
+<lb/>Dear sir:</p>
+<p>In the year <date when="1863">1863</date>, in connection with two brother attorneys, D. H, Hughes and J. A. Spalding, it was my fortune or misfortune to become surety for Jno, A. Brooks, another attorney, in two indictments against him and others for "Robbery," alias, for taking horses, under orders, as a confederate soldier,</p>
+<p>I enclose you a statement from C. W. Cook, Esq, an attorney of the Webster bar, and also the county Judge, of Webster, which is a substantial synopsis of the facts, Brooks passed through this place on his way West, and told me he had been threatened and<pb/>
+<lb/>ordered to leave and that he would return so soon as he thought he could, with safety,</p>
+<p>I think under the circumstances it would be hard for us to be compelled to pay the forfeited recognizance, or any part of it, and would be very glad to have your Excellency's remission to plead in answer to the summons -- </p>
+<p>I am not authorized to solicit the favor for my co-sureties, but I know they would appreciate it as highly as myself, and I suppose my release would operate others at any rate -- </p>
+<p>My friend Mr Bowling will hand you this note, which I trust will receive your favorable consideration -- </p>
+<p>Yours Very Respectfully
+<lb/>S. B. Vance</p>
+  </body>
+ </text>
+</TEI>

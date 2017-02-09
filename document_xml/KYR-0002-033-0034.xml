@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-033-0034"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Frank L. Wolford to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG11585</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Andrew P Patrick</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>1st - 2nd Regiments Kentucky Cavalry Muster Rolls</collection>
+      <idno>Box 45, Bundle 5</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>New Market, Jefferson County, Tennessee</placeName>
+    <date when="1863-12-27">27 December 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>New-Market Tenn.
+<lb/><date when="1863-12-27">December 27" 1863.</date>
+<lb/>Governor Bramlette
+<lb/>Sir</p>
+<p>I have the honor to recommend to you for promotion, to fill the existing vacancies in Company "H" 1<hi rend="sup">st</hi> Ky Cav. 1<hi rend="underline"><hi rend="sup">st</hi></hi> Lt James G Dick to be made Captain Serg<hi rend="underline"><hi rend="sup">t</hi></hi> Samuel,, Duncan to be made 1<hi rend="underline"><hi rend="sup">st</hi></hi> Lieut all in Company "H" 1<hi rend="underline"><hi rend="sup">st</hi></hi> Ky Cav.</p>
+<p>I am very Resptly
+<lb/>Your Obt Servt
+<lb/>Frank Wolford Col
+<lb/>1<hi rend="underline"><hi rend="sup">st</hi></hi> Ky Cav.</p>
+<p>By 
+<lb/>W. D. Carpenter
+<lb/>Adjt</p>
+<p>1<hi rend="underline"><hi rend="sup">s</hi></hi> Cav<hi rend="sup">y</hi><figure type="hr"/>
+<lb/>1<hi rend="underline"><hi rend="sup">s</hi></hi> Lieut James G. Dick Co<hi rend="sup">y</hi> H, promo to Capt. same Co<hi rend="sup">y,</hi>. <date when="1863-12-27">Dec<hi rend="sup">r</hi> 27. 1863,</date> vice F. N. Alexander out of service
+<lb/><note place="left margin">1. 2. 3. 4. 5. 6. 7 8</note><figure type="hr"/></p>
+<p>Serg<hi rend="underline"><hi rend="sup">t</hi></hi> Samuel Duncan com 1 Lieut Co<hi rend="sup">y</hi> H. <date when="1863-12-27">Dec<hi rend="sup">r</hi>. 27. 1863</date> Ja<hi rend="sup">s</hi> G Dick promo:
+<lb/><note place="left margin">1. 2. 3. 4. 5. 6.</note><pb/></p>
+<p>1<hi rend="underline"><hi rend="sup">s</hi></hi> Cav<hi rend="sup">y</hi><figure type="hr"/>
+<lb/>Capt. Dick &amp; Lt. Duncan<figure type="hr"/>
+<lb/>Coms iss<hi rend="sup">d</hi> &amp; fow<hi rend="sup">d</hi> <date when="1864-01-19">Jany 19. 1864</date></p>
+  </body>
+ </text>
+</TEI>

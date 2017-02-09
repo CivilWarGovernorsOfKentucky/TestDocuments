@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-2208"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Henry Stickrod et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG9284</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG24-335 to MG24-336</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Commonwealth of Kentucky
+<lb/>To His Excellency Berriah Magoffin
+<lb/>Govenor of Ky.
+<lb/>Sir,</p>
+<p>We the undersigned ^know^ the petitioner Mr E<hi rend="underline"><hi rend="sup">d</hi></hi> Johnson do most respectfully petition your Excellency, to grant him a remittance <hi rend="str">a remittance</hi> of a fine assessed against his son, -- for whom he was security, -- in the Louisville city court. We state that Mr Johnson i<hi rend="str">n</hi>s a cripple and is absolutely in need of his limited means to obtain a living for himself and family, and that he is now unable to pay the fine.</p>
+<p>I can state that the petitioner has <hi rend="underline">already</hi> pa<hi rend="str">y</hi>id some forty nine dollars, and <hi rend="sup">10 -- /100</hi> costs in the ^above^ case, and that his atty is a former petition, erred in stating his fines were <hi rend="str">some</hi> One Hundred and seventy five dollars, instead of seventy five.</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Henry Stickrod
+<lb/>John Bell
+<lb/>W B Murphy
+<lb/>Wm S Murphy
+<lb/>J A B Churchill
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Kimble
+<lb/>Joseph Miller
+<lb/><cb n="2"/>Pat Hawes Atty
+<lb/>Jn<hi rend="underline"><hi rend="sup">o</hi></hi> Doup
+<lb/>W H Robinson
+<lb/>A Gilmore
+<lb/><unclear/> Ryange
+<lb/>J. W. Bryan
+<lb/>H. A. Olmstead
+<lb/>C. Olmstead<milestone unit="column" n="1"/><pb/>
+<lb/>See will hand me the other petition -- 
+<lb/>B. M.</p>
+  </body>
+ </text>
+</TEI>

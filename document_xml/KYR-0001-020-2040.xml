@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-2040"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">J. M. &amp; W. C. Bullock et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG9116</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG24-50</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Shleby County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency
+<lb/>B Magoffin.</p>
+<p>The undersigned would respectfully State, That at the <date when="1861-03">March Term ^1861^</date> of the Shelby circuit court, a verdict, upon Indictment, was rendered against Moses Washburn for $300. -- That an Execution was issued thereon which was respited, by your Excellency, for twelve months, upon the expiration of which time, execution was again issued and returned "no property found"; after which a Capias Profine was issued, by virtue of which the Sheriff arrested the said Washburn and lodged him in the gaol of the county, where he is now confined and has been for several days. In His former petition, to which referance is made, will be found the signatures of all his neighbors -- witnesses &amp; if we mistake not that of the Commonwealths Attorney -- Washburn is a harmless, inoffensive old man, and to say nothing of the verdict, we regard the legal costs ofthe case and the Commonwealths Attorneys fee which together exceed $100 as of itself an excessive fine for the offence proven -- Your Respit, however, has been of incalculable advantage &amp; benefit to said Washburn -- he now looks like a different man, bearing about him no evidences<pb/>
+<lb/>of dissipated habits -- We, therefore msot earnestly hope and ask of your Excellency to remit the fine, viz, $210, thereof and release the poor old fellow from prison, for we believe, that he will go out a much better man and that the prosecution has resulted in great service to him -- </p>
+<p>All of which is respectfully submitted.</p>
+<p>J M &amp; W C Bullock Attys at Law
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> A. Jones Clk. Circt Court
+<lb/>John T Ballard clk County Court
+<lb/>J L Caldwell Judge Shelby County Court
+<lb/>T O Shackelford Master in Chancery
+<lb/>J S Roberts Sheriff Shelby Co
+<lb/>J. T. Whitaker Police Judge S Ville
+<lb/>C M Stratton Jailor</p>
+<p>Remitted
+<lb/>B M</p>
+<p>Shelby Cir. Ct
+<lb/>$300. } Disorderly House
+<lb/>M. Washburn</p>
+<p>Iss<hi rend="sup">d</hi> <date when="1862-07-22">July 22<hi rend="sup">d</hi> 1862</date></p>
+  </body>
+ </text>
+</TEI>

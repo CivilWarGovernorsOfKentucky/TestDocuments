@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-2335"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">A. Ashley et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG9411</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG25-101</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><hi rend="underline">A. Ashley</hi>, P L
+<lb/>Jno. J Dulaney
+<lb/>T, L, Swetnam
+<lb/>Denis <unclear/>
+<lb/>J Bradford
+<lb/>A Stephens
+<lb/>James R Clutterbuck
+<lb/>Noah Clone
+<lb/>Woodford G. Arnold
+<lb/>R Clarck
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Timberlake
+<lb/>Leonard Stephens
+<lb/>D, M, Scott
+<lb/>Adams Finch
+<lb/>S. A, Hagarty
+<lb/>Thos Stephens
+<lb/>W<hi rend="sup">m</hi> Rich
+<lb/>Wm <unclear>Cluterball</unclear>
+<lb/><hi rend="underline">A Baker</hi>
+<lb/>John Patterson
+<lb/>Benjamin Dulany the owner of the slave that got the whiskey
+<lb/>T S Fish</p>
+<p>Gov B M<hi rend="sup">c</hi>Goffin</p>
+<p>Will please direct the Answer to this to Florence Boone County Ky</p>
+  </body>
+ </text>
+</TEI>

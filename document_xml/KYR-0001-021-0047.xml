@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-021-0047"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">J. Swigert to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG3117</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Apprehension of Fugitives from Justice Papers, 1859-1862</collection>
+      <idno>MG8-138</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1862-02-12">12 February 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p> -- To the Gov. of Ky -- </p>
+<p>E. Kinny who is chard with murder in the Franklin circuit; &amp; is indictd; fled some months ago has retured &amp; is lurking about Home in the flat <hi rend="str"><unclear/></hi> creek neighborhood, has once been arrested but escaped; is a dangerous &amp; desperate man, the officers are afraid to attempt to arrest him -- The case is one of cool deliberate murder, <hi rend="str">the</hi>He shot his victim while at the plow; some resolute men here will arrest him if a reward his offered; <hi rend="underline">fifty dollars is enough</hi>; I respectfully petition that such reward be offered that the <hi rend="str"><unclear/></hi> <hi rend="str"><unclear/></hi> murder<hi rend="str">d</hi> may be arrested -- I petition under the statue in 1 Stanton page 374 -- Sec XXII</p>
+<p>Respectfully -- 
+<lb/>J. Swigert presiding Judge of Franklin County</p>
+<p> -- The reward should not be published -- <pb/></p>
+<p>Franklin Co<figure type="hr"/>
+<lb/>Offer of Reward for E Kinney
+<lb/>$<hi rend="underline">25</hi>.
+<lb/>Murder -- 
+<lb/>Iss<hi rend="sup">d</hi>. <date when="1862-02-12">Feby 1<hi rend="str">2</hi>3 1862</date></p>
+  </body>
+ </text>
+</TEI>

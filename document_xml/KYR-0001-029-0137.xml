@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0137"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">James McFore et al. to James F. Robinson</title>
+    <title level="a" type="parallel">CWG8589</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Governor's Official Correspondence File, Petitions for Pardons, Remissions, and Respites, 1862-1863</collection>
+      <idno>R3-210</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Carter County, Kentucky</placeName>
+    <date when="1862-12-05">5 December 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Commonwealth of Kentucky
+<lb/>Carter County Sct</p>
+<p>To the honorable Governer ^of^ the Said Commonwealth of Ky Your petitioner wishes to Show to your honor that their has ben a fine assessed <hi rend="str">of</hi> before Isaac Burton A Justice of the peace ^for Said county on <date when="1862-11-27">27 of Nov 1862</date>^ against Andrew J. Morgan &amp; wife by verdict of a Jury for $14 dollars and 50 cents for a riot and breach of the peace tried by the Lower Jury both ^offences^ committed at the Same time and we your petitioners from a long acquaintance with Said Morgan &amp; wife believe them to be loyal and influence persons and therefor we <hi rend="str">y</hi>your petitioners pray you to remit Said fine</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>James McFore
+<lb/>John W. Burton
+<lb/>C. H. Jacobs
+<lb/>Sqire Mcglone
+<lb/>William Mcglone Jun
+<lb/>Ambrose Mcglone
+<lb/>Owen Mcglone
+<lb/>William McGlone Sen
+<lb/>Joseph McGlone
+<lb/>Thomas M<hi rend="sup">c</hi>Glone
+<lb/>S J McGlone
+<lb/>Moses H,, Davis
+<lb/>Wasling Yates -- 
+<lb/>A. B. Davis
+<lb/>C N Davis
+<lb/>Geore W Yates
+<lb/>T,, H. Bellamy
+<lb/><cb n="2"/>W<hi rend="underline"><hi rend="sup">m</hi></hi> N Enlet
+<lb/>Daniel Perry
+<lb/>William Gorman
+<lb/>James G. Davis
+<lb/>Ruben Bloomfield
+<lb/>John Bloomfield
+<lb/>James Bloomfield
+<lb/>Josiah W. Stags
+<lb/>John Gelett
+<lb/>Henry J Gelett
+<lb/>Newton Bloomfield
+<lb/>Newton Abell
+<lb/>Alen Yates
+<lb/>William Staford
+<lb/>George Stamper
+<lb/>Sander Dummit
+<lb/>George Dummit
+<lb/>Thomas Dummit<pb/></p>
+<p><milestone unit="column" n="1"/>Carter J P Ct</p>
+<p>Jno Morgan used up Carter County &amp; they have nothing to live on Much less pay fines -- Therefore the fine in this case remitted <date when="1862-12-05">5 Decr 1862</date></p>
+<p><hi rend="underline">J F Robinson</hi></p>
+<p>$14 <hi rend="sup">50</hi>/<hi rend="sub">100</hi> } Breach &amp; Riot
+<lb/>A J Morgan &amp; Wife
+<lb/>Iss<hi rend="sup">d</hi> <date when="1862-12-05">Dec<hi rend="underline"><hi rend="sup">r</hi></hi> 5 1862</date></p>
+  </body>
+ </text>
+</TEI>

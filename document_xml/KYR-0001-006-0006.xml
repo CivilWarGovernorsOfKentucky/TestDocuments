@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-006-0006"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">George Johnson to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG1052</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's Official Correspondence File, Requisitions for the Return of Fugitives from Justice, 1863-1867</collection>
+      <idno>BR6-6</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Morganfield, Union County, Kentucky</placeName>
+    <date when="1863-11-13">13 November 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Morganfield
+<lb/><date when="1863-11-13">Nov 13<hi rend="sup">th</hi> 1863.</date>
+<lb/>Gov. Bramlette.</p>
+<p>There e<hi rend="str">x</hi>scaped from the jail of Union County on the 7<hi rend="sup">th</hi> inst a white man named Lewis Chapman under indictment for the murder of Van Austin. <hi rend="str">A man</hi> He is about 40 years of age 6 feet high, heavy built light hair &amp; blue eyes -- </p>
+<p>Also a negro man Bob the property of Thos Harris, sentenced to be hung on the <date when="--12-11">11<hi rend="sup">th</hi> December</date> next ^for the murder of Johnson Harris^ -- Bob is about 20 years of age <hi rend="str">four</hi> five feet 6 inches high -- dark color -- compactly built left handed -- weighs about 160 lbs -- </p>
+<p>There has been no private reward offered for said Criminals</p>
+<p>Yours &amp;C.
+<lb/>Geo Johnson
+<lb/>Jailor of Union County<pb/></p>
+<p>Reward
+<lb/>2 Cases
+<lb/>$250-
+<lb/>Union Co
+<lb/>Reward offered
+<lb/><date when="1863-11-17">17<hi rend="sup">th</hi> Nov/63</date></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1304"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">George W. Williams to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10772</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG21-193</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Paris, Bourbon County, Kentucky</placeName>
+    <date when="1861-08-24">24 August 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><milestone unit="column" n="2"/><cb n="1"/>GEO. W. WILLIAMS, PREST.
+<lb/><cb n="2"/>H. M. RUCKER, CASHIER.<milestone unit="column" n="1"/>
+<lb/>Deposit Bank of Paris, Kentucky.<figure type="hr"/>
+<lb/>Paris, <date when="1861-08-24">Augs 24' 1861</date>
+<lb/>His Excellency 
+<lb/>Beriah McGoffin</p>
+<p>Dear Sir: The following Rates of Exchange in addition to 6 per cent Iss<hi rend="sup">d</hi> adopted by the Bank for the <date when="1861-07-20">20. July</date> to <date when="1861-07-23">23<hi rend="sup">rd</hi> same month 1861</date> inclusion were posted up in the principal room of the bank during said times, to wit, New Orleans the <date when="1861-10-01">1<hi rend="sup">st</hi> of October</date> to <date when="1861-05-01">1<hi rend="sup">st</hi> of May</date> 4 months after Discount 1 per cent &amp; <hi rend="sup">1</hi>/<hi rend="sub">8</hi> percents for each additional month and between <date when="1861-05-01">1<hi rend="sup">st</hi> of May</date> &amp; <date when="1861-10-01">1<hi rend="sup">st</hi> of Oc<hi rend="sup">t</hi></date> 4 months after Discount 1 <hi rend="sup">1</hi>/<hi rend="sub">2</hi> per cent &amp; <hi rend="sup">1</hi>/<hi rend="sub">8</hi> per c<hi rend="sup">t</hi> for each additional month. Mobile in addition to Charges on it or <hi rend="sup">1</hi>/<hi rend="sub">4</hi> per cent. Baltimore, Ph<hi rend="sup">a</hi>, N Y. &amp; Bos. <hi rend="str">for 60d</hi> in addition to 6 per cen per annum <hi rend="sup">1</hi>/<hi rend="sub">3</hi> per cent per month ^St Louis 60 days &amp; under <hi rend="sup">1</hi>/<hi rend="sub">2</hi> per cent &amp; <hi rend="sup">1</hi>/<hi rend="sub">4</hi> per cent for each additional month^. New Albany &amp; Madison Ind<hi rend="sup">a</hi> 60 days &amp; under <hi rend="sup">1</hi>/<hi rend="sub">2</hi> per cent &amp; <hi rend="sup">1</hi>/<hi rend="sub">8</hi> per cent for each additional month, all other points in Ind<hi rend="sup">a</hi> <hi rend="sup">1</hi>/<hi rend="sub">2</hi> per cent additional, Cincinnati. 30 days &amp; under <hi rend="sup">1</hi>/<hi rend="sub">6</hi> per cent Over 30 days at the rate of <hi rend="sup">1</hi>/<hi rend="sub">6</hi> per cent for each month. Kentucky. at all points same rates as at Cincinnati. Virginia 60 days &amp; under 1 per cent &amp; <hi rend="sup">1</hi>/<hi rend="sub">8</hi> per cent for each additional month Alabama (except Mobile, Georgia, N Car. &amp; S. Car. 4 months 1 <hi rend="sup">1</hi>/<hi rend="sub">2</hi> per cent &amp; <hi rend="sup">1</hi>/<hi rend="sub">8</hi> per cent for each additional month.</p>
+<p>The following Rates were adopted by the Bank on <date when="1861-07-23">23 July 1861</date> in addition to 6 per cent interest till <date when="1861-08-23">23<hi rend="sup">rd</hi> Aug<hi rend="sup">s</hi> 1861,</date> &amp; the same have been posted up in the principal Room of the Bank during that time At all points at which the Bank shall purchase Bills <hi rend="sup">1</hi>/<hi rend="sub">6</hi> per cent for 30 days &amp; under. Over 30 days at the rate of <hi rend="sup">1</hi>/<hi rend="sub">6</hi> per cent for each additional month.</p>
+<p>Very Respy &amp;<hi rend="sup">c</hi>
+<lb/>Geo: W. Williams Prs<pb/></p>
+<p>Paris</p>
+<p><date when="1861-08-30">Aug 30 1861</date></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2350"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John W. Finnell to Richard T. Jacob</title>
+    <title level="a" type="parallel">CWG6987</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR15-254</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Covington, Kenton County, Kentucky</placeName>
+    <date when="1865-09-20">20 September 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Covington Ky <date when="1865-09-20">Sept 20. 1865</date>
+<lb/>Gov R. T. Jacobs
+<lb/>Frankfort Ky
+<lb/>Governor:</p>
+<p>The enclosed remission was handed to me this morning by the marshal to present to the court. Upon presenting it and examining the record, it was discovered that no "bail bond" had been executed in the case but that Coleby had deposited the money with the clerk ($1000) in lien of the bail bond.</p>
+<p>The remission therefore misdescribes the case. It should have been for "the return of the deposit as bail or surety for the appearance of Tho Jones except fees and costs.</p>
+<p>Will your Excellency make the correction</p>
+<p>Yours truly
+<lb/><hi rend="underline">Jno. W. Finnell</hi><pb/></p>
+<p>Kenton Cir Ct
+<lb/>vs
+<lb/>Saml Coleby
+<lb/>$1000,
+<lb/><date when="1865-09-21">21<hi rend="sup">st</hi> Sept/65</date></p>
+<p>This was remitted on the <date when="1865-07-27">27<hi rend="sup">th</hi> July/65</date>, but was not in form &amp; did not State the case</p>
+  </body>
+ </text>
+</TEI>

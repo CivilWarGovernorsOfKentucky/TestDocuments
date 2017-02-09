@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1272"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">N. B. Stephens to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10740</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG21-148</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Covington, Kenton County, Kentucky</placeName>
+    <date when="1861-07-02">2 July 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Office Clerk Kenton Ct, Ct,
+<lb/>Covington Ky <date when="1861-07-02">July 2, 1861</date>
+<lb/>To
+<lb/>His Excellency The Governor of Kentucky</p>
+<p>Dear Sir, Some days since a petition was forwarded to you requesting the remission of a fine imposed by this court agst Joseph Blackwell for $200<hi rend="underline"><hi rend="sup">10</hi></hi> for selling Liquor (or keeping a Tipling House) <hi rend="str">and</hi> The Defendnat in default of payment was convictted to <hi rend="str">the</hi> Jail for one hundred days. His wife has just called on me &amp; says nothing has been heard from the petition &amp; that She is about despatching a messenger to see about it. I signed the petition asking your Excellency to remit the fine, and desire now ^only^ to say in addition to what is in the pit. That I do not believe Blackwell guilty of the offence, &amp; that the witness upon whose testimony he was convicted could not have been as well known to the Jury as to most persons in this community, otherwise they would not have credited his testimony as they appear to have done by their verdict. I hope your Excellency<pb/>
+<lb/>will interpose &amp; relieve him.</p>
+<p>verry truly yours
+<lb/><hi rend="underline">N. B. Stephens</hi></p>
+  </body>
+ </text>
+</TEI>

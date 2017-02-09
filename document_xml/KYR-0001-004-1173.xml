@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1173"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">E. L. Siler to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG5810</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR11-303 to BR11-304</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1864-09-23">23 September 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excelence Thomas Bramblet
+<lb/>Govenor of the Commonwealth of Kentucky</p>
+<p>your petitioner ^E L Siler^ wold Respectible Represent to your Excelence that at the <date when="1864-08">august terme of the Whitely circuit court 1864</date> that they was a judgment Rendered by the courte against him as a tavern keeper for failing to set up his tavern Rates in his tavern house he states that he was Regulare licened and had paid the state tax and that he was informed and he believed it to be true that was all that he had to do he states that he had no notion of Violating the law and that he was Ignorant of they being any such a statute <hi rend="str">in violation of the</hi> and when he found he had violated the law and was endited he submited the same and facts to the courte and the courte handed judgment against him for seventy five dollars and that unless your excelence enterposes that he will have said fine to pay he thare fore pray that your Excelence intre pose and set the judgment aside and to Remit the fine and for all other Proper Relief</p>
+<p>E L Siler<pb/></p>
+<p>E. L. Siler says he believes the statements in the foregoing petition to be true</p>
+<p>E L Siler</p>
+<p>sworn to before me by E. L. Siler this <date when="1864-09-23">23<hi rend="sup">rd</hi> day of September 1864</date></p>
+<p>Jackson Campbell J P</p>
+<p>The undersigned say that they believe it wold be an act of charity to Remit said fine and says that they beleave <hi rend="str">it</hi> that Siler was acting in Good faith and asks your Excelence to Remite the fine</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Signers Names
+<lb/><cb n="2"/>Signers Names
+<lb/>Joseph Faulkner
+<lb/>Uriah M<hi rend="sup">c</hi>Clancy
+<lb/>James Cuthitt
+<lb/>Isaac <unclear>petrey</unclear><pb/></p>
+<p>Whitley Cir Ct
+<lb/>vs.
+<lb/>E L Siler
+<lb/>$75
+<lb/>Remit
+<lb/><date when="1864-12-06">6<hi rend="sup">th</hi> Dec/64</date></p>
+  </body>
+ </text>
+</TEI>

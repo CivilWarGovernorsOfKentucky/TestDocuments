@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0112"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Alf C. Turner et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG9580</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG17-17 to MG17-18</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>McLean County, Kentucky</placeName>
+    <date when="1860-11-05">5 November 1860</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency Beriah Magoffin, Governor of the Commonwealth of Kentucky</p>
+<p>Your Petitioners Citizens of M<hi rend="sup">c</hi>Lean County would most humbly represent unto your Excellency that Stephen Duval was found guilty by a Jury &amp; Sentenced to be hung at the last Term of the M<hi rend="sup">c</hi>Lean Circuit Court They would state that from the proof in the cause they are well coonvinced that he was either forced or in some way drawn into the Commission of the crime by others; that he is a person of very weak mind a great Coward &amp; drunkerd They believe that he ought to be punished but would humbly represent that the ends of Justice would be amply satisfied by his confinement in the penitentiary for a Term of years. He is willing &amp; anxious to serve in the penitentiary <hi rend="str">for a Term of years</hi> could he not therefore be pardoned upon condition of his so serving Would your Excellency interpose in some way so as to lighten the penalty which will otherewise be inflicted by the Cause on the unfortunate man &amp; your Petitioners will every pray &amp;c</p>
+<p>Alf C Turner clk
+<lb/>MLean Circt Court
+<lb/>Thomas Shackelford D S
+<lb/>H Lewis S M C<pb/></p>
+<p>The undersigned Jailer of McLean County in addition to the statements in the foregoing Petition which he fully endorses &amp; joins in the prayer of the Petition <unclear/> State that the prisoner has been in his custody now for about 14 months has behaved himself well has given me no trouble has been herewith harmless &amp; resigned &amp; the undersigned would humbly Petition your Excellency to save the unfortunate man from hanging &amp; change his punishment to confinement for a Term of years <date when="1860-11-05">Nov 5<hi rend="sup">th</hi> 1860</date></p>
+<p>Elijah M Mosely of n c</p>
+  </body>
+ </text>
+</TEI>

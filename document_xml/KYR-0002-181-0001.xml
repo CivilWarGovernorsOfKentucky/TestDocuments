@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-181-0001"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Daniel W. Lindsey, General Orders No. 1</title>
+    <title level="a" type="parallel">CWG13985</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>General Orders No. 2</collection>
+      <idno/>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1865-01-31">31 January 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Order</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Headquarters Kentucky Volunteers,
+<lb/>ADJUTANT-GENERAL'S OFFICE,
+<lb/>Frankfort, <date when="1865-01-31">Jan. 31, 1865</date>.
+<lb/>GENERAL ORDERS
+<lb/>No. 1.</p>
+<p>Under the recent call of the President for three hundred thousand men, dated <date when="1864-12-19">December 19, 1864</date>, Kentucky has been assigned a quota of ten thousand four hundred and eighty-one.</p>
+<p>The depleted ranks of our veteran regiments in the field call in loudest tones for assistance. Let us who cherish them as defenders and friends, lend every energy to this call, and send brave <hi rend="italic">volunteers</hi> to them as comrades in arms. By our determination to cheerfully respond to all demands made upon us, as a State, by the General Governmnet, we show our enemies that their hope is forlorn, and that our Unoin must and shall be sustained. <hi rend="italic">Volunteering</hi> lends a moral force to our gallant braves in the field, whilst <hi rend="italic">compulsion</hi> adds a gloom. Meet the emergency promptly whilst it is yet time, and <hi rend="italic">work!</hi></p>
+<p>The number required from each District in the State, after taking into account the credits up to the <hi rend="str"><date when="1864-12-19">19th December, 1864</date></hi> <date when="1865-01-31">31 January 1865</date>, has been furnished by Lieut. Col. W. H. Sidell, Assistant Provost Marshal General of Kentucky. Subsequent enlistments will be credited on the quotas as assigned below:
+<lb/><table rend="rules">
+<row>
+	<cell>First District</cell>
+	<cell>2,129</cell>
+</row>
+<row>
+	<cell>Second District</cell>
+	<cell>1,682</cell>
+</row>
+<row>
+	<cell>Third District</cell>
+	<cell>1,302</cell>
+</row>
+<row>
+	<cell>Fourth District</cell>
+	<cell>1,651</cell>
+</row>
+<row>
+	<cell>Fifth District</cell>
+	<cell>2,252</cell>
+</row>
+<row>
+	<cell>Sixth District</cell>
+	<cell>955</cell>
+</row>
+<row>
+	<cell>Seventh District</cell>
+	<cell>- - - - -</cell>
+</row>
+<row>
+	<cell>Eighth District</cell>
+	<cell>33</cell>
+</row>
+<row>
+	<cell>Ninth District</cell>
+	<cell><hi rend="underline">477</hi></cell>
+</row>
+<row>
+	<cell>Total</cell>
+	<cell><hi rend="underline">10,481</hi></cell>
+</row>
+</table></p>
+<p>The quotas of the sub-districts or counties will be furnished by application to the Deputy Provost Marshals.</p>
+<p>By order of the Governor.
+<lb/>D. W. LINDSEY,
+<lb/>Inspector and Adj't-Gen'l of Ky.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0993"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">William Warriner to Thomas E. BRamlette</title>
+    <title level="a" type="parallel">CWG5112</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR11-38</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Russell County, Kentucky</placeName>
+    <date when="1864-07-12">12 July 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>State of Kentucky Russell County SS</p>
+<p>William Warriner States that he was indicted by the Grand Jury of Russell County and at the <date when="1864-04">April Term of the Russell Circuit Court 1864</date> he was fined by said court the sum of $20 for keeping a tippling house at the Russell Springs in said County. He states that he had been keeping a tavern at said Springs under a license granted by the County Court which had expired and he was told by the United States assessor that he must take out a licence to keep a tavern which he done. under which license he continued to sell ardent spiritis and keep tavern under the impression that it was all sufficient and that their was no necessity for any other license under the State laws. States that he is a law abiding citizen &amp; does not violate any of the laws willingly. He therefore respectfully aske<hi rend="str">s</hi>s the govenor of Kentucky to remit said fine so far as the Commonwealth is concerned and as in duty bound &amp;<hi rend="sup">c</hi></p>
+<p>W<hi rend="sup">m</hi> Warriner</p>
+<p>Sworn to and subscribed by William Warriner before me an Examiner for Russell County this <date when="1864-06-18">18<hi rend="sup">th</hi> day of June 1864</date></p>
+<p>George Bryan Exam R C</p>
+<p>We the undersigned resident of Russell County join with the petitioner above for the remission of the fine as stated in the above petition</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Achilles Nelson
+<lb/>S P.. Collins
+<lb/><cb n="2"/>George Bryan
+<lb/>W M Green<milestone unit="column" n="1"/><pb/></p>
+<p>Russell Cir Ct
+<lb/>vs
+<lb/>W Warriner
+<lb/>Tipling
+<lb/>$20</p>
+<p>Remit except fees &amp; costs
+<lb/><date when="1864-07-12">12<hi rend="sup">th</hi> July/64</date></p>
+  </body>
+ </text>
+</TEI>

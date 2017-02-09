@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-227-0004"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John A. Brody, Medical Certificate</title>
+    <title level="a" type="parallel">CWG14234</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>11th Ky. Cav (US) Muster Rolls</collection>
+      <idno>Flat Storage Box: 11th Ky Cav (US) Muster Rolls, Bundle 1</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date when="1864-06-23">23 June 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>(FORM 20.)
+<lb/>FORM OF A MEDICAL CERTIFICATE.<figure type="hr"/>
+<lb/>Lt Col A. J. Alexander, of the 11<hi rend="sup">th</hi> Regiment of Ky Vol Cavalry having applied for a certificate on which to ground an application for <hi rend="str">leave</hi> <hi rend="str">of</hi> <hi rend="str">absence</hi> ^withdrawl of resignation^, I do hereby certify that I have carefully examined this officer, and find that from a personal observation the he is suffering from Internal <unclear>heemorhoids</unclear> in a sever form, but by prompt treatment it is my opinion that he could be made able for field duty in Thirty or Forty Days He is under treatment now And that, in consequence thereof, he is, in my opinion, unfit for dity. I further declare my belief that he will not be able to resume his duties in a less period than <gap/></p>
+<p>Dated at Louisville Ky., this <date when="1864-01-23">23<hi rend="sup">d</hi> day of June 1864</date>.</p>
+<p>John A Brody
+<lb/>Ast Surgeon U. S. A
+<lb/>In charge Officer Hospital<pb/></p>
+<p>MEDICAL CERTIFICATE
+<lb/>IN THE CASE OF
+<lb/>Lt. Col A. J. Alexander
+<lb/>11<hi rend="sup">th</hi> Regt Ky Vol Cavalry
+<lb/>Given at Louisville Ky
+<lb/>BY
+<lb/>John A. Brady
+<lb/>Ast Surgeon U. S. A<figure type="hr"/>
+<lb/>Rec'd, A. G. O., <gap/>, 186<gap/>.</p>
+  </body>
+ </text>
+</TEI>

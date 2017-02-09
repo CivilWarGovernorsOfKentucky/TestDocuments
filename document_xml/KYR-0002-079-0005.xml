@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-079-0005"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Thomas E. Bramlette, Captain, Samuel J. Jones</title>
+    <title level="a" type="parallel">CWG14004</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>Enrolled Militia Records 1864 - 1865 ; Adair, Allen, Boyle, Daviess, Garrard, Owen, Pendleton, and Shelby counties</collection>
+      <idno>Flat Box 7, Folder 863-67 Marion County 1st Rgt Ky Militia Officers</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1863-10-24">24 October 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Commission/Appointment</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>IN THE NAME AND BY THE AUTHORITY OF
+<lb/>The Commonwealth of Kentucky,
+<lb/><figure type="seal"><ab>KENTUCKY
+<lb/>UNITED WE STAND DIVIDED WE FALL</ab></figure>
+<lb/>THOMAS E. BRAMLETTE,
+<lb/>GOVERNOR OF SAID COMMONWEALTH.
+<lb/>To all whom these Presents shall come, Greeting:</p>
+<p>Know Ye, That Samuel J. Jones having been duly elected to the office of
+<lb/>Captain of Co "E" Second Battalion
+<lb/>In the First Regiment of Kentucky Militia organized under the Acts of the General Assembly of the Commonwealth:</p>
+<p>NOW KNOW YOU, That, by the powers vested in me by the Constitution and Laws of said State, and reposing special trust and confidence in your patriotism, valor, fidelity, and ability, I do, by these presents Commission you as Captain as aforsaid, for the term presecribed by law unless sooner discharged, upon condition that you take the oath indorsed hereon, within ten days from receipt hereof, sending a certificate thereof to General Headquarters; and I do hereby authorize and require you to discharge, all and singular, the duties and services appertaining to your said office, agreeably to law and general regulations, and to obey such orders and instructions as you shall, from time to time, receive from your superior officers.</p>
+<p><figure type="seal"><ab>SEAL OF KENTUCKY
+<lb/>DIVIDED WE STAND DIVIDED WE FALL</ab></figure></p>
+<p>In Testimony Whereof, I have hereunto set my name, and caused the seal of the State of Kentucky to be affixed, at Frankfort, the <date when="1863-10-24">Twenty Fourth day of October, in the year of our Lord one thousand eight hundred and sixty=three</date> and in the seventy=fourth year of the Commonwealth.</p>
+<p>Tho E Bramlette</p>
+<p>BY THE GOVERNOR:
+<lb/>E L VanWinkle, <hi rend="italic">Secretary of State</hi>.</p>
+<p>Commonwealth Office -- WM. E. HUGHES, State Printer.<pb/>
+<lb/>OATH.<figure type="hr"/>
+<lb/>I do solemnly swear, that I will support the Constitution of the United States and the Constitution of this State, and be faithful and true to the Commonwealth of Kentucky, so long as I continue a citizen thereof, and that I will faithfully execute, to the best of my abili-ities, the office of Captain according to law; and I do further solemnly swear, that since the adoption of the present Constitution, I being a citizen of this State, have not fought a duel with deadly weapons, within this State nor out of it, with a citizen of this State; nor have I sent or accepted a challenge to fight a duel with deadly weapons, with a citizen of this State; nor have I acted a second in carrying a challenge, or aided or assisted any person thus offending -- so help me God.</p>
+<p>Sylvester J Jones</p>
+<p><hi rend="italic">Subscribed and sworn to before me, a Justice of the Peace for</hi> Marion <hi rend="italic">County, Kentucky, this</hi> <date when="1864-02-08">8th <hi rend="italic">day of</hi> Febuary, <hi rend="italic">186</hi>4</date>.</p>
+<p>J. H. Skaggs J. P. M. C
+<lb/><hi rend="italic">Justice of the Peace</hi>.</p>
+<p>Head Quarters Ky State Guard
+<lb/>Frankfort <date when="1864-02-22">Feby. 22 1864</date>
+<lb/><hi rend="underline">Marion Co</hi><figure type="hr"/>
+<lb/>Respectfully referred to Adjt Gen<hi rend="underline"><hi rend="sup">l</hi></hi> John Boyle for alteration, the name should be <hi rend="underline">Sylvester J Jones</hi> instead of <hi rend="underline">Samuel J Jones</hi>, error was in return V.</p>
+<p>D. W. Lindsey
+<lb/><hi rend="underline">Insp Gen</hi><hi rend="underline"><hi rend="sup">l</hi></hi><hi rend="underline"> of Ky</hi><figure type="hr"/>
+<lb/>Correct,
+<lb/><hi rend="underline">Boyle</hi>
+<lb/><hi rend="underline">1.</hi>
+<lb/>Please send Coms to Insp Genls office<figure type="hr"/>
+<lb/>Rec<hi rend="sup">d</hi> A. G. O <date when="1864-02-22">22<hi rend="sup">d</hi> Feby 1864</date></p>
+<p>Co E 21 Br -- 1<hi rend="underline"><hi rend="sup">st</hi></hi> Regt</p>
+  </body>
+ </text>
+</TEI>

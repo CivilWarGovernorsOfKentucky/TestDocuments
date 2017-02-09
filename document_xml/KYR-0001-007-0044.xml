@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0044"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Thomas C. Donn to Ephraim L. Van Winkle</title>
+    <title level="a" type="parallel">CWG1709</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Appointments by the Governor, Civil Appointments, 1863-1867</collection>
+      <idno>BR1-425 to BR1-426</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Washington, District of Columbia</placeName>
+    <date when="1863-10-16">16 October 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Washington City <date when="1863-10-16">Oct 16<hi rend="sup">th</hi> 1863</date>
+<lb/>To E. L. Vanwinkle Esr.
+<lb/>Secretary of State for the State of Kentucky
+<lb/>Dear Sir,</p>
+<p>Attached hereto I forward you Certificates Signed by our Worthy Mayor and U. S. District attorney as to My capacity and Loyalty. I Can give reference to many other Loyal Men of Standing amongst them the Jon G. D. Hale, Senator from the State of New Hampshire Who is personally Well acquianted with Me in business relations as well as to My Loyalty.</p>
+<p>Enclosed I also forward you the fee of 5$ You Will please foward Commission form of oath for file and instructions</p>
+<p>I Remain Respectfully<pb/>
+<lb/>Your obedient Servant
+<lb/>Thomas C. Donn
+<lb/>Commissioner of Deeds
+<lb/>affidavits Depositions &amp; c
+<lb/>to District of Columbia
+<lb/>Various States</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0370"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">J. W. Calvert to James F. Robinson</title>
+    <title level="a" type="parallel">CWG8822</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Governor's Official Correspondence File, Petitions for Pardons, Remissions, and Respites, 1862-1863</collection>
+      <idno>R4-99</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Burlington, Boone County, Kentucky</placeName>
+    <date when="1863-05-26">26 May 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Burlington Ky
+<lb/><date when="1863-05-26">May 26th 1863</date>
+<lb/>James F Robinson Governor of the Commonwealth of Ky
+<lb/>Sir</p>
+<p>Enclosed I send you the petition of the Grand Jury recently empannelled in this county asking your Excellency to relieve David Creeger a citizen of Boone County from six fines against him</p>
+<p>The facts I believe are as stated in the petition &amp; under the circumstances it would be but just to exhonerate Mr Creeger from the payment of those fines If your excellency should so conclude please forward the remission as soon as your convenience will allow or Capias will issue &amp; Mr Creeger probably have to go to jail as he does not possess enough property to pay those fines He has friends who would probably replevy for him -- but I think he would not ask them -- for to take all from him would &amp; not very <unclear/> he could not support his family &amp; relieve his surities</p>
+<p>vy obdntly
+<lb/>J W Calvert</p>
+  </body>
+ </text>
+</TEI>

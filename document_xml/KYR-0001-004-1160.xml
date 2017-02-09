@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1160"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Thomas E. Bramlette to A. H. Ward</title>
+    <title level="a" type="parallel">CWG5797</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR11-280 to BR11-281</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1864-08-30">30 August 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>A H Ward
+<lb/>Cynthiana</p>
+<p>Cmwth vs J<hi rend="underline">no</hi> A Kirkpatrick &amp; Wesley Barrett</p>
+<p>judgt <date when="1864-05">May term 1864</date> for $1000 -- on forfeited recognizance for non appearance of Jno W Philips -- <pb/></p>
+<p>Commonwealth of Kentucky,
+<lb/>EXECUTIVE DEPARTMENT,
+<lb/>Frankfort, <date when="1864-08-30">Augst 30<hi rend="sup">th</hi> 1864.</date></p>
+<p>A H Ward:</p>
+<p>Cant find the petition of Kirkpatrick </p>
+<p>Write a statement of the facts -- when Judgt was rendered &amp;c and send to me &amp; I will send remission</p>
+<p>Yours &amp;C
+<lb/>T. E. Bramlette</p>
+<p>P.S. My letter is left open for you to read &amp;C</p>
+<p>T, E, B<pb/></p>
+<p>Harrison Cir Ct
+<lb/>vs
+<lb/>Kirkpatrick &amp; Barrett
+<lb/>Recognizance
+<lb/>$1000.
+<lb/>Remitted
+<lb/><date when="1864-09-02">2<hi rend="sup">nd</hi> Sept/64</date></p>
+  </body>
+ </text>
+</TEI>

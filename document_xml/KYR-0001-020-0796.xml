@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0796"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">A. S. J. Ronald to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10264</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Amanda Boczar</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG19-253 to MG19-254</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date when="1861-03-26">26 March 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>LAW NOTICE.<figure type="hr"/><hi rend="underline">
+<lb/></hi><milestone unit="column" n="2"/><cb n="1"/>C. S. MOREHEAD,
+<lb/><hi rend="italic">Late of Frankfort, Ky.</hi> 
+<lb/><cb n="2"/>C. M. BRIGGS,<hi rend="underline">
+<lb/></hi>Late of Bowling Green, Ky.<milestone unit="column" n="1"/>
+<lb/>MOREHEAD &amp; BRIGGS,
+<lb/>ATTORNEYS AND COUNSELLORS AT LAW.
+<lb/>OFFICE: JEFFERSON STREET, BETWEEN CENTER AND FIFTH.</p>
+<p>MESSRS. MOREHEAD &amp; BRIGGS will practice Law in partnership, in the Courts held in the City of Louisville, and in the Appellate and Federal Courts held in Frankfort. In the absence of one a retainer of either will secure the attention of both.</p>
+<p>Prompt Attention given to the Collection of Claims.<figure type="hr"/>
+<lb/>Louisville, Ky., <date when="1861-03-26"><hi rend="underline">March 26</hi><hi rend="underline"><hi rend="sup">th</hi></hi> 1861</date><hi rend="underline">
+<lb/></hi>To the Honorable B Ma Goffin
+<lb/>Governor of Kentucky</p>
+<p>Dear Sir This will be handed you by Mr <hi rend="str">Alexander</hi>^S A^ Gassom of Warren Co who visits Franfort with the hope and belief of making such representation to your Excellency as to induce you to pardon Rufus Jones who was sent to the penetenry from Warren County for killing Henry Jenkins, these youths were friends and the Killing was one of these casualties which cannot be accounted for and no doubt was accidental or any rate wholly unpremeditated The family and connection of Mr Jones are highly respectable Mr Gassom has the petitions of his neghbor and the people of Warren relative to the matter and of Sincerly Trust that when you review ^the^ papers you will come to the conclusion that you can consisently with your duty pardon Mr Jones I formerly resided in Warren and know the family of Mr Gasson &amp; can vouch for their Respectability and<pb/>
+<lb/>and any representation the bearer of this Mr S A Gasson may make may be fully relied on</p>
+<p>very Repectfully yours
+<lb/>A S J Ronald.</p>
+  </body>
+ </text>
+</TEI>

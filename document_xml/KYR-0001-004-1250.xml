@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1250"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">S. W. Cloyd to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG5887</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR11-423</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1864-10-01">1 October 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency
+<lb/>The Governor of Kentucky.</p>
+<p>At the <date when="1864-08">August term 1864,</date> of the Boyle Circuit Court, the undersigned was fined $20. for unlawful gaming.</p>
+<p>Your petitioner represents that he is not a professional gamester, on the contrary he seldom indulges in this practice, and never except as an amusement and Among gentlemen</p>
+<p>On the occasion which was reported and for which he was fined, he was engaged in play for amusement, for refreshments only, and not for money or gain, And does not feel therefore that He should be singled out from the thousands guilty to the Same extent and be made on example of, whilst others are permitted to escape. He asks that for this occasion the Governor will interpose his clemency by remitting the fine, and promises not again, during this administration at least, to ask for mercy</p>
+<p><date when="1864-10-01">October 1' 1864.</date> S. W. Cloyd<pb/></p>
+<p>The undersigned, Citizens of Danville, know M<hi rend="sup">r</hi> Cloyd, believe his statements, and unite with him in the prayr of his petition</p>
+<p>M T. Chasway
+<lb/>Ben Bell
+<lb/>W R Brice</p>
+<p>Boyle Cir Ct
+<lb/>vs
+<lb/>L. W. Cloyd
+<lb/>$20 -- 
+<lb/>Remit<hi rend="sup">d</hi>
+<lb/><date when="1864-10-03">3<hi rend="sup">d</hi> Oct/64</date></p>
+  </body>
+ </text>
+</TEI>

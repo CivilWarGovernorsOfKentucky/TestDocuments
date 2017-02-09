@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1631"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">R. G. Burton et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG11099</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Andrew P Patrick</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG22-287</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Madison County, Kentucky</placeName>
+    <date when="1862-01-23">23 January 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Madison County, <date when="1862-01-23">Jan. 23, 1862</date>.
+<lb/>To his Excellency,</p>
+<p>Gov. B. Magoffin; Sir -- The undersigned petitioners, respectfully represent that M<hi rend="underline"><hi rend="sup">r</hi></hi> R. C. Forriss of this county, having been fined at the <date when="1860-09">September Term, 1860</date>, of our Court, on a charge of <hi rend="underline">gambling</hi>, and subsequently the facts in the case laid before your Excellency, upon which you Kindly granted a respite, we would now ask of you a full remission of the said fine. We make this request with the greater confidence as your Excellency has since remitted a similar fine imposed up M<hi rend="underline"><hi rend="sup">r</hi></hi> Aaron Horn, for the same offence, committed at the same time and in the same game for which M<hi rend="underline"><hi rend="sup">r</hi></hi> F. was fined.</p>
+<p>As heretofore truly represented to you M<hi rend="underline"><hi rend="sup">r</hi></hi> F. is a poor, but industrious man, of good habits, having a large and dependant family to support by his own labor, a task of great difficulty in these "hard times." We further add that M<hi rend="underline"><hi rend="sup">r</hi></hi> F. has entirely refrained from gaming, or any other of=<pb/>
+<lb/>fence that would render him amenable to the law. Under these circumstances we unite in urgently requesting your Excellency's interference for the relief of a deserving citizen from the aforesaid fine, which would bear very heavily upon him if compelled to pay.</p>
+<p>All of which is submitted, which high consideration and wishes for your Excellency's health and happiness. </p>
+<p>We are Resply Yours &amp;C
+<lb/>R. G. Burton
+<lb/>E H Field
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Holloway
+<lb/>Tho. H. Barnes
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> L. Neale.</p>
+<p>Madison Cir Ct<figure type="hr"/>
+<lb/>R C Farriss
+<lb/>Gambling
+<lb/>Remission Iss<hi rend="sup">d</hi> <date when="1862-02-05">Feby 5. 1862</date></p>
+  </body>
+ </text>
+</TEI>

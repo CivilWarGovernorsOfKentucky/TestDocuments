@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-024-0025"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Chauncey McKeever to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG12079</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Mitchell A Krock</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>1st - 20th Regiments Kentucky Infantry Primary Source Documents</collection>
+      <idno>Box 7, Folder 7th Ky. Inf. - Misc.</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Washington, District of Columbia</placeName>
+    <date when="1863-10-16">16 October 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><note place="header">7<hi rend="sup">th</hi> 1</note>
+<lb/>Adjutant General's Office,
+<lb/>Washington, <date when="1863-10-16">October 16th -- 1863</date>.
+<lb/>To His Excellency,
+<lb/>The Governor of Kentucky
+<lb/>Sir:</p>
+<p>I have the honor to report, that the following named Officers of the Volunteer forces from the State of Kentucky have resigned, to take effect at the dates set opposite their respective names, viz:</p>
+<p><table rend="rules">
+<row>
+	<cell>✓</cell>
+	<cell>Second Lieut.</cell>
+	<cell>Jno. B. Stivers</cell>
+	<cell>✓.</cell>
+	<cell>7th regt.</cell>
+	<cell><date when="1863-08-01">August 1st. 1863</date></cell>
+</row>
+<row>
+	<cell>✓</cell>
+	<cell>Qr Mr &amp; First ".</cell>
+	<cell>S. L. Mitchell</cell>
+	<cell>✓.</cell>
+	<cell>22 " ".</cell>
+	<cell><date when="1863-08-03">" 3 ". "</date></cell>
+</row>
+<row>
+	<cell>✓</cell>
+	<cell>" ".</cell>
+	<cell>D. C. Thoroman</cell>
+	<cell>✓.</cell>
+	<cell>" " ".</cell>
+	<cell><date when="1863-08-03">" ". "</date></cell>
+</row>
+<row>
+	<cell>✓</cell>
+	<cell>" ".</cell>
+	<cell>Josh. H. Davis</cell>
+	<cell>✓.</cell>
+	<cell>7 " ".</cell>
+	<cell><date when="1863-08-05">" 5 ". "</date></cell>
+</row>
+<row>
+	<cell>✓</cell>
+	<cell>Second ".</cell>
+	<cell>Jas. H. Tinsley</cell>
+	<cell>✓.</cell>
+	<cell>" " ".</cell>
+	<cell><date when="1863-08-05">" 5 ". "</date></cell>
+</row>
+<row>
+	<cell>✓</cell>
+	<cell>Major.</cell>
+	<cell>Hugh W. Adams</cell>
+	<cell>✓.</cell>
+	<cell>" " ".</cell>
+	<cell><date when="1863-08-05">" ". "</date></cell>
+</row>
+<row>
+	<cell>✓</cell>
+	<cell>Captain.</cell>
+	<cell>Wm. Sears</cell>
+	<cell>✓.</cell>
+	<cell>" " ".</cell>
+	<cell><date when="1863-08-05">" ". "</date></cell>
+</row>
+</table></p>
+<p>I am Sir, very respectfully, your obt. Servant.
+<lb/>Chauncey M<hi rend="sup">c</hi>Keever
+<lb/>Asst. Adjt. General<pb/></p>
+<p><hi rend="underline">N</hi><hi rend="underline"><hi rend="sup">o</hi></hi><hi rend="underline"> 129</hi>
+<lb/>Washington City Report<figure type="hr"/>
+<lb/>Resigs:<figure type="hr"/>
+<lb/>Filed <date when="1863-10-26">Oct<hi rend="sup">r</hi> 26. 1863</date></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1198"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Martin R. Hardin to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10666</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG21-34 to MG21-35</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Springfield, Washington County, Kentucky</placeName>
+    <date when="1861-06-14">14 June 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Springfield Ky
+<lb/><date when="1861-06-14">June 14 1861</date>
+<lb/>Gov B Magoffin
+<lb/>Dear Sir</p>
+<p>Thomas Chesser of this county convicted of wounding John Hendricks and sentenced to six months imprisonment and $50 find and committed about one month ago, remain in jail -- His wife came to visit him and was taken sick in the jail in his cell where she has lain for three weeks -- they are poor and destitute and have one small child in the jail with them</p>
+<p>Chesser is a brother of William Chesser whom you pardoned out of jail when convicted and committed for the same offence and in which Thomas Chesser was only inflicted as an accessory -- him having done the wounding -- His father <unclear/> Chesser informs me he took up a petition to you asking his pardon numerously signed and containing = the signatures of all the jury and not getting to see you he left<pb/>
+<lb/>it to be handed you by Atty Genl James and I presume therefore it was received -- I desire to ask your attention to the subjects and join with the other petitioners in soliciting a release of Chesser which considering the condition of his family can be but an act of hummanity and is moreover in my judgment but a proper exercise of executive clemency in view of the facts on which the entire jury petitioned for his pardon and upon which you have already pardoned the principal offender if either was guilty -- </p>
+<p>Very Truly
+<lb/>Your friend
+<lb/>M R Hardin<pb/></p>
+<p><hi rend="str">Issue</hi>
+<lb/>Remitted -- 
+<lb/>B. M</p>
+<p>Is<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1861-06-24">June 24</date></p>
+  </body>
+ </text>
+</TEI>

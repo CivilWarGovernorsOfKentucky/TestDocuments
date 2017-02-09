@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2436"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Lewis Hape to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7073</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR15-385</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency Tho<hi rend="underline"><hi rend="sup">s</hi></hi> E. Bramlette Gov of Ky</p>
+<p>Your petitioner Lewis Hape would respectfully state to your Excellency that at the present June Term of the Henderson Circuit Court there was a judgement rendered against him in a summons to show cause why judgement should not be rendered against him upon a Forfeited bail bond, which bond was forfeited under the following circumstances. He the said Hape had executed to the Commonwealth of Ky a bond for one hundred dollars, that one G. W. Shyrock should appear and answer an indictment for Keeping a gaming house, and not depart without leave of the court, and no further, and shaid bond was taken as forfeited, because the defendant did not render himself in satisfaction of the jugement against him. Your petitioner would further state that in compliance with his bond, he brought the defendant into court to answer the indictment which he did by pleading guilty thereto, and your petitioner ignorant of the law as expounded by the Court paid no further attention to him, thinking him, from the time he plead to said indictment as in the custody of the Court <hi rend="str">the</hi> and that your petitioner had done all which he was bound to do, that if he erred it was through ignorance, and not from any desire that the Commonwealth should suffer wrong -- wherefore he prays your Excellency to remit said <hi rend="str">fine</hi> judgement or so much thereof as you may legally remit and he will ever pray &amp;c</p>
+<p>Lewis Hape</p>
+<p>We the undersigned, members of the bar and citizens of Henderson County, would respectuflly state to your Excellency that we believe the above statements of Lewis Hape are true, that he ^is^ a man of very limited means a good citizen and that the circumstances of the case would<pb/>
+<lb/>justify your Excellency in the exercise of your Executive Clemency to the fullest extent</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>F. A. Dallame
+<lb/>J H Powell
+<lb/>Ben <unclear>P</unclear> Cissell
+<lb/>Wm E Bennett
+<lb/><hi rend="underline">R. H. Lockett</hi>
+<lb/><cb n="2"/><hi rend="underline">John Young Brown</hi>
+<lb/>Ro't Glass
+<lb/>L W Powell
+<lb/>C Eaves
+<lb/>Jno. T. Bunch</p>
+<p>Lewis Hape<figure type="hr"/>
+<lb/>Henderson Cir Ct
+<lb/>vs
+<lb/>Lewis Hape
+<lb/>$100,
+<lb/>Forfeiture
+<lb/><date when="1865-09-01">1<hi rend="sup">st</hi> Sept /65</date></p>
+<p>Sent for fee <hi rend="str">4</hi> <date when="1865-08-19">19 Aug</date></p>
+  </body>
+ </text>
+</TEI>

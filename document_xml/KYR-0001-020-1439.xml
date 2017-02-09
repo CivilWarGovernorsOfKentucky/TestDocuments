@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1439"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John G. Carlisle to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10907</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Amanda Boczar</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG21-406</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Covington, Kenton County, Kentucky</placeName>
+    <date when="1861-09-07">7 September 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Covington Ky
+<lb/><date when="1861-09-07">Sep 7 1861</date>
+<lb/>Dear Gov. </p>
+<p>Enclosed I send you a petition asking the remission of a fine against J. G. Everett -- I had expected to present it in person but find that I will not be able to come to Frankfort until about the <date when="1861-09-20">20<hi rend="underline"><hi rend="sup">th</hi></hi> of the month</date> -- The replevin bond is about due and it is of great importance to Everett to keep any execution from issuing against him at this time -- </p>
+<p>If you can do so, it would be a great relief to him to respite it until <date when="1862-01-01">Jan. 1<hi rend="underline"><hi rend="sup">st</hi></hi> 1862;</date> and when I come up I will state his case fully -- As all executions are stayed until <date when="1862-03">March next,</date> I hope that you will be able to prevent any from issuing against him until the time named, and thus save cost &amp;c -- </p>
+<p>Please have the respite, if one is granted, sent to me immediately -- <pb/></p>
+<p>Your message has been quite favorably received here by all classes so far as my observation extends -- </p>
+<p>Truly Yours &amp;c
+<lb/>J G Carlisle</p>
+<p>Hon B. Magoffin
+<lb/>Gov of Ky, Frankfort</p>
+<p/>
+  </body>
+ </text>
+</TEI>

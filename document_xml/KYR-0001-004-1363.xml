@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1363"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John F. Fisk to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6000</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR12-118 to BR12-118-1</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Covington, Kenton County, Kentucky</placeName>
+    <date when="1864-12-19">19 December 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Cov Ky <date when="1864-12-19">Dec 19/64</date>
+<lb/>His Excellency Gov
+<lb/>Bramlette
+<lb/>Dear Sir.</p>
+<p>I understand -- that Mr Henry Crout has proposed new evidence in the penal cases against him, I was one of the attys and hence state that I thought at the time -- as good, true, law-abiding man as Mr Crout -- ought hardly to have been convicted upon the testimony. One <hi rend="underline">Beazley</hi> -- was the standing witness that term of the Court and swept the city, but we could not then impeach him -- and for that reason Mr Crout -- is compelled to look to you. He is a very<pb/>
+<lb/>exemplary law abiding man -- He spent a large Sum -- raised a company -- went up to be sworn in -- (Last Fall) with his company and was thrown out because of slight rupture -- thus losing all his time and several hundred dollars. He is deserving of your clemency</p>
+<p>Respectfully Yours
+<lb/>John F Fisk<pb/></p>
+<p>Commonwealth
+<lb/>vs } Letters &amp;c
+<lb/>Henry Crout</p>
+  </body>
+ </text>
+</TEI>

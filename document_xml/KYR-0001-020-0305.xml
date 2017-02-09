@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0305"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Worley More et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG9773</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG17-304</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Bath County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency Beriah Magoffin Governor of the Commonwealth of Kentucky </p>
+<p>We the undersigned petitioners would most respectfully ask of your Excellency to remit a fine against Andrew Ingram, <hi rend="str">f</hi>who was fined (before Esquire Thomas Spencer a Justice of the peace of Bath County) thirty dollars and fifteen days imprisonment for the offense of having committed a breach of the peace in <date when="1860-08">August 1860</date>. We would state that the said Andrew Ingram is a good law abiding citizen. and a poor man with a large family, and it would be an act of Executive clemency to remit the aforsaid fine=all of which is most respectfully submitted to your Excellency=</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Jurymen<hi rend="sup">s</hi> Names
+<lb/>worley More
+<lb/>W Wells
+<lb/>Thomas T Thornburch
+<lb/>W statton
+<lb/>James Staton
+<lb/>dan blevens
+<lb/>O P Staton
+<lb/><cb n="2"/>Thorp Jones
+<lb/>James blevins
+<lb/>Georg B Wilhite
+<lb/>John Wilhite
+<lb/>James canery
+<lb/>b c craft
+<lb/><unclear/>&gt; refitt
+<lb/>J l refitt
+<lb/>Samuel Hart
+<lb/>B Fairchild
+<lb/>B Riley
+<lb/>Ben Riley
+<lb/>Allen Hart
+<lb/>tomas rogers
+<lb/>Joel taleofar<pb/>
+<lb/><cb n="1"/>Jackson Kendell
+<lb/>Alexander Weddle
+<lb/>Arron Weddle
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Weddle
+<lb/>daniel norress
+<lb/>Thomas Thornberry
+<lb/>Joseph Wilson
+<lb/>W Robertson
+<lb/>G Willis Norris
+<lb/>John Noris
+<lb/>george W Jackson
+<lb/>Benjemon sexton
+<lb/>steron gilbert
+<lb/>Richard f Davis
+<lb/>A F Corrs
+<lb/>x William H Collans
+<lb/>x Hiram collans
+<lb/>x Thomas Ingram
+<lb/>William Jackson 
+<lb/>Jesse Jackson
+<lb/>Jno Porter
+<lb/>Robert Richardson
+<lb/>Jno Jackson
+<lb/>Van Rose
+<lb/>James H Satterfield
+<lb/>Thomas Jackson
+<lb/>W<hi rend="sup">m</hi> Stinson
+<lb/><cb n="2"/>wayne williams
+<lb/>John Griffen
+<lb/>Aln ingram
+<lb/>george ingram
+<lb/>frank clark
+<lb/>John davis
+<lb/>george gilley
+<lb/>thomas ingrm
+<lb/>James ingrm
+<lb/>nathanal richzen
+<lb/>James richzon
+<lb/>James <unclear/> ^rich^zon
+<lb/>John ingrm
+<lb/>abe ingrm
+<lb/>J W ingrm
+<lb/>tomas ingrm
+<lb/>algen ingrm
+<lb/>thomas widls
+<lb/>Samuel M Dennis
+<lb/>Joseph Tory
+<lb/>isekel clark
+<lb/><hi rend="str">Johnatha</hi>
+<lb/>Johnaton Johnson
+<lb/>John rogers
+<lb/>W M rogers
+<lb/>W marroy
+<lb/>James H Sexton
+<lb/>James Sexton
+<lb/>Thos Williams
+<lb/>x William Turner
+<lb/>Jacob C Warner
+<lb/>Jonas R Warner<pb/></p>
+<p><milestone unit="column" n="1"/>Respite the fine for 12 Mo<hi rend="sup">s</hi>
+<lb/>B. M</p>
+  </body>
+ </text>
+</TEI>

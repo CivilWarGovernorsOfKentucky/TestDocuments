@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2888"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Richard Hawes to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7525</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR17-200 to BR17-201</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Paris, Bourbon County, Kentucky</placeName>
+    <date when="1865-12-10">10 December 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Paris Bourbon co Ky
+<lb/><date when="1865-12-10">December 10<hi rend="sup">th</hi> 1865</date>
+<lb/>His Excellency
+<lb/>Thomas E. Bramblett,
+<lb/>Dear Sir,</p>
+<p>Major J M Thomas proposed to apply to you for a pardon, in a criminal prosecution in this court, and I take great pleasure in stating, that I am intimately acquainted with him as a neighbor, and that he is a gentleman of excellent moral character, &amp; unimpeached honour. From my knowledge of Major Thomas, I am sure that he would not be guilty of any act which he did not beleive to be conscientiously right and proper. From a personal knowledge of a large portion of his service in the confederate army as captain of cavalry, I know of no officer whose conduct was more exemplary &amp; honourable. I know nothing of the facts of the case in which he is charged, but his own statement is worthy of all credit.</p>
+<p>Very Respectfully 
+<lb/><hi rend="underline">R. Hawes</hi><pb/></p>
+<p>His Exc'y
+<lb/>Tho<hi rend="sup">s</hi>. E Bramblett
+<lb/>Governor of Kentucky</p>
+  </body>
+ </text>
+</TEI>

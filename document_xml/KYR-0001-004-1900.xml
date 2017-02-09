@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1900"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John H. Bryson, Affidavit</title>
+    <title level="a" type="parallel">CWG6537</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR14-9 to BR14-10</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Carter County, Kentucky</placeName>
+    <date when="1865-05-06">6 May 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>State of Kentucky
+<lb/>Carter Carter County</p>
+<p>John. H. Bryson says that he is a citizen of Carter county Ky. and resides near Grayson and says that he served as a private soldier in the army of the united States in the 20<hi rend="sup">th</hi> Regt Ky vols for three years and four months from the time he joined the army until he was mustered out of the service, he further says that he is well acquainted with Thomas, H, Skeans and that said skeans was also a Soldier in the same Regt and Company, which was (Co) (C) under Capt C. J. True, he further says that Thomas H Skeans was a good and faithful and obediant soldier he was very brave in battle and at all times was willing to do his duty and obey orders of his officers and never was Charged with any <hi rend="str">wrongs</hi> thing wrong only the Crime he was sentenced for in Lewisville Last fall Just before <hi rend="str">he</hi> <hi rend="str">was</hi> we were mustered out of the service Said skeans had reenlisted as a vetron Soldier he was sentenced to the penatentiary for the term of Eight years as we were told Now so far as I know or heard for ^the^ term of three years while we were to gether as soldiers &amp; even before we were soldiers to gether as we were neighbors I never heard said Skeans charged with any wrong but the the one he was sentenced for Given under<pb/>
+<lb/><unclear/> <unclear/>nd this <date when="1865-05-06">6<hi rend="sup">th</hi> day of May 1865</date></p>
+<p>John H Bryson</p>
+<p>Swornto and subscribed before me by John H Bryson this <date when="1865-05-06">6<hi rend="sup">th</hi> day of May 1865</date></p>
+<p>Elias P Davis Clerk of
+<lb/>the Carter Circuit Court</p>
+  </body>
+ </text>
+</TEI>

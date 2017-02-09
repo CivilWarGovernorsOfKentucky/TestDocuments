@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-024-0010"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Edward D. Townsend, Special Orders, No. 227</title>
+    <title level="a" type="parallel">CWG12064</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Mitchell A Krock</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>1st - 20th Regiments Kentucky Infantry Primary Source Documents</collection>
+      <idno>Box 7, Folder 2nd Ky Infantry - Misc</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Washington, District of Columbia</placeName>
+    <date when="1864-07-05">5 July 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Order</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>WAR DEPARTMENT,
+<lb/>ADJUTANT GENERAL's OFFICE,
+<lb/><hi rend="italic">Washington, </hi><date when="1864-07-05"><hi rend="italic">July </hi>5<hi rend="italic">th</hi>, 1864.</date>
+<lb/>SPECIAL ORDERS,
+<lb/>No. 227.</p>
+<p><hi rend="italic">(Extract.</hi>)<figure type="hr"/>
+<lb/>11. <hi rend="italic">Thomas McCue</hi>, a recruit enlisted for the 2d Kentucky Infantry, is hereby assigned, at his own request, to the 7th U. S. Infantry, the regiment for which he enlisted having been mustered out of service.</p>
+<p>The Quartermaster's Department will furnish the necessary transportation.<figure type="hr"/></p>
+<p>By order of the Secretary of War:
+<lb/>E. D. TOWNSEND,
+<lb/><hi rend="italic">Assistant Adjutant General.</hi></p>
+<p>OFFICIAL:
+<lb/>E D Townsend
+<lb/><hi rend="italic">Assistant Adjutant General.</hi>x</p>
+<p>Governor of Kentucky<pb/></p>
+<p><note place="left margin"><hi rend="underline">2 Infy</hi></note>
+<lb/>War Department
+<lb/>Adjutant Generals Office
+<lb/>Washington <date when="1864-07-05">July 5. 1864</date><figure type="hr"/>
+<lb/>Townsend E. D.
+<lb/>A. A. G.<figure type="hr"/></p>
+<p>Spe. Ord. 22.7. Tho<hi rend="underline"><hi rend="sup">s</hi></hi> M<hi rend="sup">c</hi>Cue an enlisted man 2<hi rend="underline"><hi rend="sup">nd</hi></hi> Ky Infy is at his own request transferred to the regular army 7" U. S. Infy the Regiment for which he enlisted having been mustered out of service<figure type="hr"/></p>
+<p>Rec<hi rend="sup">d</hi> A. G. O. <date when="1864-07-08">July 8. 1864</date></p>
+  </body>
+ </text>
+</TEI>

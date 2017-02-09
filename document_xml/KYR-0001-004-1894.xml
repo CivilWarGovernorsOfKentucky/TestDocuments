@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1894"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">David Lawrence, Affidavit</title>
+    <title level="a" type="parallel">CWG6531</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR13-471 to BR13-472</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Washington County, Kentucky</placeName>
+    <date when="1865-05-04">4 May 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>State of Kentucky
+<lb/>Washington County } sct</p>
+<p>This Affiant David Lawrence on his oath states that Henry Galispy otherwise Gallaspie -- who is the indicted under the an^n^exed indictment is now a private in Company G 144<hi rend="sup">th</hi> Regiment of Indiana Volunteers infantry now in the service of the united states government. That said Gallaspy committed the offence charged in said indictment before he joined said Regiment and was at the time of the committing the same <hi rend="str">was</hi> a citizen of Washington County Kentucky and an avowed rebel sympathiser That after the committing said crime he fled from said County and joined the aforesaid Regiment. Affiant is the father of the murdered man. and has always been a loyal man.</p>
+<p>David Lawren^ce^</p>
+<p><stamp type="revenue">J P B
+<lb/>clk
+<lb/><date when="1865-05-04">May 4 1865</date></stamp>
+<lb/><stamp type="revenue">J P B
+<lb/>clk
+<lb/><date when="1865-05-04">May 4 1865</date></stamp></p>
+<p><unclear>Sw</unclear>orn to before me by David Lawrence this <date when="1865-05-04">4<hi rend="sup">th</hi> May 1865</date></p>
+<p>J. P. Barbour clk<pb/></p>
+<p>Commonwealth of
+<lb/>Kentucky
+<lb/>vs } Affidavit of D. Lawrence
+<lb/>Henry Galispy</p>
+  </body>
+ </text>
+</TEI>

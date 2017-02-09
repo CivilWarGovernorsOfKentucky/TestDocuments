@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0526"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">William Cole et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG9994</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG18-315</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Clark County, Kentucky</placeName>
+    <date when="1861-01-21">21 January 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To the Governor of Kentucky</p>
+<p>The undersigned respectfully represent that at the <date when="1860-11">November Term 1860</date> of the Clark Circuit Court Judgments were rendered against each of them in favor of the Commonwealth for $20. the offence charged in each of the Indictments being, "Gaming", They say that they are not gamblers, that the gaming charged was only for amusement, not for profit, that they do not pursue that avocation and being poor the payment of their fines would be very onerous The Costs which they will have to pay will alone be a sufficient <hi rend="str">of for</hi> punishment for their offence.</p>
+<p><date when="1861-01-21">Jany 21 1861</date></p>
+<p>William Cole
+<lb/>William Palmer
+<lb/>Benjamin Stubblefield
+<lb/>John W Gorden
+<lb/>John P Hakil
+<lb/>Marcus Lisle
+<lb/>Nat Turner</p>
+<p>We the undersigned citizens of Clark County respectfully concur in the prayer of the above petitions and ask that there fines be remitted -- </p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Jas Flanagan
+<lb/>Jn<hi rend="sup">o</hi> B Huston
+<lb/>(let the boys off)
+<lb/><hi rend="underline">J W Laughlin</hi>
+<lb/>Theodore Kohlhass
+<lb/>Wm F. Pool
+<lb/><cb n="2"/>A. H. Buckner
+<lb/>Gilson Wash
+<lb/>obadiah Lacy
+<lb/>P A Artis
+<lb/>B Curry
+<lb/>R Lackey
+<lb/>Ja<hi rend="sup">s</hi> Clay
+<lb/>Ja<hi rend="sup">s</hi> T Garner<milestone unit="column" n="1"/><pb/></p>
+<p>Clarke Cir Ct
+<lb/>Respite 12 mo
+<lb/>B. M
+<lb/>$20 } Gaming
+<lb/>W<hi rend="sup">m.</hi> Cole &amp; others
+<lb/>Iss<hi rend="sup">d</hi> <date when="1861-01-30">Janry 30 1861</date></p>
+  </body>
+ </text>
+</TEI>

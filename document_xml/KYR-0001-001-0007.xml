@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-001-0007"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Thomas E. Bramlette, Proclamation by the Governor</title>
+    <title level="a" type="parallel">CWG0857</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Joshua D Farrington</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's Official Correspondence File, Proclamations, 1863-1865</collection>
+      <idno>BR1-356</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1863-10-17">17 October 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Proclamation/Legislation</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>PROCLAMATION BY THE GOVERNOR OF THE COMMONWEALTH OF KENTUCKY.<figure type="hr"/></p>
+<p>In accordance with the proclamation of the PRESIDENT OF THE UNITED STATES, and in conformity with established precedent, and in obedience to the promptings of duty, I, THOS. E. BRAMLETTE, Governor of the Commonwealth of Kentucky, do hereby appoint the LAST THURSDAY OF NOVEMBER NEXT, as a day of <hi rend="italic">thanksgiving and praise</hi> to ALMIGHTY GOD for his abounding mercies to us during the year that is past.</p>
+<p>He has blessed us with abundant harvests, and multiplied our flocks and herds</p>
+<p>He has withheld "the pestilence that walketh in darkness," and "the destruction that wasteth at noon-day," and given health to cheer the homes and make thankful the hearts of our people.</p>
+<p>He has overwhelmed our enemies and enabled us to drive back from our borders the hordes who would waste and destroy our heritage of free government.</p>
+<p>Then let us thank Him in fullness of heart for all His manifold blessings and "loving kindness to usward," and, especially for the crowning victories He has given our arms over the enemies of our free government, assuring our hopes of a preserved nationality.</p>
+<p>Let us thank Him that our Christian civilization has been preserved, and the hope of free government confirmed to our children for coming generations, despite foreign envy and domestic treachery.</p>
+<p>And, whilst our thanksgiving and praises go up for victories won, and for the strengthened hope of unity and peace being again restored over our bleeding country, let us not forget the widow and the orphan who mourn the husband and father -- sleeping with our honored and heroic dead</p>
+<p>Let us, AS A PEOPLE, confess our sinfulness, which has brought on us this great chastisement, and invoke his blessing, that the visitation of His anger may be removed, and that restored peace and unity, as the sunlight of His countenance, may again smile upon us.</p>
+<p><figure type="seal"/></p>
+<p>IN TESTIMONY WHEREOF, I have hereunto caused the seal of the Commonwealth to be affixed. Done at Frankfort, this the <date when="1863-10-17">17th day of October, 1863,</date> and in the 72d year of the Commonwealth.</p>
+<p>By the Governor: THOS. E. BRAMLETTE.
+<lb/>E. L. VANWINKLE, <hi rend="italic">Secretary of State</hi>.<pb/></p>
+<p>Governors Proclamation
+<lb/><date when="1863-10-17">17<hi rend="sup">th</hi> Oct 1863</date></p>
+  </body>
+ </text>
+</TEI>

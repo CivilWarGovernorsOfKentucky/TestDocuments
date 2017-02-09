@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1125"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">James McMillen to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10593</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG20-242 to MG20-243</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency Beriah Magoffin
+<lb/>Govenor of Kentucky</p>
+<p>Your Petitioner James McMillen states that at the <date when="1861-04">April term 1861</date> of the city court of Louisville he was fined twenty five dollars for destroying the property of Mrs. Mae and twenty five dollars for assaulting her, Where he went to her house with some young men, at christmas, he had no notion to disturb her or her property and the complaint against him was that he <hi rend="underline">raised</hi> a poker to strike her. He got on top the house when She refused their admittance and halloed down the chimney when it fell down and he fell off the house with it, injuring him, which Injury he repaired. It was not his inttention to Injure her or her house, which was not done only as stolen. He is unable to pay said fine the costs being as much as he can pay Wherefore he asks that the same be remitted</p>
+<p>Respectfully
+<lb/>James McMillen</p>
+<p>We the undersigned unite with petitioner in asking for a remission of his fine</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>M. Pyles
+<lb/>W. Emmit Garvin
+<lb/>John D Pope
+<lb/>J. G. P. Hore
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> J Robrd
+<lb/>L P. Einrt.
+<lb/>Philip M Victor
+<lb/>W. W. Pope
+<lb/>R. S. Evans
+<lb/>L. T. Sedgwick
+<lb/>Jno A. M<hi rend="sup">c</hi>Laughlin
+<lb/>John Trohlhepp
+<lb/><cb n="2"/>W<hi rend="sup">m</hi> R. Jacob
+<lb/>S. L. Geiger
+<lb/><hi rend="str">W G Reasor</hi></p>
+<p>I think the costs in these cases amount to more than the injury done.</p>
+<p>W. G. Rearn<milestone unit="column" n="1"/><pb/></p>
+<p>Louisville City Ct</p>
+<p>Remitted
+<lb/>B. M</p>
+<p>2 parts $25 each } Assault
+<lb/>Jas M<hi rend="sup">c</hi>Mullen</p>
+<p>Iss<hi rend="sup">d</hi> <date when="1861-05-23">May 23<hi rend="sup">d</hi> 1861</date></p>
+  </body>
+ </text>
+</TEI>

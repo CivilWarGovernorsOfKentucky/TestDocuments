@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0500"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Elizabeth Palmer to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG9968</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG18-274</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Prestonburg, Floyd County, Kentucky</placeName>
+    <date when="1861-01-12">12 January 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Commission/Appointment</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Prestonsburg Ky
+<lb/><date when="1861-01-12">Jan 12th 1861</date></p>
+<p>To His Excellency
+<lb/>Beriah Magoffin
+<lb/>Governor of Kentucky</p>
+<p>Your Petitioner Elizabeth Palmer would respectfully represent that on the <date when="1861-01-05">5<hi rend="underline"><hi rend="sup">th</hi></hi> day of this month</date> she was tried for adultey under the following circumstances and fined $20 &amp; cost -- she says her husband is a poor man and labours in the Coal mines for a living. That he has been for several months labouring in coal diging for one J. H. Kemper and was living duing the time in one of Kempers houses -- all Kempers boats being loaded with coal he desired to get rid of her and her husband and wanted the posession of his house her husband left home on business and sd Kemper made improper advances to her which she promptly regected. Kemper got seemingly verry mad &amp; procured one of his hands a dependent of his to watch her house in the night time who did so and climbed up on the chimney for the purpose of so doing and then swore he saw a man<pb/>
+<lb/>in her Room and heard her bed making a noise She says as she lives she is not Guilty -- nor never has been of such an offense -- she says her husband has not yet returned and that she has two little children and that he own reputation and her children and that of her husband are deeply implicated and she does not know but her husband may leave her unless you Excellency remits sd fine She therefore humbly asks in view of her own concious innocence and in view of her future peace with her husband &amp; the character of her children that your Excellency will remit the fine and that too as soon as possible -- she says the whole evidence against her was false and procured by the basest means by the sd Kemper and in duty will ever pray</p>
+<p>Elizabeth Palmer<pb/>
+<lb/>Dear Governer</p>
+<p>The Petition of Elizabeth Palmer is one that I say to you on my <hi rend="underline">own</hi> Knowledge and responsibility from the evidence which I heard myself demand and very Justly merits your interposition I do think it was one of the hardest cases I have ever witnessed the proof against her was basely procured as I think and the offence vs her was not prooved -- nor was there proof sufficient to Generate even a belief of her Guilt I hope you will remit this fine at once</p>
+<p>very truly yours
+<lb/>John M. Burns</p>
+<p><date when="1861-01-12">12th Jan 1861</date><pb/>
+<lb/>Floyd Cir Ct
+<lb/>Remitted
+<lb/>B. M
+<lb/>$20 } Adultry
+<lb/>E Palmer
+<lb/>Iss<hi rend="sup">d</hi> <date when="1861-01-28">Jany 28</date> /
+<lb/>1861</p>
+  </body>
+ </text>
+</TEI>

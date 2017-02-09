@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-3182"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">H. W. Tuttle et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG5301</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR41-232</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Wayne County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency Thos E Bramlette
+<lb/>Governor of the State of Kentucky.</p>
+<p>The undersigned Citizens of Wayne County would respectfully represent that Benjamin Cannedy was indighted by the Grand Jury of this County at its <date when="--10">last October term</date> for tipling</p>
+<p>Mr Kenedy is a poor man and acknowledges that he did let some of his relations who were sick have some whiskey that he had on hand for Medical purposes and perhaps some others that represented themsleves as wanting it for that purpose and that he was fined $60. for a violation of the laws of the State.</p>
+<p>He states that he is a poor man and unable to pay the fine without material injury to his family, and would request that you remit the same.</p>
+<p>H. W. Tuttle
+<lb/>F M Sumpter
+<lb/>S W Stephens
+<lb/>B.. Mills
+<lb/>G H Marcum
+<lb/>W Simpson
+<lb/><hi rend="underline">Jno L Sallee</hi>
+<lb/>H R Saufley
+<lb/>J R Dick<pb/>
+<lb/>Wayne Cir Ct
+<lb/>vs
+<lb/>Benj Connedy
+<lb/>$60
+<lb/>Tip House</p>
+  </body>
+ </text>
+</TEI>

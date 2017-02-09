@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0171"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">George Bancroft to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG9639</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG17-106</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Maysville, Mason County, Kentucky</placeName>
+    <date when="1860-11-10">10 November 1860</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Maysville Ky <date when="1860-11-10">Nov 10<hi rend="underline"><hi rend="sup">th</hi></hi> 1860</date>
+<lb/>To His Excelency
+<lb/>Beriah McGoffin
+<lb/>Gov. of the state of Kentucky</p>
+<p>Dear Sir I was fined twenty dollars for selling liquor at the Fair grounds and under these circumstances my orders to all my hands was to treat of my friends but not to take a cent for any whiskey from any body. some few person wouldnt take it that way and left, the money on the Counter and some of the hands took the money after they left and put,it,in the Box, I am satisfied I dident get to exceed 2 or 3 dollars in that way and that against my wishes, if I had sold whiskey intentionly I wouldent ask you to remit the portion that goes to the state nor would I ask it if I was able to loose it I have but one arm to make a living with and at this present time am not worth a cent iff my debts were paid and I am not making a living at this time as times are so dull if I had bin at home at the time I was fined and stod a trial. I dont believe there was twelve men in the County that would of fined me I will refer you to Charles B. Hill. Isaac Nelson &amp; Thomas A. Currens to prove to you that I refused to take money from them for drinks, also to Juge Duvaul if he is in<pb/>
+<lb/>Frankfort as. to my self and to Richard Stanton. as. to the truth of this letter necessity compells me to write this to you and nothing else hoping you will oblige my with favor I remain your humble servant</p>
+<p>George Bancroft</p>
+<p>I was fined last spring at the <date when="1860-04">april</date> court</p>
+<p>This is to certify that George Bancroft did refuse to take money from us for whiskey at the fare grounds of the Northern Kentucky agriculture assotiation, the fall of 1859 also seen him refuse to take it from others</p>
+<p>Cha<hi rend="underline"><hi rend="sup">s</hi></hi> B. Hill
+<lb/>Isaac Nelson
+<lb/>Tho<hi rend="sup">s</hi> A Curren
+<lb/>Erastus. Lambden
+<lb/>James Bland</p>
+<p>Respite 12 mos
+<lb/>B. M.</p>
+<p>Mason Cir. ct
+<lb/>$20. } selling liquor
+<lb/>Geo. Bancroft
+<lb/>Resp<hi rend="underline"><hi rend="sup">d</hi></hi> 12 mos
+<lb/>Iss<hi rend="sup">d</hi> <date when="1860-11-22">Nov 22. 1860</date></p>
+  </body>
+ </text>
+</TEI>

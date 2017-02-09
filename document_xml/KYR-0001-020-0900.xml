@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0900"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">James Underwood to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10368</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG19-432</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency, Beriah Magoffin, Governor of the Commonwealth of Kentucky</p>
+<p>Your Petitioner would Respectfully represent that at the <gap/> Term of the Whitley Circuit 185 -- He was fined in Said Court The Sum of $20, upon a charge of violating the Laws against gaming</p>
+<p>Your Petitioner States that he is not <hi rend="underline">a</hi> <hi rend="underline">gambler</hi> by practice, nor profession, that he sometimes plays cards for amusement, and upon the occasion upon which the charged was based others had been in the Game, and one of whom desiring to quit, your Petitioner, took his hand, and played a few games, not knowing at the time, that he was violating any Law which imposed a fine for so playing</p>
+<p>Your Petitioner would further represent that he is an exceedingly poor man, -- that he has a wife and three small children that in these oppressive times to raise money it is utterly impossible for him to pay the Same, together with the costs, That he has replevied the same, and without the interposition of Your Excellency's Clemency, Your petitioners Securities must pay the same, or Petitioner's family must be reduced to abject want. The Prayer of the Petitioner is that your Excellency remit said fine</p>
+<p>James Underwood<pb/></p>
+<p>Whitley Cir Ct
+<lb/>Petition of James Underwood<figure type="hr"/></p>
+<p>Respite 12 mo
+<lb/>B. M.
+<lb/>$20 } Gaming</p>
+<p>Iss <date when="1861-04-11">Apr 11 1861</date></p>
+  </body>
+ </text>
+</TEI>

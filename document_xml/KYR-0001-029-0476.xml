@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0476"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">W. W. Fry to James F. Robinson</title>
+    <title level="a" type="parallel">CWG8928</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Governor's Official Correspondence File, Petitions for Pardons, Remissions, and Respites, 1862-1863</collection>
+      <idno>R4-262</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date when="1863-07-13">13 July 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Louisville <date when="1863-07-13">July 13 1863</date>
+<lb/>Hon Jas F Robinson
+<lb/>Respected Sir</p>
+<p>My attention has been called to the case of Calvin Fairbanks who I understand has already been imprisoned in the Penitentiary for Eleven years. So far as I have been enabled to gather publilc Sentiment the impression seems to prevail that he has been sufficiently punished. I understand that Fairbanks had no intention or design of making profit from negro stealing but had then something like monomania on the subject of slavery whether his long imprisonment has wrought any changes in him in that respect I know not. I am told that if released he will join the Union Army if this ^is^ so and that condition should be imposed on him I cannot say that he can do any mischief in the Army but on the contrary might do good. Prison doors should I think on all proper occasions be thrown open when justice &amp; mercy consistently with public welfare &amp; safety can be fairly exercis<hi rend="sup">d</hi>. In searching my own mind as a citizen having the welfare of my country constantly before me -- I cannot feel or see that it would be Unwise or unsafe to let Fairbanks loose &amp; so join in the Petition to your excellency that this prisoner be set free</p>
+<p>Most Respectfully
+<lb/>W W Fry</p>
+  </body>
+ </text>
+</TEI>

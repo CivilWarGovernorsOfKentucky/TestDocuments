@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1242"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">W. H. Calvert to James W. Tate</title>
+    <title level="a" type="parallel">CWG10710</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG21-101</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Princeton, Caldwell County, Kentucky</placeName>
+    <date when="1861-07-16">16 July 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Princeton Ky <date when="1861-07-16">July 16<hi rend="sup">th</hi> 1861</date>
+<lb/>James W Tate Esqr
+<lb/>Dear Sir</p>
+<p>Some time Early last spring or in the latter part of the winter the governor of Kentucky Remitted a fine of the Commonwealth of Ky agains George Jenkins and W H Calvert Administrator of John T Calvert decasd The remitter was upon a suit brought upon an appeal Bond upon which no Judgement had been rendered during the pendency of the suit, at the last <date when="1861-06">June</date> Term of our circuit the case come up for trial and the remitter was plead in bar of the action to which the Comth attorney demured and the court sustained the demurer and rendered Judgement for the comths attorneys 30 percent of said fine from which Judgement I have appealed to the court of appeals -- The governors remitter has never come to hand, I wrote you before our court for it but did not receive it or a line from you on the subject I hope it will be convenient for you to send it. as I am compelled to have it in order to present a perfect record to the court of appeals please send it as Early as possible as I have but a short time to fill the case in the court of appeals</p>
+<p>yrs
+<lb/>respectfully
+<lb/>W H Calvert</p>
+  </body>
+ </text>
+</TEI>

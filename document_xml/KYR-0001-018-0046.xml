@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-018-0046"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">O. B. Withers to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG8112</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Military Appointments, 1859-1862</collection>
+      <idno>MG6-137 to MG6-138</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Cadiz, Trigg County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Cadiz Ky
+<lb/>To His Excellency Beriah Magoffin</p>
+<p>Your Petioner would state that he would be pleased <hi rend="str">as</hi> to be appointed as Surgeon for the Ky volunteers in this section of the state for active service and would respectfully beg &amp;c I have been examined before the army board and passed it and had graduated O B Withers of three schools which will be ford on application</p>
+<p>O B W</p>
+<p>We the undersigned, speaking from a prolonged acquaintance with Dr O. B. Withers- and also having a most thorough knowledge of his Medical abilities would most respectfully recommend him to your "Excellency" as a Gentleman- Physician &amp; Surgeon- and in every way qualified to act in such capacity-</p>
+<p>We would further pray you to grant his Petition</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Names
+<lb/>Jabez Bingham Capt of State Guard at Wallonia Ky
+<lb/>Isaac Burnett M. D.
+<lb/><hi rend="underline">R A. Burnett</hi> C J C C
+<lb/>John W Gaines Ex Brig General Brigade Command Trigg Christian Todd and Capt Cadiz Home Guard
+<lb/>A. G. Jones M. D.
+<lb/>J B, Wall M. D.
+<lb/>T A Wall Drugist
+<lb/>B J Wall
+<lb/>H. C. Burnett
+<lb/><cb n="2"/>Names
+<lb/>Jno R Grace P. J. T. C. C
+<lb/>A. B. Dyer clk T. Co. Court
+<lb/>Watson Prescott Col Trigg County Malitia
+<lb/>John J. <unclear/> S. T. C
+<lb/>Jno F Campbell Capt of State Guard Co at Rock Castle
+<lb/>W<hi rend="sup">m</hi> H Martin
+<lb/>1<hi rend="sup">st</hi> Lt Cadiz guard<milestone unit="column" n="1"/><pb/>
+<lb/>O. B. Withers
+<lb/>Wishing the appointment of Surgeon 
+<lb/>An<hi rend="sup">s</hi>.
+<lb/><date when="1861-09-02">Sept. 2. 1861</date></p>
+  </body>
+ </text>
+</TEI>

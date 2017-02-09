@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-034-0004"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Cyrus P. Bradley, Deposition</title>
+    <title level="a" type="parallel">CWG7732</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Governor's Official Correspondence File, Requisitions for the Return of Fugitives from Justice, 1862-1863</collection>
+      <idno>R3-4 to R3-5</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Chicago, Cook County, Illinois</placeName>
+    <date when="1862-12-27">27 December 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>State of Illinois
+<lb/>Cook County } SS</p>
+<p>Cyrus P. Bradley of the County and State aforesaid being duly sworn deposes and says, that a forgery has been committed in the County of Henry, in the State of Illinois, and that Edwin S. Piper is guilty of said forgery, and is now a fugitive from Justice from the said State of Illinois:</p>
+<p>The said forgery consists in altering and passing a certain, altered and forged draft upon the Banking House of Perry, Spaulding &amp; C<hi rend="underline">o</hi> of Geneseo, in the County of Henry, in the State of Illinois, on or about the month of <date when="1862-01">January A. D. 1862,</date> which said altered, forged and counterfeit draft is in words and figures as follows to wit</p>
+<p>"Dayton Branch State Bank of Ohio, N<hi rend="underline"><hi rend="sup">o</hi></hi> 31,370"
+<lb/>Dayton <date when="1862-12-28">Dec 28<hi rend="sup">th</hi> 1861</date>
+<lb/>NBC $2,500<hi rend="sup">#</hi>
+<lb/>Pay to E.B. Ballard Esq or order 
+<lb/>Twenty five Hundred Dollars
+<lb/>To American Exchange
+<lb/>Bank New York City } B. G. G. Young, Teller</p>
+<p>Which said above described draft had been<pb/>
+<lb/>altered from the sum of Seven dollars or thereabouts, and this deponant further saith that the said Edwin S. Piper passed under the name of E. B. Ballard and endorsed the said draft and uttered and passed the same upon the said Perry, Spaulding &amp; C<hi rend="underline"><hi rend="sup">o</hi></hi>, knowing the same to have been false, altered &amp; forged, and that the said Edwin S. Piper alias E. B. Ballard is now a fugitive from the justice of the State of Illinois, and has taken refuge in the State of Kentucky, and prays that a requisition may issue on the Gov. of the State of Kentucky for the surrender of the said E. S. Piper alias E. B. Ballard to the lawful agent of the State of Illinois</p>
+<p>C. P. Bradley</p>
+<p>Sworn and subscribed before me this <date when="1862-12-27">27<hi rend="sup">th</hi> day of December A.D. 1862.</date></p>
+<p>T B Brown
+<lb/>J.P.</p>
+  </body>
+ </text>
+</TEI>

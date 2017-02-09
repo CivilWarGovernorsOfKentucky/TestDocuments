@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1315"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">George W. Murray to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10783</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG21-208 to MG21-209</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1861-08">August 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>His Ex<hi rend="underline"><hi rend="sup">l</hi></hi> B. Magoffin Esqr
+<lb/>Governor of Kentucky</p>
+<p>Your petitioner George W Murray states that some time about the <date when="1860-12-20">20<hi rend="underline"><hi rend="sup">th</hi></hi> of December last</date> he was fined $15 before the police court of the town of Crab Orchard for an alledged breach of the peace committed in the following maner. One Granville Roberts and James Johnson got in to a fight. Roberts was intoxicted and Johnson was beating him with a stick Roberts drew a bowie knife but Johnson knocked it out of his hands with a stick and was proceeding to further beat him and your petitioner being present and not wishing to see the man unnecessarily beat up he picked up the knife and ordered Johnson not to strike Roberts any more. I did not attempt<hi rend="str">ed</hi> to use the knife but threatened to do so if they did not cease beating Roberts and for this they arraigned him and fined him $15. and five days imprisionment. and imprisioned him five days in the <hi rend="str">tow</hi> county Jail</p>
+<p>Your petitioner thinks he did not commit any breach of the peace and thinks five days imprisionment sufficient punishment for all the offence he committed if any.<pb/>
+<lb/>he is a single man, and poor and Just beginning in the world and is endeavering to get his living by honest labor, and thinks it hard that he should pay the fine for nothing he thinks that if he had been tried by any other court he would not have been fined as he is advised all such fines go to the town. he says he is an orderly quiet man. And prays your Excellency to remit the fine</p>
+<p>George W. Murray</p>
+<p>Sworn to before me the <gap/> day of <date when="1861-08">August 1861</date></p>
+<p>E. T. Fish, C. P. C. C</p>
+<p>We the undersigned residents in and near Crab Orchard state we are acquainted with young Mr. Murray and believe the fine ought to be remitted</p>
+<p><milestone unit="column" n="3"/><cb n="1"/>D. N. Williams
+<lb/>James M. Cramp
+<lb/>,Cramp <unclear/>
+<lb/><cb n="2"/>S. W. Brown
+<lb/>L C Jones
+<lb/>H Carpenter
+<lb/>A Burks
+<lb/>E T Fish C. R. C. C
+<lb/>Alfred Smith
+<lb/>J. G Hazlewood
+<lb/><cb n="3"/>R. G. Go<unclear/>
+<lb/>D G Colyers clk
+<lb/>Nat Whitaker
+<lb/>B. P. Hiatt
+<lb/>J A Hiatt
+<lb/>F B M<hi rend="sup">c</hi>Clary
+<lb/>W. A. Brown
+<lb/>C. Birtly
+<lb/>Jack Adams<milestone unit="column" n="2"/><pb/>
+<lb/><cb n="1"/>L. Bowman
+<lb/>H. Edwards
+<lb/>G W Edwards
+<lb/>S Roberts
+<lb/>J. C. Bethward
+<lb/>E. O. Farris
+<lb/>Jon Crawford
+<lb/>John Fish
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Stuart
+<lb/>Thos. S. Hays
+<lb/>S P Douglass
+<lb/>M Buchanan
+<lb/>A G I Debord
+<lb/>S Hardin
+<lb/>David Carson Eld
+<lb/>M Frazer
+<lb/>G W Roberts
+<lb/>Cyremus W Gilmore
+<lb/>Montgomery Howard
+<lb/>John Reynolds
+<lb/>Lewis H. Bryant
+<lb/>R F Yants
+<lb/>S D Moore
+<lb/>G W M<hi rend="sup">c</hi>Clure
+<lb/>A M Hiatt
+<lb/><cb n="2"/><hi rend="underline">H. Moore</hi>
+<lb/>J. Newman } all right<milestone unit="column" n="1"/><pb/></p>
+<p>Crab Orchard Po Ct</p>
+<p>Remitted
+<lb/>B M</p>
+<p>Geo. W. Murray
+<lb/>$15. } breach</p>
+<p>Iss<hi rend="sup">d</hi> <date when="1861-08-30">Aug 30. 1861</date></p>
+  </body>
+ </text>
+</TEI>

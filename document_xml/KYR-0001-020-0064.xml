@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0064"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Henry W. Cooksey, Affidavit</title>
+    <title level="a" type="parallel">CWG9532</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG17A-137</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Caldwell County, Kentucky</placeName>
+    <date when="1861-02-11">11 February 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Kentucky Caldwell County</p>
+<p>Henry W. Cooksey says he has been acquainted with Thos B. Wadlington for many years last past, that he knows his general moral character, and he says, that his character is that of a moral, honest, upright, and law abiding citizen. He says that he is acquainted with the witnesses Prince and Blalock, and from what he knows of them he does not believe that either of them is entitled to credit as witnesses in a court of Justice. and he does verily believe, that said Wadlington has been unjustly convicted of the murder of M. A. Cartwright on false Testimony. He Knows the character of said Cartwright, and he is and has been generally regarded as a violent, and dangerous young man.</p>
+<p>H, W, Cooksey</p>
+<p>Kentucky Caldwell County</p>
+<p>Henry W. Cooksey says he believes the statements as above made are true.</p>
+<p>H, W, Cooksey</p>
+<p>Sworn to and subscribed before me by H. W. Cooksey. This <date when="1861-02-11">11<hi rend="underline"><hi rend="sup">th</hi></hi> day of Feby 1861</date>.</p>
+<p><hi rend="underline">J. C. Barnes D. C.</hi></p>
+  </body>
+ </text>
+</TEI>

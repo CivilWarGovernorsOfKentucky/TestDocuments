@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-2358"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">A. H. Herod et al. to Unknown</title>
+    <title level="a" type="parallel">CWG9434</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG25-135</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency the Govenor of Kentucky -- </p>
+<p>The undersigned would respectfully state that at this term of the Kenton Circuit Court Frank Peak a young man about eighteen or nineteen years of age was convicted of Larceny and sentenced to the Penitentiary for one year. This is the first offence ever commited by this young man, and probably it was caused by outside and other pressure, and much feeling is manifested for him by all who knew him, and more especially for his mother who is a widow, and depends greatly on him for a subsistence. We would most earnestly beg your favor in his behalf, and trust on his, his mother, his sister' and his friends account you will grant him a pardon</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>A. H. Herod (Jailor
+<lb/>A. C. Ellis
+<lb/>N B Stephens
+<lb/>J. G. Carlisle
+<lb/>John. V. Harriison
+<lb/>J M Ramson
+<lb/><cb n="2"/>Isaac Cooper
+<lb/>Wm H Glore
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> M<hi rend="underline"><hi rend="sup">c</hi></hi>glasson
+<lb/>Jn<hi rend="underline"><hi rend="sup">o</hi></hi> MacKoy
+<lb/><hi rend="underline">J. H. Caudell</hi>
+<lb/>Daniel Savill
+<lb/>J James <unclear/><milestone unit="column" n="1"/>
+<lb/><note place="right margin">Jurors Jurors Jurors</note></p>
+<p>I will say that, as I am advised I think it would be a becoming act of clemency <unclear/> the Governor to pardon this man</p>
+<p>W. E. Arthur
+<lb/>Atty Com'th</p>
+  </body>
+ </text>
+</TEI>

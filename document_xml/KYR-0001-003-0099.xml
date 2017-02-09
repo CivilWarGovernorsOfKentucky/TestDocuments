@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-003-0099"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Charles D. Pennebaker to Samuel G. Suddarth</title>
+    <title level="a" type="parallel">CWG1616</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's Official Correspondence File, Military Correspondence, 1863-1867</collection>
+      <idno>BR5-162 to BR5-163</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Washington, District of Columbia</placeName>
+    <date when="1864-12-15">15 December 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><note place="header">Copy.</note>
+<lb/>Office Kentucky State Agency
+<lb/>Washington, D. C.
+<lb/><date when="1864-12-15">Decr: 15" 1864</date>.
+<lb/>General,</p>
+<p>I herewith enclose you two (2) letters from the 3<hi rend="underline"><hi rend="sup">rd</hi></hi> Auditor, with reference to the State Account. I <hi rend="str">wrote</hi> would have sent them to you long ago but I have been trying to get an agreement about our settlement which I have failed to do.</p>
+<p>The <hi rend="str">authority</hi> abstracts made by the State are said to be so very imperfect that the accounts cannot be adjusted until new abstracts and proper classifications of the vouchers are rendered. I have seen the Auditor and this is insisted upon. If you will authorize me to employ a sufficient force in my office I will soon render the accounts as he wants them. This settlement progresses very slowly. I have a copy of the difference sheets on the pay rolls; it is full of errors of the most flagrant kind</p>
+<p>The Auditor has agreed to take up that portion of the account presented by the pay rolls and settle<pb/>
+<lb/>it; but you will see that he requires the new abstracts in this account. It will require a competent clerk but a short time to make out the required abstracts for this account. You will please return me the letters which I herewith enclose.</p>
+<p>I am Sir, respectfuly
+<lb/>Your Obd. Svt.
+<lb/>sgd: C. D. Pennebaker
+<lb/>Ky: State Agent</p>
+<p>Genl. S. G. Suddarth
+<lb/>Qr. Mas. Genl.
+<lb/>Frankfort
+<lb/>Ky.<pb/></p>
+<p>"A"</p>
+  </body>
+ </text>
+</TEI>

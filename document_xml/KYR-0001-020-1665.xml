@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1665"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">James Donahue et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG11133</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Andrew P Patrick</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG22-330</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency Beriah Magoffin
+<lb/>Governor of Kentucky.</p>
+<p>The Petitioner James Donahue States that at the <date when="1862-02">February Term 1862</date> of the City Court of Louisville he was fined the sum of $20: upon an Indictment in said court charging him with committing an assualt on James Johnson -- He states that Johnson was the only witness who testified in the case against him &amp; who stated that I met him in the city that no person was present, that I knocked him down &amp; Kicked him several times, I state positively that I had no difficulty with him on the day he stated I had. That I did not on that day strike him or kick him we had some words together on that day &amp; On the following day as I proved in Court said Johnson &amp; Myself had some words again &amp; he drew a knife &amp; advanced upon me &amp; I then struck him, as I had a right to do in self defense I was not Indicted for this assault &amp; the prosecuting attorney relied alone on the proof made by Johnson of an assault committed the previous day. which I say was not true. -- Petitioner is a verry poor man a day laborer with no property -- <hi rend="str">her wife</hi> He has an aged Mother, and two Infant Daughters of a sister to support which requires all the means he can possibly Earn &amp; unless your Excellency will remit said fine he wil be committed to the Work House &amp; his aged Mother &amp; his two Neices must suffer for the necessaries of life -- He prays your Excellency to remit said fine &amp; he will &amp;<hi rend="underline"><hi rend="sup">c</hi></hi></p>
+<p>James Donahue<pb/></p>
+<p>We are acquainted with James Donahue &amp; state that he is a Day laborer, verry poor &amp; supports his Mother &amp; two Nieces &amp; we unite with him in asking a remission of his fine</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>M. Casey
+<lb/>Thomas, Crowe
+<lb/>John Houck
+<lb/>Charley Cain
+<lb/><unclear/> Miller
+<lb/>N. <unclear>Hendenreder</unclear> 
+<lb/>Horace Dewitz 
+<lb/>Michael Lyons
+<lb/>Terry Owen
+<lb/>Henry Wintercorn
+<lb/>C S <unclear>Hill</unclear>
+<lb/>John Cavanaugh
+<lb/><unclear/> gill
+<lb/>Patrick Donohue
+<lb/>Michl Donahue
+<lb/>John Buckley
+<lb/>A. Mearking
+<lb/>J B M<hi rend="sup">c</hi>Mahon
+<lb/>patrik <unclear>Peally</unclear>
+<lb/>James Whelan
+<lb/>Philip <unclear/>
+<lb/><cb n="2"/>Philip Donahoe
+<lb/>Bryan Murray<milestone unit="column" n="1"/></p>
+<p>Louisville City Ct
+<lb/>Respite 6 mo
+<lb/>B. M
+<lb/>$20. } assualt
+<lb/>Ja<hi rend="underline"><hi rend="sup">s</hi></hi> Donahue
+<lb/>Iss<hi rend="sup">d</hi> <date when="1862-02-14">Feby 14 1862</date></p>
+<p>Respite B</p>
+  </body>
+ </text>
+</TEI>

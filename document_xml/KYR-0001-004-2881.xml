@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2881"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">P. E. Bacon et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7518</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR17-187 to BR17-188</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1865-12-02">2 December 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excelency
+<lb/>T. E. Bramlette
+<lb/>Govenor of Ky</p>
+<p>We the undersigned citizens of Edmonson couty Kentucky would represent to your exelency that on the <date when="--11-25">25th day of November</date> last there was a fine of twenty five dollars and costs assesed agaisnt Axel Madison fozr a breach of the peace said fine was assessed by a Jury before a Justice of peace for said county We would beg your Honors clemency towards the said Madison in remiting said fine for the following reasons to wit Said Madion is a man of a weak constitution and not well able to labor and has been a soldier in the 11<hi rend="sup">th</hi> Ky inft of U S army and served his three years and got an honerable discharge and the reson for his commiting the offence was that he was a little excited with the ardent and had heard that the man that he struck had threatened his life we would therfore solicit your Exelency consideration to the above stated facts With great respect Yours &amp;c <date when="1865-12-02">Dec 2<hi rend="sup">d</hi> 1865</date></p>
+<p><milestone unit="column" n="2"/><cb n="1"/>P E Bacon P J E C C
+<lb/>Martin L Cook
+<lb/>James. R. Blair
+<lb/>Mery Hazslip
+<lb/>Amos James
+<lb/>W W Houchen
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> H. Wells
+<lb/>A M <unclear/>
+<lb/><cb n="2"/>Jasper Wadkins
+<lb/>John J Bullock
+<lb/>S. Brooks
+<lb/>G. T. Heath
+<lb/>P. S. Hazslip
+<lb/>Wm Wiltshire
+<lb/>T. S. Randol
+<lb/><hi rend="str"><unclear/> <unclear/></hi><pb/>
+<lb/><milestone unit="column" n="1"/>W. L. Hazelip
+<lb/>Axel Houchin
+<lb/>Geo. Cook
+<lb/>John Walker
+<lb/>James Walshe M. D
+<lb/>W Hazslip
+<lb/>L W sanders
+<lb/>Wm. Dicus
+<lb/>P N Stuart
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Austill Mail C
+<lb/>S R Sanders
+<lb/>John. D. Houchin
+<lb/>James Meirdeth
+<lb/>H N Jones
+<lb/>J. C. Kincer
+<lb/>Russell Skaggs
+<lb/>S. G. Matson
+<lb/>G. W. Cayton
+<lb/>M Houchin one of the jury
+<lb/>James W. Buttram
+<lb/>Jams W. Stice
+<lb/>Jefferson Kincer
+<lb/>B Hazslip J P E C<pb/></p>
+<p>Edmonson Co
+<lb/>Justice Ct
+<lb/>vs
+<lb/>A. Madison</p>
+<p>Refused</p>
+  </body>
+ </text>
+</TEI>

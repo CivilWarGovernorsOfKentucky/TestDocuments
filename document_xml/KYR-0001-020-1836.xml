@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1836"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">James B. Beck to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG11304</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Bradley Strait</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG23-222 to MG23-223</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Lexington, Fayette County, Kentucky</placeName>
+    <date when="1862-04-28">28 April 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Lex. <date when="1862-04-28">April 28<hi rend="sup">th</hi> /62</date>
+<lb/>Gov<hi rend="underline"><hi rend="sup">r</hi></hi> Magoffin 
+<lb/>D Sir=</p>
+<p>About a year ago you respited for twelve months ago a fine for fifty dollars against Isaac Rumsey imposed by the Lexington city court on him for carrying a pistol. The judgment was rendered on confession. At the last February Term of the Fayette Circuit Court he was Tried for shooting at Otho Reynolds, (that being the time at which the pistol was in his possession for which the $50, fine was imposed) &amp; on a fearing hearing of the case he was promptly acquited by the Jury on the grounds of self-defense. His right to carry this pistol &amp; the necessity for it was clearly shown on the main trial we were his comrades &amp; have no doubt as to the propriety<pb/>
+<lb/>of your Excellency releasing Rumsey from the fine. </p>
+<p>We postponed urging the matter untill the Trial of the main case, as we thought that would determine whether or not you ought to interpose further. Rumsey is a peaceable inoffensive man &amp; it was only under circumstances of great aggrevation that he was compelled to arm himself in selfdefence. If desired he can provide any number of persons to certify to the above facts</p>
+<p>Respectully 
+<lb/>your obt sevt 
+<lb/><hi rend="underline">James B Beck</hi></p>
+<p>In addition to the foregoing I state that Mr Rumsey is a poor man, dependent on his daily loabor for support </p>
+<p>Respy
+<lb/>F. K. Hunt<pb/></p>
+<p>Remitted 
+<lb/>B. M.
+<lb/><date when="1862-04-28">April <hi rend="underline">28</hi><hi rend="underline"><hi rend="sup">th</hi></hi></date>
+<lb/>made out
+<lb/>Lexington City Ct
+<lb/>Isaac Rumsey</p>
+<p>send to Beck &amp; Hunt at Lexington</p>
+  </body>
+ </text>
+</TEI>

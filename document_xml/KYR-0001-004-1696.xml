@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1696"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">S. A. Hagarty et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6333</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR13-180 to BR13-181</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency
+<lb/>Hon' Thomas E Bramlette Governor of the state of Kentucky
+<lb/>Sir</p>
+<p>Your petitioners citizens of the state of Kentucky and County of Boone respectfully sheweth to your Excellency that heretofore "viz" at the <date when="1865-04">Apritl</date> Term of the Boone Circuit that a fine was adjudged against one Robert, B, Acra who was a tavern keeper in the Town of Florence in said County, for selling liquors to <hi rend="underline">minors</hi> Your petitioners would represent that Said fine was adjudged by default, that owing to serious Sickness in the family of said Acra that he was unable to attend Court, and living at a considerable distance from the court house he was unable to make the necessary arrangements to defend the indictment was found against him, Your petitioners represent that <hi rend="underline">Acra</hi> has quit hotel keeping, that while he was so engaged that he tried to conduct his business in accordance with the requirement of the law, and your petitioners who were his near neighbors at the time believe that if liquers were sold as charged, only on a single occasion) that it was contrary to his wish, and against his orders, Your petitioners<pb/>
+<lb/>would represent to your Excellency that Acra is a very <hi rend="underline">poor</hi> man having to support a large family by the daily labor of his hands, Therefore your petitioners ask, if Compatible with the public welfare that said fine be remitted and as in duty bound your petitioners shall we ever pray</p>
+<p>S. A. Hagarty
+<lb/>John Corneall
+<lb/>T. L. Swetnam
+<lb/>E. Stephens
+<lb/>W Y Crigler
+<lb/>J M, Hall
+<lb/><hi rend="underline">J B</hi> <hi rend="underline">Taylor</hi>
+<lb/><hi rend="underline">W</hi><hi rend="underline"><hi rend="sup">m</hi></hi><hi rend="underline"> H</hi> <hi rend="underline">Wilson</hi>
+<lb/>M Macguire
+<lb/>Gaines Robinson
+<lb/>James R Clutterbuck
+<lb/>Will. Conner
+<lb/>L. C. Yager
+<lb/>Jas L Conner
+<lb/>D. Riggs
+<lb/>G H Aydelott
+<lb/>D C Clegg
+<lb/>E. H. Ahsley
+<lb/>T. S. Fish
+<lb/>S F Tracy
+<lb/>R. K. Dulaney</p>
+<p>Please send reply to R. B. Acra
+<lb/>Florence
+<lb/>Ky<pb/></p>
+<p>Boone Cir Ct
+<lb/>vs
+<lb/>Robt B. Acra
+<lb/>Selling liquor to a Minor
+<lb/>$50 -- </p>
+<p>Remit
+<lb/><date when="1865-04-05">5<hi rend="sup">th</hi> Apl/65</date></p>
+<p>sent for fee
+<lb/><date when="1865-03-21">21<hi rend="sup">st</hi> mch/65</date></p>
+  </body>
+ </text>
+</TEI>

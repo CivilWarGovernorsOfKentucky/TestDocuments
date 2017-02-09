@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2872"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Basil Watson, Affidavit</title>
+    <title level="a" type="parallel">CWG7509</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR17-174</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Webster County, Kentucky</placeName>
+    <date when="1865-12-29">29 December 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>State of Kentucky
+<lb/>Webster County Sct
+<lb/><note place="stamp"><stamp type="revenue"/><unclear/> <date when="1865-12">Decr 1865</date> <unclear/></note>
+<lb/>N<hi rend="sup">o</hi> <hi rend="str">2</hi>3</p>
+<p>On this <date when="1865-12-29">29<hi rend="sup">th</hi> day of December 1865</date> personally appeared before me C W Cook Judge of the Webster County Court Bassel Watson of lawful age and a resident citizen of said County who being by me duely sworn says that on the <date when="--08-13">13<hi rend="str">of</hi><hi rend="sup">th</hi> day of August</date> last (The day on which Sam Dial was killed) he was Captain of Company (A) 1<hi rend="sup">st</hi> Ky State Forces and that his Company was at that time stationed at Clayville in the County of Webster &amp; State of Ky. That at that time many of the late Rebel soldiers and guerrillas were returning to their homes in Webster &amp; Union Counties and that he acting under the instructions of his superior officers had given orders to all his men to arrest all returned guerrillas &amp; bring them to his Headquarters at Clayville and that E N Jones and Gabriel Nall who belonged to his company were acting<pb/>
+<lb/>under his instructions &amp; orders when they went on the said <date when="--08-13">13<hi rend="sup">th</hi> day of August</date> last to arrest the said Sam Dial and he has no doubt that the circumstances attending the killing of said Dial are correctly set forth in the petition herewith sent &amp; which I have examined &amp; signed. He further states that he knows the statements contained in said petition in regard to the character of said Dial are true and that he believes the said Jones &amp; Nall ought to be pardoned</p>
+<p>Basill,, Watson</p>
+<p>Subscribed &amp; sworn to before me by Bassel Watson this <date when="1865-12-29">29<hi rend="sup">th</hi> of Dec<hi rend="underline"><hi rend="sup">r</hi></hi> 1865</date> -- </p>
+<p>C W Cook, P, J, W, C, C</p>
+  </body>
+ </text>
+</TEI>

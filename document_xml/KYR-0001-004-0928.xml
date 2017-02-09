@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0928"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Edgar Keenon to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG5047</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR10-427 to BR10-428</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1864-06-01">1 June 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Auditors Office
+<lb/><date when="1864-06-01">June 1 1864</date>
+<lb/>Govr. Bramlette</p>
+<p>Executive No. 222. in favor Comlth Ky. vs. J F Zimmerman &amp;c Clk Boyle County Ct. for $450<hi rend="underline"><hi rend="sup">32</hi></hi>. with Int &amp; costs having been Paid</p>
+<p>I would respectfully ask that the Damages Adjudged; Amounting to $90.<hi rend="underline"><hi rend="sup">06</hi></hi> be remitted.</p>
+<p>Respty
+<lb/>Ed. Keenon
+<lb/>Asst. Aud<pb/></p>
+<p>Remit
+<lb/>Tho E Bramlette</p>
+<p>Franklin Cir Ct
+<lb/>vs
+<lb/>J. F. Zimmerman
+<lb/>Clk of Boyle Co
+<lb/>Damages
+<lb/>$90.<hi rend="sup">06</hi>
+<lb/><date when="1864-06-01">1<hi rend="sup">st</hi> June/64</date></p>
+  </body>
+ </text>
+</TEI>

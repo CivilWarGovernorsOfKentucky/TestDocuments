@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2068"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Bracken Circuit Court, Summons</title>
+    <title level="a" type="parallel">CWG6705</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR14-260</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Bracken County, Kentucky</placeName>
+    <date when="1865-07-05">5 July 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>The Commonwth of Ky to the Shff of Bracken County.</p>
+<p>You are commanded to summon Hudson Rice &amp; Thomas Riley, to appear before the Bracken Circuit Court on the first day of the next <date when="--08">August Term</date>, to shew cause <hi rend="str">of</hi> if any they have or can, why judgement shall not be rendered against them for the sum of $300. -- the penalty of the Recognizance forfeited by Joseph Neaves at the last February Term, in which they were sureties. And make due return of this Summons on or before the 1<hi rend="underline"><hi rend="sup">st</hi></hi> day of said Term</p>
+<p>Give under my hand this <date when="1865-07-05">July 5<hi rend="underline"><hi rend="sup">th</hi></hi> 1865</date>.
+<lb/><hi rend="underline">Rich</hi><hi rend="underline"><hi rend="sup">d</hi></hi><hi rend="underline"> J. Hughes clk</hi></p>
+  </body>
+ </text>
+</TEI>

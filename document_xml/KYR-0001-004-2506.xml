@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2506"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">R. B. McCall et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7143</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR16-9 to BR16-10</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency Thomas E Bramlett Governor of Kentucky the undersigned petitoners citizens of Boyd County Kentucky would respectfully represent that at the <date when="1865-10">October term of the Boyd circuit Court 1865</date> there was a judgment <hi rend="str">of the Boyd circuit Court</hi> rendered against Robert Eastham for the sum of Three Hundred dollars in forfeited recognizance as security of Robert Christy Your petitioners would further represent that Robert Eastham went said security as they believe in good faith beleiving said Christy innocent and he had no doubt he would appear at Court, he failed to do so Eastham is a good citizen, living law and order and is no friend to the guilty he was innocently decoyed into this suretyship and we pray your Excellency to remitt the forfeiture against him, or so much as can be done under the Law and will ever pray</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>R B M<hi rend="sup">c</hi>Call, M, J, C
+<lb/>H. B Brodess Judge B C
+<lb/>A Bagley.
+<lb/>Police Judge of Ashland
+<lb/><cb n="2"/>Laban T Moore
+<lb/>J, D, Jones County atty
+<lb/>W. A. Hampton clk. B. C. C.
+<lb/>Peter Cooly Jailor
+<lb/>Thomas. J Berry J P B C<milestone unit="column" n="1"/><pb/></p>
+<p>Boyd Cir Ct
+<lb/>vs
+<lb/>Robert Eastham
+<lb/>$300,
+<lb/>Forfeiture
+<lb/>Remitted <date when="1865-10-31">31<hi rend="sup">st</hi> Oct /65</date></p>
+  </body>
+ </text>
+</TEI>

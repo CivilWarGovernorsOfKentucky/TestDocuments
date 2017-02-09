@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1295"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">C. J. Lichurst to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG5932</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR11-485</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1864-10-27">27 October 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency Gov Bramlett</p>
+<p>Your petitioner states that he was at the <date when="1864-10">Oct term of this <hi rend="str">court for</hi> Grant Circuit Court for 1864</date> fined Fifty --  --  --  --  --  --  --  -- dollars for gambling That he made no defence and did not intend to make any but that his attorney contrary to his instruction put in a plea of not guilty That petitioner had no witness and the Jury found him guilty and assessed his fine as afs<hi rend="underline"><hi rend="sup">d</hi></hi>.</p>
+<p>That others who played in the same game were only fined $20 that your petitioner is a poor man has a family That he is an honest hard working man and the payment of this<hi rend="str">e</hi> fine will be an extreme hardship upon him He therefore prays Your Excellency to remit so much of the fine as you have the power to remit and by so doing you will relieve your petitioner of a hardship and enable him the more easily to supply his family with the ordinary comforts of life.</p>
+<p>C J ^his X mark^ Lichurst
+<lb/><date when="1864-10-27">Oct 27<hi rend="sup">th</hi> 1864</date>
+<lb/>attest J M. Collins</p>
+<p>The undersigned represent that the statements contained in the above petition are true</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>J. J. Landram
+<lb/>O. D. McNamara
+<lb/><cb n="2"/>J, M, Collins
+<lb/>J, M, Collins
+<lb/>Squire Lucas<milestone unit="column" n="1"/><pb/>
+<lb/>Remit
+<lb/><milestone unit="column" n="2"/><cb n="1"/><hi rend="str">W</hi> Wm oldham
+<lb/>Jediah ashcraft
+<lb/>Jas F M<hi rend="underline"><hi rend="sup">c</hi></hi><unclear>Hain</unclear>
+<lb/>Wm douglas
+<lb/>J. W. Hutchison
+<lb/>B S Franks
+<lb/>E Boyers
+<lb/>T J Gouge
+<lb/>W Arniss
+<lb/>J. T. Chrisman
+<lb/>J. S. Oldham
+<lb/>W<hi rend="sup">m</hi> Franks
+<lb/>W H Ritchey 1st <unclear>Lt m</unclear>
+<lb/><cb n="2"/>Benj A. Northcutt
+<lb/>F. M Sechrist
+<lb/>Robt yancey
+<lb/>J. C. <unclear/>
+<lb/>Thos <unclear/>
+<lb/><unclear/>
+<lb/>J E Smith Juror
+<lb/>Thomas J. Dickerson
+<lb/>B. Stewart
+<lb/>B Wilson<milestone unit="column" n="1"/></p>
+<p>Grant Cir Ct
+<lb/>vs
+<lb/>C. L. Lichurst
+<lb/>$50
+<lb/>Gaming
+<lb/>Remit
+<lb/><date when="1864-11-19">19<hi rend="sup">th</hi> Nov/64</date></p>
+  </body>
+ </text>
+</TEI>

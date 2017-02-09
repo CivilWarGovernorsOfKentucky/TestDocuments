@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-3469"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Mason Brown et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG5588</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR42-394</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Franklin County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency
+<lb/>Gov<hi rend="sup">r</hi> Bramlette</p>
+<p>The undersigned citizens of Frankfort Ky. respectfully petition that C<hi rend="underline">on M</hi><hi rend="underline"><hi rend="sup">c</hi></hi><hi rend="underline">Auli</hi>ffe may be pardoned of the alleged offense of selling liquor to minors (4) <hi rend="str">three</hi> ^four^ indictments</p>
+<p>Said <hi rend="str">three (3)</hi> ^Four (4)^ indictments were found against M<hi rend="sup">c</hi>Auliffe at the <date when="1867-02">February term 1867</date> of the Franklin Circuit Court_</p>
+<p>We do not believe that there was any intended violation of law on the part of M<hi rend="sup">c</hi>Auliffe, nor do we think he would violate the law knowingly.</p>
+<p>The offenses, if any, were committed as we believe by M<hi rend="sup">c</hi>Auliffes bar-keeper, through carelessness, and as we believe, against the express directions of M<hi rend="sup">c</hi>Auliffe.</p>
+<p>Wherefore we ask that a pardon may issue to said M<hi rend="sup">c</hi>Auliffe-</p>
+<p>Respectfully Your Ob<hi rend="sup">dt</hi> Svts</p>
+<p>Jno: Mason Brown
+<lb/>Geo. W. Monroe
+<lb/>H. Evans
+<lb/>Jn<hi rend="sup">o</hi> B. Tilford Jr
+<lb/>John R Graham
+<lb/>S C Bull
+<lb/>W H. Sneed
+<lb/>W Highfield<pb/></p>
+<p>Franklin Ct Ct
+<lb/>vs
+<lb/>Con M<hi rend="sup">c</hi>Cauliffe</p>
+  </body>
+ </text>
+</TEI>

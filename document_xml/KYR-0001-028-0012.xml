@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-028-0012"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John W. Finnell to Daniel C. Wickliffe</title>
+    <title level="a" type="parallel">CWG7667</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Appointments by the Governor, Military Appointments, 1862-1863</collection>
+      <idno>R2-129</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1862-08-22">22 August 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><figure type="seal"><ab>UNITED WE STAND, DIVIDED WE FALL.
+<lb/>KENTUCKY.</ab></figure>
+<lb/>Head-Quarters Kentucky Volunteers,
+<lb/>ADJUTANT GENERAL'S OFFICE,
+<lb/>Frankfort, <date when="1862-08-22">Aug 22d 1862.</date>
+<lb/>Hon: D. C. Wickliffe
+<lb/>Sec of State
+<lb/>Sir</p>
+<p>A. B. Brown Com<hi rend="sup">d</hi>: 2<hi rend="sup">d</hi>. Lieut: <date when="1862-08-22">dated Aug 22<hi rend="sup">d</hi>. 1862.</date> Comm: iss<hi rend="sup">d</hi>. &amp; delivered.</p>
+<p>John I. Matthews Com<hi rend="sup">d</hi>. Surgeon 32d Inf: <date when="1862-08-23">dated Aug 23<hi rend="sup">d</hi>. 1862</date> &amp; delivered.
+<lb/><table rend="rules">
+<row>
+	<cell>W<hi rend="underline"><hi rend="sup">m</hi></hi> P. Kinkead</cell>
+	<cell>2 Lieut</cell>
+	<cell>date</cell>
+	<cell><date when="1862-08-23">Aug 23, 1862</date></cell>
+</row>
+<row>
+	<cell>Tho. P. Dudley</cell>
+	<cell>2 Lieut</cell>
+	<cell> -- </cell>
+	<cell> --  --  -- </cell>
+</row>
+<row>
+	<cell>W<hi rend="underline"><hi rend="sup">m</hi></hi> C. Peyton</cell>
+	<cell>" -- "</cell>
+	<cell> -- "</cell>
+	<cell> -- " -- " -- "</cell>
+</row>
+<row>
+	<cell>W<hi rend="sup">m</hi> H. Searcy</cell>
+	<cell>" -- "</cell>
+	<cell> -- "</cell>
+	<cell> -- " -- " -- "</cell>
+</row>
+</table><figure type="hr"/>
+<lb/>Over<pb/>
+<lb/><table rend="rules">
+<row>
+	<cell>Lieut: Ben H. Howser</cell>
+	<cell>resigned -- </cell>
+	<cell>date of Com:</cell>
+	<cell><date when="1861-11-15">Nov. 15. 1861,</date></cell>
+</row>
+<row>
+	<cell>Capt: Charles Obit</cell>
+	<cell>not accepted -- </cell>
+	<cell>date of Com:</cell>
+	<cell><date when="1862-08-06">Aug 6. 1862 -- </date></cell>
+</row>
+<row>
+	<cell>Lieut: Charles Obit</cell>
+	<cell>resigend -- </cell>
+	<cell>date of Com:</cell>
+	<cell><date when="1862-05-09">May 9. 1862 -- </date></cell>
+</row>
+<row>
+	<cell>Lieut: Jesse C. Adkisson</cell>
+	<cell>resigned -- </cell>
+	<cell>date of Com:</cell>
+	<cell><date when="1861-11-11">Nov. 11. 1861 -- </date></cell>
+</row>
+<row>
+	<cell>Lieut: Riley Wilson</cell>
+	<cell>resigned -- </cell>
+	<cell>date of Com:</cell>
+	<cell><date when="1862-04-13">Ap. 13. 1862 -- </date></cell>
+</row>
+<row>
+	<cell>Lieut: W. H. Norris</cell>
+	<cell>resigned -- </cell>
+	<cell>date of Com:</cell>
+	<cell><date when="1861-11-29">Nov. 29. 1861 -- </date></cell>
+</row>
+<row>
+	<cell>Capt: W. Treadle</cell>
+	<cell>resigned -- </cell>
+	<cell>date of Com:</cell>
+	<cell><date when="1861-11-13">Nov. 13. 1861 -- </date></cell>
+</row>
+<row>
+	<cell>Lieut: S. Huber</cell>
+	<cell>resigned -- </cell>
+	<cell>date of Com:</cell>
+	<cell><date when="1862-04-01">Ap. 1. 1862</date></cell>
+</row>
+<row>
+	<cell>Capt: Jno. A. Morrison</cell>
+	<cell>resigned -- </cell>
+	<cell>date of Com:</cell>
+	<cell><date when="1861-10-19">Oct 19. 1861 -- </date></cell>
+</row>
+<row>
+	<cell>Lieut: James M. Davenport</cell>
+	<cell> -- promoted</cell>
+	<cell>date of Com:</cell>
+	<cell><date when="1861-11-22">Nov 22. 1861 -- </date></cell>
+</row>
+<row>
+	<cell>Lieut: Henry Waller <hi rend="str">Lieut</hi>:</cell>
+	<cell>promoted</cell>
+	<cell>date of Com:</cell>
+	<cell><date when="1861-11-13">Nov 13. 1861 -- </date></cell>
+</row>
+<row>
+	<cell>Lieut: James R. Watts -- </cell>
+	<cell>promoted</cell>
+	<cell>date of Com:</cell>
+	<cell><date when="1861-11-13">Nov 13. 1861 -- </date></cell>
+</row>
+</table></p>
+<p>I am
+<lb/>Resp<hi rend="underline"><hi rend="sup">y</hi></hi>
+<lb/>John W. Finnell
+<lb/><hi rend="underline">Adj Gen</hi><hi rend="underline"><hi rend="sup">l</hi></hi><hi rend="underline">. Ken Vols:</hi></p>
+  </body>
+ </text>
+</TEI>

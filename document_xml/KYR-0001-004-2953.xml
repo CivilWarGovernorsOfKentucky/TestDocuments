@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2953"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Commonwealth of Kentucky v. Alfred Miller, Indictment</title>
+    <title level="a" type="parallel">CWG7590</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR43-28</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Hopkins County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Hopkins Cir Ct
+<lb/>The Comlth Ky
+<lb/>v
+<lb/>Alfred Miller</p>
+<p>The Grand Jury of Hopkins County in the name, and by the authority of the Comlth Ky, accuse <hi rend="underline">Alf Miller</hi> of the offense of an assault &amp; Battery Committed as follows. The said Alf Miller on the <date when="1865-08-07">7 day of August 1865</date>, in the County aforesaid, did Committ an assault &amp; Battery, by beating, <hi rend="underline">brusing</hi> &amp; otherwise ill treating Nicholas Crunk, whereby the said Crunk's life was greatly endangered, and the other wrongs then &amp; there Did, against the peace &amp; dignity of the Comlth Ky.</p>
+<p>Information by
+<lb/>Manfield Hanks
+<lb/>A T Thompson
+<lb/>S Puttman
+<lb/>Tho<hi rend="sup">s</hi> Dobyns
+<lb/>Nich Crunk,</p>
+<p>Jno Barret
+<lb/>Comlth atty 14. Judi Distrt<pb/></p>
+<p>Hopkins Cir Ct
+<lb/>Comlth Ky
+<lb/>v } Copy Ind
+<lb/>Alf Miller</p>
+<p>fee <hi rend="underline"><hi rend="sup">50</hi></hi> Paid</p>
+  </body>
+ </text>
+</TEI>

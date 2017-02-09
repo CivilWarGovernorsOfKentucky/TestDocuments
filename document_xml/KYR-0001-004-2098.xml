@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2098"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">P. W. Vaughn to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6735</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR14-305 to BR14-306</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Adair County, Kentucky</placeName>
+    <date when="1865-07-10">10 July 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency
+<lb/>Thomas E Bramlette
+<lb/>Governor of the Commonwealth of Kentucky</p>
+<p>Your petitioner begs leave to represent to your Excellency that at the last <date when="1865-06">June Special Term of the Adair Circuit Court in the year 1865</date> Judgment was rendered against him for fines on 4 Indictments of the Grand Jury N<hi rend="sup">os</hi> 1 -- 2 -- 3 -- <unclear>&amp;</unclear> 5 -- the amount in aggregate was $84 ^fines and $50,,55 costs^ -- as follows
+<lb/>N<hi rend="sup">o</hi> 1. for Sellling liquor to Soldiers on trial by Jury -- Judgt for $14,, fine &amp; $16.80 cts costs
+<lb/>N<hi rend="sup">o</hi> 2 for Same offense trial by Jury Judgment for $10. fine &amp; $15,,75 <hi rend="str">ct</hi> costs
+<lb/>N<hi rend="sup">o</hi> 3. ^same offense^ Judgment by Default or Confession for $10. fine &amp; $9. costs,
+<lb/>N<hi rend="sup">o</hi> 5. for Selling liquor to Slave Judgment by Default or Confession for $50. fine &amp; $9. costs</p>
+<p>Now your petitioner states that the two first cases he defended but the two last he did not defend in order to Save Costs -- And wishing to appeal to your Clemency as executive in all four of the Cases -- Your petitioner is very poorly able to pay the whole of Said fines and costs he thinks the Number of fines &amp; heavy costs oppressive -- Your petitioner has no longer any connection with the liquor traffic &amp; never expects to again and if relieved from the<pb/>
+<lb/>Said fines to the extent of your power will by hard effort be enabled to pay the Commths attorneys 30 pr ct &amp; the Costs and make a Support for his wife &amp; <hi rend="str">children</hi> family Your petitioner therefore humbly asks your excellency for Such relief as you think proper to grant -- </p>
+<p>This <date when="1865-07-10">10<hi rend="sup">th</hi> July 1865</date>
+<lb/>P W Vaughan</p>
+<p>We have examined the foregoing petition and join in the prayer of the Same -- we know the petitioner and the circumstances and think it a case fully to justify the exercise of executive clemency
+<lb/><date when="1865-07-10">July 10<hi rend="sup">th</hi> 1865</date></p>
+<p><milestone unit="column" n="2"/><cb n="1"/>P, C, Hardin
+<lb/>G. A. Thomas,
+<lb/>Wm F Stone
+<lb/>T, T, Bradshaw
+<lb/>Paschal Willis
+<lb/>Sam<hi rend="underline"><hi rend="sup">l</hi></hi> B. Fields
+<lb/><cb n="2"/>Junius Caldwell
+<lb/>Edmund Butler
+<lb/>James T. Page
+<lb/>John W. Butler
+<lb/>J C Winfrey
+<lb/>James Vigers
+<lb/>J. K. A. Strange
+<lb/>W. H. Hudson
+<lb/>W. C. Baker
+<lb/><hi rend="underline">Rob</hi><hi rend="underline"><hi rend="sup">t</hi></hi><hi rend="underline"> Miller</hi>
+<lb/>J B Murray
+<lb/>W. O. Murrell
+<lb/>N. G. Atkins
+<lb/>D W Suddarth
+<lb/>W, W, Page
+<lb/>Y E Hurst</p>
+  </body>
+ </text>
+</TEI>

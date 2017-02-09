@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-024-0032"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Thomas M. Vincent to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG12086</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Mitchell A Krock</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>1st - 20th Regiments Kentucky Infantry Primary Source Documents</collection>
+      <idno>Box 7, Folder 7th Ky. Inf. - Misc.</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Washington, District of Columbia</placeName>
+    <date when="1864-10-19">19 October 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Adjutant General's Office,
+<lb/>Washington, <date when="1864-10-19">October 19<hi rend="underline"><hi rend="sup">th</hi></hi>, 1864</date>.
+<lb/>To His Excellency,
+<lb/>The Governor of Kentucky.
+<lb/>Sir:</p>
+<p>I have the honor to report, that the following named Officers of the Volunteer forces from the State of Kentucky. have been discharged at the dates, and for the causes, set opposite their respective names, viz:</p>
+<p><table rend="rules">
+<row>
+	<cell>Resigned.</cell>
+	<cell>Hon.</cell>
+	<cell>Lt. Colonel</cell>
+	<cell>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> J. Daniel,</cell>
+	<cell>✓</cell>
+	<cell>7<hi rend="sup">th</hi> Reg't.</cell>
+	<cell><date when="1864-09-24">Sept 24. 1864</date>.</cell>
+</row>
+<row>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>Major</cell>
+	<cell>Elisha B. Neadway.</cell>
+	<cell>✓</cell>
+	<cell>" "</cell>
+	<cell>" " "</cell>
+</row>
+<row>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>Surgeon</cell>
+	<cell>Abel B. Conant.</cell>
+	<cell>✓</cell>
+	<cell>" "</cell>
+	<cell>" " "</cell>
+</row>
+<row>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>Captain</cell>
+	<cell>Dan<hi rend="underline"><hi rend="sup">l</hi></hi> G. Williams.</cell>
+	<cell>✓</cell>
+	<cell>" "</cell>
+	<cell>" " "</cell>
+</row>
+<row>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>Henry J. Clark.</cell>
+	<cell>✓</cell>
+	<cell>" "</cell>
+	<cell>" " "</cell>
+</row>
+<row>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>Beverly P. White.</cell>
+	<cell>✓</cell>
+	<cell>" "</cell>
+	<cell>" " "</cell>
+</row>
+<row>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>James M. Beatty.</cell>
+	<cell>✓</cell>
+	<cell>" "</cell>
+	<cell>" " "</cell>
+</row>
+<row>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>R. Q. M.</cell>
+	<cell>Will H. Jackson,</cell>
+	<cell>✓</cell>
+	<cell>" "</cell>
+	<cell>" " "</cell>
+</row>
+<row>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>First Lieut.</cell>
+	<cell>Simon J. Brunnett.</cell>
+	<cell>✓</cell>
+	<cell>" "</cell>
+	<cell>" " "</cell>
+</row>
+<row>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>" "</cell>
+	<cell>John T. Bates</cell>
+	<cell/>
+	<cell>" "</cell>
+	<cell>" " "</cell>
+</row>
+</table><pb/>
+<lb/><table rend="rules">
+<row>
+	<cell>Resigned.</cell>
+	<cell>Hon.</cell>
+	<cell>First Lieut.</cell>
+	<cell>Henderson Eversole,</cell>
+	<cell>7 Reg't</cell>
+	<cell><date when="1864-09-24">Sept 24. 1864</date>.</cell>
+</row>
+<row>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>" "</cell>
+	<cell>Jesse H. Cole,</cell>
+	<cell>" "</cell>
+	<cell>" " "</cell>
+</row>
+<row>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>" "</cell>
+	<cell>Stephen T. S. Cook,</cell>
+	<cell>" "</cell>
+	<cell>" " "</cell>
+</row>
+</table></p>
+<p>I am Sir.
+<lb/>Very Respectfully.
+<lb/>Your Obd't. Servant.
+<lb/>Thomas M. Vincent
+<lb/>Asst. Adjutant General.<pb/></p>
+<p><note place="header">7</note>
+<lb/>N<hi rend="underline"><hi rend="sup">o</hi></hi> 181<figure type="hr"/>
+<lb/>Washington City
+<lb/>Report<figure type="hr"/>
+<lb/>Resignations
+<lb/>&amp;<hi rend="sup">c</hi> &amp;<hi rend="underline"><hi rend="sup">c</hi></hi><figure type="hr"/>
+<lb/>Rec<hi rend="sup">d</hi> A. G. O. <date when="1864-10-24">Oct<hi rend="underline"><hi rend="sup">r</hi></hi> 24. 1864</date>.</p>
+  </body>
+ </text>
+</TEI>

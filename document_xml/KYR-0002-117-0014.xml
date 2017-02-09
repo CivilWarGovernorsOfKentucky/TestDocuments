@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-117-0014"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Boyle to C. A. Preston et al.</title>
+    <title level="a" type="parallel">CWG13843</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Christina K Adkins</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>Adjutant General Letter Book - No. 3 ; 9 April - 25 May 1864</collection>
+      <idno>435</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1864-05-24">24 May 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><note place="header">435</note>
+<lb/><date when="1864-05-24">May 24<hi rend="underline"><hi rend="sup">th</hi></hi> <gap/>4</date>
+<lb/>Hon. C. A. Preston
+<lb/>Mayor &amp;c. Covington- Ky. and others
+<lb/>Gentlemen,</p>
+<p>Your favor to His Excellency, Gov. Bramlette, recommending Maj. Ja<hi rend="underline"><hi rend="sup">s</hi></hi> L. Foley -- as suitable to command a regiment of six months' troops -- has been refered to this office. It has been our policy to appoint to office only those who recruit men. Doubtless Maj. Foley could assist materially in organizing a regiment. If he will do so, <hi rend="underline">this</hi> will sufficiently authorize him to commence recruiting By combining your efforts in Kenton, with those in the adjoining counties, you might easily raise a full regiment, which the major can command. We have but a short time in which to organize this force, and earnestly ask the assistance of all union men.</p>
+<p>Truly yours
+<lb/><hi rend="underline">John Boyle</hi>
+<lb/>Adjt. Gen of Ky.</p>
+  </body>
+ </text>
+</TEI>

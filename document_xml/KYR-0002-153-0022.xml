@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-153-0022"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Boyle to J. Ritter</title>
+    <title level="a" type="parallel">CWG14144</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>Assistant Adjutant General Letter Book - No. 1 ; 5 Sept 1863 - 2 Feb 1864</collection>
+      <idno>98</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1863-11-05">5 November 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><note place="header">98</note>
+<lb/><date when="1863-10-05">Oct. 5<hi rend="underline"><hi rend="sup">th</hi></hi> <gap/>3</date>
+<lb/>J. Ritter Jr. Esq.
+<lb/>Glasgow. Ky.
+<lb/>Sir,</p>
+<p>Your letter to the Governor of <date when="1863-10-01">Oct. 1<hi rend="underline"><hi rend="sup">st</hi></hi></date> has been referred to this office. The forces to be raised under the State Guard Law -- will be organized strictly in accordance with its express provisions. I herewith send you or Copy -- by which you will learn that no commissions are issued until after organization, and notification of the fact, to this Office Those who enlist in State Guard organizations, are still subject to serve in the U.S. Service -- should a necessity occur for a draft -- which necessity is not anticipated by the military authorities of the state.</p>
+<p>Respectfully
+<lb/>Your obt serv't
+<lb/><hi rend="underline">John Boyle</hi>
+<lb/>Adjt. Gen of Ky</p>
+  </body>
+ </text>
+</TEI>

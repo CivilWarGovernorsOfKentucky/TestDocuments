@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-117-0046"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Boyle to William M. McCallen</title>
+    <title level="a" type="parallel">CWG13875</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Christina K Adkins</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>Adjutant General Letter Book - No. 3 ; 9 April - 25 May 1864</collection>
+      <idno>299</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1864-05-10">10 May 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><note place="header">299</note>
+<lb/><date when="1864-05-10">May 10<hi rend="underline"><hi rend="sup">th</hi></hi> <gap/>4</date>
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi>. M. McCallen,
+<lb/>Battery "C" Indp<hi rend="sup">t</hi> Pa. Vol. A.
+<lb/>Camp Barry. D. C
+<lb/>Sir</p>
+<p>Your communication of the <date when="1864-04-30">30<hi rend="underline"><hi rend="sup">th</hi></hi> ult</date> addressed to his Excellency Governor Bramlette, has been referred to this office for reply. We would do all in our power to get you transferred to the 52<hi rend="sup">d</hi> Ky Infty, if such transfer were not inconsistent with the rules of the War Department. It is impossible for a person to get transferred from a 3 year regiment or battery to a regiment of a shorter term of service, as the 52<hi rend="sup">d</hi> Ky is, only being Elisted for one year. The attending circumstances connected with your application are plausible and would meet success, were it not for the above named reasons. -- </p>
+<p>Very Respectfully
+<lb/><hi rend="underline">John Boyle</hi>
+<lb/>Adj Gen<hi rend="sup">l</hi> of Ky</p>
+  </body>
+ </text>
+</TEI>

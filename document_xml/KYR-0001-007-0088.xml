@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0088"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Thomas E. Bramlette, Justice of the Peace, John Luallen</title>
+    <title level="a" type="parallel">CWG1753</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Appointments by the Governor, Civil Appointments, 1863-1867</collection>
+      <idno>BR1-482</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1864-01-05">5 January 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Commission/Appointment</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>IN THE NAME AND BY THE AUTHORITY OF
+<lb/>The Commonwealth of Kentucky,
+<lb/><figure type="seal"><ab>KENTUCKY
+<lb/>UNITED WE STAND, DIVIDED WE FALL</ab></figure>THOMAS E. BRAMLETTE,
+<lb/>GOVERNOR OF SAID COMMONWEALTH.
+<lb/>To all whom these Presents shall come, Greeting:</p>
+<p>Know Ye, That John Luallen having been duly appointed JUSTICE OF THE PEACE, for Wayne County, in District, No. Seven, until his successor Chosen at the <date when="--08">next august</date> election hall qualify. No election having been held for justice of the peace in said district at <date when="--05">last May</date> election, I hereby invest him with full power and authority to execute and discharge the duties of the said office according to law: And to have and to hold the same, with all the rights and emoluments thereunto legally appertaining, until his successor is duly qualified according to law.</p>
+<p>Cancelled <date when="1864-01-28">28th Jany 1864</date></p>
+<p><figure type="seal"/></p>
+<p>In Testimony Whereof, I have caused these letters to be made patent and the Seal of the Commonwealth to be hereunto affixed. Done at Frankfort, the <date when="1864-01-05">5<hi rend="sup">th</hi> day of January, in the year of our Lord, one thousand eight hundred and Sixty four</date>, and in the 72<hi rend="sup">d</hi> year of the Commonwealth.</p>
+<p>Tho E Bramlette
+<lb/>BY THE GOVERNOR:
+<lb/>E L VanWinkle, Secretary of State.
+<lb/>Commonwealth Office -- WM. E. HUGHES, State Printer.</p>
+  </body>
+ </text>
+</TEI>

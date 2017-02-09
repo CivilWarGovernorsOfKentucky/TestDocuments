@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0566"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">George Webster to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10034</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG18-378</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Clark County, Kentucky</placeName>
+    <date when="1861-01-31">31 January 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To the Hon Beriah Magoffin
+<lb/>Governor of Kentucky</p>
+<p>Your Petitioner George Webster of Clark County Kentucky -- respectfully represents that at the <date when="1860-11"><hi rend="underline">November Term 1860</hi></date><hi rend="underline"> of the Clark Circuit Court Kentucky a Judgment was rendered against him for Twenty Dollars on a charge of Gaming</hi>. That he made no defence in court, the facts of the case being as follows -- he was at the Oil Spring in said County for his health, and for pastime with a few friends set down to a little game of Euchre, at which five or ten cents was bet merely to keep a count of the game, no greater sum was bet, and at the close ^of^ playing was not himself winner or losed, and only a small sum total could have been used -- there was no secrecy about the playing, the weather was warm, and the room ^was^ open and the proceeding visible to all of the visitors at the springs who saw proper to look in, and every one knew that it was only for amusement, <hi rend="str">&amp; to</hi> but an envious eye had witnessed the game, &amp; directed the attention of the Grand Jury to it, and they instead of dismissing the matter as frivolous, returned indictment supposing it to be their duty do so, which result had been a matter of serious regret to your Petitioner, it has however learnt ^him^ a lesson not even to play for amusement -- and from that time fourth he has not -- the amount of the fine is only $20= but in these times to a poor hard working man it is a good deal -- and prays your Excellency to remit the judgment, and very greatly oblige</p>
+<p>Geo Webster</p>
+<p>Clark County Ky George Webster this day made oath before the undersigned that he beleives the foregoing Petition to be true</p>
+<p>witness &amp; c <date when="1861-01-31">Jany 31 1861</date>
+<lb/>(See other side for affidavit)
+<lb/>(over)<pb/></p>
+<p>Winchester Ky <date when="1861-01-30">Jany 30<hi rend="sup">th</hi> 1861</date></p>
+<p>Govr Magoffin</p>
+<p>The undersigned respectfully request your Excellency to remit the judgment herein referred to of Twenty dollars against George Webster.</p>
+<p>Cha<hi rend="sup">s</hi> Eginton
+<lb/>Therron Kohlhass
+<lb/>Chas S. Hanson
+<lb/>Jas Flanagan
+<lb/>B. F. Buckner
+<lb/>Tho<hi rend="sup">s</hi> H Moore
+<lb/>I write in this -- Jno. B. Huston
+<lb/>Jos Rucker</p>
+<p>State of kentucky</p>
+<p>I Willis Collins clerk of the Clark County Court certify that George Webster made oath before me that the statements contained herein are true. Givend under my hand the <date when="1861-02-04">4<hi rend="sup">th</hi> day of February 1861</date></p>
+<p>Willis Collins clk</p>
+<p>Clarke Cir Ct
+<lb/>Petition of Geo Webster
+<lb/>&amp;c &amp;c &amp;c
+<lb/>Remitted
+<lb/>B. M.
+<lb/>$<hi rend="str">3</hi>20 } Gaming
+<lb/>Iss<hi rend="sup">d</hi> <date when="1861-02-05">Feby 5. 1861</date></p>
+<p>Petition of Geo Webster &amp;c</p>
+  </body>
+ </text>
+</TEI>

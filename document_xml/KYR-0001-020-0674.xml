@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0674"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">W. Lindsay et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10142</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG19-19</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Clinton, Fulton County, Kentucky</placeName>
+    <date when="1860-12-14">14 December 1860</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Clinton Ky <date when="1860-12-14">Dec 14. 1860</date>
+<lb/>To His Excellency B Magoffin Gov of Ky=</p>
+<p>We the undersigned state that we were present at the Trial of Mike Sherran- who was at the <date when="1860-12">Dec Term 1860</date> of The Fulton Equity &amp; Criminal Court convicted of aiding and assisting in the murder of John Harrington, we state that we heard the evidence and are satisfied that the actions and conduct of Sherran was in no way instrumental in producing the death of Harrington.. The deceased forced the affray on Sherran because he refused to drink with a free negro an associate of the deceased. who was a northern man.. The deceased also used language calculated to excite a southern man to violence, and he but acted as any other Kentuckian would have done under similar circumstances. And we think that Sherrans case presents strong grounds for executive interposition</p>
+<p>W Lindsay Atty at Law
+<lb/>J W Lockridge " " "
+<lb/>W F Boon Judge H. C. C<pb/></p>
+<p>Fulton E &amp; C Ct
+<lb/>Sherrans case
+<lb/>3 Pent
+<lb/>Manslaughter
+<lb/>Issue pardon
+<lb/>B. Magoffin
+<lb/>Iss<hi rend="sup">d</hi> <date when="1861-02-11">Feby 11. 1861</date></p>
+  </body>
+ </text>
+</TEI>

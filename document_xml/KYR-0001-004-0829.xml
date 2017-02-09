@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0829"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">S. Jermane et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG4948</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR10-279</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1864-05-10">10 May 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency Tho<hi rend="sup">s</hi>. E. Bramlette Governor of Kentucky</p>
+<p>The undersigned Petitioners represent that two females named Anna Tennant and Eliza Graham are now confined in the Kentucky Penitentiary.</p>
+<p>The time of Anna Tennant will expire the last of <date when="1864-06">June 1864</date>. The time of Eliza Graham will expire in the <date when="1864">fall of 1864</date>. She is exceedinlgy delicate and is unable to do any work of value</p>
+<p>Both of these persons have professed Christianity and in believe that They will Deport themselves in a moral and upright manner hereafter if they are pardoned by your Excellency</p>
+<p>We therefore pray your Excellency to pardon the Said persons</p>
+<p><date when="1864-05-10">May 10. 1864</date>
+<lb/>Mr. S. Jermane. Pastor Bap<hi rend="underline"><hi rend="sup">t</hi></hi> Church.</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Officers of Prison
+<lb/>R. W. Lawler. Keeper. ass<hi rend="sup">t</hi>.
+<lb/>R W Wilhoit M. D. Hospital
+<lb/>Ellias Jeffries- ass<hi rend="sup">t</hi> keeper-
+<lb/>E Whitesides ass<hi rend="sup">t</hi> keeper.
+<lb/>J. N. Markham
+<lb/><cb n="2"/>Tho Rodman
+<lb/>G. W. Gwin
+<lb/>John R Graham
+<lb/>Henry J Sheets
+<lb/><hi rend="underline">K. Rennjaw</hi><milestone unit="column" n="1"/></p>
+<p>As these women Show evidence of repentence I think it would be much better for them to be discharged from prison</p>
+<p>H I Todd
+<lb/>Keeper of Penitentary<pb/></p>
+<p>S Petition for the release
+<lb/>of Anna Tennant
+<lb/>&amp;
+<lb/>Eliza Graham<figure type="hr"/>Eliza Graham</p>
+<p>Felony 2 Years Jefferson County <hi rend="str">August</hi> ^<date when="1862-11-04">Novr.^ 4<hi rend="sup">th</hi> 1862</date>
+<lb/><date when="1864-11-04">Nov. 4th 1864</date> time Expires</p>
+<p>Nancy A Tennant stealing wearing apparrel one year. Kenton County <date when="1863-06-29">June 29<hi rend="sup">th</hi> 1863</date> Time Expires <date when="1864-06-29">June 29<hi rend="sup">th</hi> 1864</date>-</p>
+<p>Pardoned
+<lb/><date when="1864-05-10">10<hi rend="sup">th</hi> May/64</date></p>
+  </body>
+ </text>
+</TEI>

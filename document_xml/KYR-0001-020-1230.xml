@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1230"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">James Smith to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10698</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG21-81</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Whitesburg, Letcher County, Kentucky</placeName>
+    <date when="1861-07-29">29 July 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Whitesburg Letcher County Ky. <date when="1861-07-29">July. 29<hi rend="underline"><hi rend="sup">th</hi></hi> 1861</date>
+<lb/>To his Exelency B. Magoffin Governor of the Commonwealth of Kentucky. Respected sir</p>
+<p>Your petitioner respectfuly calls your attention to a judgment that was rendered against him in the Office of Nelson Craft a justis of the peace for Letcher County for $5.00 for an aledged breach of the peace, by one Hiram Hall; The particulars are these.</p>
+<p>I called at Halls house to enquire of him whether he had not told my wife that Samuel Hall had been guilty of stealing; when he (Hiram Hall) replied he had no knowledge of having such talk; said Hall then stooped down and picked up too rocks; I then said to him that I did not wish to have any difficulty with him, but requested him not to throw his rocks. We then parted, and he amediately had me arested, and took me before the above justice of the peace for trial, when a jurey was enpaneled, and I was fined five dollars and the caust -- through pregedest and withe out law.</p>
+<p>I am a pecible man, I have lived in this county a long time and never had a difeculty with a single man before the present one; which was holey fauls and spite. I am poor and times is harde and I cannot pay my fine without being greatly embariesed. Wherefore I throw my self on your merse and protection and ask you to remit my fine, and in so doing I will be your mos greatfule and thankful friends <hi rend="underline">&amp;co</hi></p>
+<p>Your truly
+<lb/>James Smith.</p>
+<p>We the sitizens of Letcher County whos names are annexed, being aquanted with the caracter and peacible habits of your petitioner<pb/>
+<lb/>and beleaving the statement he has made are true and we therefore join with him in prear to his exelency the Govener; that he may be released from his fine, and in so doing you will greatley oblige your friends</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Names
+<lb/>Edwin Clark. Att<hi rend="sup">y.</hi>
+<lb/>J B Hytton
+<lb/>S J Hytton
+<lb/>Exekiel Brashear
+<lb/>D W May
+<lb/>W. T. B. Brashears
+<lb/>W W. Hyttan
+<lb/>J E Brashears
+<lb/>Ja<hi rend="sup">s</hi> E. Sarver
+<lb/>A. D. Hale
+<lb/><cb n="2"/>Names<milestone unit="column" n="1"/></p>
+<p>Remitted
+<lb/>B. M</p>
+<p>Letcher Co J. P.
+<lb/>$5.0.0 } breach
+<lb/>Ja<hi rend="sup">s</hi> Smith</p>
+<p>Iss<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1861-08-16">Aug 16 1861</date></p>
+  </body>
+ </text>
+</TEI>

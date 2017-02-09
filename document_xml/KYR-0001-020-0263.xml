@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0263"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">C. F. Burnam et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG9731</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG17-238</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Richmond, Madison County, Kentucky</placeName>
+    <date when="1860-12-18">18 December 1860</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Richmond, Ky. <date when="1860-12-18">Dec. 18, 1860</date>.
+<lb/>To his Excellency, Gov'<hi rend="underline"><hi rend="sup">r</hi></hi> B. Magoffin:</p>
+<p>The undersigned, citizens of Madison County, Ky. would respectfully represent that M<hi rend="underline"><hi rend="sup">r</hi></hi> Robinson C. Forriss, of said County &amp; State, was, at our last <date when="1860-09">September</date> Court, fined in the sum of twenty dollars &amp; costs, under an indictment for gaming; that he is a poor, hard=working man, in no sense of the word, a gambler, that in the case for which he was fined, he was playng for pastime with some friends, the stakes being exceedingly small, (only 10<hi rend="sup">cts.</hi>); that this was the first and only occasion of his ever having been arraigned before a jury; and that he intends to give no cause for any similar arraignment in future. We, therefore, in view of all the circumstances, and the inability of M<hi rend="underline"><hi rend="sup">r</hi></hi> F. to pay said fine and costs, without serious injury to him and his family of four children, petition your Excellency to interpose your Executive clemency, and relieve him and them to the extent you may deem just and proper.</p>
+<p>Respectfully, &amp;c.
+<lb/><milestone unit="column" n="2"/><cb n="1"/>C, F, Burnam
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> L. Neale
+<lb/>H, Clay, Sen
+<lb/><hi rend="underline">W. T. Fox</hi>
+<lb/>C A Hawkins
+<lb/>Ja<hi rend="sup">s</hi> E Baker
+<lb/>W Q Davis
+<lb/><cb n="2"/>F P Dicke<hi rend="underline">rs</hi>on
+<lb/><hi rend="underline">W. M. Irvine</hi>
+<lb/>R Runyon
+<lb/>John Bennett
+<lb/>Thomas F. Stone
+<lb/>W. H. Caperton
+<lb/>E J Broaddus<pb/></p>
+<p><milestone unit="column" n="1"/>Madison Cir. Ct.
+<lb/>Respited 12 mos.
+<lb/>$20 } Gaming
+<lb/>R. C. Ferriss
+<lb/>Iss<hi rend="sup">d</hi> <date when="1860-12-22">Dec 22<hi rend="sup">d</hi> 1860</date></p>
+  </body>
+ </text>
+</TEI>

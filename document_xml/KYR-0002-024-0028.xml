@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-024-0028"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Chauncey McKeever to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG12082</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Mitchell A Krock</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>1st - 20th Regiments Kentucky Infantry Primary Source Documents</collection>
+      <idno>Box 7, Folder 7th Ky. Inf. - Misc.</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Washington, District of Columbia</placeName>
+    <date when="1864-02-09">9 February 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><note place="header">7<hi rend="sup">th</hi></note>
+<lb/>Adjutant General's Office,
+<lb/>Washington, <date when="1864-02-09">February 9<hi rend="underline"><hi rend="sup">th</hi></hi> 1864.</date>
+<lb/>To His Excellency,
+<lb/>The Governor of Kentucky
+<lb/>Sir:</p>
+<p>I have the honor to report, that the following named Officers of the Volunteer forces from the State of Kentucky have been discharged at the dates, and for the causes, set opposite their respective names, viz:</p>
+<p><table rend="rules">
+<row>
+	<cell>Resigned Hon</cell>
+	<cell>Second Lieut ✓</cell>
+	<cell>Tho<hi rend="sup">s</hi> J. Green</cell>
+	<cell>7 Reg<hi rend="sup">t</hi></cell>
+	<cell><date when="1864-01-09">Jany 9 1864.</date></cell>
+</row>
+<row>
+	<cell>Cashierd A. W.</cell>
+	<cell>Captian ✓</cell>
+	<cell>Rich<hi rend="sup">d</hi> H. Crupper</cell>
+	<cell>15 " H</cell>
+	<cell><date when="1864-01-15">" 15 "</date></cell>
+</row>
+<row>
+	<cell>dismissd ^12^ dishony <unclear/></cell>
+	<cell>First Lieut ✓</cell>
+	<cell>Edw Clemmens</cell>
+	<cell>15 " H </cell>
+	<cell><date when="1864-01-15">" 15 "</date></cell>
+</row>
+<row>
+	<cell>Resigned ^12^</cell>
+	<cell>Ass<hi rend="sup">t</hi> Surgeon </cell>
+	<cell>George Sumner</cell>
+	<cell>47 "</cell>
+	<cell><date when="1864-01-27">" 27 "</date></cell>
+</row>
+<row>
+	<cell>" for good of service</cell>
+	<cell>Second Lieut</cell>
+	<cell>Isaac A Whitaker</cell>
+	<cell>40 mt<hi rend="underline"><hi rend="sup">d</hi></hi> " G </cell>
+	<cell><date when="1864-01-29">" 29 "</date></cell>
+</row>
+<row>
+	<cell>" " " " "</cell>
+	<cell>" "</cell>
+	<cell>Jno W. Evans</cell>
+	<cell>40 " " "</cell>
+	<cell><date when="1864-01-29">" 29 "</date></cell>
+</row>
+<row>
+	<cell>"</cell>
+	<cell>First "</cell>
+	<cell>Ja<hi rend="sup">s</hi> M. Holland</cell>
+	<cell>26 " F</cell>
+	<cell><date when="1864-01-30">" 30 "</date></cell>
+</row>
+</table></p>
+<p>I am Sir very respectfully Your Ob<hi rend="underline"><hi rend="sup">t</hi></hi> Servant
+<lb/>Chauncey M<hi rend="sup">c</hi>Keever
+<lb/>Asst. Adj<hi rend="underline"><hi rend="sup">t</hi></hi> General.<pb/></p>
+<p>N<hi rend="sup">o</hi>. 147
+<lb/>Washington City 
+<lb/>Report<figure type="hr"/>
+<lb/>Resignations<figure type="hr"/>
+<lb/>Rec<hi rend="sup">d </hi>at A. G. O. <date when="1864-02-16">Feb<hi rend="sup">y</hi> 16: 1864</date></p>
+  </body>
+ </text>
+</TEI>

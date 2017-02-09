@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1290"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Unknown to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10758</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG21-177</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Kenton County, Kentucky</placeName>
+    <date when="1861-07-03">3 July 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency B Magoffin Gov of Kentucky=</p>
+<p>Your petitioner Martin Hoover. says he is a German &amp; unable to speak the English language. &amp; that he was at the last Term of the Kenton circuit court which has Just closed. tried &amp; convicted of the offence of ^making^ <hi rend="str">committing</hi> an assault with intent to commit a rape &amp; fined the sum of fifty dollars &amp; imprisonment in the county Jail for thirty days. He says th woman upon whom he was charged with attempting this rape was a German woman of rather advanced age. He denies that ^he^ever did at any time <hi rend="str">ap</hi> attempt to commit the offence with which he was charged. He says the only Testimony against ^him^ was given by the woman &amp; her husband. all of which was untrue. &amp; he is able to show by all or nearly of those who know the prosecuting witnesses that they are unworthy of beleif. Your petitioner is a man of family having a wife &amp; three children who who are dependent altogether upon<pb/>
+<lb/>him for a support. Your petitioner has no property whatever except a very small amount household furniture Just enough for the use of his family. The only source from which he derives his &amp; his familys support is from his labor. He says he is a brick maker &amp; was engaged at that business up to the day of his trial. He says his family must suffer if he is not releived &amp; that too immediately for the times have been such that he was unable to make more than a base support for them &amp; has now no money laid up for them. &amp; except for the charity of friends they would begin to suffer immediately for the necessaries of life.</p>
+<p>He therefore asks that you may interpose in his behalf &amp; release him from the Jail &amp; remit his fine &amp;c</p>
+<p>Martin <unclear>Zurilane</unclear></p>
+<p>Sworn to before me by Martin Hoover this <date when="1861-07-03">3<hi rend="sup">d</hi> day of July 1861</date></p>
+<p>R K Summerwell
+<lb/><hi rend="underline">Notary Public</hi></p>
+<p><note place="left margin">I hope the Governer will pardon the imprisonment and at least respite the fine -- The man can then go to work and make the money to pay it.
+<lb/>W. E. Arthur
+<lb/>Atty Com'th</note></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1077"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Unknown to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG5714</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR[11]-161 to BR[11]-162</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Muhlenberg County, Kentucky</placeName>
+    <date when="1864-08-15">15 August 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Muhlenberg Co Ky <date when="1864-08-15">Aug 15th/64</date></p>
+<p>Govenor Bramblett we as citesons of muhlenberg county sent your Excelency a petition Praying you to remite a find asesed against James, H. Craig of fifty dollars for improper conduct to A maried Lady now the charge and the evidence was that the said Craig took her by the hand and held her hand rather longer than she thought he shood have done she told Craigs Father and three other nieghbors that Craig <unclear>A</unclear> give her no insult <hi rend="str">wa</hi> what ever this conversation ^took place^ in the spring of <date when="1863">63,</date> before the inditement was found against Craig the Jury asesed the find against Craig 4 the day of last mays circuit court We as citisons of<pb/>
+<lb/>muhlenbrg Pray you remit the find that stands against Craig, in the Petition that we sent your Excelency last spring thar was sixty nine men of muhlenberg County Put thar names to the Petition we beleive it to be a malishios thing from first to last Part of the Jury that asesed the find against Craig put thar names to the Petition we cood give further particulars but we deeme it <hi rend="str">unn</hi> unesary we want to hear from your Exelency direct your anser to G, R Craig we Remain yours as Ever the citisons of muhlenberg county to Governor Bramblett<pb/></p>
+<p>Muhlenberg Cir Ct
+<lb/>vs
+<lb/>Greenville
+<lb/>Jas H Craig</p>
+<p>Refused</p>
+<p>Ans<hi rend="sup">d</hi>.</p>
+  </body>
+ </text>
+</TEI>

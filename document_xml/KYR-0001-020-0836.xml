@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0836"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">H. A. Hite to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10304</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG19-315</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1861-03-15">15 March 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency The Govenor of the Commonwealth of Kentucky</p>
+<p>Your petitioner Henry A Hite will state that at the last term of the Union Circuit Court he was fined $60 besides costs under an Indictment charging him with keeping a tipling house</p>
+<p>He will state that he owned an old Stone house that he once occupied in selling dry goods, and after he failed, the house lay idle for sevral months he eventually rented it to a man by the name of Tho<hi rend="sup">s</hi> Cowles, who set up a grocery in the same, and said Cowles sold liquor without obtaining a license and for which your petitioner &amp; Cowles were Jointly Indicted, Cowles run off before survice of process on him, &amp; your petitioner was fined, on the sole grounds that on one or two occasions, he drew some whiskey for customers by Colwes<hi rend="sup">s</hi> request while he was engaged in selling something else to other customers</p>
+<p>He will state that he had no interest in the grocery whatever, the goods were purchased by Cowles, for his own use, the Boxes in which they were brought on, was marked to Cowles -- all this was proven on the trial, yet the Jury found him guilty wherefore he prays for a release and in duty bound will ever pray</p>
+<p>H A Hite<pb/></p>
+<p>Henry A Hite says what he has stated in this petition he believes to be true</p>
+<p>H A Hite</p>
+<p>Union County SS</p>
+<p>Subscribed &amp; sworn to me by Henry A Hite this <date when="1861-03-15">15<hi rend="underline"><hi rend="sup">th</hi></hi> of March 1861</date></p>
+<p>Hiram M<hi rend="sup">c</hi>Elroy N, P,</p>
+<p>Respite 12 mo
+<lb/>B. M</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1014"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Daniel Duggins et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG5651</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR[11]-65 to BR[11]-66</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Garrard County, Kentucky</placeName>
+    <date when="1864-07-25">25 July 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency, Tho<hi rend="sup">s</hi> E Bramlette,
+<lb/>Governor of the Commonwealth of Kentucky</p>
+<p>Your petitioner Daniel Duggins would respectfully represent, That at the <date when="1860-02">February term 1860</date> of the Garrard Circuit Court he was Indicted. for carrying a concealed deadly Weapon. -- That he attended at several Terms of said Court, ready and fully prepared to prove that he was justifiable in carrying said weapon (his life having been threatened upon sight) that from some cause the attorney for the Com<hi rend="underline"><hi rend="sup">th</hi></hi> paid no attention to the matter, for several termes of said Court. so that your petitioner. thought and believed that the case had been dismissed, -- and lost sight of it. That at the <date when="1864-02">February term 1864</date> the case was called and a judgment for Fifty dollars rendered agt him, -- Now your petitioner is a poor man, with a large family none of whom are able to aid him in making a living for himself &amp; family. which taken with the fact that <hi rend="underline">Two respectable farmers</hi> of the county are now and have been allways ready &amp; willing to <hi rend="underline">swear</hi> befor <hi rend="underline">a</hi> <hi rend="underline">court</hi> of <hi rend="underline">Justice</hi> that they heard a citizen, say in a threatening manner that he intended to kill your petitioner upon sight, justifies your petitioner and the various citizens, and neighbors. <hi rend="str">to</hi> in asking your Excellency to remit said fine. <date when="1864-07-25">July 25<hi rend="sup">th</hi> 1864</date></p>
+<p><milestone unit="column" n="2"/><cb n="1"/>W M&gt; Romans
+<lb/>Jos D. Johnston
+<lb/>Nixon Palmer
+<lb/>A B Brown
+<lb/>Overton Terrill
+<lb/>Thos. Anderson
+<lb/>William Turner
+<lb/>Jno Q Dudley
+<lb/><cb n="2"/>M. L. Rice
+<lb/>Alex Sisk
+<lb/>Henry Suggins
+<lb/>B. F. Jennings
+<lb/>G. E. Hackley
+<lb/>John W Letcher
+<lb/>H. S. Burnam
+<lb/>Jas S Manson S G C<pb/>
+<lb/><cb n="1"/>R. Hackley
+<lb/>Jas. N. Aldridge
+<lb/>S. O. Middleton
+<lb/>Jno. W. Dunn
+<lb/>Isham Burtlett
+<lb/>J. A. Beagley
+<lb/>N Sandifer
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Collier
+<lb/>B T Pheriss
+<lb/>J Ray
+<lb/>E P Walker
+<lb/>Marshal Ray jr
+<lb/>William Lusk
+<lb/>Alexander <unclear>Holsclaver</unclear>
+<lb/>William Comiskey
+<lb/>J B Arnold
+<lb/>T Bowin
+<lb/><cb n="2"/>R. L. Smith
+<lb/>W S Miller Jr
+<lb/>Cliff Anderson
+<lb/>James Ward
+<lb/>W. H. Wherritt clk Co ct
+<lb/>W D Hopper clk Cir. Ct.
+<lb/>Jas A Anderson
+<lb/>Coleman Hicks
+<lb/>L R M<hi rend="sup">c</hi>Murtry<milestone unit="column" n="1"/><pb/></p>
+<p>Garrard Cir Ct vs D. Duggins
+<lb/>$50
+<lb/>Remt<hi rend="sup">d</hi>.
+<lb/><date when="1864-07-29">29<hi rend="sup">th</hi> July/64</date></p>
+  </body>
+ </text>
+</TEI>

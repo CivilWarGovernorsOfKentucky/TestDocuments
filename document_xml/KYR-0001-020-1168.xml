@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1168"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">James C. Morris et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10636</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG20-328</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Lexington, Fayette County, Kentucky</placeName>
+    <date when="1861-06-28">28 June 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Lexington Ky. <date when="1861-06-28">June 28" 1861</date>
+<lb/>Hon. B. Magoffin, Governer of Kentucky.</p>
+<p>I understand that there has been presented to you a petition for the pardon of Mary Kelly, who was convicted, at the last <date when="1861-02">Feb.</date> Term of the Fayette Circuit Court, of stealing and sentenced to 12 mo. confinement in the Penetentiary.</p>
+<p>From what I know of the case I have no doubt she is a proper subject of executive clemency. She has been addicted for some time past to intemperance in drinking and I am satisfied that she was not aware of the crime she was committing and that, in her case there was an absence of the intent to steal which is necessary to constitute the crime. I hope your Excellency will think that the law ought not to be enforced as strictly in the case of a poor, ignorant woman as in ordinary cases. I believe this to be a case in which the pardoning power ought to be exercised and I hope that you will think it consistent with your duty to do so.</p>
+<p>Yours very respectfully,<pb/></p>
+<p>We the undersigned recommend the within case to Your Excellency's clemency.</p>
+<p>Jas. C Morris -- 
+<lb/>Wickliffe Cooper
+<lb/>R W Hanson
+<lb/>L Gibbons
+<lb/>R W Will
+<lb/>Geo B Kinkead
+<lb/>M Lawrance
+<lb/>A M Murray
+<lb/>H Lawrance
+<lb/>Sam Lawrance
+<lb/>A O Rolands
+<lb/>W H Lusby
+<lb/>M. S. Keith
+<lb/>James N Pond</p>
+  </body>
+ </text>
+</TEI>

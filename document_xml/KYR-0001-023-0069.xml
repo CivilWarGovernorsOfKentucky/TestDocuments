@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-023-0069"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">J. Stoddard to P. E. Royse</title>
+    <title level="a" type="parallel">CWG2982</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, 1859-1862</collection>
+      <idno>MG1-266 to MG1-267</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="--07-22">22 July </date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Elgin <date when="--07-22">July 22<hi rend="sup">d</hi></date>
+<lb/>Rev P E Roy<hi rend="str">c</hi>se
+<lb/>Dear Sir</p>
+<p>Yours date 18 was duley resc<hi rend="underline">vd</hi> and is noted In answer to Your letter consirning W<hi rend="underline"><hi rend="sup">m</hi></hi> Jaques if it be the Same Wm Jaques as I canot doubt in Givin you ref<hi rend="underline"><hi rend="sup">r</hi></hi> to me Must be ^my^ Wife's brother He left here one Year ago last F<hi rend="underline"><hi rend="sup">eb</hi></hi> or March and has never been heard from him Since all Given him up for dead as Nothing was or has been Said of his -- whereabots he gone Wm J was reared and brought up tendrly and well of res<hi rend="underline">p</hi> parents in England but <hi rend="str">Is</hi> like Many others<pb/>
+<lb/>who came to this Cunty Soon Spent all they had in not knowing how to Manage their affairs he is now Cast upon the pub,, for Suport Nothing to help himSelf with and few relations to do any thing for him if they were <hi rend="underline">able</hi> as for me myself I cannot do anything at present to help <unclear/> One I have Sent your letter to Mr Godsmak that Marred his Sister in Mc<hi rend="underline">h</hi> and what will be "the result I cannot Say May be they will write you alSo pleas write Me again</p>
+<p>Yours Most
+<lb/>Truly
+<lb/>J Stoddard<pb/></p>
+<p>P,, S Rev<hi rend="underline"><hi rend="sup">d</hi></hi> C Lakey married one of is SiSter they live in your State 20 miles South Clevelad his AddrSSr is
+<lb/>Revd Charles Lakey
+<lb/>Seville Ohio
+<lb/>J,, S</p>
+  </body>
+ </text>
+</TEI>

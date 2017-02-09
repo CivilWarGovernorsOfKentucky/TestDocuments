@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0381"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">J. J. Perrin to James W. Tate</title>
+    <title level="a" type="parallel">CWG2729</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Civil Appointments, 1859-1862</collection>
+      <idno>MG4-360 to MG4-361</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date when="1862-03-10">10 March 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><note place="header">No 635.)</note>
+<lb/>Louisville, Ky. <date when="1862-03-10">March 10<hi rend="sup">th</hi> 1862.</date>
+<lb/>Mr Ja<hi rend="sup">s</hi> W. Tate
+<lb/>ass<hi rend="sup">t</hi>. Secretary
+<lb/>of State,
+<lb/>Dear Sir,</p>
+<p>An invitation that you addressed to me last October, was mislaid amongst my papers, inviting me to renew application, for a new Commission from his Excellency, Governor M<hi rend="sup">c</hi>Goffin, I avail myself of the opportunity, and would be very much obliged to you, to present my application to his Excellency, for a renewal of the same; likewise, would be obliged to you to tell me how much, I must send if it is time enough yet for that application.</p>
+<p>I remain Sir,
+<lb/>with much respect
+<lb/>most obed<hi rend="sup">t</hi> Serv<hi rend="sup">t</hi>,,
+<lb/>J. J. Perrin
+<lb/>asst Vice consuul <hi rend="underline">Fr</hi></p>
+<p>Hon Secretary of State
+<lb/>Frankfort, Ky,</p>
+  </body>
+ </text>
+</TEI>

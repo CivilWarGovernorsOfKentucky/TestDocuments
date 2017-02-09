@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1407"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">C. R. Priest et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10875</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Amanda Boczar</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG21-366 to MG21-367</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency Beriah Magoffin,
+<lb/>Governor of the State of Kentucky,</p>
+<p>We the undersigned citizens of Henderson County petition your Excellency to grant a respite to William Allison Sandefur, for the period of twelve months, upon Judgments rendered against him at the last June Term of the Henderson Circuit Court in the sum of Twenty Dollars ($20) each in the following named cases to-wit:
+<lb/><table rend="rules">
+<row>
+	<cell>Commonwealth</cell>
+	<cell>vs</cell>
+	<cell>W. A. Sandefur</cell>
+	<cell>No</cell>
+	<cell>1</cell>
+</row>
+<row>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>2</cell>
+</row>
+<row>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>3</cell>
+</row>
+<row>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>4</cell>
+</row>
+<row>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>5</cell>
+</row>
+<row>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>6</cell>
+</row>
+<row>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>8</cell>
+</row>
+</table></p>
+<p>Your petitioners would state that the defendant plead "guilty" to the above named indictments; that <hi rend="str">in</hi> <hi rend="str">conse</hi> monetary affairs, in consequence of the passage of the Stay Law, at a late session of Legislature, have become so stringent, that this Deffendant finds it impossible to meet the payment of said fines.</p>
+<p>Your petitioners believe that Mr Sandefur<pb/>
+<lb/>is a worth object for the exercise of your Executive clemency and, therefore, pray that the said respite may be granted.</p>
+<p>C R Priest
+<lb/>J. Preublinger
+<lb/>J E Rickells
+<lb/>R. M. Allen
+<lb/>Wm B. Beatty
+<lb/>S A Sugg
+<lb/>B B Williams
+<lb/>A. S. Nunn
+<lb/>Edw<hi rend="sup">d</hi> H Hopkins
+<lb/>John Reuby
+<lb/>P. A Blackwell
+<lb/>R. A. Armistead
+<lb/>Harry Yeaman
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> <hi rend="underline">Steele</hi>
+<lb/>Cyrus W. Steele
+<lb/>C A Brown
+<lb/>John. M<hi rend="underline"><hi rend="sup">c</hi></hi>Bride
+<lb/>W<hi rend="sup">m</hi> R Johnson
+<lb/>Ja<hi rend="underline"><hi rend="sup">s</hi></hi>. H. Holloway
+<lb/>G.. W.. Collins
+<lb/>J. L. Hicks
+<lb/>G. F. C. Mallaore
+<lb/>W<hi rend="sup">m</hi> P Smith
+<lb/>B Brashear
+<lb/>W. S. Johnson
+<lb/><hi rend="underline">Jas F. Clay</hi><pb/></p>
+<p>Henderson Cir. Ct
+<lb/>Respite 12 mo
+<lb/>B. M. 
+<lb/>7. Judgnt each $20.
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> A. Sandefur
+<lb/>Iss<hi rend="sup">d</hi>. <date when="1861-09-10">Sept 10. 1861</date></p>
+  </body>
+ </text>
+</TEI>

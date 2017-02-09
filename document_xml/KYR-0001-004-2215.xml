@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2215"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Opehlia Smith to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6852</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR15-25</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Danville, Boyle County, Kentucky</placeName>
+    <date when="1865-08-14">14 August 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency
+<lb/>Thomas E Bramlette
+<lb/>Governor of Kentucky</p>
+<p>Your petitioner, Mrs. Ophelia Smith, of Danville, respectfully shews that at the <date when="1865-08">August Term, 1865</date>, of the Boyle Circuit Court, she was indicted by the Grand Jury for failing to "put up Tavern rates" in her Hotel.</p>
+<p>As she Could not gain say the charge, She went into Court and Confessed a judgment for $60 -- that being the fine imposed, as she was informed for that offense.</p>
+<p>Your petitioner now shews &amp; states that she was utterly ignorant of the existence of such a statute -- indeed she has never seen them, to this day, posted in any Hotel, And, therefore, her violation of law was unintentional and in ignorance that such was in force.</p>
+<p>She feels that the costs of this case and the fee to be paid to the Comlths atto: would be punishment enough under the Circumstances, and therefore respectfully prays Your Excellency to remit so much of the said Judgment as may be within the executive discretion.</p>
+<p>Danville, <date when="1865-08-14">Aug 14 1865</date>
+<lb/>Ophelia Smith<pb/></p>
+<p>The Undersigned, Citizens of Danville, Know Mr<hi rend="sup">s</hi> O Smith, of the 'Chiles House' -- beleive the statements of her Petition above to be true, and unite with her asking Executive clemeny in the Case</p>
+<p><unclear>Ms chrisman</unclear>
+<lb/>L P Baker
+<lb/>E L VanWinkle
+<lb/>A. H. Sneed
+<lb/>Jno. W. Shelby
+<lb/>W R Boid</p>
+<p>I concure in the prayer of the petition</p>
+<p>Jno S VanWinkle</p>
+<p>Boyle Cir Ct
+<lb/>vs
+<lb/>Ophelia Smith
+<lb/>$60,
+<lb/>Remitted <date when="1865-12-15">15 Dec/65</date>
+<lb/>Remit</p>
+  </body>
+ </text>
+</TEI>

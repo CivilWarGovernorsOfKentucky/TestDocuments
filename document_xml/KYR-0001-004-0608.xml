@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0608"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">J. H. Lowry and Ben T. Perkins to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG4727</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR9-466</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Elkton, Todd County, Kentucky</placeName>
+    <date when="1864-03-09">9 March 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Elkton <date when="1864-03-09">March 9<hi rend="sup">th</hi> 1864</date>
+<lb/>Hon Thos. E. Bramlette
+<lb/>Dear Sir</p>
+<p>Enclosed find the affidavits of Jas. C. Bryant, Jas. D. Christian (Sheriff of the County) and Dr. W. P. Prewitt touching the enlistment of John Bryant in the Federal Army and his death from wounds recd in the battle of Chicamauga. The witnesses are respectable reliable Gentleman and we have not the least doubt but the proof will be satisfactory and sincerely hope that you will remit the Judgment in favor of the Commonwealth vs James C. Bryant on forfeited recognizance for his unfortunate son- he is a very poor industrious hardworking man with a large family to support for further particulars of this case we would refer you to papers heretofor filed in your office Since writing the above we learn that Dr Prewitt is absent from the town hence he has not made the affidavit with Mr Christian, but will if necessary Swear to the Same facts, as he made those statements to one of us. Let us hear from you at your earliest convenience.</p>
+<p>Very truly
+<lb/>your friends
+<lb/>J. H. Lowry
+<lb/>Ben T. Perkins</p>
+  </body>
+ </text>
+</TEI>

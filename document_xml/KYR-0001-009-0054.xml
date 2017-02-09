@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-009-0054"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">H. G. Blasdel, Thanksgiving Proclamation</title>
+    <title level="a" type="parallel">CWG1209</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Christina K Adkins</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's Official Correspondence File, 1863-1867</collection>
+      <idno>BR1-110</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Carson City, Ormsby County, Nevada</placeName>
+    <date when="1865-11-17">17 November 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Proclamation/Legislation</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>THANKSGIVING PROCLAMATION
+<lb/><figure type="seal"><ab>THE GREAT SEAL OF THE STATE OF
+<lb/>ALL FOR OUR COUNTRY
+<lb/>NEVADA.</ab></figure>
+<lb/>By His Excellency, H. G. Blasdel, Governor of Nevada.<figure type="hr"/></p>
+<p>WHEREAS, It has become a well established and commendable custom of the people of the several States comprising the Federal Union, once at least during each year, to unite in public thanksgiving and praise to Almighty God for His merciful kindness and His preserving care over us as a people; and,</p>
+<p>WHEREAS, During the present year our nation has been signally blessed in its preservation, in the ability and faithfulness of its rulers; in the restoratiion of peace throughout its length and breadth; in the establishment of <hi rend="italic">universal freedom;</hi> in the reward of honest industry; in the abundant yield of our agriculture, manufactures and mines; and in the advancement of all that leads to greatness, peace and general prosperity.</p>
+<p>THEREFORE, In pursuance of the aforesaid custom, and of the Proclamation of ANDREW JOHNSON, President of the United States, I do hereby appoint and proclaim
+<lb/>THURSDAY, the <date when="1865-12-07">7th day of December next,</date>
+<lb/>As a day on which the people of Nevada may and ought to join with those of her sister States in PUBLIC THANKSGIVING to our Common Benefactor.</p>
+<p>Let that day be observed throughout the State by appropriate exercies in all our churches, by social festivities, and everywhere, by manifestations of profoundest gratitude, for though, during the year we have lost and continue to mourn the death of our late beloved President, ABRAHAM LINCOLN, yet no occasion since our national career began, has afforded so great cause to acknowledge the guidance and protection of our Heavenly Father as does the present.</p>
+<p>Then let our hearts well up with praise for all the good our land enjoys, and our hands appropriately provide for the destitute, suffering and unfortunate among us.</p>
+<p><figure type="seal"/></p>
+<p>IN TESTIMONY WHEREOF, I have hereunto set my hand, and caused to be affixed the Great Seal of the State of Nevada. Done at Carson City, this <date when="1865-11-17">17th day of November, A. D. 1865</date>.</p>
+<p>HENRY G. BLASDEL,
+<lb/>Governor of Nevada.
+<lb/>BY THE GOVERNOR:
+<lb/>C. N. NOTEWARE, Secretary of State.</p>
+  </body>
+ </text>
+</TEI>

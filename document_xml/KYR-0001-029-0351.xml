@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0351"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Bridgeford &amp; Co. to Phil Swigert</title>
+    <title level="a" type="parallel">CWG8803</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Governor's Official Correspondence File, Petitions for Pardons, Remissions, and Respites, 1862-1863</collection>
+      <idno>R4-66</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date when="1863-05-27">27 May 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Louisville <date when="1863-05-27">May 27<hi rend="sup">th</hi> 1863</date>
+<lb/>Mr Phil Swigert
+<lb/>Frankfort</p>
+<p>Dear Sir. During the last term of our court here we had a man in our employ by the name of John Kavanaugh, who together with another man by the name of White had assaulted a cut a man living here some twelve months since and for which offense they were both sentenced to the penitentiary. A petition was immedately gotten up on behalf of White securing his pardon after which a petition was drawn in behalf of Kavanaugh and laid before the governor but up to this time he has not acted upon it or at least has not returned an answer as to whether or not he will exercise clemency on the case. Mrs. Kavanaugh wife of John Kavanaugh carried the petition in person to the Governor and he told her he would see what he could do and let her know and that it was not necessary for her to remain in Frankfort. She came on home and since that time she has heard nothing from the Governor. It was clearly proven in the case that White and not Kavenaugh did the cutting. Kavenaugh has been in our employment for some time and we regard him as being a very steady hard working sober and industrious man, He was as good laborer as we had in our employment, and having a wife and several small children who are entirely dependent up<hi rend="str">p</hi>on him for sup-<pb/>
+<lb/>port we would like to secure his release. We have written to the Govenor again today and have refered him to you provided he wishes to know anything concerning us. We would take it as a great favor if you would see him and use your influence on behalf of Kavanaugh and then write as the result. Your attention will oblige</p>
+<p>Yours truly
+<lb/><hi rend="underline">Bridgford &amp; Co.</hi></p>
+  </body>
+ </text>
+</TEI>

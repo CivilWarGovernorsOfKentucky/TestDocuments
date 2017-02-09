@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0293"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">G. L. Shanklin to Daniel C. Wickliffe</title>
+    <title level="a" type="parallel">CWG8745</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Governor's Official Correspondence File, Petitions for Pardons, Remissions, and Respites, 1862-1863</collection>
+      <idno>R3-431 to R3-432</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Nicholasville, Jessamine County, Kentucky</placeName>
+    <date when="1863-03-24">24 March 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Nicholasville Ky
+<lb/><date when="1863-03-24">March 24<hi rend="sup">th</hi> 1863</date>
+<lb/>D. C. Wickliffe Esq<hi rend="underline"><hi rend="sup">r</hi></hi>
+<lb/>DSir</p>
+<p>Hugh T. M<hi rend="underline"><hi rend="sup">c</hi></hi>Cabe of this county has been fined for a Breach of the peace &amp; herewith presents his Petition to the Go<hi rend="underline"><hi rend="sup">v</hi></hi> asking that his fine may be remitted</p>
+<p>I know M<hi rend="underline"><hi rend="sup">r</hi></hi> M<hi rend="sup">c</hi>Cabe will and whilst he sometimes indulges to excess in the use of ardent spirits (and I suppose this was the case at the time the offence was committed) he is an inoffensive man and when not under that influence, a very peaceable<pb/>
+<lb/>man, He has for some time past been confined to his home by severe diseases and is now quite feble. He has for several months past been sober and I hope in future so continues. I hope you may present his case to the Go<hi rend="underline"><hi rend="sup">v</hi></hi> and urge the remission of the fine if consistent with his official dutys</p>
+<p>By so doing you will confer a favor up me and many of your friends</p>
+<p>Yours truly
+<lb/>G L Shanklin</p>
+  </body>
+ </text>
+</TEI>

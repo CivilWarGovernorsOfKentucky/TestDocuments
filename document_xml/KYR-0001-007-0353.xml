@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0353"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Christian von Hesse to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG2018</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Appointments by the Governor, Civil Appointments, 1863-1867</collection>
+      <idno>BR2-256 to BR2-257</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>New York, New York County, New York</placeName>
+    <date when="1865-02-03">3 February 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Christian von Hesse,
+<lb/>Attorney &amp; Counsellor. Notary Public.
+<lb/>39 Nassau Street, New York, <date when="1865-01-16">Jan 16, 1865</date></p>
+<p>To his Excellency
+<lb/>Thos. E Bramlette
+<lb/>Governor of the State
+<lb/>of Kentucky</p>
+<p>I hereby apply to your Excellency to appoint me a Commissioner for the State of Kentucky residing in the City of New York</p>
+<p>I have the honor to remain
+<lb/>Your Excellencys
+<lb/>most obedient servant</p>
+<p>Christian von Hesse</p>
+<p>Albany <date when="1865-02-03">Febry 3<hi rend="sup">d</hi> 1865</date></p>
+<p>Mr Von Hesse is highly<pb/>
+<lb/>recommended to me by my friend Mr. Hall of New York City</p>
+<p>R E Fulton
+<lb/>Governor of N. Y.<pb/></p>
+<p>Com<hi rend="sup">r</hi> Deeds
+<lb/>Christian von Hesse
+<lb/>New York
+<lb/>appt<hi rend="sup">d</hi>
+<lb/><date when="1865-02-09">9<hi rend="sup">th</hi> Feby 1865</date></p>
+  </body>
+ </text>
+</TEI>

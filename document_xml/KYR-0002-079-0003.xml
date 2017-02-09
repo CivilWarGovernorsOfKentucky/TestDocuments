@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-079-0003"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">A. J. McGrorty to Philip Swigert</title>
+    <title level="a" type="parallel">CWG14002</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>Enrolled Militia Records 1864 - 1865 ; Adair, Allen, Boyle, Daviess, Garrard, Owen, Pendleton, and Shelby counties</collection>
+      <idno>Flat Box 7, Folder 861 BOYLE COUNTY DANVILLE RIFLEMEN HOME GUARD CPT A.S. McGRORTY 9TH Rgt Ky Militia</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Danville, Boyle County, Kentucky</placeName>
+    <date when="1861-06-18">18 June 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Danville Ky <date when="1861-06-18">June 18/61</date>
+<lb/>P. Swigert Esqr M. B.
+<lb/>Dr Sir</p>
+<p>We have organised a Military Company in this place <hi rend="underline">as a Home Guard</hi> and have named it the "Danville Riflemen" -- We desire to receive Such information from you as will enable us to obtain our arms." our company wants the <hi rend="underline">U.S</hi>. <hi rend="underline">endfield</hi> or <hi rend="underline">Minie</hi> Rifle <hi rend="underline">with</hi> <hi rend="underline">Sword</hi> <hi rend="underline">Bayonet</hi>: can the Military Board furnish us with either of these Rifles? at What time can we get them and <hi rend="str">and</hi> the steps necessary for us to take, before forwarding our application to you -- we wish to get the arms before the <date when="1861-07-04">4<hi rend="sup">th</hi> July</date> an early response therefore is desired to these inquiries by </p>
+<p>Yours truly
+<lb/>A. J. M<hi rend="sup">c</hi>Grorty
+<lb/><hi rend="underline">Capt. D. Rifles</hi></p>
+<p>Refer to Cal. J. Garrard State Treasurer<pb/>
+<lb/>4
+<lb/>Danville Riflemen
+<lb/>A. J. M<hi rend="sup">c</hi>Grorty
+<lb/>Danville Riflemen</p>
+<p>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> <unclear>of army</unclear> <date when="1861-06-20">20<hi rend="sup">th</hi> June 1861</date>.
+<lb/>Boyle</p>
+  </body>
+ </text>
+</TEI>

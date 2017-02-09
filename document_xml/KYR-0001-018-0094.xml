@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-018-0094"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John W. Finnell to Nathaniel Gaither, Jr.</title>
+    <title level="a" type="parallel">CWG8160</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Military Appointments, 1859-1862</collection>
+      <idno>MG6-187 to MG6-188</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1861-11-16">16 November 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><table rend="rules">
+<row>
+	<cell>  </cell>
+	<cell><hi rend="underline">Colonel</hi></cell>
+	<cell> </cell>
+</row>
+<row>
+	<cell><date when="1861-11-16">1861 Novr 16</date>_</cell>
+	<cell>John M. Harlan</cell>
+	<cell>N<hi rend="underline"><hi rend="sup">o</hi></hi> 1</cell>
+</row>
+<row>
+	<cell> </cell>
+	<cell><hi rend="underline">Lieut: Colonel</hi></cell>
+	<cell> </cell>
+</row>
+<row>
+	<cell>"</cell>
+	<cell>W<hi rend="underline"><hi rend="sup">m</hi></hi> H. Hays</cell>
+	<cell>"1</cell>
+</row>
+<row>
+	<cell> </cell>
+	<cell><hi rend="underline">Major</hi></cell>
+	<cell>"1</cell>
+</row>
+<row>
+	<cell>"</cell>
+	<cell>Gabrael C. Wharton</cell>
+	<cell> </cell>
+</row>
+<row>
+	<cell> </cell>
+	<cell><hi rend="underline">Captains</hi>-</cell>
+	<cell> </cell>
+</row>
+<row>
+	<cell>15_</cell>
+	<cell>W<hi rend="underline"><hi rend="sup">m</hi></hi> W. Dowden</cell>
+	<cell>1</cell>
+</row>
+<row>
+	<cell>"</cell>
+	<cell>Archibald Means</cell>
+	<cell>2</cell>
+</row>
+<row>
+	<cell>16-</cell>
+	<cell>Charles Stewart</cell>
+	<cell>3</cell>
+</row>
+<row>
+	<cell>"-</cell>
+	<cell>Edwin K. Stephens</cell>
+	<cell>4</cell>
+</row>
+<row>
+	<cell>"-</cell>
+	<cell>John Spaulding</cell>
+	<cell>5</cell>
+</row>
+<row>
+	<cell>"-</cell>
+	<cell>Joseph R. Snider</cell>
+	<cell>6</cell>
+</row>
+<row>
+	<cell>"-</cell>
+	<cell>W<hi rend="underline"><hi rend="sup">m</hi></hi> T. M<hi rend="underline"><hi rend="sup">c</hi></hi>Clure</cell>
+	<cell>7</cell>
+</row>
+<row>
+	<cell>"-</cell>
+	<cell>Noah Cartright</cell>
+	<cell>8</cell>
+</row>
+<row>
+	<cell>"-</cell>
+	<cell>Manin C Taylor</cell>
+	<cell>9</cell>
+</row>
+<row>
+	<cell>"-</cell>
+	<cell>Henry F. Kalfus</cell>
+	<cell>10</cell>
+</row>
+<row>
+	<cell>"-</cell>
+	<cell>Aaron S. Bayne</cell>
+	<cell>11</cell>
+</row>
+<row>
+	<cell>"-</cell>
+	<cell>Hal: Palmer</cell>
+	<cell>12</cell>
+</row>
+<row>
+	<cell>"-</cell>
+	<cell>Geo: W. Riley</cell>
+	<cell>13</cell>
+</row>
+<row>
+	<cell>"-</cell>
+	<cell>W<hi rend="sup">m</hi> R. Hunter</cell>
+	<cell>14</cell>
+</row>
+<row>
+	<cell>"-</cell>
+	<cell>Franklin S. Hill</cell>
+	<cell>15</cell>
+</row>
+<row>
+	<cell>"-</cell>
+	<cell>William Tweddle</cell>
+	<cell>16</cell>
+</row>
+<row>
+	<cell>"-</cell>
+	<cell>Rich<hi rend="sup">d</hi> C. Nash</cell>
+	<cell>17</cell>
+</row>
+<row>
+	<cell>"-</cell>
+	<cell>Beauford R Pennington</cell>
+	<cell>18</cell>
+</row>
+<row>
+	<cell>"-</cell>
+	<cell>Seth P. Bevil</cell>
+	<cell>19</cell>
+</row>
+</table><pb/></p>
+<p><table rend="rules">
+<row>
+	<cell> </cell>
+	<cell><hi rend="underline">First Lieutenants</hi></cell>
+	<cell> </cell>
+</row>
+<row>
+	<cell><date when="1861-11-15">1861 Novr 15</date>-</cell>
+	<cell>William Milward</cell>
+	<cell>1</cell>
+</row>
+<row>
+	<cell>"</cell>
+	<cell>James T. Womack</cell>
+	<cell>2</cell>
+</row>
+<row>
+	<cell>16-</cell>
+	<cell>Giles A. Gallup</cell>
+	<cell>3</cell>
+</row>
+<row>
+	<cell>"-</cell>
+	<cell>Walton F. Stafford</cell>
+	<cell>4</cell>
+</row>
+<row>
+	<cell>"-</cell>
+	<cell>John D. Lannahan</cell>
+	<cell>5</cell>
+</row>
+<row>
+	<cell>"-</cell>
+	<cell>Benj<hi rend="underline"><hi rend="sup">a</hi></hi> H Howser</cell>
+	<cell>6</cell>
+</row>
+<row>
+	<cell>"-</cell>
+	<cell>James B. Foreman</cell>
+	<cell>7</cell>
+</row>
+<row>
+	<cell>"-</cell>
+	<cell>William B. Wood</cell>
+	<cell>8</cell>
+</row>
+<row>
+	<cell>"-</cell>
+	<cell>James A. T. M<hi rend="sup">c</hi>Grath</cell>
+	<cell>9</cell>
+</row>
+<row>
+	<cell>"-</cell>
+	<cell>John B. M<hi rend="sup">c</hi>Dowell</cell>
+	<cell>10</cell>
+</row>
+<row>
+	<cell>"-</cell>
+	<cell>W<hi rend="sup">m</hi> V. Wolfe</cell>
+	<cell>11</cell>
+</row>
+<row>
+	<cell>"-</cell>
+	<cell>James Wharton</cell>
+	<cell>12</cell>
+</row>
+<row>
+	<cell>"-</cell>
+	<cell>W<hi rend="sup">m</hi> Hupp</cell>
+	<cell>13</cell>
+</row>
+<row>
+	<cell>"-</cell>
+	<cell>James M Fiddler</cell>
+	<cell>14</cell>
+</row>
+<row>
+	<cell>"-</cell>
+	<cell>Charles W. M<hi rend="sup">c</hi>Kay</cell>
+	<cell>15</cell>
+</row>
+<row>
+	<cell>"-</cell>
+	<cell>Henry Walton</cell>
+	<cell>16</cell>
+</row>
+<row>
+	<cell>"-</cell>
+	<cell>W<hi rend="underline"><hi rend="sup">m</hi></hi> E. Kelly</cell>
+	<cell>17</cell>
+</row>
+<row>
+	<cell>"-</cell>
+	<cell>W<hi rend="underline"><hi rend="sup">m</hi></hi> Shiveley</cell>
+	<cell>18</cell>
+</row>
+<row>
+	<cell>"-</cell>
+	<cell>Andrew Thompson</cell>
+	<cell>19</cell>
+</row>
+<row>
+	<cell> </cell>
+	<cell><hi rend="underline">Second Lieutenants</hi></cell>
+	<cell> </cell>
+</row>
+<row>
+	<cell>15-</cell>
+	<cell>Edward Knoble</cell>
+	<cell>1</cell>
+</row>
+<row>
+	<cell>"-</cell>
+	<cell>William Price</cell>
+	<cell>2</cell>
+</row>
+<row>
+	<cell>16-</cell>
+	<cell>W<hi rend="sup">m</hi> H. Stratton</cell>
+	<cell>3</cell>
+</row>
+<row>
+	<cell>"-</cell>
+	<cell>David L. Cook</cell>
+	<cell>4</cell>
+</row>
+<row>
+	<cell>"-</cell>
+	<cell>Frank D Ganetty</cell>
+	<cell>5</cell>
+</row>
+<row>
+	<cell>"-</cell>
+	<cell>W<hi rend="underline"><hi rend="sup">m</hi></hi> H. harrison</cell>
+	<cell>6</cell>
+</row>
+<row>
+	<cell>"-</cell>
+	<cell>Ahemaaz H. Chambers</cell>
+	<cell>7</cell>
+</row>
+</table><pb/></p>
+<p><table rend="rules">
+<row>
+	<cell> </cell>
+	<cell><hi rend="underline">Second Lieutenants</hi></cell>
+	<cell> </cell>
+</row>
+<row>
+	<cell><date when="1861-11-16">1861 Novr 16</date>-</cell>
+	<cell>Charles S. Easem</cell>
+	<cell>8</cell>
+</row>
+<row>
+	<cell>"</cell>
+	<cell>Francis A. Winlock</cell>
+	<cell>9</cell>
+</row>
+<row>
+	<cell>"</cell>
+	<cell>John B Thompson</cell>
+	<cell>10</cell>
+</row>
+<row>
+	<cell>"</cell>
+	<cell>W<hi rend="sup">m</hi> H Booker</cell>
+	<cell>11</cell>
+</row>
+<row>
+	<cell>"</cell>
+	<cell>James F. Funk</cell>
+	<cell>12</cell>
+</row>
+<row>
+	<cell>"</cell>
+	<cell>Stephen N Dorsey</cell>
+	<cell>13</cell>
+</row>
+<row>
+	<cell>"</cell>
+	<cell>Edw<hi rend="sup">d</hi> K. Ferrill</cell>
+	<cell>14</cell>
+</row>
+<row>
+	<cell>"</cell>
+	<cell>Ben R. Smith</cell>
+	<cell>15</cell>
+</row>
+<row>
+	<cell>"</cell>
+	<cell>Rich<hi rend="sup">d</hi> Watts</cell>
+	<cell>16</cell>
+</row>
+<row>
+	<cell>"</cell>
+	<cell>John Myers</cell>
+	<cell>17</cell>
+</row>
+<row>
+	<cell>"</cell>
+	<cell>Henry W. Barry</cell>
+	<cell>18</cell>
+</row>
+<row>
+	<cell>"</cell>
+	<cell>Clement Funk</cell>
+	<cell>19</cell>
+</row>
+</table></p>
+<p>Hon: Nat. Gaither Jr
+<lb/>Sec: of State
+<lb/>I send
+<lb/>One Colonels' Com:
+<lb/>One L<hi rend="underline"><hi rend="sup">t</hi></hi> Colonels' Com:
+<lb/>One Majors' Com:
+<lb/>Nineteen Captains' Com<hi rend="sup">s</hi>:
+<lb/>Nineteen first Lieutenants' Coms:
+<lb/>Nineteen Second Lieutenants Coms:</p>
+<p>- Which will please have signed at your earliest convenience.</p>
+<p>Very Resp<hi rend="sup">y</hi>
+<lb/>John W. Finnell
+<lb/>Adjt Genl
+<lb/>By Thos. Page Clk</p>
+<p>Adj<hi rend="sup">t</hi> Gen<hi rend="sup">ls</hi> Office
+<lb/>Frankfort Ky
+<lb/><date when="1861-11-16">16 Novr 1861</date><pb/></p>
+<p>Entries Made
+<lb/><date when="1861-11-16">Nov. 16. 1861</date></p>
+  </body>
+ </text>
+</TEI>

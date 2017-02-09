@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1887"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Alveus Maynard to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG11355</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Bradley Strait</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG23-303 to MG23-304</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency B Magoffin Governor of the Commonwealth of Kentucky </p>
+<p>Your petitioner Alvice Manard would respectfully represent unto your excellency that at the <date when="1862-04">April term 1862</date> of the Boyd Circuit Court Judgment went against him for the sum of three hundred dollars $300 --, upon the forfeited recognizance for the appearance of Henderson Manard, charged with having counterfeit money in his possession with intent to pass, He states that said Manard is a resident of Indiana, and that last spring the petitioner went to his place of residence to compell him to appear and answer the charge but was unable to see him since which term he is informed said Manard has joined the Federal army.</p>
+<p>He states that he has sufered heavy<pb/>
+<lb/>losses from high waters, and should be be compelled to pay the Judgment it ^will^ work great hardship and injury to him He aske's your Excellency in consideration of the premises to remit the Judgment and as in duty bound will ever pray &amp;c</p>
+<p>Alveus Maynard </p>
+<p>Louisa <date when="1862-05-03">May 3<hi rend="sup">d</hi> 1862</date>
+<lb/>Hon B Magoffin 
+<lb/>Dear Sir</p>
+<p>We are well acquanted with Mr. Mainard, and know him to be a reliable and clever gentleman, and we cordially join in the petition to your excellency to remit the Judgment </p>
+<p><milestone unit="column" n="2"/><cb n="1"/>S Short
+<lb/>William Sandy
+<lb/>O W Martin
+<lb/>James Seaton
+<lb/>Alex Smith
+<lb/><cb n="2"/>John M Rice
+<lb/>John Wilson
+<lb/>George N. Brown
+<lb/><hi rend="underline">W. A. Foster</hi>
+<lb/>I L Berry<milestone unit="column" n="1"/><pb/>
+<lb/>James H Riely 
+<lb/><hi rend="underline">Ja</hi><hi rend="underline"><hi rend="sup">s</hi></hi><hi rend="underline">.</hi> M. <hi rend="underline">Rice</hi><pb/></p>
+<p>Remitted 
+<lb/>B. M.</p>
+<p>Boyd Cir. Ct
+<lb/>$300. } Recog
+<lb/>A Maynard 
+<lb/>Issd <date when="1862-05-13">May 13 1862</date></p>
+  </body>
+ </text>
+</TEI>

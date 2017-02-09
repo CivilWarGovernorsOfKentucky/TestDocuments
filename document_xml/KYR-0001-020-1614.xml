@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1614"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Sam Crowder et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG11082</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Andrew P Patrick</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG22-266 to MG22-267</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Union County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency Beriah M<hi rend="underline"><hi rend="sup">c</hi></hi>Goffin
+<lb/>Gov. of the Commonwealth of Ky
+<lb/>Dear Sir</p>
+<p>Your petitioners the undersigned citizens of Union County Ky would state that on the <date when="1861-10-10">10<hi rend="sup">th</hi> day of October 1861</date> the honorable Judge of the Union Circuit Court rendered a Judgement of ten Dollars against John Gough Sr charged with the offence of selling liquor ^in quantity less than 1/2 gallon^ <hi rend="str">to slaves</hi> Now we the undersigned citizens of aforesaid believing the Old Man -- John Gough Sr. to be innocent and that said fine is a great hardship do humbly petition your Excellency to remit and discharge said fine Mr Gough is a very poor man and a sacrifice of this property must be made to pay said fine</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Sam Crowder
+<lb/>Hiram Senour
+<lb/>Georg Schneider
+<lb/><unclear/> Gough
+<lb/><unclear>Guss</unclear> Taylor
+<lb/>G T Waller
+<lb/>John Abey 
+<lb/>Jas A. Wathen
+<lb/>T. Austin
+<lb/>Mark Smith
+<lb/>Rob<hi rend="sup">t</hi> P Catlett
+<lb/>M. M. Berry
+<lb/>M L. Shanks
+<lb/>C. L. Buckman
+<lb/><cb n="2"/>Ben, F, Cissell
+<lb/>T. N. Chapmen
+<lb/>S. S. Berry
+<lb/>J S. Berry
+<lb/>G. Fahrni
+<lb/>E D <unclear/>
+<lb/>E Y Cowgill
+<lb/>Sam Geo Taylor
+<lb/><hi rend="underline">Matthew Howard</hi>
+<lb/>Jno M. Barnett
+<lb/>W. Mcguire
+<lb/>J T Hughes
+<lb/><hi rend="underline">Sam</hi><hi rend="underline"><hi rend="sup">l</hi></hi><hi rend="underline"> R Singer</hi>
+<lb/>A, Hangers
+<lb/>N. Tucker
+<lb/>Joseph A Mills
+<lb/>Joe W Givins<pb/>
+<lb/><milestone unit="column" n="1"/>Valentin Kuhn
+<lb/>John Thompson
+<lb/>Francis Doyle
+<lb/>M V Berry 
+<lb/>William F Berry
+<lb/>John T Berry
+<lb/>J W Drury
+<lb/>James Corman
+<lb/>R D Garrtons
+<lb/><unclear/> <unclear/> 
+<lb/><unclear/> <unclear/> 
+<lb/>C L Cambron 
+<lb/>James Girten 
+<lb/>J. C. Medly
+<lb/>R L Bryan
+<lb/>D A M<hi rend="underline"><hi rend="sup">c</hi></hi>Gill
+<lb/>J C McGill
+<lb/>Geo W Hoover
+<lb/>Edwd <unclear>Clory</unclear>
+<lb/>B Smith
+<lb/>A. D. Cooper
+<lb/>W B Menifee
+<lb/>D. M. Harris</p>
+<p>Union Cir. Ct
+<lb/>$10. } liquor
+<lb/>Jno. Gough Sr. 
+<lb/>Remission Iss<hi rend="sup">d</hi> <date when="1862-01-17">Jany 17. 1862</date></p>
+  </body>
+ </text>
+</TEI>

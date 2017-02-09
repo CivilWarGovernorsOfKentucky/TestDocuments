@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0003-101-0011"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">C. J. Clarke to Charles W. Quiggins</title>
+    <title level="a" type="parallel">CWG14441</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Christina K Adkins</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Historical Society</repository>
+      <collection>Charles W. Quiggins papers</collection>
+      <idno/>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1865-03-27">27 March 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Headquarters Kentucky Volunteers,
+<lb/>Adjutant=General's Office,
+<lb/>Frankfort, <date when="1865-03-27">March 27<hi rend="underline"><hi rend="sup">th</hi></hi>, 1865</date>.
+<lb/>Maj. C. W. Quiggens
+<lb/>Capitol Guards
+<lb/>Frankfort Ky
+<lb/>Maj:</p>
+<p>I have the honor to inform you, that the "Court of Inquiry", appointed by Genl Orders No 5, Adjt Genls Office dated <date when="1865-03-25">March 25<hi rend="underline"><hi rend="sup">th</hi></hi> 1865</date>, will meet at Inspr Genls Office this day at 2-O-Clock P.M.</p>
+<p>Very Respectfully
+<lb/>Your Obdt Servt
+<lb/>C. J. Clarke
+<lb/>Lieut &amp; A. D. C.
+<lb/>Judge A &amp; Recd<pb/></p>
+<p><date when="1865-03-27">March 27<hi rend="underline"><hi rend="sup">th</hi></hi> /65</date></p>
+  </body>
+ </text>
+</TEI>

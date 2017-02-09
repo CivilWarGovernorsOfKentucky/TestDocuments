@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1084"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">W. G. Hood and J. G. Wilson to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG5721</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR[11]-172</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>We the undersigned heard the testimony in the case of the Commonwealth vs E. Davis and have also learned things in relation to him since his Conviction that warrant us in petitioning the Governor of Kentucky to pardon him. We are satisfied he ought to be pardoned -- </p>
+<p>W C Hood
+<lb/><hi rend="underline">J. G. Wilson</hi></p>
+<p>Gov Bramlette</p>
+<p>This is one of the cases prosecuted in the absence of M<hi rend="underline"><hi rend="sup">r</hi></hi> Dupuy the Com<hi rend="underline"><hi rend="sup">th</hi></hi> Aty. I thought at the time of trial that it was a case in which the jury could but find the verdict of guilty, but that it was a hard case, and that the old man ought to be pardoned. I was satisfied of two things: that it was his first offence; and, that he was very drunk when he carried the boots away, with which he was charged with stealing. This is one of the <hi rend="underline">very</hi> <hi rend="underline">few</hi> cases I think worthy Executive clemency</p>
+<p>I am yr friend
+<lb/>Jo. G. Wilson<pb/></p>
+<p>Jefferson Cir Ct
+<lb/>vs
+<lb/>Earnest Davis</p>
+<p>Issue Pardon<figure type="hr"/>
+<lb/><date when="1864-08-06">6th Aug/64</date></p>
+  </body>
+ </text>
+</TEI>

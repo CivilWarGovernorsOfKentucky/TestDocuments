@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-031-0001"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">James F. Robinson, Secretary of State, Daniel C. Wickliffe</title>
+    <title level="a" type="parallel">CWG7741</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Appointments by the Governor, Civil Appointments, 1862-1863</collection>
+      <idno>R1-27</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1862-08-19">19 August 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Commission/Appointment</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>IN THE NAME AND BY THE AUTHORITY OF
+<lb/>The Commonwealth of Kentucky,
+<lb/><figure type="seal"><ab>KENTUCKY
+<lb/>UNITED WE STAND DIVIDED WE FALL</ab></figure>
+<lb/>JAMES F. ROBINSON,
+<lb/>GOVERNOR OF SAID COMMONWEALTH,
+<lb/>To all whom these Presents shall come, Greeting:</p>
+<p>Know Ye, That D. C. Wickliffe Esq having been duly <hi rend="str">elected</hi> appointed (by and with the advice &amp; consent of the Senate) -- Secretary of State -- for the State of Kentucky I hereby invest him with full power and authority to execute and discharge the duties of said office according to law: And to have and to hold the same, with all the rights and emoluments thereto legally appertaining, for an during the term prescribed by law.</p>
+<p><figure type="seal"><ab>SEAL OF KENTUCKY
+<lb/>UNITED WE STAND DIVIDED WE FALL</ab></figure></p>
+<p>In Testimony Whereof, I have caused these letters to be made patent, and the Seal of the Commonwealth to be hereunto affixed. Done at Frankfort, the <date when="1862-08-19">19<hi rend="sup">th</hi> day of August, in the year of our Lord, one thousand eight hundred and 62,</date> and in the 71<hi rend="underline"><hi rend="sup">st</hi></hi> year of the Commonwealth.</p>
+<p>J F Robinson
+<lb/>BY THE GOVERNOR:
+<lb/>Nat Gaither, Secretary of State.
+<lb/>Commonwealth Office -- WM. H. HUGHES, State Printer.<pb/></p>
+<p>Clerks office of Court of Appeal -- <date when="1862-08-19">August 19/62</date></p>
+<p>I certify that D. C. Wicklliffe this day qualified to this commission as Secretary of State -- according to law</p>
+<p>A H.
+<lb/>Larue County -- C. Cot.</p>
+<p>Secretary of State<figure type="hr"/>
+<lb/>D. C. Wickliffe
+<lb/>Appointment and Oath
+<lb/><date when="1862-08-19">Aug 19<hi rend="sup">th</hi> 1862</date></p>
+  </body>
+ </text>
+</TEI>

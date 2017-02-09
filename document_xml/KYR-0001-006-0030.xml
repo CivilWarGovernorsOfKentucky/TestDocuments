@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-006-0030"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John C. Adams, Affidavit</title>
+    <title level="a" type="parallel">CWG1076</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's Official Correspondence File, Requisitions for the Return of Fugitives from Justice, 1863-1867</collection>
+      <idno>BR6-31</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Portsmouth, Scioto County, Ohio</placeName>
+    <date when="1864-04-08">8 April 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>State of Ohio Scioto County ss,</p>
+<p>John C. Adams of lawful age being by me first duly sworn according to law deposeth and saith that on Arch Means against whom a requisition was issued by the Governor of the State of Illinois on the Governor of the state of Ohio, and who was there living in the State of Ohio, has removed to and now resides in the State of Kentucky, affiant states that the said Arch Means has removed his residence to said State of Kentucky for the Express purpose of avoiding being arrested under said requisition and that said Arch Means cannot now be arrested unless by requisition from the Governor of Illinois upon the Governor of Kentucky, and further saith not, </p>
+<p>Jno. C. Adams</p>
+<p>Sworn to and subscribed by the said John. C. Adams before me and in my presence this the <date when="1864-04-08">8<hi rend="sup">th</hi> day of April AD 1864,</date></p>
+<p>Adam Kerr Mayor of
+<lb/>the City of Portsmouth, O
+<lb/><stamp type="revenue"/><note place="stamp"><unclear/></note>
+<lb/><figure type="seal"><ab>SEAL OF THE CITY OF PORTSMOUTH
+<lb/>OHIO</ab></figure></p>
+  </body>
+ </text>
+</TEI>

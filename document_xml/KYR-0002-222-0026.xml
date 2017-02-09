@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-222-0026"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John W. Finnell, Receipt to William Woodcock</title>
+    <title level="a" type="parallel">CWG13715</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>Misc. QM Expenditures, 1863-1865</collection>
+      <idno>QMG Box 10; 1863 Office Expenses - Telegraph, Stationary - Transportation - Ordinance Stores; Bundle 3</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1863-08-08">8 August 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><hi rend="underline">State of Kentucky</hi>
+<lb/>To W Woodcock Dr</p>
+<p><table rend="rules">
+<row>
+	<cell><date when="1862">1862</date></cell>
+	<cell/>
+	<cell>dollars</cell>
+	<cell>cents</cell>
+</row>
+<row>
+	<cell><date when="1862-11-20">Nov 20</date> to <date when="1863-03-05">March 5 1863</date></cell>
+	<cell>To 757 pairs yarn Socks at 30 cts pr pair ✓</cell>
+	<cell>227.</cell>
+	<cell>10</cell>
+</row>
+<row>
+	<cell/>
+	<cell>" 216<hi rend="sup">00</hi> Castings at 10<hi rend="sup">cts</hi> pr pound ✓</cell>
+	<cell>21</cell>
+	<cell>60</cell>
+</row>
+<row>
+	<cell/>
+	<cell>" 366<hi rend="sup">00</hi> Nails at 10<hi rend="sup">cts</hi> pr pound ✓</cell>
+	<cell>36</cell>
+	<cell>60</cell>
+</row>
+<row>
+	<cell/>
+	<cell>" 7 axes and helves at 212 pr each ✓</cell>
+	<cell>14</cell>
+	<cell>87</cell>
+</row>
+<row>
+	<cell/>
+	<cell>" 6 water Buckets at 50 <hi rend="sup">ct</hi> each ✓</cell>
+	<cell>3</cell>
+	<cell>00</cell>
+</row>
+<row>
+	<cell/>
+	<cell>" 2 Hansaw ✓</cell>
+	<cell>3</cell>
+	<cell>50</cell>
+</row>
+<row>
+	<cell/>
+	<cell>" 9 spoons at 100 pr Doz ✓</cell>
+	<cell/>
+	<cell>75</cell>
+</row>
+<row>
+	<cell/>
+	<cell>" 1 Auger ✓</cell>
+	<cell/>
+	<cell>75</cell>
+</row>
+<row>
+	<cell/>
+	<cell>" 16 Panes Glass at 10 ✓</cell>
+	<cell>1</cell>
+	<cell>60</cell>
+</row>
+<row>
+	<cell/>
+	<cell>" 1 Paper tacks</cell>
+	<cell/>
+	<cell>10</cell>
+</row>
+<row>
+	<cell/>
+	<cell>" 2 <unclear>Sells</unclear> Butts &amp; Screws at 25</cell>
+	<cell/>
+	<cell>50</cell>
+</row>
+<row>
+	<cell/>
+	<cell>" 2 Meal Sifters at 50 each ✓</cell>
+	<cell>1</cell>
+	<cell>00</cell>
+</row>
+<row>
+	<cell/>
+	<cell>" 2 Stock Locks at 75 each ✓</cell>
+	<cell>1</cell>
+	<cell>50</cell>
+</row>
+<row>
+	<cell/>
+	<cell>" 3 Coffee Mills at 200 each</cell>
+	<cell>6</cell>
+	<cell>00</cell>
+</row>
+<row>
+	<cell/>
+	<cell>" 20 Butcher Knives a 50 each ✓</cell>
+	<cell>10</cell>
+	<cell>00</cell>
+</row>
+<row>
+	<cell/>
+	<cell/>
+	<cell>$328</cell>
+	<cell>87</cell>
+</row>
+</table></p>
+<p><note place="left margin">Approved
+<lb/>Thos. G Morrow Col
+<lb/>43<hi rend="sup">rd</hi> Ky vol Infry</note></p>
+<p>Approved
+<lb/>By order of the Governor
+<lb/>Jno. W: Finnell
+<lb/>Adjt Genl Ky vols</p>
+<p>I Certify that the above account is correct &amp; just that the articles were furnished as stated, and that they were necessary for the public Service, that the state furnished nothing of the kind and had to be purchased and was purchased at the lowest market values for such articles</p>
+<p>W Woodcock 2<hi rend="sup">d</hi> In 43<hi rend="underline"><hi rend="sup">d</hi></hi> Reg Ky vol</p>
+<p>Received at Frankfort on the <date when="1863-08-08">8<hi rend="underline"><hi rend="sup">th</hi></hi> of August 1863</date> of John W Finnell Adjutant General Kentucky Volunteers the sum of Three hundred and twenty eight dollars and eighty seven cents in full of the above account.</p>
+<p>W Woodcock<pb/></p>
+<p>No 37 Abst A 231
+<lb/>W Woodcock
+<lb/>$328.87
+<lb/>Paid <date when="1863-08-08">8 of August 1863</date></p>
+  </body>
+ </text>
+</TEI>

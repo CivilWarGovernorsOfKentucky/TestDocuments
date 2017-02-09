@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0876"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">T. M. Jones to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10344</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG19-380</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Murray, Calloway County, Kentucky</placeName>
+    <date when="1861-03-04">4 March 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Murray Ky <date when="1861-03-04">March the 4<hi rend="sup">th</hi>/61</date>
+<lb/>To His Excellency Beriah Magoffin
+<lb/>Frankfort Ky</p>
+<p>With this you will receive a letter from Hon J. M. Bigger and T. H. Corbett I am now and have been acquainted with H <hi rend="str">C</hi> I. Laurence mentioned in the letter of those gentlemen as one of the Surities of H. C. Laurence who was indicted in the Fulton E &amp; C Court for obtaining money under false pretences for thirty years and Know him to be a good citizen and to have been so for that whole time He has Paid the fine of his Son H, C, Laurence but to the Clerk who it Seems was not autherised to receive it but did it and then did not pay it to the comsn<hi rend="sup">r</hi> of the Jury fund I, <hi rend="str">C</hi>, Laurence is an industrious honest man<pb/>
+<lb/>has a large family and an afflicted wife he however has good property but can't well spare the amout of money he is likely to loose in this case The indictement against young Laurence grew out of a Horse trade The charge was that he sold one horse and delivered another</p>
+<p>If consistenty with executive duty you can relieve Mr Laurence to any or to the extent in your Power it will be a special favor to him and will meet the approval of about our whole population</p>
+<p>Yours truly
+<lb/>T, M, Jones</p>
+<p>P S
+<lb/>The Execution against that gentlemen is now in the hands of our Sheriff C, A, Duncan and if any thing should be done notice of it to him Duncan would reach him here</p>
+<p>T, M, Jones</p>
+  </body>
+ </text>
+</TEI>

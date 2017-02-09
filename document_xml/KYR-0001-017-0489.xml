@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0489"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">George C. Gibbs to James W. Tate</title>
+    <title level="a" type="parallel">CWG2837</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Civil Appointments, 1859-1862</collection>
+      <idno>MG4-499</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>New York, New York County, New York</placeName>
+    <date when="1862-06-20">20 June 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>GEO. C. &amp; MONT. GIBBS.
+<lb/>Counselors at Law,
+<lb/>N<hi rend="underline"><hi rend="sup">o</hi></hi> 200 Broadway.
+<lb/>New York <date when="1862-06-20">June 20 1862</date>
+<lb/>Jas W Tate Esq Assistant Sec State
+<lb/>Frankfort Kentucky
+<lb/>Dear Sir</p>
+<p>I beg leave to enclose oath of office as Commissioner for Kentucky in &amp; for the state of New York.</p>
+<p>Respectfully Your obt Sevt.
+<lb/>Geo C. Gibbs.<pb/></p>
+<p>New York<figure type="hr"/>
+<lb/>Oath of Office
+<lb/>Com<hi rend="underline"><hi rend="sup">r</hi></hi>. of Deeds
+<lb/>Geo. C. Gibbs
+<lb/>Filed <date when="1862-06-25">June 25<hi rend="underline"><hi rend="sup">th</hi></hi> 1862</date></p>
+<p>(Entered)</p>
+  </body>
+ </text>
+</TEI>

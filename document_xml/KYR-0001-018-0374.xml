@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-018-0374"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John W. Finnell to Nathaniel Gaither, Jr.</title>
+    <title level="a" type="parallel">CWG8440</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Military Appointments, 1859-1862</collection>
+      <idno>MG6-489</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1862-07-10">10 July 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><figure type="seal"><ab>UNITED WE STAND, DIVIDED WE FALL.
+<lb/>KENTUCKY.</ab></figure>
+<lb/>Head-Quarters Kentucky Volunteer Militia,
+<lb/>ADJUTANT GENERAL'S OFFICE,
+<lb/>Frankfort, <date when="1862-07-10">July 10th 1862</date>.</p>
+<p>Hon: Nat Gaither Jr
+<lb/>Sec of State
+<lb/>Sir</p>
+<p>The following resignations have been rec<hi rend="sup">d</hi> -- viz:
+<lb/><table rend="rules">
+<row>
+	<cell>Augustin Dunny</cell>
+	<cell>Captain-</cell>
+	<cell>date</cell>
+	<cell>of</cell>
+	<cell>Com:</cell>
+	<cell><hi rend="str">28</hi> <date when="1861-10-08">8</date></cell>
+	<cell><hi rend="str">June</hi> Octo</cell>
+	<cell><hi rend="str">1862</hi> 1861</cell>
+</row>
+<row>
+	<cell>Joseph W. Woodrow</cell>
+	<cell>Captain</cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell><date when="1862-03-13">13</date></cell>
+	<cell>Mar</cell>
+	<cell>1862</cell>
+</row>
+<row>
+	<cell>Jno. R. Price</cell>
+	<cell>Lieut:</cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell><date when="1861-11-14">14</date></cell>
+	<cell>Nov</cell>
+	<cell>1861</cell>
+</row>
+<row>
+	<cell>D. H. Butler</cell>
+	<cell>Capt:</cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell><date when="1861-12-14">14</date></cell>
+	<cell>Dec</cell>
+	<cell>"</cell>
+</row>
+<row>
+	<cell>Jno. W. Howard</cell>
+	<cell>Lieut</cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell><date when="1862-04-08">8</date></cell>
+	<cell>Ap:</cell>
+	<cell>1862</cell>
+</row>
+<row>
+	<cell>P. S. Rush</cell>
+	<cell>Capt</cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell><date when="1861-11-30">30</date></cell>
+	<cell>Nov</cell>
+	<cell>1861</cell>
+</row>
+<row>
+	<cell>Rich<hi rend="sup">d</hi> Lee</cell>
+	<cell>Capt</cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell><date when="1861-12-07">7</date></cell>
+	<cell>dec</cell>
+	<cell>1861</cell>
+</row>
+<row>
+	<cell>Jno. H. Black</cell>
+	<cell>Lieut -- </cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell><date when="1861-10-08">8</date></cell>
+	<cell>Oct</cell>
+	<cell>1861</cell>
+</row>
+<row>
+	<cell>M. L. Boner</cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell><date when="1861-12-22">22</date></cell>
+	<cell>dec</cell>
+	<cell>1861</cell>
+</row>
+<row>
+	<cell>Warner Underwood</cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell><date when="1861-06-20">20</date></cell>
+	<cell>June</cell>
+	<cell>1861</cell>
+</row>
+</table></p>
+<p>(this is the 3<hi rend="sup">d</hi> resig: of Lieut: Underwood, One is of the <date when="1862-06-19">19<hi rend="underline"><hi rend="sup">th</hi></hi></date> One of the <date when="1862-06-20">20<hi rend="underline"><hi rend="sup">th</hi></hi></date>, &amp; the other of the <date when="1862-06-30">30<hi rend="underline"><hi rend="sup">th</hi></hi> June 1862</date>,)</p>
+<p>The following Promotions have been made viz:
+<lb/><table rend="rules">
+<row>
+	<cell> </cell>
+	<cell> </cell>
+	<cell>date of Com</cell>
+	<cell> </cell>
+	<cell> </cell>
+</row>
+<row>
+	<cell>Robert Earnest</cell>
+	<cell>1 Lieut:</cell>
+	<cell><date when="1862-04-10">10</date></cell>
+	<cell>April</cell>
+	<cell>1862</cell>
+</row>
+</table><pb/>
+<lb/><table rend="rules">
+<row>
+	<cell> </cell>
+	<cell> </cell>
+	<cell><hi rend="underline">date of Com</hi></cell>
+	<cell> </cell>
+	<cell> </cell>
+</row>
+<row>
+	<cell>James M. Holland</cell>
+	<cell>Lieut:</cell>
+	<cell>May</cell>
+	<cell><date when="1862-05-05">5th</date></cell>
+	<cell>1862-</cell>
+</row>
+<row>
+	<cell>James F. Peyton</cell>
+	<cell>Lieut:</cell>
+	<cell>Dec</cell>
+	<cell><date when="1862-12-12">12th</date></cell>
+	<cell>1862</cell>
+</row>
+<row>
+	<cell>P. Gilbert Fisher</cell>
+	<cell>Lieut:-</cell>
+	<cell>April</cell>
+	<cell><date when="1862-04-28">28th</date></cell>
+	<cell>1862</cell>
+</row>
+<row>
+	<cell>Samuel Bottom -- </cell>
+	<cell>Lieut:-</cell>
+	<cell>March</cell>
+	<cell><date when="1862-03-13">13th</date></cell>
+	<cell>1862</cell>
+</row>
+<row>
+	<cell>Ed. P. Allen -- </cell>
+	<cell>Lieut -- </cell>
+	<cell>" -- </cell>
+	<cell><date when="1862-03-13">"</date> -- </cell>
+	<cell>" -- </cell>
+</row>
+<row>
+	<cell>James G. Hatchett</cell>
+	<cell>Surg: -- </cell>
+	<cell>April</cell>
+	<cell><date when="1862-04-15">15th</date></cell>
+	<cell>1862</cell>
+</row>
+</table></p>
+<p>I send eleven Comms: for record
+<lb/><table rend="rules">
+<row>
+	<cell>1</cell>
+	<cell>Jabez Perkins</cell>
+	<cell>Surgeon -- </cell>
+	<cell>date</cell>
+	<cell><date when="1862-07-05">5</date></cell>
+	<cell>July</cell>
+	<cell>1862</cell>
+</row>
+<row>
+	<cell>2</cell>
+	<cell>Nat F. Troyman</cell>
+	<cell>2nd Lieut -- </cell>
+	<cell>"</cell>
+	<cell><date when="1862-06-24">24</date></cell>
+	<cell>June</cell>
+	<cell>1862</cell>
+</row>
+<row>
+	<cell>3</cell>
+	<cell>Ed P Allen</cell>
+	<cell>1st -- </cell>
+	<cell>"</cell>
+	<cell><date when="1862-06-24">"</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+</row>
+<row>
+	<cell>4</cell>
+	<cell>Sam Bottom -- </cell>
+	<cell>Capt -- </cell>
+	<cell>"</cell>
+	<cell><date when="1862-06-24">"</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+</row>
+<row>
+	<cell>5</cell>
+	<cell>Allen N Jett -- </cell>
+	<cell>1<hi rend="sup">st</hi> Lieut -- </cell>
+	<cell> -- </cell>
+	<cell><date when="1862-06-24">"</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+</row>
+<row>
+	<cell>6</cell>
+	<cell>P. Gilbert Fisher</cell>
+	<cell>Capt -- </cell>
+	<cell> -- </cell>
+	<cell> -- </cell>
+	<cell> -- </cell>
+	<cell> -- </cell>
+</row>
+<row>
+	<cell>7</cell>
+	<cell>Eberlee Wilson</cell>
+	<cell>2nd Lieut -- </cell>
+	<cell> -- </cell>
+	<cell> -- </cell>
+	<cell> -- </cell>
+	<cell> -- </cell>
+</row>
+<row>
+	<cell>8</cell>
+	<cell>Jas. F Peyton</cell>
+	<cell>1st Lieut -- </cell>
+	<cell> -- </cell>
+	<cell><date when="1862-06-28">28</date></cell>
+	<cell> -- </cell>
+	<cell> -- </cell>
+</row>
+<row>
+	<cell>9</cell>
+	<cell>Rich<hi rend="sup">d</hi> Vance</cell>
+	<cell>2nd Lieut</cell>
+	<cell> -- </cell>
+	<cell><date when="1862-06-22">22</date></cell>
+	<cell> -- </cell>
+	<cell> -- </cell>
+</row>
+<row>
+	<cell>10</cell>
+	<cell>James M Holland</cell>
+	<cell>1st -- </cell>
+	<cell> -- </cell>
+	<cell><date when="1862-06-22">"</date></cell>
+	<cell> -- </cell>
+	<cell> -- </cell>
+</row>
+<row>
+	<cell>11</cell>
+	<cell>Rob H Earnest</cell>
+	<cell>Capt</cell>
+	<cell> -- </cell>
+	<cell> -- </cell>
+	<cell> -- </cell>
+	<cell> -- </cell>
+</row>
+</table>
+<lb/>I am 
+<lb/>Resp<hi rend="sup">ly</hi>
+<lb/>John W. Finnell
+<lb/>Adj<hi rend="sup">t</hi> Gen<hi rend="sup">l</hi></p>
+  </body>
+ </text>
+</TEI>

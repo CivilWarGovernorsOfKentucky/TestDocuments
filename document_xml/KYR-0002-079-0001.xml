@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-079-0001"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John R. Curry to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG14000</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>Enrolled Militia Records 1864 - 1865 ; Adair, Allen, Boyle, Daviess, Garrard, Owen, Pendleton, and Shelby counties</collection>
+      <idno>Flat Box 7, Folder 863-65 ADAIR COUNTY Recruiting &amp; Raising Co. 3rd Regt Ky Militia</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Columbia, Adair County, Kentucky</placeName>
+    <date when="1865-02-01">1 February 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Columbia Ky
+<lb/><date when="1865-02-01">Feby 1<hi rend="sup">st</hi> 1865</date>
+<lb/>Tho<hi rend="sup">s</hi> E Bramlette Esqr.
+<lb/>Governor</p>
+<p>Dear Sir my time of Service having expired, and the border counties of this State being run over to a great extent by Guerrilas, rendering it unsafe for discharged Soldiers to go to their homes in peace I feel it the duty of Some one to raise a company for the protection of this country -- therefore if you will give me the authority to raise a company for the protection of the border counties for Twelve months to Receive the Same pay clothing and Rations, that united States troops receive <hi rend="str">but</hi> and to be subject to your orders, under the present cirucmstances I think I can raise a company without much trouble you will please let me hear from you as soon as you can I remain yours very respectfully</p>
+<p>John R Curry<pb/>
+<lb/>Columbia Ky
+<lb/><date when="1865-02">Feby. <unclear/> 1865</date>
+<lb/><hi rend="underline">Cap Gd</hi><figure type="hr"/>
+<lb/>Curry John R.<figure type="hr"/>
+<lb/><hi rend="underline">To The Gov</hi></p>
+<p>Desires authority to raise a Co. of discharged men from U. S. service, for 12 months state service, for protection of the border counties -- <figure type="hr"/>
+<lb/>Issue.
+<lb/>D W Lindsey
+<lb/>I &amp; A G Ky
+<lb/>Artlly issd &amp; forwd
+<lb/><date when="1865-02-06">Feb<hi rend="sup">y</hi> 6. 1865</date><figure type="hr"/>
+<lb/>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> A. G. O. Ky <date when="1865-02-06">6 Feby 1865</date></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0457"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">William Mansfield to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG2805</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Civil Appointments, 1859-1862</collection>
+      <idno>MG4-455 to MG4-456</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Scottsville, Allen County, Kentucky</placeName>
+    <date when="1862-05-20">20 May 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Scottsville Ky. <date when="1862-05-20">May 20<hi rend="underline"><hi rend="sup">th</hi></hi> 1862</date>
+<lb/>To his excellency B. Magoffin Governor of the state of Kentucky.</p>
+<p>Annexed you will find the resignation of R. W. Edmunds Justice of the peace in Civil District No. 1. in Allen County -- and I recommend that you appoint S. L. Morgan in his place.</p>
+<p>yours most respectfully
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Mansfield Co. Judge<pb/></p>
+<p>Scottsville Allen County Kentucky
+<lb/><date when="1862-05-10">May 10<hi rend="sup">th</hi> 1862</date>
+<lb/>To his Excellency B Magoffin.
+<lb/>Gov of Kentucky</p>
+<p>Having heretofore resigned the office of Justice of the peace in the first civil district in Allen County Kentucky Which from some cause is informal in some manner You will therefore please accept this as my resignation of said office of Justice of the peace in &amp; for the first civil district in Allen County State of Kentucky Said resignation to date if proper from the <date when="1862-01-13">13<hi rend="sup">th</hi> of January last</date> the date of my former resignation and if the vacancy cannot date from that time then from this date.</p>
+<p>Respectfully yours &amp;c
+<lb/>R. W. Edmunds<pb/></p>
+<p>Allen Co<figure type="hr"/>
+<lb/>J. P. Dist N<hi rend="sup">o</hi>
+<lb/>1 appointed
+<lb/><date when="1862-03-19">Mar 19. 1862</date></p>
+  </body>
+ </text>
+</TEI>

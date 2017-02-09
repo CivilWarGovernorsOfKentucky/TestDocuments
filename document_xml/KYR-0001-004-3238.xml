@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-3238"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Commonwealth of Kentucky v. John Sanford, Indictment</title>
+    <title level="a" type="parallel">CWG5357</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR42-26</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Montgomery County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Montgomery Circuit Court
+<lb/>The Commonwealth of Kentucky
+<lb/>vs } Indictment
+<lb/>Jno Sanford</p>
+<p>The Grand Jury of Montgomery County in the name and by the authority of the Commonwealth of Kentucky accuse Jno Sanford of the offence of Horse stealing committed as follows to wit. The said John Sanford on the <date when="1864-01-01">1<hi rend="sup">st</hi> day of January 1864</date> in the County and Circuit aforesaid did willfully &amp; feloniously take &amp; steal &amp; carry off a certain horse the personal property of James Gatewood of the value of more than four dollars</p>
+<p>Against the peace &amp; dignity of the Commonwealth of Kentucky</p>
+<p>J S Dury
+<lb/>Cm atty
+<lb/>A Copy
+<lb/>Att
+<lb/>J. M. Crawford ck.
+<lb/>By T C Barnus D. C.<pb/>
+<lb/>Commonwealth
+<lb/>vs } A Copy
+<lb/>John Sanford</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0548"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John L. Scott to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG4667</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR9-366 to BR9-367</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Maysville, Mason County, Kentucky</placeName>
+    <date when="1864-07-15">15 July 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Maysville, Ky., <date when="1864-07-15">July 15, 1864</date>.
+<lb/>Dear Governor:</p>
+<p>I am spending two or three weeks in Maysville, and have been requested to prepare an application for the pardon of Wm. Brookover, &amp; send the same to you, which I have done.</p>
+<p>I was one of the counsel employed to aid in the prosecution of Brookover. We prosecuted him about 3 years -- had 2, 3 or 4 hung Juries before we were able to convict him. After he was convicted he carried the case to the court of Appeals, and there being no error in the record the judgement was affirmed.</p>
+<p>Mr. Brookover then broke jail and hid in different parts of the United States from <date when="1856">1856</date> to <date when="1860">1860</date> or <date when="1861">1861</date>, where, it appears that he entered the Federal Army, and has fought the rebels well for<pb/>
+<lb/>three long years. He is sick, and now in the Federal Hospital in Arkansas, at Pine Bluff. His friends fear that he will die in the Hospital. His wife obtained a divorce on account of his conviction, and is now lying on her death bed near Maysville. His only little son, about 13, is with her.</p>
+<p>I prosecuted him with all the vigor I could command, believeing that he was guilty; but surely this is a clear case for pardon.</p>
+<p>Please direct your pardon to me at Maysville, if it is your pleasure to grant him a pardon. The friends desire your early action on the application, in view of the danger to the life of the applicant by lying longer in the Hospital.</p>
+<p>Very Respectfully,
+<lb/>Your friend,
+<lb/>John L. Scott.</p>
+  </body>
+ </text>
+</TEI>

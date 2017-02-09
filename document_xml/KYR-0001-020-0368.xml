@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0368"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Henry Osterhouse et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG9836</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG18-64 to MG18-65</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Campbell County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency Beriah Magoffin 
+<lb/>Governor of Kentucky -- </p>
+<p>The undersigned Jurors in the case of the Commonwealth of Ky. vs Nicholas Fulks tried at the present term of the Campbell Circuit Court, for having in his possession Counterfeit money, would most respectfully represent to your Excellency that the above Deft is a young man, a stranger among us, he has the appearance of being a hardworking, young man, and although we are satisfied that he had the money in his possession and knew the same to be Counterfiet, yet we are satisfied that he was imposed upon by designing men who are the real Criminals in this case but who unfortunately have Escaped the punishment they so richly deserve by <unclear>right</unclear> -- we would under the circumstances recommend the above Deft as a fit subject for Executive clemency, more especially as the Deft (although he had the money in his possession for some time) never offered to pass any of said money as far as we can learn</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Henry Osterhouse
+<lb/>David North
+<lb/>Philander, A, C, Kemper Foreman
+<lb/>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> G Thornton
+<lb/>Jno C Thomas
+<lb/>Thomas Farmer
+<lb/><cb n="2"/>James C ^his X mark^ Niles<pb/></p>
+<p><milestone unit="column" n="1"/>We the undersigned attorneys of the Campbell Bar, concur in the facts stated in the within petition and unite therein</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>James H Parker
+<lb/>W A Root
+<lb/>Geo R Fearons
+<lb/>F. M, Webster
+<lb/>Albert S Berry.
+<lb/>W W Helm
+<lb/>C W Kavanaugh
+<lb/>R. T. Baker
+<lb/>Edward Ball
+<lb/>Jas Artsman
+<lb/><cb n="2"/><hi rend="underline">H D Helm</hi>
+<lb/>M Cook</p>
+<p><milestone unit="column" n="1"/>We the undersgined citizens &amp;c Concur and unite in the foregoing petition</p>
+<p><milestone unit="column" n="3"/><cb n="1"/><hi rend="underline">A. D,, Smalley</hi>
+<lb/>John Mongel
+<lb/>John. F. Buning
+<lb/><cb n="2"/>D. Hengelbrok
+<lb/>J. Q. A. Foster
+<lb/><cb n="3"/>A, H, Herod
+<lb/>John Perry
+<lb/>H Buckman
+<lb/>Y. D, Whetrig<pb/></p>
+<p><milestone unit="column" n="1"/>Fulks Case -- 
+<lb/>Campbell Co
+<lb/>Pen. passing counterfeit money -- </p>
+  </body>
+ </text>
+</TEI>

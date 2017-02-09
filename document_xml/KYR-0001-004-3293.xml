@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-3293"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Richard Areson, Affidavit</title>
+    <title level="a" type="parallel">CWG5412</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR42-113 to BR42-114</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>William Spencer was <hi rend="str">I</hi> left an orphan at two years of age and was tenderly reared by his Grandparents who were worthy members of the Methodist Church. They died in the year <date when="1853">1853</date> when he came to live with the petitioner who is his uncle by marriage. He was a good steady boy until about eight months Since when he fell into bad associations and by their influence was induced to leave Sabbath School</p>
+<p>He then left New York City without the advice or consent of your petitioner and found his way to Cincinnatti where he obtained employment in a Boot &amp; Shoe store A Young man whose acquaintance he had formed <hi rend="str">and</hi> came to the store to see him, although requested not to do so by said William Spencer and in view of his acquaintance with this young man, his employers discharged him. Having no other employment and no money he was induced by this young man to steal a pair of pants (his own being worn out) and for<pb/>
+<lb/>this crime committed in Covington he was sent to the penitentiary for three years &amp; Six months. The facts of his incarceration was first made known to the petitioner by a minister of the gospel in Frankfort when he immediately set about procuring employment for him which he succeeded in doing and now prays for his release in view of the fact of his youth, that it is his first offence, and the desire to remove him from the association of hardened criminals before he becomes thoroughly demoralized</p>
+<p>Your Most Obedient
+<lb/>&amp; Humble Servant
+<lb/>Rich<hi rend="underline"><hi rend="sup">d</hi></hi> Areson</p>
+<p>If<hi rend="sup"> </hi>you cannot give this your consideration at present I will leave the matter in the hands of Rev W L Jermane</p>
+  </body>
+ </text>
+</TEI>

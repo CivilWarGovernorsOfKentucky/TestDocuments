@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-153-0028"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Boyle, General Orders, No. 3</title>
+    <title level="a" type="parallel">CWG14150</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>Assistant Adjutant General Letter Book - No. 1 ; 5 Sept 1863 - 2 Feb 1864</collection>
+      <idno>116</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1863-10-09">9 October 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Order</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><note place="header">116</note>
+<lb/><date when="1863-10-09">October 9<hi rend="underline"><hi rend="sup">th</hi></hi> <gap/>3.</date>
+<lb/>General Orders
+<lb/>No. 3.</p>
+<p>The State of Kentucky is infested in many quarters with armed guerillas, outlaws at once to their Country and humanity. Everyday brings tidings of the enormities they commit, of murders of innocent Citizens and disabled soldiers -- of robberies of banks, sacking of towns and wholesale desetruction of property -- yet the Citizens of this Commonwealth, disregarding the exhortions of the Militairy authorities and unmoved by the destruction of the lives and property of their neighbors, view with apathetic indifference the occurance of these horrors accumulating every day.</p>
+<p>It is therefore proclaimed and ordered, that, unless at least one Volunteer Company is organized under the provisions of the State Guard Law, as directed by General Order N<hi rend="underline"><hi rend="sup">o</hi></hi> 1. from those Head Quarters, and reported to this Department -- within fifteen days -- from each County in the State -- a draft will be immediately enforced. The State <hi rend="underline">shall be free</hi> from its murderous foes, even though every arm be required to aid in their destruction.</p>
+<p>Some friend to this Country in each County will materially assist the execution of this order by sending at once, to these Head Quarters, names of Gentlemen who will act as Colonel and Lieutenant Colonel under the State Guard Law, and Commissions will at once issue for them.</p>
+<p>By order of the Governor
+<lb/><hi rend="underline">John Boyle</hi>
+<lb/>Adj<hi rend="underline"><hi rend="sup">t</hi></hi> Gen<hi rend="sup">l</hi> of Ky</p>
+  </body>
+ </text>
+</TEI>

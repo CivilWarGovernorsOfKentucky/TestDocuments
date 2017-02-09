@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-009-0025"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Wallace Davis to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG1180</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Christina K Adkins</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's Official Correspondence File, 1863-1867</collection>
+      <idno>BR1-52 to BR1-53</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Washington, District of Columbia</placeName>
+    <date when="1864-10-21">21 October 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Headquarters Casey's Division,
+<lb/>Department of Washington,
+<lb/>Washington, <date when="1864-10-21">Oct 21.<hi rend="underline"><hi rend="sup">st</hi></hi>, 186<hi rend="str">3</hi>4</date>.
+<lb/>Governor,</p>
+<p>Will you do me the honor to enclose me the great seal of the state of "Kentucky" to place among a collection of seals of the states &amp; chief cities now in course of compilation for historical purposes. Please also enclose the arms of the state. I have the seal &amp; arms of every state except "Kentucky" &amp; I earnestly desire that to complete the record.</p>
+<p>I am Governor, Your humble svt.
+<lb/>Wallace Davis
+<lb/>Chief Clerk,
+<lb/>Hd Qrs Maj Gen Casey
+<lb/>Washington, D.C.</p>
+<p>To Hon Tho<hi rend="sup">s</hi> E Bramlette
+<lb/>Gov of Kentucky<pb/></p>
+<p>Ans<hi rend="sup">d</hi>.</p>
+  </body>
+ </text>
+</TEI>

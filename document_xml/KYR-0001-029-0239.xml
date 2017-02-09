@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0239"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Edwin S. Craig to Unknown</title>
+    <title level="a" type="parallel">CWG8691</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Governor's Official Correspondence File, Petitions for Pardons, Remissions, and Respites, 1862-1863</collection>
+      <idno>R3-358 to R3-359</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date when="1863-02-13">13 February 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Louisville <date when="1863-02-13">Feby 13<hi rend="sup">th</hi> 1863</date>.
+<lb/>My dear friend</p>
+<p>At the instance of a Constituent of yours, Mr W<hi rend="underline"><hi rend="sup">m</hi></hi> Hehl, who lives in the first Ward, I take the liberty to trouble you with a small matter. but to this poor -- father, a thing of great importance; some time ago he had a little grocery up in Green street I believe in the outskirts of the City and some negroes &amp; white men came into his place and played cards some person had the poor fellow indicted for it. It was not tried, and his lawyer and the City Att<hi rend="underline"><hi rend="sup">o</hi></hi> and the Marshall got him to confess a Judgment and pay the Costs; and that they would fine him in a petition to the Gov to get him to forgive him which he did.</p>
+<p>They came to me, together with his wife and without fee<pb/>
+<lb/>or reward I prepared his petition for him, and Knowing the Governor personally since they being very ignorant. I called upon the Governor for him and delivered to him their humble petition to which the Gov has now made no reply: I can only say this that this poor fellow has nothing but a wife and seven children and he supports them by hard work daily, and unless something can be done for him they will take him, to the work house on monday to pay it; He is a poor ignorant creature and they deceived him into the confession of Judgments by making him believe they could get the Governor to remit it. The petition was before the Governor when He was in Louisville. If you can do any good for him, you will aid a worthy man</p>
+<p>E. S. Craig<pb/></p>
+<p>Gov<hi rend="underline"><hi rend="sup">r</hi></hi> Robinson,</p>
+<p>I trust sir that you may be able to release this poor fellow</p>
+<p>Ja<hi rend="sup">s</hi> Speed</p>
+<p>Gov<hi rend="underline"><hi rend="sup">r</hi></hi> Robinson</p>
+<p>I heartily join with M<hi rend="sup">r</hi> Speed in requesting you to remit the fine of $200 -- imposed on M<hi rend="sup">r</hi> Hehl, in the City Court of Louisville</p>
+<p>I believe from all the information in my possession that M<hi rend="sup">r</hi> Hehl is a worthy man but poor and ignorant</p>
+<p>J. C. Beeman</p>
+<p><date when="1863-02-14">14 Feby 1863</date><pb/></p>
+<p>Louisville City Ct
+<lb/>$200
+<lb/>W<hi rend="sup">m</hi> Hehl
+<lb/>Iss<hi rend="sup">d</hi> <date when="1863-02-14">14 Feby 1863</date></p>
+<p>Fine order remitted -- on Pettn filed <date when="1863-02-14">14 Feby 1863</date></p>
+<p>J F Robinson</p>
+  </body>
+ </text>
+</TEI>

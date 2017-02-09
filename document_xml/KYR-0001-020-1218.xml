@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1218"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Robert F. Baird and J. H. Price to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10686</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG21-64 to MG21-65</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency B. Magoffin the Govenor of Kentucky -- </p>
+<p>Your Excellency is hereby informed that the Undersigned Robert F. Baird &amp; J. H. Price Citizens of Louisville and attorneys at Law, became the <hi rend="underline">sureties</hi> of one Joseph Millett who was charged with "setting up a Lottery" in this city contrary to law -- And who was required to give Bail to answer in the sum of <hi rend="underline">One</hi> <hi rend="underline">Hundred</hi> <hi rend="underline">Dollars</hi> -- </p>
+<p>They further state that Said Willett defaulted and failed to appear and the onus of the Bond falls upon the undersigned.</p>
+<p>They further state that the charge was of so insignificant consequences that it ^was^ dismissed upon the calling of the Indictment against Willett -- </p>
+<p>Your Petitioners think as the indictment agst. Willett was dismissed that they ought to be relieved of their Bond as bail in said case -- </p>
+<p>They therefore earnestly pray your Excellency to remit the Forfeiture in the case of the commth vs Joseph Willett, so far as R. F. Baird &amp; J. H. Price <hi rend="str"><unclear/></hi>is concerned -- </p>
+<p>Robert F. Baird
+<lb/>J. H. Price</p>
+<p>We the undersigned ask your Excellency to remit the Forfeiture alluded to -- </p>
+<p><milestone unit="column" n="2"/><cb n="1"/>W S. Ward
+<lb/>John Joyes
+<lb/>(see next page)
+<lb/><cb n="2"/>J. W. Allen D. C
+<lb/>F. B. June D M
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Shryock D C
+<lb/>H. S. Johnston D. M<pb/><milestone unit="column" n="1"/></p>
+<p>The case against Willett was dismissed, and from information which I have learned since, the Indictment, was returned; <hi rend="str"><unclear/></hi> about the character of the informers, I think the prayer of petitioners should be granted</p>
+<p>W. G. Reasor<pb/></p>
+<p>Remitted
+<lb/>B. M</p>
+<p>Louisville City Ct
+<lb/>$100 } Recog
+<lb/>Baird &amp; Price</p>
+<p>Is<hi rend="sup">d</hi> <date when="1861-07-18">July 18. 1861</date></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-032-0001"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">James F. Robinson, Proclamation by the Governor of Kentucky</title>
+    <title level="a" type="parallel">CWG7642</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Governor's Official Correspondence File, 1862-1863</collection>
+      <idno>R1-1 to R1-2</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1862-11-12">12 November 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Proclamation/Legislation</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Proclamation by the Governor of Kentucky.<figure type="hr"/></p>
+<p>The acknowlegment of national as well as individual dependence upon the Supreme Ruler of the Universe, is the highest evidence of refined civilization; and no people ever prospered for any great length of time who did not admit and invoke His power and mercy, nor will any such ever rise to true greatness as a nation.</p>
+<p>The spirit of the American people has been well-nigh crushed by the terrible realities of the intestine war into which the nation has been plunged by the disappointed ambition of maddened and reckless men; and it is the part alike of wisdom and of duty for us all to prostrate ourselves in humiliation before the Author of all good, and supplicate His omnipotent arm to arrest this wicked and unjust rebellion, and restore to a distracted people the blessings of peace, unity and fraternal affection.</p>
+<p>But, while thus humiliating ourselves before the Almighty Disposer of events, we should remember that we have abundant cause to offer the homage of grateful hearts for the manifold blessings He has vouchsafed to us as a people. The seasons have been propitious; the labor of the husbandman has been crowned with amble returns; we have not been called upon to mourn the ravages of extended disease in the country; the public health has never been more marked than during the year which is drawing to a close; and while, therefore, we have to lament the terrible consequences of the fratricidal war which afflicts and desolates the land, we yet have ample reason for returning thanks to Him that we are free from those awful scourges -- pestilence and famine -- which so often afflict the human family, and not unfreqently add their horrors to those involved in war.</p>
+<p>It is meet, therefore, that the time-honored custom of dedicating one day in the year to devotional exercises to Him who holds the destinies of nations and individuals alike in His hands, should be preserved; and, while pouring out our gratitude for the incalculable benefits we enjoy, bow ourselves in earnest supplication to Almighty God, that He will, in His infinite mercy, interpose His omnipotent arm to stay the spirit of intestine strife which is sweeping over and desolating the land; restore peace and order to this hitherto heaven-favored country, and make all to feel that a return to the Government of our fathers, which has rendered us so powerful, prosperous and happy, is at once the part of patriotism and religious duty.</p>
+<p>I, therefore, as the Governor of the Commonwealth, do hereby set apart THURSDAY, <date when="1862-11-27">NOVEMBER 27TH, INSTANT</date>, AS A DAY OF THANKSGIVING AND PRAISE TO ALMIGHTY GOD, for all His mercies to us, and request a general observance of it, to the end that we may manifest, in a proper spirit, our dependence upon Him, and supplicate His omnipotent power to protect and guard us from future misfortunes as a nation.</p>
+<p><figure type="seal"><ab>L. S.</ab></figure></p>
+<p>Done at the City of Frankfort, this <date when="1862-11-12">12th day of November, 1862</date>, and the 70th year of the Commonwealth.</p>
+<p>J. F. Robinson.
+<lb/>By the Governor:
+<lb/>D. C. WICKLIFFE, Secretary of State.<pb/></p>
+<p>Thanksgiving Day.<figure type="hr"/>
+<lb/>Iss<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1862-11-12">Nov 12. 1862</date> for Thursday <date when="1862-11-27">Nov. 27.<hi rend="underline"><hi rend="sup">th</hi></hi> 1862</date></p>
+  </body>
+ </text>
+</TEI>

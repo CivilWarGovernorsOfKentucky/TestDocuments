@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0275"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Thomas E. Bramlette to John Boyle</title>
+    <title level="a" type="parallel">CWG1940</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Appointments by the Governor, Civil Appointments, 1863-1867</collection>
+      <idno>BR2-153 to BR2-154</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1864-08-01">1 August 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><figure type="seal"><ab>UNITED WE STAND DIVIDED WE FALL</ab></figure>
+<lb/>Commonwealth of Kentucky,
+<lb/>EXECUTIVE DEPARTMENT.
+<lb/>Frankfort, Ky., <date when="1864-08-01">August 1<hi rend="sup">st</hi>, 1864</date>.
+<lb/>Adjutant Genl John Boyle
+<lb/>Frankfort Ky -- 
+<lb/>Dear Sir:</p>
+<p>Your resignation of the office of Adjutant General of Ky has been received accepted and filed on this day.</p>
+<p>As you submitted to me before coming to any determination yourself -- your plans and prospects and had my approving advice, it is not necessary that I should say more than that I was constrained by my judgement and my regard for your personal interests to give my approval to your proposed resignation</p>
+<p>In thus severing our official relations which have been so<pb/>
+<lb/>confidential and harmonious, I feel that I part with a friend to whom I am greatly indebted for the faithful and efficient discharge of the public duties which devolved upon <hi rend="str">your</hi> his responsible office.</p>
+<p>Be assured that you bear with you the earnest wishes for your success in your profession, -- in your private fortunes and your personal wellfare of</p>
+<p>Your friend
+<lb/>Tho E Bramlette
+<lb/>(copy)</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-227-0030"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Edward D. Townsend, Special Orders, No. 2</title>
+    <title level="a" type="parallel">CWG14260</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>11th Ky. Cav (US) Muster Rolls</collection>
+      <idno>Flat Storage Box: 11th Ky Cav (US) Muster Rolls, Bundle 6</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Washington, District of Columbia</placeName>
+    <date when="1865-01-03">3 January 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Order</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>WAR DEPARTMENT,
+<lb/>ADJUTANT GENERAL'S OFFICE,
+<lb/><hi rend="italic">Washington</hi>, <date when="1865-01-03"><hi rend="italic">January</hi> 3<hi rend="italic">d</hi>, 1865</date>.
+<lb/>SPECIAL ORDERS,
+<lb/>No. 2 }
+<lb/>(<hi rend="italic">Extract</hi>.)<figure type="hr"/></p>
+<p>8. The following officers of the 11th Kentucky Cavalry are hereby discharged the service of the United States, as of the dates set opposite their respective names, on account of unfitness for military duty, with condition that they shall receive no final payments, until they have satsified the Pay Department that they are not indebted to the Government: -- </p>
+<p>Captain <hi rend="italic">Jacob Cozatt</hi>, to date <date when="1864-02-28">February 28th, 1864</date>, his name having been dropped from the rolls since that time.</p>
+<p>Captain <hi rend="italic">Presley F. Hansbrough</hi>, to date <date when="1864-08-31">August 31st, 1864</date>, there being no rolls filed in this Office bearing his name since that date.</p>
+<p>Lieutenant and Adjutant <hi rend="italic">W. P. Pierce</hi>, to date <date when="1864-02-28">February 28th, 1864</date>, there being no rolls filed in this Office bearing his name since that date.<figure type="hr"/></p>
+<p>By order of Secretary of War:
+<lb/>E. D. TOWNSEND,
+<lb/>Assistant Adjutant General.</p>
+<p>OFFICIAL:
+<lb/>E D Townsend
+<lb/>Assistant Adjutant General.</p>
+<p>Governor of Kentucky.<pb/></p>
+<p>1<hi rend="str">2</hi>1" Cav<hi rend="sup">y</hi><figure type="hr"/>
+<lb/>Cozatt Jacob
+<lb/>Capt.<figure type="hr"/>
+<lb/>Hansbrough P. F.
+<lb/>Capt<figure type="hr"/>
+<lb/>Pierce W. P.
+<lb/>Lt &amp; Adjt.<figure type="hr"/>
+<lb/>Order<figure type="hr"/>
+<lb/>honorably discharging them from service<figure type="hr"/>
+<lb/>L B. No 9. 18B- p 116_<figure type="hr"/>
+<lb/>Rec<hi rend="sup">d</hi> A. G. O. <date when="1863-01-10">Jany 10. 1863</date></p>
+<p>Lt W. P. Pierce has been promoted to a captaincy in the Regt &amp; the Dept should be notified of the fact.</p>
+<p>T. E. B.</p>
+  </body>
+ </text>
+</TEI>

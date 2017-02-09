@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-032-0007"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">C. F. Hagedorn to James F. Robinson</title>
+    <title level="a" type="parallel">CWG7648</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Governor's Official Correspondence File, 1862-1863</collection>
+      <idno>R1-13 to R1-14</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Philadelphia, Philadelphia County, Pennsylvania</placeName>
+    <date when="1863-04-09">9 April 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Bavarian Consulate Genls:
+<lb/>Philadelphia <date when="1863-04-09">April 9<hi rend="underline"><hi rend="sup">th</hi></hi> 1863</date>.
+<lb/><hi rend="underline">Sir!</hi></p>
+<p>I have been directed by the Government of Bavaria which I have the honor to represent, to apply to your Excellency and request you to direct that I receive answers to the annexed questions from the proper Authorities of your State for transmission to Munic. viz -- </p>
+<p>1. In how far and how and under what circumstances, have married women the right in your State to dispose of, and hold property and act without approval to or consent of their husbands!</p>
+<p>2. Whether they have the right to make lawfully available statements and declarations &amp; arrangements to hold or dispose of any property belonging or coming to them without consulting &amp; consent of their husbands! in short what right of the Laws of your Commonwealth give and sanction in this<pb/>
+<lb/>behalf, as well as in behalf of women holding property under their own name, -- in short about womens rights in your Commonweath. -- </p>
+<p>By directing the proper Authorities of your State to furnish me with the desired information Your Excellency can confer a great favor to</p>
+<p>Your very obedient Servant!
+<lb/><hi rend="underline">C F. Hagedorn</hi>
+<lb/>Consul Genl of Bavaria</p>
+<p><figure type="hr"/>To His Excellency
+<lb/>James F. Robinson
+<lb/>Governor of the State of Kentucky
+<lb/>Frankfort.<figure type="hr"/><pb/></p>
+<p>Consul Gen<hi rend="underline"><hi rend="sup">l</hi></hi>
+<lb/>Bavaria
+<lb/>Philadelphia<figure type="hr"/>
+<lb/>Ans<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1863-04-25">Apr 25 1863</date></p>
+  </body>
+ </text>
+</TEI>

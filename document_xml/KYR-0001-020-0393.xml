@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0393"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Nathaniel Wolfe to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG9861</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG18-109 to MG18-110</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date when="1860-08-17">17 August 1860</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Louisville
+<lb/><date when="1860-08-17">17<hi rend="sup">th</hi> August 1860</date>
+<lb/>Hon: B Magoffin
+<lb/>Gov: &amp;<hi rend="sup">c</hi> &amp;<hi rend="sup">c</hi>
+<lb/>My dear Sir</p>
+<p>I venture to ask your intervention in behalf Hezekiah Alexander Jr a free man of color who has been lately sent to the Penetintiary from the County of Meade</p>
+<p>He was convicted contrary to every principle of Criminal law as I understand it. Th accompanying copy of the record in his Case <hi rend="str">will</hi> bear me out in the assertion. I trust you will read it and convince yourself of the fact.</p>
+<p>I presented the record to Judge Wood in order to obtain an order for an appeal, but<pb/>
+<lb/>be referred, not upon the grounds that the Court below did right in refusing to grant a new trial but because, the Code of Practice, did not authorize an appeal where the Bill of exceptions, as in this case, failed to show that a ^proper^ foundation was laid for the prayer for an appeal. By the Code of Practice the Court of Appeals <hi rend="str"><unclear/></hi> is not authorized to grant an appeal because the Court below erred in overuling a motion for a new trial.</p>
+<p>You will see by reading the record that the Court for the accused (in a moment of excitement I suppose) abandoned the case, because the Judge over ruled a motion for a Continuance of the case; and thus deprived the accused of the services<pb/></p>
+<p>I would respectfully ask you to do what the law itself I would do if the accused were tried over again and that is to discharge him. The record &amp; Laws that no crime was proved upon him. I send you the brief I prepared for Judge Wood It shows the exact state of the proof and the law of the case.</p>
+<p>I would not obtrude the letter upon you, if I did not feel, that the Executive clemency ought to be exerted in this case. The accused it is true is a negro, but I feel assured that your Excellency will look of the great wrong which has been done, and not at his coler, when you are forming a conclusion in the matter.</p>
+<p>Very Respy
+<lb/>yr obt srvt
+<lb/>N. Wolfe</p>
+  </body>
+ </text>
+</TEI>

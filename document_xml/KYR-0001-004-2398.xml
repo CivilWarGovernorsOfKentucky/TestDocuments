@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2398"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">M. B. Goble to Unknown</title>
+    <title level="a" type="parallel">CWG7035</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR15-329</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisa, Lawrence County, Kentucky</placeName>
+    <date when="1865-09-01">1 September 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Louisa Ky <date when="1865-09-01">Sept 1<hi rend="sup">st</hi> 1865</date>
+<lb/>Sir</p>
+<p>M<hi rend="sup">r</hi> <unclear>Cartmal</unclear> Left the within petition with me to get assigers and if I thought it would make any more impresion on your mind I could get 1000. men in Lawrence Co to do so. but hoping you will grant his request as prayed in his petition. I will Leave the mater in your hands knowing that if you do you will Save his Famly from suffering pleas. send answer to his petition to me</p>
+<p>Yours &amp;c
+<lb/>M B Goble
+<lb/>Louisa
+<lb/>Ky
+<lb/>To<pb/></p>
+<p>Lawrence Cir Ct
+<lb/>vs
+<lb/>Tho<hi rend="sup">s</hi> <unclear>Cortmal</unclear>
+<lb/>$60,
+<lb/>Tipling
+<lb/>Remitted <date when="1865-12-11">11 Dec /<hi rend="underline">65</hi></date></p>
+  </body>
+ </text>
+</TEI>

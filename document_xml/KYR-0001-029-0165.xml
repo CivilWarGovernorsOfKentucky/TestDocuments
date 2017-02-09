@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0165"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Luther Wilson et al. to James F. Robinson</title>
+    <title level="a" type="parallel">CWG8617</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Governor's Official Correspondence File, Petitions for Pardons, Remissions, and Respites, 1862-1863</collection>
+      <idno>R3-254</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date when="1863-01-17">17 January 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Louisville <date when="1863-01-17">January 17<hi rend="sup">th</hi> 1863</date>
+<lb/>To his Excellency
+<lb/>Jas F Robinson -- </p>
+<p>We the undersigned Jury-men who tried Jas,, H. Montgomery at the present term of the Jefferson Circuit Court, for the killing of Gibbs, and for which we found him guilty of manslaughter and sentenced him therefor to two years confinement in the penitentiary of the Commonwealth, do most earnestly recommend him to Executive Clemency</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Luther Wilson
+<lb/>W. W. Owen
+<lb/>V, C, Kendall
+<lb/>J, H, M<hi rend="underline"><hi rend="sup">c</hi></hi>Cleary
+<lb/>J. Collins
+<lb/>A, B, Dean
+<lb/>J G M<hi rend="sup">c</hi>gehee
+<lb/>J Nettinger
+<lb/>John Bull</p>
+<p><cb n="2"/>I am apprised that Mr Montgomery case is one for excecutive clemency that he is an industrious man &amp; his <unclear/> to <unclear/> his family would be acceptable to huge number of people who know him</p>
+<p>James Euther</p>
+<p><milestone unit="column" n="1"/>Dear Governor</p>
+<p>The wife of M<hi rend="underline"><hi rend="sup">r</hi></hi> Montgomery is in deep distress. She begs me to ask a pardon for her husband. I cannot resist her appeal Montgomery has always been a good<pb/>
+<lb/>and industrious citizen. The law has been vindicated by his conviction and mercy may well intervene &amp; spare him.</p>
+<p>Very Resptly &amp;,
+<lb/><hi rend="underline">P. B. Muir</hi></p>
+<p>This will be handed you by Mrs Montgomery who is the wife of the unfortunate person represented in the foregoing, from the history of the case of Montgomery, as I have it from Bersars &amp; worthy of the highest confidence, and the expression of public sentiment, I doubt not but the exercise of Execuitive clemency will be highly satisfactory</p>
+<p>Yours Truly
+<lb/>L L Shrer</p>
+<p>To his Exc<hi rend="sup">y</hi>
+<lb/>Gov<hi rend="underline"><hi rend="sup">r</hi></hi> Robinson
+<lb/>Frankfort
+<lb/>Ky</p>
+  </body>
+ </text>
+</TEI>

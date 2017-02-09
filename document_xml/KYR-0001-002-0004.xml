@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-002-0004"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">William E. Baker to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG0869</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Jacob A Glover</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Appointments by the Governor, Military Appointments, 1863-1867</collection>
+      <idno>BR5-311 to BR5-312</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Columbia, Adair County, Kentucky</placeName>
+    <date when="1863-11-13">13 November 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><hi rend="underline">Private</hi>
+<lb/>Columbia <date when="1863-11-13">Novr 13/63</date>
+<lb/>My Dear Gov.</p>
+<p>I have just learned from Tyler Alexander that it is probable he will resign his Commission as provost Marshall of this district some time in <date when="1863-12">Decr next,</date> without inflicting <hi rend="str"><unclear/></hi>upon you a long and vexatious ennumeration of my political claims and services as is usual in such cases, or even making tedious apologies for approaching you upon the subject, I will merely state that as I am now out of business, and consider myself in many respects peculiarly adapted to such<pb/>
+<lb/>a position I would be much gratified to get the appointment. I will also say so far as I have heard any expression of opinion upon the subject our people would be thoroughly satisfied with the appointment. In fact it never occured to me to apply for the position until it was suggested to me. As two members of the board are from the most Northern County of the district (Shelby) our County being the farthest south, is certainly entitled to the other one, I hope to see you soon &amp; present <hi rend="underline">many</hi> other considerations which if stated here would perhaps draft too heavily on your time &amp; patience,<pb/>
+<lb/>this is only for the purpose of requesting (if consistent with your feelings and convictions of duty,) that you will not commit yourself to interests of any one else in this matter until I see you.</p>
+<p>Yours Respectfly
+<lb/>W<hi rend="sup">m</hi>. E. Baker<pb/></p>
+<p>Baker's Letter</p>
+  </body>
+ </text>
+</TEI>

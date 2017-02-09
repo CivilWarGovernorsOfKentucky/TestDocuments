@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0504"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">R. S. Lanier to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG2169</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Appointments by the Governor, Civil Appointments, 1863-1867</collection>
+      <idno>BR2-462 to BR2-463</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Macon, Macon County, Georgia</placeName>
+    <date when="1865-08-29">29 August 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Macon Geo. <date when="1865-08-09">August 29/65</date>.
+<lb/>His Excellency -- 
+<lb/>Governor, State of Kentucky:</p>
+<p>Sir: -- I respectfully ask to be appointed <hi rend="underline">Commissioner</hi> for the State of Kentucky to take acknowledgement of deeds &amp;c. &amp;c. in the State of Georgia -- such officer being now needed in middle Ga. on the re-establishment of business relations between several states.</p>
+<p>Very respectfully
+<lb/>R. S. Lanier.</p>
+<p>Macon Ga. <date when="1865-08-29">August 29/65</date>.</p>
+<p>The applicant, R. S. Lanier, of Bibb County Georgia, is well known to me; is of good character, has taken the amnesty oath &amp; is not, as I am well assured, embraced within any of the exception in the amnesty proclamation.</p>
+<p>J Johnson
+<lb/>Pro Gov of Ga<pb/></p>
+<p>Comr Deeds
+<lb/>R. S. Lanier
+<lb/>Georgia
+<lb/>com<hi rend="sup">d</hi>
+<lb/><date when="1865-09-05">5 Sept/65</date></p>
+  </body>
+ </text>
+</TEI>

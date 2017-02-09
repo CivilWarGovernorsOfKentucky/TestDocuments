@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1975"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Commonwealth of Kentucky v. William Leeg, Judgment</title>
+    <title level="a" type="parallel">CWG11443</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Bradley Strait</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG23-432</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Henderson County, Kentucky</placeName>
+    <date when="1862-06">June 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Henderson Circuit Court
+<lb/><date when="1862-06">June Term 1862</date>
+<lb/>Commonth of Ky Plantiff
+<lb/>vs } Indictment for keeping a Tippling House. 
+<lb/>William Leeg Defendent</p>
+<p>The defendant appeared in court in proper person and for plea says that he is Guilty of the offence charged in the Indictment but here enter his solemn promise not to be guilty of the like offence again It is therefore adjudged by the court that the Plantiff recover of this defendant the sum of Sixty Dollars the fine fixed by law together with the costs of this prosectuion but in view of the circumstances and of the fact of the defendants appearance in court and acknowlidgment of the offence charged against him and his contrition and repentance therefor, are sufficient grounds to induce the court to favorably recommend him to the Executive of the State for a remission of the fine against him herein. </p>
+<p>A True Copy Attest <hi rend="underline">T,, J,, Hopkins C H C C</hi><pb/></p>
+<p>Commth of Ky
+<lb/>To } copy Order
+<lb/>William Leeg<figure type="hr"/>
+<lb/><date when="1862-06">June Term 1862</date></p>
+  </body>
+ </text>
+</TEI>

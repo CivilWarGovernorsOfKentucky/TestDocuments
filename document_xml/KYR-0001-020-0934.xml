@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0934"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">W. B. Thompson et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10402</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG19-482</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Munfordville, Hart County, Kentucky</placeName>
+    <date when="1861-04-19">19 April 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Munfordville Ky. <date when="1861-04-19">April 19<hi rend="sup">th</hi> 1861.</date>
+<lb/>His Exelency. B. Magoffin
+<lb/>Frankfort Ky
+<lb/>Respected sir</p>
+<p>you will find herewith enclosed the petition of H. H. Lock and nathan Goldsmith to your Exelency to remit a fine against them for selling spirits to a miner. (The cases ^were^ tried at our <date when="1861-04">present april</date> term of the Hart equity &amp; criminal Court) together with the petition of the jury who tried them, and also the letter of the prosecuting attorney, all of whom request that your Exelincy remit said fines for the reasons they have stated.</p>
+<p>now we the undersigned practicing lawyers in the town of Munfordville, would state that we were present at said tryals and are personally aquainted with both H. H. Lock &amp; Nathan Goldsmith. and that it is and was our opinion that there was no intention whatever on the part of either of them to violate the law in selling spirits to Cumpton who was the miner that bought of them the spirits. Mr. Cumpton was in his 21<hi rend="sup">st</hi> year Deputy Clerk of our Circuit &amp; County courts and transacts the principal business of both offices, and a steady clever gentleman and to all appearance would scarcely ever be taken for a miner.</p>
+<p>Mr. Lockand Mr. Goldsmith are both clever gentlemen and we think this case deserves executive Clemency and therefore recommend that their fines be remitted</p>
+<p>verry respectfuly yours &amp;C.
+<lb/>W. B. Thompson<pb/>
+<lb/>J W Edwards County Atty.
+<lb/>Ja<hi rend="sup">s</hi>. A. Dawson -- 
+<lb/><hi rend="underline">H M Suffitt</hi>,,
+<lb/>Jno. S, Bohannon
+<lb/>Jno. Donan</p>
+<p>Petition of the Bar to remit fine of Lock &amp; Goldsmith<figure type="hr"/></p>
+<p>Remitted
+<lb/>B M</p>
+  </body>
+ </text>
+</TEI>

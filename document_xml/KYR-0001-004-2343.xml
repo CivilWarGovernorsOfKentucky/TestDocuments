@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2343"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Robert B. Gibbs to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6980</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR15-242 to BR15-243</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Mercer County, Kentucky</placeName>
+    <date when="1865-09-16">16 September 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>State of Kentucky
+<lb/>Mercer County } Sct -- 
+<lb/>To His Excellency, Thos. E Bramlette Governor of Kentucky;</p>
+<p>Your petitioner, Robert Gibbs, states that about the <date when="1865-06-30">30<hi rend="underline"><hi rend="sup">th</hi></hi> day of June, 1865</date>, he was fined $15 and costs in the Police Court of Harrodsburg on a charge of a breach of the peace in fighting with one William Gallaher -- He states that at the trial there was no ^positive^ testimony as to how the fight Commenced or who Commenced it; it was impossible to get ^direct^ testimony on this point as no one Saw the origin of the fight, though what testimony there was on that point went to Show that the fight was Commenced by William Gallaher -- Petitioner States Solemnly on oath that he did not commence the fight; that it was commenced by the Said William Gallaher and that Your petitioner used only Sufficient force to repel the attack made on him -- He says the Said fine was replevined by him, and unless the said fine is remitted execution will issue in a few days and your petitioner will be compelled to pay it -- Wherefore petitioner asks Your Excellency to remit<pb/>
+<lb/>said fine -- He says the foregoing statements are true -- </p>
+<p>R. B.. Gibbs</p>
+<p>Subscribed &amp; Sworn to before me by Robt. Gibbs thas <date when="1865-09-16">16<hi rend="underline"><hi rend="sup">th</hi></hi> day of September 1865</date> -- </p>
+<p>Tho<hi rend="sup">s</hi> H Hardin P J. T. H
+<lb/><stamp type="revenue"/><note place="stamp">T H -- H
+<lb/>16 Sept
+<lb/>1865</note></p>
+<p>John G. Kyle States that he was the town attorney who prosecuted the petitioner, Robt. Gibbs, in the police Court When he was fined as stated by him -- He states that he believes the statements of the said Gibbs petition are true and that in his opinion it is a meritourious Case for Excecutive clemency.</p>
+<p>John G. Kyle
+<lb/>Town -- Attorney</p>
+<p>Subscribed and Sworn to before me by Jno. G. Kyle, town-attorney. this the <date when="1865-09-16">16<hi rend="underline"><hi rend="sup">th</hi></hi> of September 1865</date> -- </p>
+<p>Tho<hi rend="sup">s</hi> H. Hardin P J. T H
+<lb/><stamp type="revenue"/><note place="stamp"><unclear/></note><pb/></p>
+<p>We the undersigned Citizens petition your Excellency to Grant the petition of Robt. Gibbs of whom we can speak favorably in his deportment and character</p>
+<p>Thos. H. Hardin P. J. T. H.
+<lb/>Tho C Bell
+<lb/><hi rend="underline">J. W. Cardwell</hi>
+<lb/>Tho<hi rend="sup">s</hi> Edwards P J M C C
+<lb/>Richard Brand Clerk Mercer Circuit Court
+<lb/>C. S. Abell clerk county court.<pb/></p>
+<p>Harrodsburg Police Ct
+<lb/>Remit
+<lb/>vs
+<lb/>Robt Gibbs
+<lb/>$15,
+<lb/><date when="1865-09-20">20 Sept/65</date></p>
+  </body>
+ </text>
+</TEI>

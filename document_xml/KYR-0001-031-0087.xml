@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-031-0087"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John J. Crittenden to James F. Robinson</title>
+    <title level="a" type="parallel">CWG7827</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Appointments by the Governor, Civil Appointments, 1862-1863</collection>
+      <idno>R1-131 to R1-132</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Washington, District of Columbia</placeName>
+    <date when="1862-12-13">13 December 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Washington D. C.
+<lb/><date when="1862-12-13">December 13<hi rend="underline"><hi rend="sup">th</hi></hi> 1862.</date>
+<lb/>Dear Sir,</p>
+<p>M<hi rend="underline"><hi rend="sup">r</hi></hi> W. A. M. Van Bokkelen has sent me an application directed to your Excellency, accompanied by the proper testimonials, for the appointment of Commissioner of Deeds for the State of Kentucky to reside at Virginia City, Storey County, Nevada Territory, and he requests me to forward the same to you with my endorsement thereto.</p>
+<p>In transmitting herewith these papers to your Excellency I take pleasure to recommend the apointment of M<hi rend="underline"><hi rend="sup">r</hi></hi> Bokkelen to said office, and, should any difficulty be in the way of forwarding his commission by the applicant's failure to remit the fee, I will thank the Hon Sec<hi rend="underline"><hi rend="sup">y</hi></hi> of State to write to him to that effect, that he may comply with the<pb/>
+<lb/>usage requisite in the case.</p>
+<p>I am, my dear Sir,
+<lb/>Yours' very truly
+<lb/>J. J. Crittenden</p>
+<p>To His Excellency
+<lb/>J. F. Robinson
+<lb/>Governor of Kentucky.<pb/></p>
+<p>Nevada Ter.<figure type="hr"/>
+<lb/><hi rend="underline">Comm</hi><hi rend="underline"><hi rend="sup">r</hi></hi><hi rend="underline"> of Deeds</hi>
+<lb/>Virginia City
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> A. M. Van Bokkelen
+<lb/>App<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1862-12-18">Dec<hi rend="sup">r</hi> 18. 1862</date></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2002"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">W. J. Simmons to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6639</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR14-155 to BR14-156</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Williamstown, Grant County, Kentucky</placeName>
+    <date when="1865-06-01">1 June 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Williamstown
+<lb/><hi rend="str">May</hi><date when="1865-06-01">June 1<hi rend="underline"><hi rend="sup">st</hi></hi> 1865</date>
+<lb/>Hon Thomas E Bramlet
+<lb/>Governor of Kentucky</p>
+<p>G R Scott was arrested here yesterday for Peddling without Licens &amp; was fined by judge Burnett $50. &amp; Costs -- He had no money &amp; the goods with him is worth nothing &amp; he a total stranger &amp; is now in jail -- will you please remit the fine -- I am the Atty for the county &amp; will cheerfully receipt to him for my percent without receiving a cent -- Judge Burnett who tried the man approves the effort for his discharge I will send this by E H Smith Esqr who will explain more fully.</p>
+<p>Your Obt Servt
+<lb/>W. T. Simmons<pb/></p>
+<p>County Court
+<lb/>Grant Co
+<lb/>vs
+<lb/>G. R. Scott
+<lb/>$50.
+<lb/>Remitted <date when="1865-06-03">3<hi rend="sup">D</hi> June/65</date></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0033"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Alexander Jolly et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG4152</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR8-48 to BR8-49</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Ripley, Brown County, Ohio</placeName>
+    <date when="1863-09-22">22 September 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency Thomas E. Bramlette
+<lb/>Governor of kentucky:</p>
+<p>The undersigned Citizens of Ripley Ohio state: W<hi rend="sup">m</hi>. M. Bartley (called Bartlett), a citizen of this place was recently indicted in the Mason Circuit Court Ky and convicted of larceny and sent to the Penitentiary for one year. They have ascertained it as a fact and so state it that when the offence was committed he was in a state of intoxication. While in the condition, he is different from the generality of persons. he borders upon lunacy, and seems to have no consciousness of what he is doing. This is his first offence. He has a delicate wife and several children who are left in a state of utter destitution. In view of the circumstances the undersigned unite in what they understand was part of the verdict of the Jury and earnestly recommend your Excellency to pardon him
+<lb/><date when="1863-09-22">September 22<hi rend="sup">nd</hi> 1863</date></p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Alexander Jolly Com Merchant
+<lb/>L. &amp; S. Jolly Greensware merchants
+<lb/>A R Davison Merchant
+<lb/><cb n="2"/>G Barcaw Merchant
+<lb/>Snider &amp; Busby hardward ^merchant^
+<lb/>H Thompson merchant
+<lb/>Jas W Frost merchant
+<lb/>E. Mckinley marchant<pb/>
+<lb/><cb n="1"/>J. A. Williams merchant
+<lb/>Geo Pittenger merchant
+<lb/>N P Wiles merchant
+<lb/>J N Hunter Drugest
+<lb/>W. S. Lain merchant
+<lb/>O C Ross merchant
+<lb/>W. A. Trigg merchant
+<lb/>Harvey Palmer
+<lb/>Jim <unclear>Harvey</unclear>
+<lb/>Fred <unclear/>
+<lb/>W. M. Armstrong merchant
+<lb/>R Fulton Drugist
+<lb/>H B Zeller
+<lb/>T. Garvin merchant
+<lb/>C Shaw
+<lb/>P L Caldwell merchant
+<lb/>Henry Moore
+<lb/>Michael Crowe
+<lb/>Henry Corbin
+<lb/>Peter <unclear>Benua</unclear>
+<lb/>Samuel Lindey merchant
+<lb/>James Reynolds
+<lb/>S. Moore
+<lb/>D B Evans merchant
+<lb/>M. A. Conley merchant
+<lb/>Thomas Dunkard
+<lb/>Robert Thompson
+<lb/>F. Taylor Liggett
+<lb/><cb n="2"/>A Masting merchant
+<lb/>C Winter Doctor
+<lb/>F. F. Shaw Notary Pubcli B. C. C.
+<lb/>L G Panner Builder
+<lb/>E. R. Ben M. D.
+<lb/>S. Hemphill</p>
+<p>I know nothing as to his condition when intoxicated</p>
+  </body>
+ </text>
+</TEI>

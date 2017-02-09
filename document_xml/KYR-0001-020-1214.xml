@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1214"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Richard H. Stanton to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10682</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG21-56 to MG21-57</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Maysville, Mason County, Kentucky</placeName>
+    <date when="1861-07-23">23 July 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Will Practice in Mason and adjoining Counties, also in District and Federal Courts and Court of Appeals.</p>
+<p>Collections in any part of Northern Kentucky will receive prompt attention.</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>R. H. STANTON.
+<lb/><cb n="2"/>THOS. J. THROOP.<milestone unit="column" n="1"/>
+<lb/>STANTON &amp; THROOP,
+<lb/>ATTORNEYS AT LAW,
+<lb/>Maysville, Ky, <date when="1861-07-23">July 23 1861</date></p>
+<p>My dear Governor,</p>
+<p>Mr. Andrew G. Wilson, a most excellent citizen, and an upright law abiding man, had an old negro man, who took the liberty of going off and working for himself, and who from a rheumatic affection, was not perhaps restrained as much by his master as he should have been, M<hi rend="sup">r</hi> Wilson for this was indicted and fined in the Mason Circuit Court 40$ for permitting him to go at large &amp;c, He asks you to remit so much of the fine as you can remit, and I concur with him in the application, I have send the remitted to me at this place,</p>
+<p>Your friend
+<lb/>R H Stanton</p>
+<p>Hon B Magoffin
+<lb/>Governor &amp;c</p>
+<p><note place="left margin">Mr Wilson gave the court no trouble but confessed judgment, relying upon your clemency,</note><pb/></p>
+<p>Remitted
+<lb/>B. M</p>
+<p>Is<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1861-07-30">July 30</date></p>
+  </body>
+ </text>
+</TEI>

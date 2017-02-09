@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-2045"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">George B. Kinkead et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG9121</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG24-59 to MG24-60</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Lexington, Fayette County, Kentucky</placeName>
+    <date when="1862-07-02">2 July 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>The undersigned would respectfully represent to your Excellency that Matthew MacNamara, has been fined in the City Court of Lexington One Hundred Dollars and costs for an assault on William Malory We understand that he was provoked to make the assault of Malory charging him to his face that he had murdered his own wife and when the Case was brought into the Court Mr MacNamara confessed Judgement to the extent of the law.</p>
+<p>The undersigned believe that he only acted in making the assault for such an outrage as any other man of spirit would have done, And that your Excellency will see at once that it is not the case of a man who wantonly violates the law We solicit you to remit the fine as far as it is in your power.</p>
+<p>We believe Mr MacNamara to be a peaceable and good Citizen,</p>
+<p>Geo. B. Kinkead
+<lb/><hi rend="underline">James B Beck</hi>
+<lb/>Cha<hi rend="underline"><hi rend="sup">s</hi></hi> P <unclear/>
+<lb/><hi rend="underline">W</hi><hi rend="underline"><hi rend="sup">m</hi></hi><hi rend="underline"> P Breckinridge</hi>
+<lb/>H. M. Skillman
+<lb/>Samuel Grinstead J
+<lb/><hi rend="underline">F K Hunt</hi>
+<lb/>Bryan H Allen<pb/></p>
+<p>I was one of Mr McNamara's counsel on the charge for killing his wife we urged trial every term &amp; at last the Com<hi rend="sup">th</hi> dismissed the prosecution we had full proof by Dr Skillman that she died of disease &amp; all the circumstances showed that it was a malicious prosecution. therefor Malorys charge of the crime on him was wholly circumstantial &amp; of course aggravating</p>
+<p><date when="1862-07-02">July 2<hi rend="sup">d</hi>/62.</date></p>
+<p>Ja<hi rend="sup">s</hi> B Beck<pb/></p>
+<p>Remitted
+<lb/>B. M</p>
+<p>Issued <date when="1862-07-03">July 3</date> &amp; costs</p>
+  </body>
+ </text>
+</TEI>

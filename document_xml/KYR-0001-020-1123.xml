@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1123"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">A. G. Rhea to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10591</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG20-238 to MG20-239</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Russellville, Logan County, Kentucky</placeName>
+    <date when="1861-05-01">1 May 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Russellville, Ky <date when="1861-05-01">May 1<hi rend="sup">st</hi> 1861.</date>
+<lb/>To His Excellency
+<lb/>Hon. Beriah Magoffin
+<lb/>Governer of Kentucky:
+<lb/>Dear Sir:</p>
+<p>Sometime in <date when="1858-08">August 1858,</date> John M<hi rend="sup">c</hi>Clean, a citizen of the County of Logan became involved in a personal encounter with another citizen of said County, named John Brown in which said M<hi rend="sup">c</hi>Clean inflicted several wounds on the person of said Brown, with a common pocket knife. At the ensuing term of the Logan Circuit Court thereafter an indictment was returned against said M<hi rend="sup">c</hi>Clean for stabbing with intent to kill. The cause was continued by the Commonwealth until the <date when="1861-01">January term 1861</date> of the Logan Equity and Criminal Court, when by Consent of Court and Commonwealths Attorney a trial was waived and the defedant confessed judgment &amp; an assault and battery and his fine was assesed at fifty dollars. -- <pb/>
+<lb/>The facts in the case, it is exceedingly doubtful if a trial had been regulary gone through with, would not even have warranted a conviction of an assault and battery. The testimony I know was conflicting <hi rend="str">as</hi> to who struck first, but M<hi rend="sup">c</hi>Clean is an exceedingly poor man, and under advice of his counsel, to save the expense of a trial in the way of attorney fees &amp;c, consented to a judgment assessing a fine against him for fifty dollars as before stated. A <hi rend="underline">capias</hi> has issued against him on said judgment. He is an exceedingly poor man with a wife nearly blind and a large family of helpless children. He is a painter by trade and owing to the great financial and political troubles, he is not able to obtain work enough to support comfortably his helpless family. Had times had remained difficult he would honestly have paid the fine, but he now finds it next to an impossibility to do so. Though<pb/>
+<lb/><unclear/> he humbly beseeches your Excellency to interfere and release him from his liability by reason of such fine. If payment is exacted imprisonment will be almost necessarily the consequences &amp; his family be deprived of the aid &amp; sustenance they now receive favor the little work he is unable to obtain &amp; now do. He is a man advanced in years, nearly sixty-years of age, of good family and an interposition on the part of your excellency would meet with the approbation of the citizens of the community in which he resides.</p>
+<p>Yours Very respectfully
+<lb/><hi rend="underline">A. G. Rhea</hi><pb/></p>
+<p>Logan Eq. Ct</p>
+<p>Remitted
+<lb/>B. M</p>
+<p>Iss<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1861-05-03">May 3 61</date></p>
+<p><hi rend="underline">Jno. M</hi><hi rend="underline"><hi rend="sup">c</hi></hi><hi rend="underline">Clean</hi></p>
+  </body>
+ </text>
+</TEI>

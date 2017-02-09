@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1958"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">T. J. Conner, Warrant</title>
+    <title level="a" type="parallel">CWG11426</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Bradley Strait</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG23-408</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Jefferson County, Kentucky</placeName>
+    <date when="1862-06-16">16 June 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>The Commonwealth of Kentucky</p>
+<p>To any Constable of Jefferson County you are commanded to arrest John Nelson William Nelson and Dorcas and bring them forthwith before me or some other Justice of the Peace of said County at Dr Wilson's will to answer the charge made against them of having committed an assault and Battery on the person John Gilliland at the house of the said John Nelson on the <date when="1862-06-14">14<hi rend="underline"><hi rend="sup">th</hi></hi> day of June 1862</date></p>
+<p>Given under my hand this <date when="1862-06-16">16<hi rend="underline"><hi rend="sup">th</hi></hi> day of June 1862</date></p>
+<p>T. J. Conner J. P. J. C.</p>
+<p>Summon
+<lb/>John Gilliland Jr and T Sturgeon</p>
+<p>A copy attest</p>
+<p>T. J. Conner J. P. J. C.<pb/></p>
+<p>Com'th
+<lb/>vs } Warrant
+<lb/>John, William, and Dorcas Nelson</p>
+<p>Executed the within warrant of arrest By arresting John, William and Dorcas Nelson and bringing them before T. J Conner a Justice of the Peace of Jefferson County this <date when="1862-06-18">18<hi rend="underline"><hi rend="sup">th</hi></hi> day of June 1862</date></p>
+<p>J. G. Walden C. J. C</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0144"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">T. P. Atticus Bibb to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG9612</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG17-65 to MG17-66</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Russellville, Logan County, Kentucky</placeName>
+    <date when="1860-10-29">29 October 1860</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Russellville Ky
+<lb/><date when="1860-10-29">Oct: 29<hi rend="sup">th</hi> 1860</date>
+<lb/>My dear Governor</p>
+<p>Jesse Mansfield a poor old Preacher of this County entered into a Recognizance in the sum of $1000 for the appearnce of his son G. D. Mansfield at the <date when="1860-07">July Term 1860</date> of the Equity &amp; Criminal Court of Logan County -- His son was charged with Rape -- He failed to appear and the Recognizance is Forfeited -- There is ^<hi rend="underline">no</hi>^ "<hi rend="underline">Stir</hi>" about the matter not even enough to inquire where the fellow is -- I want you to Remit the Forfeiture so far as Jesse Mansfield is Concerned -- It will ruin the old man if it is not remitted -- The old man stood by his Son as he ought to have done but the Son did not Stand by him This is the first favour I have asked and I would not ask this if I did not believe you will ^be^ justified by all the fathers of the Land in remitting it -- Send the Remission to me -- </p>
+<p>Respy &amp;c
+<lb/>T. P. Atticus Bibb<pb/></p>
+<p>Logan E. &amp; C. Ct.
+<lb/>$1000 } Forfeited Recognizance
+<lb/>Jesse Mansfield
+<lb/>Remitted
+<lb/>B. M
+<lb/>Iss<hi rend="sup">d.</hi> <date when="1860-11-13">Nov 13. 1860</date></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2434"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Thornton F. Marshall to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7071</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR15-381 to BR15-382</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Augusta, Bracken County, Kentucky</placeName>
+    <date when="1865-09-03">3 September 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Augusta Ky
+<lb/><date when="1865-09-03">Sept 3d 1865</date>
+<lb/>Gov Bramlette
+<lb/>Dear Sir</p>
+<p>At the February term of the Bracken Circuit Court Joseph Neaves failed to appear in obedience to his recognizance to answer a charge for stabbing a man by the name of Thomas Manson -- In January preceeding said term he had volunteered in Col True'<hi rend="sup">s</hi> Ky regiment &amp; was <hi rend="underline">at the</hi> ^time of the^ <date when="--02">February</date> term in Eastern Ky immediately in front of the Enemy -- I could not under <hi rend="underline">such</hi><pb/>
+<lb/>circumstances obtain permission to come home &amp; attend our court -- This state of case was established at this term (<date when="--08">August</date>) of our Court by abundant &amp; incontestable proof, but the court decided they could not <hi rend="underline">reconsider</hi> &amp; set aside its judgment -- Neaves attended the present term of the court (Having a furlough for that purpose) &amp; was made to answer to the charge against him I will ultimately show all he has done was in self denfense -- The Commonwealth<lb/>
+<lb/>continued the case &amp; Neaves returned to the army where he is at this time -- I have no hesitation in saying you ought to interfere &amp; relieve Neaves form the payment of said penalty -- The fine has been replevied &amp; Execution issued upon the bond &amp; in the hands of the Sheriff against Neaves &amp; unless you act early will be collected from Neaves -- I have not pursued the usual course of procuring a petition, but make this<lb/>
+<lb/>representation of facts upon my honor -- If you remit the penalty enclose the evidence thereof to me, as Neaves is in the Army -- I enclose you the summons against Neave<hi rend="sup">s</hi> sureties --.</p>
+<p>very Truly Yours
+<lb/><hi rend="underline">Thornton F. Marshall</hi></p>
+<p>Bracken Cir Ct
+<lb/>vs
+<lb/>H. Rice Tho<hi rend="sup">s</hi> Riley &amp; Jos Neaves
+<lb/>$300.
+<lb/><date when="1865-09-06">6 Sept /65</date></p>
+  </body>
+ </text>
+</TEI>

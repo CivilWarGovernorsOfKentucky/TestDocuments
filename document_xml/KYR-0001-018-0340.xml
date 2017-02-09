@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-018-0340"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John W. Finnell to Nathaniel Gaither, Jr.</title>
+    <title level="a" type="parallel">CWG8406</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Military Appointments, 1859-1862</collection>
+      <idno>MG6-455</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1862-06-25">25 June 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><figure type="seal"><ab>UNITED WE STAND, DIVIDED WE FALL.
+<lb/>KENTUCKY.</ab></figure>
+<lb/>Head-Quarters Kentucky Volunteer Militia,
+<lb/>ADJUTANT GENERAL'S OFFICE,
+<lb/>Frankfort, <date when="1862-06-25">June 25th 1862</date>.</p>
+<p>Hon: Nat Gaither Jr 
+<lb/>Sec of State-</p>
+<p>The following changes have taken place in the Officers Comm<hi rend="underline"><hi rend="sup">d</hi></hi> among the Ken: Vols: please note the same viz: 
+<lb/><table rend="rules">
+<row>
+	<cell> </cell>
+	<cell> </cell>
+	<cell> </cell>
+	<cell>date of Com:</cell>
+	<cell> </cell>
+	<cell> </cell>
+</row>
+<row>
+	<cell>Albert G. Ragsdale</cell>
+	<cell>Lieut:</cell>
+	<cell>Promoted-</cell>
+	<cell>Feb</cell>
+	<cell><date when="1862-02-10">10</date>.</cell>
+	<cell>1862</cell>
+</row>
+<row>
+	<cell>Beckwith Delmear</cell>
+	<cell> -- </cell>
+	<cell> -- " -- </cell>
+	<cell>Ap. </cell>
+	<cell><date when="1862-04-17">17</date>.</cell>
+	<cell>"</cell>
+</row>
+<row>
+	<cell>W<hi rend="sup">m</hi> H Henry</cell>
+	<cell> -- "</cell>
+	<cell> -- " -- </cell>
+	<cell>Feb</cell>
+	<cell><date when="1862-02-10">10</date>.</cell>
+	<cell>"</cell>
+</row>
+<row>
+	<cell>Ben F. Pumphrey</cell>
+	<cell> -- "</cell>
+	<cell> -- " -- </cell>
+	<cell>Ap:</cell>
+	<cell><date when="1862-04-13">13</date>.</cell>
+	<cell>"</cell>
+</row>
+<row>
+	<cell>Henry S. Parrish</cell>
+	<cell> -- "</cell>
+	<cell> -- " -- </cell>
+	<cell>Nov.</cell>
+	<cell><date when="1861-11-12">12</date>.</cell>
+	<cell>1861</cell>
+</row>
+<row>
+	<cell>Ben H. Chiles</cell>
+	<cell> -- "</cell>
+	<cell> -- " -- </cell>
+	<cell>" -- </cell>
+	<cell><date when="1861-11-12">"</date> -- </cell>
+	<cell>"</cell>
+</row>
+<row>
+	<cell>Theod. B. Rushing</cell>
+	<cell>_Capt_</cell>
+	<cell>dead -- </cell>
+	<cell>" -- </cell>
+	<cell>_<date when="1861-11-05">5</date>_</cell>
+	<cell>"</cell>
+</row>
+<row>
+	<cell>James C. Morris -- </cell>
+	<cell>Lieut -- </cell>
+	<cell>Promoted -- </cell>
+	<cell>" -- </cell>
+	<cell><date when="1861-11-12">12</date> -- </cell>
+	<cell>"</cell>
+</row>
+<row>
+	<cell>Isaac Calhoon -- </cell>
+	<cell>Major -- </cell>
+	<cell>resigned -- </cell>
+	<cell>Jan</cell>
+	<cell><date when="1862-01-01">1</date> -- </cell>
+	<cell>1862</cell>
+</row>
+<row>
+	<cell>W<hi rend="underline"><hi rend="sup">m</hi></hi> Singleton</cell>
+	<cell>Surgeon -- </cell>
+	<cell>resigned -- </cell>
+	<cell>Dec</cell>
+	<cell><date when="1861-12-04">4</date>.</cell>
+	<cell>1861</cell>
+</row>
+<row>
+	<cell>Tho. C. Pomeroy</cell>
+	<cell>Q<hi rend="sup">r</hi> Mas -- </cell>
+	<cell>resigned -- </cell>
+	<cell>Sep.</cell>
+	<cell><date when="1861-09-09">9</date>.</cell>
+	<cell>1861</cell>
+</row>
+<row>
+	<cell>Tho. J. M<hi rend="sup">c</hi>Manen</cell>
+	<cell>Lieut -- </cell>
+	<cell>resigned -- </cell>
+	<cell>" -- </cell>
+	<cell><date when="1861-09-09">"</date> -- </cell>
+	<cell>"</cell>
+</row>
+<row>
+	<cell>W<hi rend="underline"><hi rend="sup">m</hi></hi> R. Hunter -- </cell>
+	<cell>Captain -- </cell>
+	<cell>resigned -- </cell>
+	<cell>Nov</cell>
+	<cell><date when="1861-11-12">12</date>.</cell>
+	<cell>1861</cell>
+</row>
+<row>
+	<cell>W<hi rend="underline"><hi rend="sup">m</hi></hi> Happ -- </cell>
+	<cell>Lieut -- </cell>
+	<cell>resigned</cell>
+	<cell>" -- </cell>
+	<cell><date when="1861-11-12">"</date> -- </cell>
+	<cell>"</cell>
+</row>
+<row>
+	<cell>W<hi rend="sup">m</hi> P. Payne -- </cell>
+	<cell>Capt -- </cell>
+	<cell>resigned -- </cell>
+	<cell>"</cell>
+	<cell><date when="1861-11-16">16</date> -- </cell>
+	<cell>"</cell>
+</row>
+<row>
+	<cell>Nelson B. Church</cell>
+	<cell>Capt -- </cell>
+	<cell>heretofore reported as mustered out of service (<date when="1862-03-15">15 March 1862</date>) and he now resigns -- </cell>
+	<cell>"</cell>
+	<cell><date when="1861-11-12">12</date> -- </cell>
+	<cell>" -- </cell>
+</row>
+<row>
+	<cell>John M. Thomas</cell>
+	<cell>Lieut:</cell>
+	<cell>Promoted -- </cell>
+	<cell>"</cell>
+	<cell><date when="1861-11-12">"</date> -- </cell>
+	<cell>"</cell>
+</row>
+</table><pb/>
+<lb/><table rend="rules">
+<row>
+	<cell> </cell>
+	<cell> </cell>
+	<cell> </cell>
+	<cell>date</cell>
+	<cell>of</cell>
+	<cell>Com</cell>
+</row>
+<row>
+	<cell>Louis R. Dunn</cell>
+	<cell>Lieut.</cell>
+	<cell>Promoted -- </cell>
+	<cell>Nov.</cell>
+	<cell><date when="1861-11-12">12</date>.</cell>
+	<cell>1861</cell>
+</row>
+<row>
+	<cell>Tho. Coyle </cell>
+	<cell>Lieut -- </cell>
+	<cell>resigned -- </cell>
+	<cell>Ap.</cell>
+	<cell><date when="1862-04-08">8</date>.</cell>
+	<cell>1862</cell>
+</row>
+<row>
+	<cell>Ed. H. Morin</cell>
+	<cell>Lieut -- </cell>
+	<cell>Promoted-</cell>
+	<cell>Nov.</cell>
+	<cell><date when="1861-11-25">25</date>.</cell>
+	<cell>1861</cell>
+</row>
+</table></p>
+<p>Very Resp<hi rend="sup">ly</hi>
+<lb/>John W. Finnell
+<lb/>Adj<hi rend="sup">t</hi> Gen<hi rend="sup">l</hi></p>
+  </body>
+ </text>
+</TEI>

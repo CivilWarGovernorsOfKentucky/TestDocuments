@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-153-0016"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Boyle to John C. Brent</title>
+    <title level="a" type="parallel">CWG14138</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>Assistant Adjutant General Letter Book - No. 1 ; 5 Sept 1863 - 2 Feb 1864</collection>
+      <idno>80 to 81</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1863-09-30">30 September 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><note place="header">80</note>
+<lb/><date when="1863-09-30">Sept. 30 <gap/>3.</date>
+<lb/>Maj. John C. Brent,
+<lb/>Frankfort -- Ky.
+<lb/>Major,</p>
+<p>You are hereby authorized to recruit four companies of militia, to constitute one battalion, of which you will have command, with the rank of Major.</p>
+<p>The battalion is specially designed for local defense and protection -- will rendezous, and have a permanent camp near the city of Frankfort, and will continue in service one year, unless the public exigencies will permit its earlier discharge. One, at least, and perhaps all the companies will be mounted -- but the right is reserved to use them in the most effective manner, whether as cavalry or infantry, and in any portion of the State. The companies will be recruited, as nearly as possible to the maximum size of companies in the United States' Service.</p>
+<p>At the proper time mustering officers will be detailed, and commissions issued according to the provisions of the State Guard law, which provides fully for the service and pay of the troops you are authorized to recruit.</p>
+<p>All necessary papers will be found accom-<pb/>
+<lb/><note place="header">81</note>
+<lb/>-panying this authority -- and any further information you may desire, can be obtained at this office.</p>
+<p>By order of the Governor,
+<lb/><hi rend="underline">John Boyle</hi>
+<lb/>Adjt. Gen of Ky.</p>
+  </body>
+ </text>
+</TEI>

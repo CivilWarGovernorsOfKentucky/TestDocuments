@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0534"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">J. G. Carlisle et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG4653</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR9-345</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Covington, Kenton County, Kentucky</placeName>
+    <date when="1864-02-07">7 February 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Covington Ky -- 
+<lb/><date when="1864-02-07">Feb 7<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date>
+<lb/>Hon. Thomas E. Bramlett
+<lb/>Governor of the Com'th of Ky -- </p>
+<p>Your petitioners respectfully represent to your Excellency that at the last <date when="1864-12">December Term 1864</date> of the Circuit Court for the County of Kenton Joseph Clark a young man of 22 or 23 years of age was tried and convicted, upon an Indictment against him and his wife of the Crime of Receiving a certain Pistol Knowing it to have been Stolen.</p>
+<p>The sole evidence against him consisted of ^alleged^ statements of his wife which were detailed in evidence by a woman of infamous character by name Mrs Julick. A certified transcript of the record &amp; evidence will be herewith handed you</p>
+<p>We believe this is a case that merits the clemency of the Executive which we respectfully invoke in <hi rend="str">his</hi> behalf of Clark and recommend him to your Excellency for unconditional pardon.</p>
+<p>Signed!!
+<lb/><milestone unit="column" n="2"/><cb n="1"/>J. G. Carlisle
+<lb/>W. E. Arthur
+<lb/><cb n="2"/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Jones_<milestone unit="column" n="1"/><pb/>
+<lb/>H H Rogers Juryman
+<lb/>J.. W. Lowry do"
+<lb/>Thos Robson Do
+<lb/>John Hinbert Do
+<lb/>Jos. Birkle Do
+<lb/>J Sanderson Do
+<lb/>John Donnely Do
+<lb/>James T Eubank Do
+<lb/>William B Westin Do
+<lb/>Theodore Vonhvene Do
+<lb/>John Gor Do
+<lb/>R M Webers Do</p>
+<p>As far as I am informed the above is true and I hope the foreman will personally consider the petition</p>
+<p>J. M. Worrall</p>
+<p>I argee with the sentiment expressed by the Rev J. M. Worrall</p>
+<p>A. Downy
+<lb/><hi rend="underline">J Spilman</hi>
+<lb/>Robt Howe
+<lb/>L F Daugherty
+<lb/>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> Birch
+<lb/>Daniel Savill
+<lb/>R. Mayberry
+<lb/>J Sellers
+<lb/>Sam Condell
+<lb/>A. H. Herod</p>
+<p>Kenton Cirt Ct
+<lb/>vs
+<lb/>Jos. Clark
+<lb/><date when="1864-01">Jany. term/ 64</date>
+<lb/>Pardoned
+<lb/><date when="1864-02-12">12th Feby/ 64</date></p>
+<p>The names of the Jurymen who convicted Clark -- and their own signatures</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0516"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Henry D. McHenry to Ephraim L. Van Winkle</title>
+    <title level="a" type="parallel">CWG2181</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Appointments by the Governor, Civil Appointments, 1863-1867</collection>
+      <idno>BR2-480</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Hartford, Ohio County, Kentucky</placeName>
+    <date when="1865-09-06">6 September 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><hi rend="str">Branch of the People's Bank of Kentucky,
+<lb/>Larkin Nall, President,
+<lb/>Jno. C. Morton, Cashier.</hi>
+<lb/>Hartford, Ky <date when="1865-09-06">Septr 6th 1865</date>.
+<lb/>Hon E. L Van Winkle
+<lb/>Dear Sir</p>
+<p>I respectfully ask His Excy the Govr to appoint Estill McHenry a Notary Public for Ohio C<hi rend="sup">o</hi>. Will you please see to it &amp; have the comn sent to him or me at this place send very much oblige</p>
+<p>Your friend
+<lb/><hi rend="underline">Henry D. M</hi><hi rend="underline"><hi rend="sup">c</hi></hi><hi rend="underline">Henry</hi></p>
+<p>I will remit Sctys fees when notified of the amount</p>
+<p>M<hi rend="sup">c</hi>H.<pb/></p>
+<p>Notary Public
+<lb/>Ohio Co
+<lb/>Estill McHenry
+<lb/>appt<hi rend="sup">d</hi> <date when="1860-09-09">9 Sept 1860</date></p>
+  </body>
+ </text>
+</TEI>

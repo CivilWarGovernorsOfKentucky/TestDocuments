@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2700"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Ballard Repass to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7337</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR16-341 to BR16-342</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Lawrence County, Kentucky</placeName>
+    <date when="1865-11">November 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><date when="1865-11">Novr 1865</date>
+<lb/>To his Excellency
+<lb/>Thomas E. Bramlett
+<lb/>Govener of Ky</p>
+<p>your Petitioner Ballard Repass Respectfully represents that at the <date when="1865-10">O<hi rend="underline"><hi rend="sup">ct</hi></hi> Term of the Lawrence Circuit Court 1865</date> his appearance was or had been entered to an Indictment charging your Petitioner with Tipling, by one Thomas Walace, who had no authority so to do, he says he was found guilty by default, and did not Know he was tried or that his appearance had been entered, he says he is Quite a boy and is a miserable criple; that if he had been represented<pb/>
+<lb/>on the trial or had his witnesses examined he does not believe he would have been fined. He says the fine is unJustly imposed on him and that his unable to pay the same, that he is in the Lawrence county Jail for the same and is in very feeble health, He prays that you will remit his fine and on duty he will ever pray</p>
+<p>Ballard ^his X mark^ Repass</p>
+<p>Governer Bramlett
+<lb/>Dear Ser</p>
+<p>I Know the above facts in substance to be true the Sheriff of Lawrence Mr Allison and the Jailer wants him out and his fine Remited</p>
+<p>Yours
+<lb/>J M. Burns<pb/></p>
+<p><hi rend="str">Ballard Repass</hi>
+<lb/>Lawrence Cir Ct
+<lb/>vs
+<lb/>Ballard Repass
+<lb/>$60
+<lb/>Tipling
+<lb/>Remitted <date when="1865-12-02">2<hi rend="sup">d</hi> Dec/65</date></p>
+  </body>
+ </text>
+</TEI>

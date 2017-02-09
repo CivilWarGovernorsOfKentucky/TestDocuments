@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1700"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Richard H. Stanton and Thomas J. Stroop to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6337</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR13-188 to BR13-188-1</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Maysville, Mason County, Kentucky</placeName>
+    <date when="1865-04-07">7 April 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Maysville Ky <date when="1865-04-17">April 7<hi rend="sup">th</hi> 1865</date>
+<lb/>To His Excellency Tho<hi rend="sup">s</hi> E. Bramlette,
+<lb/>Governor of Kentucky</p>
+<p>Your petitioner, Richard H. Stanton &amp; Tho<hi rend="sup">s</hi> J. Throop would state that in the fall of <date when="1864">1864</date> they were induced to go surety in two bail bonds, for the appearance of two men charged with felony, confined for safe keeping in the Mason county jail, for their appearance at the next <date when="1865-11">November</date> court of the Lewis Circuit court, in the sum of two Hundred Dollars each, These men were named <gap/> Young and <gap/> Wells, and neither of them made their appearance at said court, so that a forfeiture of said bonds was taken, and they have been served with process, for the<pb/>
+<lb/>approaching <date when="1865-05">May</date> Term of said Lewis Circuit Court, when judgment will be rendered against them on said forfieted recognizances unless executive clemency interpose in their behalf. They have paid the Commonwealth's attorney his portion of said forfeited recognizance and will be compelled to pay the costs, incurred in said forfeitures which is we think sufficient punishment for our folly in thus going bail for those charged with crimes, and to whom we were under no obligation whatever, farther than that subsisting between attorneys and clients,</p>
+<p>We would ask for a remission of said forfeiture, if consistent with your views of justice<pb/>
+<lb/>and property, and promise never again to be caught in so silly an affair.</p>
+<p>Most Resp'y your
+<lb/>ob't servts
+<lb/>R. H. Stanton
+<lb/><hi rend="underline">Tho</hi><hi rend="underline"><hi rend="sup">s</hi></hi><hi rend="underline"> J. Throop</hi></p>
+<p>I think the judgment ought to be remitted
+<lb/><date when="1865-04-07">April 7. 1865</date></p>
+<p>Geo M Thomas
+<lb/>atto for Comth<pb/></p>
+<p>Lewis Cir Ct
+<lb/>vs
+<lb/>R. H. Stanton &amp; Tho<hi rend="sup">s</hi> J. Throop</p>
+<p><date when="1865-04-21">21<hi rend="sup">st</hi> Apl 1865</date></p>
+<p><date when="1865-04-12">Sent for fee 12<hi rend="sup">th </hi>Apl</date></p>
+<p>Remit</p>
+  </body>
+ </text>
+</TEI>

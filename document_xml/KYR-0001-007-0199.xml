@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0199"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John A. Shank, Affidavit</title>
+    <title level="a" type="parallel">CWG1864</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Appointments by the Governor, Civil Appointments, 1863-1867</collection>
+      <idno>BR2-50</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Cincinnati, Hamilton County, Ohio</placeName>
+    <date when="1864-05-02">2 May 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>The State of Ohio
+<lb/>Hamilton County } Cincinnati <date when="1864-05-02">May 2<hi rend="sup">nd</hi> 1864</date></p>
+<p>Personally appear before the undersigned authority the within names John A. Shank am made with that he would honestly faithfully and importantly to the best of his ability discharge the duties of the office of commission of Deeds for Ohio for Kentucky.</p>
+<p>John A. Shank</p>
+<p>Subscribed in my presence this <date when="--05-02">2<hi rend="underline"><hi rend="sup">nd</hi></hi> day May</date> &amp; sworn to before me by the said John A. Shank.</p>
+<p>W<hi rend="sup">m</hi> E Jones
+<lb/>Notary Public
+<lb/>Ham. Co. Ohio.<figure type="seal"/><pb/></p>
+<p>Comr Deeds
+<lb/>Ohio
+<lb/>Oath
+<lb/>John Shank
+<lb/>Rec<hi rend="sup">d</hi>
+<lb/><date when="1864-05-05">5<hi rend="sup">th</hi> May/64</date></p>
+  </body>
+ </text>
+</TEI>

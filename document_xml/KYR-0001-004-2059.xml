@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2059"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">A. J. Warden to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6696</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR14-247 to BR14-248</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Blandville, Ballard County, Kentucky</placeName>
+    <date when="1865-08-29">29 August 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Blandville Ky <date when="1865-08-29">29th Aug 1865</date>
+<lb/>To His Excelency
+<lb/>Thomas E Bramlette
+<lb/>Governor of Ky.</p>
+<p>The undersigned as Clerk of the Ballard Cty Court has been requested by W H Watson and his counsel to make a Statement to your Excelency in regard to a fine recently imposed upon him for keeping a Tipling House in the Town of Blandville, to remit which the said Watson is now petitioning your Excelency. I am personally well acquainted with the facts and circumstances involved in the case, and shall state the facts as known to me. Some two Months, or perhaps 3 months Since <hi rend="str">M</hi><hi rend="str"><hi rend="sup">r</hi></hi><hi rend="str"> Watson</hi> Grundy Bryant, and M<hi rend="sup">r</hi> Watson entered into partnership, and agreed to keep a Coffe House in Blandville, upon condition that they could obtain a License to Do So from the Trustees of said ^Town^. They came into the County Court and paid the sum of the tax to the state, and executed Bond to the Comw'th as required under the law, with the said Grundy Bryant as principle and the said W H Watson as Surity, and took the necessary orders <hi rend="str">in</hi> <hi rend="str">order</hi> Not knowing at the time of the existence of the partnership the orders were drawn up in favor of Bryant, and hence the License by the Trustees ran in his name. Some time after the issual of the License, Bryant Sold out his interest to Watson, and reitred from the Concern. Watson Continued to sell under the License to Bryant, believing that the License -- <pb/>
+<lb/>as he had frequently assured me, had been granted to Bryant and Watson, and not to Bryant alone, as was the fact. Upon learning that he was in error, he at once made application for and obtained License <hi rend="str">and</hi> and is now doing business legitimately. For the short interval during which he did business without License, which did not exceed a few days, a warrant issued and he was fined $60, to remit which he now petitions Your Excelency</p>
+<p>I have given your Excellency the history of the Case precisely as it is and will add that M<hi rend="sup">r</hi> Watson is an original Union man, and he has been robbed a time or two during the Rebellion. While I will not say that his political views was the cause of the prosecution against him I feel it difficult to shake off the conviction that it had more or less to do with it and I will add that in my Judgment the fine ought to be remitted</p>
+<p>Very Respectfully
+<lb/>A <unclear>J Warden</unclear> clk<pb/></p>
+<p>Ballard County Court
+<lb/>vs
+<lb/>W<hi rend="sup">m</hi> H Watson
+<lb/>$60,
+<lb/>Keeping tipling House
+<lb/><date when="1865-10-18">18 Oct/65</date>
+<lb/>Sent for fee <date when="1865-09-06"><hi rend="str">6 </hi><hi rend="str">Sept</hi></date><date when="1865-10-10">10 Oct/65</date></p>
+  </body>
+ </text>
+</TEI>

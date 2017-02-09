@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0014"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">James A. Johnson et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG9482</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG17A-57 to MG17A-58</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Caldwell County, Kentucky</placeName>
+    <date when="1861-01-21">21 January 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency Bariah Magoffin
+<lb/>Governor of the Commonwealth of Kentucky. We the undersigned citizens of Caldwell county Kentucky have long known Thomas B Wadlington and he has ever been considered a good and true hearted citizen Known and noted for his industry and good and orderly conduct, The difficulty in which he was engaged with Milton A Cartwright did not appear to us, to be of his seeking, Nor are we satisfied that the case was presented to the Jury as it really occurred, We hope your Excellency will review the case, and give the poor man the benefit of every doubt. We desire that his case may be Judged in Mercy and regarded with favor and that your Excellency will take into consideration every circumstance that ought to operate in his behalf And we desire that your Excellency may and will be persuaded that it is consistant with your duty to extend to him Executive clemency and that his life may be spared either by a full pardon or by a commutation of his punishment yours respectfully</p>
+<p><date when="1861-01-21">Jan 21<hi rend="sup">st </hi>1861</date><pb/>
+<lb/><milestone unit="column" n="2"/><cb n="1"/>Jas A Johnson
+<lb/>Hooper Camplin
+<lb/>James E. Kevil
+<lb/>W Y Harriss
+<lb/>William Floods
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> O, Stokes
+<lb/>N E Mitchesson
+<lb/>J,, A,, Hopson
+<lb/>E. M. Wood
+<lb/>John Satterfield
+<lb/>A, G, Jones
+<lb/>D. M. Kevil
+<lb/>J. B. Gore
+<lb/>Samuel L Jenkins
+<lb/>Robert Bierden
+<lb/>loften mitchel
+<lb/>J. T. Gray
+<lb/>Robert shepard</p>
+<p><cb n="2"/>State of Kentucky Caldwell County. The affiant John B. Wadlington says that the foregoing persons did sign the above petition in his presence, except three, who authorized their names to be signed,</p>
+<p>J, B, Wadlington</p>
+<p>Sworn to before me by John. B. Wadlington this <date when="1861-01-26">Jany 26 1861</date>.
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Carter J P C C</p>
+  </body>
+ </text>
+</TEI>

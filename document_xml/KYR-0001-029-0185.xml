@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0185"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Grant Green to James F. Robinson</title>
+    <title level="a" type="parallel">CWG8637</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Governor's Official Correspondence File, Petitions for Pardons, Remissions, and Respites, 1862-1863</collection>
+      <idno>R3-280</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1863-01-30">30 January 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Auditor's Office, Kentucky,
+<lb/>Frankfort, <date when="1863-01-30">30<hi rend="sup">th</hi> Jan, 1863</date>
+<lb/>Hon J F Robinson, Esq.:
+<lb/>Govr &amp;<hi rend="sup">c</hi>
+<lb/>Dear Sir:</p>
+<p>In the ^case of^ judgment of the Comth vs Henry Brown shff of Washinigton Co for a small balance due upon the revenue of said County for 1860. the full amount of the principal interest and costs has been paid -- The damages in the case amounts to $517.<hi rend="sup">77</hi>/<hi rend="sub">100</hi> and I think should be remitted. The judgment was rendered at the <date when="1861-02">February term 1861</date> of the Franklin Circuit Court -- </p>
+<p>Respectfully
+<lb/>Grant Green.
+<lb/><hi rend="underline">Aud</hi><hi rend="underline"><hi rend="sup">r</hi></hi><pb/></p>
+<p>Franklin Cir. Ct
+<lb/>$517.77 } Damages
+<lb/>Henry Brown
+<lb/>Sheriff
+<lb/>Washington Co
+<lb/>Remission Iss<hi rend="sup">d</hi>
+<lb/><date when="1863-02-03">Feby 3. 1863</date></p>
+  </body>
+ </text>
+</TEI>

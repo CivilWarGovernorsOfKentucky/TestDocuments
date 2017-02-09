@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0675"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">J. A. Williams et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG4794</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR10-35</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Jamestown, Russell County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Jamestown Ky
+<lb/>His Excellency Governor Bramlette
+<lb/>Sir</p>
+<p>There has been a fine assessed in the Russell Circuit Court against Jonas Brodshaw for tippling for the <hi rend="str">amount</hi> sum of thirty five dollars and We the undersigned citizens of said county and neighbors of said Brodshaw Petition to you to have the amount of the fine due the commonwealth remitted and think that an account of his haveing a large helpless family on hands and being almost unable to make them a support that said fine ought to be remitted and we consider that it will be an act which will be of great benefit to his family said Brodshaw is scarsely able to work and is entirely destitute of means to pay the said fine consequently we will expect that strong your magnanimity <hi rend="str"><unclear/></hi> that you will comply with the request of the numerous friends who appeal to you in his behalf <hi rend="str">that said fine will be remitted</hi></p>
+<p>J. A. Williams
+<lb/><milestone unit="column" n="2"/><cb n="1"/>W<hi rend="sup">m</hi> Barnes
+<lb/>J B Johnson
+<lb/>Achilles Nelson
+<lb/>John Rinnet
+<lb/>J A Stokes
+<lb/>Davis Flanagan
+<lb/>Jorge W Brakers
+<lb/>Jocyrus E. Wilson
+<lb/>John Dunkan
+<lb/>D. S. Hill
+<lb/>L. Hammonds
+<lb/><cb n="2"/>S. W. Hughes
+<lb/>J. H. M. Battery
+<lb/>Samuel Jeffries
+<lb/>John W. Warren
+<lb/>M. I. Hopper
+<lb/>A. Waldridge
+<lb/>G W. Twidwell
+<lb/>Edmond Cook Jr
+<lb/>Mason F Carnagie
+<lb/>H.. H. Wade
+<lb/>T C Popplewell
+<lb/>J B Hill<pb/>
+<lb/><milestone unit="column" n="1"/>James M Beshears
+<lb/>Jacks Coffey
+<lb/>W M Camlin
+<lb/>Isham Bohn Capt
+<lb/>A. G. <unclear>Huegh</unclear>
+<lb/>A C Simpson
+<lb/>Abner Jones
+<lb/>Reuben Dunbar
+<lb/>James L Coe
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi>. N. Stokes
+<lb/>M Chamberlain
+<lb/>W Jones
+<lb/>John Johnson
+<lb/>James Dunbar Sen
+<lb/>Henry C George
+<lb/>John M Booth
+<lb/>George Brayan
+<lb/>A T Collins
+<lb/>N G Wills Capt 13 Ky Cav</p>
+<p>Russell Cir Ct
+<lb/>vs
+<lb/>Jonas Bradshaw
+<lb/>Remt<hi rend="underline"><hi rend="sup">d</hi></hi>
+<lb/><date when="1864-04-29">29<hi rend="sup">th</hi> Apl/64</date>
+<lb/>$35 -- 
+<lb/>Tipling</p>
+  </body>
+ </text>
+</TEI>

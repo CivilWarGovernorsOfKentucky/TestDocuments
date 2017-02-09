@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0843"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Benjamin Fuel to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10311</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG19-325</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1861-03-13">13 March 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency Beriah Magoffin
+<lb/>Gov<hi rend="sup">r</hi>. of Kentucky</p>
+<p>Your petitioner Benj. Fuel would respectfully represent, That he was fined for carrying concealed, a deadly weapon a pistol in the city court of Louisville about <date when="1859-10">October 1859,</date> &amp; shortly afterwards petitionid y<hi rend="sup">r</hi> Excellency to remit his fine, which petition has not been as yet acted upon, the matter has been permitted to slumber until yesterday,, when the Officer, a city Marshall, took him in custody &amp; committed him to the Workhouse on a Ca, Sa. The former petition stated as a fact, that the petitioner was a driver of an Omnibus to the Louisville &amp; portland Rail Road &amp; was frequently thus engaged until ten or 12 oclk at night at such times he carried a Small pistol to protect himself ag<hi rend="sup">st</hi>. harm &amp; whilst returning from his stable on one Occasion he was met &amp; arrested by a policeman presented to the city court &amp; subsequently fined $50 -- the costs amounting now to upwards of $20, ^is p<hi rend="sup">d</hi>^ <hi rend="str">which</hi> The Fine he is wholly unable to pay, he further says he is by trade a Blacksmith &amp; has been working at that business for several<pb/>
+<lb/>months, without being able to do more than support himself wife &amp; two children, the times are hard, business from various causes has been stopped &amp; poor men with families have great difficulty to barely subsist, there can be no advantage to any one by confining him &amp; depriving his family of his services now, Therefore he prays Your excellency to remit his fine, his acquaintances will tesfity to his good character &amp; your petitioner will ever pray &amp;c</p>
+<p>Respectfully y<hi rend="sup">r</hi> obt Sev<hi rend="sup">t</hi>
+<lb/>Benjamin Fuel</p>
+<p><date when="1861-03-13">13<hi rend="sup">th</hi> Mar 1861</date></p>
+<p>We the undersigned pray y<hi rend="sup">r</hi> Excellency to remit Fuels fine &amp; we will be thankful</p>
+<p>respectfully y<hi rend="sup">r</hi> friends
+<lb/>M. G. Halmes</p>
+<p>It would be well to relieve his fine,</p>
+<p>C D Pennebaker
+<lb/>W P <hi rend="underline">Boone</hi>
+<lb/>R. T. Lightburn
+<lb/>N. C. Howard
+<lb/>H. C. Thomas
+<lb/>John Enlow</p>
+<p>I know young Fuel he is verry poor &amp; unable to pay a fine, he is now in the work House</p>
+<p>Geo. W. Johnston.</p>
+  </body>
+ </text>
+</TEI>

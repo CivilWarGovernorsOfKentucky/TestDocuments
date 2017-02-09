@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2455"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">J. Coburn Mitchell et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7092</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR15-410 to BR15-411</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1865-10-20">20 October 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To the Hon Thomas E Bramlett Governor of Kentucky</p>
+<p>Your petitioner J, Coburn Mitchell would rispectfully represent that the <date when="--04">April</date> Term of the Mason Circuit ^Court^, he was indicted by the Grand Jury of Mason County for Keeping a "Tippling house" ^in Dover in Said County^ and your Petitioner being a resident of Brown County Ohio Came over at the last <hi rend="str"><unclear/></hi><date when="--10">October</date> term of Said Court and entered his appearance to answer said indictment, and plead "<hi rend="underline">guilty</hi>" thereto and was fined $60 and he now asks your interposition to remit said fine for the following reasons To wit -- He had been previous to <date when="1864-10">October 1864</date> a licensed Coffee house keeper in said town of Dover and his license had expired and your Petitioner at once renewed his license in the County Court, but the Trustees of said town having no regular time for their meetings failed to grant a renewal of the <hi rend="underline">town</hi> license for some three or four months, and in the mean time your Petitioner continued his Coffee house in anticipation that the Trustees would give him license also at their first meeting (as they since have) and the <hi rend="underline">county</hi> <hi rend="underline">license</hi> alone not conferring power to sell liquor to be drunk on the premises. <hi rend="str">without</hi> made him <hi rend="underline">technically</hi> guilty of the offense charged in the indictment<pb/>
+<lb/>but not certainly with any wilful intent of Committing any violation of the law He states that he has been Carrying on business in Said County for several years past and this is the first time that he has ever been arraigned for violation of the liquor law, and he thinks your Excellency will see that in this instance he endeavored to Comply in the law fully and did not wilfuly violate it and he therefore prays your Excellency that so far as you Can you will grant him relief by remitting said fine</p>
+<p>J C Mitchell</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>I think this judjement ought to be remitted</p>
+<p>Geo M. Thomas
+<lb/><date when="1865-10-20">Oct 20. 1865</date>, atto for comth</p>
+<p><cb n="2"/>The undersigned citizens of Dover Mason Co Ky and vicinity join in the above peitition to have Mr Mitchells fine remitted</p>
+<p><milestone unit="column" n="1"/><figure type="hr"/><milestone unit="column" n="2"/><cb n="1"/>Johnson Peck
+<lb/>Wm O Chalfant
+<lb/>F, W, Long
+<lb/>John W Brock
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Jennings
+<lb/>P N Jennings
+<lb/>Thomas. P. Anderson
+<lb/>Alex A. Gibbens
+<lb/>R. L. Soward
+<lb/>Tho A Curran
+<lb/>Perry Jefferson
+<lb/>James C Cross
+<lb/>Marcus Anderson
+<lb/><cb n="2"/>Ja<hi rend="sup">s</hi> H Anderson
+<lb/>Vincent Tabb Sr
+<lb/>L. C. Anderson
+<lb/>John.L. Tabb
+<lb/>James Ellis
+<lb/>S. S. True
+<lb/>E A Anderson
+<lb/>David Peck
+<lb/>Peter S Anderson
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> C Rice
+<lb/>Dept Sheriff S M C
+<lb/>W B Jacobs<pb/></p>
+<p><milestone unit="column" n="1"/>Mason Cir Ct
+<lb/>vs
+<lb/>J Coburn Mitchell
+<lb/>$60,
+<lb/>Tipling
+<lb/>Remitted <date when="1865-10-23">23<hi rend="sup">d</hi> Oct 1865</date></p>
+  </body>
+ </text>
+</TEI>

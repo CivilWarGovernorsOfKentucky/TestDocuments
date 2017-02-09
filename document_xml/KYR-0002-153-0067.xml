@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-153-0067"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Boyle to John Dils, Jr.</title>
+    <title level="a" type="parallel">CWG14189</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>Assistant Adjutant General Letter Book - No. 1 ; 5 Sept 1863 - 2 Feb 1864</collection>
+      <idno>306</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1863-11-17">17 November 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><note place="header">306</note>
+<lb/><date when="1863-11-17">Nov. 17<hi rend="sup">th</hi> <gap/>3</date>
+<lb/>Col. J. Dils Jr.
+<lb/>Comm'd'g 39<hi rend="sup">th</hi> Ky Vols.
+<lb/>Louisa -- Ky.
+<lb/>Colonel,</p>
+<p>Your favor of the <date when="1863-11-10">10<hi rend="sup">th</hi> inst.</date> has been received, and shown the Governor. The Secretary <hi rend="str">was</hi> of War has telegraphed the governor that no new requirements will be authorized and he is therefore compelled to decline organizing any new commands.</p>
+<p>But you have authority to recruit your Regiment up to the Maximum number and this will require some hundreds. If you conclude to do this -- report the fact to me.</p>
+<p>Respectfully
+<lb/>Your obt Sevt.
+<lb/><hi rend="underline">John Boyle</hi>
+<lb/>Adjt. Gen. of Ky.</p>
+  </body>
+ </text>
+</TEI>

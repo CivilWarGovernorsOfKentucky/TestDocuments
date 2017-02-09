@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0065"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Marcus L. Scott and John Hays, Affidavit</title>
+    <title level="a" type="parallel">CWG9533</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG17A-138</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Caldwell County, Kentucky</placeName>
+    <date when="1861-02-12">12 February 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Kentucky Caldwell County.</p>
+<p>Marcus L. Scott ^and John Hays^ say<hi rend="str">s</hi> they <hi rend="str">have</hi> ^are^ the near neighbors of Thos B. Wadlington, and hav^e^ been acquainted with him for a number of years last past, and with his genl moral character -- <hi rend="str">He</hi> ^<hi rend="str">they</hi> <hi rend="str">have</hi>^ <hi rend="str">says</hi> <hi rend="str">they</hi> <hi rend="str">are</hi> ^they say he is^ and so reputed to be a man of good moral characer, industrious, honest and law abiding. <hi rend="str">He</hi> <hi rend="str">says he is</hi> ^They say they are^ well acquainted with said Prince and Blalock, and <hi rend="str">he does</hi> they do verily believe that the evidence given by them on the trial was false ^so much so as to prevent justice being done^, and that said Wadlington has been unjustly condemned by the false testimony of said witnesses. They say they were acquainted with M. A. Cartwright, and he was regarded in the neighborhood as a hasty and dangerous young man -- and these affiants do verily believe that said Wadlington has been unjustly condemned and, that the killing of said Cartwright was in necessary self defence, and they do believe he ought to be set at liberty.</p>
+<p>Marcus ,L. Scott
+<lb/>John Hays</p>
+<p>Kentucky Caldwell County</p>
+<p>Marcus L. Scott and John Hays say they believe the foregoing statements aare true.</p>
+<p>Marcus ,L, Scott
+<lb/>John Hays</p>
+<p>Sworn to and subscribed before me by Marcus L. Scott and John Hays -- This <date when="1861-02-12">12<hi rend="underline"><hi rend="sup">th</hi></hi> Feby 1861</date>.</p>
+<p>J. C. Barnes D. C.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0897"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Susan Lavin et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG5016</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Amanda Boczar</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR10-378 to BR 10-379</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency
+<lb/>Thomas E. Bramlette
+<lb/>Gov of the Com<hi rend="sup">th</hi> of Ky</p>
+<p>Your petitioner Susan Lavin of the City of Lexington Fayette Co Ky. respectfully represents to Your Excellency that she was fined in the case at the <date when="1861-06">June Term of the Fayette Circuit Court ^1861</date>^ in the Sum of Twenty Doller ($20) in each case, for the Supposed offence of keeping a disorderly house by permitting an unlawful assembly of Slaves which offence she indignantly denies- She States truly to your excellency that she is very poor and without the means to pay the abovenamed fines, that she has six children some of them quite young and all depending on her labor for their support and that if she is committed to jail the children must suffer and live upon the charities of the world- She further States that she is a widow having lost her husband by death sometime since -</p>
+<p>All of which is respectfully Submitted</p>
+<p>Susan Lavin</p>
+<p>We the undersigned in Consideration of the above statement of facts think the case presents grounds for Executive Clemancy and respectfully ask your excellency to remit<pb/>
+<lb/>such fines.</p>
+<p>George Stoll
+<lb/>Jno B. Norton
+<lb/>Cha<hi rend="sup">s</hi> T. Brdley
+<lb/>J. H. Harrison
+<lb/>WD Boswell
+<lb/>Cha<hi rend="sup">s</hi> H Wickliffe
+<lb/>Jno C. Hansbro
+<lb/>C D Carr <pb/>
+<lb/>I am told that the statements of this petition are true. <date when="1864-05-09">May 9<hi rend="sup">th</hi> 1864</date> W. S. Downey<pb/></p>
+<p>Fayette Cir Ct
+<lb/>vs
+<lb/>Susan Lavin</p>
+<p>Remit</p>
+<p>Disorderly House </p>
+<p>Although not a clear case, get a remission except fees &amp; costs is granted</p>
+<p>Tho E Bramlette</p>
+<p><date when="1864-05-16">16<hi rend="sup">th</hi> May 1864</date></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0904"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Alex Power et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10372</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG19-437</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Maysville, Mason County, Kentucky</placeName>
+    <date when="1861-04-04">4 April 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Maysville <date when="1861-04-04">Apl 4<hi rend="sup">th</hi> 1861</date>
+<lb/>To His Excellency
+<lb/>The Govenor of Ky.</p>
+<p>Allen S Brownfield was fined, at the present term of the Mason Circuit Court, fifty dollars, for carrying a concealed deadly weapon. His case was called and tried when he happened to be out of the Court House; and in the absence of the Attorney on whom he relied. He and his Attorney had both been in attendance during the day of the trial; and it was by an accident, that both were absent, at the moment, when the case was called. He had no opportunity to defend the case and it is a hard one against him. The accidental absence of himself and Attorney was no ground for a <hi rend="underline">new trial</hi>, and the Court overruled his motion for one -- made on that ground. He had his preparation made for a defence and the verdict against him was rendered without a chance for a defence. Whilst the Court, perhaps, did right to refuse him a new trial, we think his case is one for your excellency's clemency; &amp; we ask that his fine may be remitted to the extent in your power.</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Alex Power
+<lb/>R P Brown
+<lb/>James White
+<lb/>Tho<hi rend="sup">s</hi> E Gaer
+<lb/><unclear/> Dryden
+<lb/><cb n="2"/>I G Hickman
+<lb/>Keith Berry
+<lb/>Robt A Cochran
+<lb/>E. H Wood
+<lb/>S W Cahill
+<lb/>W<hi rend="sup">m</hi> Ross<milestone unit="column" n="1"/><pb/>
+<lb/>A,, S,, M<hi rend="sup">c</hi>Kee
+<lb/>Robert Bell
+<lb/>Abram Yazel
+<lb/>Ja<hi rend="sup">s</hi> C Brookener
+<lb/>Michal Murphy
+<lb/>James P Holiday
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Colvin
+<lb/>Jas. H. Rains
+<lb/>W. H. Longhridge
+<lb/>G. H. Hickman
+<lb/>John Houghridge
+<lb/>W. P. Watkins
+<lb/>James Hise
+<lb/>I T Frimner
+<lb/>James H Loyd
+<lb/>David Christie
+<lb/><hi rend="underline">W</hi><hi rend="underline"><hi rend="sup">m</hi></hi><hi rend="underline"> R. Wood</hi>
+<lb/>W. P. Conwells.
+<lb/>George W. Bolinger
+<lb/>William. H. Bolinger
+<lb/>John L. Montz
+<lb/>James H Montz</p>
+<p>Respite 12 mo
+<lb/>B. M</p>
+<p><hi rend="str">1111</hi> <hi rend="str">1111</hi> + 30</p>
+<p>Mason Cir. Ct
+<lb/>$50 } Weapons
+<lb/>A. S. Brownfield
+<lb/>Respt 12 mos
+<lb/>Issd <date when="1861-04-09">Apr 9. 1861</date></p>
+  </body>
+ </text>
+</TEI>

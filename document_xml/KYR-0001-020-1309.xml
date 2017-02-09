@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1309"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">A. B. Band et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10777</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG21-200</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency B Magoffin Gov of Kentucky</p>
+<p>The undersigned Citizens of Ohio County most respectfully but earnestly recomend to your clemency Mr Charles K Medcalf a citizen of this county who at the last <date when="1861-03">March</date> term of the Ohio Circuit Court was fined for betting on the election one hundred Dollars. We know Mr Medcalf to be an industrious quiet citizen and wholly unable to pay said fine we state further that Mr Medcalf is an uneducated man and was ignorant of the law against betting on elections, and we believe that the prosecution was instigated at least in part through malice. That the bet was a pair of boats and made in a Jocular Mood and wholely without intent to violate any law</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>
+<lb/>I cannot say whether the prosecution was instigated by malice, but I join in he prayer of the petition</p>
+<p>Cicero Maxwell
+<lb/>atty for Com
+<lb/>A L Morton
+<lb/>Preston Morton Jo. P. Barnet
+<lb/>J S Render
+<lb/>W H Berry
+<lb/>Saml. O. Peyton
+<lb/>D. J. Block
+<lb/>James H. Thompson
+<lb/>J T Youngman
+<lb/>W S Soreman
+<lb/>H. T. Radcliff
+<lb/><cb n="2"/>A. B. Band J. O. C. C.
+<lb/>J C Bean Juryman
+<lb/>James D Hanson
+<lb/>Sam<hi rend="sup">l</hi> D. Peyton jr
+<lb/>L C Ford
+<lb/>J C Ford
+<lb/>F H Foreman
+<lb/>Craven Peyton
+<lb/>David Midkipp
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Graves
+<lb/>T C Taylor
+<lb/>J T Austin
+<lb/>Jas. B. Bennett
+<lb/>W. G. Mitchell
+<lb/>Henry Small.
+<lb/>Simon Small<milestone unit="column" n="1"/><pb/>
+<lb/>Seymour Mauzzy
+<lb/>John E Pendleton <hi rend="underline">Capt</hi> <hi rend="underline">state</hi> <hi rend="underline">Guards</hi>
+<lb/>E B Ellis
+<lb/>Louis Gunther
+<lb/>Joseph W Chapman <unclear>days</unclear>
+<lb/>J H Crow High Private
+<lb/>R Gibson
+<lb/>W<hi rend="sup">m</hi> Hendrick
+<lb/>Z. W. Griffin
+<lb/>Philip Brooks
+<lb/>B R Buppe
+<lb/>T Barnett
+<lb/>J F Collins
+<lb/>D. L. Barnett</p>
+<p>Remitted
+<lb/>B. M</p>
+<p>Ohio Cir. Ct
+<lb/>$100. } betting on Election</p>
+<p>Iss<hi rend="sup">d</hi> <date when="1861-08-14">Aug 14. 1861</date></p>
+<p>C. K. Metcalfe</p>
+  </body>
+ </text>
+</TEI>

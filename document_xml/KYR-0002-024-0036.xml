@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-024-0036"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Edward D. Townsend, Special Orders, No. 238</title>
+    <title level="a" type="parallel">CWG12090</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Mitchell A Krock</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>1st - 20th Regiments Kentucky Infantry Primary Source Documents</collection>
+      <idno>Box 7, Folder 7th Ky. Inf. - Misc.</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Washington, District of Columbia</placeName>
+    <date when="1865-05-18">18 May 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Order</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>WAR DEPARTMENT,
+<lb/>ADJUTANT GENERAL's OFFICE,
+<lb/><hi rend="italic">Washington, </hi><date when="1865-05-18"><hi rend="italic">May</hi> 18<hi rend="italic">th</hi>, 1865</date>.
+<lb/>SPECIAL ORDERS,
+<lb/>No. 238.} 
+<lb/><hi rend="italic">(Extract.)</hi><figure type="hr"/></p>
+<p>19. So much of the sentence of the General Court Martial, convened by Special Orders, No. 5, Headquarters, U. S. Forces, Morganzia, Louisiana, of <date when="1864-07-12">July 12th, 1864</date>, in the case of Private <hi rend="italic">James M. Gilbert</hi>, 7th Kentucky Veteran Volunteers, (formerly Company "D," 22d Kentucky Volunteers,) as requires him to make good the time lost by absence without leave, is remitted.<figure type="hr"/></p>
+<p>By order of the Secretary of War:
+<lb/>E. D. TOWNSEND,
+<lb/><hi rend="italic">Assistant Adjutant General.</hi></p>
+<p>OFFICIAL:
+<lb/>E D Townsend
+<lb/><hi rend="italic">Assistant Adjutant General.</hi></p>
+<p>Governor of Kentucky.<pb/></p>
+<p>22 Infy<figure type="hr"/>
+<lb/>7" Vet Inf
+<lb/>late D 22<hi rend="sup">d</hi> Inf
+<lb/>Gilbert James M.
+<lb/>Private<figure type="hr"/>
+<lb/>Order<figure type="hr"/></p>
+<p>remitting sentence of Court Martial which makes good time lost by absence without leave.</p>
+  </body>
+ </text>
+</TEI>

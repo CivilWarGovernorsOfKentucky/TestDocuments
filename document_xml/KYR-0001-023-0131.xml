@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-023-0131"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Dory Nell to Nathaniel Gaither, Jr.</title>
+    <title level="a" type="parallel">CWG3044</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, 1859-1862</collection>
+      <idno>MG1-370</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Metcalfe County, Kentucky</placeName>
+    <date when="1862-05-30">30 May 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Metcalfe Co Ky <date when="1862-05-30">May the 30<hi rend="sup">th</hi> 1862</date>
+<lb/>M<hi rend="sup">r</hi> Nat. Gaither Jr</p>
+<p>will you be kind enough to examine the regesters office and see if there was pattent issued in the name of Francis Yates bearing date about the year <date when="1842">1842</date> for 147 acres ^of land^ in the county of Barren on the Eastfork of Little Barren river beginning ^on^ Waddy Tompson line of a 500 acre survey thence runing to the mouth of Hutchesson.s branch &amp;c and So on, if you find the description to suit please write to me and if not write also and in so doing you will oblidge a friend</p>
+<p>yours truly
+<lb/>Dory Nell</p>
+<p>N. B. it may be that Yates had a letter in his name</p>
+<p>direct yours to East Fork P O Metcalfe, co. Ky<pb/></p>
+<p><hi rend="str">From e</hi></p>
+  </body>
+ </text>
+</TEI>

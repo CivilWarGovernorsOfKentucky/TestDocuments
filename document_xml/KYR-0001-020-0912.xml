@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0912"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Green County Court, License</title>
+    <title level="a" type="parallel">CWG10380</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG19-450</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Green County, Kentucky</placeName>
+    <date when="1861-03-01">1 March 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Green County Court <date when="1860-04">April Term 1860</date></p>
+<p>On Motion of John M Sherley leave is given him to keep a Tavern at his house in Greensburg for one from the date hereof and from thence until the next term of this Court he having made it appear to the Court that he is well prepared to Keep a tavern and paid the tax required by law and entered into bond with John Moore as his surity and had the proper oath administered to him The Clerk is ordered to issue license to him accordingly</p>
+<p>A Copy attest
+<lb/>Robert Marshall Clk</p>
+<p>State of Kentucky
+<lb/>Green County sct</p>
+<p>I Robert Marshall clerk of the Green County Court Certify that I as clerk aforesaid issued John M Sherley Tavern License according to the foregoing order</p>
+<p>Given under my hand this <date when="1861-03-01">1<hi rend="sup">st</hi> day of March 1861</date></p>
+<p>Robert Marshall clk</p>
+  </body>
+ </text>
+</TEI>

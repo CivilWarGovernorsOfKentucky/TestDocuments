@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2724"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Adam Lundtze et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7361</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR16-381</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency Tho<hi rend="sup">s</hi> E Bramlett Govenor of the Commonwealth of Kentucky we the undersign<hi rend="sup">d</hi> Citizens of the County of Boyd most respectfully state that our fellow citizens Kohn &amp; Miller were fined one Hundred and Twenty dollars at the last <date when="--10">^October^</date> term of the Boyd Circuit Court, Said Kohn &amp; Miller were merchants and had licens to sell by the quart The whisky was sold with no intention to evade the law or to violate the same The whisky was not drank on the primises we ask your Excellency to remitt said <hi rend="str">s</hi>fine agst said Kohn &amp; Miller who are good Citizens of the Commonewealth of Kentucky</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Adam Lundtze
+<lb/>Joseph Gilkey
+<lb/>William. Daum.
+<lb/>E Mountain
+<lb/>W, H, C, Brown
+<lb/>Martin Riley
+<lb/>John Chap
+<lb/>H A Poage
+<lb/>G G. B Myers
+<lb/><unclear/> <unclear/>
+<lb/><cb n="2"/>J. D. Jones
+<lb/>Seimon Lemonn
+<lb/>J. Maig.
+<lb/>John Donby.
+<lb/>William Johnson
+<lb/><unclear/> <unclear/>
+<lb/>Georg <unclear/>
+<lb/>Samuel Jackson
+<lb/>G W locey
+<lb/>M. Davis
+<lb/>Wm T Katzel
+<lb/>L T Moore<pb/>
+<lb/><milestone unit="column" n="1"/>G. May
+<lb/>W D Cronely
+<lb/>Wilhelm Keil
+<lb/>S. E. Veyssie
+<lb/>Jacob Price
+<lb/>Joseph P Rankin
+<lb/>George Birgraf</p>
+<p>Boyd Cir Ct
+<lb/>vs
+<lb/>Kohn &amp; Miller
+<lb/>$120.
+<lb/>Tipling
+<lb/>Remitted <date when="1865-11-10">10<hi rend="sup">th</hi> Nov/65</date></p>
+  </body>
+ </text>
+</TEI>

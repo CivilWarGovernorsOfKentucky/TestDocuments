@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2460"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Alfred Brown to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7097</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR15-417</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Russell County, Kentucky</placeName>
+    <date when="1865-10-10">10 October 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To Thomas E. Bramlette Esqr Governor of Ky.</p>
+<p>Your petitioner Alfred Brown respectfully State that on the <date when="1865-10-09">9<hi rend="underline"><hi rend="sup">th</hi></hi> day of October 1865</date> he was arrested and tried before the county Judge of Russell County and by a jury fined the sum of $11:91 cents for a breach of the peace The facts of the case are substantially as follows -- he (your petitioner) is a member of Capt Woods Company of State guards and was detailed as a guard at the jail of Russell county and was on duty as a gard at the time when a young man named Davidson (a citizen) Came up to his post and attempted to take his gun away from him and in the tusle for the gun he struck him (Davidson) with the gun -- </p>
+<p>The premises Considered your petitioner respectfuly asks the remission of said fine and as in duty bound he will every pray &amp;<hi rend="underline"><hi rend="sup">c</hi></hi></p>
+<p>Alfed Brown</p>
+<p>Sworn to and subscribed by Alfred Brown before me this <date when="1865-10-10">10<hi rend="sup">th</hi> day of October 1865</date></p>
+<p>George Bryan Exmn ^R C^</p>
+<p>We the undersigned Citizens of Russell county Ky. join in the prayer of the above petition of Alfred Brown and respectfully ask that the fine be remitted this <date when="1865-10-10">10<hi rend="sup">th</hi> Oct 1865</date></p>
+<p><milestone unit="column" n="2"/><cb n="1"/>H O Bolin
+<lb/>Lieut W, H, Walker
+<lb/>A, C, Wells
+<lb/>N. G Wells
+<lb/>The<hi rend="sup">o</hi> Jones
+<lb/>J H McBalld
+<lb/>Benjamin Ballenger
+<lb/><cb n="2"/>B, H, Walker
+<lb/>George Bryan
+<lb/>Green Moore
+<lb/>Wm G. Welson
+<lb/>W<hi rend="sup">m</hi> Lucas
+<lb/>Andrew Webb
+<lb/>A P Simpson
+<lb/>John D Bearnard<pb/></p>
+<p><milestone unit="column" n="1"/>Russell County Ct
+<lb/>vs
+<lb/>Alfred Brown
+<lb/>$11.<hi rend="underline"><hi rend="sup">91</hi></hi>
+<lb/>Remitted <date when="1865-10-13">13 Oct 1865</date></p>
+  </body>
+ </text>
+</TEI>

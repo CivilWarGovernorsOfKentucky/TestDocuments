@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2838"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">M. Judy et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7475</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR17-122</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excelency The Governor of Kentucky</p>
+<p>We the undersigned citizen of Owen county would represent that at the late term of the Owen Circuit Court There was a fine of One thousand dollars and Six Months imprisonment assessed against William Steward for an asault and battery &amp;c on one Jeptha Estes The offence was alledged to have been committed in the time of the late war and the leaders of the offence were <hi rend="str">carried</hi> <hi rend="str">on</hi> <hi rend="str">by</hi> Federal soldiers and the s<hi rend="sup">d</hi> William Steward was pressed and made accompany the leaders to where the difficulty occured now we would respectfully represent that s<hi rend="sup">d</hi> Steward when left to himself is peacible and quiet and is with all a very poor man and has a large and helpless family to support we feel in view of all the circumstances that the finding of the Court was heavy and hard and would respectfully request you to interpose and give such relief as you in your Judgment may think proper we would further represent that the s<hi rend="sup">d</hi> William Steward had served as a private in the company of Captain Charles Rodgers ^of the federal army^ for Twelve Months and was honorably discharged and in conclusion we would say that there was no person hurt or property injured</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>M. Judy
+<lb/>James. W. Bridges
+<lb/>J L Moreland
+<lb/>Nathaniel Morgan
+<lb/>James Morgan,
+<lb/>Benj Perry
+<lb/>R H Read
+<lb/>Zamal Smith
+<lb/>John Perry
+<lb/>A. D. Moreland
+<lb/>J, W, Cassity
+<lb/><cb n="2"/>J A Jones
+<lb/>J H Wiley
+<lb/>Zenas Moreland
+<lb/>Robert Coalman
+<lb/>B. F. Wiley
+<lb/>Joel Moreland
+<lb/>Squire Robinson
+<lb/>John Mitchell
+<lb/>T. H. Moreland
+<lb/>T J Moreland
+<lb/>B L Moreland
+<lb/>H Bridges<pb/>
+<lb/><milestone unit="column" n="1"/>Eliga Smith
+<lb/>G. B. Bramblet
+<lb/>B F mc daniel
+<lb/>A J mc Daniel
+<lb/>J, L, Honaker
+<lb/>A R. Mitchell
+<lb/>William Ellis
+<lb/><hi rend="str">J C Emons</hi>
+<lb/>J C Emmons
+<lb/>John T Ruth
+<lb/>James Self
+<lb/>Z Corbin
+<lb/>D. B Powers
+<lb/>F. S Mathes</p>
+<p>Owen Cir Ct
+<lb/>vs
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Steward
+<lb/>$1000. &amp; 6 mos Imprisonment
+<lb/>Assault &amp; Bat
+<lb/>Remit
+<lb/><date when="1865-12-02">2<hi rend="sup">d</hi> Dec/65</date></p>
+  </body>
+ </text>
+</TEI>

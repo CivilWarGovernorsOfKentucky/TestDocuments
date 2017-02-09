@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2526"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Gideon Gregory to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7163</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR16-40 to BR16-41</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Tompkinsville, Monroe County, Kentucky</placeName>
+    <date when="1865-10-02">2 October 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Tompkinsville <date when="1865-10-02">October 2<hi rend="underline"><hi rend="sup">nd</hi></hi> 1865</date>
+<lb/>To his Excellency,
+<lb/>Thomas. E. Bramlett
+<lb/>Governor of Ky -- </p>
+<p>Your Petitioner Gideon, Gregory,
+<lb/>Begs leave to state that at the the <date when="1864-10">october Term 1864</date> of the Monroe Circuit Court, his son John. Gregory was indicted by the Grand Jury of Monroe County for Grand Larceny, and was afterwards arrested and lodged in Jail, and your petitioner, being prompted by the strong paternal feelings that the humane father always feels toward an erring son, entered into a bail bond in the sum of Three hundred &amp; fifty dollars for the appearance of his son and at the <date when="1865-04">April Term 1865</date> his said son failing to appear said bond was forfeited and at the <date when="1865-10">october Term 1865</date>, Judgment was rendered against your Petitioner for the full amount of said bond your Petitioner would further state that he is quite an oald man and quite poor, so infirm that he is unable to labour except in part for<pb/>
+<lb/>his support, and if he is compeled to pay the full amount of said bond it will leave him in almost a destitute condition and as he is unable to perform anything like labour enough ^to^ support himself he feels that his condition will be truly deplorable if he is compeled to pay the full amount of said bond wherefore your Petitioner prays Your Excellency to take into consideration the feelings that an indulgent father has for his son notwithstanding that son may ere, together with the other facts stated in this Petition and if you can consistent with what you deem to be right remit that part of said bond going to the commonwealth</p>
+<p>Gideon ^his X mark^ Gregory</p>
+<p>Sworn to before me by Gideon Greggery this <date when="1865-10-03">3<hi rend="underline"><hi rend="sup">d</hi></hi> day of october 1865</date></p>
+<p>H B Marrs Clk
+<lb/>H Hagan<pb/></p>
+<p>We the undersigned join in the Petition</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Stanferd Mitchel</p>
+<p>Gov Bramlet -- I know nothing of the nature of this case except that I know Mr Gregory the Father, who is quite a poor man. And think he should be released from his judgment</p>
+<p>W. F Evans
+<lb/><cb n="2"/>W. F. Evans jr
+<lb/>J K. Hestener
+<lb/>J, C, <unclear>Rouseeau</unclear>
+<lb/>E. W. Newman
+<lb/>W Gentry
+<lb/>Charles Gentry
+<lb/>Benj Gentry
+<lb/>W. F. Pedigo
+<lb/>H L Bailey
+<lb/>L A Smithwick
+<lb/>Alaxander Ford<pb/></p>
+<p><milestone unit="column" n="1"/>Monroe Cir Ct
+<lb/>vs
+<lb/>Gideon Gregory
+<lb/>$300,
+<lb/>Forfeiture
+<lb/>Remitted <date when="1865-12-09">9 Dec /65</date></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-024-0046"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">E. S. Dunster to James F. Robinson</title>
+    <title level="a" type="parallel">CWG12099</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Mitchell A Krock</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>1st - 20th Regiments Kentucky Infantry Primary Source Documents</collection>
+      <idno>Box 8, Folder 13th Ky. Inf.</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Washington, District of Columbia</placeName>
+    <date when="1863-06-06">6 June 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Surgeon General's Office
+<lb/>Washington City, D. C.
+<lb/><date when="1863-06-06">June 6<hi rend="underline"><hi rend="sup">th</hi></hi> 1863</date>
+<lb/>Sir:</p>
+<p>Official notification has been received at this office of the following vacancy Surgeon 13<hi rend="underline"><hi rend="sup">th</hi></hi> Kentucky vice Charles D. Moore dismissed <date when="1863-06-01">June 1<hi rend="underline"><hi rend="sup">st</hi></hi> 1863</date>, It is desirable that if such vacancy still exists it be filled as soon as consistent with the interests of the Service,</p>
+<p>Very Respectfully
+<lb/>Your obed<hi rend="underline"><hi rend="sup">t</hi></hi> Serv<hi rend="underline"><hi rend="sup">t</hi></hi>
+<lb/>By order of the Surgeon General
+<lb/>E S Dunster
+<lb/>Asst Surgeon U. S. A.</p>
+<p>His Excellency James F. Robinson
+<lb/>Governor of Kentucky<pb/></p>
+<p><note place="header">13</note>
+<lb/>Military</p>
+<p>Surgeon Genl announces vacancy <unclear/> to be filled</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1332"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Ferguson to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10800</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG21-241 to MG21-242</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1861-08-11">11 August 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency Beriah Magoffin
+<lb/>Gov<hi rend="sup">r</hi> of Kentucky</p>
+<p>Your petitioner John Ferguson would respectfully state, That he was fined in the city court of Louisivlle <date when="1861-08">Aug<hi rend="sup">t</hi></date> Term thereof Fifty dolls. for an alledged Assault &amp; Battery committed upon <gap/> under the following circumstances, He &amp; friends came out of a recruiting Federal office, where they had been to see what was doing there, &amp; as the came out he saw three men standing nearbye they were talking politicks, When petitioner engaged in the conversation &amp; was treated insultingly, he struck the man &amp; after some struggling was victorous, he believes he<pb/>
+<lb/>the Jury were opposed to him on account of his politicks as the only reason for their imposing so large a fine there was no crowd around the affair was quietly performed no serious injury done the public peace, he is a man of family has been turned out of the fire department because of this affiar &amp; his politicks &amp; he prays y<hi rend="sup">r</hi> Excellency to remit his fine he is convinced no one who is willing to defend his state &amp; thinks &amp; acts as he does can have justice in the courts therefore must of necessity appeal to his Gov<hi rend="sup">r</hi> whom<pb/>
+<lb/>he feels assured will not let him be borne to the ground when defending a cause just &amp; holy with the greatest respect he is y<hi rend="sup">r</hi> devoted serv<hi rend="sup">t</hi></p>
+<p>John Ferguson</p>
+<p>Most respectfully I concur in the foregoing statement &amp; pray y<hi rend="sup">r</hi> Excellency to remit John Ferguson's fine</p>
+<p>John Joyes</p>
+<p><date when="1861-08-11">11<hi rend="sup">th</hi> Aug<hi rend="sup">t</hi> 1861</date></p>
+<p><milestone unit="column" n="2"/><cb n="1"/><hi rend="underline">N. E Mitten</hi>
+<lb/>Thos. H. Hunt &amp; Co
+<lb/>Hamilton &amp; Bros
+<lb/>O. H. Thomas
+<lb/><hi rend="underline">T W Anderson</hi>
+<lb/>Henry W Gray
+<lb/><cb n="2"/>W<hi rend="underline">m</hi> Musselman
+<lb/>R A. Bell
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Bell Jr
+<lb/>Ja<hi rend="sup">s</hi> F Gamble
+<lb/>Brannin &amp; Summers
+<lb/>J. M. Duncan
+<lb/>Z L Huffman
+<lb/>W. P. Bartley &amp; Co<milestone unit="column" n="1"/><pb/></p>
+<p>Louisville City Ct
+<lb/>$50 } assault
+<lb/>Jno Ferguson</p>
+<p>Iss<hi rend="sup">d</hi> <date when="1861-08-15">Aug 15. 1861</date></p>
+<p>Respite 12 Mo
+<lb/>B. M</p>
+  </body>
+ </text>
+</TEI>

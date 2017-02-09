@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1368"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Bernard McElvogue to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6005</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR12-121-1</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1864-12-05">5 December 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency Tho<hi rend="sup">s</hi> Bramlette
+<lb/>Govr of the Commonwealth of Ky</p>
+<p>Sir I have been acquainted with James Pettit who was convicted in the Jefferson Circuit Court in <date when="1864-01">January last</date> charged with the murder of his wife, &amp; was sentenced To five years imprisonment in the state prison I have known him for ten years; two years of which time he lived with me in my house after he was married he lived near to me,, he was a steady industrious man and no man Could be more devoted to his family than he was untill his wifes conduct was of such a character as to nearly run him crazy she would get drunk from home and on many occasions would be halled home drunk &amp; in his absence would beat and abuse her children &amp; swear she was Too pretty to be a poor man's wife and in every manner annoyed him in such a way untill I am satisfied his mind was so impaired that he did not half his Time know what he was doing</p>
+<p>Bernard McElvogue</p>
+<p>Personally appeared before me Barney M<hi rend="sup">c</hi>elvouge who is personally known to me to be a worthy and reliable citizen of the city of Louisville Ky and made oath that the above statements To which his name is signed are correct &amp; True Given under my hand this <date when="1864-12-05">5<hi rend="sup">th</hi> day of December 1864,</date></p>
+<p><hi rend="underline">J. M. Stephens</hi> J. P. J. C.<pb/></p>
+<p>250
+<lb/><hi rend="underline">80</hi>
+<lb/>170
+<lb/><hi rend="underline">35</hi>
+<lb/>135
+<lb/>45
+<lb/></p>
+  </body>
+ </text>
+</TEI>

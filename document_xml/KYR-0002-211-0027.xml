@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-211-0027"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Samuel G. Suddarth, Receipt to Rutha R Manion</title>
+    <title level="a" type="parallel">CWG13675</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>Adjt. Gen. &amp; QMG Expenditures, 1864-1865</collection>
+      <idno>QMG Box 11; Bundles of AG &amp; QMG Expenditures 1864-65; Bundle 3</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1864-04-27">27 April 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>No. 22.<figure type="hr"/>
+<lb/>The State of Kentucky,
+<lb/>To Mrs Rutha R Manion Dr.</p>
+<p><table rend="rules">
+<row>
+	<cell><date when="1864">1864</date>.</cell>
+	<cell/>
+	<cell>DOLLARS.</cell>
+	<cell>CENTS.</cell>
+</row>
+<row>
+	<cell/>
+	<cell>To Cooking and Washing for the State Military Hospital for the Month of <date when="1863-12">December 1863</date> and month of <date when="1864-01">January 1864</date></cell>
+	<cell><hi rend="str"><unclear/></hi>24</cell>
+	<cell>00</cell>
+</row>
+<row>
+	<cell/>
+	<cell/>
+	<cell>$</cell>
+	<cell>$</cell>
+</row>
+</table></p>
+<p><note place="body">Approved
+<lb/>Tho E Bramlette Govr</note></p>
+<p>I certify that the above account is correct and just; that the services were rendered as stated; and that they were necessary for the public service, and have been reported on my returns for the month ending <gap/> <date when="1864">1864</date>.</p>
+<p>J. R. Hutchinson
+<lb/>Acting Surgeon
+<lb/><hi rend="str">Quartermaster</hi></p>
+<p>Received at Frankfort Ky, the <gap/>of <date when="1864-04">April, 1864</date>, of S G Suddarth, Quarter-Master <hi rend="str">U. S.</hi> <hi rend="str">Army</hi> ^Genl of Ky^, the sum of twenty four Dollars and <gap/> Cents, in full of the above account.
+<lb/>(SIGNED IN TRIPLICATES.)</p>
+<p>Mrs Rutha R Manion<pb/></p>
+<p>297
+<lb/>No 22.<figure type="hr"/>
+<lb/>No. 77 Abstract <hi rend="str">B</hi> G
+<lb/><gap/> 186<gap/>.
+<lb/>Rutha R. Manion
+<lb/>Dollars 24,<hi rend="sup"> 00</hi>/<hi rend="sub">100</hi>
+<lb/>Paid <date when="1865-04-27">27<hi rend="underline"><hi rend="sup">th</hi></hi> Apr, 1865</date>.</p>
+<p>Hospital<figure type="hr"/>
+<lb/>239
+<lb/>(Certif. 174.)</p>
+  </body>
+ </text>
+</TEI>

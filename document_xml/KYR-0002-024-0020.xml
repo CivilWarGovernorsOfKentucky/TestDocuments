@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-024-0020"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">E. S. Dunster to James F. Robinson</title>
+    <title level="a" type="parallel">CWG12074</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Mitchell A Krock</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>1st - 20th Regiments Kentucky Infantry Primary Source Documents</collection>
+      <idno>Box 7, Folder 5th Ky. Inf. - Misc.</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Washington, District of Columbia</placeName>
+    <date when="1863-05-30">30 May 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><note place="header">5<hi rend="underline"><hi rend="sup">th</hi></hi> 2</note>
+<lb/>Surgeon General's Office
+<lb/>Washington City, D. C.
+<lb/><date when="1865-05-30">May 30 1863</date>
+<lb/>Sir,</p>
+<p>Official notification has been received at this office of the following vacancies in regiments from your State.</p>
+<p><table rend="rules">
+<row>
+	<cell/>
+	<cell>Surgeon</cell>
+	<cell>5<hi rend="underline"><hi rend="sup">th</hi></hi> Ky Inft. vice</cell>
+	<cell>H. Mullholland,</cell>
+	<cell>resigned</cell>
+	<cell><date when="1863-04-11">Apl. 11<hi rend="underline"><hi rend="sup">th</hi></hi> 1863</date></cell>
+</row>
+<row>
+	<cell>Asst</cell>
+	<cell>"</cell>
+	<cell>9<hi rend="underline"><hi rend="sup">th</hi></hi> " " "</cell>
+	<cell>J. B. Chamberlin</cell>
+	<cell>"</cell>
+	<cell><date when="1863-04-16">" 16<hi rend="underline"><hi rend="sup">th</hi></hi> "</date></cell>
+</row>
+<row>
+	<cell> </cell>
+	<cell>"</cell>
+	<cell>11<hi rend="sup">th</hi> " Cav "</cell>
+	<cell>L. L. Pinkerton</cell>
+	<cell>discharged</cell>
+	<cell><date when="1863-02-28">Feby 28. "</date></cell>
+</row>
+<row>
+	<cell>Asst</cell>
+	<cell>"</cell>
+	<cell>" " " "</cell>
+	<cell>John F. Rogers</cell>
+	<cell>"</cell>
+	<cell>from date of app<hi rend="underline"><hi rend="sup">tmt</hi></hi></cell>
+</row>
+</table></p>
+<p>It is desirable that such of these vacancies as still exist, be filled as soon as may be consistent with the interests of the service,</p>
+<p>Very respectfully
+<lb/>Your obedient servant.
+<lb/>By order of the Surgeon General.
+<lb/><hi rend="underline">E S Dunster</hi>
+<lb/>Asst. Surgeon. U. S. Army.</p>
+<p>His Excellency,
+<lb/>James F. Robison,
+<lb/>Governor of Kentucky.
+<lb/>Frankfort. Kentucky.<pb/></p>
+<p>Military
+<lb/>Surgeon General
+<lb/>Military Vacancies</p>
+  </body>
+ </text>
+</TEI>

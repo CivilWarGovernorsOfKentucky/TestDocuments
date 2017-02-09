@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0503"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">J. H. King et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG2851</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Civil Appointments, 1859-1862</collection>
+      <idno>MG4-517</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Hickman, Fulton County, Kentucky</placeName>
+    <date when="1862-07-16">16 July 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Hickman Ky. <date when="1862-07-16">July 16. 1862.</date></p>
+<p>To
+<lb/> -- His Excellency B. Magoffin Gov. Ky.</p>
+<p>We the undersigned citizens of Hickman, &amp; of Fulton County Ky. respect^fully^ recommend Dr. Charles Hubbard of Hickman to be appointed by your Excellency a Notary Public for ^the^ County of Fulton.</p>
+<p>J. H. King
+<lb/>James. M. Linley
+<lb/>H. C. Ramage
+<lb/>J, L, Hubbard,
+<lb/><unclear>Z</unclear> R Mcmahan
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Heron
+<lb/>Isaac Winston
+<lb/>Jos A Fowlkes</p>
+<p>His Excellency Gov Magoffin</p>
+<p>Dear Sir, I enclose you the above I could have gotten many more names and so far as I know all the were necessity, but thought it unnecessary. I should be obliged to you for this appointment</p>
+<p>I am your Ex.y<hi rend="sup">s</hi> Obet. Servt.
+<lb/>Charles Hubbard<pb/></p>
+<p>Fulton Co.
+<lb/>Notary
+<lb/>D<hi rend="sup">r</hi>. C. Hubbard
+<lb/>Iss<hi rend="sup">d</hi> <date when="1862-07-28">July 28. 1862</date></p>
+<p>Issue Commission
+<lb/>B. M</p>
+  </body>
+ </text>
+</TEI>

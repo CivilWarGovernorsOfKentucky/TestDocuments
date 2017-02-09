@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0407"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Burks, Affidavit</title>
+    <title level="a" type="parallel">CWG4526</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR9-141 to BR9-142</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Barren County, Kentucky</placeName>
+    <date when="1864-01-08">8 January 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Barren County Stat of Ky</p>
+<p>John Burks states that he had W H Roberts attached as a witness for him in a suit that he had in the Green circuit court and that said W H Roberts was sick and unable to attend the court that he was attached to he also states that he informed Roberts that he could prove the same fact by another that he knew and could do without him he states that he directed his lawyer to have the attachment agst Roberts dismissed as he had told him he could do without him this <date when="1864-01-08">8 day of Jany 1864</date></p>
+<p>John Burks</p>
+<p>Swornd and Subscribed to before me by John Burks this <date when="1864-01-08">8 day of Jany 1864</date></p>
+<p>Thos S Walton J P B C<pb/></p>
+<p>Barren County State of Ky</p>
+<p>Drury Roberts &amp; B W Roberts States that at the time that W. H Roberts was attached to attend Green Circuit Cort that Said W H Roberts was unable to attend this <date when="1864-01-08">8 day of Jany 1864</date></p>
+<p>Drury Roberts
+<lb/>B. W. Roberts</p>
+<p>Swornd and Subscribe to before me by Drury Roberts &amp; B W Roberts this <date when="1864-01-08">8 day of Jany 1864</date></p>
+<p>Thos. S. Walton J P. B. C</p>
+  </body>
+ </text>
+</TEI>

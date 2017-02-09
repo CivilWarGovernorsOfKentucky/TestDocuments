@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-3430"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Richard H. Taylor et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG5549</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR42-319</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Franklin County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency Gov. Bramlette</p>
+<p>Elisha Kinney, a citizen of Franklin County Ky on the <gap/> day of <gap/> killed one James Fears Kinney, conscious of his justification, proceeded to the Magistrate and gave himself up for trial_ Kinney upon examination was discharged_ The Grand Jury of Franklin County, at its first session thereafter, indicted him for <hi rend="underline">murder</hi>; he was arrested, and failing to give bail on account of the amount required, was confined in the County Jail, until the next term of the F. C. Court, when he was duly arraigned and tried, but the jury failing to agree was discharged, and the prisoner remanded to Jail, until the next term of said court, when he was again arraigned, and tried, with the same result_ Kinney has a large family dependent upon him for support, who since his confinement have lived upon the charity of the community_ He has always been considered a peaceable, industrious citizen_</p>
+<p>Believing that any further prosecution of his Case will only result in great expense to the Commonwealth without finding a jury that will agree, and that the prisoner is an object deserving of that Clemency which you are empowered to exercise We do hereby petition you to extend that Mercy, which will enable him to alleviate the sufferings of<pb/>
+<lb/>his indigent family.</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Rich. H. Taylor
+<lb/>J. M. Mills
+<lb/>Jno. M. Hewitt Jr.
+<lb/>S. Hord
+<lb/>J M. Todd
+<lb/>W H. Sneed
+<lb/>H R. Miller
+<lb/>S. C. Bull
+<lb/>R. W Blackburn
+<lb/>F J Dudley
+<lb/>J L Rodman
+<lb/><cb n="2"/>R. Gillispie Foremare of 1<hi rend="sup">st</hi> Jury
+<lb/>T. S. Johnson
+<lb/>W A Gray<milestone unit="column" n="1"/></p>
+<p>Franklin Co
+<lb/>Refused
+<lb/>T E Bramlette</p>
+  </body>
+ </text>
+</TEI>

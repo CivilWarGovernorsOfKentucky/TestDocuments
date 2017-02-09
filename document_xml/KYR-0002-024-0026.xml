@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-024-0026"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Chauncey McKeever to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG12080</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Mitchell A Krock</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>1st - 20th Regiments Kentucky Infantry Primary Source Documents</collection>
+      <idno>Box 7, Folder 7th Ky. Inf. - Misc.</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Washington, District of Columbia</placeName>
+    <date when="1863-10-02">2 October 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Adjutant General's Office,
+<lb/>Washington, <date when="1863-10-02">October 2<hi rend="underline"><hi rend="sup">d</hi></hi> 1863</date>.
+<lb/>To His Excellency,
+<lb/>The Governor of Kentucky
+<lb/>Sir:</p>
+<p>I have the honor to report, that the following named Officers of the Volunteer forces from the State of Kentucky have resigned, to take effect at the dates set opposite their respective names, viz:</p>
+<p><table rend="rules">
+<row>
+	<cell>Dead ✓</cell>
+	<cell>Captain</cell>
+	<cell>G. W Murphy</cell>
+	<cell>7 Regt E</cell>
+	<cell><date when="1863-05-01">&gt;May 1 1863</date></cell>
+</row>
+<row>
+	<cell>Killed in action ✓</cell>
+	<cell>"</cell>
+	<cell>Thomas Nelson</cell>
+	<cell>7 "</cell>
+	<cell><date when="1863-05-16">" 16 "</date></cell>
+</row>
+</table></p>
+<p>I am Sir
+<lb/>Very respectfully
+<lb/>Your Ob<hi rend="sup">t</hi> Servant
+<lb/>Chauncey M<hi rend="sup">c</hi>Keever
+<lb/>Ass<hi rend="underline"><hi rend="sup">t</hi></hi> Adj<hi rend="underline"><hi rend="sup">t</hi></hi> General.<pb/></p>
+<p><hi rend="underline">N</hi><hi rend="underline"><hi rend="sup">o</hi></hi><hi rend="underline"> 126</hi> <note place="header">1</note>
+<lb/>Washington City Report<figure type="hr"/>
+<lb/>Resig<hi rend="underline"><hi rend="sup">d</hi></hi>
+<lb/>Filed <date when="1863-12-05">5<hi rend="underline"><hi rend="sup">th</hi></hi> Decr 1863</date></p>
+  </body>
+ </text>
+</TEI>

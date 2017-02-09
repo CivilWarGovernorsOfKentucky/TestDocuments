@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0280"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Robert Burke et al. to James F. Robinson</title>
+    <title level="a" type="parallel">CWG8732</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Governor's Official Correspondence File, Petitions for Pardons, Remissions, and Respites, 1862-1863</collection>
+      <idno>R3-413 to R3-413A</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Trigg County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency Gov Jas. F. Robertson</p>
+<p>We the undersigned, citizens of Trigg County, Kentucky, would state that at the last <date when="--02">February</date> term of the Trigg Circuit Court J. H. Wilkinson had a judgement rendered against him of $50<hi rend="underline"><hi rend="sup">00</hi></hi> for shooting at one John S. Spiceland. The circumstances are about these. Mr Spiceland is a young man about 27 years old weighs 220 or 30 pounds, and very stout. Mr Wilkinson is a feeble man compared with the other, 46 or 8 years old, and a remarkably peaceable man. M. Spiceland had charge of a newspaper in this place, and abused said Wilkinson in such a manner that he deemed that his reputation at least required something of a retaliation. Wilkinson therefore made a publication in the Hopkinsville paper reflecting on Spiceland. Spiceland met Wilkinson a short time thereafter in a room and made a violent assault on him with a club, wounding him considerably, and severly. Wilkinson saw him passing an hour or so afterwards and shot at him with a pistol without striking him. These are the facts, and the Com'th Atty seeing that it would be a hardship for Wilkinson to pay the fine under the circumstances has remitted his share of the fine and we ask your Excellency to remit the Commth portion.</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Robt. Burke
+<lb/>Jno. W. Ritchie
+<lb/>Thomas. H. Grinter
+<lb/><hi rend="underline">J H Miller</hi>
+<lb/>Jno W Chappell
+<lb/>J. B. Aaken
+<lb/>J W Gaines
+<lb/>M. A. Smith
+<lb/>Tho B Jefferson
+<lb/>H W Wayland
+<lb/>J. A. Hoppern
+<lb/>W Z Y Smith
+<lb/>A. M. Searcey
+<lb/><cb n="2"/>J. H. Wilkinson
+<lb/>T, A, Wall
+<lb/>Mat McKinney
+<lb/>S F Woollock
+<lb/>B J Wall
+<lb/><hi rend="underline">J. S. Gardner</hi>
+<lb/>Edw. G. Ragen
+<lb/>Jno H Ragon
+<lb/>R D Baker
+<lb/>J M Wilkinson
+<lb/>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> T. Watson
+<lb/>D M Ragon
+<lb/>James Mitchell<pb/>
+<lb/><cb n="1"/>A, H, Poston
+<lb/>J: L. Miller
+<lb/>E. A. Slaughter
+<lb/>E Vinson, Jr
+<lb/>G. Willis, Lindsay
+<lb/>W, S, Humphries
+<lb/>Wayman Wallis
+<lb/>J. B. Hopson
+<lb/>T S Wilgus
+<lb/>D, W, Stewart
+<lb/>J. H. Marquess
+<lb/>A S. Humphries
+<lb/>Wm J. M<hi rend="sup">c</hi>Caughan
+<lb/>Tho, C, Dabney
+<lb/>Zeb Thompson
+<lb/>A B Dyer
+<lb/><cb n="2"/>J. W, Humphries
+<lb/>W. H. Humphries
+<lb/>S. S. Hopson
+<lb/>Joel M<hi rend="sup">c</hi>Kinney
+<lb/>B. Baker
+<lb/>F. v Lester
+<lb/>J. E. Baker
+<lb/>N. G. Wilford
+<lb/>John F Stewart
+<lb/>J. T. Neujrs
+<lb/>C N M<hi rend="sup">c</hi>Laughan
+<lb/>A. Wimberly
+<lb/>Milton Northington<pb/></p>
+<p><milestone unit="column" n="1"/>Trigg Cir Ct
+<lb/>Fine Remitted
+<lb/>J F Robinson
+<lb/>$50 } Mis -- 
+<lb/>J. H. Wilkinson
+<lb/>Iss <date when="1863-03-13">March 13. 1863</date></p>
+  </body>
+ </text>
+</TEI>

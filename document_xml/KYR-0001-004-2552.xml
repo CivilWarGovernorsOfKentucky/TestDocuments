@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2552"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Walter C. Whitaker and George D. Prentice to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7189</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR16-82 to BR16-83</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>William D. Mitchell stands indicted in the Henry Circuit Court for the killing of Flint Goodridg in the year <date when="1862">1862</date> -- It was done while Mitchell was attempting to arrest him under orders from his Commanding officer Cap<hi rend="underline"><hi rend="sup">t</hi></hi> Sparks And which Goodridg was violently resisting He was killed in the act of attempting to shoot Mitchell in the discharge of his duty. Mitchell has faithfully &amp; honorably Served his term in the United States Service And has always been an honest, upright peacable Young Man -- He is in limited Circumstances: and unable to bear the expenses of trial which trial must inevitably result in his <hi rend="underline">aquittal</hi>. We the Undersigned respectfully ask of the Governor of Kentucky to extend him a <hi rend="str">pardo</hi> <hi rend="underline">Pardon</hi> so as to save him the expense and labor of a trial -- We believe that it would promote justice and be an act of clemency that Mitchell Merit and deserves</p>
+<p>Walter C. Whitaker
+<lb/>George D. Prentice<pb/></p>
+<p>Pardon issued
+<lb/>E L V</p>
+<p>H<hi rend="sup">d</hi> Qrs Dept of Kentucky
+<lb/>Louisville <date when="1865-10-24">Oct 24 /65</date></p>
+<p>Respectfully forwoded to His Excellency Governor T E Bramlette with the information that I have concerning the facts of this case into attention and while I do not agree with Genl Whitaker that the aquittal of the party upon trial is certain I do believe that at all events he is a very proper case for pardon so is quite likely that upon the facts of the case a fair trial is quite uncertain I recommend a pardon</p>
+<p>John M Palmer
+<lb/>Maj Genl
+<lb/>Cmdg</p>
+  </body>
+ </text>
+</TEI>

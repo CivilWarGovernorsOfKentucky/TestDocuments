@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0914"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Commonwealth of Kentucky v. Joel Coleman, Alfred Francis, and William Coleman, Judgment</title>
+    <title level="a" type="parallel">CWG5033</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR10-404</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Trigg County, Kentucky</placeName>
+    <date when="1864-02-06">6 February 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>State of Kentucky
+<lb/>Trigg Circuit Court
+<lb/><date when="1864-03-06">February 06<hi rend="sup">th</hi> Term 1864</date>
+<lb/>"The Commonwealth of Kentucky Plaintiff
+<lb/>against Forfeited Recognizance
+<lb/>Joel Coleman, Alfred Frances and William Coleman Defendants</p>
+<p>The Defendant Alfred Frances appeared by his attorney, and filed his Response herein and this prosecution being heard. It is adjudged by the Court that the Commonwealth recover of the ^said^ Defendant Alfred Frances the sum of Two hundred Dollars being the amount of the Recognizance entered into by him and the Costs herein expended and Execution is awarded, and on motion of the Commonwealths attorney It is ordered that this action be discontinued against the Defendants, Joel Coleman and W<hi rend="sup">m</hi> Coleman",</p>
+<p>A Copy
+<lb/>Attest R A Bunnett Clk
+<lb/>Trigg Cir Ct<pb/></p>
+<p>Trigg Cir Ct
+<lb/>Commonwealth
+<lb/>v } Copy Judgt
+<lb/>A. Frances
+<lb/>Forfeiture
+<lb/>$200
+<lb/>See Pet &amp; Remit except fees &amp; costs
+<lb/>Tho E Bramlette
+<lb/><date when="1864-05-25">25th May/64</date>
+<lb/><hi rend="underline">Examined</hi></p>
+  </body>
+ </text>
+</TEI>

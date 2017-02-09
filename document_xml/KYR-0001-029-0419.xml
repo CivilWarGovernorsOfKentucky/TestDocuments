@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0419"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">James R. Dupuy to James F. Robinson</title>
+    <title level="a" type="parallel">CWG8871</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Governor's Official Correspondence File, Petitions for Pardons, Remissions, and Respites, 1862-1863</collection>
+      <idno>R4-174 to R4-175</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date when="1863-06-05">5 June 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Louisville Ky <date when="1863-06-05">June 5th</date>
+<lb/>Gov' Robinson
+<lb/>Dear Sir</p>
+<p>Judgement was obtained in our Jefferson Circuit Court against John Keenan &amp; W C D Whips on the <gap/> day of <gap/> 1863 A scire facias issued, and on the <date when="1863-04-07">7th Apl 1863</date> execution issued for the sum of Four hundred Dollars &amp; $9<hi rend="underline"><hi rend="sup">15</hi></hi><hi rend="sup"> </hi>costs which execution is returnable on the Saturday succeeding the first Monday in this month -- The time is short -- I write to say to your excellency that the offense charged in the indictment against the dft Thos Kent (whose bail Keenan &amp; Whip were at the instance of W K Thomas jailer of Jefferson Co) was of rather an inferior grade, charged with stealing a small amount of property. W K Thomas is the party who will pay the execution, if not remitted and I believe<pb/>
+<lb/>it will not damage the interest of the com<hi rend="underline"><hi rend="sup">th</hi></hi> to remit said Judgemt &amp; that the spirit of the law will not be infringed I had promised some time since to write this note to yr excellency, but by neglect have not heretofore done so If consistent with your sense of official duty, your excellency will oblige me by remitting the above &amp; sending same to me by return of mail</p>
+<p>Very Resptfly
+<lb/>J R Dupuy
+<lb/>Com Atty -- <pb/></p>
+<p>Jefferson Cir. Ct</p>
+<p>J. R. Dupuy Comths Atty Louisville asks remission of fines</p>
+<p>$400 } Recog -- </p>
+<p>The forfeiture &amp; Judgt in the within case remitted</p>
+<p><hi rend="underline">J F Robinson</hi>
+<lb/>send to J. R. Dupuy
+<lb/>Jno Keenan &amp; W. C D Whips
+<lb/>Iss<hi rend="sup">d</hi> <date when="1863-06-19">June 19. 1863</date></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0241"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Joe Roulhac to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG9709</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG17-207</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Hickman, Fulton County, Kentucky</placeName>
+    <date when="1860-12-19">19 December 1860</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Hickman Ky <date when="1860-12-19">Dec" 19<hi rend="sup">th</hi>/60</date>
+<lb/>Hon<hi rend="sup">l </hi>Beriah M<hi rend="sup">c</hi>Goffin
+<lb/>Frankfort Ky
+<lb/>Dear Sir</p>
+<p>I write you in behalf of one Micheal M<hi rend="sup">c</hi>Ginney who was Sent to the penitentiary from this County Law court. The circumstances as Stated in the Petition forwarded to you are believed almost universally here. M<hi rend="sup">c</hi>Ginney'<hi rend="sup">s</hi> wife confessed to me that She took the goods -- By giving this case your Merciful consideration you will confer a favor upon an unfortunate Son of Erin, whose birth is in Such prosecutions as you must know is his misfortune. The Expression "that he is nothing but an Irishman" is too frequent. Trusting that you may find it consistent with your official &amp; moral duties to pardon the prisoner I remain yours with much respect</p>
+<p>Joe Roulhac</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-002-0005"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Marcellus Mundy to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG0870</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Jacob A Glover</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Appointments by the Governor, Military Appointments, 1863-1867</collection>
+      <idno>BR5-313 to BR5-314</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date when="1863-11-17">17 November 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Head-Quarters Military Commander, Louisville.
+<lb/>Louisville, <date when="1863-11-17">Ky., Nov 17 1863.</date>
+<lb/>Hon. Tho<hi rend="sup">s</hi>. E. Bramlett
+<lb/>Governor of Ky
+<lb/>Governor.</p>
+<p>To counteract the evil purposes of some bad men who would misrepresent Brig. Gen. Boyle to effect his removal and foust upon Ky as Mil. Commander some pure fanatical partizan. I desire to have Col. A. H. Markland general Post office agent <hi rend="underline">appointed an aid on your staff</hi>. as a matter of course the office is merely honorary and does not draw a salary. You may remember that Gov. Wickliffe claimed at Washington that Markland was not a Kentuckian and Casey who in his rabbidness would see Kentucky <unclear/>also asserts that Markland is not a Kentuckian and does not represent the sentiment of Ky. This Casey with his Clique and Silas Miller as chief fugler here had General Grants mind abused about General Boyle and Markland Can and will have it all set right if he can be so placed as would give him Kentucky's endorsement. which can be effectually<pb/>
+<lb/>done by such recommendation from you as his appointment on your staff. Markland has the confidence of General Grant and can certainly make the truth predominate over the rascalities of men who seek personal advancement and revenge at the sacrifice of our people if properly endorsed by you. Col Markland goes to Chattanooga tomorrow and I hope you will forward him a Commission as Col. on your staff. I have no selfish motives or personal interest involved in this application</p>
+<p>And Am Respectfully
+<lb/>M Mundy
+<lb/>Col &amp; Mil. Comt,<pb/></p>
+<p>A. H. Markland Aid To Governor With Rank of Colonel
+<lb/>Appt<hi rend="sup">d</hi> &amp; Com<hi rend="sup">d</hi> <date when="1863-11-18">18<hi rend="sup">th</hi> Nov 1863</date></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-227-0020"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">R. H. J. Goddard, Special Orders, No. 256</title>
+    <title level="a" type="parallel">CWG14250</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>11th Ky. Cav (US) Muster Rolls</collection>
+      <idno>Flat Storage Box: 11th Ky Cav (US) Muster Rolls, Bundle 6</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Cincinnati, Hamilton County, Ohio</placeName>
+    <date when="1863-07-07">7 July 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Order</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Headquarters Department of the Ohio
+<lb/>Cincinnati, Ohio, <date when="1863-07-07">July 7<hi rend="underline"><hi rend="sup">th</hi></hi> 1863</date>.</p>
+<p>SPECIAL ORDERS,
+<lb/>No. 256.. }</p>
+<p>3 " " " Sergeant Major, <hi rend="underline">M. B. Pulliam</hi> 11<hi rend="sup">th</hi> Cavalry Kentucky Volunteers, is discharged the service, to date from the <date when="1862-12-06">sixth (6<hi rend="sup">th</hi>) day of December 1862</date>, to enable him to accept a Commission then tendered him by the Governor of Kentucky and since when he has been acting in the capacity of a Commissioned Officer.</p>
+<p>By order of Major General Burnside.
+<lb/>R H J Goddard
+<lb/>Acting Assistant Adjutant General.</p>
+<p>1. 2.</p>
+<p>Governor of Kentucky.<pb/></p>
+<p><hi rend="underline">11 Cav</hi><hi rend="underline"><hi rend="sup">y</hi></hi><hi rend="underline">
+<lb/></hi>Serg. Maj.<hi rend="underline">
+<lb/>Pulliam
+<lb/>Disch,
+<lb/>Filed <date when="1863-07-27">July 27, 1863</date></hi></p>
+  </body>
+ </text>
+</TEI>

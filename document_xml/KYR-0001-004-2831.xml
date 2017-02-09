@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2831"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">George W. Gallup to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7468</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR17-110 to BR17-111</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisa, Lawrence County, Kentucky</placeName>
+    <date when="1865-12-04">4 December 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Louisa Ky
+<lb/><date when="1865-12-04">Dec 4<hi rend="sup">th</hi> 1865</date>
+<lb/>To His Exelency
+<lb/>Thos E. Bramlett
+<lb/>Govenor of Kentucky
+<lb/>Honored Sir</p>
+<p>I address you in behalf of W<hi rend="sup">m</hi> R Holbrook who was a private Soldier in my Regt He had a Dificulty with one Floyd Roberts (who when Drinking is a Quarellsome man) a Citizen Some 2 years ago at our Last Court he paid Roberts $150.00 as damage &amp; allowed a Judgement for $100.00 &amp; costs to be Entered against him for Shooting &amp; wounding Roberts Wm Holbrook is a poor man &amp; has paid in Lawyer Fees &amp; all $300 if his Land Sells it will Leave him homeless with a Helpless Family His own Health is Poor &amp; he is truly or has been a Quiet Citizen if Consistent with his ideas of Right I would like to have him Remit his Fine</p>
+<p>Yours with High Regard
+<lb/>Geo W Gallup<pb/></p>
+<p>The accompanying Petition is Signed by the Best men of my County</p>
+<p>G W G</p>
+<p>Lawrence Cir Ct
+<lb/>vs
+<lb/>W<hi rend="sup">m</hi> R Holbrook
+<lb/>$100,
+<lb/>Remitted <date when="1865-12-15">15 Dec /65</date></p>
+  </body>
+ </text>
+</TEI>

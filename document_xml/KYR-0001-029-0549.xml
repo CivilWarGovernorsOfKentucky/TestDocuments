@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0549"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Arthur McDonald to Daniel C. Wickliffe</title>
+    <title level="a" type="parallel">CWG9001</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Governor's Official Correspondence File, Petitions for Pardons, Remissions, and Respites, 1862-1863</collection>
+      <idno>R4-373</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Maysville, Mason County, Kentucky</placeName>
+    <date when="1863-08-31">31 August 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Maysville <date when="1863-08-31">31<hi rend="sup">st</hi> Aug 1863</date>,
+<lb/>The Honorable Secretary of State of the State of Ky,
+<lb/>Dear Sir -- </p>
+<p>Some four or five weeks ago I addressed to his Excellency the Governor of Kentucky, a Petition, numerously Signed by the most respectable citizens of Maysville, praying for the remission of a fine most unjustly imposed upon me as a Tavern Keeper (when I kept no Tavern); and which was inflicted as I contend without any just Cause. It is not only the amount of the fine which is but $20, but the <hi rend="underline">injustice</hi> of it which renders me anxious to have it remitted -- </p>
+<p>I have received no answer to the said petition, but have been informed that such matters are usually referred to the Secretary of State, and I suppose the Governor, among more important matters may have overlooked it If you will take the trouble to inform me of the fate of the petition you will place me under obligations</p>
+<p>Yours Truly
+<lb/><hi rend="underline">Arthur M</hi><hi rend="underline"><hi rend="sup">c</hi></hi><hi rend="underline">Donald</hi><pb/></p>
+<p>A. M<hi rend="sup">c</hi>Donald
+<lb/>In relation to petition not acted upon</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-038-0046"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Edward D. Townsend, Special Orders, No. 130</title>
+    <title level="a" type="parallel">CWG12530</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>Union Artillery, Navy and Marines Primary Source Documents ; Misc U.S.C.T. Primary Source Documents</collection>
+      <idno>Box 14, Folder 1st INDEPENDENT BTRY LT. ARTY OFFICERS</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Washington, District of Columbia</placeName>
+    <date when="1865-03-17">17 March 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Order</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>WAR DEPARTMENT,
+<lb/>ADJUTANT GENERAL'S OFFICE,
+<lb/><hi rend="italic">Washington</hi>, <date when="1865-03-17"><hi rend="italic">March</hi> 17<hi rend="italic">th</hi>, 1865</date>.
+<lb/>SPECIAL ORDERS,
+<lb/>No. 130.
+<lb/>(<hi rend="italic">Extract</hi>.)<figure type="hr"/>
+<lb/>18. 1st Lieutenant <hi rend="italic">George Hattersley</hi>, 1st Independent Kentucky Battery, examined by a Military Board, and an adverse report thereof in his case having been approved by the President, is hereby discharged the service of the United States, in accordance with Section 10, of the Act of Congress approved <date when="1861-07-22">July 22d, 1861</date>, with condition that he shall receive no final payments, until he has satisfied the Pay Department that he is not indebted to the Government.<figure type="hr"/>
+<lb/>By order of the Secretary of War:
+<lb/>E. D. TOWNSEND,
+<lb/><hi rend="italic">Assistant Adjutant General.</hi></p>
+<p>OFFICIAL:
+<lb/>E D Townsend
+<lb/><hi rend="italic">Assistant Adjutant General</hi>.</p>
+<p>Governor of Kentucky<pb/></p>
+<p>1 Indept. Batty<figure type="hr"/>
+<lb/>Hattersley George
+<lb/>1' Lieut<figure type="hr"/>
+<lb/>Order<figure type="hr"/>
+<lb/>discharging him from service -- <figure type="hr"/>
+<lb/>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> A. G. O. <date when="1865-03-24">March 24 1865</date></p>
+  </body>
+ </text>
+</TEI>

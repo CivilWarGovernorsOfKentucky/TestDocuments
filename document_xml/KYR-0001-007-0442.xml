@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0442"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Hugh W. Tener to James R. Page</title>
+    <title level="a" type="parallel">CWG2107</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Appointments by the Governor, Civil Appointments, 1863-1867</collection>
+      <idno>BR2-373</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Philadelphia, Philadelphia County, Pennsylvania</placeName>
+    <date when="1865-05-16">16 May 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>The undersigned respectfully applied for the renewal of his commission as commissioner of Deeds for Kentucky, resident in the city of Philadelphia, State of Pennsylvania, which expired on <date when="1865-05-20">20<hi rend="sup">th</hi> Inst.</date></p>
+<p>Hugh W. Tener
+<lb/><date when="1865-05-16">May 16/1865</date>.</p>
+<p>13 So. Third St.
+<lb/>Philadea. <date when="1865-05-16">May 16/1865</date>.</p>
+<p>Dear Sir:</p>
+<p>Your esteemed favor of <date when="1865-05-11">11<hi rend="sup">th</hi> Inst.</date> is received and above you will find my application for the renewal of my commission, as suggested</p>
+<p>I enclose Five Dollars, amt. of State Tax on commission.</p>
+<p>Yours Respy.
+<lb/>Hugh W. Tener</p>
+<p>Jas. R. Page Esq.
+<lb/>Asst. Secretary of State,
+<lb/>Frankfort,
+<lb/>Ky.<pb/></p>
+<p>Com<hi rend="sup">r</hi> Deeds
+<lb/>Pennsylvania
+<lb/>Hugh W. Tener
+<lb/>com<hi rend="sup">d</hi>
+<lb/><date when="1865-05-19">19<hi rend="sup">th</hi> May/65</date></p>
+  </body>
+ </text>
+</TEI>

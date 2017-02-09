@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0177"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Lucian Stevens et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG9645</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG17-114 to MG17-115</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Mason County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency
+<lb/>The Governor of Kentucky:</p>
+<p>The undersigned Citizens of Mason Co. Ky., would respectfully represent unto Your Excellency, that at a trial, on behalf of the Commonwealth vs George W. Horton for a breach of the peace, had before Charles J. Fox, a Justice of the peace for s<hi rend="underline"><hi rend="sup">d</hi></hi> County, on the <date when="1860-09-20">20<hi rend="underline"><hi rend="sup">th</hi></hi> day of Sept<hi rend="underline"><hi rend="sup">r</hi></hi> 1860</date>, Said Horton was fined the sum of nine dollars; which fine your petitioners believe was unjust and improperly imposed.</p>
+<p>They therefore respectfully petition Your Excellency to remit the same.</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Lucian Stevens
+<lb/>Daniel Falin
+<lb/>A A Hammon
+<lb/>L H Van Buskirk
+<lb/>A. G. Ringo
+<lb/>J. C. Mitchell
+<lb/>S Berry
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Gillaspie
+<lb/>J R Mangess
+<lb/>David Wilson
+<lb/>James E Ringo
+<lb/>M Smith
+<lb/>R A Hieatt
+<lb/>Frederick Adams
+<lb/>James mc millan
+<lb/><hi rend="underline">P. R. Driplett</hi>
+<lb/>Charles Soward
+<lb/>John D Smith
+<lb/>Henry F True
+<lb/><cb n="2"/>W B Crupper
+<lb/>R. M. Owens
+<lb/>J S Goff
+<lb/>J. C. Cross
+<lb/>Burr H. Triplett.
+<lb/>N, F, Foss
+<lb/>Harbin Craig
+<lb/>Thomas P. Anderson
+<lb/>P A True
+<lb/>W W Jennings
+<lb/>Christian Hiles
+<lb/>A Craig
+<lb/>Leonard, C Anderson
+<lb/><hi rend="str">T</hi> F. W. Long Jr
+<lb/>Jas D, Henderson
+<lb/>Robert S. Evans<pb/></p>
+<p><milestone unit="column" n="1"/>Mason J P
+<lb/>$9. } breach of the peace
+<lb/>G. W. Horton
+<lb/>Iss<hi rend="sup">d</hi> <date when="1860-11-22">Nov 22. 1860</date></p>
+<p>Hortons case
+<lb/>Mason Co
+<lb/>Remitted
+<lb/>B, M,</p>
+  </body>
+ </text>
+</TEI>

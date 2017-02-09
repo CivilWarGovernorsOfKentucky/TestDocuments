@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0619"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">J. Saige Dury et al. to James F. Robinson</title>
+    <title level="a" type="parallel">CWG9071</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Governor's Official Correspondence File, Petitions for Pardons, Remissions, and Respites, 1862-1863</collection>
+      <idno>R4-472</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Boyd County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency, Hon Jas. F. Robinson -- </p>
+<p>The undersigned would respectfully represent that at the present (April) term of the Boyd Circuit Court, a judgement was rendered in behalf of the Commonwealth against J. L, Tureman, for $50,,00, for selling liquor to a minor -- The liquor seems to have been sold during the war -- as Home Guard -- excitement in the neighborhood. M<hi rend="underline"><hi rend="sup">r</hi></hi> Tureman is not a habitual violator of the law, &amp; this is his first case -- &amp; as he had been an efficient loyal man in these war times -- we think your Excellency would be justified, on the whole, to remit his fine in this instance.</p>
+<p><hi rend="underline">J. S. Dury</hi>
+<lb/>R W Eastham D S B C
+<lb/>James W Riely
+<lb/>W. V. Hampton
+<lb/>C, L, M<hi rend="underline"><hi rend="sup">c</hi></hi>Connell
+<lb/>H M Honaker
+<lb/>L Moore<pb/></p>
+<p>Pettn of Citizens of Boyd Count to remit fine of Truman</p>
+<p>Refused</p>
+<p>Refused</p>
+  </body>
+ </text>
+</TEI>

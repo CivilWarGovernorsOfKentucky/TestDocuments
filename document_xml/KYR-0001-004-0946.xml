@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0946"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">William J. Rice and Hiram Thomas to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG5065</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR10-454</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1864-06-04">4 June 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Hon T E Bramlette Governor of Kentucky</p>
+<p>Your Petitioner William <hi rend="str">G</hi> Rice would respectfully represent &amp; state that He was Indicted in the Casey Circuit Court by the Grand Jury for standing a Stud Horse in the year <date when="1862">1862</date> without a License and Judgement rendered against him for twenty five Dollars for the offence a copy of s<hi rend="sup">d</hi> Judg<hi rend="sup">t</hi> is now filed with his petition. The facts of the case are these, in the year <date when="1862">1862</date> I had no stud horse of my own, a soldier left with me a stud horse to feed &amp; pasture, who paid me for so doing and whilst I had said Horse I for the accomodation of my friends &amp; neighbors did let said Horse cover some mares but ^made^ no charge for his service to said Mares, nor did I publish to the neighbourhood that I would let said horse to Mares, the said Horse was kept by me about two months and his owner took him away in the month of <date when="1862-06">June of s<hi rend="sup">d</hi> year</date> at my reelection</p>
+<p>I admit service of the summons but have no recollection of it, nor did I know there was an Indictment or Judgement against me for the offence aforesaid until one day this week when the Sheriff called on me for the fine I made no defence to the prosecution</p>
+<p>The premises considered I pray you will remit to me ^the^ fine aforsaid or ^grant^ such relief as my case merits &amp;c <date when="1864-06-04">June 4th 1864</date>.</p>
+<p>W. J. Rice
+<lb/>Hiram Thomas</p>
+<p>Subscribed &amp; sworn to before me this <date when="1864-06-04">4th day of June 1864</date>.</p>
+<p>T. W. Wash Exr c c</p>
+<p>We whose names are hereto subscribed from our acquainted with the Petitioner believe the above statements made by him are true</p>
+<p>Joel Sweeney
+<lb/>Hiram Thomas
+<lb/>Elijah Coffey
+<lb/>R B Williamson</p>
+  </body>
+ </text>
+</TEI>

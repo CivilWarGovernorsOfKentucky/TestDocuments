@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-031-0068"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Thomas Averitt et al. to James F. Robinson</title>
+    <title level="a" type="parallel">CWG7808</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Appointments by the Governor, Civil Appointments, 1862-1863</collection>
+      <idno>R1-109</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Bradfordville, Marion County, Kentucky</placeName>
+    <date when="1862-11-25">25 November 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Bradfordville Marion County Ky. <date when="1862-11-25">Nov. 25<hi rend="sup">th</hi> 1862</date>
+<lb/>To his Excellency James F. Robinson
+<lb/>Governor of the State of Kentucky</p>
+<p>We the undersigned petitioners would most respectfully state to your excellency that the citizens of this district are labouring under a good deal of inconvenience, and justice is being delayed in consequence of the office of Justice of the peace being vacated. John D. Belden Esqr. the former incumbent has joined the Union army and left the district, there is a good deal of unsettled business lying in the office and no one seems willing to undertake the settlement of it, since Esquire Belden left a fire broke out in our little village which consumed near half the Town, and among other things all the Statue Laws acts of the Legislature. code of Practice and perhaps some of the papers belonging to the office, his record book we understand was saved.</p>
+<p>We your petitioners would most respectfully recommend Elijah Webb, (one of our citizens) as a suitable person to fill said office untill the next regular election, we have been acquainted with him for several years his loyalty is unquestionable and we know of no one in the district more competent to discharge the duties of the office. We therefore most respectfully request that you appoint and commission him to fill said office. being District No 1.</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Thomas Averitt
+<lb/>E. A. Coppage
+<lb/>R. Y. Thomas
+<lb/>William Averitt
+<lb/>A. L. Bradford
+<lb/>W T Purely
+<lb/>John Averitt
+<lb/>J. W. Coppage
+<lb/>E W Philipps
+<lb/><cb n="2"/>F. H. Guthrie
+<lb/>John Averitt
+<lb/>M. M. Beard
+<lb/>John H. Tucker
+<lb/>Hardin Youwell
+<lb/>Jas S. Guthrie
+<lb/>F. G. Philips
+<lb/>H. W. Bradford
+<lb/>Elisha Isaacs Sr
+<lb/>Elisha Isaacs Jr.<milestone unit="column" n="1"/><pb/></p>
+<p>Mr. Tate please issue &amp; send comm according to pettn</p>
+<p>J F Robinson</p>
+<p>Marion Co<figure type="hr"/>
+<lb/>J P
+<lb/>Dist N<hi rend="sup">o</hi> 2.
+<lb/>App<hi rend="underline"><hi rend="sup">d</hi></hi> Made <date when="1862-11-29">Nov 29 1862</date></p>
+  </body>
+ </text>
+</TEI>

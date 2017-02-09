@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1944"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Nathan A. Williams, Affidavit</title>
+    <title level="a" type="parallel">CWG11412</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Bradley Strait</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG23-389 to MG23-390</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Jefferson County, Kentucky</placeName>
+    <date when="1862-05-09">9 May 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>The State of Kentucky
+<lb/>County of Jefferson</p>
+<p>This day Nathan A. Williams made oath before me a Justice of the peace for said county that on the night of the <date when="1862-05-07">7th day of May 1862</date> he was Robbed at his room in the United States Hotel in the City of Louisville Kentucky of the sum of three or four hundred dollars in Bank notes (money) and one <unclear>golvanised</unclear> Revolving pistol of the value of $25.00. and that a man by the name of Henry D. Morgan who was in the room with this affiant, at that time, committed said Robbery, by the felonious stealing taking and carrying away said money &amp; pistol</p>
+<p>N. A. Williams</p>
+<p>Subscribed and sworn to before me this <date when="1862-05-09">9th day of May 1862</date></p>
+<p>Jo<hi rend="underline"><hi rend="sup">s</hi></hi> Clement. J P J C</p>
+<p>The Commonwealth of Kentucky to all Sheriffs constables or policemen of said Commonwealth</p>
+<p>Wheras there is good<pb/>
+<lb/>grounds to believe that Henry D Morgan late of this County has been guilty of the crime of Robbing Nathan A. Williams of the sum of three of four hundred dollars in money, and a revolving pistal of the value of $25,00, the property of said Nathan A Williams.</p>
+<p>You are therefore in the name of the Commonwealth of Kentucky commanded that <hi rend="str">with the</hi> your forthwith arrest the said Henry D Morgan if he be found in this Commonwealth and take him before some magistrate to be dealt with according to law</p>
+<p>Given under my hand as Justice of the peace this <date when="1862-05-09">9th day of May 1862</date></p>
+<p>Jo<hi rend="underline"><hi rend="sup">s</hi></hi> Clement
+<lb/>J P J C</p>
+<p>The within named Henry D Morgan is no inhabitant of the County of Jefferson or state of Kentucky, but is beleived to be a fugitve from Justice, and in the State of Indiana</p>
+<p>D. T. Bligh<pb/>
+<lb/>Policeman of the City of Louisville<pb/></p>
+<p><hi rend="str">Make out requisition &amp;c
+<lb/>B M</hi></p>
+<p>Jefferson Co
+<lb/>The Commonwealth
+<lb/>vs } <unclear>Warrant</unclear> for felony
+<lb/>Henry D Morgan
+<lb/>Indiana<figure type="hr"/>
+<lb/>Requested for H D Morgan
+<lb/>Iss<hi rend="sup">d</hi> <date when="1862-05-12">May 12. 1862</date>
+<lb/>D. T. Bligh Agent</p>
+  </body>
+ </text>
+</TEI>

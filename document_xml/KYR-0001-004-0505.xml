@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0505"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Abner Hall to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG4624</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR9-302</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Maysville, Mason County, Kentucky</placeName>
+    <date when="1864-02-16">16 February 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Maysville Kentucky
+<lb/><date when="1864-02-16">February 16<hi rend="sup">th</hi> 1864</date>
+<lb/>To his Excellency
+<lb/>Gov Bramlette</p>
+<p>Dear Sir: In the <date when="1861">spring of 1861</date> Jno Morgan of this County, hired me as a hand to sell various articles, including spiritious Liquors at a Barbecue in this County. I at the time did not know that it was improper for me to act as Bar Keeper of Morgan as he was a tavern Keeper &amp; I thought he had a right to Sell any where, and I supposed that he and not me was responsible. But I found out that I was mistaken as both me and Morgan were fined $60 each at the <date when="1861-07">July term of the Mason Circuit Court for the year 1861</date>. I was poor and unable to pay at the time and the fine was respited for one year. Since then my three Boys have all joined the Army and <hi rend="underline">two have</hi> died in the Service, and it will almost ruin me left as I am without help &amp; I respectfully petition your excellency to remit the fine</p>
+<p>Abner Hall</p>
+<p>I as sherriff of Mason County certify all of the above statements to be true and think the fine should be remitted H Taylor knows Hall and will state to you that what he says is true</p>
+<p><date when="1864-02-16">Feby 16<hi rend="sup">th</hi> 1864</date>
+<lb/>Henry S Jefferson Sheriff of Mason Co. Ky<pb/></p>
+<p>Mason Cir Ct
+<lb/>vs
+<lb/>Abner Hall
+<lb/>$60
+<lb/>Tipling
+<lb/><date when="1864-02-18">18<hi rend="sup">th</hi> Feby 1864</date></p>
+<p>Remit all except fees &amp; costs
+<lb/>Tho E Bramlette</p>
+  </body>
+ </text>
+</TEI>

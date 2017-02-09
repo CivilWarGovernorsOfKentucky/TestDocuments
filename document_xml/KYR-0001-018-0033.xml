@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-018-0033"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">A. G. Davidson to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG8099</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Military Appointments, 1859-1862</collection>
+      <idno>MG6-117</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date when="1861-07-22">22 July 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Louisville <date when="1861-07-22">July 22<hi rend="sup">d</hi>, 1861</date>.
+<lb/>To his Excellency B. Magoffin Govenor, and Commander in Chief &amp;c
+<lb/>Sir</p>
+<p>Herewith please accept my resignation as 2<hi rend="sup">nd</hi> Lieut Co. K 2<hi rend="sup">d</hi> Bat 2<hi rend="sup">d</hi> Reg. K. S. G.</p>
+<p>A. G. Davidson</p>
+<p>Preston Roger. Cap<hi rend="underline"><hi rend="sup">t</hi></hi>
+<lb/>C<hi rend="sup">o</hi> K. 2<hi rend="sup">d</hi> Bat 2<hi rend="sup">d</hi> Reg K S G }<pb/>
+<lb/>I recommend the acceptance of the within resignation.</p>
+<p>R. M<hi rend="sup">c</hi>Kee
+<lb/>Maj. 2 Bat. 2 Reg. Inft.
+<lb/>Louisville, <date when="1861-07-22">July 22 1861</date></p>
+  </body>
+ </text>
+</TEI>

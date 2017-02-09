@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0896"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">L. C. Rankin et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG5015</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Amanda Boczar</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR10-376 to BR10-377</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency Governor Tho<hi rend="underline"><hi rend="sup">s</hi></hi>. E. Bramlette your petitioner would respectfully represent that at the present <date when="1864-05">May Term 1864</date> of the Harrison Circuit Court J. P. Robinson was tried upon an indictment for keeping a tipling house for 3 months and was found guilty of keeping a tipling house and fined sixty dollars: The evidence showed that one J. A. Earles had obtained from the Harrison County Court a licese to keep a tavern &amp; retail liquors at his tavern house in the county of Harrison and after taking out his license <hi rend="str">took</hi> took in J. P. Robinson as a partner under the impression that the business could be carried in under Earles' license all of the retailing by Robinson was done under Earles' license believing said facts present a proper case for the exercise of executive Clemency We the jurors who tried the case &amp; members of the bar what heard the trail respectfully ask that the fine be remitted</p>
+<p>L C Rankin
+<lb/>Samuel Levergene
+<lb/>Wm Hutcherson<pb/>
+<lb/>L D Terry
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> R M<hi rend="underline"><hi rend="sup">c</hi></hi> Nees
+<lb/>E D M<hi rend="sup">c</hi>Adams
+<lb/>W B Renaker
+<lb/>Robert Reneker
+<lb/>L J Davis
+<lb/>Adam Renaker
+<lb/>H Cal
+<lb/>Hugh M Leer
+<lb/>Members of the bar
+<lb/>W W Simble
+<lb/>J. S. Boyd
+<lb/>Jno R Smith
+<lb/>Jno T. McClintock
+<lb/>J L Griffith
+<lb/>J F Ware. C H C. Court
+<lb/>J.H. Marshalll
+<lb/>A. H. Ward<pb/></p>
+<p>Harrison Cir Ct
+<lb/>vs
+<lb/>J. P. Robinson</p>
+<p>Remit Execept fees &amp; costs &amp; enclose care of A. H. Ward Cynthiana Ky -- </p>
+<p>Tho E Bramelette</p>
+<p>Tipling $60</p>
+<p><date when="1864-05-16">16<hi rend="sup">th</hi> May/64</date></p>
+  </body>
+ </text>
+</TEI>

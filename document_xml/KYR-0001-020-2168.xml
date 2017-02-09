@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-2168"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">H. D. Helm et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG9244</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG24-266 to MG24-267</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency Beriah Magoffin Governor of the State of Kentucky.</p>
+<p>The undersigned respectfully represent that at the <date when="1858-09">August term 1858</date> of the Campbell Circuit Court Adam Seifert was convicted jointly with one Henry Dyer of the crime of larceny in the stealing of silver watch and sentenced to the penitentiary for three years.</p>
+<p>The facts of the case as they appeared in evidence are that Seifert and Dyer with a boy by the name of Quigley were present at a game of ball in a field near Newport, and that Dyer observed the watch in the vest of one of the ball-players which was hanging on a tree, and directed Quigley to go and get it, who did so, and that Dyer accompanied by Seifert went to Covington and disposed of the watch for three dollars.</p>
+<p>We are satisfied from information upon which we can rely, that Dyer was the prime mover in all the transactions, though the others participated therein, and he and Seifert were convicted mainly upon the testimony of the boy Quigley who was released, a <hi rend="underline">nolle prosequi</hi> having been entered in his case.</p>
+<p>Adam Seifert is an orphan German boy and at the time of his conviction was but sixteen years of age. He was raised by an aunt by the name of Mary Miller who follows the business of a sick nurse and during the winter previous to the conviction, she being absent<pb/>
+<lb/>from home, this boy volunteered in Cincinnati to go to Utah with a regiment then being raised there. He then became acuainted with Dyer who misled him into the commission of this his first crime.</p>
+<p>These facts are represented to us in a manner that we are bound to believe them; and taking into consideration the youth of Seifert and the fact that he has now served over one year in the penitentiary we respectfully ask that the Executive clemency may be extended to him.</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Jurors in the case
+<lb/>P. A. C. Kemper
+<lb/>Ja<hi rend="sup">s</hi> Hainsworth
+<lb/>F. J. Allen
+<lb/>M Siddens
+<lb/><cb n="2"/>H D Helm, Shff
+<lb/>Geo <unclear/> Cir Cir Ct
+<lb/>M Cook city marshal
+<lb/>C Southgate City Clerk
+<lb/>Geo P Webster
+<lb/>Geo R Fearons City Atty
+<lb/><hi rend="underline">F A</hi> <hi rend="underline">Boyd</hi> <hi rend="underline">J C C C</hi>
+<lb/>Allen S Berry
+<lb/>J. Q. A. South P, M<milestone unit="column" n="1"/><pb/></p>
+<p>Petition for Pardon of Adam Seifert</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-038-0014"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">R. B. Cain et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG12498</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>Union Artillery, Navy and Marines Primary Source Documents ; Misc U.S.C.T. Primary Source Documents</collection>
+      <idno>Box 14, Folder Miscellaneous 1st Light Arty</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Hustonville, Lincoln County, Kentucky</placeName>
+    <date when="1863-11-23">23 November 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Hustonville KY <date when="1863-11-23">Nov 23. '63</date>
+<lb/>To His Excellency
+<lb/>T. E. Bramlette
+<lb/>Frankfort
+<lb/>Ky
+<lb/>Dear Sir</p>
+<p>Permit us as old friends to recommend to your consideration for a commission under the call of twenty thousand for the service of the state of Kentucky, Walker H. Bell -- We ask this as a favor to us -- and assure you that he will faithfully discharge the trust confided to him and is capable of so doing -- having had service in the 19<hi rend="sup">th</hi> Ky Reg. Ky Infy -- </p>
+<p>R B Cain
+<lb/>G. C. Riffe
+<lb/>Geo Drye</p>
+<p>I concur in the petition
+<lb/>J F Bell
+<lb/>W R Onar
+<lb/>William Goodloe
+<lb/>Jno. W. Shelly<pb/></p>
+<p>Refered to Adjt Gen<hi rend="underline"><hi rend="sup">l</hi></hi> I understand that Harvey Cruill recommendation S. A. Miller as Lt in his Battery -- Miller belongs to 2<hi rend="sup">nd</hi> <unclear/> it is against our fixed rule to appoint citizens of other States to command</p>
+<p>Tho E Bramlette</p>
+<p>5 Bat Ky<figure type="hr"/>
+<lb/><hi rend="underline">Bells recommendation</hi></p>
+  </body>
+ </text>
+</TEI>

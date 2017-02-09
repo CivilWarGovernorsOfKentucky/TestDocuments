@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1353"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Schroeder, Affidavit</title>
+    <title level="a" type="parallel">CWG5990</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR12-104-1</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Jefferson County, Kentucky</placeName>
+    <date when="1864-11-21">21 November 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>State of Kentucky
+<lb/>County of Jefferson</p>
+<p>John Schroeder states on oath that he is a resident of Louisville Ky. that he is personally acquainted with W<hi rend="underline"><hi rend="sup">m</hi></hi> Salzman who <hi rend="str">was</hi> was indicted in the Jefferson Circuit Court, and for whom David Schroeder this affiants father went bail and that about ^the^ <date when="1864-05-12">12<hi rend="underline"><hi rend="sup">th</hi></hi> of last May</date> his said father sent him to Nashville Tennessee. to look after said Salzman, he ^said Salzman^ having left Louisville some time previous, and that after making search for several days succeeded in finding him in Nashville Tenn where he was in the service of the United States being a member of the 12 Regiment of Michigan volunteers. And that he conversed with said Salzman and requested him to come back to Louisville -- and deliver himself up to the proper authorities which said Salzman refused to do.</p>
+<p>John ^his X mark^ Schroeder</p>
+<p>Subscribed and sworn to before me by John Schroeder this <date when="1864-11-21">21<hi rend="underline"><hi rend="sup">st</hi></hi> day of November 1864</date></p>
+<p>John N Mattingly
+<lb/>Notary Public Jeff Co Ky</p>
+  </body>
+ </text>
+</TEI>

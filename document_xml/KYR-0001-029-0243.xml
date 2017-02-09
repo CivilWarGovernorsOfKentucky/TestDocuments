@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0243"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">E. Coghill et al. to James F. Robinson</title>
+    <title level="a" type="parallel">CWG8695</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Governor's Official Correspondence File, Petitions for Pardons, Remissions, and Respites, 1862-1863</collection>
+      <idno>R3-365</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Honbl. James F Robinson
+<lb/>Governor of Kentucky</p>
+<p>The undersigned your petitioner would respectfully state that at the <date when="1862-08">Aug term 1862</date> of the Carroll Circuit Court John Dugan was fined twenty Dollars for tippling. </p>
+<p>We state that said Dugan is a miner about fifteen years old that his brother was selling liquer with out license, that on one occasion only he waited on a customer of his brother during his brothers absence and for this he was fined</p>
+<p>Your petitioner believing this case desires executive clemency prays that said fine may be remitted</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>E Coghill
+<lb/>W<hi rend="sup">m</hi> Owen
+<lb/>Wm Darling
+<lb/>H W Pryor
+<lb/>W<hi rend="sup">m</hi> Gardner
+<lb/>A R Gaunt
+<lb/>John J. Orr
+<lb/>Allen Hanks
+<lb/>Allen Donaldson
+<lb/>Benjamin Elston
+<lb/>J H Masterson
+<lb/>W L Ringo
+<lb/>L, W, Taylor
+<lb/><cb n="2"/>D W Wogin
+<lb/>G M Fisher
+<lb/>Jno R Vance
+<lb/>J M Collyn
+<lb/>B B Elston
+<lb/>Jas. K. Pope
+<lb/>Joseph Ringo
+<lb/>John Hogan <hi rend="underline">late clk</hi>
+<lb/>H C C C
+<lb/>P. O. Turpin
+<lb/>Geo Ringo
+<lb/>H. H. Turpin
+<lb/>R, <unclear>Cufemt</unclear>
+<lb/>R. <unclear>I. Voue</unclear><pb/>
+<lb/><milestone unit="column" n="1"/>R. J. Wilson
+<lb/>Joe. C. Scott
+<lb/>T. J. Jenkins
+<lb/>Rich<hi rend="sup">d</hi> Johnston
+<lb/>W H Van Pell <unclear/></p>
+<p>Carroll Cir Ct
+<lb/>Jno Dugan Pettn
+<lb/>$20. } Tipling</p>
+<p><hi rend="str">No good <unclear/> to remit</hi></p>
+<p><hi rend="str">J F Robinson</hi></p>
+<p>One half fine remitted in this case</p>
+<p>J F Robinson
+<lb/>Iss<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1863-02-19">Feby 19. 1863</date><figure type="hr"/>
+<lb/>to Mr Vanpell</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-018-0151"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John W. Finnell to Nathaniel Gaither, Jr.</title>
+    <title level="a" type="parallel">CWG8217</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Military Appointments, 1859-1862</collection>
+      <idno>MG6-256</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1861-12-14">14 December 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Adj<hi rend="sup">t</hi> Gen<hi rend="sup">ls</hi> Office
+<lb/>Frankfort <date when="1861-12-14">14 Dec 1861</date></p>
+<p>Hon: Nat Gaither Jr
+<lb/>Sec: of State</p>
+<p>I send twenty One Commissions which please prepare &amp; return</p>
+<p><table rend="rules">
+<row>
+	<cell>_<date when="1861-12-13">13</date></cell>
+	<cell>Dec</cell>
+	<cell>1861</cell>
+	<cell>W<hi rend="underline"><hi rend="sup">m</hi></hi> J. Landrum Colo.</cell>
+	<cell>Col<hi rend="underline"><hi rend="sup">o</hi></hi></cell>
+	<cell>1</cell>
+</row>
+<row>
+	<cell><date when="1861-12-13">"</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>John Cowan</cell>
+	<cell>L<hi rend="underline"><hi rend="sup">t</hi></hi> Col<hi rend="sup">o</hi></cell>
+	<cell>2</cell>
+</row>
+<row>
+	<cell><date when="1861-12-13">"</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>John R. Duncan</cell>
+	<cell>Major</cell>
+	<cell>3</cell>
+</row>
+<row>
+	<cell><date when="1861-12-12">12</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>W<hi rend="underline"><hi rend="sup">m</hi></hi> F. M<hi rend="sup">c</hi>Kinney</cell>
+	<cell>Captain</cell>
+	<cell>4</cell>
+</row>
+<row>
+	<cell><date when="1861-12-12">"</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>Hannibal Downey</cell>
+	<cell>D<hi rend="sup">o</hi></cell>
+	<cell>5</cell>
+</row>
+<row>
+	<cell><date when="1861-12-12">"</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>Meredith G. Richardson</cell>
+	<cell>D<hi rend="sup">o</hi></cell>
+	<cell>6</cell>
+</row>
+<row>
+	<cell><date when="1861-12-12">"</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>Alex E. Adams</cell>
+	<cell>D<hi rend="underline"><hi rend="sup">o</hi></hi></cell>
+	<cell>7</cell>
+</row>
+<row>
+	<cell><date when="1861-12-12">"</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>Josiah J. Mann</cell>
+	<cell>D<hi rend="underline"><hi rend="sup">o</hi></hi></cell>
+	<cell>8</cell>
+</row>
+<row>
+	<cell><date when="1861-12-12">"</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>Morgan V. Evans</cell>
+	<cell>D<hi rend="underline"><hi rend="sup">o</hi></hi></cell>
+	<cell>9</cell>
+</row>
+<row>
+	<cell><date when="1861-12-12">"</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>Isaac Singleton</cell>
+	<cell>1<hi rend="underline"><hi rend="sup">st</hi></hi> Lieut</cell>
+	<cell>10</cell>
+</row>
+<row>
+	<cell><date when="1861-12-12">"</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>Willis O. Egerton</cell>
+	<cell>D<hi rend="sup">o</hi></cell>
+	<cell>11</cell>
+</row>
+<row>
+	<cell><date when="1861-12-12">"</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>Joshua W. Hansford</cell>
+	<cell>D<hi rend="sup">o</hi></cell>
+	<cell>12</cell>
+</row>
+<row>
+	<cell><date when="1861-12-12">"</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>Edwin F. Hogg</cell>
+	<cell>D<hi rend="sup">o</hi></cell>
+	<cell>13</cell>
+</row>
+<row>
+	<cell><date when="1861-12-12">"</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>George Rose</cell>
+	<cell>D<hi rend="sup">o</hi></cell>
+	<cell>14</cell>
+</row>
+<row>
+	<cell><date when="1861-12-12">"</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>Tho. A. Elkin</cell>
+	<cell>D<hi rend="sup">o</hi></cell>
+	<cell>15</cell>
+</row>
+<row>
+	<cell><date when="1861-12-12">"</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>James F. Peyton</cell>
+	<cell>2<hi rend="underline"><hi rend="sup">d</hi></hi> D<hi rend="sup">o</hi></cell>
+	<cell>16</cell>
+</row>
+<row>
+	<cell><date when="1861-12-12">"</date></cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell>John Wall</cell>
+	<cell>D<hi rend="underline"><hi rend="sup">o</hi></hi></cell>
+	<cell>17</cell>
+</row>
+</table><pb/>
+<lb/><table rend="rules">
+<row>
+	<cell>1861</cell>
+	<cell>Dec<hi rend="sup">r</hi></cell>
+	<cell><date when="1861-12-12">12</date>_</cell>
+	<cell>Tho. A. Warren</cell>
+	<cell>2<hi rend="sup">d</hi> Lieut</cell>
+	<cell>18</cell>
+</row>
+<row>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell><date when="1861-12-12">"</date></cell>
+	<cell>John D. Mitchell</cell>
+	<cell>D<hi rend="underline"><hi rend="sup">o</hi></hi></cell>
+	<cell>19</cell>
+</row>
+<row>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell><date when="1861-12-12">"</date></cell>
+	<cell>Harbert K. Forbis</cell>
+	<cell>D<hi rend="underline"><hi rend="sup">o</hi></hi></cell>
+	<cell>20</cell>
+</row>
+<row>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell><date when="1861-12-12">"</date></cell>
+	<cell>Alexander Logan</cell>
+	<cell>D<hi rend="underline"><hi rend="sup">o</hi></hi></cell>
+	<cell>21</cell>
+</row>
+</table></p>
+<p>Very Resp<hi rend="sup">y</hi>
+<lb/>John W Finnell
+<lb/>Adj<hi rend="sup">t</hi> Gen<hi rend="sup">l</hi></p>
+<p>Please change commission which issued to <hi rend="underline">Josiah S. Willis</hi> to <hi rend="underline">Joseph S. Willis</hi>- date <date when="1861-11-11">11 November 1861</date>. I mean change your record Willis commissioned as Captain.</p>
+<p>J. W. Finnell
+<lb/>Adj<hi rend="sup">t</hi> Genl</p>
+<p>Entered <date when="1861-12-14">14 Dec<hi rend="sup">r</hi> 1861</date></p>
+  </body>
+ </text>
+</TEI>

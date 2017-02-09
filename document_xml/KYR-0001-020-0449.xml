@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0449"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Travis Daniel et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG9917</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG18-200</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Bath County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency B. Magoffin Govenor of the Commonwealth of Kentucky,</p>
+<p>The undersigned, your petitioners would respectffully represent, that at the <date when="1860-09">September Term of the Bath Circuit Court, 1860</date>, there were Judgments rendered in favor of the Commonwealth of Kentucky against Wesley Honaker, George L. Coyle and George W. Coyle for the sum of twenty dollars <hi rend="str">of Ea</hi> <hi rend="str">against</hi> Each <hi rend="str">of</hi> <hi rend="str">those</hi> upon three separate Indictments found against them at the <date when="1860-03">March Term of said Court 1860</date>. On charge of retaling Spiritous liquors without licence,</p>
+<p>Your petitionors would respresent that in <date when="1859-12">December 1859</date>. Wesley Honaker one of the above named persones. Established a Drug-Store, in the Town of Owingsville, which is an incorporated Town, that he <hi rend="str">has</hi> at the time of Commencing the buisiness afforsaid procured a licence from the Bath County Court, to sell liquor by the quart ^for which he paid $5^ that on the <date when="1860-02-05">5<hi rend="sup">th</hi> day of February 1860</date>. he procured from the Trustees, <hi rend="str">to</hi> <hi rend="str">sell</hi> of Owingsville a licence to sell liquor by the drink for which he paid the sum of fifty dollars, that the before name George L. and George W. Coyle were<pb/>
+<lb/>merely acting as Salesmen for the said Honaker, when they sold the liquor for which the before named fines were imposed upon them -- That the time of selling the liquor for which the afforsaid Judgments were imposed, was between the <date when="1859-12-01">1<hi rend="sup">st</hi> of Decr 1859</date> and the <date when="1860-02-05">5<hi rend="sup">th</hi> of February 1860</date>, at which time he procured licence from the Trustees of Owingsville, we would further represent that the afforsaid Wesley Honaker George L. Coyle &amp; George W. Coyle, are all men of good Character, and believing that <hi rend="str">it</hi> <hi rend="str">would</hi> their cases present grounds for Executive Clemency, we respectfully petition Your Excellency to remit the before named fines against them,</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Travis Daniel
+<lb/>W, W, Donaldson
+<lb/>John C Mason
+<lb/>R, H, Conner
+<lb/>A. Trumbo
+<lb/>R, Gudgell
+<lb/>J. H. Richart
+<lb/>J J Lightfoot
+<lb/><hi rend="underline">H R. Conner</hi>
+<lb/>J A. Turner
+<lb/>A. I. Ewing
+<lb/><cb n="2"/>N. R. Reid</p>
+<p><milestone unit="column" n="1"/>Bath cir ct
+<lb/>Remitted 
+<lb/>B. M.
+<lb/>$20. 3 cases } Selling liquor
+<lb/>W. Honaker &amp; Others
+<lb/>Iss<hi rend="sup">d</hi> <date when="1861-01-15">Jany 15. 1861</date></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-3464"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">H. S. Powell et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG5583</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR42-385 to BR42-386</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Jackson County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency the Honerable Thomas E Bramlett govenor of Ky we the undersigned citizens of Jackson County would Most Respectfully Represent to your Honer that at the <date when="1865-06">June term of our circuit court 1865</date> that W<hi rend="underline"><hi rend="sup">m</hi></hi> Thomas was sentenced to the Penitenary for the term of Four years: Charge with horse stealing when he was put up on trial he had now councill the court assignd him councill and they not nowing Much about the Man nor his defence he was convicted now we Learn that he is In verry Bad health and if he is not Remove out of prison is not Likely to Live Long. now we will say to you that he is the son of a verry poore woman and of verry small Intellect and he hardley Knowns wright from wrong Especially in the time of such troubles as we have Been in. we admt that he stole the More as chare In the Inditement. But he was a Federal solger, and Just discharge out of the Armey when the offence was commited and serve his full time in the 7 Ky Infantry and has an Honerable discharge now we Money of us Being his fellow Solgers do Most Respectfully ask your honer to Pardon Him thinking and Believing that he will do Beter hereafter if he should Live</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>J M Word Clerk of the Cir &amp; Co County Cts
+<lb/>Henry Faubers
+<lb/>William Raden S. J. C.
+<lb/>Frank Faubers
+<lb/>R. M. Green J. J. C
+<lb/>John. S. Hamilton
+<lb/>John C Carpenter
+<lb/>Gabe Morris D. S. P. C.
+<lb/>John Farmer Mastr Com for J C
+<lb/>A. Martin
+<lb/>J W Baker Dept Sherff
+<lb/><cb n="2"/>H S Powell P. J C. C
+<lb/>Ambrose Powell S P J C
+<lb/>W. H. Moody
+<lb/><unclear/> Jackson <unclear/>
+<lb/><hi rend="str">H. O. Donnell</hi>
+<lb/>J C Harrison
+<lb/>Elisha Harrison
+<lb/>B C C Gabbard
+<lb/>J R Isaacs
+<lb/>V. W. Morriss J S S C<milestone unit="column" n="1"/><pb/>
+<lb/>W<hi rend="sup">m</hi> Thomas</p>
+<p>Petition<figure type="hr"/>
+<lb/>Jackson County<figure type="hr"/>
+<lb/>Refused</p>
+  </body>
+ </text>
+</TEI>

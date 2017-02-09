@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1154"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">George Huston to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10622</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG20-306</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1861-06-18">18 June 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Hon B. Magoffin Governor &amp;c</p>
+<p>Your Petitioner Geo Huston will state that on the <gap/> day of <date when="1861-04">April 1861</date> one Patrick Wyatt was arrested by warrant for Peddling without Lisence and brought before the undersigned as Presiding Judge of the Union County Court and a jury empannelled and the case tried and a verdict and judgment against said Wyatt was rendered</p>
+<p>That upon the trial the accused produced Liscense regulary issued by the Jefferson County court for the state at large but said Patrick failed to produce the liscense to the clerk of Union County and have the same certified by him that believing the accused to have been ignorant of that future of the law the <hi rend="underline">Jury</hi> replieved $75 the portion of the fine belonging to the comm<hi rend="sup">th</hi> and Wyatt paid the cost &amp; county <unclear/> <hi rend="sup">1</hi>/<hi rend="sub">4</hi> 25$. Hence your Petitioner requests a remission of the $25 fine</p>
+<p>Geo Huston
+<lb/>Judge U. C. C.</p>
+<p><date when="1861-06-18">June 18 1861</date><pb/></p>
+<p>Union Co. Ct.
+<lb/>$100 } Pedling</p>
+<p>Pat. Wyatt</p>
+<p>Issd <date when="1861-07-18">July 18. 1861</date></p>
+<p>Remitted
+<lb/>B. M</p>
+  </body>
+ </text>
+</TEI>

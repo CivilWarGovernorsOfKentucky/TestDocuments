@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2558"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">G. S. Shanklin to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7195</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR16-91 to BR16-92</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Nicholasville, Jessamine County, Kentucky</placeName>
+    <date when="1865-10-07">7 October 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Nicholasville Ky
+<lb/><date when="1865-10-07">Oct 7<hi rend="sup">th</hi> 1865</date>
+<lb/>His Exelency T E Bramlette
+<lb/>D Sir</p>
+<p>Francis L Bourne a young man, quite a boy was Indicted at the <date when="1864-09">September term of the Jessamine Circuit Court 1864</date> in two Cases charged with horse stealing, Said Francis bore a good Caracter up to that occurance, and since that time has conducted himself in a sober indoustrious and <unclear/> manner, He is connected with a highly respectable family who greatly regrett the occurance and are deeply mortified,</p>
+<p>In Consideration of his youth and inexperiance, and the punishment already inflicted, I hope your Excellency may pardon him and cause the prosecutions to be dismissed I am satisfied that it would be approved by all familiar with the circumstances</p>
+<p>Yours truly
+<lb/>G, S, Shanklin</p>
+  </body>
+ </text>
+</TEI>

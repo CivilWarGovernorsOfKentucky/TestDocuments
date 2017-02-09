@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-031-0321"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Corey &amp; Son, Broadside</title>
+    <title level="a" type="parallel">CWG8061</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Appointments by the Governor, Civil Appointments, 1862-1863</collection>
+      <idno>R1-432</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Broadside</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>COREY &amp; SON,
+<lb/>No. 63 WALL STREET, NEW-YORK
+<lb/>CONVEYANCERS, COLLECTING AGENTS,
+<lb/>Notaries Public and Commissioners,
+<lb/>FOR THE FOLLOWING STATES:
+<lb/><milestone unit="column" n="6"/><cb n="1"/>NEW-YORK,
+<lb/>NEW-JERSEY,
+<lb/>MAINE,
+<lb/>VERMONT,
+<lb/>NEW-HAMPSIRE,
+<lb/><cb n="2"/>MASSACHUSETTS,
+<lb/>RHODE ISLAND,
+<lb/>CONNECTICUT,
+<lb/>PENNSYLVANIA,
+<lb/>MICHIGAN,
+<lb/><cb n="3"/>OHIO,
+<lb/>INDIANA,
+<lb/>ILLINOIS,
+<lb/>CALIFORNIA,
+<lb/>MARYLAND,
+<lb/><cb n="4"/>VIRGINIA,
+<lb/>NORTH CAROLINA,
+<lb/>SOUTH CAROLINA,
+<lb/>GEORGIA,
+<lb/>TENNESSEE,
+<lb/><cb n="5"/>TEXAS,
+<lb/>LOUISIANA,
+<lb/>KENTUCKY,
+<lb/>ALABAMA,
+<lb/>FLORIDA,
+<lb/><cb n="6"/>WISCONSIN.
+<lb/>MISSISSIPPI,
+<lb/>ARKANSAS,
+<lb/>MISSOURI.
+<lb/>OREGON, IOWA,
+<lb/>MINNESOTA,<milestone unit="column" n="1"/>
+<lb/>AND OTHER TERRITORIES, AND EX-OFFICIO FOR THE CANADAS AND BRITISH PROVINCES.
+<lb/>United States Passports issued in thirty-six hours.
+<lb/>BILLS OF EXCHANGE, DRAFTS AND NOTES PROTESTED.
+<lb/>MARINE PROTESTS NOTED AND EXTENDED.<figure type="hr"/></p>
+<p>They will give their particular attention to the Collection of Drafts, Bills of Exchange, Notes and Accounts, in all parts of the United States and British Provinces.</p>
+<p>Also, to the taking of Depositions on Commissions, or otherwise, to be used in other States or Countries.</p>
+<p>To the drawing of Deeds, Powers of Attorney, Wills, Agreements, Bonds, or other instruments in writing, and taking the acknowledgments thereof, to be recorded in different States.</p>
+<p>All business intrusted to their charge will be promptly attended to.</p>
+<p>From their long experience and familiarity with the matters above referred to, they feel confident of giving satisfaction to all who may require their services.</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>EDWIN F. COREY,
+<lb/><cb n="2"/>EDWIN F. COREY, Jr.<milestone unit="column" n="1"/><figure type="hr"/></p>
+<p>N. B. -- A Commissioner can always be found in the office between 9 A. M. and 5 P. M.</p>
+<p>REFER TO
+<lb/><milestone unit="column" n="2"/><cb n="1"/>Messrs. BOWDOIN, LAROCQUES &amp; BARLOW.
+<lb/>" MARTIN &amp; SMITHS.
+<lb/>" CLEVELAND, TITUS &amp; CHAPMAN.
+<lb/>" SCHELL, SLOSSON &amp; HUTCHINS.
+<lb/>" EVARTS, SOUTHMAYD &amp; CHOATE.
+<lb/>" O'GORMAN &amp; WILSON.
+<lb/>FREDERIC BRONSON, Esq.
+<lb/>C. N. POTTER, Esq.
+<lb/>WILLIAM O. BARRETT, Esq.
+<lb/>C. BAINBRIDGE SMITH, Esq.
+<lb/><cb n="2"/>DAVID THOMPSON, Esq., President of the N. Y. Life Insurance &amp; Trust Co.
+<lb/>JOSEPH LAWRENCE, Esq., President United States Trust Co.
+<lb/>WILLIAM S. THORNE, Esq., President National Fire Insurance Co.
+<lb/>Messrs. McCURDY, ALDRICH &amp; SPENCER, Merchants
+<lb/>" ROBERT H. BERDELL &amp; Co., "
+<lb/>" BERNHEIMER BROTHERS, "
+<lb/>" A. S. HERMAN &amp; BROTHER, "
+<lb/>" WM. C. PICKERSGILL &amp; Co., Bankers.
+<lb/>" T. W. BAYAUD &amp; Co</p>
+  </body>
+ </text>
+</TEI>

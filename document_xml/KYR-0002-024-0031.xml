@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-024-0031"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Nasby Mills to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG12085</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Mitchell A Krock</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>1st - 20th Regiments Kentucky Infantry Primary Source Documents</collection>
+      <idno>Box 7, Folder 7th Ky. Inf. - Misc.</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Fort Jefferson, Monroe County, Florida</placeName>
+    <date when="1864-10-02">2 October 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><note place="header">K-6<hi rend="sup">th</hi> CAV-488<hi rend="sup">1</hi>
+<lb/>H-24 Inf.-188<hi rend="sup">2</hi></note></p>
+<p>Fort Jefferson Fla
+<lb/><date when="1864-10-02">October 2<hi rend="underline"><hi rend="sup">d</hi></hi> 1864</date>
+<lb/>To his honor The Governor of the State of Kentucky</p>
+<p>Believing that you have a great interest in the wellfare of every Kentucky Soldier I make bold to write you this letter trusting that you will kindly help me in this matter, as I well know that you have the power to befriend me if you see fit</p>
+<p>I am a soldier of the 7<hi rend="underline"><hi rend="sup">th</hi></hi> Kentucky Infantry and have served honestly with them since the organization of the Regiment</p>
+<p>I was court martialed on the <date when="1864-04-24">24<hi rend="underline"><hi rend="sup">th</hi></hi> day of April/64</date> charged with desertion and was sentenced to Tortugus for the period of time of the war. In the charges against me it was alleged that the offence was committed <date when="1863-07-10">July the 10<hi rend="underline"><hi rend="sup">th</hi></hi>/63</date> and I have been in arrest since that date and although on three different occasions I demanded a trial it was not granted me till nearly one year after the offence was committed</p>
+<p>The facts in the case are these I was absent from my Regiment for a period of 9 days during which time I was so unwell<pb/>
+<lb/>as to be totally unable to join the Reg<hi rend="sup">t</hi> and at the time was returned to the Regt in arrest was immediately sent to hospital. I believe that these facts are sufficient to fully exonerate me from the charge of desertion on which charge I have been unjustly condemned.</p>
+<p>After being returned to the Regt from the hospitol I demanded a trial instead of a trial I was furnished with a gun and returned to duty. I was doing duty till the <date when="1864-02-22">22<hi rend="sup">d</hi> feby/64</date> when I was ordered to confinement and was kept in confinement till the time of trial</p>
+<p>Hoping that your honor will will not consider this impertinent in me and that you will do what is in your power for a native of your state and one who has always been a good citizen, and has a motherless and friendless child at home</p>
+<p>I remain your honors
+<lb/>most obdt humble sent
+<lb/>Nasby Mills
+<lb/>7<hi rend="underline"><hi rend="sup">th</hi></hi> Kentucky Infantry<pb/></p>
+<p><unclear>Adjt Genl</unclear></p>
+<p>Fort Jefferson Fla
+<lb/><date when="1864-10-02">Oct 2" 1864 -- </date><figure type="hr"/>
+<lb/>Mills Nasby
+<lb/>7" Ky Infty -- <figure type="hr"/>
+<lb/>To The Gov<figure type="hr"/></p>
+<p>He was sentenced by Court Martial, on charge of desertion to the Tortugas until end of War -- He was sick and unable to join the regiment -- Desires your assistance in his behalf -- <figure type="hr"/></p>
+<p>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> A. G. O. <date when="1864-10-31">&gt;Oct 31" 1864</date> -- </p>
+  </body>
+ </text>
+</TEI>

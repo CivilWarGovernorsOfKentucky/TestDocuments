@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-009-0026"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">W. I. Dallam et al. to Abraham Lincoln</title>
+    <title level="a" type="parallel">CWG1181</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Christina K Adkins</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's Official Correspondence File, 1863-1867</collection>
+      <idno>BR1-44 to BR1-45</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Henderson, Henderson County, Kentucky</placeName>
+    <date when="1864-03-23">23 March 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Henderson Ky <date when="1864-03-23">March 23<hi rend="sup">rd</hi> 1864</date>
+<lb/>His Excellency A Lincoln
+<lb/>President U.S.</p>
+<p>James Rouse now a prisoner at Rock Island desires to take the oath contained in the proclamation of <date when="1863-12-08">Dec 8<hi rend="sup">th</hi> 186<unclear>3</unclear></date> &amp; return home -- Said Rouse enlisted on the <gap/> day of <gap/> 186<gap/> as a musician in the <gap/> Reg<hi rend="sup">t</hi> (Rebel) Ky vols Before this Mr Rouse had been a good citizen and we have no doubt that if he is permitted to return that he will so conduct himself in future -- He formerly lived in this county &amp; desires to return here -- He Enlisted in Union County -- He has numerous relatives in this county a majority of whom are loyal and considered as good citizens as we have -- We respectfuly petition for his release upon the usual conditions</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>W. I. Dallam
+<lb/><hi rend="underline">D. N.</hi> <hi rend="underline">Walden, Sheriff, H, C</hi>
+<lb/>Ed L Starling Jr.
+<lb/>Cha<hi rend="sup">s</hi> T. Starling
+<lb/><hi rend="underline">Geo. M. Priest</hi>
+<lb/><cb n="2"/>W R Kenney
+<lb/>Sam<hi rend="sup">l</hi> W Langley
+<lb/><hi rend="underline">C W Hutchen</hi>,
+<lb/><hi rend="underline">E, D, M</hi><hi rend="underline"><hi rend="sup">c</hi></hi><hi rend="underline">Bride</hi>
+<lb/>W. S. Johnson
+<lb/>James B Lyne
+<lb/>D. B<unclear/>
+<lb/>John M<hi rend="sup">c</hi>Bride P. M
+<lb/><hi rend="underline">Ira Delano</hi>
+<lb/><hi rend="underline">Jacob</hi> <hi rend="underline">Held</hi>,</p>
+  </body>
+ </text>
+</TEI>

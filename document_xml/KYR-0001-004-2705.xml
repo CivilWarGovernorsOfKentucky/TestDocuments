@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2705"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main"> D. W. Vandivar et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7342</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR16-348 to BR16-349</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency, The Governor of Kentucky</p>
+<p>Your Petitioner James, M, Martin of Lincoln County would respectfully represent that in the Sprng of <date when="1865">1865</date> he resided in Lincoln County at the foot of Halls Gap where for a number of years -- he has lived and was the keeper of a Tavern having taken out his License regularly as such for years, that in the Sprng of <date when="1865">1865</date> he was told that he had to obtain his License from the United States Deputy assessor for said County which he did and paid therefor about $60<hi rend="underline"><hi rend="sup">00</hi></hi> -- as a retailer of Spirituous Liquors, and Subsequently he was indicted by the Grand Jury for Lincoln County at <date when="--03">Mrch</date> Term Last of said Court and at the Last <date when="--09">September</date> Term of said Court Judgement was rendered against him for $60<hi rend="underline"><hi rend="sup">00</hi></hi> -- Now Petitioner states that he has paid all Costs of Clerk and Atto for the Commonwealth and supposed as he had paid the Government of the U S -- for his said License that he had a right to sell by retail spirituous Liquors -- and Labouring under that impression did sell by the smalls to various persons who came to his Tavern whisky &amp;c he therefore pleads this mistake which is not as he is informed good at Law but believes should be good with your Excellency as his only Excuse and prys your Excellency will remit the Commths part of said fines</p>
+<p>Respectfully
+<lb/><milestone unit="column" n="2"/><cb n="1"/>D. W. Vandivar
+<lb/><hi rend="underline">E. B. Caldwell,, S, L, C</hi>,
+<lb/>L, Landram
+<lb/>S S M<hi rend="sup">c</hi>Roberts clk
+<lb/>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> W. Varnon.
+<lb/><cb n="2"/>James M Martin
+<lb/>G M<hi rend="sup">c</hi>Roberts
+<lb/>N M Craig
+<lb/>W G Bailey J L C C
+<lb/>T. P. Hill<pb/></p>
+<p><milestone unit="column" n="1"/>Lincoln Cir Ct
+<lb/>vs
+<lb/>Jas M, Martin
+<lb/>$60,
+<lb/>Tipling
+<lb/><date when="1865-11-18">18<hi rend="sup">th</hi> Nov/65</date></p>
+  </body>
+ </text>
+</TEI>

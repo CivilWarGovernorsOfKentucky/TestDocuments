@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2816"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Charles Gullett to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7453</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR17-86</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1865-11-30">30 November 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency Thos. E. Bramlett Go<hi rend="underline">v</hi> of the Commonwealth of Kentucky, Your Petitioner Charles Gullitt Respectfully States that at the <date when="1865-11">November Term 1865</date> of the Magoffin Circuit Court he was fined $70, for selling whiskey, says the whiskey for which he was fined. was sold during the late Rebellion when the Country was infested with <hi rend="str">a</hi> armed men who wielded things in their own way and a refusal would be early punishment, Says that he is a very poor man &amp; has a family who are wholly dependent upon his daily labor for a sustenance; and that it will bring Misery upon himself &amp; family if he is forced to pay said fine. he therefore appeals to Your highness and asks that said fine be remitted &amp; that all persons be restrained &amp; prohibited from the collection of the same</p>
+<p>Charles Gullett</p>
+<p>We the undersigned Join in prayer with said Petitioner and ask that said fines be remitted and that all persons be Restrained from collecting the same<pb/></p>
+<p><date when="1865-11-30">November 30<hi rend="underline"><hi rend="sup">th</hi></hi> 1865</date>
+<lb/><milestone unit="column" n="2"/><cb n="1"/>Jno Harkins
+<lb/>John Power
+<lb/>C W Patrick
+<lb/>W<hi rend="sup">m</hi> H Holt
+<lb/>W<hi rend="sup">m</hi> L Hurst
+<lb/>Wiley Patrick
+<lb/><unclear/> Cook
+<lb/>Allen Patrick
+<lb/>Samuel Patrick
+<lb/>Samuel Gullett
+<lb/>Lewis Gullett
+<lb/>Martin, V, Salyer
+<lb/>A, J Patton
+<lb/>A. B. Salyer
+<lb/><cb n="2"/>W. J. Coffee S, M, C
+<lb/>Thos B Keeton</p>
+<p><milestone unit="column" n="1"/>Magoffin Cir Ct
+<lb/>vs
+<lb/>Charles Gullett
+<lb/>$70,
+<lb/>Tipling</p>
+<p>I endorse the within as being a correct version of the facts &amp;c</p>
+<p>J. S. Dury
+<lb/>Com<hi rend="underline"><hi rend="sup">th</hi></hi> Atty.</p>
+<p>Remitted <date when="1865-12-18">18 Dec /65</date></p>
+  </body>
+ </text>
+</TEI>

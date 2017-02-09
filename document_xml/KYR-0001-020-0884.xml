@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0884"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">William Norvell to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10352</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG19-392</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Carlisle, Nicholas County, Kentucky</placeName>
+    <date when="1861-03-25">25 March 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Carlisle, <date when="1861-03-25">March 25, 1861.</date>
+<lb/>Hon. B. MaGoffin</p>
+<p>Dear Sir: A Judgement has been rendered at the present Term of our Court for $2500 agt W<hi rend="underline"><hi rend="sup">m</hi></hi> Ricketts as the Bail &amp; Security of his son, Robt. W. Ricketts -- </p>
+<p>Young Ricketts was charged with malicious shooting and wounding, but has left the Country, and I suppose, will not shortly return, if ever. The old gentleman, his father, is in moderate circumstances, and will be much oppressed if he should be compelled to pay the Judgement. He is a very good and worthy citizen, and I think he has the sympathies of the Community generally, and it is generally desired that he be released from the Judgement; and no one I believe, opposes his release.</p>
+<p>I was of counsel for the prosecutor, Mr. Still, and can assure you that I take a pleasure in requesting you to remit the fine -- Mr. Still has no wish to oppress the Father, and will take no part in resisting a remission of the fine.</p>
+<p>I have the honor to be, with sentiments of high consideration,</p>
+<p>Your most obt. sevt. &amp; friend
+<lb/><hi rend="underline">William Norvell</hi></p>
+  </body>
+ </text>
+</TEI>

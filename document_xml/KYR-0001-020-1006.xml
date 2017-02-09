@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1006"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Martin S. Taylor to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10474</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG20-73</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency, B Magoffin, Governor -- </p>
+<p>Your Petitioner, Martin S Taylor states that at the <gap/> Term of the Harlan Circuit <date when="1860">1860,</date> there was a judgment of 20$ rendered against him for selling liquor, (so charged). He state that He Sold to David Bailey Esqr. One Gallon of Whisky and on othe Gentleman was standing by and said he would pay for part of the said Gallon of Whisky and, that He was indicted for the same, and fined, 20$ for Retailing without license, He state that He has not yet recieved any pay for any of the liquor -- yet, and that the man who indited him has since left the Country and that He -- never paid him one cent towards said Gallon of Liquor, If this is Sufficient Excuse in Law He prays Your Excellency to remit said fine -- </p>
+<p>Martin, S, Taylor</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>C. B. Brittain
+<lb/>Lewis Farmer
+<lb/><cb n="2"/>David Bailey
+<lb/>Leonard Farmer
+<lb/>G W French
+<lb/>M, G, Jones
+<lb/>Ja<hi rend="sup">s</hi> B Howard
+<lb/>E V Unthank
+<lb/>Jno. B. Lyttle<milestone unit="column" n="1"/><pb/></p>
+<p>Harlan Cir. Ct
+<lb/>$20. } Liquor
+<lb/>M. S. Taylor</p>
+<p>Iss<hi rend="sup">d</hi> <date when="1861-04-09">Apr 9. 1861</date></p>
+<p>Remitted
+<lb/>B. M</p>
+  </body>
+ </text>
+</TEI>

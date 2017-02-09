@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-031-0011"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Theodore M. Morgan to Daniel C. Wickliffe</title>
+    <title level="a" type="parallel">CWG7751</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Appointments by the Governor, Civil Appointments, 1862-1863</collection>
+      <idno>R1-40 to R1-41</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Philadelphia, Philadelphia County, Pennsylvania</placeName>
+    <date when="1862-09-13">13 September 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Collection House of MORGAN, HANSON &amp; CO.,
+<lb/>N. E. corner Dock and Walnut Streets, Philadelphia.<figure type="hr"/>
+<lb/>Notes and Drafts collected in all parts of North America through Banks and Bankers
+<lb/>Particular attention given to the Collection of past due claims through Attorneys.
+<lb/>Dishonored paper transferred to our Attorneys on day of dishonor when desired.
+<lb/>Philadelphia, <date when="1862-09-13">Septem. 13 1862</date>
+<lb/>The Secretary of the State of Kentucky
+<lb/>Dr. Sir:</p>
+<p>I beg leave respectfully to inquire if there is a vacancy in this County in the appointments of Commissioner of Deeds for your State. In case there Should be, and you will do me the honour to advise me to that effect I shall proceed to make application for such position forwarding at the same time the proper references.</p>
+<p>Very Respectfully
+<lb/>Theodore M Morgan</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2763"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">S. Griff to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7400</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR17-11 to BR17-12</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Nelson County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency Thos. E. Bramlette.</p>
+<p>I became bail for <hi rend="underline">James</hi> <hi rend="underline">Mills</hi>, who was indicted in Nelson County for Larceny -- in <date when="1865-03">March 1865</date>. I append hereto the proceedings had against him.</p>
+<p>His father. of <gap/> I <gap/>, indemnified me. and will have to pay the forfeiture of $500 adjudged against me.</p>
+<p>James Mills and those indicted with him, were at the time of the supposed offence -- Union soldiers, just discharged. His father is poor, and the loss of such a sum as $500 is a heavy blow to him. 
+<lb/> 
+<lb/>How far the military character of a man indicted in such a County <hi rend="str">of</hi> as Nelson, for a military excess. <hi rend="str"><unclear/></hi>ought to weigh in an application for mercy. I leave to your excellency. suggesting only, that the policy of the state, as declared by our Legislature, has been to pardon all military outrages committed during the late war, at least all that were committed by one of the parties to it.</p>
+<p>Under these circumstances, I respectuflly ask your Excellency, to remit such portion of the judgment of forfeiture (which I have meanwhile replevied), as in your judgment would comport with the best interests of the public.</p>
+<p>And thus in duty bound &amp;c</p>
+<p>S. Griff</p>
+<p>P. S. If essential I could ^add^ any number of signatures to the foregoing petiton.<pb/></p>
+<p>Nelson Circuit Ct.
+<lb/>vs
+<lb/>Jas Mills
+<lb/>Refused</p>
+  </body>
+ </text>
+</TEI>

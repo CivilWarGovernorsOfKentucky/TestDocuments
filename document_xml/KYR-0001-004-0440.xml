@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0440"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">W. W. Powers et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG4559</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR9-193 to BR9-194</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Jefferson County, Kentucky</placeName>
+    <date when="1864-01-14">14 January 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency
+<lb/>Thos. E. Bramlet
+<lb/>Governor of Kentucky</p>
+<p>We the undersigned Jurors who tried Conrad Wolfe at the <date when="--01">January Term</date> of the Jefferson Circuit Court, do most earnestly recommend him To Executive Clemency.</p>
+<p>Said Conrad Wolfe is a Soldier belonging to the 63 Ohio Volunteers. He volunteered about two years &amp; a half ago, &amp; his Regiment has been in the Army of the Cumberland; he has reenlisted for three years, &amp; at the time of his arrest he with this Regiment was on a short furlough To his home in Ohio.</p>
+<p>We again reiterate that we earnestly recommend him to Executive Clemency. He is now only <hi rend="str">near</hi> 19 years of age</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>W. W. Powers.
+<lb/>J J hart
+<lb/>John. T. Wood
+<lb/>A Gunter
+<lb/>H W Wilkes
+<lb/>Wm Tait
+<lb/><cb n="2"/>A B Semple foreman
+<lb/>W<hi rend="sup">m</hi> G Cornell
+<lb/>J. D. Seaton
+<lb/>Jas Stephens
+<lb/>A. H. Patch
+<lb/>Tho<hi rend="sup">s</hi>. P. Hughes<milestone unit="column" n="1"/><pb/></p>
+<p>State of Kentucky 
+<lb/><date when="1864-01-14">January 14 1864</date></p>
+<p>I James P Chambers Clerk of the Jefferson Circuit Court in the State aforesaid that the foregoing are the names of the twelve jurors in the case of Commonwealth versus Conrad Wolfe alias Cooney this day convicted of felony</p>
+<p>Given under my hand this <date when="1864-01-14">14 January 1864</date>
+<lb/>James P Chambers C</p>
+<p>I unite in the foregoing petition
+<lb/>Bland Bollard</p>
+<p>So do I
+<lb/>P. B. Muir</p>
+<p>Ja<hi rend="sup">s</hi>. P. Chambers
+<lb/>W. G. Reasor City Atty</p>
+<p>I trust the soldier may do his county some service in the army</p>
+<p>J R Dupuy
+<lb/>Com' atty<figure type="hr"/></p>
+<p>Charity extends behond the Grave &amp;c</p>
+<p>Phil Tomppert Jr C. C. C. L.</p>
+<p>Governor Bramlet
+<lb/>Dear Sir</p>
+<p>We introduce To you Jas. C. Gill Esqr formerly a member of the Louisville Legion, wounded at the battle of Shiloh now coroner of this county.</p>
+<p>He will explain to your Excellency the object of this petition</p>
+<p>Respectfully
+<lb/>Baird &amp; Price
+<lb/>Attorneys for Wolfe<pb/></p>
+<p>Jefferson Cir Ct
+<lb/>vs
+<lb/>Conrad Wolfe</p>
+<p>Pardon &amp; send by mail care of Jas C Gill <hi rend="str">or</hi> Baird &amp; Price
+<lb/>Tho E Bramlette</p>
+<p><date when="1864-01-15">15<hi rend="sup">th</hi> Jany/<hi rend="underline">64</hi></date></p>
+  </body>
+ </text>
+</TEI>

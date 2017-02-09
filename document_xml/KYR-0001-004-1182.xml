@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1182"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">William McQuarry et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG5819</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR11-317</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Pulaski County, Kentucky</placeName>
+    <date when="1864-09-29">29 September 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency. Thos. E. Bramlette.
+<lb/>Govenor of Kentucky.</p>
+<p>Your Petitioner W<hi rend="underline"><hi rend="sup">m</hi></hi> M<hi rend="underline"><hi rend="sup">c</hi></hi>Quarry a citizen of Pulaski County, had a judgment rendered against him at <date when="1864-09">Sept Term 1864</date> of the Pulaski Circuit Court for $250. for <hi rend="str">keeping a Ga</hi> permitting gaming in his house -- He states that there were cards played in his house, not for money; but for some liquor to drink -- He states that only at one time was any card playing done in his house, and he was ignorant of the law, thinking that money had to be bet before he was liable under the Law to a fine -- He states that he is a poor man and not able to pay the fine, and ask the interposition of your Excellency to remit the same -- <date when="1864-09-29">Sept 29. /64</date> -- </p>
+<p>William M<hi rend="sup">c</hi>Quarry</p>
+<p>Sworn to by W M<hi rend="sup">c</hi>Quarry before me this <date when="1864-09-29">29 Sept 1864</date> -- 
+<lb/>J E Cosson clk
+<lb/>By W<hi rend="sup">m</hi>, F, Goggins DC</p>
+<p>We agree to the statements of the petition, and ask the Govenor to remit M<hi rend="sup">r</hi>. M<hi rend="sup">c</hi>Quarry fine -- </p>
+<p><milestone unit="column" n="3"/><cb n="1"/>I concur
+<lb/>B Bell
+<lb/><cb n="2"/>Cyrus Clark
+<lb/>Josiah Claunoh
+<lb/><cb n="3"/><hi rend="underline">Wm M</hi><hi rend="underline"><hi rend="sup">C</hi></hi><hi rend="underline">Kee Fox
+<lb/>W</hi><hi rend="underline"><hi rend="sup">m</hi></hi><hi rend="underline">, F, Goggin</hi><milestone unit="column" n="1"/><pb/></p>
+<p>I think it would be right to grant the prayer of the within Petition and repsectfully ask his Excy Govenor of Ky to do so.</p>
+<p>Fon T Fox
+<lb/>E L VanWinkle
+<lb/>C B Bacheller</p>
+  </body>
+ </text>
+</TEI>

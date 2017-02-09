@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2635"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">C. D. Gooch et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7272</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR16-210 to BR16-211</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Richmond, Madison County, Kentucky</placeName>
+    <date when="1865-11-01">1 November 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency the Govenor of Kentucky</p>
+<p>The undersigned citizens of Madison county Ky represent unto your excellency that William Logston &amp; James F M Coyle were this day fined twenty dollars each by John W. Harcourt a justice of the peace in and for Madison county for a breech of the peace in the town of Richmond</p>
+<p>The evidence did not show that any injury had been done to any person The parties have the character of peaceable<hi rend="str">y</hi> orderly men and good citizens and accidentally became intoxicated</p>
+<p>Logston has very lately returned from several years service in the federal army ^(4<hi rend="underline"><hi rend="sup">th</hi></hi> Ky I V)^ The parties are poor and we believe will not transgress in a similar manner any more</p>
+<p>We therefore earnestly petition your excellency to remit the whole of the fine against each of the parties. <date when="1865-11-01">November 1<hi rend="underline"><hi rend="sup">st</hi></hi> 1865</date></p>
+<p><milestone unit="column" n="2"/><cb n="1"/>C D Gooch
+<lb/>John J. Cornelison
+<lb/>S <unclear><hi rend="underline">Tourner</hi></unclear>
+<lb/><unclear/> &amp; Krell
+<lb/><unclear/> Cuzich
+<lb/>T. J. Scott Atty at Law
+<lb/><cb n="2"/>Jas M Kindred S. M. C
+<lb/>David Russell formerly capt 21<hi rend="underline"><hi rend="sup">st</hi></hi> Ky
+<lb/>Charlie C. Taylor
+<lb/><hi rend="underline">John, G, Taylor</hi>
+<lb/>John Farley
+<lb/>G W Lewis D S M C
+<lb/>J. E Kindred
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> C Wilson D S M C
+<lb/>Jno P <unclear>Guinn</unclear> formerly capt 8<hi rend="underline"><hi rend="sup">th</hi></hi> Ky I. V.
+<lb/>G B Broaddess ^formerly^ Major 8<hi rend="underline"><hi rend="sup">th</hi></hi> Ky I. V.
+<lb/>B H Sale formelry Lieut 8<hi rend="underline"><hi rend="sup">th</hi></hi> Ky I. V.
+<lb/>J H Berry<pb/></p>
+<p><milestone unit="column" n="1"/>Richmond City Ct
+<lb/>vs
+<lb/>W. Logston, J. Francis and M Coyle
+<lb/>Madison</p>
+<p>W<hi rend="underline"><hi rend="sup">m</hi></hi> Logston &amp;c
+<lb/>Petition</p>
+  </body>
+ </text>
+</TEI>

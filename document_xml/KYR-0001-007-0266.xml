@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0266"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Alexander Ostrander to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG1931</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Appointments by the Governor, Civil Appointments, 1863-1867</collection>
+      <idno>BR2-144</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>New York, New York County, New York</placeName>
+    <date when="1864-08-02">2 August 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>ALEX. OSTRANDER,
+<lb/>Attorney &amp; Counsellor at Law,
+<lb/>NOTARY PUBLIC,
+<lb/>AND COMMISSIONER OF DEEDS FOR NEW-YORK CITY,
+<lb/>And duly authorised to take Depositions, Acknowledgments of Deeds, Powers of Attorney, &amp;c. for
+<lb/><milestone unit="column" n="5"/><cb n="1"/>New-York,
+<lb/>New-Jersey,
+<lb/>Pennsylvania,
+<lb/>Virginia,
+<lb/>Massachusetts,
+<lb/><cb n="2"/>Connecticut,
+<lb/>Rhode Island,
+<lb/>New-Hampshire,
+<lb/>Vermont,
+<lb/>Maine,
+<lb/><cb n="3"/>Tennessee,
+<lb/><hi rend="str">Kentucky</hi>,
+<lb/>North Carolina,
+<lb/>Oregon,
+<lb/>Ohio
+<lb/><cb n="4"/>Illinois,
+<lb/>Iowa,
+<lb/>Indiana,
+<lb/>Michigan,
+<lb/>Wisconsin,
+<lb/><cb n="5"/>Minnesota,
+<lb/>Missouri,
+<lb/>Texas,
+<lb/>District Columbia,
+<lb/>Kansas,<milestone unit="column" n="1"/>
+<lb/>California, and the other States and Territories.
+<lb/>OFFICE, No. 239 BROADWAY,
+<lb/>Rooms 12 &amp;13, (Entrance No. 1 Park Place.)
+<lb/>Residence, No.<gap/>
+<lb/>FEES.
+<lb/><table rend="rules">
+<row>
+	<cell>Acknowledgments of not more than two persons, </cell>
+	<cell>for other States, at the Office</cell>
+	<cell>$1 00</cell>
+</row>
+<row>
+	<cell>do do do </cell>
+	<cell>for use on record in this State,</cell>
+	<cell>38</cell>
+</row>
+<row>
+	<cell>do do do</cell>
+	<cell>at the City Residence of party, an additional charge is made, usually</cell>
+	<cell>1 00</cell>
+</row>
+<row>
+	<cell>PASSPORTS obtained for</cell>
+	<cell> </cell>
+	<cell>2 00</cell>
+</row>
+</table>
+<lb/>Acknowledgments taken at private Residences in any part of the City.</p>
+<p>New York, <date when="1864-08-02">Aug. 2<hi rend="sup">d</hi> 1864</date>
+<lb/>Hon. Thos. E. Bramlette
+<lb/>Gov. of Kentucky.
+<lb/>Dear Sir,</p>
+<p>I respectfully ask at your hands an appointment as Commissioner of Deeds for your State, to reside in this City.</p>
+<p>The necessary fees will be forwarded when known, also such references given as may be required.</p>
+<p>Yours Very Truly
+<lb/>Alex. Ostrander</p>
+<p>"The Union forever"<pb/></p>
+<p>New York
+<lb/>Comr Deeds
+<lb/>Alex Ostrander
+<lb/>Appt
+<lb/><date when="1864-08-18">18<hi rend="sup">th</hi> Aug/64</date></p>
+  </body>
+ </text>
+</TEI>

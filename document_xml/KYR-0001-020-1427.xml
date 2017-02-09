@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1427"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">A. B. Patrick to John M. Elliott and Joseph Gardner</title>
+    <title level="a" type="parallel">CWG10895</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Amanda Boczar</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG21-392</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Jackson, Breathitt County, Kentucky</placeName>
+    <date when="1861-09-03">3 September 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Jackson Breathitt County Ky
+<lb/><date when="1861-09-03">Sept 3<hi rend="sup">rd</hi> 1861</date>
+<lb/>John M Elliott &amp; Joseph Gardner
+<lb/>Dear Sirs</p>
+<p>Enclosed I send you a petition to the Governor to get Daniel Akerman pardoned for stealing money from one John Gambill who has become satisfied that Akerman is clear of the charge and so far as I am concerned I am satisfied that Gambill never had the money for Akerman to steal -- I also send my affidavit as to what Gambill stated about the matter to me -- I hope you will present the petition to his Excellency &amp; say whatever you may choose to say to him about the matter -- </p>
+<p>I also want you to have an act passed giving me the further time of two years to collect my fee bills as cl<hi rend="str"><unclear/></hi>erk of the cir &amp; co ct let me hear from you soon the people are generally well Tell Jenny South that Thomas P Cardwell has had the fever badly though is on the mend</p>
+<p>Yours 
+<lb/>A. B. Patrick</p>
+  </body>
+ </text>
+</TEI>

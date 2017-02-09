@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-031-0310"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">W. D. Robertson, Affidavit</title>
+    <title level="a" type="parallel">CWG8050</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Appointments by the Governor, Civil Appointments, 1862-1863</collection>
+      <idno>R1-419</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Nashville, Davidson County, Tennessee</placeName>
+    <date when="1863-08-10">10 August 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>State of Tennessee
+<lb/>Davidson County</p>
+<p>Be it Remembered that of this the <date when="1863-08-10">10th day of August one thousand Eight hundred and Sixty three</date> personally appeared before the Subscriber a Notary Public in and for the County and State aforesaid Walter Scott and made oath in due form of Law that he would Support the Constitution of the United States and the Sonstitution of the State of Tennessee and that he will without favour or partiallity honestly faithfuly and diligently discharge the duties of Commisioner of Deeds for the State of Kentucky Sworn to and Subscribed before me day and date above written in testimony whereof I have hereunto Subscribed My name and affixed My notaryal Seal</p>
+<p><figure type="seal"><ab>W. D. ROBERTSON
+<lb/>NOTARY
+<lb/>PUBLIC
+<lb/>NASHVILLE, TENN.</ab></figure></p>
+<p>W D Robertson
+<lb/>Notary public
+<lb/>Walter Scott</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0298"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">W. R. Weber et al. to James F. Robinson</title>
+    <title level="a" type="parallel">CWG8750</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Governor's Official Correspondence File, Petitions for Pardons, Remissions, and Respites, 1862-1863</collection>
+      <idno>R3-440</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Jessamine County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency James F Robinson Governor of Kentucky Your Petitioners would represent that Hugh T McCabe was in the Month of <date when="1862-07">July 1862</date> fined the sum of seven <hi rend="sup">20</hi>/<hi rend="sub">100</hi> Dollars for a Breach of the Peace before J. G. Burns a Justice of Peace for Jessamine County and your Petitioners would most respectfully Petition your Excellency to remit said fine -- believing that it is one of those cases wherein the exercise of the power vested in you by the constitution may be beneficially exercised -- We therefore pray you to remit said fine -- </p>
+<p><hi rend="underline">W. R Weber</hi>
+<lb/>G, S, Shanklin
+<lb/>T, Woodson
+<lb/>Jas H M<hi rend="sup">c</hi>Campbell
+<lb/>R T Ferguson
+<lb/><hi rend="underline">Mowan Brown</hi><pb/></p>
+<p>Jessamine J. P. Ct
+<lb/>Fine Remitted
+<lb/>J F Robinson
+<lb/>$2 <hi rend="sup">20</hi>/<hi rend="sub">100</hi> } Breach
+<lb/>H. T. M<hi rend="sup">c</hi>Cabe
+<lb/>Iss <date when="1863-03-27">Mar 27. 1863</date></p>
+  </body>
+ </text>
+</TEI>

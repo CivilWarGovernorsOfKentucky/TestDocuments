@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0206"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">A. A. Quarrier to James F. Robinson</title>
+    <title level="a" type="parallel">CWG8658</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Governor's Official Correspondence File, Petitions for Pardons, Remissions, and Respites, 1862-1863</collection>
+      <idno>R3-312 to R3-313</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date when="1863-02-16">16 February 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Louisville <date when="1863-02-16">Feby 16. 1863</date>
+<lb/>J. H. Harney Esqr.
+<lb/>Frankfort
+<lb/>Sir,</p>
+<p>I take the liberty of enclosing to you a petition to the Governor for the pardon of A. K. Johnston recently an officer in the Army Appointed by Gen<hi rend="underline"><hi rend="sup">l</hi></hi> Finnell. Hearing you had promises some of Johnston's friends, at the time you signed the petition to use your influence with the Gov<hi rend="underline"><hi rend="sup">r</hi></hi> and present the same.</p>
+<p>Mr. C. Duvall about three years ago brought this young man from Philad. whose family reside there and are most respectable people. He remained in C. Duvall &amp; Co. for two years and left the House without stain or blemish. May I call your attention to the fact that the prosecutor in the case J. H. Merwin has signed the petition and ten of the Jury -- one of the remaining two, I could not find -- I enclose a letter to Johnston which please read and act in the case.</p>
+<p>C. Duvall wrote to <hi rend="underline">Gen</hi><hi rend="underline"><hi rend="sup">l</hi></hi> Robinson asking him to use his influence with his Father, and expected to see you in person to day, but as you did not visit the City as was expected he was prevented the pleasure.</p>
+<p>Not having the honor of a personal acquaintance with you it is necessary for me to say I am acquainted with Gen<hi rend="underline"><hi rend="sup">l</hi></hi> Robinson and refer you to him for Character &amp;c. and also that I should add, I am in no way interested in this unfortunate man Johnston, Save in the cause<pb/>
+<lb/>of humanity, to save from further disgrace and sorrow his aged parents and sisters.</p>
+<p>I have the honor to be
+<lb/>Very Respectfully
+<lb/>Your Obt, Sevt,
+<lb/>A. A. Quarrier</p>
+  </body>
+ </text>
+</TEI>

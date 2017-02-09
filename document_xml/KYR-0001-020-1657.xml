@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1657"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">R. F. Baird to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG11125</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Andrew P Patrick</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG22-321 to MG22-322</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Jefferson County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency Beriah Magoffin
+<lb/>Governor of the Commonwealth of Ky.</p>
+<p>Your Petitioner R. F. Baird states most respectfully that a young man of the name of Abraham Robinson was charged with <hi rend="underline">horsestealing</hi>. He hired a horse of a Mr. Davis in Jeffersontown, Jeff. Co. Ky. and took said horse to Shepherdsville Bullitt Co. Ky. and offered him for sale. He was arrested on suspicion and brought to Louisville and held to Bail in the sum of $500. -- This individual was about 17 yrs. of age. An unsophisticated boy. His father was a resident of Knox County Ky. if your Petitioner was correctly informed. The old man made his appearance in Louisville a few weeks after Abraham was arrested and his deportment was so respectable that I offered him as Bail for his son. The Court agreed to take him if I would endorse him. The bond was given accordingly. The clerk took the Recognizance of William Robinson the father of the boy but afterwards united your Petitioner in the <hi rend="underline">Scrie facias</hi>, and a judgement has been rendered ^against^ Myself -- and old Mr. Robinson conjointly -- The Execution now about to be levied on the property of your Petitioner. I would respectfully ask that the forfeiture so far as your Petitioner is implicated be remitted. Mr. Robinson is, I have no doubt, good for the payment of the Bond if the execution be sent him -- I file herewith a step-chart of the proceedings -- </p>
+<p><hi rend="underline">R. F. Baird.</hi><pb/></p>
+<p>The undersigned Further states that neither Abraham Robinson nor William Robinson the father of Abraham left with him any indemnity either in money or property or any thing else to satisfy said Bond. When the same Day given ^or at time thereafter^ It was the intention or seemed to have been that the youth, should stand his trial -- </p>
+<p>The respectable apperance of the old man and the youthfulness of the prisoner induced your petitioner to vouch for the payment -- </p>
+<p><hi rend="underline">R. F. Baird</hi><pb/></p>
+<p>Remitted 
+<lb/>B. M.
+<lb/>Jefferson Cir. Ct
+<lb/>$500. } Recog.
+<lb/>R. F. Baird
+<lb/>Iss<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1862-02-26">Feby 26. 1862</date>.</p>
+  </body>
+ </text>
+</TEI>

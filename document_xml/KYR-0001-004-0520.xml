@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0520"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Green Forrest et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG4639</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR9-324</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency the Governor of Kentucky</p>
+<p>Your petitioners respectfully state that in an affray Voluntine Mudd Shot Charles Smith in Marion County Ky &amp; was convicted at the <date when="1862-05">May Term 1862</date> of the Marion Cit Ct of manslaughter &amp; sentenced to two years imprisonment in the Penetentiary. That they are familiar with the facts of the case and they concur in the opinion that he was improperly convicted &amp; that he has behaved well since his conviction. That he is young &amp; was always a good boy ^well behaved before the unfortunate <unclear/>^ The appeal for his pardon &amp;c &amp;c</p>
+<p>Green Forrest
+<lb/>J. R. Thomas
+<lb/>B. Spalding
+<lb/>J H Chandler
+<lb/>Jn. B. Carlile
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> W Warring<pb/></p>
+<p>Marion Cir Ct
+<lb/>vs
+<lb/>Volentine Mudd
+<lb/>Pardoned by order of the Governor <date when="1864-02-01">1<hi rend="sup">st</hi> Feby 186<hi rend="underline">4</hi></date>
+<lb/>J R Page
+<lb/>Asst Sec</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2402"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">James Y. Peyton et al. to Unknown</title>
+    <title level="a" type="parallel">CWG7039</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR15-333</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Madison County, Kentucky</placeName>
+    <date when="1865-09-12">12 September 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>The undersigned Jurors who tried Cornelius Gatliffe at the present term of the Madison Cirucit Court, charged with shooting S. M. Graves, with intent to Kill, unite in requesting the Governor of Kentucky to pardon the defendant Gatliffe -- He was proved before them to be a man of good character, and as a brave soldier of the 7<hi rend="sup">t</hi> Ky. Regiments who had served three years in the United States Army particularly in the Battles around Vixburgh under Grant -- <date when="1865-09-12">Sept 12. 1865</date></p>
+<p>Jas Y Peyton
+<lb/>G. B. Turley.
+<lb/>Jas. M. Hamilton
+<lb/>W<hi rend="underline">m</hi> Parke
+<lb/>Rayden Turpen
+<lb/>James P<unclear/>
+<lb/>Josiah Gentry
+<lb/>W. J. Rayburn
+<lb/>John B. Owen
+<lb/>Frank Keen
+<lb/>D. F. Willis</p>
+<p>I was a Juror who tried Gatliffe and did not think he aght to have been convicted from the facts but through the instructions of the Judge made it my duty to sign the verdict &amp; I reluctantly yielded to it</p>
+<p>Joseff Skaggs</p>
+<p>I, James. M. Shackelford Clerk of the Madison Circuit Court Certify that James Y. Peyton, G. B<pb/>
+<lb/>Turley James M. Hamilton W<hi rend="sup">m</hi> Parke, Haydon Turpin, James <unclear>Pagden</unclear> Josiah Starling W J Raybourn John. B. Owen Frank Kean, D. B. Willis, Joseph S. Boggs were the <unclear/> who rendered the verdict of Guilty &amp; Judgment of Confinement in the prossecution vs C. Gatliff
+<lb/><date when="1865-09-13">Sept 13. 1865</date></p>
+<p>att Jno Shackalford clk
+<lb/>By R D Davis D C</p>
+<p>Petition of the Jury -- </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-009-0021"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John L. Dorsey to James F. Robinson</title>
+    <title level="a" type="parallel">CWG11488</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Amanda Boczar</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>45th, 47th, 48th, and 49th Regiments Kentucky Infantry Muster Rolls</collection>
+      <idno>Box 41, Bundle 2</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Glasgow, Barren County, Kentucky</placeName>
+    <date when="1863-06-01">1 June 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><date when="1863-06-01">June 1<hi rend="underline"><hi rend="sup">st</hi></hi> 1863</date>
+<lb/>Glasgow Barren County Ky
+<lb/>To His Excellency Gov J, F, Robinson
+<lb/>Sir</p>
+<p>Allow me to submit to your consideration, that on the <date when="1861-10-12">12<hi rend="underline"><hi rend="sup">th</hi></hi> of Oct 1861</date>, I enlisted in Company, H, 16<hi rend="underline"><hi rend="sup">th</hi></hi> Ky Vol Infty, as private since which time I have made a faithful soldier and let my position be as it may, I expect to continue in the service until the close of the war.</p>
+<p>But feeling satisfied that I could do more good for the cause as a Recruiting Officer, I write you for information as to how I should proceed to get a commission under the late call upon Ky for 20,000 volunteers.</p>
+<p>At the time of my enlistment I was employed in the capacity of a Deputy Sheriff in Fleming County Ky, and had been for nearly 3 years, prior to which time was employed as Deputy Clerk in the county clerks office, in the same county, for three years, and had become well acquainted all over the county, and know if a commission was given me I could do good my Brother-inlaw is the Sheriff of my County and has considerable acquaintance throughout the adjoining counties, having been acting in this capacity for a number of years, and he would do all he could<pb/>
+<lb/>for me. I am twenty-five years of age. My Parents are dead, and I have two Brothers in the same company to which I belong. </p>
+<p>If recommendation is required I refer you to Judge S W Andrews, and Hon W<hi rend="underline"><hi rend="sup">m</hi></hi> S Botts, Legislator from Fleming County.</p>
+<p>Your Truly
+<lb/>John L. Dorsey<pb/></p>
+<p><figure type="hr"/>John L. Dorsey com. 2 Lieut 45 ^mntd Rifle^<hi rend="str">Infy</hi> <date when="1863-06-05">June 5. 1863</date><note place="left margin">1. 2. 3. 4. 5. 6.</note><figure type="hr"/></p>
+<p>45 Mted Rifles<figure type="hr"/>
+<lb/>L<hi rend="underline"><hi rend="sup">t</hi></hi> Dorsey<figure type="hr"/>
+<lb/>com issd &amp; forw<hi rend="sup">d</hi>
+<lb/>Genl B. <date when="1863-06-05">June 5. 1863</date><figure type="hr"/></p>
+<p>Military
+<lb/>Jno. Dorsey <unclear/> to recruit</p>
+<p>Send a commission to him
+<lb/>45 Infy
+<lb/>J. W. F.</p>
+  </body>
+ </text>
+</TEI>

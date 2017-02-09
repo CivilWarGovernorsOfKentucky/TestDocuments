@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1951"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Henry C. Gillespie to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG11419</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Bradley Strait</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG23-398 to MG23-399</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1862-06-11">11 June 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency
+<lb/>The Governor of Kentucky -- </p>
+<p>Your petitioner Henry C. Galespie states that he was arrested and tried in <date when="1862-02">Febry 1862</date> on a charge of assaulting Milton <unclear>Sterling</unclear> in his house and without any positive evidence was convicted before John Bosley Esq a justice of the peace of Washington County, of a breach of the peace and adjudged to pay a fine of $30 and costs and undergo a term of confinement in Jail of 15 days He was not guilty of the charge -- Not <unclear/> committed at the time, he did not appeal from the finding and shortly afterwards enlisted in the U S volunteer Services which caused his absence until recently when he returned on account of sickness and was arrested and confined in Jail about the <date when="1862-06-04">4<hi rend="underline"><hi rend="sup">th</hi></hi> of this month's</date> under said judgement and <unclear/> <unclear/> in jail -- He is a very poor young man and has a family and being wrongfully imprisoned and now without the means of appeal as he is advised he prays Your Excellency to remit said judgment and release him from Jail -- </p>
+<p>Henry C Gillespie</p>
+<p>Sworn to before me by H C Gillespie <date when="1862-06-11">June 11 1862</date></p>
+<p>Jas. P. Barbour clk<pb/></p>
+<p>We concur in the prayer of the foregoing petition <date when="1862-06-11">June 11 1862</date></p>
+<p>M R Hardin
+<lb/>C W Gentry
+<lb/>Henry C Allin
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> M<hi rend="sup">c</hi>Fatridge<pb/></p>
+<p>Near Mackville <date when="1862-06-12">Jan 12th 1862</date>
+<lb/>To Governor Maggoffin
+<lb/>Dear Sir</p>
+<p>Owing to my not having sufficient time before the mail closes I have but few signitures to this petition. but what they lack in number. I think they make up in quality; Doctor Allen and Mr. M<hi rend="sup">c</hi>fatridge were both raised near your old residence, the other two I presume you know by character which is of the most respectable class in the hope that it may suit your Excellencys <unclear/> of justice, to grant the annexed petition of my unfortunate son</p>
+<p>I subscribe myself your old Friend
+<lb/>Jas. E Gillespie<pb/></p>
+<p>Washington J. P.
+<lb/>$30 15 day imprisonmet
+<lb/>H. C Gillespie
+<lb/>Iss<hi rend="sup">d</hi> <date when="1862-07-22">July 22. 1862</date></p>
+<p>Remitted
+<lb/>B. M.</p>
+  </body>
+ </text>
+</TEI>

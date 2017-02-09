@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1291"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">R. Simmons to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10759</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG21-178 to MG21-179</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Covington, Kenton County, Kentucky</placeName>
+    <date when="1861-07-03">3 July 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Covington <date when="1861-07-03">July 3 1861</date>
+<lb/>Gov Magoffin
+<lb/>Dear Sir</p>
+<p>A petition from Martin Hoover will be presented to you <hi rend="str">the</hi> asking you to release him from Jail &amp; the remission of his fine -- He was under a charge of assaulting <unclear>Mrs Sees</unclear> with intent to commit a rape fined fifty dollars <hi rend="str">&amp; on</hi> fined in the county Jail thirty days. He is I am informed a hard working man without any property &amp; entirely dependent on his labor for a support for himself &amp; family. He has a wife &amp; three children. He has tried to get <hi rend="str">the</hi> money<pb/>
+<lb/>to pay his fine -- but failed to do so. It would seem that a man who was honest &amp; industrious could at all times be able to raise in some way the sum of fifty dollars. but the present conditin of affairs have put it out of his power as well as many other poore men to raise even that <hi rend="str">amnt</hi> amount. There is but little employment for men &amp; that little must be applied to the support of their families.</p>
+<p>Every man who knows Hoover &amp; has spoken of him in my presence (&amp; they <hi rend="str">are</hi> are many)<pb/>
+<lb/>has spoken well of him. -- &amp; have also expressed a firm belief of his entire innocense On the other hand all who seem to know Sees &amp; wife say they have no character &amp; are unworthy of beleif I hope you will find it consistent with your duty as the executive of the State to release this man entirely &amp; restore him to his family so that he may do what little he can for them</p>
+<p>Yours &amp;c
+<lb/>R Simmons
+<lb/>Gov Magoffin<pb/></p>
+<p>Since writing the above Mr Arthur attorney for the Commonwealth has made statement on the margin of the petition -- He recommends th remission of the imprisonment &amp; that the fine if not remited be respited -- I hope it will be remitted -- but if not respite it for 12 months so he will have an opportunity to make the money Pleas attend to this at your earliest opportunity &amp; oblige yours &amp;c</p>
+<p>R Simmons
+<lb/>Gov Magoffin</p>
+  </body>
+ </text>
+</TEI>

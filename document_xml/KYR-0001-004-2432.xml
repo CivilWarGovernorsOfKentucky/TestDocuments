@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2432"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Samuel Luckee et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7069</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR15-378 to BR15-379</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Hon Thos E Bramblette
+<lb/>Governor of Ky
+<lb/>Frankfort</p>
+<p>We the undersigned would most Respectfully Represent that at the <date when="--08">August</date> Term Montgomery Circuit Court Samuel Grimes &amp; Earnest Houseman doing business as Confectioners Grocers &amp;c in the name of Grimes &amp; Co were each fined $50 for selling Liquor to a minor and that the said Grimes &amp; Houseman as good and Law abiding men &amp; citzens &amp; <unclear>intended</unclear> no violation of the Laws of the Commonwealth The said minor being a young man whom these parties had had, &amp; perhaps had at the time, in their employ thy paying him <unclear/> for his services &amp; he acting and doing business for himself Moreover if the Liquor was sold to him at all it was done by some one in the house -- Contrary to the directions of either mssrs Grimes or Houseman and without their knowlede or consent by the clerk in the house -- who was not aware said minor was not of age We would most respectfully <unclear/> this case to Your Excellency and<pb/>
+<lb/>ask a remittance of the Penalty against them and they are both honest and respected men making a living by the labor chiefly of their own hands, &amp; such penalty falls hard upon them</p>
+<p>Respectfully
+<lb/>Samuel Luckee
+<lb/>J. E, Clarke atty at Law
+<lb/>A. T. Wood
+<lb/>J Howard Police Judge.
+<lb/>J. W. Rose Marshal, T. M<pb/></p>
+<p>Montgomery Cir Ct
+<lb/>vs.
+<lb/>S. Grimes &amp; E. Houseman
+<lb/>$50,
+<lb/>Selling liquor to Minors
+<lb/><date when="1865-09-06">6<hi rend="sup">th</hi> Sept /65</date></p>
+  </body>
+ </text>
+</TEI>

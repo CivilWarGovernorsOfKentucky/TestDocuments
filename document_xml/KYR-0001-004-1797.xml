@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1797"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">W. G. Barnett et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6434</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR13-331</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Todd County, Kentucky</placeName>
+    <date when="1865-05-27">27 May 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Todd County Kentucky
+<lb/><date when="1865-05-27">May 27<hi rend="sup">th</hi> 1865</date>
+<lb/>To His Excellency
+<lb/>The Govenor of Kentucky
+<lb/>Dr Sir</p>
+<p>We the undersigned Citizens of Todd county would respectfully petition your Honor to remit a fine rendered at the <date when="1865-04">April Term of the Todd Circuit court (1865)</date> in favor of the Commonwealth of Kentucky against W. W. Grady for the sum of Seventy five Dollars for shooting with intent to kill a Horse the property of J. W. Mobley The Horse shot by Grady as we are informed and believe was a roguish Horse. and the gun used was a shot gun with small <hi rend="underline">bird</hi> <hi rend="underline">shot</hi> clearly not intended by Grady to kill the Horse</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>W. G. Barnett
+<lb/>James M Williams
+<lb/><hi rend="underline">J. R. Finch</hi>
+<lb/>L R Irvine
+<lb/>J. W. Ballard
+<lb/>S E G Cole
+<lb/>S. G. Perkins
+<lb/>W<hi rend="sup">m</hi> H Edwards
+<lb/>J D Christian
+<lb/>B T Perkins
+<lb/>John Lindsey
+<lb/>Peyton Simpson
+<lb/>W<hi rend="sup">m</hi> S F Slaughter
+<lb/><cb n="2"/>G Wallace Garth
+<lb/>G. Terry
+<lb/>S H Grooms
+<lb/>R F Christian<milestone unit="column" n="1"/><pb/></p>
+<p>Todd Cir Ct
+<lb/>vs
+<lb/>W. W. Grady
+<lb/>$75</p>
+<p><hi rend="underline">Remit</hi></p>
+<p><date when="1865-06-02">2<hi rend="sup">d</hi> June/65</date></p>
+<p>(Lowry)</p>
+  </body>
+ </text>
+</TEI>

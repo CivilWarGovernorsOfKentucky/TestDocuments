@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0118"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Beriah Magoffin to James Guthrie</title>
+    <title level="a" type="parallel">CWG1424</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Military Correspondence, 1859-1862</collection>
+      <idno>MG5-201 to MG5-202</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1861-08-20">20 August 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Executive Department
+<lb/>Frankfort Ky
+<lb/><date when="1861-08-20">Aug 20<hi rend="underline"><hi rend="sup">th</hi></hi> 1861</date>
+<lb/>Hon Ja<hi rend="underline"><hi rend="sup">s</hi></hi> Guthrie
+<lb/>Dear Sir</p>
+<p>In consequence of my absence from home your communication in regard to the arms at "Camp Boone" was not attended to until this moment after consultation with Gen<hi rend="underline"><hi rend="sup">l</hi></hi> Dudley we of the Military Board, we think M<hi rend="underline"><hi rend="sup">r</hi></hi> J. D. White the Armorer at the Arsenal here would be a suitable person to identify, demand &amp; receive the arms from Gen<hi rend="sup">l.</hi> W. T. Withers &amp; I offer his services to you. He is now at Louisville, probably stopping at the U. S. Hotel we are informed and I enclose you the authority under which he will act, if you think proper after conference with him to send him in to the camp. Gen<hi rend="underline"><hi rend="sup">l</hi></hi> Dudley &amp; myself agree that unless the arms are recovered &amp; returned to the Rail Road Company ought to be held responsible for their value. I will most cheerfully act with you in any proper effort to recover them</p>
+<p>Most Resptly Your friend &amp; Servt
+<lb/>B. Magoffin
+<lb/><note place="footer">(over)</note><pb/></p>
+<p>P. S. M<hi rend="underline"><hi rend="sup">r</hi></hi> White's son has just informed me M<hi rend="underline"><hi rend="sup">r</hi></hi> White would probably not be in Louisville before tomorrow. M<hi rend="underline"><hi rend="sup">r</hi></hi> Samuel Gill knows him &amp; doubtless take pleasure in ascertaining where he is stopping in the City</p>
+<p><hi rend="underline">B. M.</hi><pb/></p>
+<p>Ja<hi rend="underline"><hi rend="sup">s</hi></hi> Guthrie
+<lb/>Letter to
+<lb/>copy
+<lb/><date when="1861-08-20">Aug 20 1861</date></p>
+  </body>
+ </text>
+</TEI>

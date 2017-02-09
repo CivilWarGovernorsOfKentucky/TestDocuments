@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0700"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Aaron A. Dills to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG4819</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR10-72</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Harrison County, Kentucky</placeName>
+    <date when="1864-04-02">2 April 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency Thomas E Bramlette Gov of Ky</p>
+<p>Aaron A Dills states that Jno Doyle was tried before the County Judge of Harrison Co on a charge of felony and was held to bail in the sum <hi rend="str">one hundred</hi> ^fifty^ Dollars with James Carrell as surety A Copy of the bail bond &amp; warrant are herewith filed. Before the next Term of the Harrison Circuit Court succeeding the date of the bail bond said Doyle departed this life and for his non appearance the bond was forfeited the fact of Doyls death not being known to the Com<hi rend="sup">th</hi> Judgement has been rendered against Carrell the surety &amp; the Execution is in the hands of the Sheriff of Harrison Co to Collect the said bail from Carrell, which will be done unless remitted by your Excellency. That at the time of Doyles death his Entire estate consisted of a promistory note of $100 on Jno Nevil; that he was indebted to affiant and in order to save his debt he administered on said Doyles Estate, that after paying Costs of administration, costs of collection &amp; affiants demand against Doyle, there will be but little if anything left of the assestts which have come to affiants hands with which to indemnify Carrell if he shall have to pay said bail. Under the Circumstances of the Case affiant asks that the judgement against Carrell be remitted<pb/></p>
+<p>State of Kentucky
+<lb/>Harrison County</p>
+<p>Aaron A Dills states that he believes the facts set forth in the foregoing Petition are true.</p>
+<p>Aaron A Dills</p>
+<p>Sworn to before me by Aaron A Dills this <date when="1864-04-02">2<hi rend="sup">nd</hi> day of April 1864</date> and I further certify that said Dillas is personally known to me and that his statements are Entitled to full credit</p>
+<p>Jno R Smith Examiner</p>
+<p>Harrison Cr Ct
+<lb/>vs
+<lb/>Jas Carrell
+<lb/>Forfeiture
+<lb/>$50
+<lb/><date when="1864-04-06">6<hi rend="sup">th</hi> Apl/64</date></p>
+  </body>
+ </text>
+</TEI>

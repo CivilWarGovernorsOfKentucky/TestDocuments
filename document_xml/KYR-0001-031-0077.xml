@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-031-0077"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">James Van Hook to James F. Robinson</title>
+    <title level="a" type="parallel">CWG7817</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Appointments by the Governor, Civil Appointments, 1862-1863</collection>
+      <idno>R1-120</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Grundy, Pulaski County, Kentucky</placeName>
+    <date when="1862-11-27">27 November 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Grundy } <date when="1862-11-27">Nov 27<hi rend="underline"><hi rend="sup">th</hi></hi> 1862.</date>
+<lb/>to the Governor of the State Ky</p>
+<p>I here by resine my office as Jestice of the peace of District no 12 Pulaski county &amp; desire you to appoint E. S. Salyer as H. Simpson to fill my place I think the said Salyer is the best qualified as he has filled this same office heretofore when he was in office before he was Said to be the best in the county</p>
+<p>Jas vanhook J P<pb/></p>
+<p>Pulaski Co
+<lb/>J. P.
+<lb/>Dist N<hi rend="sup">o</hi> 12
+<lb/>To the Governor of Kentucky
+<lb/>Frankford
+<lb/>Ky
+<lb/>Iss <date when="1862-12-03">Decr 3<hi rend="underline"><hi rend="sup">rd</hi></hi> 1862</date></p>
+  </body>
+ </text>
+</TEI>

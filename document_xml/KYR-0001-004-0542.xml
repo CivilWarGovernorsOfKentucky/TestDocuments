@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0542"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">James P. Chambers, Affidavit</title>
+    <title level="a" type="parallel">CWG4661</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR9-356</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><table rend="rules">
+<row>
+	<cell>X</cell>
+	<cell>John Price</cell>
+	<cell>at Croghan House Jeff Centre</cell>
+</row>
+<row>
+	<cell/>
+	<cell>J W Mitchell</cell>
+	<cell>at Armstrong &amp; Co</cell>
+</row>
+<row>
+	<cell/>
+	<cell>G F Downs</cell>
+	<cell>Corner of 4<hi rend="underline"><hi rend="sup">th</hi></hi> &amp; Jefferson</cell>
+</row>
+<row>
+	<cell>X</cell>
+	<cell>Saml Ingraham</cell>
+	<cell>8<hi rend="underline"><hi rend="sup">th</hi></hi> &amp; Magazine</cell>
+</row>
+<row>
+	<cell>X</cell>
+	<cell>Frank Green</cell>
+	<cell>Market 1<hi rend="sup">st</hi> &amp; 2<hi rend="sup">nd</hi></cell>
+</row>
+<row>
+	<cell>X</cell>
+	<cell>Henry Wihmhoff</cell>
+	<cell>Main between 2<hi rend="sup">d</hi> &amp; 3<hi rend="sup">d</hi></cell>
+</row>
+<row>
+	<cell>X</cell>
+	<cell>John Downing</cell>
+	<cell>On 5<hi rend="underline"><hi rend="sup">th</hi></hi> beyond Broadway</cell>
+</row>
+<row>
+	<cell/>
+	<cell>Lewis Smyser</cell>
+	<cell>Market between 2<hi rend="underline"><hi rend="sup">d</hi></hi> &amp; 3 1<hi rend="sup">st</hi> &amp; 2<hi rend="sup">d</hi></cell>
+</row>
+<row>
+	<cell>X</cell>
+	<cell>Joseph Werne</cell>
+	<cell>Main bet 4<hi rend="underline"><hi rend="sup">th</hi></hi> &amp; 5<hi rend="underline"><hi rend="sup">th</hi></hi></cell>
+</row>
+<row>
+	<cell>X</cell>
+	<cell>R A Vacars</cell>
+	<cell>at Gaetanoes Confectionary Main below 7<hi rend="underline"><hi rend="sup">th</hi></hi></cell>
+</row>
+<row>
+	<cell>X</cell>
+	<cell>J T Wood</cell>
+	<cell/>
+</row>
+<row>
+	<cell/>
+	<cell>S H Edmonson</cell>
+	<cell>No 513 Hancock Street</cell>
+</row>
+</table></p>
+<p>State of Kentucky</p>
+<p>I, James P Chambers clerk of the Jefferson Circuit Court do hereby certify that the above warned persons are composed the Jury who tried and convicted (at the last <date when="--01">January term</date> of said Court) W<hi rend="underline"><hi rend="sup">m</hi></hi> Banks &amp; John M<hi rend="sup">c</hi>Clure, for the term of three years each.</p>
+<p>Att J P Chambers C J C C</p>
+  </body>
+ </text>
+</TEI>

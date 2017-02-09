@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0115"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Robert B. McCrackin et al. to James F. Robinson</title>
+    <title level="a" type="parallel">CWG8567</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Governor's Official Correspondence File, Petitions for Pardons, Remissions, and Respites, 1862-1863</collection>
+      <idno>R3-177 to R3-178</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Newport, Campbell County, Kentucky</placeName>
+    <date when="1862-11-07">7 November 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Exellency Governor Robinson of the State of Kentucky.</p>
+<p>The ^undersigned^ citizens and Freeholders of the city of Newport Campbell County Ky. Respectfully represent that F. Brutsche was found guilty of the offense of selling liquor to Minors, at the last <date when="--08">August</date> term of the Campbell Circuit Court. That the said F. Brutsche is a respectable and law abiding Citizen of Newport, that the law under which he was fined is a hard one, and especialy so in this case where the young man, who was the prosecuting witness, was only a few months under the age of twenty one. Considering the foregoing facts the undersigned do therefor respectfully pray your Exellency to remit the commonwealths portion of his fine which we think would be only doing common justice</p>
+<p>Newport Ky. <date when="1862-11-07">Nov. 7<hi rend="sup">th</hi> 1862</date>
+<lb/>Robt B MCrackin Mayor
+<lb/>M Cook city Marshal Elect
+<lb/>H. Sine, City Clerk<figure type="hr"/></p>
+<p>I respectfully recommend that the fine in this case be remitted</p>
+<p>W L. Berry Judge C. C. C.
+<lb/>H, E, Spilsman Dept Sheriff, C, C<pb/></p>
+<p>Jno. C Mead
+<lb/>J. Hawthorn
+<lb/>J. D. Masset<pb/></p>
+<p>Pettn to remit fine of F. Brutsche for selling liquor to Minor from Newport</p>
+<p>I see no cause for my interposition refused</p>
+<p>J R F.</p>
+  </body>
+ </text>
+</TEI>

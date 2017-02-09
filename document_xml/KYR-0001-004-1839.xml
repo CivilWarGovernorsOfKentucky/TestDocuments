@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1839"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">S. H. Perkins et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG6476</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR13-400</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Elkton, Todd County, Kentucky</placeName>
+    <date when="1865-05-12">12 May 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Elkton <date when="1865-05-12">May, 12<hi rend="sup">th</hi> 1865</date>
+<lb/>To His Excellency
+<lb/>Govenor Bramlette
+<lb/>Dr Sir</p>
+<p>We the undersigned Citizen of Todd county would represent that Jesse Russell a citizen of this County was recognized to appear as a witness for the Commonwealth in the Christian Circuit Court on the 2<hi rend="sup">nd</hi> day of its <date when="1864-09">September term ^1864^</date> to testify in behalf of the Commonwealth against Jesse Gray upon a charge of Fellony. Mr Russell informed us that he was mistaken as to the day, that he was of the opinion he was recognized for the 3<hi rend="sup">rd</hi> day in the place of the second, at the <date when="1865-03">March term thereafter</date> Judgement was taken against him for One hundred Dollars on said forfeited recognizance and the execution is now in the hands of the Sheriff of this County for collection we would represent Mr Russell as an honest, industrious and good citizen and hard pressed for money in fact he is owing more than he can at present pay having been nearly if not entirely ruined by the rebellion</p>
+<p>Yours Respt
+<lb/><milestone unit="column" n="2"/><cb n="1"/>S. H. Perkins
+<lb/>J. H. Lowry
+<lb/>J. C. Miller
+<lb/>G. Terry
+<lb/>J M. Thompson
+<lb/>Warner Washington
+<lb/>V. W. Crabb
+<lb/>E. R. Price
+<lb/>J W Lewis
+<lb/><cb n="2"/>Ben T Perkins C T C C
+<lb/>L R Irvin Sheriff
+<lb/>J. B. Bass
+<lb/>E. P. Russell,
+<lb/>S H Grooms
+<lb/>J Crabb
+<lb/>Thos Jefferson
+<lb/>J A Goodman
+<lb/>J. B. Estes<milestone unit="column" n="1"/><pb/>
+<lb/>J. R. Roberts
+<lb/>J. D. Christian
+<lb/>J. A. McKinney
+<lb/>W A Glenn
+<lb/>C. M. Russell Jr
+<lb/>J B Coulter
+<lb/>C D Reeves
+<lb/>W. P. Prewitt
+<lb/>J. H. Prewitt
+<lb/>J J Hickman
+<lb/>W<hi rend="sup">m</hi> H. Hall
+<lb/>J D Russell
+<lb/>W B Hill
+<lb/>J. D. Unssell
+<lb/>B. G. Hatter</p>
+<p>Todd Cir Ct
+<lb/>vs
+<lb/>Jesse Russell
+<lb/>$100.
+<lb/>Remitted
+<lb/><date when="1865-05-22">22<hi rend="sup">d</hi> May 1865</date></p>
+  </body>
+ </text>
+</TEI>

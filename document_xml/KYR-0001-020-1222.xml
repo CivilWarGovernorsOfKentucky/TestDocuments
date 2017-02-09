@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1222"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">W. E. Mitchisson to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10690</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG21-71</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Princeton, Caldwell County, Kentucky</placeName>
+    <date when="1861-07-23">23 July 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Caldwell Co. Princeton Ky
+<lb/><date when="1861-07-23">July 23rd 1861.</date>
+<lb/>To his Excellency
+<lb/>Beriah Magoffin Esqr
+<lb/>Govenor of Kentucky
+<lb/>Dear Sir</p>
+<p>Whereas at the last term of our Caldwell Circuit Court, in <hi rend="str">November</hi> <date when="1861-06">June last</date> the grand Jury of my county, found an indictment against myself for a little breach of the peace, in the way of playing a game of cards for amusement and past time the object of which was not to loose or gain any thing except drink a little accasionally which we did you understand it. I know, there was others concerned of which no indictment was found against them," I acknowledge that I was in the game of which I neither won nor lost anything I went before the Court as soon as the indictment was brought before the court, and confessed judgment of a fine of $10. as per a late act, in relation to gaming in any way, I thought it useless to have the case on Docket hoping therefore you will release the fine of $10. except attys cost &amp; com<hi rend="sup">s.</hi> which I have already paid and in so doing you will much oblige these hard times, and I'll do so no more.</p>
+<p>Yours &amp;<hi rend="sup">c</hi>= W. E. Mitchisson
+<lb/>(a<hi rend="underline">ns</hi>w<hi rend="underline">er</hi> s<hi rend="underline">oo</hi>n)</p>
+<p>I, believe the statements above to be correct.</p>
+<p>J. Charles Barnes D. C.
+<lb/>For E. Pent Watkins clk
+<lb/>Caldwell Circuit Court<pb/></p>
+<p>Caldwell Cir Ct
+<lb/>$10. } Gaming
+<lb/>W E Mitcheson</p>
+<p>Remitted 
+<lb/>B. M</p>
+<p>Is<hi rend="sup">d</hi> <date when="1861-08-30">Aug 30 1861</date></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-153-0054"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Boyle, Special Orders</title>
+    <title level="a" type="parallel">CWG14176</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>Assistant Adjutant General Letter Book - No. 1 ; 5 Sept 1863 - 2 Feb 1864</collection>
+      <idno>228</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1863-11-05">5 November 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Order</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><note place="header">228</note>
+<lb/><date when="1863-11-05">Nov. 5<hi rend="underline"><hi rend="sup">th</hi></hi> <gap/>3</date>
+<lb/>Special Orders
+<lb/>N<hi rend="sup">o</hi></p>
+<p>To all whom it may concern: Capt. A. B. Culten -- Commid'g Co. (G.) 49<hi rend="underline"><hi rend="sup">th</hi></hi> Ky. Vols. Infantry is entitled to all men recruited by him, and those officers guilty of re-enlisting such recruits -- will be dealt with as prescribed in General Orders N<hi rend="underline"><hi rend="sup">o</hi></hi> 2 from this Department -- and if already mustered into U. S. Service, will be promptly reported for dismissal to the General commanding, and shall be excluded from promotion by this Department.</p>
+<p>Capt. Culten is hereby required to forward to these Head Quarters, the names of all such officers, who have thus acted, within his knowledge.</p>
+<p>By order of the Governor,
+<lb/><hi rend="underline">John Boyle</hi>
+<lb/>Adjt Gen of Ky.</p>
+  </body>
+ </text>
+</TEI>

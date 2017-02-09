@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0188"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">M. C. Johnson to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG1853</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Appointments by the Governor, Civil Appointments, 1863-1867</collection>
+      <idno>BR2-35</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Lexington, Fayette County, Kentucky</placeName>
+    <date when="1864-04-12">12 April 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Northern Bank of Kentucky,
+<lb/>Lexington, <date when="1864-04-12">April 12. 1864</date>
+<lb/>Gov. T E Brambett
+<lb/>Dear Sir</p>
+<p>You named to me to write you who would make good State Director of the Northern Bank</p>
+<p>I would in pursuance of that request name William Voorhies and Hiram Shaw. They are each Directors of the Bank and understand its business. I look on Mr. Voorhies, from his good judgement and attention to the business the best Director we have. Mr. Shaw is much more engaged in business, and cannot devote as much time to it as Mr. Voorhies, but from his large acquaintance with the people and their pecuniary circumstances is very valuable as a Director. He will have to go out, unless appointed a State Director under the provisions of our charter.</p>
+<p>In regard to their Politics, Mr. Voorhies is a conservative Union Man and has always been so. Mr. Shaw is a strong Union, but is rather ranked with the Extreme wing, though by means a bitter or extreme man himself except in unconditional Unionism. Should either of those gentleman not suit you then I would recommend Dr. J M Burk as a good Director. He is a Director now &amp; a good one. And a good Union man. I would prefer the Bank Directory not to belong exclusively to other of the wings into which the Union Party seem now divided.</p>
+<p>Very Respectfully
+<lb/>M C Johnson<pb/></p>
+<p>P. S.
+<lb/>You can commission the Director at once to hold office from and after the <date when="1864-05-01">1<hi rend="sup">st</hi> May 1864</date>. And I would like to know whom you appoint or intend to appoint before that Date, so as to arrange the ticket for the election of Stockholders.</p>
+  </body>
+ </text>
+</TEI>

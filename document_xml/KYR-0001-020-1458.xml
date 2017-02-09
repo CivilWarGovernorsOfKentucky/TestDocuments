@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1458"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">E. D. Kennedy to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10926</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Amanda Boczar</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG22-28 to MG22-29</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Paint Lick, Garrard County, Kentucky</placeName>
+    <date when="1861-10-01">1 October 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Paint Lick Garrard Co Ky
+<lb/><date when="1861-10-01">Oct 1st 1861.</date>
+<lb/>To his Excellency Beiah Magoffin
+<lb/>Dear Sir. </p>
+<p>In October last a petition was presented to you praying for the remission of a judgment of the Laurel Circuit Court against Stephen C Halcome for $500 which was rendered upon a forfeirted recognizance -- Your excellency respited the collection of said judgement ^for 12 mo^ except fees &amp; costs, which have been paid by said Halcome amounting to about $150. -- Halcome's son who failed to appear in court causing the forfeiture returned directly after court, is now in our neighborhood, and has been ever since but not steps have been taken against him, the man from whom the horse was taken is a near neighbor, he is acquainted with S. C. Halcome who is a clever man and was never charged with any crime or offence against the laws and his son who was only a boy and rather dull in intellect was no doubt decoyed and misled, and for these reasons, Col H. T. Terrell the man from whom the horse was taken has never taken any steps to have him arrested and said S. C Halcome being a poor man, &amp; having to pay the fees &amp; costs, and owing to the hardness of the times, if he has to pay the judgement it will break him up and ruin him -- I therefore have taken the liberty to address you though having no personal acquaintance -- not doubting in the least that if you were aquainted with the whole case that you would readily remit the judgement -- <pb/></p>
+<p>Geo Downy our senator Knows the facts which I write to be true, he is acquanited with me and can give you any information you many desire. Also Alex Lusk or C F Burnam -- and I doubt not that P Swigert can give you some satisfaction as to any character for veracity, -- </p>
+<p>Although the practical sentiments of our representatives are different from mine, and notwithstanding the great excitement, I have referred you to them believing that they would still do me justice as to my character for veracity in order that you might know what confidence to place in my statements -- </p>
+<p>I am wholly disinterested in the matter and write to you only because I dislike to see my neighbor oppressed and ruined -- </p>
+<p>If you are kind enough to remit the judgement direct to me Paint Lick Garrard Co Ky</p>
+<p>Very Respectfully Yrs
+<lb/>E D Kennedy<pb/></p>
+<p>Laurel Cir. Ct
+<lb/>$500 } Recog
+<lb/>S. <hi rend="str">J</hi>C. Halcome</p>
+<p>Remitted 
+<lb/>B. M. </p>
+<p>Iss<hi rend="sup">d</hi> <date when="1861-10-10">Oct. 10. 1861</date></p>
+  </body>
+ </text>
+</TEI>

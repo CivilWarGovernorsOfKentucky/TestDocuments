@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0977"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Thomas Heffner to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10445</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG20-29 to MG20-30</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1861-02-20">20 February 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excy B. Magoffin Gov'r of the Com'th of Ky -- </p>
+<p>Your Petitioner Thos. Heffner states that he was recognized to appear in the Franklin circuit court at it last <date when="1860-10">Oct:'r term i. e. 1860</date> -- to testify on behalf of The com'th in a certain case wherein the com'th was plff and Devine Griffin was deft -- on indictment for unlawfully shooting without wounding -- with intent to kill or wound -- Your petitioner states that in truth and in fact, he knew nothing of the facts in the case -- that he only heard the discharge of the pistol, and knew not who shot it -- that knowing this little about it he supposed that his testimony and presence would not be needed in court, and having forgotten that he was at all recognised -- and knowing before hand that he could be of no service to the com'th he left this state on business for the state of Ohio, and was absent at the Octr term of the Franklin Cir: court and that his recognisance for $100 <hi rend="sup">00</hi>/<hi rend="sub">100</hi> was forfeited and having no lawful defense that judgt was rendered against him at the<pb/>
+<lb/><date when="1861-02">Feb'ry</date> term of said court for one hundred dollars &amp; costs now in as much as your petition did not know when said court was to come off, and had forgotten that he was recognised to be there and in as much as his testimony would have been worthless to the com'th if he had been there, and it never was the intention of this petitioner to avoid the the court, or to delay or hinder judt in the case in any way &amp; in as much as the said deft Griffin come forward and plead guilty to the charge this petition prays your Excy to remit said judgt of $100 <hi rend="sup">00</hi>/<hi rend="sub">100</hi> and he will will be ever grateful &amp;c -- </p>
+<p>Thomas Heffner</p>
+<p>we whose names are hereunto subscribed join in the prayer of the Petitioner, and recommend that said forfeiture be forever remitted</p>
+<p>Frankfort <date when="1861-02-20">Feb 20<hi rend="underline"><hi rend="sup">th</hi></hi> 1861 -- </date></p>
+<p><milestone unit="column" n="2"/><cb n="1"/><hi rend="underline">Names</hi>
+<lb/>P. U. Major comths Atty -- 
+<lb/>H I Todd
+<lb/>Jno A Crittenden
+<lb/>Jno. M Harlan
+<lb/><cb n="2"/><hi rend="underline">Names</hi>
+<lb/>E F Nuttall
+<lb/><hi rend="underline">J. Harlan</hi>
+<lb/>Jno Rodman
+<lb/>S F J. Fraler<milestone unit="column" n="1"/><pb/>
+<lb/>W. S. Dehoney
+<lb/>N. Heffner
+<lb/>R. Gillispie
+<lb/><hi rend="underline">W,, H</hi>,, <hi rend="underline">Gray</hi>
+<lb/>I M Todd<pb/></p>
+<p>Franklin Cir. Ct.
+<lb/>Tho<hi rend="sup">s</hi>. Heffner
+<lb/>Remitted
+<lb/>B. M
+<lb/>$100, } Recog.
+<lb/>Iss<hi rend="sup">d</hi>. <date when="1861-04-17">Apr. 17. 1861</date></p>
+  </body>
+ </text>
+</TEI>

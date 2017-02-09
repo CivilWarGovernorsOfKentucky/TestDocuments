@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-3421"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">H. Reynolds et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG5540</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR42-306</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency-
+<lb/>Hon <hi rend="str">J. F. Robinson</hi>
+<lb/>T. E. Bramlette
+<lb/>Governor of Kentucky.</p>
+<p>We, the undersigned, believing it would be a great hardship, and under the circumstances unjust, were Messrs W<hi rend="sup">m</hi> Bowen &amp; Stone compelled to pay the forfeited Recognizance in the case of the Commonwealth agst. H. Bowen et al. do hereby petition your Excellency to remit the amount of the forfeiture. </p>
+<p><milestone unit="column" n="2"/><cb n="1"/>H Reynolds
+<lb/>Hamilton Forman
+<lb/>Silvester Kindwell
+<lb/>Henry ^my X mark^ Coneley
+<lb/>George Sheffield
+<lb/>Richard A Randall
+<lb/>John French S P C
+<lb/>J. H. Scholl C. P. c. c.
+<lb/>Tho. C. Judy C. P. C C
+<lb/>Watson Stewart
+<lb/>James McDaniel
+<lb/>D. P. Horrow
+<lb/>J Boone
+<lb/>J N B Hardwill J P G C
+<lb/><cb n="2"/>S. Randall J. P. P. C
+<lb/>F. W. Hatton
+<lb/>Peter H Anderson
+<lb/>J. H Johns
+<lb/>Massen Gill Martin
+<lb/>B,, J. Martin
+<lb/>Henry Folkner
+<lb/>J. N Lacy
+<lb/>Arsted Fokner
+<lb/>Tilford Webster
+<lb/>Hezekiah Morton
+<lb/>Orlando D Forkner
+<lb/>R. S. Forman
+<lb/>John W. Hazelrigg</p>
+<p>His Excellency
+<lb/>Hon T. E. Bramlette</p>
+<p>I have written out a statement of the case, which I send in another Envelope. -It having been written before you was inaugurated is addressed to Hon. J. F. R. Many more signatures might have been obtained: but I did not consider it necessary, as this contains the Sheriff of Powel Co. Co Judge &amp;c</p>
+<p>Very Resply
+<lb/>W. H. Holt Mt Sterling</p>
+  </body>
+ </text>
+</TEI>

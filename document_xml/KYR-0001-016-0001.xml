@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-016-0001"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Beriah Magoffin, Note</title>
+    <title level="a" type="parallel">CWG1233</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Joshua D Farrington</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Messages to the General Assembly, 1859-1861</collection>
+      <idno>MG2-18 to MG2-19</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1861-10-02">2 October 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Note</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><note place="header">1</note></p>
+<p>I have signed the <hi rend="str">Bill</hi>Act of the Legislature "To prohibit &amp; prevent rebellion" &amp;c" with great reluctance and many doubts as to its Constitutionality, and only after receiving the following opinion from the Atto General -- To-wit (there insert it) although the policy of this bill seems to be evil &amp; barbarous, inflicting such punishment for an honest difference of political opinions, it will be preferable for offenders to be tried under the laws of the state, and by a Jury of the view <unclear/> composed of th<hi rend="str">is</hi>eir neighbors, than <hi rend="str">to</hi>by the laws of the government under a charge of treason. The laws reorganizing the Military Board and authorizing the borrowing of vast sums of money" received my signature with great hesitation, because of the dangerous powers<pb/>
+<lb/><note place="header">2</note>
+<lb/>confered upon the Board without responsibility &amp; without requiring security for the faithful disbursement of the money ^and performance of <hi rend="str">of</hi> duty^ <hi rend="str">our</hi>The state will become bankrupt and demoralized by such a policy <hi rend="str">and</hi> ^The Legislature fresh from the people and overwhelmingly differs with me^ could I have arrested it by a veto, notwithstanding the opinion of the Atto General, which is as follows to wit (here insert it) ^marked No 21^) -- I would have with held my sanction to the bill.</p>
+<p>B. Magoffin<pb/></p>
+<p><hi rend="underline">Reasons</hi> -- 
+<lb/>Stated for signing certain Acts of Genl. Assembly
+<lb/>Entered in Ex= Journal
+<lb/><date when="1861-10-02">Octo 2<hi rend="sup">d</hi> 1861</date><figure type="hr"/>
+<lb/>Ja<hi rend="sup">s</hi> W Tate
+<lb/>Asst. Secy</p>
+  </body>
+ </text>
+</TEI>

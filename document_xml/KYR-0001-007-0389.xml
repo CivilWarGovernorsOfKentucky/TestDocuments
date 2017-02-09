@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0389"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Theodore D. Rand, Oath</title>
+    <title level="a" type="parallel">CWG2054</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Appointments by the Governor, Civil Appointments, 1863-1867</collection>
+      <idno>BR2-302</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Philadelphia, Philadelphia County, Pennsylvania</placeName>
+    <date when="1865-03-15">15 March 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>State of Pennsylvania
+<lb/>City &amp; County of Philadelphia } ss</p>
+<p>I, Theodore D. Rand a Commissioner of Deeds for the State of Kentucky, duly appointed and commissioned by the Governor thereof for the State of Pennsylvania, resident in the said City and County, do solemnly swear that I will well and faithfully and truly execute and perform all the duties of my station as such Commissioner under and by virtue of the Laws of the State of Kentucky</p>
+<p>Theo D Rand</p>
+<p>Sworn and subscribed before me this <date when="1865-03-15">15<hi rend="sup">th</hi> day of March A. D 1865</date></p>
+<p><figure type="seal"><ab>HUGH W. TENER
+<lb/>COMMISSIONER OF DEEDS
+<lb/>PHILADELPHIA PENNA:</ab></figure></p>
+<p><stamp type="revenue"/><note place="stamp">HWT
+<lb/><date when="1865-03-15">3/15/65</date></note></p>
+<p>Witness my hand &amp; official Seal
+<lb/>Hugh W. Tener
+<lb/>Commissioner of Kentucky
+<lb/>for Pennsylvania<pb/></p>
+<p>Comr of Deeds
+<lb/>Pennsylvania
+<lb/>commission
+<lb/>Dated <date when="1865-03-01">1<hi rend="sup">st</hi> Mch/65</date>
+<lb/>&amp;
+<lb/>Oath of Office
+<lb/>filed
+<lb/><date when="1865-03-18">18<hi rend="sup">th</hi> Mch/65</date></p>
+  </body>
+ </text>
+</TEI>

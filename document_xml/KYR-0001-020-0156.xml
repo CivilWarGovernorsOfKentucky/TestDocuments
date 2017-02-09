@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0156"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">M. D. Nary to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG9624</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG17-81 to MG17-82</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Greenville, Muhlenberg County, Kentucky</placeName>
+    <date when="1860-11-16">16 November 1860</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Greenville, <date when="1860-11-16">Novr, 16<hi rend="underline"><hi rend="sup">th</hi></hi> 1860</date>.
+<lb/>Gov Magoffin</p>
+<p>At the instance of my friend Joseph Ricketts, I would State that I have known Duvall Several years. He has allways been a person of very weak mind, and when intoxicated easily influenced</p>
+<p>I was the attorney for B, F, Norman who has allready expatiated his crime upon the Scaffold ^Norman^ was the guilty party, and that Duval was influenced to assist in the murder through the influence of Norman when intoxicated. I do not think that Duval engaged in this murder feloniously but that he So entered into because he was intoxicated. His mother is an estimable old lady, and is bordering on insanity owing to the unfortunate circumstance that has thus placed her Son in the hands of the law I therefore cheerfuly Join in the request that you interpose in his behalf</p>
+<p>Your friend
+<lb/><unclear><hi rend="underline">M. D. Nary</hi></unclear></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2053"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">W. D. Brownlee and J. B. Brownlee, Bond</title>
+    <title level="a" type="parallel">CWG6690</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR14-237</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Hart County, Kentucky</placeName>
+    <date when="1865-06-15">15 June 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>A H Brownlee being in custody charged with the Crime of maliciously &amp; unlawfully shooting Alexander G Renfro with intent to kill and being admitted to bail in the sum of Five Hundred Dollars now we W D Brownlee <hi rend="str">&amp;</hi> and John B Brownlee do hereby undertake that the above A H Brownlee will appear in the Hart Circuit Court on the first day of next <date when="--04">April term</date> to consider said charge and will at all times render himself amenable to the order and process of said Court in the prosecution of said charge and if convicted will render himself in execution thereof or if he shall fail to perform either of these conditions that we will pay to the Commonwealth of Ky the sum of Five Hundred Dollars, Witness our hands this <date when="1865-06-15">15 day of Jun 1865</date></p>
+<p>W D Brownlee
+<lb/>J B Brownlee</p>
+<p>Taken and subscribed before us as Justices of the peace of Hart County</p>
+<p>G W Collins J P H C
+<lb/>W<hi rend="sup">m</hi> E Pucker J P H C
+<lb/>A Copy
+<lb/>M H Compton C H C C</p>
+  </body>
+ </text>
+</TEI>

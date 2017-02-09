@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0526"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">J. J. McIntosh to J. D. Landram and E. W. Smith</title>
+    <title level="a" type="parallel">CWG4645</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR9-333</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Paducah, McCracken County, Kentucky</placeName>
+    <date when="1864-02-10">10 February 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Paducah Ky <date when="1864-02-10">Feb 10<hi rend="sup">th</hi> 64</date>
+<lb/>Dr. J D Landram &amp; E W Smith Esq.
+<lb/>Gents</p>
+<p>There were two Judgments rendered by the Graves Circuit at the <date when="1863-05">May term 1863</date> against me for <hi rend="str">for</hi> $60.<hi rend="underline">00</hi> each for the offence of keeping a tippling house. They are both repleved and the bonds are now due, and the fines interest and cost will amount to Sum $150.00 $160.<hi rend="underline">00</hi>. And under the circumstances it will work a great kindness on me to have to pay the State that amount. I therefor write to ask of you the favor to see the Governor and try and induce him to remit the fines. I hope you will attend to the matters for me without delay for if Something is not done to release me I will have the money to pay and thereby suffer very Seriously as my family need all the means I am able to command for there daily support</p>
+<p>Your truly</p>
+<p>P S Lucein Anderson wrote to the Gov. Sometime last fall about the matter Sometime last fall.</p>
+<p>J. J. M<hi rend="sup">c</hi>.<pb/></p>
+<p>McCracken Co
+<lb/>Refused
+<lb/>Tho. E. Bramlette
+<lb/>Gov<hi rend="sup">r</hi> of Ky</p>
+<p>We know the within petition &amp; say to you that his fine ought <hi rend="underline">not</hi> to be remitted</p>
+<p>J D Landram
+<lb/>Senator
+<lb/><figure type="hr"/>
+<lb/>E W Smith
+<lb/>BEPGB</p>
+<p>To His Excellency
+<lb/>Gov Bramlet</p>
+  </body>
+ </text>
+</TEI>

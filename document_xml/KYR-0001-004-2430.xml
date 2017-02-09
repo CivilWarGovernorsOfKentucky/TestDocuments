@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2430"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">William H. Bush et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7067</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR15-376</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Simpson County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Simpson Co. Ky
+<lb/>To Gov<hi rend="sup">r</hi> Thos. E. Bramlette
+<lb/>Frankfort Ky -- </p>
+<p>The undersigned, Citizens of this County, would respectfully represent to your Excellency, That J. C. Wilkinson was arrested, &amp; tried before the County Court Judge of this County charged with unlawful Pedling, by Sample &amp; was fined one hundred Dollars -- </p>
+<p>M<hi rend="sup">r</hi> Wilkinson had Just arrived at our Town, &amp; was Ignorant of our State laws, and we believe that M<hi rend="sup">r</hi> Wil<hi rend="str"><unclear/></hi>kinson would have been the last man to violate our laws deliberately &amp; with a view to cheat the Commonwealth out of the license Tax imposed by law -- He only sold one Small lot of Cutlery We hope in view of all the facts, that your Excellency will remit the fine -- as we think his case is one that properly recommends itself to Executive Clemency -- </p>
+<p>Very Respectfully
+<lb/><milestone unit="column" n="2"/><cb n="1"/>John.N. Crow P. M.
+<lb/>S. R. Hope J P
+<lb/><cb n="2"/>W<hi rend="sup">m</hi> H Bush
+<lb/>Co atty -- 
+<lb/>W<hi rend="sup">m</hi> Kidd
+<lb/>County Court Judge
+<lb/>G. W. Dalton Sheriff
+<lb/>Geo H Millikin Clk
+<lb/>W. J. Wright J. P. S C
+<lb/>Cha<hi rend="underline"><hi rend="sup">s</hi></hi> F. Potter
+<lb/>S. Sympson U. S. Depty Collector
+<lb/>James A Wilson S S C
+<lb/>James A M<hi rend="sup">c</hi>Cartney
+<lb/>J. S. Procter
+<lb/>G, W, Whitesides Attny
+<lb/>Saml N <unclear/> Clerk Simpson Cir Court.<pb/></p>
+<p><milestone unit="column" n="1"/><hi rend="underline">Remit</hi></p>
+<p>Simpson County Ct
+<lb/>vs
+<lb/>J, C, Wilkinson
+<lb/>$100,
+<lb/><date when="1865-09-06">6 Sept 1865</date></p>
+  </body>
+ </text>
+</TEI>

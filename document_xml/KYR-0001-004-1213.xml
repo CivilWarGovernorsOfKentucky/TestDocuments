@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1213"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">W. W. Hodges et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG5850</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR11-364 to BR11-365</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1864-09-12">12 September 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To Honorable Thomas, E, Bramlette
+<lb/>Govenor of the state of Kentucky</p>
+<p>Your <hi rend="str">petioners</hi> petitioners would respectfully represent to your Excellency that at the <date when="1864-04">Aprile Term</date> of the Boone circuit court, that the Grand jury of said county found an indictment against one F, I, Femeding an Inn keeper in town of Florence in said Boone County upon the statute for selling intoxicating drinks to minors, That testimony on trial shewed the offence to have been committed on one single occasion the witness stating that the defendant Femeding refused to sell him liquor until witness told him that he was sick and much in need of something by way of relief &amp; that then defendant furnished the drink as desired, Your petitioners who were <hi rend="str">men</hi> on the jury which <hi rend="str">who</hi> brought in the verdict on the trial of the indictment ^pray^ that your excellency, in the exercise of a sound &amp; wise discretion ought remit the fine against said defendant and as in duty bound your petitioners shall ever pray
+<lb/><date when="1864-09-12">September 12<hi rend="sup">th</hi> 1864</date></p>
+<p>W, W, Hodges Foreman
+<lb/>Benjamin Dulaney
+<lb/>Waller Gooding
+<lb/>Jeremiah Smith<pb/>
+<lb/>Ben Stephens
+<lb/>William Collins
+<lb/>John Gaines one of Jury
+<lb/>James Rice
+<lb/>Alfred Rucker
+<lb/>Lewis Rice
+<lb/>D M Smith
+<lb/>John Louis</p>
+<p>The proof on the trial was, in substance, as stated by the Jury</p>
+<p>John L. Scott,
+<lb/>Com. atty.<pb/></p>
+<p>Boone Cir Ct
+<lb/>vs
+<lb/>Petition of to Govr
+<lb/>F, J, Femeding
+<lb/>$50
+<lb/><hi rend="underline">Remit</hi>
+<lb/><date when="1864-09-21">21<hi rend="sup">st</hi> Sept 1864</date></p>
+  </body>
+ </text>
+</TEI>

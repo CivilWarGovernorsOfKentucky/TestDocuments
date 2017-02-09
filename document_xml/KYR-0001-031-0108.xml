@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-031-0108"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Thomas Page to James F. Robinson</title>
+    <title level="a" type="parallel">CWG7848</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Appointments by the Governor, Civil Appointments, 1862-1863</collection>
+      <idno>R1-155</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Ex:
+<lb/>James F. Robinson
+<lb/>Gov: of Kentucky
+<lb/>Dear Sir</p>
+<p>Finding my time entirely occupied at the Adjutant Generals Office -- Permit me to decline the appointment tendered me as Commissioner of the Feeble Minded Institution -- </p>
+<p>I am obliged to you for this mark of confidence -- </p>
+<p>I am
+<lb/>Very Respectfully
+<lb/>Tho S. Page
+<lb/>Frankfort
+<lb/><date when="1863-01-05"><hi rend="underline">5 Jan 1863,</hi></date><pb/></p>
+<p>Institute for Feeble=Minded Children
+<lb/>Jacob Swigert
+<lb/>Comm<hi rend="underline"><hi rend="sup">r</hi></hi> in place
+<lb/>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> S. Page
+<lb/><date when="1863-01-06">Jany 6<hi rend="underline"><hi rend="sup">th</hi></hi> 1863.</date></p>
+<p>Jacob Swigert is appointed to fill the vacancy made by this resignation</p>
+<p><date when="1863-01-05">Jany <hi rend="str">3</hi>5<hi rend="sup">th</hi> 1863</date>
+<lb/><hi rend="underline">J F Robinson</hi></p>
+  </body>
+ </text>
+</TEI>

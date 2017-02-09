@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0342"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">James M. Brown to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG4461</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR9-46</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Nelson County, Kentucky</placeName>
+    <date when="1863-12-30">30 December 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><stamp type="revenue"/><note place="stamp"><date when="1865-12-30">Dec 
+<lb/>30<hi rend="sup">th</hi> 1865</date>
+<lb/>J M B</note>
+<lb/>State of Kentucky
+<lb/>Nelson County, } Sct.
+<lb/>To his Excellency, the Governor of the Commonwealth of Kentucky.</p>
+<p>The petitioners James M. Brown and John A Mackay would respectfully State that in the year <date when="1853">1853</date>, they, as partners owned and Stood a Jackass in this County at the price of $<gap/> Each Mare. put. They paid said sum of $<gap/> as tax due the State, to the Sheriff of Nelson County and obtained said Sheriffs receipt therefor, and they say said tax money was paid unto the state Treasury by s<hi rend="underline"><hi rend="sup">d</hi></hi> Shff upon his settlement with the Auditor.</p>
+<p>But they say on account of their failing to obtain a License from the Clerk of the County Court as required by Law they were <hi rend="underline">Endicted</hi> by the Grand Jury and fined $25.<hi rend="sup">00</hi> and Costs. and this Judgement for Twenty five Dollars in favor of the Commonwealth, Still Stands against them <hi rend="underline">uncollected</hi> but in full force ^Except $5.<hi rend="sup">00</hi> paid the Commonwealths attorney which he agreed to take in full of his claim.^ The costs, including the <hi rend="str">taxes</hi> fee to the Commonwealths attorney, have been paid.</p>
+<p>Now your petitioners say the way they were led into ^this^ difficulty was as follows. After having paid the tax to the State and obtained the sheriffs Receipt therefore, they proceeded to the County Court Clerk of the County. J. D. Elliott Esq then acting and duly qualified as such officer- and<pb/>
+<lb/>Offered to take the requisite oath and obtain a License as required by the Statute. and then Enquired of said Clerk what the fee would be for his services. He replied one Dollar. that the County Seal had to be affixed to s<hi rend="sup">d</hi> License &amp; the tax on the Seal would be 50 cents and the Clerks fee 50 cents makeing the Dollar. Your Petitioners replied that such additional tax and charges were not imposed upon the people of Bullitt or Spencer Counties by their Clerks- that they had never before been required to pay the same- did not believe it was right, and would not pay it. And they therefore failed to get the Clerk's License to stand s<hi rend="underline"><hi rend="sup">d</hi></hi> Jack.</p>
+<p>Your petitioners allege that Many and they believe most of the County Court Clerks of the State Even to this day do not affix the County seal to such Licenses, and only charge 25 cents fee for a License</p>
+<p>Wherefore, Your Petitioners ask to be <hi rend="underline">released</hi> and discharged from the payment of said fine or Judgment for $25.<hi rend="sup">00</hi> They pray for the exercise of the remiting power vested in ^the^ Governor by the Constituion. as proper and Just in this matter. They filed herewith a certificate copy of the Judgment of s<hi rend="underline"><hi rend="sup">d</hi></hi> marked (A)</p>
+<p>James M. Brown</p>
+<p>Sworn to before me by James M Brown this <date when="1863-12-30">30<hi rend="sup">th</hi> December 1863</date>.</p>
+<p>E. E. M<hi rend="sup">c</hi>Kay Notary Public of Nelson County.</p>
+<p><figure type="seal"><ab>E. E. M<hi rend="underline"><hi rend="sup">c</hi></hi>Kay
+<lb/>NOTARY PUBLIC
+<lb/>NELSON COUNTY, KY.</ab></figure></p>
+  </body>
+ </text>
+</TEI>

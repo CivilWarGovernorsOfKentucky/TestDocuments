@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-2074"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Abner and Jordan, Affidavit</title>
+    <title level="a" type="parallel">CWG9150</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG24-108 to MG24-109</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1862-07-21">21 July 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Whereas it is contemplated to apply to the Governor of Kentucky, for a pardon for Jordan, a slave formerly the property of R M Ewing of Scott County, and Abner, a slave, both now confined in the Penitentiary of Ky for life. Now this writing witnesseth that the said Jordan, and the said Abner, severally agree to accept a pardon and agree to be again restored to their original condition of servitude by sale as proved by the act of the General Assembly of the Commonwealth of Kentucky approved <date when="1862-03-17">March 17<hi rend="sup">th</hi> 1862</date> entitled an act to amend Section 25 Chapter 93 of Revised Statutes</p>
+<p>Witness our hands <date when="1862-07-21">July 21<hi rend="sup">st</hi> 1862</date></p>
+<p>Abner ^his X mark^
+<lb/>Jordan ^his X mark^</p>
+<p>This writing was read to and explained to Abner and Jordan the slaves above named and they consented as above stated and desired that their consent and agreement be signified by the above writing to which their names were placed in their presence by their<pb/>
+<lb/>request <date when="1862-07-21">July 21<hi rend="sup">st</hi> 1862</date></p>
+<p>Samuel,, South
+<lb/>Ja<hi rend="sup">s</hi> W Tate
+<lb/>Jas S <unclear>Saurs</unclear>
+<lb/>Robert W Lawler<pb/></p>
+<p>Graves Cir. Ct.
+<lb/>Abner (a Slave)
+<lb/>Manslaughter
+<lb/>Sentence "for life"<figure type="hr"/>
+<lb/>Scott Cir Ct.
+<lb/>Jordan (a Slave)
+<lb/>Manslaughter"
+<lb/>Sentence "for life"</p>
+<p>Pardons Issued in compliance with act of Genl Assembly approved <date when="1862-03-17">March 17<hi rend="underline"><hi rend="sup">th</hi></hi> 1862</date></p>
+<p>Ja<hi rend="sup">s</hi> W Tate
+<lb/>Asst Secy</p>
+  </body>
+ </text>
+</TEI>

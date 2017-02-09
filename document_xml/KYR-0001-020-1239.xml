@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1239"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">H. C. Miller to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10707</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG21-96 to MG21-97</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1861-07-17">17 July 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency
+<lb/>The Governor of Kentucky</p>
+<p>Your Petitioners Henry C Miller and others citizens of Washington County respectfully represent that at the <date when="1860-11">Nov Term 1860</date> of the Washington Circuit Court a Judgment was returned agaisnt said Miller for a fine of $50 on an indictment for carrying a pistol -- a deadly weapon -- the fine having been replevined are execution issued on this bond of himself and security is now in the Sherriffs hands -- They further represent that on a similiar charge in the same court tried at the <date when="1861-05">May Term 1861</date> a judgment was rendered against said Miller for a fine of $60 for which and costs an execution is now in The Sherriffs hands -- It is true he carried the pistol in each instance but he claims to have been justified in doing so &amp; That before that time he<pb/>
+<lb/>and others had been present in the Anderson and Mercer circuit courts and charges of the killing of Dixon Searcy and others in Anderson County and notwithstanding he had been tried and honorably acquitted on the grounds of justification and self defence a great number of malicious persons have designed and threatened to murder him in revenge and being apprised of his danger he went around as he had a right to do in self defence and for this the fines were imposed upon him </p>
+<p>Believing the fines to have been improperly inflicted we respectfully ask their remission</p>
+<p><date when="1861-07-17">July 17 1861 -- </date></p>
+<p>H C Miller</p>
+<p>H C Miller this day made oath before me that the facts stated in the above petition are true <date when="1861-07-17">July 17. 1861 -- </date></p>
+<p>J. P. Barbour Clk</p>
+<p>We concur and unite<pb/>
+<lb/>in the foregoing petition and statement of facts from information and belief</p>
+<p><date when="1861-07-17">July 17 1861</date></p>
+<p>M R Hardin
+<lb/>J. P. Barlbour
+<lb/>W. G. Moffett
+<lb/>R C M<hi rend="sup">c</hi>Hord
+<lb/>Tho<hi rend="sup">s</hi> R Walker
+<lb/>W<hi rend="sup">m</hi> J Robertson
+<lb/>C. T. Cunningham
+<lb/>T R Bhurman
+<lb/>T. B. Hardin<pb/></p>
+<p>Washington Cir. Ct
+<lb/>$50. } Weapons
+<lb/>H. E. Miller</p>
+<p>Resp 12 Mos</p>
+<p>Iss<hi rend="sup">d</hi> <date when="1861-08-30">Aug 30. 1861</date></p>
+  </body>
+ </text>
+</TEI>

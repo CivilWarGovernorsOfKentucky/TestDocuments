@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-018-0045"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Charles D. Jacob to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG8111</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Military Appointments, 1859-1862</collection>
+      <idno>MG6-135 to MG6-136</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date when="1861-08-30">30 August 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Louisville <date when="1861-08-30">August 30<hi rend="sup">th</hi> 1861</date>
+<lb/>Hon. B. Magoffin
+<lb/>Frankfort, Ky
+<lb/>Sir</p>
+<p>I hereby respectfully tender to your <hi rend="str">my</hi> Excellency my resignation as Captain - attached to Second regiment Infantry K. S. G. - to take effect immediately-</p>
+<p>With great respect, I am,
+<lb/>Your Excellency's Obedient Servant
+<lb/>Charles D,, Jacob
+<lb/>(<unclear/> of Martin &amp; Co Louisville Ky)<pb/>
+<lb/>Louisville <date when="1861-08-30">Augst 30/ 61</date></p>
+<p>Respectfully submitted for your consideration </p>
+<p>your obd servt
+<lb/>A. L. Symmes
+<lb/>Maj. Comm'd 2 Regt Ky. State Guard</p>
+<p>To His Excellency B. Magoffin
+<lb/>Frankfort Ky<pb/>
+<lb/>Cha<hi rend="sup">s</hi>. D Jacob
+<lb/>Captain
+<lb/>Filed <date when="1861-09-02">Sept. 2<hi rend="sup">d</hi> 1861</date></p>
+<p>Accepted
+<lb/>B. Magoffin</p>
+  </body>
+ </text>
+</TEI>

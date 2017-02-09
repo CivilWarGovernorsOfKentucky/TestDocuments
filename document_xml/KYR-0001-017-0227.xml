@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0227"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">J. B. Nones to James W. Tate</title>
+    <title level="a" type="parallel">CWG2575</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Civil Appointments, 1859-1862</collection>
+      <idno>MG4-145 to MG4-146</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>New York, New York County, Kentucky</placeName>
+    <date when="1861-10-21">21 October 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>New York <date when="1861-10-21">Oct. 21. 1861</date>
+<lb/>Sir.</p>
+<p>I have the honor to acknowledge the receipt of your kind favor of <date when="1861-10-15">15<hi rend="sup">th</hi>. Inst.</date> relative to the near Expiration of my Comm<hi rend="sup">n</hi>. as Comm<hi rend="sup">r</hi>. of Kentucky for New York, for which please receive my kindest acknowledgments.</p>
+<p>I herewith transmit $5. referred to, in your last respected favor -- and shall Esteem a favor if <hi rend="str">of</hi> His Excellency the Governor, will renew my Commission, &amp; will feel obliged to you for your agency in the premises.</p>
+<p>I am D<hi rend="sup">r</hi>. Sir with respect
+<lb/>Your obd<hi rend="sup">t</hi>. Sev<hi rend="sup">t</hi>.
+<lb/><hi rend="underline">J. B. Nones</hi></p>
+<p>James W. Tate Esq<hi rend="sup">r</hi>.
+<lb/>Ass<hi rend="sup">t</hi>. Sect. of State
+<lb/>Frankfort Ky<pb/></p>
+<p>New York<figure type="hr"/>
+<lb/>Com<hi rend="sup">r</hi>. of Deeds
+<lb/>Jo<hi rend="sup">s</hi>. B. Nones
+<lb/>N.Y. City
+<lb/>Com Iss<hi rend="sup">d</hi>. <date when="1861-10-25">Oct 25. 1861</date></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1001"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">H. M. Richards et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10469</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG20-65 to MG20-66</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Grayson, Carter County, Kentucky</placeName>
+    <date when="1861-04-24">24 April 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Grayson Ky <date when="1861-04-24">April 24<hi rend="underline"><hi rend="sup">th</hi></hi> 1861</date>
+<lb/>To his Excellency B M<hi rend="sup">c</hi>Goffin Govenor of the commonwealth of Kentucky</p>
+<p>Sir -- At the last term of the Carter Circuit Court -- Henry K Overton, Geo. T Henry. L J Goble and A J Lansdown, were indicted by the Grand jury for Carter County for playing Cards, in a private room. The witness was a Massachusetts man with northern proclivities, and the Gentlemen indicted were southern rights men. It is said there were others playing at the same time, but as the witness supposed they were sympathizers with the North, the witness did not say anything about <hi rend="underline">them</hi>. The defendants came into court, and confessed judgment for<pb/>
+<lb/>$20, -- each which was rendered by the Court -- Now it is almos the unanimous opinion that your excellency would be doing an act of justice and clemency to remit so much of said fines as may be coming to the commonwealth Further I am confident the Gentlemen were not playing for profit, but merely for amusement as they are gentlemen of high standing. M<hi rend="sup">r</hi> Nesbit the commonwealth atty for this district requests me to write this, and says he will do the same, which I suppose he has done. I am with much Respct</p>
+<p>Your obt Svt -- 
+<lb/>H M Richards
+<lb/>County Atty<pb/></p>
+<p>Carter Cir. Ct
+<lb/>$20 } Gaming
+<lb/>H. K Overton &amp; others</p>
+<p>Iss<hi rend="sup">d</hi> <date when="1861-04-30">Apr 30, 1861</date></p>
+<p>Remitted
+<lb/>B. M
+<lb/></p>
+  </body>
+ </text>
+</TEI>

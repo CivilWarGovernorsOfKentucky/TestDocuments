@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0234"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Henry D. McHenry to James F. Robinson</title>
+    <title level="a" type="parallel">CWG8686</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Governor's Official Correspondence File, Petitions for Pardons, Remissions, and Respites, 1862-1863</collection>
+      <idno>R3-351 to R3-352</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1863-02-13">13 February 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Senate Chamber
+<lb/><date when="1863-02-13">Feby 13<hi rend="sup">th</hi> 1863</date>
+<lb/>To His Excellency
+<lb/>The Governor</p>
+<p>I herewith ^submit^ to your Excellency the letter of John W Duke asking to be released from the payment of a Judgement rendered against him by the Ohio Circuit Court as surity for the appearance of one James -- L. Chiltan who was recognized on gave bond to appear before that Court to answer any indictment that might be found against<pb/>
+<lb/>him in consequence of an affray with one Gabriel Nelten I personally know the facts as stated in Mr Dukes letter to be true &amp; respectfully Petition your Excellency to remit the fine or Judgement against the sureties</p>
+<p>I have the Honor to be
+<lb/>Your Obt Svt
+<lb/><hi rend="underline">Henry D M</hi><hi rend="underline"><hi rend="sup">c</hi></hi><hi rend="underline">Henry</hi><pb/></p>
+<p>I also respectfully join in the foregoing Petition</p>
+<p>R Gibson
+<lb/>Ho of Reps<pb/></p>
+<p>J W Duke Pettn to remit fine
+<lb/>Ohio Cir. Ct.
+<lb/>Fine remitted
+<lb/>J F Robinson
+<lb/>$125. } Recog
+<lb/>Iss <date when="1863-02-16">Feby 16. 1863</date>
+<lb/>J. W. Duke &amp; others</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-222-0049"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Samuel G. Suddarth, Receipt to Theodore B. Harlan</title>
+    <title level="a" type="parallel">CWG13738</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>Misc. QM Expenditures, 1863-1865</collection>
+      <idno>QMG Box 10; 1863 Office Expenses - Telegraph, Stationary - Transportation - Ordinance Stores; Bundle 5</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1863-09-05">5 September 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>The United States
+<lb/>To Theodore B. Harlan. Dr</p>
+<p><table rend="rules">
+<row>
+	<cell><date when="1862">1862</date></cell>
+	<cell/>
+	<cell/>
+	<cell/>
+</row>
+<row>
+	<cell><date when="1862-09-01">Sept 1<hi rend="sup">st</hi></date></cell>
+	<cell>To Shoeing 6 <hi rend="sup">3</hi>/<hi rend="sub">4</hi> Horses (27 Shoes) at Brookeville Ky for Co E 10<hi rend="sup">th</hi> Ky Cavalry at 25 cents pr Shoe</cell>
+	<cell>6</cell>
+	<cell>75</cell>
+</row>
+</table></p>
+<p>Approved 
+<lb/>By order of the Governor
+<lb/>John W. Finnel
+<lb/>Adj<hi rend="sup">t</hi> Gen<hi rend="sup">l</hi> Ky Vols</p>
+<p>I certify that the above account is correct &amp; just: that the services were rendered as stated. &amp; that they were necessary for the public service</p>
+<p>W D Ratcliffe capt</p>
+<p>Received at Frankfort the <date when="1863-09-05"><hi rend="str">4</hi>5 of Sept 1863</date> of S. G. Suddarth Q M Genl<hi rend="str">Quarter Master U.S. A.</hi> the sum of Six -- Dollars &amp; Seventy five Cents in full of the above account</p>
+<p>T. B. Harlan<pb/></p>
+<p>I hereby guarantee the genuiness of the within signature and the good faith of all transfers of this claim</p>
+<p>Chas Hartswood</p>
+<p>No 2 Abstrt
+<lb/>Thoe B Harlan
+<lb/>$6<hi rend="underline"><hi rend="sup">75</hi></hi>
+<lb/>Paid <date when="1863-09-05">Sept 5 1863</date></p>
+<p>Recruiting no 2
+<lb/>J227</p>
+  </body>
+ </text>
+</TEI>

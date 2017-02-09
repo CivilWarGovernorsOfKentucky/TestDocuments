@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-2031"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">James W. Tate to M. R. Harden</title>
+    <title level="a" type="parallel">CWG9107</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG24-37</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1862-07-16">16 July 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Commonwealth of Kentucky,
+<lb/>OFFICE SECRETARY OF STATE,
+<lb/>Frankfort, <date when="1862-07-16">July 16<hi rend="underline"><hi rend="sup">th</hi></hi>, 1862.</date>
+<lb/>Dear Sir:</p>
+<p>I herewith Send you Craycrofts remission of forfeited recognizance the amount is not stated you can fill that up and drop me a line as to the amount also his first name which is not Stated</p>
+<p>Very Truly Yours
+<lb/>Ja<hi rend="sup">s</hi> W Tate
+<lb/>Asst. Secy</p>
+<p>M. R. Harden Esq
+<lb/><hi rend="underline">Springfield Ill</hi></p>
+<p>Springfield Ky
+<lb/><date when="1862-07-18">July 18 1862</date></p>
+<p>Dear Sir -- Thomas Craycraft is the name &amp; $1000 -- the <unclear>amount</unclear> judgment It was as shown in his petition he handed the Gov whom of Frankfort &amp; I suppose may not have been filed -- Mr Chasing prepare hand boy the Sherriff <unclear/> the remission sent for <unclear/> of miscarriage by mail -- If it is important he will<pb/>
+<lb/>return it when the more <unclear/> one is rec<hi rend="sup">d</hi> -- which please send him</p>
+<p>Very Truly &amp;c
+<lb/><hi rend="underline">M R Hardin</hi></p>
+<p>M R Hardin Esq</p>
+  </body>
+ </text>
+</TEI>

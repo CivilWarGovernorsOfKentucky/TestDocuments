@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0867"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">G. D. Rucker et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10335</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG19-365 to MG19-366</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1861-03-01">1 March 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To the Honorable Govenor of Kentucky or Chief Magistrate of the State</p>
+<p>Where=as It appears from Record that there was a true bill found agnst John Brewer of the County of Franklin &amp; State of Kentucky for selling or retailing Whiskey by the Small &amp; after that a Judgement from the Circuit Court in S<hi rend="sup">d</hi> County for the Sum of thirty som dollars &amp; then an execution was ishuned agnst Sd Brewer &amp; G. D. Rucker entered as his Security and now the money is called for &amp; Brewer has not got the money &amp; we the under signed are personally acquainted with John Brewer &amp; do Know him to be a hard working man &amp; perfectly, honest in all of his dealings &amp; we pray you to release S<hi rend="sup">d</hi> fine &amp; Judgement agnst S<hi rend="sup">d</hi>. Brewer as we Know it will oppress him &amp; his helpless family this the <date when="1861-03-01">1<hi rend="sup">st</hi> day of march 1861</date></p>
+<p><milestone unit="column" n="2"/><cb n="1"/>G. D. Rucker Security of Brewer
+<lb/>D. F. Bailey
+<lb/>J. S. Peyton
+<lb/>J N Mccann
+<lb/>Leonidas Rucker
+<lb/>Thomas Warren
+<lb/>Soloman Steel
+<lb/>J A Mobley
+<lb/>W,,H,, Rupe
+<lb/><cb n="2"/>J S Sheets
+<lb/>John Dees
+<lb/>Stephen Allen
+<lb/>G f hackett
+<lb/>B H yount
+<lb/>John W Pulliam
+<lb/>Stephen F Harrod
+<lb/>Riley G Harrod<milestone unit="column" n="1"/><pb/>
+<lb/>Henry Baker
+<lb/>James Harp
+<lb/>Dennis Harp
+<lb/>Beverly Arnold
+<lb/>Dennis Onan<pb/></p>
+<p>Franklin Cir. Ct
+<lb/>Remitted for 12 months
+<lb/>$37 } Liquer
+<lb/>Jno. Brewer
+<lb/>Iss<hi rend="sup">d</hi> <date when="1861-03-15">Mar 15 1861</date></p>
+  </body>
+ </text>
+</TEI>

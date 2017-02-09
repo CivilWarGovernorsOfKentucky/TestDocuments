@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2479"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">P. D. Yeiser to James R. Page</title>
+    <title level="a" type="parallel">CWG7116</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR15-445</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Paducah, McCracken County, Kentucky</placeName>
+    <date when="1865-10-21">21 October 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Paducah Ky
+<lb/><date when="1865-10-21">Oct 21<hi rend="sup">st</hi> 1865</date>
+<lb/>Ja<hi rend="sup">s</hi> R Page Esqr</p>
+<p>The recognizance was for $300 for appearance of G F Ballentine in Lyon circuit Court to answer and indictment for stabbing Jo<hi rend="sup">s</hi> Terrell with intent to Kill -- I think it was taken for forfeited at <date when="1862-06">June term 1862</date> yet may be it was <date when="1861-06">June 1861</date> I forget certainly yet think I am not mistaken -- I know the Case vs me is <date when="1862-12">Dec<hi rend="underline"><hi rend="sup">r</hi></hi> term 1862</date>, (the appearance term)</p>
+<p>I inclose $2 &amp; if I find I am mistaken in time of the forfeiture I can send it back for you to alter the figure 2 to 1 -- I am pretty sure I am correct</p>
+<p>P D Yeiser</p>
+<p>From the above if you can issue the pardon with sufficient certainty without the time of forfeiture I will be glad to do so otherwise Set it at <date when="1862-06">June term Lyon circuit court 1862</date></p>
+<p>Yeiser<pb/></p>
+<p>EXECUTIVE DEPARTMENT,
+<lb/>OFFICE OF SECRETARY OF STATE,
+<lb/>Frankfort, <date when="1865-09-29">29 Sept, 1865</date>.
+<lb/>P. D. Yeiser Esq</p>
+<p>Dear Sir:</p>
+<p>By an act of the General Assembly, there is a fee of two dollars allowed the Assistant Secretary of State in every case where a fine or forfeiture is remitted or respited by the Governor, and the papers for remissions and respites will not be issued until the fee is received.</p>
+  </body>
+ </text>
+</TEI>

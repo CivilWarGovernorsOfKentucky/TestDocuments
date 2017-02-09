@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2509"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">J. B. Sundrum et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7146</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR16-15 to BR16-16</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency Thomas. E. Bramlette
+<lb/>Goernor of the state of Kentucky</p>
+<p>Your petitioners would respectfully represent to your Excellency that at the <date when="1865-04">Aprile Term of the circuit court for Kenton County for the year 1865</date> that one Miles Marquess was fined upon a presentment and indictment found by the Grand jury of Said Court for permitting "<hi rend="underline">Nuisance</hi> contrary to the statute in such Case made and provided" said fine amounting to twenty ($20) dollars &amp; costs, Your petitioners would repersent to your Excellency, that the parties who occupied the premises at the time of said premises Coming into the possession of said Marquess, and were wives of Soldiers in the Federal service Said Marquess was only the agent for the managment of said property, and had used all proper means to induce their removal, and they actually did go before the rendition of the fine before mentioned</p>
+<p>Therefore your petetioners pray your Excellency that if Consistent with the public welfare that said fine shall be remitted, as in duty bound we shall ever pray</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>J B Sundram
+<lb/>L. E. Baker
+<lb/>J A Goodson
+<lb/>T L. Reed
+<lb/>R. K. Irwin
+<lb/><cb n="2"/>M, D, Moore
+<lb/>Ben Moore
+<lb/>Ln Semour
+<lb/>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> f. faris -- 
+<lb/>A, H, Harod
+<lb/>Capt E. Rees
+<lb/>H. P. Rose<pb/></p>
+<p><milestone unit="column" n="1"/>I think under the circumstances that the fine against M<hi rend="underline"><hi rend="sup">r</hi></hi> Marquess Although a small fine yet would be properly remitted, M<hi rend="underline"><hi rend="sup">r</hi></hi> Marquess managed his own case when on trial and I am satisfied had he had council that he would hardly have been fined. I was on the bench at the time -- </p>
+<p><hi rend="underline">C <unclear/></hi><pb/></p>
+<p>Kenton Cir Ct
+<lb/>vs
+<lb/>Miles Marquess
+<lb/>To } Petition
+<lb/>To Governor of Ky
+<lb/>$20.
+<lb/>Remitted <date when="1865-10-03">3<hi rend="sup">d</hi> Oct /65</date></p>
+  </body>
+ </text>
+</TEI>

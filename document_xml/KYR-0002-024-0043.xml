@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-024-0043"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John Travis to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG12096</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Mitchell A Krock</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>1st - 20th Regiments Kentucky Infantry Primary Source Documents</collection>
+      <idno>Box 7, Folder 12th Ky. Inf. - Misc.</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date when="1864-10-04">4 October 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Louisville Ky
+<lb/><date when="1864-10-04">Oct 4<hi rend="sup">th</hi>/64</date>
+<lb/>Gov Bramlette</p>
+<p>Sir. I, take the liberty of addressing you ^this^ I. have served three years in the service of the U, S forces but on account of been deserving of promotion during that time i cannot get out of the service and i can get promoted in my own Regt but i refuse on account of my wife's health as for my caracter as a officer and and a soldier i would refer you to Col Hoskins. Eph Vanwinkle Otho Millis I. M. Ingram of Somerset<pb/></p>
+<p>I understsand that there is State troops raising in Ky if it meets your approbation i would like very much to get an apointment in some of those 12 months organnastions as Major so as to be near my wife as she has not got long to live but I cannot get on detached duty here i have tried I hope you will excuse this from </p>
+<p>your Humble
+<lb/>Servant
+<lb/>John Travis Capt
+<lb/>Co, B, 12 Ky, V, V, I,
+<lb/>1<hi rend="underline"><hi rend="sup">st</hi></hi> Brigade 3<hi rend="underline"><hi rend="sup">d</hi></hi> Divis
+<lb/>23 A. C. Decatur
+<lb/>Gen<pb/></p>
+<p><note place="left margin">12</note>
+<lb/>Louisville Ky
+<lb/><date when="1864-10-04">Oct 4" 1864</date> -- <figure type="hr"/>
+<lb/>Travis John
+<lb/>Capt Co. "B" 12" Ky V. I.<figure type="hr"/>
+<lb/>To The. Gov.<figure type="hr"/></p>
+<p>Desires an appointment as Major in some of the 12 months organizations -- Refers you to Col Hoskins, Eph Vanwinkle, Otho Miller &amp; I. M. Ingram<figure type="hr"/></p>
+<p>L B N<hi rend="sup">o</hi> 7 -- <date when="1864">1864</date> P. 171<figure type="hr"/>
+<lb/>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> A. G. O. <date when="1864-10-05">Oct 5" 1864</date> -- </p>
+  </body>
+ </text>
+</TEI>

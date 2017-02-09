@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1204"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">J. E. Cooper et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG10672</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG21-43</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date when="1861-06-13">13 June 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excellency Go<hi rend="underline"><hi rend="sup">v</hi></hi> B M<hi rend="sup">c</hi>Goffin your Humble Petitioner Julius M<hi rend="sup">c</hi>Clerg Most Humbly &amp; Respectfully reprsents &amp; States that at the last <date when="1861-02">February</date> Term of the Rowan Circuit Court that He was fined the sum of Sixty Dollars for Keeping a Tipling House. and that he is a poor Man and is now confined in the County Jail or Rowan County as owing to the hard times and Scarcity of Monetary arrangements in our old Commonwealth that it is a Matter of impossibility to raise said sum of $60<hi rend="underline"><hi rend="sup">00</hi></hi> The undersigned Petitions Most respectfully States that said M<hi rend="sup">c</hi>Clerg is a very Poor Man and has nothing on Gods Green earth to pay said fine of $60<hi rend="underline"><hi rend="sup">00</hi></hi> and unless he gets relief by the Power Vested in you he will be imperiously confined in said Jail until said fine is extinguished by his imprisonment</p>
+<p>We the undersigned signed Petitioners therefore ask &amp; pray that said fine of $60<hi rend="underline"><hi rend="sup">00</hi></hi> be remitted &amp; that said Julius M<hi rend="sup">c</hi>Clerg be hence released from the payment of the same &amp; we will forever pray &amp;c</p>
+<p>Yours Respectfully
+<lb/><date when="1861-06-13">June 13<hi rend="underline"><hi rend="sup">th</hi></hi> 1861</date></p>
+<p>J. E. Cooper
+<lb/>James W. Johnson S. R. C.
+<lb/>E. H. Logan clk.
+<lb/>A Keetter
+<lb/>H R Myers
+<lb/>J H Steele M D
+<lb/>Dixon Clark<pb/>
+<lb/><milestone unit="column" n="2"/><cb n="1"/>J A Hawkers
+<lb/>J. S. Davis
+<lb/>T M Likes
+<lb/>Francis Grant
+<lb/>M K Hawson
+<lb/>W. R Norris
+<lb/>W. W. Richards
+<lb/>J. A. Goodman
+<lb/>John N McIntire
+<lb/>G M. Page
+<lb/>J. B. McIntire
+<lb/>Thomas Dunigan
+<lb/>Nathaniel Ridiel
+<lb/>Isaac Raggeswell
+<lb/>John Riddele
+<lb/>O S Robertson
+<lb/>G Brown
+<lb/>J Myers
+<lb/>Samuel Allen
+<lb/>Thomas Riely
+<lb/>G W Cassity
+<lb/>Nathaniel B White
+<lb/>Davis Cornett
+<lb/>John <unclear/>
+<lb/>J W Richards
+<lb/>H M Logan
+<lb/>O H Trumbo
+<lb/>John Evans
+<lb/>Fielding Cooper
+<lb/>James A Thomas
+<lb/><cb n="2"/>H J Logan
+<lb/>William Garves
+<lb/>John Darnal
+<lb/>J.. P.. Nelson
+<lb/>C B Nelson
+<lb/>John Ingrham
+<lb/>T J Trombs
+<lb/>J E Johnson J P</p>
+<p>John Hargis atto. for Rowan C<hi rend="sup">o</hi> with a request to remit the same, as it is running the C<hi rend="underline"><hi rend="sup">o</hi></hi> to Expense &amp; does no body any profit<milestone unit="column" n="1"/></p>
+<p>Remission</p>
+<p>Iss<hi rend="sup">d</hi> <date when="1861-06-24">June 24 1861</date></p>
+  </body>
+ </text>
+</TEI>

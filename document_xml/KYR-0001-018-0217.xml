@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-018-0217"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">W. A. Dudley to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG8283</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Military Appointments, 1859-1862</collection>
+      <idno>MG6-326 and MG6-327</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1862-01-27">27 January 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Office of the Quartermaster General,
+<lb/>FOR THE STATE OF KENTUCKY
+<lb/>Frankfort, Ky., <date when="1862-01-27">Jan 27<hi rend="underline"><hi rend="sup">th</hi></hi>, 1862</date>.</p>
+<p>His Excellency Gov. Magoffin
+<lb/>Sir.</p>
+<p>As you are aware. I accepted the office of Quarter Master General for the State with no intention of holding it longer than might be necessary to complete the clothing of the Kentucky Volunteers.</p>
+<p>Having accomplished that object I now feel at liberty to give some attention to my private business. which has already suffered much from my absence</p>
+<p>I therefore request your acceptance of this my resingation to take effect on the <date when="--01-10">10<hi rend="underline"><hi rend="sup">th</hi></hi> of February</date> provisio. by which time I shall be able to complete the settlement of my accounts.</p>
+<p>I beg your sir in conclusion to accept the assurance of my gratitude for the uniform courtesy &amp; kindness which I have received at your hands and that you will relieve me to be yr. friend &amp; obdt servt.</p>
+<p>W A Dudley<pb/>
+<lb/>W. A. Dudley
+<lb/>Resigns off
+<lb/>Q<hi rend="sup">r</hi> M<hi rend="sup">r</hi> Genl
+<lb/><date when="1862-01-27">Jan 27 1862</date></p>
+<p>Declined
+<lb/>B. M.</p>
+  </body>
+ </text>
+</TEI>

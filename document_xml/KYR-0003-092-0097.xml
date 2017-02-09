@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0003-092-0097"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">C. T. Churchill to George W. Johnson</title>
+    <title level="a" type="parallel">CWG14389</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Christina K Adkins</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Historical Society</repository>
+      <collection>George W. Johnson Papers</collection>
+      <idno>Folder 4</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Elizabethtown, Hardin County, Kentucky</placeName>
+    <date when="1861-05-21">21 May 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Elizabethtown <date when="1861-05-21">May 21<hi rend="underline"><hi rend="sup">st</hi></hi>/61</date>
+<lb/>George W Johnson Esqr
+<lb/>Dear Sir</p>
+<p>I just arrived from the South yesterday and found a letter hear from you</p>
+<p>I am very sorry to say that I made no collections was disappointed in every quarter Just as soon as I can collect I will hand it over to you but am unable to say when it will be I am sorry things have happened so that we could not meet our notes</p>
+<p>Yours Very Respectfully
+<lb/>C. T. Churchill<pb/></p>
+<p>C. T. Churchill
+<lb/><date when="1861-05-21">May 21. 1861.</date></p>
+<p><hi rend="underline">C. T. Churchill</hi></p>
+  </body>
+ </text>
+</TEI>

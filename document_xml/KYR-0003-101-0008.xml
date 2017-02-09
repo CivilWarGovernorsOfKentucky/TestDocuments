@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0003-101-0008"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Daniel W. Lindsey, General Orders, No. 4</title>
+    <title level="a" type="parallel">CWG14438</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Christina K Adkins</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Historical Society</repository>
+      <collection>Charles W. Quiggins papers</collection>
+      <idno/>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1865-03-17">17 March 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Order</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><figure type="seal"><ab>UNITED WE STAND, DIVIDED WE FALL
+<lb/>KENTUCKY.</ab></figure>
+<lb/>Head-Quarters Kentucky Volunteers,
+<lb/>ADJUTANT GENERAL'S OFFICE,
+<lb/>Frankfort, <date when="1865-03-17">March 17: 1865</date>.</p>
+<p><hi rend="str">Special</hi> General ORDERS,
+<lb/>NO. 4. }</p>
+<p>X X Extract X X<figure type="hr"/></p>
+<p>II... A military Court Martial is hereby ordered to convene at Frankfort on this <date when="1865-03-17">17: day of March 1865</date>, or as soon thereafter as practicable for the purpose of investigation and trial of such prisoners as may be brought before them.</p>
+<p>The following Officers are hereby detailed and will constitute said Court Martial
+<lb/><hi rend="underline">Lt. Col. J. J. Craddock
+<lb/>Major C. W. Quiggens
+<lb/>" A. J. Harrington Judge Advocate</hi></p>
+<p>No other Officers than those named can be assembled without manifest injury to the service -- </p>
+<p>By command of the Governor:</p>
+<p>DW Lindsey
+<lb/>Adjutant General of Kentucky</p>
+<p>Maj. C. W. Quiggins<pb/></p>
+<p><date when="1865-03-17">March 17<hi rend="underline"><hi rend="sup">th</hi></hi> /65</date></p>
+  </body>
+ </text>
+</TEI>

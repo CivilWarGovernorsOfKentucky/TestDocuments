@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1542"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">James M. Branch, Bond</title>
+    <title level="a" type="parallel">CWG6179</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR12-386</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Trimble County, Kentucky</placeName>
+    <date when="1865-03-18">18 March 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Samuel Staples being now in custody, charged with the offence of passing counterfeit treasury notes, or united states treasury notes, and being admitted to bail in the Sum of Five hundred Dollars, we James M Branch of the county of Trimble and <gap/> hereby undertake that the above Samuel Staples Shall appear in the Trimble circuit court on the first day of its <date when="1865-05">next May</date> term, and render himself ameniable to the orders and processes of sd court, in the prosecution of sd charge, and if convicted Shall render himself in execution thereof, or if he failes in either we will pay the commonwealth Five hundred Dollars</p>
+<p>James M Branch</p>
+<p>Taken and subscribed before us as Justices of the peace for Trimble County this <date when="1865-03-18">18 day of March 1865.</date></p>
+<p>John W Stewart J P T C
+<lb/>J H Lane J. P. T. C</p>
+<p>Endorsed &amp; filed 1<date when="1865-03-08">8<hi rend="sup">h</hi> March 1865</date></p>
+<p>W. F. Peak, C</p>
+<p>A Copy attest
+<lb/>W. F. Peak, Clerk, T. Ct. C</p>
+  </body>
+ </text>
+</TEI>

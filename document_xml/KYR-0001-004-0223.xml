@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0223"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Henry D. McHenry to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG4342</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR8-344 to BR8-345</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Hartford, Ohio County, Kentucky</placeName>
+    <date when="1863-10-13">13 October 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Hartford <date when="1863-10-13">Oct 13th 1863</date>
+<lb/>Gov Bramlett
+<lb/>D<hi rend="sup">r</hi> Sir</p>
+<p>I send herewith a Petition to get C W Hunter released from a fine imposed against him for solemnizing the right of Matrimony with authority. He was a Justice of the Peace &amp; supposed he was authorized and it was only one coupled he married &amp; the fine imposed was $25. He is a poor man &amp; cant <hi rend="underline">well</hi> <hi rend="underline">afford</hi> pay the fine He was afterward authorized by the court to solemize marriage</p>
+<p>I am very truly
+<lb/><hi rend="underline">Henry D M</hi><hi rend="underline"><hi rend="sup">c</hi></hi><hi rend="underline">Henry</hi></p>
+<p>Ohio Cir Court
+<lb/>vs 
+<lb/>C. W. Hinton
+<lb/>$25</p>
+<p>Remit all except costs &amp; fees <date when="1863-10-17">Oct 17<hi rend="sup">th</hi> 1863</date>
+<lb/>T E Bramlette
+<lb/>Govr
+<lb/>enclose to <hi rend="str">Col</hi> Henry D M<hi rend="sup">c</hi>Henry
+<lb/><hi rend="str">J P M</hi><hi rend="str"><hi rend="sup">c</hi></hi><hi rend="str">Henry</hi><pb/></p>
+<p>We the undersigned citizens of Ohio County respectfully Petition His Excellency the Governor to remit a fine imposed by the Ohio Circuit Court at its last <date when="--09">September Term</date> against Charles W Newton for marrying a couple without being authorized so to do by the County Court
+<lb/><date when="1863-10-13">Oct 13<hi rend="sup">th</hi> 1863</date>.</p>
+<p>L Nall
+<lb/>Alf Nall
+<lb/>R P Nall
+<lb/>J G Horn
+<lb/>W. H. Nall
+<lb/>Remis Gibson
+<lb/>J. T Bentard
+<lb/>W E Davis
+<lb/>D S Hill Judge Ohio County Court
+<lb/>S Manzy
+<lb/>W<hi rend="sup">m</hi> Hardwick
+<lb/>Litus Bennett
+<lb/>Robert B Blevines
+<lb/>W. B. Robinson
+<lb/>John Graham
+<lb/>John K Oglesbey
+<lb/>R. S. Moreley Clk Ohio Co Ct.
+<lb/>A. Woodward
+<lb/>Ed. B. Ellis
+<lb/>A. L. Morton Clk Ohio Cir Ct
+<lb/>W. H. Davidson D. C.
+<lb/>A B Bond Post. M
+<lb/>W H Miller</p>
+  </body>
+ </text>
+</TEI>

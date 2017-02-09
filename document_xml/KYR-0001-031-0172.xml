@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-031-0172"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">William Fitch to James F. Robinson</title>
+    <title level="a" type="parallel">CWG7912</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Appointments by the Governor, Civil Appointments, 1862-1863</collection>
+      <idno>R1-239</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Washington, District of Columbia</placeName>
+    <date when="1863-03-13">13 March 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>WILLIAM FITCH,
+<lb/>ATTORNEY FOR CLAIMANTS,
+<lb/>CORNER OF SEVENTH AND F STREETS, WASHINGTON CITY, D. C.<figure type="hr"/>
+<lb/>SPECIAL REFERENCE BY PERMISSION:
+<lb/><milestone unit="column" n="2"/><cb n="1"/>HON. RICHARD WALLACH, Mayor of Washington, D. C.
+<lb/>HON W. W. SEATON, Ex-Mayor of Washington, D. C.
+<lb/>LEWIS JOHNSON &amp; CO., Bankers, Washington, D. C.
+<lb/>EX-GOV. HUNT, of Lockport, New York.
+<lb/>JUDGE GARDINER, of Lockport, New York
+<lb/>HON. JOHN GANSON, State Senator, Buffalo, New York.
+<lb/>HON. BURT VANHORN, Member of Congress from New York
+<lb/><cb n="2"/>HON. GEO. W. CLINTON, Judge Superior Court, Buffalo, N. Y.
+<lb/>MESSERS. HUBBLE &amp; DAVIS, Counselors, Buffalo, N. Y.
+<lb/>JUDGE BOWEN, of Lockport, New York.
+<lb/>JUDGE WOODS, of Lockport, New York.
+<lb/>HON. T. T. FLAGLER, Ex-member of Congress from New York
+<lb/>HON. JOHN GANSON, President of the New York and Erie Bank, Buffalo, New York<figure type="hr"/><milestone unit="column" n="1"/></p>
+<p>Washington, <date when="1863-03-13">March 13 1863</date>
+<lb/>To his Excellency James F. Robinson
+<lb/>Governor of State of Kentucky.
+<lb/>Sir,</p>
+<p>Enclosed I take the liberty of sending you a<hi rend="str">n</hi> Sworn Copy of a recommendation Signed by members of the Thirty Seventh Congress with a view of obtaining the appointment of commissioner of Deeds for your State in this District</p>
+<p>Hoping my application may receive your Excellenc'y's. favorable attention</p>
+<p>I am
+<lb/>Very Respectfully,
+<lb/><hi rend="underline">William Fitch</hi>
+<lb/><figure type="seal"><ab>WILLIAM FITCH
+<lb/>WASHINGTON,
+<lb/>D. C.
+<lb/>NOTARY PUBLIC</ab></figure></p>
+  </body>
+ </text>
+</TEI>

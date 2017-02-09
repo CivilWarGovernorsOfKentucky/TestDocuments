@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0145"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">W. C. Jarboe to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG2493</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Civil Appointments, 1859-1862</collection>
+      <idno>MG4-35</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Lebanon, Marion County, Kentucky</placeName>
+    <date when="1861-05-01">1 May 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Lebanon Ky <date when="1861-05-01">May 1". 1861</date>
+<lb/>Honl. B. Magoffin
+<lb/>Frankfort
+<lb/>Dear Sir</p>
+<p>a few of us have. Sent you the names of Ja<hi rend="sup">s</hi>. A. Hall for a commission for Justice of the peace for this district in place of W<hi rend="sup">m</hi>. Douglass Esqr Dec<hi rend="underline"><hi rend="sup">d</hi></hi> the office has been vacant 6 months -- Mr Hall is a qualified good citizen morally &amp; politically</p>
+<p>our clerk did not Issue a writ of Election in time for may Election</p>
+<p>our political troubles in this county is great Journal &amp; Louisville Democrat has rebounded influence and keeps our people in Ignorance as to the true position of our Distracted Country -- your refusal of Abe<hi rend="underline"><hi rend="sup">s</hi></hi> Demands gave universal satisfaction for a few days -- the Journal found fault they now Say you are a cesessionist and desire<pb/>
+<lb/>arms &amp;c for Daviess -- I shall Look for our legislature to appoint a dictator for our state controle arms &amp;C -- friend Benton is now Endeavoring to save the Union at Raywick hope he will succeed those people down there need assistance and if Benten and the Journal fails they can find comfort with the Southern Rights party -- we are few and far -- between but no no such won as fail</p>
+<p>Respectfully
+<lb/><hi rend="underline">W. C. Jarboe</hi>
+<lb/></p>
+  </body>
+ </text>
+</TEI>

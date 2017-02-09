@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-211-0013"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">James F. Robinson Jr., Receipt to Jeremiah W. South</title>
+    <title level="a" type="parallel">CWG13661</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>Adjt. Gen. &amp; QMG Expenditures, 1864-1865</collection>
+      <idno>QMG Box 11; Bundles of AG &amp; QMG Expenditures 1864-65; Bundle 1</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1863-08-27">27 August 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Commonwealth K<hi rend="str">y</hi>entucky</p>
+<p><table rend="rules">
+<row>
+	<cell><date when="1862">1862</date></cell>
+	<cell>To Ky Penitentiary</cell>
+	<cell/>
+	<cell/>
+	<cell>Dr</cell>
+	<cell/>
+</row>
+<row>
+	<cell><date when="1862-11-14">Nov 14</date></cell>
+	<cell>To 3 mops Irons &amp; handls</cell>
+	<cell>3</cell>
+	<cell>00</cell>
+	<cell/>
+	<cell/>
+</row>
+<row>
+	<cell/>
+	<cell>" 4 tables for Hospital</cell>
+	<cell>9</cell>
+	<cell>00</cell>
+	<cell/>
+	<cell/>
+</row>
+<row>
+	<cell/>
+	<cell>" pr order secretary Wickliffe</cell>
+	<cell/>
+	<cell/>
+	<cell/>
+	<cell/>
+</row>
+<row>
+	<cell><date when="1862-11-15">15</date></cell>
+	<cell>" 12 split bottom chairs for Hospital</cell>
+	<cell>15</cell>
+	<cell>00</cell>
+	<cell/>
+	<cell/>
+</row>
+<row>
+	<cell>"</cell>
+	<cell>" 6 Brooms</cell>
+	<cell>1</cell>
+	<cell>00</cell>
+	<cell/>
+	<cell/>
+</row>
+<row>
+	<cell/>
+	<cell>" pr order Secretary Wickliffe</cell>
+	<cell/>
+	<cell/>
+	<cell>28</cell>
+	<cell>00</cell>
+</row>
+<row>
+	<cell/>
+	<cell>" " "</cell>
+	<cell/>
+	<cell/>
+	<cell>28</cell>
+	<cell>00</cell>
+</row></table></p>
+<p>Approved to be paid out of the Miltary fund by Q M Genl</p>
+<p>J F Robinson<pb/></p>
+<p>305
+<lb/>Commonwealth Ky
+<lb/>Iss <unclear/> 1
+<lb/>Ky Penty
+<lb/>$28 -- <pb/></p>
+<p>No. 22.<figure type="hr"/>
+<lb/>State of Kentucky,
+<lb/>To Ky Penitentiary Dr.</p>
+<p><table rend="rules">
+<row>
+	<cell><date when="1862">1862.</date></cell>
+	<cell/>
+	<cell>DOLLARS.</cell>
+	<cell>CENTS.</cell>
+</row>
+<row>
+	<cell><date when="1862-11-14">Nov 14</date></cell>
+	<cell>To 3 Mops Irons &amp; handles</cell>
+	<cell>3</cell>
+	<cell>00</cell>
+</row>
+<row>
+	<cell/>
+	<cell>4 Tables for hospitals</cell>
+	<cell>9</cell>
+	<cell>00</cell>
+</row>
+<row>
+	<cell><date when="1862-11-15">15</date></cell>
+	<cell>12 split bottom chairs</cell>
+	<cell>15</cell>
+	<cell>00</cell>
+</row>
+<row>
+	<cell/>
+	<cell>6 Brooms</cell>
+	<cell>1</cell>
+	<cell>00</cell>
+</row>
+<row>
+	<cell/>
+	<cell/>
+	<cell>28</cell>
+	<cell>00</cell>
+</row>
+<row>
+	<cell/>
+	<cell>These articles were purchased for us of hospital at Frankfort.</cell>
+	<cell/>
+	<cell/>
+</row>
+<row>
+	<cell/>
+	<cell/>
+	<cell>28</cell>
+	<cell>00</cell>
+</row>
+</table></p>
+<p>I certify that the above account is correct and just; that the services were rendered as stated; and that they were necessary for the public service.</p>
+<p>J. F. Robinson jr Q M G</p>
+<p>Received at Frankfort, the <date when="1863-08-27">27 of Aug, 1863</date>, of Jas F Robinson Jr. Q M G, Quarter-master Kentucky Volunteers, the sum of Twenty eight Dollars and -- Cents, in full of the above account.
+<lb/>(DUPLICATE.)</p>
+<p>J W South Keeper
+<lb/>Ky Penitentiary<pb/></p>
+<p>No. 22.<figure type="hr"/>
+<lb/>No 6 Abstract. B G Qr. 186<gap/>.
+<lb/>Kentucky Penitentiary
+<lb/>Dollars 28.<hi rend="sup">xx</hi>/<hi rend="sub">100</hi>
+<lb/>Paid <date when="1863-08-27">Aug 27<hi rend="sup">th</hi> 1863</date>.
+<lb/>Hospital
+<lb/>I 216</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-022-0108"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Sebastian C. Vick to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG12031</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>37th - 76th Regiments Enrolled Militia Primary Source Documents (1861-1866)</collection>
+      <idno>Box 81, Folder 71st Regiemnt 1863-1865 Col. Vick's Correspondences</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Greenville, Muhlenberg County, Kentucky</placeName>
+    <date when="1864-06-18">18 June 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Head quarters 71<hi rend="sup">st</hi> Ky. E. M.
+<lb/>Greenville Ky. <date when="1864-06-18">June the 18' 1864</date>
+<lb/>Thos.E. Bramlett } 10 Ky
+<lb/>Gov. of the commonwealth</p>
+<p>Sir I have the pleasure of droping a note to you this morning I have just Reach.d. Greenville with a detachment of 150, of the 35 Regt, Ky. Mt,d. Inf. the green River country Is full of guirillars. We Start Incidialy after them I will Report to you and Gen. Lindsey. Soon &amp; <unclear/>= </p>
+<p>Govornor Believe me to yours
+<lb/>Very rispectfuly
+<lb/>Sebastian. C. Vick
+<lb/>Col comd.g. 71<hi rend="sup">st</hi> E. M.<pb/></p>
+<p>71<hi rend="sup">st</hi> regt E. M. Muhlenburg Co
+<lb/>Greenville <date when="1864-06-18">June 18, 1864</date><figure type="hr"/></p>
+<p>Vick. S. C. Col Comdg 71<hi rend="sup">st</hi> regt E M has the pleasure of dropping a line to the Govr. Has just reached Greenville with 150 of 35<hi rend="sup">th</hi> Ky Mtd Infty The Green River Country is full of guerillas &amp; they start after them immediately, will report soon to Govr &amp; Genl Lindsey. His Exclncy referd this to I. G. O.<figure type="hr"/></p>
+<p>Recd I. G. O. <date when="1864-06-23">June 23<hi rend="sup">rd</hi> 1864</date></p>
+  </body>
+ </text>
+</TEI>

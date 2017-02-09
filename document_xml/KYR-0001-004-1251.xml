@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1251"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">George W. Matthews et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG5888</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR11-424</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To his Excelency the Govenor of the State of Ky</p>
+<p>We the undersigned citizens of the County of Anderson State of Kentucky respectfully but earnestly request you to release Jerry Dayly from a fine of two hundred and fifty dollars assessed against him by a jury of the County of Anderson at the <date when="1864-07">july</date> term of the Circuit Court on an indictment for shooting and wounding young C Hagerman in the leg We believe that when Dayly fired the gun he had no intention whatever of shooting anyone ^or^ of doing any harm but only to scare some boys out of his lot That the injury was not serious -- nor will be permanent or lasting as the wound was slight That Dayly is a good and peaceable citizen -- disturbs no one but attends to his own affairs and is industrious -- has a wife and several small children -- has no property except some little household furniture that he depends entirely upon his daily labor for support He is unable to pay the fine and to deprive him of his liberty would be to throw his wife and children upon the community for support As an act of humanity we ask you to remit this fine and in doing so you will comply with the wishes of your fellow citizens</p>
+<p>Geo W Matthews<pb/></p>
+<p><milestone unit="column" n="2"/><cb n="1"/>I ask your clemency in this case.</p>
+<p> J. A. M<hi rend="sup">c</hi>Brayer -- 
+<lb/>&amp; J, A, Witherspoon
+<lb/>Leml Hammond
+<lb/>J Witherspoon
+<lb/><hi rend="underline">G B Taylor</hi>
+<lb/>A D <unclear>Gilpen</unclear>
+<lb/>C. R. Allen
+<lb/>W<hi rend="sup">m</hi> Walridge
+<lb/>Jas. M. Wash
+<lb/>Wm Neal
+<lb/><unclear>Labin juret</unclear>
+<lb/>M Walker
+<lb/>J S. Boswell
+<lb/>R M Kerchival
+<lb/>James M. Posey,
+<lb/>E. Lillard
+<lb/>J M Walker
+<lb/>R H Thomason
+<lb/>J C Bettersworth
+<lb/>J G. Hawkins
+<lb/><cb n="2"/>John Draffen
+<lb/>James Saffell
+<lb/>W F Bona
+<lb/>John Warren
+<lb/>J Bond
+<lb/>M. S. Bond
+<lb/>W H M<hi rend="sup">c</hi>Brayer
+<lb/>Allen S. M<hi rend="sup">c</hi>Kee
+<lb/>John, L, Lundin
+<lb/>William Houchens
+<lb/>R D Towles juror
+<lb/>A. Moore
+<lb/>C Mothershead
+<lb/>Willk <unclear/>
+<lb/>Leon Walker
+<lb/>Thomas Pitcher <hi rend="underline">Juror</hi>
+<lb/>W H Shipman
+<lb/>L H Penney
+<lb/>F M Bourne
+<lb/>James Ripey
+<lb/>R. H. Paxton<milestone unit="column" n="1"/></p>
+<p>Anderson Cir Ct
+<lb/>Entrd &amp; recorded
+<lb/><date when="1864-10-19">19<hi rend="sup">h</hi> Oct 1864</date>
+<lb/>E L V -- </p>
+<p><hi rend="underline">Remit</hi></p>
+  </body>
+ </text>
+</TEI>

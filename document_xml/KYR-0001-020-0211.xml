@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0211"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John D. Burns to James W. Tate</title>
+    <title level="a" type="parallel">CWG9679</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG17-168 to MG17-169</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Owingsville, Bath County, Kentucky</placeName>
+    <date when="1860-12-05">5 December 1860</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Owingsville Ky
+<lb/><date when="1860-12-05">Decr. 5<hi rend="sup">th</hi> 1860</date>
+<lb/>J. W. Tate Esq -- 
+<lb/>Dear Sir</p>
+<p>Accompanying this, you will find a -- petition of Chas. W. Henaker, &amp;c, of this County asking the favor of the Governor to remit, the same</p>
+<p>This is the petition of which I spoke to you <hi rend="str">of</hi> when I was last in your office: &amp; I fully endorse evry word embraced therein as being literally true.</p>
+<p>Please hand to the <hi rend="underline">Gov</hi>. &amp; ask him to <hi rend="underline">remit</hi>. the fines if he thinks he can do so Consistently<pb/></p>
+<p>His friends here will be perfectly satisfied for him to do so,</p>
+<p>I am for my people &amp; my peoples institutions</p>
+<p>Our rights in the Union if possible, if not. Our rights are here, under the Constitution, I dont want to surrender the present Constitution; nor do I want to give up the Federal Government, If we have to fight lets hang on to the <hi rend="underline">Army</hi> &amp; <hi rend="underline">Navy</hi> &amp; force the fugitve slave law nullifyers to <hi rend="underline">scorne</hi></p>
+<p>Truly Your
+<lb/>Friend
+<lb/>Jn<hi rend="sup">o</hi> D Burns</p>
+  </body>
+ </text>
+</TEI>

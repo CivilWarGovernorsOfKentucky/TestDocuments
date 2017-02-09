@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1662"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Will S. Pryor et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG11130</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Andrew P Patrick</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG22-327</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Henry County, Kentucky</placeName>
+    <date when="1862-02-24">24 February 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To the Governor of Kentucky</p>
+<p>The undersigned state that Reuben Hudson became the surety <hi rend="str">of</hi> ^with^ one David C Hull on a Bond conditioned for the apperance of William Hull, to answer an indictment for Felony vs him (Hull) in the Mason Circuit Court= The Bond was forfeited, and failing to make his appearance Hull is now a convict in the Penitentiary of this state. Reuben Hudson the security is a citizen of Henry County Ky and is an excellent young citizen has but little property and to pay the amt of the Bond would result in the sale &amp; sacrifice of his property -- an execution is now in the hands of the= Sheriff of Henry County for the amt viz $300 in favor of the Comwt<hi rend="sup">h</hi> of Ky with interest from <date when="1861-07-24">24<hi rend="sup">th</hi> July 1861</date> &amp; returnable <date when="1862-03-01">1<hi rend="sup">st</hi> March 1862</date> said execution is (Fifty No 2) we hope the Judgment may be remitted -- yours <date when="1862-02-24">24<hi rend="sup">t</hi> Feby 1862</date></p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Tho Rodman
+<lb/>W E Berryman
+<lb/>Robt B Gray 
+<lb/>Joseph Thomasson
+<lb/>David Fitzgerald
+<lb/>N, Smith
+<lb/><cb n="2"/><hi rend="underline">Will S. Pryor</hi>
+<lb/>Geo C. Drane
+<lb/>J W Brannin 
+<lb/>P W Bannan
+<lb/><hi rend="underline">Jno. C. Monfort</hi> P J H C C
+<lb/><hi rend="underline">John N. Oliver </hi>
+<lb/><unclear/> P. Thomas Clk H C C<pb/>
+<lb/><milestone unit="column" n="1"/>Thomas. Brown
+<lb/>William Smith
+<lb/>C. T. Chilton
+<lb/>J. P. Ellis
+<lb/>W<hi rend="sup">m</hi> A Perry
+<lb/>J. N. Caplinger 
+<lb/>Robert Cooper
+<lb/>Berry Ellis
+<lb/>Levin E. Goslel
+<lb/><hi rend="underline">J Calentine</hi>
+<lb/><hi rend="underline">W. P. Smith</hi>
+<lb/>M Murphey
+<lb/>S M Bruce
+<lb/>E, D, Robertson
+<lb/>W W Brown
+<lb/>Preston Slark
+<lb/>B. F. Cogle
+<lb/>D. L. Scott
+<lb/>John Roberts
+<lb/>E. H. Suddeth</p>
+<p>I had a letter in my possession from R. H. Stanton <hi rend="underline">Comm</hi> Atty. in which he expressed a desire that the fine Should &amp; also expressed the the opinion that it would be remitted. save an Atty<hi rend="underline"><hi rend="sup">s</hi></hi> fee &amp; cost<hi rend="sup">s</hi></p>
+<p><hi rend="underline">L D Owen</hi> S. H. C.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-031-0248"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">William Henry Bird, Oath </title>
+    <title level="a" type="parallel">CWG7988</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Appointments by the Governor, Civil Appointments, 1862-1863</collection>
+      <idno>R1-342 to R1-343</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Philadelphia, Philadelphia County, Pennsylvania</placeName>
+    <date when="1863-06-05">5 June 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>State of Pennsylvania
+<lb/>City and County of Philadelphia } SS.</p>
+<p>I, W<hi rend="sup">m</hi> Henry Bird, resident of Philadelphia in the State of Pennsylvania, duly appointed by the Governor of the Commonwealth of Kentucky a Commissioner of Deeds, under Chapter 70 of the Act of the General Assembly of said Commonwealth, entitled "An Act to adopt the Revised Statutes," approved <date when="1852-01-07">January 7<hi rend="sup">th</hi> 1852,</date> for the State of Kentucky, within the State of Pennsylvania, do solemnly affirm that I will well and faithfully Execute and perform all the duties of such Commission, under and by virtue of the laws of said Commonwealth of Kentucky. I have also hereunto attached a stamp impression of my official seal.</p>
+<p><hi rend="underline">W</hi><hi rend="underline"><hi rend="sup">m</hi></hi><hi rend="underline"> Henry Bird.</hi>
+<lb/><figure type="seal"><ab>W<hi rend="sup">M</hi> HENRY BIRD
+<lb/>COMMISSIONER
+<lb/>OF
+<lb/>DEEDS
+<lb/>PHILADELPHIA
+<lb/>PENNSYLVANIA</ab></figure></p>
+<p><figure type="seal"><ab>W V<unclear/> COMMISSIONER OF DEEDS
+<lb/>PHILADLEPHIA
+<lb/>PENNA.
+<lb/>Kentucky</ab></figure></p>
+<p>Affirmed and Subscribed before me this <date when="1863-06-05">fifth Day of June A. D. 1863.</date></p>
+<p>W<hi rend="sup">m</hi> V. Anker
+<lb/>Commissioner of Kentucky in Philadelphia Penna<pb/></p>
+<p>Pennsylvlania<figure type="hr"/>
+<lb/>Com<hi rend="underline"><hi rend="sup">r</hi></hi> of Deeds
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> H Bird
+<lb/>Oath
+<lb/>Filed <date when="1863-06-11">June 11. 1863</date></p>
+  </body>
+ </text>
+</TEI>

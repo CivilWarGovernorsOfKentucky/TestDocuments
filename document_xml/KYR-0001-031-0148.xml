@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-031-0148"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Joseph M. Davidson to Unknown </title>
+    <title level="a" type="parallel">CWG7888</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Appointments by the Governor, Civil Appointments, 1862-1863</collection>
+      <idno>R1-201</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>West Liberty, Morgan County, Kentucky</placeName>
+    <date when="1863-02-08">8 February 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>West Liberty Ky. <date when="1863-02-08">February 8. 1863.</date>
+<lb/>Dear Alex</p>
+<p>I Enclose you Certificate of Election Mr. James P. Harris U S Judge of Floyd County Courts You are aware that there has been no mail for some time from Floyd County to the Seat of Government, which has prevented Mr Harris from obtaining his Commission You will please obtain the Commission and bring it up to me when the Session closes if Mr D Shall have left Frankfort and the Secretary received this he will please enclose <hi rend="str">this</hi> ^the commission^ to Mr N P Reid at Owingsville Ky. who will send it to me</p>
+<p>Yours &amp;c
+<lb/>Joseph M. Davidson<pb/></p>
+<p>Floyd Co.<figure type="hr"/>
+<lb/>Ja<hi rend="underline"><hi rend="sup">s</hi></hi> P. Harris
+<lb/>Co. Judge
+<lb/>Iss<hi rend="sup">d</hi> <date when="1863-02-13">Feby 13. 1863</date></p>
+  </body>
+ </text>
+</TEI>

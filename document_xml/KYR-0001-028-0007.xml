@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-028-0007"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John W. Finnell to Daniel C. Wickliffe </title>
+    <title level="a" type="parallel">CWG7662</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Appointments by the Governor, Military Appointments, 1862-1863</collection>
+      <idno>R2-122</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1862-08-20">20 August 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><figure type="seal"><ab>UNITED WE STAND, DIVIDED WE FALL.
+<lb/>KENTUCKY.</ab></figure>
+<lb/>Head-Quarters Kentucky Volunteers,
+<lb/>ADJUTANT GENERAL'S OFFICE.
+<lb/>Frankfort, <date when="1862-08-20">August 20. 1862.</date>
+<lb/>Hon: D. C. Wickliffe
+<lb/>Sec: of State
+<lb/>Sir</p>
+<p>I have this day issued &amp; delivered the following Commissions viz:
+<lb/><table rend="rules">
+<row>
+	<cell>John M. Moore</cell>
+	<cell>Q. Mas.</cell>
+	<cell>date</cell>
+	<cell><date when="1862-06-17">June 17. 1862</date></cell>
+</row>
+<row>
+	<cell>Tho. Forman</cell>
+	<cell>1 Lieut:</cell>
+	<cell>"</cell>
+	<cell><date when="1862-07-01">July 1. 1862</date></cell>
+</row>
+<row>
+	<cell>Henry Cassen</cell>
+	<cell>2 "</cell>
+	<cell>"</cell>
+	<cell>" " "</cell>
+</row>
+<row>
+	<cell>Horatio B. M<hi rend="sup">c</hi>Corkhill</cell>
+	<cell>1 Lieut</cell>
+	<cell>"</cell>
+	<cell><date when="1862-05-24">May 24. "</date></cell>
+</row>
+<row>
+	<cell>David Jones</cell>
+	<cell>2 "</cell>
+	<cell>"</cell>
+	<cell><date when="1862-06-17">June 17. "</date></cell>
+</row>
+<row>
+	<cell>Christopher Leonard</cell>
+	<cell>1 "</cell>
+	<cell>"</cell>
+	<cell><date when="1862-06-10">" 10. "</date></cell>
+</row>
+<row>
+	<cell>John Leaf</cell>
+	<cell>2 "</cell>
+	<cell>"</cell>
+	<cell>" " "</cell>
+</row>
+<row>
+	<cell>Joseph E. Miller</cell>
+	<cell>1 "</cell>
+	<cell>"</cell>
+	<cell><date when="1862-05-25">May 25. "</date></cell>
+</row>
+<row>
+	<cell>James H. Baly</cell>
+	<cell>2 "</cell>
+	<cell>"</cell>
+	<cell>" " "</cell>
+</row>
+<row>
+	<cell>W<hi rend="sup">m</hi> H. Powell</cell>
+	<cell>Capt</cell>
+	<cell>"</cell>
+	<cell><date when="1862-07-06">July 6. "</date></cell>
+</row>
+<row>
+	<cell>Terrance F. Burns</cell>
+	<cell>2 "</cell>
+	<cell>"</cell>
+	<cell>" " "</cell>
+</row>
+<row>
+	<cell>John W. Huston</cell>
+	<cell>" "</cell>
+	<cell>"</cell>
+	<cell><date when="1862-05-17">May 17. "</date></cell>
+</row>
+<row>
+	<cell>John P. Hurley</cell>
+	<cell>1 "</cell>
+	<cell>"</cell>
+	<cell><date when="1862-05-24">" 24. "</date></cell>
+</row>
+</table><pb/>
+<lb/><table rend="rules">
+<row>
+	<cell>John D. Sheppard</cell>
+	<cell>2 Lieut:</cell>
+	<cell><date when="1862-05-09">May 9. 1862.</date></cell>
+</row>
+<row>
+	<cell>Jackson H. Jacobs</cell>
+	<cell>" -- </cell>
+	<cell><date when="1862-08-21">Aug 21. 1862.</date></cell>
+</row>
+</table></p>
+<p>Very Resply
+<lb/>John W. Finnell
+<lb/>Adj. Gen: Ky: Vols:</p>
+<p>Aug 20. 1862</p>
+  </body>
+ </text>
+</TEI>

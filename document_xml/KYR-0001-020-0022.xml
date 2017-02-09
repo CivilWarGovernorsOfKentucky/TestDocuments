@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0022"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">W. B. Parker to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG9490</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG17A-73</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Madisonville, Hopkins County, Kentucky</placeName>
+    <date when="1861-01-28">28 January 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Madisonville, <date when="1861-01-28">Jany 28<hi rend="sup">th</hi> 1861</date>
+<lb/>Governor B. Magoffin:</p>
+<p>Dear Sir -- Petitions signed by the best citizens of this &amp; Caldwell counties will be, if they have not already been presented to you, touching the fate of Thomas Wadlington of Caldwell county, who is sentenced to suffer for the extreme penalty of the law on the first Friday in Ma<hi rend="str">y</hi>rch next.</p>
+<p>The high regard which I entertain for his relatives living in this county, more than any acutal knowledge of the facts in the case, prompts me to ask of you that you will give its merits a favorable consideration. I am fully satisfied that public sentiment in this county would endorse most willingly a commutation, if not an absolute pardon of the offence.</p>
+<p>I have no personal acquaintance with the unfortunate man Wadlington, but I know many of his people both in this county &amp; in Caldwell &amp; I Know them to be among our very best citizens, &amp; on their behalf I therefore appeal to you clemency, -- hoping you may find that in this instance an extension of clemency will not conflict with the demand of Justice</p>
+<p>Truly your friend
+<lb/>W. B. Parker.</p>
+  </body>
+ </text>
+</TEI>

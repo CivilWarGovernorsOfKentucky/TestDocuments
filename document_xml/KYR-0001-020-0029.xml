@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-0029"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Joel Beckner et al. to Beriah Magoffin</title>
+    <title level="a" type="parallel">CWG9497</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Petitions for Pardons and Remissions, 1859-1862</collection>
+      <idno>MG17A-87 to MG17A-88</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Caldwell County, Kentucky</placeName>
+    <date when="1861-01-21">21 January 1861</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency Beriah Magoffin Gov of <hi rend="underline">Kentucky</hi></p>
+<p>We the undersigned citizens of Caldwell County Ky,, have long Known Tho<hi rend="underline"><hi rend="sup">s</hi></hi> B Wadlington &amp; he has Ever been considered a good &amp; True hearted citizen Known &amp; noted for his industry &amp; orderly conduct. The Difficulty in which he was engaged with Milton A Cartwright did not appear to us to be of his seeking nor are we satisfied that the case was presented to the Jurry as it really occurred, We hope yr excellency will review the case and give the poor man the benefit of Every Doubt and <hi rend="str">we</hi> desire, That his case may be judged in Mercy &amp; regarded with favor &amp; that yr Excelency will take into consideration Every circumstance that ought to opperate in his behalf And we desire that Yr Excellency may <hi rend="str">be</hi>&amp; will be persuaded that it is consistent with Yr duty to extend to him executive clemency<pb/>
+<lb/>&amp; that his life may be sparred, either by a full pardon or by a commutation of his punishment -- 
+<lb/><date when="1861-01-21">Jany 21<hi rend="sup">st</hi> 1861</date></p>
+<p>Yours respectfully
+<lb/><milestone unit="column" n="2"/><cb n="1"/>Joel Beckner
+<lb/>John F Morse
+<lb/>John R,, Morse
+<lb/>Thomas F,, Morse
+<lb/>Champ. T. Pannaday
+<lb/>W. H. Williamson
+<lb/>J B Kennaday
+<lb/>George M<hi rend="sup">c</hi>dowell j P c
+<lb/>T R Burchfield
+<lb/>Jessy Kearns Ogalene 80 yr ^s old^
+<lb/>Robet Toury junier
+<lb/>Thomas C white
+<lb/>Wm, G. Butler
+<lb/>William Jones
+<lb/>David Lowry
+<lb/>John mcCnell
+<lb/>Finis E. Lowry
+<lb/>T. C. Boyd
+<lb/>Reuben Cook
+<lb/>Milton B Cook
+<lb/>John. R. Boyd
+<lb/>Jacob James
+<lb/>Ephraim Miller
+<lb/><cb n="2"/>Joshua Carney
+<lb/>Daniel Carny
+<lb/>John W Towery
+<lb/>Finies E. Crider
+<lb/>George W Jones
+<lb/>Lorenzo wilson
+<lb/>Henry Brollets
+<lb/><unclear/> Cook
+<lb/>Josiah Cook
+<lb/>Z R Williamson
+<lb/>L W Jones
+<lb/>Jason Harnoch
+<lb/>E Strong
+<lb/>Mahlon Wadlington</p>
+<p>C. Beckner <hi rend="str">says</hi> of Caldwell Co Ky says that the Names above signd was by the consent of the above Namd Subscribers To the said Petition</p>
+<p><hi rend="str">J</hi>C. Beckner</p>
+<p>Sworn to before Me this <date when="1861-01-28">28<hi rend="sup">th</hi> Jany 1861</date>.</p>
+<p><hi rend="underline">W E Mitchersson D C</hi></p>
+  </body>
+ </text>
+</TEI>

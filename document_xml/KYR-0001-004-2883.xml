@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2883"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Levi Hoskins to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7520</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR17-191</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Harlan County, Kentucky</placeName>
+    <date when="1865-12-18">18 December 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Harlan County Kentucky
+<lb/><date when="1865-12-18">Dec 18<hi rend="sup">th</hi> 1865</date>
+<lb/>To His Excellency 
+<lb/>Tho<hi rend="sup">s</hi> E Bramlette Govenor</p>
+<p>Sir -- your Petitioner Levi Hoskins most respectfully states to your excellency that at the <date when="1865-09">September Term of the Knox circuit court 1865</date> he was fined in the Sum of Twenty Dollars for retailing spirits Your Petitioner States that he was fined for selling when there was no courts being held by cause of the rebellion &amp; that he did not wish to violate any law but happened to have Some whisky &amp; let Some go by the Smalls not thinking it was wrong -- your Petitioner further states that he is a cripple &amp; is very Poor having a large family to Support and that it would be very hard upon himself &amp; family to have the said fine to pay -- your Petitioner therefore most respectfully but earnestly askes your Excellency to remit the said fine</p>
+<p>Very Respectfully
+<lb/>Levi Hoskins
+<lb/>Cumberland Ford Ky</p>
+<p>We the undersigned citizens most respectfully ask your excellency to remit the said fine</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Names
+<lb/>James Culton
+<lb/>Jno W Culton
+<lb/>Thomas M. Lock
+<lb/>John A,, Ward
+<lb/>Alexander Lock
+<lb/>Isaac ,S, Horn
+<lb/>C. E. Hurst
+<lb/>John T. Horn
+<lb/>H. L. Ward
+<lb/>John. R. Rice
+<lb/>James. R. Elliott
+<lb/>Elmore Hampton
+<lb/>A C Hayse
+<lb/>John Elliott
+<lb/>A. S. Haskell
+<lb/>R Hayse
+<lb/>William Hays
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> virmilloun
+<lb/>T. S. Ward
+<lb/>Wm Bingham
+<lb/>Moses Dorton
+<lb/><cb n="2"/>Names
+<lb/>Edward North
+<lb/>Moses Hutchins
+<lb/>Wm F M Wilson
+<lb/>Wm Hendrickson
+<lb/>John Hendrickson
+<lb/>Jefferson Miller
+<lb/>Joseph Baker
+<lb/>John Baker
+<lb/>Harden Goodwin
+<lb/>Wm S <unclear>Lefevers</unclear>
+<lb/>Nelson Durham
+<lb/>Israel Woollum
+<lb/>Ja J CamBull<pb/></p>
+<p><milestone unit="column" n="1"/>Knox Cir Ct
+<lb/>vs
+<lb/>Levi Hoskins
+<lb/>$20,
+<lb/>Tipling
+<lb/>Remitted
+<lb/><date when="1865-01-05">5<hi rend="sup">th</hi> Jany/65</date></p>
+  </body>
+ </text>
+</TEI>

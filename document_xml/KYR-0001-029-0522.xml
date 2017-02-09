@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0522"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">L. Bamberger to James F. Robinson</title>
+    <title level="a" type="parallel">CWG8974</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Leppman</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, James F. Robinson: Governor's Official Correspondence File, Petitions for Pardons, Remissions, and Respites, 1862-1863</collection>
+      <idno>R4-329 to R4-330</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>We the undersigned Citizens of the City of Louisville, State of Kentucky would most respectfully unite with Moses &amp; Fanny Block in their petition to your Excellency to remit their fine imposed <date when="1863-07-06">July 6<hi rend="underline"><hi rend="sup">th</hi></hi> 1863</date>; and would further state that the exercise of executive clemency towards them would be, as we believe proper and right.</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>L. Bamberger
+<lb/><hi rend="underline">W</hi><hi rend="underline"><hi rend="sup">m</hi></hi><hi rend="underline"> Kniephaber</hi>
+<lb/>M. Bach
+<lb/>Saml Lieberman
+<lb/><hi rend="underline">S. G. Henry &amp; C</hi><hi rend="underline"><hi rend="sup">o</hi></hi><hi rend="underline">
+<lb/>T Anderson &amp; Co
+<lb/>James L. Phelps
+<lb/><cb n="2"/>W</hi><hi rend="underline"><hi rend="sup">m</hi></hi> Mix
+<lb/>L. Kahn
+<lb/>S. Ullman
+<lb/>H. Keisker
+<lb/>B. Hess
+<lb/>M H Richardson
+<lb/>Alex Owens</p>
+<p><milestone unit="column" n="1"/>I have known Mr. M. Block for Eleven years, and during all that time he has born the reputation of a peace-loving, charitable gentleman. For a number of years he held offices of trust and honor in my Congregation, and has discharged them to his credit. Being <hi rend="str">his</hi>, as I confidently believe, his first error, I add willilngly my name to aid the petitioners.</p>
+<p><milestone unit="column" n="2"/><cb n="1"/><hi rend="underline">Hughes P Pankhill</hi>
+<lb/>T R Levin &amp; Comie
+<lb/>J P Buckner.
+<lb/>Prather, &amp;, Smith
+<lb/><cb n="2"/>B. H. Gotthelf
+<lb/>Minister of the Jew. Congreg.
+<lb/><hi rend="underline">Nathan Bloom</hi>
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Skene
+<lb/>Edw<hi rend="sup">d</hi> Fuller
+<lb/>John Christopher<pb/>
+<lb/><milestone unit="column" n="1"/>F. H. Hegan
+<lb/><unclear>Owen</unclear> <hi rend="underline">Barkhouse &amp; Co</hi>
+<lb/>L D, C, Hopkins
+<lb/><hi rend="underline">Hart &amp; Co</hi>
+<lb/>Ivan Borries &amp; C<hi rend="sup">o</hi>
+<lb/>Jno Colemann<pb/></p>
+<p>Louisville City Ct</p>
+<p>The fine of Fifty dollars agst Fanny Block is remitted. One half of the fine against her husband is remitted</p>
+<p><hi rend="underline">J F Robinson</hi>
+<lb/>$100
+<lb/>$50 } Assault
+<lb/>Iss <date when="1863-08-05">Aug 5. 1863</date></p>
+  </body>
+ </text>
+</TEI>

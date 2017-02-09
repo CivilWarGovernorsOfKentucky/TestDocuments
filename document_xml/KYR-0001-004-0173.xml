@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0173"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Commonwealth of Kentucky v. John Riley and James Russell, Verdict</title>
+    <title level="a" type="parallel">CWG4292</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR8-280</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Jefferson County, Kentucky</placeName>
+    <date when="1863-11-07">7 November 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Legal/Financial</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>State of Kentucky
+<lb/>Jefferson Circuit Court
+<lb/><date when="1863-10">October Term 1863</date>
+<lb/><date when="1863-10-26">October 26 1863</date></p>
+<p>The Commonwealth Plff
+<lb/>versus } Indict felony
+<lb/>Jno Riley, James Russell Deft</p>
+<p>We of the jury find the prisoner Jno Riley guilty as charged in the within indictment and say he shall be confined in the jail and penetentiary house of this Commonwealth two years and six months And we also find the prisoner James Russell guilty and say he shall be confined in the penitentiary of this Commonwealth One year and we recommend said Russell to Executive Clemency</p>
+<p>J. A. Gilliss "Foreman"</p>
+<p><hi rend="str">and thereupon the</hi>
+<lb/>A Copy Att
+<lb/>Jas P Chambers c</p>
+<p>To His Excellency,
+<lb/>Thomas E. Bramlette,
+<lb/>Governor of Kentucky:</p>
+<p>I concur, with the Jury, in recommending the above named James Russell to Your Excellency's clemency.</p>
+<p>P. B. Muir</p>
+<p>Louisville, Ky.
+<lb/><date when="1863-11-07">Nov. 7. 1863</date></p>
+  </body>
+ </text>
+</TEI>

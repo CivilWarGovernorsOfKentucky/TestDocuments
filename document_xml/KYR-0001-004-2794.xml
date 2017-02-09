@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2794"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">J. R. Dupuy to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7431</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR17-59</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date when="1865-12-12">12 December 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Louisville Ky <date when="1865-12-12">Dec 12. 1865</date>
+<lb/>Gov. Bramlette</p>
+<p>Some time Since J D Skinner James M<hi rend="sup">c</hi>Nutt and Charles Foster of Bullitt Co became bail for one John Ayers -- Ayers having gone into the army as a substitute for M<hi rend="sup">c</hi>Nutt. forfeited at the next term and at our last May term I took Judgement against the three men from Bullitt, for the amount of the bond, four hundred Dollars ($400). Neither M<hi rend="sup">c</hi>Nutt nor Skinner are worth that amount, and if that amount is made out of the little estate of Foster it would take about one half of his estate It is a great hardship on Foster whose property has been levied on &amp; who has received nothing f<hi rend="str">rom</hi>or his going on said bond but the gratification of seeing M<hi rend="sup">c</hi>Nutt remain at home <hi rend="underline">out</hi> of <hi rend="underline">the</hi> <hi rend="underline">army</hi> to assist in the support of his wife and children. Your excellency will pardon me for saying that I believe that this Case a far more meritorious one than many other appli-<pb/>
+<lb/>cants for executive Clemency and will be appreciated by Foster &amp; I trust you will do him the great Kindness to relieve him -- but for Gods sake don't remit <hi rend="underline">so many</hi></p>
+<p>Resptfly J R Dupuy</p>
+<p>Bullitt Cir Ct
+<lb/>vs
+<lb/>Charles Foster &amp; others
+<lb/>$400.
+<lb/>Remitted
+<lb/><hi rend="str">vs <unclear/></hi> <hi rend="str">Foster</hi>
+<lb/><date when="1865-12-14">14 Dec/65</date></p>
+  </body>
+ </text>
+</TEI>

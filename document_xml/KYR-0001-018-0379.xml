@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-018-0379"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">John W. Finnell to Nathaniel Gaither, Jr.</title>
+    <title level="a" type="parallel">CWG8445</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Beriah Magoffin: Governor's Official Correspondence File, Military Appointments, 1859-1862</collection>
+      <idno>MG6-494</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <date when="1862-07-21">21 July 1862</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><figure type="seal"><ab>UNITED WE STAND, DIVIDED WE FALL.
+<lb/>KENTUCKY.</ab></figure>
+<lb/>Head-Quarters Kentucky Volunteer Militia,
+<lb/>ADJUTANT GENERAL'S OFFICE,
+<lb/>Frankfort, <date when="1862-07-21">July 21st 1862</date>.</p>
+<p>Hon: Nat: Gaither Jr
+<lb/>Sec: State
+<lb/>Sir</p>
+<p>The following resignations have been reported viz:
+<lb/><table rend="rules">
+<row>
+	<cell>Lieut:</cell>
+	<cell>J. C. Winfrey-</cell>
+	<cell>date</cell>
+	<cell>Com.</cell>
+	<cell><date when="1861-12-05">5</date></cell>
+	<cell>Nov</cell>
+	<cell>'61</cell>
+</row>
+<row>
+	<cell>Lieut: Col<hi rend="sup">o</hi></cell>
+	<cell>T. B. Cochran</cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell><date when="1861-09-27">27</date></cell>
+	<cell>Sep</cell>
+	<cell>'61</cell>
+</row>
+<row>
+	<cell>Lieut:</cell>
+	<cell>R. W. Allen Q. Mas.</cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell><date when="1862-01-01">1</date></cell>
+	<cell>Jan</cell>
+	<cell>'62</cell>
+</row>
+<row>
+	<cell>Lieut:</cell>
+	<cell>Ben Childs</cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell><date when="1862-05-10">10</date></cell>
+	<cell>May</cell>
+	<cell>'62</cell>
+</row>
+<row>
+	<cell>Lieut:</cell>
+	<cell>Frank Miller</cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell><date when="1862-01-25">25</date></cell>
+	<cell>Jan</cell>
+	<cell>'62</cell>
+</row>
+<row>
+	<cell>Capt:</cell>
+	<cell>I. E. Vansant</cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell><date when="1861-09-09">9</date></cell>
+	<cell>Sep:</cell>
+	<cell>'61</cell>
+</row>
+<row>
+	<cell>Lieut:</cell>
+	<cell>George Taylor</cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell><date when="1862-02-06">6</date></cell>
+	<cell>Feb</cell>
+	<cell>'62</cell>
+</row>
+<row>
+	<cell>Capt:</cell>
+	<cell>A. S. Chenowith</cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell><date when="1861-11-11">11</date></cell>
+	<cell>Nov</cell>
+	<cell>'61</cell>
+</row>
+<row>
+	<cell>Capt:</cell>
+	<cell>John C. Bolin</cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell><date when="1861-10-08">8</date></cell>
+	<cell>Oct</cell>
+	<cell>'61</cell>
+</row>
+<row>
+	<cell>Ass<hi rend="sup">t</hi> Surg:</cell>
+	<cell>P. W. Logan</cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell><date when="1861-12-13">13</date></cell>
+	<cell>Dec</cell>
+	<cell>'61</cell>
+</row>
+<row>
+	<cell>Lieut:</cell>
+	<cell>Sam Corning</cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell><date when="1861-11-05">5</date></cell>
+	<cell>Nov.</cell>
+	<cell>'61</cell>
+</row>
+<row>
+	<cell>Col<hi rend="sup">o</hi></cell>
+	<cell>T. E. Bramlette</cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell><date when="1861-08-16">16</date></cell>
+	<cell>Aug</cell>
+	<cell>'61</cell>
+</row>
+<row>
+	<cell>Lieut: </cell>
+	<cell>Andrew J. Pipkin</cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell><date when="1862-03-20">20</date></cell>
+	<cell>Mar</cell>
+	<cell>'62</cell>
+</row>
+<row>
+	<cell>Lieut: </cell>
+	<cell>Geo. W. Baker</cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell><date when="1861-12-30">30</date></cell>
+	<cell>Dec</cell>
+	<cell>'6<hi rend="str">2</hi>1</cell>
+</row>
+<row>
+	<cell>Lieut:</cell>
+	<cell>A. G. Sloo</cell>
+	<cell>"</cell>
+	<cell>"</cell>
+	<cell><date when="1862-02-12">12</date></cell>
+	<cell>feb</cell>
+	<cell>'62</cell>
+</row>
+</table></p>
+<p>All of which is reported<pb/>
+<lb/>for record</p>
+<p>Very Resp<hi rend="sup">ly</hi>
+<lb/>Thos. Page for John W. Finnell
+<lb/>Adj<hi rend="sup">t</hi> Gen<hi rend="sup">l</hi></p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-3144"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">W. A. Chesnut et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG5263</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR41-331 to BR41-332</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Todd County, Kentucky</placeName>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To His Excellency
+<lb/>Thos. E. Bramlett
+<lb/>Gov<hi rend="underline"><hi rend="sup">r</hi></hi> of Kentucky</p>
+<p>We the Grand Jurors, at the <date when="--04">last April term</date> of the Todd Circuit Court found a bill for manslaughter agaisnt one J D Cumbee. This bill was pressed through by the influence of the Commonwealths Attorney (E. P. Campbell) during the absence of material witnesses for the defense we are now satisfied that the finding of said bill was Erroneous and feel it our duty to petition and pray your honor to pardon and release the said J. D Cumbee from all farther proceedings on said Indictment</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>W A Chesnut grand Juror
+<lb/>G. W. Hooser a Grand Juror
+<lb/>C A Bailey Juror
+<lb/>W<hi rend="sup">m</hi> T.. Lamb Juror
+<lb/>J J. Adams Grand Juror
+<lb/><cb n="2"/>A J Dowdy Forman grand Jury
+<lb/>A B Marion grand Jury
+<lb/>Benjamin Breis Grand Juror
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Perkins grand Juror
+<lb/>N. W. Stinnett grand juror
+<lb/>Joseph Russel G juror</p>
+  </body>
+ </text>
+</TEI>

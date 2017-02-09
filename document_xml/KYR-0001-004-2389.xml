@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-2389"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">W. H. Roper et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG7026</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR15-314 to BR15-315</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <date>n.d.</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>To
+<lb/>His Excellency Tho<hi rend="underline"><hi rend="sup">s</hi></hi> E. Bramlette
+<lb/>Governor of State of Kentucky.</p>
+<p>Your petitioners would most respectfully represent to your Excellency that at the <date when="1865-09">September Term 1865</date> of the Fulton Circuit Court one of our citizens John W. Cole. charged with a Breach of the Peace in quarreling with and abusing one R. E. Finch, was found guilty by the Jury and fined the sum of Two Hundred &amp; Twenty five Dollars -- ($225.<hi rend="sup">00</hi>)</p>
+<p>Now your petitioners would represent that Mr John W. Cole is a good and peacable citizen of the County that he is a poor man, with a family dependant upon his daily labor for a support; that immediately after the difficulty with s<hi rend="sup">d</hi> R. E. Finch, which was nothing more than a "Christmas Frolic" said Cole and Finch were on friendly terms, and s<hi rend="sup">d</hi> R. E. Finch voluntarily offered to pay the Physician<hi rend="sup">s</hi> Bill for dressing the wound of s<hi rend="sup">d</hi> J. W. Cole and the parties were then and are now on terms of friendship; that it would be a great hardship on said Cole, being a poor man, and wholly dependant upon his daily labor for the maintenance of himself and family to pay this fine, and your petitioners would therefore most respectfully appeal to your Executive clemency.<pb/>
+<lb/>to relieve Mr Cole by a remission of his fine, which would, in our humble judgment be just and equitable, and would at the same time vindicate the majesty of the law, as your petitioners will every pray &amp;c</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Members of The Bar
+<lb/>W, H, Roper constable
+<lb/>R E Millet
+<lb/>G, W, Stubblefield Member City Council
+<lb/>J Kirkpatrick
+<lb/>member of coucil
+<lb/>J D Cheatham mayor of city Hickman
+<lb/>W Hicks foreman of Jury
+<lb/><cb n="2"/>John A. Lauderdale
+<lb/>H A Tyler
+<lb/>C. L. Randle
+<lb/>Charles P. Buck
+<lb/>B, R, Walker
+<lb/>W R Bradley
+<lb/>Jo M. Bigger
+<lb/>Joe Routhac
+<lb/>E J Bullock
+<lb/>Ed, Crossland
+<lb/>Jno A Wilson Clk F Co C
+<lb/>N A Brevard clk. F. Cir C
+<lb/>Sam<hi rend="underline"><hi rend="sup">l</hi></hi> Landrum Judge Fulton Co Court
+<lb/>G, M, <unclear>Wilner</unclear> ^main^ Witness of Commonwealth in the case
+<lb/>W. R. Walker
+<lb/>M Annberg
+<lb/>J, S, Hubbard
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Heron
+<lb/><unclear/> <unclear/>
+<lb/><unclear/> <unclear/>
+<lb/>C. S drudge
+<lb/>C J Coker
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi>. S. Herington
+<lb/>Isaac Winston
+<lb/>J B Rose member city council</p>
+<p><milestone unit="column" n="1"/>Owing to not starting this in time failed to get signature of Judge &amp; prostg Atty both of whom favorably comended it.</p>
+  </body>
+ </text>
+</TEI>

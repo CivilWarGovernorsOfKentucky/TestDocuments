@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-022-0088"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">Thomas McKinster to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG12012</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department of Military Affairs</repository>
+      <collection>37th - 76th Regiments Enrolled Militia Primary Source Documents (1861-1866)</collection>
+      <idno>Box 81, Folder 68th Regiment 1862-1865 Officers' Commissions</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisa, Lawrence County, Kentucky</placeName>
+    <date when="1865-08-20">20 August 1865</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Correspondence</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><date when="1865-08-20">August 20 1865</date>
+<lb/>Louisa Kentucky
+<lb/>Tho<hi rend="sup">s</hi> E Bramlett
+<lb/>Gov of Ky }
+<lb/>Frankfort
+<lb/>Honored Sir</p>
+<p>According to a Resolution of the Past past Ledgislature of Ky. To pay the counties of Lawrence &amp; Boyd for 35 days service under a call from you that we was not paid for. If so, you will confer a favor upon us_ by sending a Paymaster &amp; Mustering officers at once, or, let us send our PayMaster out to Frankfort and get pay Rolls &amp; Mustering Rolls. An answer to the above would relieve me of much annoyance. I wrote to the Insp.. Gen<hi rend="sup">l</hi> of Ky.. (M<hi rend="sup">r</hi> Hays) and he has Intreated our inquires with silent contempt so far.</p>
+<p>I trust I have the honor to remain your humble servant</p>
+<p>Tho<hi rend="sup">s</hi> M Kinster Ex.. Col.. 68. Regt E. M.<pb/></p>
+<p>68 E. M.
+<lb/>Louisa Ky
+<lb/><date when="1865-08-20">Aug 20 1865</date><figure type="hr"/>
+<lb/>Field &amp; Staff
+<lb/>M<hi rend="sup">c</hi>Kinster Thomas
+<lb/>Ex Col 68 Regt E. M.<figure type="hr"/>
+<lb/>To the Gov<figure type="hr"/></p>
+<p>Desires information in regard to the act passed by the Legislature for the benefit of the E. M. of the Counties of Lawrence &amp; Boyd, says send pay master &amp; Mustering officer at once, or let us send our pay master to Frankfort &amp; get the pay rolls &amp; mustering rolls Has written to Insp Gen, Hays but he treated our inquires with silent contempt<figure type="hr"/></p>
+<p>Recd A G O <date when="1865-08-28">Aug 28 1865</date></p>
+  </body>
+ </text>
+</TEI>
