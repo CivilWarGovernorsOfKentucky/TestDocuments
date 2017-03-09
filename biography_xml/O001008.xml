@@ -10,6 +10,8 @@
             <particDesc>
                 <org xml:id="O001008">
                     <orgName>Hanover College</orgName>
+                      <event type="begun" when="1899-01-01">Begun </event>
+                      <event type="begun" when="1945-09-08"></devent>
 
                 </org>
             </particDesc>
@@ -20,5 +22,8 @@
         <p>Founded by so-and-so in 1845</p>
 
     </body>
+    <back>
+        <ab><bibl></bibl></ab>
+    </back>
 </text>
 </TEI>
