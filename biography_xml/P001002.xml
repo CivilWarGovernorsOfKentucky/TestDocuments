@@ -6,19 +6,7 @@
         <title level="a" type="main">Lexington, Kentucky</title>
           <respStmt>
                 <resp n="created">Created by:</resp>
-              <name>benwbrum@gmail.com</name>
-            </respStmt>
-          <respStmt>
-                <resp n="created">Created by:</resp>
-              <name>benwbrum@gmail.com</name>
-            </respStmt>
-          <respStmt>
-                <resp n="created">Created by:</resp>
-              <name>benwbrum@gmail.com</name>
-            </respStmt>
-          <respStmt>
-                <resp n="created">Created by:</resp>
-              <name>benwbrum@gmail.com</name>
+              <name>saracarl@gmail.com</name>
             </respStmt>
     </titleStmt>
     <publicationStmt>
@@ -55,20 +43,8 @@
     </teiHeader>
     <text>
     <body>
-        <p>this is a paragraph</p>
-
-<p>this is another paragraph</p>
-
-<p>woo hoo!</p>
-
-<p>Lexington is great.</p>
+        <p>The place that I was born and raised.</p>
 
     </body>
-    <back>
-        <ab><bibl><p>bib paragraph</p>
-
-<p>second bib para</p>
-</bibl></ab>
-    </back>
 </text>
 </TEI>
