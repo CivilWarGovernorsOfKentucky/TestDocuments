@@ -8,6 +8,10 @@
                 <resp n="created">Created by:</resp>
               <name>saracarl@gmail.com</name>
             </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>saracarl@gmail.com</name>
+            </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -43,8 +47,11 @@
     </teiHeader>
     <text>
     <body>
-        <p>The place that I was born and raised.</p>
+        <p>The place that I was born and raised.  This is an update.</p>
 
     </body>
+    <back>
+        <ab><bibl></bibl></ab>
+    </back>
 </text>
 </TEI>
