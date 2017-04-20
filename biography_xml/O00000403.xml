@@ -5,15 +5,19 @@
     <titleStmt>
         <title level="a" type="main">Franklin Circuit Court</title>
           <respStmt>
-                <resp n="created">Created by:</resp>
+                <resp n="edited">Edited by:</resp>
               <name></name>
             </respStmt>
           <respStmt>
-                <resp n="created">Created by:</resp>
+                <resp n="edited">Edited by:</resp>
               <name></name>
             </respStmt>
           <respStmt>
-                <resp n="created">Created by:</resp>
+                <resp n="edited">Edited by:</resp>
+              <name></name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
               <name></name>
             </respStmt>
           <respStmt>
@@ -60,7 +64,10 @@
 
     </body>
     <back>
-        <ab><bibl></bibl></ab>
+        <ab><bibl><p>Line 1</p>
+
+<p>Line 2</p>
+</bibl></ab>
     </back>
 </text>
 </TEI>
