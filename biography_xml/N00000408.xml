@@ -16,6 +16,7 @@
                       <birth when=""></birth>
                       <death when=""></death>
                         <trait type="race" subtype="#{race_description.race_description}"/>
+                        <trait type="race" subtype="#{race_description.race_description}"/>
                 </person> 
         </particDesc>    
         </profileDesc>
