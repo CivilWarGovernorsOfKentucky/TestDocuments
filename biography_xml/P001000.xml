@@ -6,6 +6,14 @@
         <title level="a" type="main">Hartford, Kentucky</title>
           <respStmt>
                 <resp n="edited">Edited by:</resp>
+              <name>Patrick A. Lewis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Patrick A. Lewis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
               <name>Hannah M. O&#39;Daniel</name>
             </respStmt>
           <respStmt>
@@ -812,7 +820,7 @@
                 <place xml:id="cwgk:P001000">
                     <placeName>
                         <location>
-                              <geo>37.4512 86.9092</geo>
+                              <geo>37.4512 -86.9092</geo>
                             <settlement>Hartford, Kentucky</settlement>
                         </location>
                     </placeName>
@@ -822,7 +830,7 @@
     </teiHeader>
     <text>
     <body>
-        <p>Seat of Ohio County. </p>
+        <p>Seat of Ohio County, Kentucky.</p>
 
     </body>
     <back>
