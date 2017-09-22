@@ -3,14 +3,18 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Lexington, Kentucky</title>
+        <title level="a" type="main">Lexington, Fayette County, Kentucky</title>
           <respStmt>
-                <resp n="created">Created by:</resp>
-              <name>saracarl@gmail.com</name>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
             </respStmt>
           <respStmt>
-                <resp n="created">Created by:</resp>
-              <name>saracarl@gmail.com</name>
+                <resp n="edited">Edited by:</resp>
+              <name>Patrick A. Lewis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Hannah M. O&#39;Daniel</name>
             </respStmt>
     </titleStmt>
     <publicationStmt>
@@ -28,6 +32,12 @@
     <sourceDesc><ab>Born Digital</ab></sourceDesc>
 </fileDesc>
 
+        <encodingDesc>
+            <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+                <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
         <profileDesc>
             <textClass>
                 <keywords>
@@ -35,10 +45,11 @@
                 </keywords>
             </textClass>
             <particDesc>
-                <place xml:id="P001002">
+                <place xml:id="cwgk:P001002">
                     <placeName>
                         <location>
-                            <settlement>Lexington, Kentucky</settlement>
+                              <geo>38.047989 -84.50164</geo>
+                            <settlement>Lexington, Fayette County, Kentucky</settlement>
                         </location>
                     </placeName>
                 </place> 
@@ -47,11 +58,12 @@
     </teiHeader>
     <text>
     <body>
-        <p>The place that I was born and raised.  This is an update.</p>
+        <p>Seat of Fayette County, Kentucky.</p>
 
     </body>
     <back>
-        <ab><bibl></bibl></ab>
+        <ab><bibl><p>John D. Wright, &quot;Lexington (City),&quot; in <em>The Kentucky Encyclopedia</em>, John E. Kleber, ed. (Lexington: University Press of Kentucky, 1992), 549-51.</p>
+</bibl></ab>
     </back>
 </text>
 </TEI>
