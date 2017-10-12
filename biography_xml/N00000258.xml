@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="N001000">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="N00000258">
     <teiHeader>
       <fileDesc>
     <titleStmt>
@@ -45,14 +45,14 @@
             </keywords>
         </textClass>
         <particDesc>
-                <person xml:id="cwgk:N00000258">
+                <person xml:id="N00000258">
                     <persName>
                       Beriah Magoffin
                         (governor)
                     </persName>
                       <birth when="1815-04-18"></birth>
                       <death when="1885-02-28"></death>
-                      <trait type="gender" subtype="M">
+                      <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
