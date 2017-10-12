@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="N001000">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="N00000352">
     <teiHeader>
       <fileDesc>
     <titleStmt>
@@ -41,14 +41,14 @@
             </keywords>
         </textClass>
         <particDesc>
-                <person xml:id="cwgk:N00000352">
+                <person xml:id="N00000352">
                     <persName>
                       Thomas Antle
                         (Henry Co. farmer)
                     </persName>
                       <birth when="c1817"></birth>
                         <trait type="race" subtype="White"/>
-                      <trait type="gender" subtype="M">
+                      <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
