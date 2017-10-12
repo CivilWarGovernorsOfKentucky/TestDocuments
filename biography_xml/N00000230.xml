@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="N001000">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="N00000230">
     <teiHeader>
       <fileDesc>
     <titleStmt>
@@ -53,7 +53,7 @@
             </keywords>
         </textClass>
         <particDesc>
-                <person xml:id="cwgk:N00000230">
+                <person xml:id="N00000230">
                     <persName>
                       Harry Innes Todd
                         (Frankfort, Kentucky, merchant and penitentiary keeper)
@@ -61,7 +61,7 @@
                       <birth when="c1818"></birth>
                       <death when="1891-05"></death>
                         <trait type="race" subtype="White"/>
-                      <trait type="gender" subtype="M">
+                      <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
