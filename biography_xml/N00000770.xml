@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="N001000">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="N00000770">
     <teiHeader>
       <fileDesc>
     <titleStmt>
@@ -49,14 +49,14 @@
             </keywords>
         </textClass>
         <particDesc>
-                <person xml:id="cwgk:N00000770">
+                <person xml:id="N00000770">
                     <persName>
                       William C. Wood
                         (Louisville attorney)
                     </persName>
                       <birth when="c1831"></birth>
                         <trait type="race" subtype="White"/>
-                      <trait type="gender" subtype="M">
+                      <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
