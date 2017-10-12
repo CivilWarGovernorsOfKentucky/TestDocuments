@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="N001000">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="N002031">
     <teiHeader>
       <fileDesc>
     <titleStmt>
@@ -41,7 +41,7 @@
             </keywords>
         </textClass>
         <particDesc>
-                <person xml:id="cwgk:N002031">
+                <person xml:id="N002031">
                     <persName>
                       Alexander C. Cross
                         (Louisville, Kentucky)
@@ -49,7 +49,7 @@
                       <birth when="c1831"></birth>
                       <death when="1866-05-19"></death>
                         <trait type="race" subtype="White"/>
-                      <trait type="gender" subtype="M">
+                      <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
