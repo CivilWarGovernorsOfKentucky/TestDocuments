@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="N001000">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="N002021">
     <teiHeader>
       <fileDesc>
     <titleStmt>
@@ -45,7 +45,7 @@
             </keywords>
         </textClass>
         <particDesc>
-                <person xml:id="cwgk:N002021">
+                <person xml:id="N002021">
                     <persName>
                       Robert Henry Snyder
                         (Jeff Co. Glassworks owner (Krack, Stanger, &amp; CO))
@@ -53,7 +53,7 @@
                       <birth when="1822-04-09"></birth>
                       <death when="1898-10-29"></death>
                         <trait type="race" subtype="White"/>
-                      <trait type="gender" subtype="M">
+                      <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
