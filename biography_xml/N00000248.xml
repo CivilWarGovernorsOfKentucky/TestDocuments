@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="N001000">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="N00000248">
     <teiHeader>
       <fileDesc>
     <titleStmt>
@@ -41,14 +41,14 @@
             </keywords>
         </textClass>
         <particDesc>
-                <person xml:id="cwgk:N00000248">
+                <person xml:id="N00000248">
                     <persName>
                       Robert C. Harris
                         ()
                     </persName>
                       <birth when="1816-10-20"></birth>
                       <death when="1889-01-06"></death>
-                      <trait type="gender" subtype="M">
+                      <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
