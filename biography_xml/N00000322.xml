@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="N001000">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="N00000322">
     <teiHeader>
       <fileDesc>
     <titleStmt>
@@ -41,7 +41,7 @@
             </keywords>
         </textClass>
         <particDesc>
-                <person xml:id="cwgk:N00000322">
+                <person xml:id="N00000322">
                     <persName>
                       John N. Bass
                         (Christian County)
@@ -49,7 +49,7 @@
                       <birth when="1826-09-17"></birth>
                       <death when="1864-05-12"></death>
                         <trait type="race" subtype="White"/>
-                      <trait type="gender" subtype="M">
+                      <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
