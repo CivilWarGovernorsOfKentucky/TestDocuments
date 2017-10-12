@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="N001000">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="N002002">
     <teiHeader>
       <fileDesc>
     <titleStmt>
@@ -57,7 +57,7 @@
             </keywords>
         </textClass>
         <particDesc>
-                <person xml:id="cwgk:N002002">
+                <person xml:id="N002002">
                     <persName>
                       James Robert Dupuy
                         (Commonwealth&#39;s Atty Louisville (7th) district)
@@ -65,7 +65,7 @@
                       <birth when="1831-08-04"></birth>
                       <death when="1912-05-17"></death>
                         <trait type="race" subtype="White"/>
-                      <trait type="gender" subtype="M">
+                      <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
