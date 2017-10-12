@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="N001000">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="N00000531">
     <teiHeader>
       <fileDesc>
     <titleStmt>
@@ -57,7 +57,7 @@
             </keywords>
         </textClass>
         <particDesc>
-                <person xml:id="cwgk:N00000531">
+                <person xml:id="N00000531">
                     <persName>
                       John S. Hollingshead
                         (Washington D.C. Commissioner of Deeds)
@@ -65,7 +65,7 @@
                       <birth when="1814-02-14"></birth>
                       <death when="1869-07-30"></death>
                         <trait type="race" subtype="White"/>
-                      <trait type="gender" subtype="M">
+                      <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
