@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="N001000">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="N00000260">
     <teiHeader>
       <fileDesc>
     <titleStmt>
@@ -37,14 +37,14 @@
             </keywords>
         </textClass>
         <particDesc>
-                <person xml:id="cwgk:N00000260">
+                <person xml:id="N00000260">
                     <persName>
                       James S. Wallace
                         (Asst. Ed Lou Journal)
                     </persName>
                       <birth when="1805"></birth>
                       <death when="1865-02"></death>
-                      <trait type="gender" subtype="M">
+                      <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
