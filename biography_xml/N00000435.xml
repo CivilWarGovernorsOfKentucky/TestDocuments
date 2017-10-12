@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="N001000">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="N00000435">
     <teiHeader>
       <fileDesc>
     <titleStmt>
@@ -41,7 +41,7 @@
             </keywords>
         </textClass>
         <particDesc>
-                <person xml:id="cwgk:N00000435">
+                <person xml:id="N00000435">
                     <persName>
                       Sarah Ann Hord Myers
                         (Christian County, Kentucky, farmer)
@@ -49,7 +49,7 @@
                       <birth when="1807-03-23"></birth>
                       <death when="1873-12-29"></death>
                         <trait type="race" subtype="White"/>
-                      <trait type="gender" subtype="F">
+                      <trait type="gender" subtype="F"/>
                 </person> 
         </particDesc>    
         </profileDesc>
