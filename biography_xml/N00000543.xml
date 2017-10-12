@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="N001000">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="N00000543">
     <teiHeader>
       <fileDesc>
     <titleStmt>
@@ -45,7 +45,7 @@
             </keywords>
         </textClass>
         <particDesc>
-                <person xml:id="cwgk:N00000543">
+                <person xml:id="N00000543">
                     <persName>
                       Benjamin Wilshire
                         (Independence, Kentucky, blacksmith.)
@@ -53,7 +53,7 @@
                       <birth when="1809-02-14"></birth>
                       <death when="1892-11-02"></death>
                         <trait type="race" subtype="White"/>
-                      <trait type="gender" subtype="M">
+                      <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
