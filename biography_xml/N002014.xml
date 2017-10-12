@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="N001000">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="N002014">
     <teiHeader>
       <fileDesc>
     <titleStmt>
@@ -57,7 +57,7 @@
             </keywords>
         </textClass>
         <particDesc>
-                <person xml:id="cwgk:N002014">
+                <person xml:id="N002014">
                     <persName>
                       Jonathan Hobson Price
                         (Lou Atty. Baird &amp; Price)
@@ -65,7 +65,7 @@
                       <birth when="c1830"></birth>
                       <death when="1882-12-19"></death>
                         <trait type="race" subtype="White"/>
-                      <trait type="gender" subtype="M">
+                      <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
