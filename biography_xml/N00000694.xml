@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="N001000">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="N00000694">
     <teiHeader>
       <fileDesc>
     <titleStmt>
@@ -41,14 +41,14 @@
             </keywords>
         </textClass>
         <particDesc>
-                <person xml:id="cwgk:N00000694">
+                <person xml:id="N00000694">
                     <persName>
                       H.W. Darling
                         (Carroll County)
                     </persName>
                       <birth when="unknown"></birth>
                       <death when="unknown"></death>
-                      <trait type="gender" subtype="U">
+                      <trait type="gender" subtype="U"/>
                 </person> 
         </particDesc>    
         </profileDesc>
