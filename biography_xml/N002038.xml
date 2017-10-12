@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="N001000">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="N002038">
     <teiHeader>
       <fileDesc>
     <titleStmt>
@@ -41,14 +41,14 @@
             </keywords>
         </textClass>
         <particDesc>
-                <person xml:id="cwgk:N002038">
+                <person xml:id="N002038">
                     <persName>
                       Philip Tomppert, Jr.
                         (Clerk of the Louisville City Court.)
                     </persName>
                       <birth when="1839-02-13"></birth>
                       <death when="1895-12-21"></death>
-                      <trait type="gender" subtype="M">
+                      <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
