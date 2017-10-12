@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="N001000">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="N00000527">
     <teiHeader>
       <fileDesc>
     <titleStmt>
@@ -73,7 +73,7 @@
             </keywords>
         </textClass>
         <particDesc>
-                <person xml:id="cwgk:N00000527">
+                <person xml:id="N00000527">
                     <persName>
                       George Miller Hobbs
                         (Boston, MA Lawyer)
@@ -81,7 +81,7 @@
                       <birth when="c1827"></birth>
                       <death when="1912-07-25"></death>
                         <trait type="race" subtype="White"/>
-                      <trait type="gender" subtype="M">
+                      <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
