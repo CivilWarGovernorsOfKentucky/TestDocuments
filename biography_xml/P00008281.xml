@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DP00008281">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Payne&#39;s Station</title>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Jesse Nasta</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+        <encodingDesc>
+            <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+                <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term type="type">Place</term>
+                </keywords>
+            </textClass>
+            <particDesc>
+                <place xml:id="P00008281">
+                    <placeName>
+                        <location>
+                              <geo>38.1421 84.6238</geo>
+                            <settlement>Payne&#39;s Station</settlement>
+                        </location>
+                    </placeName>
+                </place> 
+            </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>A rail center in Georgetown, Scott County, Kentucky. From 1792 to 1834, when the Lexington and Ohio Railroad established a station there on its Lexington to Frankfort route, Payne&#39;s Depot was a supply point for freight transported by wagon. Location named for the Payne family, local landowners. The Payne&#39;s Depot post office was established January 31, 1852, with General John Payne&#39;s son, Asa Payne, as its first postmaster. </p>
+
+    </body>
+    <back>
+        <ab><bibl><p>Rennick, Robert M., <em>Kentucky Place Names</em> (Lexington: The University Press of Kentucky, 1984), 228, https://books.google.com/books?id=3Lac2FUSj_oC&amp;q=payne%27s+station#v=onepage&amp;q=payne&#39;s%20&amp;f=false (accessed 14 Aug 2017).</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
