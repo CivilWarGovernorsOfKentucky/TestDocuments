@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00006513">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Edward B Curran </title>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Courtney Buchkoski</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00006513">
+                    <persName>
+                      Edward B Curran 
+                        (Jeffersonville, 2nd Ky Cav)
+                    </persName>
+                      <birth when="1840"></birth>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Native of Jeffersonville. First Lieutenant 2nd Kentucky Cavalry.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p><em>History of the Ohio Falls Cities and Their Counties: General history. History of Jefferson County, Ky. The history of Louisville</em>(Clark County, Indiana: L. A. Williams &amp; Company, 1882), 572; Edward B Curran, 1861; from &quot;Compiled Service Records of Volunteer Union Soldiers Who Served in Organizations from the State of Kentucky,&quot; Fold3.com; citing military unit Second Cavalry, Cr-Fa, NARA microfilm publication M397, roll 16, National Archives and Records Administration, Washington, D.C.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
