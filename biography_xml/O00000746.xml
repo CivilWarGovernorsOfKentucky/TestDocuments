@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="O001006">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DO00000746">
     <teiHeader>
       <fileDesc>
     <titleStmt>
@@ -33,10 +33,10 @@
                 </keywords>
             </textClass>
             <particDesc>
-                <org xml:id="cwgk:O00000746">
+                <org xml:id="O00000746">
                     <orgName>Northern (Forrest&#39;s) Cavalry Department</orgName>
                       <event type="begun" when="1864-01-26">Begun </event>
-                      <event type="begun" when="1865-05-09"></devent>
+                      <event type="begun" when="1865-05-09"></event>
 
                 </org>
             </particDesc>
