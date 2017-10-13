@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="O001006">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DO00000897">
     <teiHeader>
       <fileDesc>
     <titleStmt>
@@ -37,10 +37,10 @@
                 </keywords>
             </textClass>
             <particDesc>
-                <org xml:id="cwgk:O00000897">
+                <org xml:id="O00000897">
                     <orgName>10th Kentucky Cavalry Partisan Rangers, Company H (reorganized as Company I)</orgName>
                       <event type="begun" when="1862-09-05">Begun </event>
-                      <event type="begun" when="1865"></devent>
+                      <event type="begun" when="1865"></event>
 
                 </org>
             </particDesc>
