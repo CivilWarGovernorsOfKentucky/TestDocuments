@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00005794">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Granville J. Vaught </title>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Courtney Buchkoski</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00005794">
+                    <persName>
+                      Granville J. Vaught 
+                        (1st ky cavalry regiment)
+                    </persName>
+                      <birth when="1836"></birth>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Born in 1836. Married to Sarah E. Vaught. Children included Ara M., Ruth M., and Sallie M. Enlisted in First Kentucky Cavalry Regiment on September 11, 1861. Entered as Sergeant. Promoted 1st Sergeant, February 28, 1863. 2nd Lieutenant, July 16, 1864. </p>
+
+    </body>
+    <back>
+        <ab><bibl><p>Sergeant E. Tarrant, <em>The Wild Riders of the First Kentucky Cavalry : a History of the Regiment, in the Great War of the Rebellion, 1861-1865 : Pathetic Scenes, Amusing Incidents, and Thrilling Episodes, a Regimental Roster, Prison Life, Adventures, and Escapes</em> (New York: New York Public Library, 1894), 464; <em>Thirteenth Manuscript Census of the United States (1910)</em>, Population Schedules, Indiana, Boone County, Louisville, ED 6, sheet 4A, family 84, NARA microfilm publication T624 (Washington D.C.: National Archives and Records Administration, 1982), roll 341; FHL microfilm 1,374,354.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
