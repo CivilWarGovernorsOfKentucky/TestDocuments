@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00008234">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Rev. James Frazier Jaquess</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Jesse Nasta</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Jesse Nasta</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Jesse Nasta</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00008234">
+                    <persName>
+                      Rev. James Frazier Jaquess
+                        (Quincy, IL chaplain and colonel)
+                    </persName>
+                      <birth when="1819-11-18"></birth>
+                      <death when="1898-06-16"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Born near Evansville, Indiana. Graduated from Indiana Asbury University with high honors in 1845. He later received the degrees of A.M. and D.D. from the same university. Licensed to preach in 1847 and admitted to the Illinois Conference of the Methodist Episcopal Church. Chosen president of Illinois Female College at Jacksonville, Illinois in 1849. Resuming preaching in 1855. Commissioned as chaplain of the 6th Illinois Cavalry by Governor Richard Yates, his long-time friend. Commissioned an officer in Company S, 6th Illinois Cavalry Regiment on January 9, 1862. Promoted to full colonel on August 21, 1862. Mustered out on August 21, 1862. Commissioner an officer in Company S, 73rd Illinois Infantry Regiment on August 21, 1862. Mustered out on January 12, 1865 at Nashville, Tennessee.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p>F<br>
+F<br><br>
+Historical Data Systems, comp. <em>U.S., Civil War Soldier Records and Profiles, 1861-1865</em> [database on-line]. Provo, UT, USA: Ancestry.com Operations Inc, 2009, profile of James F Jaquess, http://search.ancestry.com/cgi-bin/sse.dll?indiv=1&amp;dbid=1555&amp;h=3248542&amp;ssrc=pt&amp;tid=26244406&amp;pid=1949754212&amp;usePUB=true534</p>
+
+<p>Newlin, William Henry, <em>A History of the Seventy-Third Regiment of Illinois Infantry</em> (Published by Authority of the Regimental Reunion Association of Survivors of the 73d Illinois Infantry Volunteers, 1890), 534-57, https://books.google.com/books?id=F4JZxnA7yX4C&amp;pg=PA534&amp;dq=%22James+f+jaquess%22&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwiy3Z_oyNXVAhUSgCYKHUqiDdUQ6AEISjAH#v=onepage&amp;q=jaquess&amp;f=false (accessed 13 Aug 2017).</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
