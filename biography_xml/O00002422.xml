@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="O001006">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DO00002422">
     <teiHeader>
       <fileDesc>
     <titleStmt>
@@ -61,10 +61,10 @@
                 </keywords>
             </textClass>
             <particDesc>
-                <org xml:id="cwgk:O00002422">
+                <org xml:id="O00002422">
                     <orgName>Western Lunatic Asylum of Kentucky</orgName>
                       <event type="begun" when="1848">Begun </event>
-                      <event type="begun" when="unknown"></devent>
+                      <event type="begun" when="unknown"></event>
 
                 </org>
             </particDesc>
