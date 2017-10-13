@@ -60,11 +60,11 @@
  </teiHeader>
  <text>
   <body>
-   <p><placeName ref="cwgk:P001802">United States of America</placeName><lb/><placeName ref="cwgk:P00002521">State of Wisconsin</placeName><lb/><placeName ref="cwgk:P00005576">County of Milwaukee</placeName> SS.</p>
-<p>I <persName ref="cwgk:N00005578">Francis Bloodgood</persName> a commissioner of Deeds for the <orgName ref="cwgk:O001025">State of Kentucky</orgName> duly appointed do solemnly swear that I will well and truly execute and perform all the duties of that office and station</p>
+   <p><placeName ref="cwgk:P001802">United States of America</placeName><lb/><placeName ref="cwgk:P00002521">State of Wisconsin</placeName><lb/> SS.<placeName ref="cwgk:P00005576">County of Milwaukee</placeName></p>
+<p>I  a commissioner of Deeds for the  duly appointed do solemnly swear that I will well and truly execute and perform all the duties of that office and station<persName ref="cwgk:N00005578">Francis Bloodgood</persName><orgName ref="cwgk:O001025">State of Kentucky</orgName></p>
 <p>Francis Bloodgood</p>
 <p>Sworn to and subscribed before me this <date when="1865-03-11">11th day of March A.D. 1865</date></p>
-<p><persName ref="cwgk:N00005579">James Hickcox</persName><lb/>Clerk <orgName ref="cwgk:O00005577">Circt Ct Mi</orgName>l <unclear/></p>
+<p><persName ref="cwgk:N00005579">James Hickcox</persName><lb/>Clerk l <orgName ref="cwgk:O00005577">Circt Ct Mi</orgName><unclear/></p>
 <p><stamp type="revenue"/><note place="stamp"><date when="1865-03-11">March
 <lb/>11/65</date>
 <lb/>J.H</note></p>
