@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00006542">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Alexander C Casseday</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Tyler Campbell</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Tyler Campbell</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Tyler Campbell</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00006542">
+                    <persName>
+                      Alexander C Casseday
+                        (Assistant Adjutant General)
+                    </persName>
+                      <birth when="1836-01-23"></birth>
+                      <death when="1862-03-21"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Born on January 23, 1836 in Louisville, Kentucky. Worked as a clerk in 1850. Served as the Assistant Adjutant General under Scott Brown and Governor Magoffin.  Commissioned as Major on October 4, 1861 in the Confederate Army. Served under Simon Bolivar Buckner. Captured in the battle of Fort Donelson  in February 16, 1862. Taken to Camp Chase in Ohio. Died as prisoner of war on March 21, 1862 in Columbus, Ohio.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p>Luke E. Harlow, <em>Religion, Race, and the Making of Confederate Kentucky, 1830 - 1880</em> (New York: Cambridge University Press, 2014), 157-158; Stephen Douglas Lynn, <em>Confederate Soldiers of Kentucky: A Roster of Veterans, 1861 - 1865</em> (Lexington: Stephen Douglas Lynn, 2002), 516; <em>Find A Grave</em>, &quot;Major Alexander C. &quot;Alex&quot; Cassedy ( January 23, 1836 - March 21, 1862),&quot; Memorial #9901786, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=9901786 (accessed June 26, 2017); <em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Florida, Jefferson, Louisville District 3, p. 332B.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
