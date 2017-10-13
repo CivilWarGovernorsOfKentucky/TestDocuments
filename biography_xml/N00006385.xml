@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00006385">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Elihu Webber</title>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Hannah M. O&#39;Daniel</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00006385">
+                    <persName>
+                      Elihu Webber
+                        ()
+                    </persName>
+                      <birth when="c1833"></birth>
+                      <death when="1869"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Owsley County, Kentucky farmer and infantry corporal. Kentucky native. Married Turzah Nowland in 1858. Private and Corporal in Company A, 7th Kentucky Volunteer Infantry Regiment, U.S.A. for three years.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p>Seventh Manuscript Census of the United States (1850), Population Schedules, Kentucky, Estill County, p. 65. <em>Kentucky Birth, Marriage, and Death Records, 1852-1910</em>, Ancestry, Marriages, Owsley County, 1858. Eighth Manuscript Census of the United States (1860), Population Schedules, Kentucky, Owsley County, Beatyville, p. 75. Ninth Manuscript Census of the United States (1870), Mortality Schedules, Arkansas, Franklin County, White Oak, p. 116. “Elihu Webber,” <em>Find A Grave</em>, November 11, 2014, memorial no. 138596073. KYR-0001-004-1337. “Webber, Elihu,” <em>Soldiers and Sailors Database</em>, National Park Service, https://www.nps.gov/civilwar/search-soldiers-detail.htm?soldierId=4F33B4DD-DC7A-DF11-BF36-B8AC6F5D926A (accessed January 19, 2017). Franklin County, Arkansas Probate Court, <em>Probate Records, 1838-1967</em>, Ancestry, Administrator’s Bond, 1870, p. 73.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
