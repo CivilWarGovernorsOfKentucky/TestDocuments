@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="P001010">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DP001010">
     <teiHeader>
       <fileDesc>
     <titleStmt>
@@ -33,7 +33,7 @@
                 </keywords>
             </textClass>
             <particDesc>
-                <place xml:id="cwgk:P001010">
+                <place xml:id="P001010">
                     <placeName>
                         <location>
                             <settlement>Boyle County, Kentucky</settlement>
