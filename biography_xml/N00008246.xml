@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00008246">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">George Hunt</title>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Jesse Nasta</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00008246">
+                    <persName>
+                      George Hunt
+                        (Scott County, KY Baptist pastor and college president)
+                    </persName>
+                      <birth when="1831-06-09"></birth>
+                      <death when="1893-08-28"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Born in Fayette County, Kentucky. Educated at Georgetown College in Georgetown, Scott County, Kentucky, where he graduated in 1849. Ordained pastor of Maysville, Kentucky church in 1856. Resigned in 1858 to fill the Chair of Theology at Georgetown College, a position he held until 1861. Pastor at Stamping Ground Church in Scott County, Kentucky, from 1858 to 1862. Elected president of Bethel College in 1862. Resigned the presidency of the college in 1864, to take charge of Bethel and Salem churches in Christian County, Kentucky. Married Anna Rebecca Dillard. Father of Annie (Hunt) Mitchell.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p>Find A Grave, Entry for Rev George Hunt (1831-1893), Find A Grave Memorial # 60413346, Lexington Cemetery, Lexington, Fayette County, Kentucky, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GSln=hunt&amp;GSfn=george&amp;GSby=1831&amp;GSbyrel=in&amp;GSdyrel=all&amp;GSob=n&amp;GRid=60413346&amp;df=all&amp; (accessed 14 Aug 2017).</p>
+
+<p>Spencer, John H., <em>A History of Kentucky Baptists. From 1769 to 1885, Including More than 800 Biographical Ketches. Volume 1</em> (Printed for the Author, 1886), 739-40.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
