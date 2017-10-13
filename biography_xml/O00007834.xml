@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="O001006">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DO00007834">
     <teiHeader>
       <fileDesc>
     <titleStmt>
@@ -41,10 +41,10 @@
                 </keywords>
             </textClass>
             <particDesc>
-                <org xml:id="cwgk:O00007834">
+                <org xml:id="O00007834">
                     <orgName>Rock Creek Home Guards</orgName>
                       <event type="begun" when="1861">Begun </event>
-                      <event type="begun" when="c1865"></devent>
+                      <event type="begun" when="c1865"></event>
 
                 </org>
             </particDesc>
