@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="O001006">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DO00001192">
     <teiHeader>
       <fileDesc>
     <titleStmt>
@@ -45,10 +45,10 @@
                 </keywords>
             </textClass>
             <particDesc>
-                <org xml:id="cwgk:O00001192">
+                <org xml:id="O00001192">
                     <orgName>Kentucky Military Institute</orgName>
                       <event type="begun" when="1845">Begun </event>
-                      <event type="begun" when="1971"></devent>
+                      <event type="begun" when="1971"></event>
 
                 </org>
             </particDesc>
