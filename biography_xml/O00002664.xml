@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="O001006">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DO00002664">
     <teiHeader>
       <fileDesc>
     <titleStmt>
@@ -37,10 +37,10 @@
                 </keywords>
             </textClass>
             <particDesc>
-                <org xml:id="cwgk:O00002664">
+                <org xml:id="O00002664">
                     <orgName>17th Kentucky Infantry</orgName>
                       <event type="begun" when="1862-01-04">Begun </event>
-                      <event type="begun" when="1865-01-23"></devent>
+                      <event type="begun" when="1865-01-23"></event>
 
                 </org>
             </particDesc>
