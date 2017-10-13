@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="P00005339">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DP00005339">
     <teiHeader>
       <fileDesc>
     <titleStmt>
@@ -41,7 +41,7 @@
                 </keywords>
             </textClass>
             <particDesc>
-                <place xml:id="cwgk:P00005339">
+                <place xml:id="P00005339">
                     <placeName>
                         <location>
                               <geo>38.9356 -84.3072</geo>
