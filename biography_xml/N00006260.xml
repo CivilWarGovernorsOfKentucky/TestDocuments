@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00006260">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Allen S. Brownfield</title>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Hannah M. O&#39;Daniel</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00006260">
+                    <persName>
+                      Allen S. Brownfield
+                        (Mason County carpenter and Union private)
+                    </persName>
+                      <birth when="c1824"></birth>
+                      <death when="1898-06-09"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Mason County carpenter and private. Ohio native. Married Laura Willet Brownfield. Father of James A. Brownfield, Frances Brownfield, William H. Brownfield. Private in Company G, 182nd Ohio Volunteer Infantry Regiment, U.S.A.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p>KYR-0001-020-2047. Seventh Manuscript Census of the United States (1850), Population Schedules, Kentucky, Mason County, District 2, p. 96. <em>Kentucky Birth, Marriage, and Death Records, 1852-1910</em>, Births, Mason County, 1853. Eighth Manuscript Census of the United States (1860), Population Schedules, Kentucky, Mason County, Maysville, District 2, p. 145. Ninth Manuscript Census of the United States (1870), Population Schedules, Ohio, Brown County, Aberdeen, p. 62. <em>Organization Index to Pension Files of Veterans who served between 1861 and 1900</em>, Ancestry, Civil War Pensions Index, roll no. T288, p. 58. <em>U.S. National Cemetery Interment Control Forms, 1928-1962</em>, Ancestry, Newport, KY Evergreen Cemetery, 1898.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
