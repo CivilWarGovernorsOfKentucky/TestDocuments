@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="O001006">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DO001020">
     <teiHeader>
       <fileDesc>
     <titleStmt>
@@ -41,10 +41,10 @@
                 </keywords>
             </textClass>
             <particDesc>
-                <org xml:id="cwgk:O001020">
+                <org xml:id="O001020">
                     <orgName>House of Representatives of the Commonwealth of Kentucky</orgName>
                       <event type="begun" when="1792">Begun </event>
-                      <event type="begun" when="unknown"></devent>
+                      <event type="begun" when="unknown"></event>
 
                 </org>
             </particDesc>
