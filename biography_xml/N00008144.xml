@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00008144">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Samuel Beal Thomas</title>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Jesse Nasta</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00008144">
+                    <persName>
+                      Samuel Beal Thomas
+                        (Elizabethtown, Hardin County, KY wealthy businessman, KY state legislator, and large-scale slaveholder )
+                    </persName>
+                      <birth when="1811-08-04"></birth>
+                      <death when="1874-09-03"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Born in Frederick County, Maryland, son of Samuel Thomas. Moved to West Point, Hardin County, Kentucky in 1828. Hired as clerk in office of Edward P. Johnson, mail contractor. Then made road agent over Johnson&#39;s mail routes. About 1830, Thomas and others bought out Johnson&#39;s mail line. Became Hough, Carter &amp; Thomas stage coach line. Until the completion of the Louisville and Nashville Railroad, in 1860, this stage and mail route controlled the major mail routes, mostly in Kentucky, Tennessee, and Alabama. Married Zorayda Young of West Point, KY, 19 Sep 1833. Thomas became one of the leading businessmen of Kentucky, both in his stage coach line and several other business ventures. And one of the first directors of the Louisville and Nashville Railroad, which he helped finance. Elected to the Lower House of the Kentucky State Legislature in 1863. Served two years. Also one of the largest slaveowners in his part of Kentucky. Enslaved 53 people, according to 1860 U.S. slave census schedules.  </p>
+
+    </body>
+    <back>
+        <ab><bibl><p>Eighth Manuscript Census of the United States (1860), Slave Schedules, Kentucky, Hardin  County, 3rd District, pp. 7-8.</p>
+
+<p>&quot;Historic Resources of Hardin County. Thomas B. Thomas House,&quot; National Park Service, 26 Aug 1988, <https://npgallery.nps.gov/GetAsset?assetID=eeec3d57-a6b2-43fb-99be-ee264421b618> (accessed 3 Aug 2017).</p>
+
+<p><em>The Biographical Encylopeaedia of Kentucky</em> (Cincinnati, OH: J.M. Armstrong &amp; Company, 1878), 379-380.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
