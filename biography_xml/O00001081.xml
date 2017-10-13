@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="O001006">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DO00001081">
     <teiHeader>
       <fileDesc>
     <titleStmt>
@@ -49,10 +49,10 @@
                 </keywords>
             </textClass>
             <particDesc>
-                <org xml:id="cwgk:O00001081">
+                <org xml:id="O00001081">
                     <orgName>Somerset Board of Trustees</orgName>
                       <event type="begun" when="c1802">Begun </event>
-                      <event type="begun" when="c1888"></devent>
+                      <event type="begun" when="c1888"></event>
 
                 </org>
             </particDesc>
