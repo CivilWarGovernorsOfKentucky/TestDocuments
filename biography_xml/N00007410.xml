@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00007410">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Mason R. Henry</title>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>James N. McAllister</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00007410">
+                    <persName>
+                      Mason R. Henry
+                        (Woodford)
+                    </persName>
+                      <birth when="1810-05-28"></birth>
+                      <death when="1891-03-06"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Lived in Woodford Kentucky. Worked as a farmer. Married Eliza Jane McGuffin in 1835. Had three children, Rebecca, born in 1836, Martha, born in 1848, and Josephine, born in 1852. </p>
+
+    </body>
+    <back>
+        <ab><bibl><p>1860 Census, Find a Grave, &quot;Capt. Mason R. C. Henry (1810 - 1891)&quot;  https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GSln=henry&amp;GSfn=mason&amp;GSmn=r&amp;GSby=1820&amp;GSbyrel=before&amp;GSdyrel=all&amp;GSob=n&amp;GRid=13317152&amp;df=all&amp; (Accessed January 28, 2017)</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
