@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="O001006">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DO00006826">
     <teiHeader>
       <fileDesc>
     <titleStmt>
@@ -57,10 +57,10 @@
                 </keywords>
             </textClass>
             <particDesc>
-                <org xml:id="cwgk:O00006826">
+                <org xml:id="O00006826">
                     <orgName>Second Bank of Kentucky</orgName>
                       <event type="begun" when="1835-04-29">Begun </event>
-                      <event type="begun" when="1865-03-13"></devent>
+                      <event type="begun" when="1865-03-13"></event>
 
                 </org>
             </particDesc>
