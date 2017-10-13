@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="O001006">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DO00008161">
     <teiHeader>
       <fileDesc>
     <titleStmt>
@@ -37,10 +37,10 @@
                 </keywords>
             </textClass>
             <particDesc>
-                <org xml:id="cwgk:O00008161">
+                <org xml:id="O00008161">
                     <orgName>John Watt &amp; Co</orgName>
                       <event type="begun" when="c1855">Begun </event>
-                      <event type="begun" when="c1868"></devent>
+                      <event type="begun" when="c1868"></event>
 
                 </org>
             </particDesc>
