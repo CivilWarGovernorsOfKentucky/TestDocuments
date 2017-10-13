@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00006234">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">John A. Finn</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Samuel T. Whittaker</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Samuel T. Whittaker</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00006234">
+                    <persName>
+                      John A. Finn
+                        (Simpson County Lawyer)
+                    </persName>
+                      <birth when="1822-11-07"></birth>
+                      <death when="1885-07-19"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Native of Tennessee. Worked as a lawyer in Simpson County. Active in Democratic politics, he served as secretary of a meeting of Simpson County Democrats in 1858. Attended, as a delegate of Simpson County, the Kentucky Democratic Convention in 1858. Finn was chosen to be a delegate to the Democratic National Convention representing the Third District of Kentucky in favor of the candidacy of James Guthrie in 1860. He was the elector for Stephen A. Douglas in Kentucky&#39;s Third Congressional District during the presidential election of 1860.</p>
+
+<p>Spouse: Marie B Finn<br>
+Children: Mary C Finn, Ella F Finn, </p>
+
+    </body>
+    <back>
+        <ab><bibl><p>Eighth Manuscript Census of the United States (1860), Population Schedule, Kentucky, Simpson County, page 136.</p>
+
+<p><em>The Louisville Daily Courier</em>, &quot;Democratic Meeting in Simpson,&quot; December 1, 1858, page 2.</p>
+
+<p><em>The Louisville Daily Courier</em>, &quot;Guthrie Delegates Elected,&quot; January 10, 1860, page 1.</p>
+
+<p><em>The Louisville Daily Courier</em>, &quot;Official Vote of Kentucky,&quot; December 5, 1860, page 1.</p>
+
+<p>U.S. Find a Grave Index, 1600-Present, &quot;John Abel Finn&quot; https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=23157552&amp;ref=acom accessed 05/17/2017.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
