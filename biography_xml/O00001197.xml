@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="O001006">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DO00001197">
     <teiHeader>
       <fileDesc>
     <titleStmt>
@@ -41,10 +41,10 @@
                 </keywords>
             </textClass>
             <particDesc>
-                <org xml:id="cwgk:O00001197">
+                <org xml:id="O00001197">
                     <orgName>Battle on Lake Erie</orgName>
                       <event type="begun" when="1813-09-10">Begun </event>
-                      <event type="begun" when="1813-09-10"></devent>
+                      <event type="begun" when="1813-09-10"></event>
 
                 </org>
             </particDesc>
