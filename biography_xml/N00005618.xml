@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00005618">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Felix Kirk Zollicoffer</title>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Jesse Nasta</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00005618">
+                    <persName>
+                      Felix Kirk Zollicoffer
+                        (Confederate Brigadier General and Whig congressman)
+                    </persName>
+                      <birth when="1812-05-19"></birth>
+                      <death when="1862-01-19"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Bigbyville, Tennessee-born Civil War Confederate Brigadier General and U.S. congressman. Three times elected to U.S. Congress as Whig and American Party candidate (1853-59). Volunteered for the Provisional Army of Tennessee and was appointed Brigadier General in Command of the East Tennessee. Killed by Union troops in 1862.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p>Find A Grave, Entry for General Felix Kirk Zollicoffer (1812-1862), Find A Grave Memorial # 8954, Nashville City Cemetery, Nashville, Davidson County, Kentucky, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=8954 (accessed 10 May 2017).</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
