@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00006923">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Richard Oglesby</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Tyler Campbell</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Tyler Campbell</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00006923">
+                    <persName>
+                      Richard Oglesby
+                        (Union Colonel/ Major General)
+                    </persName>
+                      <birth when="1824-07-25"></birth>
+                      <death when="1899-04-24"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Born in Floydsburg, Kentucky  on July 25, 1824.  His family moved to Illinois in 1832. He enlisted as 1st Lieutenant in the 4th Illinois Infantry on June 13, 1846 as a part of the Mexican-American war. Attended Louisville Law School in 1848. Moved to California in 1849 as a part of the California Gold Rush. Returned to Illinois in 1851. Oglesby became an early member of the Republican Party. He lost an election for the US Congress, but was elected to the Illinois State Senate in 1860. Commissioned Colonel of the 8th Illinois Infantry April 25, 1861. Oglesby was nicknamed &quot;Uncle Dick.&quot;  Promoted to Brigadier General on March 21, 1862 with the Army of the Tennessee. Promoted to Major General on November 29, 1862. After the war&#39;s conclusion, Oglesby became the governor of Illinois on January 16, 1865. Oglesby was present in the room when Abraham Lincoln died on April 15, 1865. Richard Oglesby died on April 24, 1899.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p>John H. Eicher and David J. Eicher, <em>Civil War High Commands,</em> (Stanford: Stanford University Press, 2001), 408-409;  Mark A. Plummer, <em>Lincoln&#39;s Rail-Splitter: Governor Richard J. Oglesby,</em> (Chicago: University of Illinois Press, 2001), 59; &quot;Governor Oglesby and Family,&quot; Governor Richard Oglesby Mansion, accessed June 8, 2017, http://www.oglesbymansion.org/governor-oglesby.php.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
