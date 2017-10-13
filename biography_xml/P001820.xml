@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="P001820">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DP001820">
     <teiHeader>
       <fileDesc>
     <titleStmt>
@@ -33,7 +33,7 @@
                 </keywords>
             </textClass>
             <particDesc>
-                <place xml:id="cwgk:P001820">
+                <place xml:id="P001820">
                     <placeName>
                         <location>
                             <settlement>Indianapolis, Indiana</settlement>
