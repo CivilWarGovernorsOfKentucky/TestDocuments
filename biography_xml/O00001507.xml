@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="O001006">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DO00001507">
     <teiHeader>
       <fileDesc>
     <titleStmt>
@@ -45,10 +45,10 @@
                 </keywords>
             </textClass>
             <particDesc>
-                <org xml:id="cwgk:O00001507">
+                <org xml:id="O00001507">
                     <orgName>18th Regiment Kentucky Volunteers</orgName>
                       <event type="begun" when="1862-02-08">Begun </event>
-                      <event type="begun" when="1865-04-04"></devent>
+                      <event type="begun" when="1865-04-04"></event>
 
                 </org>
             </particDesc>
