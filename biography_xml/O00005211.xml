@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="O001006">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DO00005211">
     <teiHeader>
       <fileDesc>
     <titleStmt>
@@ -45,10 +45,10 @@
                 </keywords>
             </textClass>
             <particDesc>
-                <org xml:id="cwgk:O00005211">
+                <org xml:id="O00005211">
                     <orgName>Branch Bank of Kentucky, Frankfort</orgName>
                       <event type="begun" when="1834-02-22">Begun </event>
-                      <event type="begun" when="unknown"></devent>
+                      <event type="begun" when="unknown"></event>
 
                 </org>
             </particDesc>
