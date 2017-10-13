@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="O001006">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DO00005297">
     <teiHeader>
       <fileDesc>
     <titleStmt>
@@ -41,10 +41,10 @@
                 </keywords>
             </textClass>
             <particDesc>
-                <org xml:id="cwgk:O00005297">
+                <org xml:id="O00005297">
                     <orgName>Harpers Guerilla Band</orgName>
                       <event type="begun" when="c1862">Begun </event>
-                      <event type="begun" when="1865-05-09"></devent>
+                      <event type="begun" when="1865-05-09"></event>
 
                 </org>
             </particDesc>
