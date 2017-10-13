@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00008185">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Junius R. Ward</title>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Jesse Nasta</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00008185">
+                    <persName>
+                      Junius R. Ward
+                        (Very wealthy Washington County, MS planter)
+                    </persName>
+                      <birth when="1802"></birth>
+                      <death when="1883-08"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Residence: Washington County, Mississippi. Born in Georgetown, Scott County, Kentucky, son of William Ward and Sarah Johnson. One of the first white planters in the Mississippi Delta. Junius R. Ward moved from Scott County, Kentucky to Washington County, Mississippi in c1822. Established one of the largest plantations in Mississippi, called &quot;Kentucky Bend,&quot; on Lake Washington. One of the wealthiest planters in the South. Also became extremely wealthy from cotton, hemp, mercantile, and shipping interests. Married Matilda Viley on August 28, 1824. Ward also built a mansion a mile west of Georgetown, Kentucky, in 1857. Lost much of his wealth as a result of the Civil War.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p>Davis, John H., <em>The American Turf: History of the Thoroughbred, Together with Personal Reminiscences by the Author, Who, in Turn, Has Been Jockey, Trainer and Owner</em> (New York: The John Polhemus Printing Company, 1907), 139.</p>
+
+<p>Find A Grave, Entry for Junius R. Ward (1802-1883), Find A Grave Memorial # 97066606, Lexington Cemetery, Lexington, Fayette County, Kentucky, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=97066606 (accessed 9 Aug 2017).</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
