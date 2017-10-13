@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="O001006">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DO00005258">
     <teiHeader>
       <fileDesc>
     <titleStmt>
@@ -41,10 +41,10 @@
                 </keywords>
             </textClass>
             <particDesc>
-                <org xml:id="cwgk:O00005258">
+                <org xml:id="O00005258">
                     <orgName>4th KY Mounted Infantry (U.S.A.)</orgName>
                       <event type="begun" when="1864">Begun </event>
-                      <event type="begun" when="1865-08-17"></devent>
+                      <event type="begun" when="1865-08-17"></event>
 
                 </org>
             </particDesc>
