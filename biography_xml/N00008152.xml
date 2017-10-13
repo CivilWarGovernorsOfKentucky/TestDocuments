@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00008152">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Frank Waters</title>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Jesse Nasta</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00008152">
+                    <persName>
+                      Frank Waters
+                        (Lexington attorney)
+                    </persName>
+                      <birth when="1837"></birth>
+                      <death when="unknown"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Residence: Lexington, Fayette County, Kentucky. A Lexington, Kentucky-born attorney. Son of Thomas H. Waters. Grandson of Capt. Philemon Waters, an early settler of Kentucky. Graduated from Transylvania University (Lexington, KY) in 1852. Graduated from Georgetown College, Georgetown, DC, 1855. Graduated in Law Department of Transylvania University in 1856. Admitted to practice law the same year. </p>
+
+    </body>
+    <back>
+        <ab><bibl><p>Robert Peter, M.D., <em>History of Fayette County, Kentucky, With an Outline Sketch of the Blue Grass Region</em> (Chicago: O.L. Baskin &amp; Co., Historical Publishers, 1882), 745. (accessed https://books.google.com/books?id=9YhAAQAAMAAJ&amp;pg=PA745&amp;dq=%22frank+waters%22+lexington+kentucky&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwiGsczojr_VAhUK8CYKHStTBA0Q6AEINzAD#v=onepage&amp;q=frank%20waters&amp;f=false)</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
