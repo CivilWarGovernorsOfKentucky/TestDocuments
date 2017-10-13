@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="O001006">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DO00007391">
     <teiHeader>
       <fileDesc>
     <titleStmt>
@@ -41,10 +41,10 @@
                 </keywords>
             </textClass>
             <particDesc>
-                <org xml:id="cwgk:O00007391">
+                <org xml:id="O00007391">
                     <orgName>T. &amp; R. Slevin &amp; Cain</orgName>
                       <event type="begun" when="1854">Begun </event>
-                      <event type="begun" when="1877"></devent>
+                      <event type="begun" when="1877"></event>
 
                 </org>
             </particDesc>
