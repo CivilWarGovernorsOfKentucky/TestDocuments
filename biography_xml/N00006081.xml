@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00006081">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">James Sanks Brisbin</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Stephen Powell</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Stephen Powell</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Stephen Powell</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00006081">
+                    <persName>
+                      James Sanks Brisbin
+                        (Brigadier General, U.S.A. )
+                    </persName>
+                      <birth when="1837-05-23"></birth>
+                      <death when="1892-01-14"></death>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>From Pennsylvania, Brisbin was commissioned as a captain and rose through the ranks.  In the spring of 1865, Brisbin was the superintendent of U.S. Army troops in Kentucky.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p>Find A Grave, “MG James Sanks Brisbin (May 23, 1837-January 14, 1892),” Memorial #5892343, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=5892343 (accessed June 5, 2017); The United States War Department, <em>The war of the rebellion: a compilation of the official records of the Union and Confederate armies</em>, series 1, vol. 49, pt. 1, (Washington: Government Printing Office, 1897), 895.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
