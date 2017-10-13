@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00008145">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Napoleon B. Stephens</title>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Hannah M. O&#39;Daniel</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00008145">
+                    <persName>
+                      Napoleon B. Stephens
+                        (Kenton Circuit Court Clerk )
+                    </persName>
+                      <birth when="1814-08-24"></birth>
+                      <death when="1886-07-03"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Kenton County, Kentucky circuit court clerk. Kentucky native. Married Rebecca Stephens. Father of Mary Stephens, Statira Stephens, John Stephens, and Rachel Stephens. Held one slave in 1860. Kenton Circuit Court Clerk from at least 1860 to 1861. </p>
+
+    </body>
+    <back>
+        <ab><bibl><p>Seventh Manuscript Census of the United States (1850), Population Schedules, Kentucky, Kenton County, p. 134. Seventh Manuscript Census of the United States (1850), Slave Schedules, Kentucky, Kenton County. Eighth Manuscript Census of the United States (1860), Population Schedules, Kentucky, Kenton County, Covington, Ward 4, p. 196. Eighth Manuscript Census of the United States (1860), Slave Schedules, Kentucky, Kenton County, Covington, p. 2. Ninth Manuscript Census of the United States (1870), Population Schedules, Kentucky, Kenton County, Covington, p. 26. “Napoleon Bonaparte Stephens (1814-1886),” <em>Find A Grave</em>, memorial no. 89878564, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=89878564&amp;ref=acom (accessed August 3, 2017). Thomas S. Page, <em>Annual Report of the Auditor of Public Accounts, of the State of Kentucky, for the Fiscal Year Ending October 10, 1859</em> (Frankfort, KY: John B. Major, 1860), p. 291. Grant Green, <em>Annual Report of the Auditor of Public Accounts, of the State of Kentucky, for the Fiscal Year Ending October 10, 1861</em> (Frankfort, KY: John B. Major, 1862), p. 306.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
