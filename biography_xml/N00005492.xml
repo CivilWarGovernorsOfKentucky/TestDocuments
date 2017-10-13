@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00005492">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Albert Hawes Clark</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Stephen Powell</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Stephen Powell</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Stephen Powell</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00005492">
+                    <persName>
+                      Albert Hawes Clark
+                        (lawyer)
+                    </persName>
+                      <birth when="1839-11-03"></birth>
+                      <death when="1899-05-10"></death>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>According to the 1860 Federal Census, Clark worked as a farm laborer for his father, Joab Clark.  Afterwards, however, he studied law and was listed as a lawyer in the 1870 census.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p>Find A Grave, “Col Albert Hawes &#39;Al&#39; Clark (November 3, 1839-May 10, 1899),” Memorial #88551098, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=88551098, (accessed June 3, 2017); <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedule, Kentucky, Christian, not stated, p. 316.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
