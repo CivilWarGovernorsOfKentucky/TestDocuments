@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="P00003493">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DP00003493">
     <teiHeader>
       <fileDesc>
     <titleStmt>
@@ -37,7 +37,7 @@
                 </keywords>
             </textClass>
             <particDesc>
-                <place xml:id="cwgk:P00003493">
+                <place xml:id="P00003493">
                     <placeName>
                         <location>
                             <settlement>Garret County</settlement>
