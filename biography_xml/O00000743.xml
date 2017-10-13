@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="O001006">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DO00000743">
     <teiHeader>
       <fileDesc>
     <titleStmt>
@@ -33,10 +33,10 @@
                 </keywords>
             </textClass>
             <particDesc>
-                <org xml:id="cwgk:O00000743">
+                <org xml:id="O00000743">
                     <orgName>Army of the James</orgName>
                       <event type="begun" when="1864-04-02">Begun </event>
-                      <event type="begun" when="1865-08-01"></devent>
+                      <event type="begun" when="1865-08-01"></event>
 
                 </org>
             </particDesc>
