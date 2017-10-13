@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00007357">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Isaac Russell Elwood</title>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>James N. McAllister</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00007357">
+                    <persName>
+                      Isaac Russell Elwood
+                        ()
+                    </persName>
+                      <birth when="c1804"></birth>
+                      <death when="1863-02-27"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Born in Springfield, New York around 1804. Secretary of the New York and Mississippi Valley Printing Telegraph Company. Later the Treasurer and Secretary of the Western Union Telegraph Company. Died on February 27, 1863, in Rochester, New York.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p>The New York Genealogical and Biographical Record, volume LIII. ed. Totten, John Reynolds. New York: New York Genealogical and Biographical Society, 1922. THE DEATH OF ISAAC R. ELWOOD, ESQ. The New York Times. March 2, 1863. Find a Grave Index, 1600s-Current, “Isaac Russell Elwood (1800-1863),” http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=6761628, (Accessed January 28, 2017). 1860; Census Place: Rochester Ward 5, Monroe, New York; Roll: M653_782; Page: 367; Family History Library Film: 803782; 1860 U.S. census, population schedule. NARA microfilm publication M653, 1,438 rolls. Washington, D.C.: National Archives and Records Administration, n.d.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
