@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="P001016">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DP001016">
     <teiHeader>
       <fileDesc>
     <titleStmt>
@@ -33,7 +33,7 @@
                 </keywords>
             </textClass>
             <particDesc>
-                <place xml:id="cwgk:P001016">
+                <place xml:id="P001016">
                     <placeName>
                         <location>
                             <settlement>Keokuk, Iowa</settlement>
