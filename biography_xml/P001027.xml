@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="P001027">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DP001027">
     <teiHeader>
       <fileDesc>
     <titleStmt>
@@ -33,7 +33,7 @@
                 </keywords>
             </textClass>
             <particDesc>
-                <place xml:id="cwgk:P001027">
+                <place xml:id="P001027">
                     <placeName>
                         <location>
                             <settlement>Los Angeles, California</settlement>
