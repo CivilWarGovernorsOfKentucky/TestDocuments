@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="O001006">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DO00003625">
     <teiHeader>
       <fileDesc>
     <titleStmt>
@@ -37,10 +37,10 @@
                 </keywords>
             </textClass>
             <particDesc>
-                <org xml:id="cwgk:O00003625">
+                <org xml:id="O00003625">
                     <orgName>William B. Baker &amp; Company</orgName>
                       <event type="begun" when="unknown">Begun </event>
-                      <event type="begun" when="unknown"></devent>
+                      <event type="begun" when="unknown"></event>
 
                 </org>
             </particDesc>
