@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00006413">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Elisha Logan Cockrill</title>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Hannah M. O&#39;Daniel</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00006413">
+                    <persName>
+                      Elisha Logan Cockrill
+                        (Estill County farmer and Justice of the Peace)
+                    </persName>
+                      <birth when="1822-12-04"></birth>
+                      <death when="1876-11-02"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Estill County, Kentucky farmer and Justice of the Peace. Married Rebecca A. McMonigal Cockrill. Father of Mary P. Cockrill, Belle F. Cockrill, Madison Cockrill, and Amanda Cockrill. Legislator in the Kentucky House of Representatives from 1847 to 1848. Estill County Justice of the Peace in 1864.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p>Seventh Manuscript Census of the United States (1850), Population Schedules, Kentucky, Estill County, p. 105. Eighth Manuscript Census of the United States (1860), Population Schedules, Kentucky, Estill County, p. 90. <em>Consolidated Lists of Civil War Draft Registrations, 1863-1865</em>, Ancestry, Kentucky, Eighth Congressional District, Estill County, 1863, p. 27. <em>U.S. IRS Tax Assessment Lists, 1862-1918</em>, Ancestry, Kentucky, 1865, Collection District 2, Division 11, p. 23. Ninth Manuscript Census of the United States (1870), Population Schedules, Kentucky, Estill County, Irvine, p. 11. <em>Journal of the House of Representatives of the Commonwealth of Kentucky, Begun and Held in the Town of Frankfort, on Friday the Thirty First Day of December, in the Year of our Lord, 1847, and of the Commonwealth, the Fifty Sixth</em> (Frankfort, KY: A. G. Hodges, 1847), p. 4. <em>Kentucky Vital Statistics Original Death Certificates (1911-1955)</em>, Ancestry, 1914, Rockcastle County, file no. 5452. “Elisha Logan Cockrell,” <em>Find A Grave</em>, June 22, 2016, memorial no. 165885580.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
