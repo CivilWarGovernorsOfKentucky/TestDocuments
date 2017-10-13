@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="P001822">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DP001822">
     <teiHeader>
       <fileDesc>
     <titleStmt>
@@ -33,7 +33,7 @@
                 </keywords>
             </textClass>
             <particDesc>
-                <place xml:id="cwgk:P001822">
+                <place xml:id="P001822">
                     <placeName>
                         <location>
                             <settlement>Meade County, Kentucky</settlement>
