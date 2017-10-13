@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="O001006">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DO00000633">
     <teiHeader>
       <fileDesc>
     <titleStmt>
@@ -37,10 +37,10 @@
                 </keywords>
             </textClass>
             <particDesc>
-                <org xml:id="cwgk:O00000633">
+                <org xml:id="O00000633">
                     <orgName>Henderson County Court</orgName>
                       <event type="begun" when="unknown">Begun </event>
-                      <event type="begun" when="unknown"></devent>
+                      <event type="begun" when="unknown"></event>
 
                 </org>
             </particDesc>
