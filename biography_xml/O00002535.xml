@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="O001006">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DO00002535">
     <teiHeader>
       <fileDesc>
     <titleStmt>
@@ -45,10 +45,10 @@
                 </keywords>
             </textClass>
             <particDesc>
-                <org xml:id="cwgk:O00002535">
+                <org xml:id="O00002535">
                     <orgName>3rd Military District of Kentucky</orgName>
                       <event type="begun" when="1863">Begun </event>
-                      <event type="begun" when="1865"></devent>
+                      <event type="begun" when="1865"></event>
 
                 </org>
             </particDesc>
