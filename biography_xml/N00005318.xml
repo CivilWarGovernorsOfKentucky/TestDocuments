@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00005318">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">David Tod</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Stephen Powell</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Stephen Powell</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00005318">
+                    <persName>
+                      David Tod
+                        (Governor of Ohio)
+                    </persName>
+                      <birth when="1805-02-21"></birth>
+                      <death when="1868-11-13"></death>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>DAVID TOD, the twenty-fifth governor of Ohio, was born near Youngstown, Ohio on February 21, 1805. His education was attained in the common schools and at the Burton Academy in Geauga County. He went on to study law, and in 1827 was licensed to practice. He also became a successful businessman, with interests in the railroad, iron, and coal industries. Tod first entered politics in 1838, serving as a one-term member of the Ohio State Senate. He also served as ambassador to Brazil from 1847 to 1851. Tod next secured the Union Party&#39;s gubernatorial nomination, and was elected governor by a popular vote in the 1861 general election. During his tenure, war issues consumed the majority of his term. After completing his term, Dennison was offered a position in President Lincoln&#39;s cabinet as secretary of the treasury. However, he declined the offer citing his failing health. In 1868 he was selected to serve as a Republican presidential elector, but he died before assuming his position. Governor David Tod passed away on November 13, 1868, and was buried in the Oak Hill Cemetery in Youngstown, Ohio.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p>Sobel, Robert, and John Raimo, eds. <em>Biographical Directory of the Governors of the United States, 1789-1978</em>, Vol. 3, Westport, Conn.; Meckler Books, 1978. 4 vols.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
