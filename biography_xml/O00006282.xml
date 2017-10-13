@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="O001006">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DO00006282">
     <teiHeader>
       <fileDesc>
     <titleStmt>
@@ -37,10 +37,10 @@
                 </keywords>
             </textClass>
             <particDesc>
-                <org xml:id="cwgk:O00006282">
+                <org xml:id="O00006282">
                     <orgName>The Frankfort Commonwealth</orgName>
                       <event type="begun" when="1833">Begun </event>
-                      <event type="begun" when="1872"></devent>
+                      <event type="begun" when="1872"></event>
 
                 </org>
             </particDesc>
