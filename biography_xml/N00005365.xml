@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00005365">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Hylan Benton Lyon</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Stephen Powell</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Stephen Powell</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00005365">
+                    <persName>
+                      Hylan Benton Lyon
+                        (Confederate general)
+                    </persName>
+                      <birth when="1836-02-22"></birth>
+                      <death when="1907-04-25"></death>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Lyon graduated from West Point in 1856 and served as an artillery officer until he resigned his commission on April 30, 1861 to join the Confederate Army.  He was captured at Fort Donelson on February 16, 1862 and was exchanged in August.  Lyon was eventually promoted to Brigadier General and served in the Department of Western Kentucky.  Lyon’s report of his raid mentions that he burned several courthouses, which were being used as barracks by the Union army, and destroyed thousands of dollars worth of supplies.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p>Find A Grave, “BG Hylan Benton Lyon (February 22, 1836-April 25, 1907),” Memorial #8929, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=8929 (accessed June 5, 2017); John H. Eicher and David J Eicher, <em>Civil War High Commands</em> (Stanford: Stanford University Press, 2001), 357; The United States War Department, <em>The War of the Rebellion: A Compilation of the Official Records of the Union and Confederate Armies</em>, Series 1, Volume 45 (Part I), 1894, 803-806.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
