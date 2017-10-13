@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="O001006">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DO00000266">
     <teiHeader>
       <fileDesc>
     <titleStmt>
@@ -49,10 +49,10 @@
                 </keywords>
             </textClass>
             <particDesc>
-                <org xml:id="cwgk:O00000266">
+                <org xml:id="O00000266">
                     <orgName>Kentucky State Penitentiary</orgName>
                       <event type="begun" when="1798">Begun </event>
-                      <event type="begun" when="1884"></devent>
+                      <event type="begun" when="1884"></event>
 
                 </org>
             </particDesc>
