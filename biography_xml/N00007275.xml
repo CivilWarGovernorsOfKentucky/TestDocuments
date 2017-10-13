@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00007275">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">James T. Bramlette</title>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Jesse Nasta</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00007275">
+                    <persName>
+                      James T. Bramlette
+                        (Son of Governor Thomas E. Bramlette. Also a KY state legislator, lawyer, and inspector general)
+                    </persName>
+                      <birth when="1839-08-27"></birth>
+                      <death when="1872-02-10"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Born in Clinton County, KY, eldest son of Governor Thomas E. Bramlette. Attended Center College at Danville, KY. Admitted to the bar in 1860. Quit the army and was elected to the Lower Branch of the KY Legislature in 1863. Lieutenant-Colonel of the 12th KY Cavalry during the Civil War. Inspector General of Kentucky in 1865.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p>&quot;Death of Col. Bramlette. Some Account of his Military and Political Life,&quot; Louisville <em>Courier-Journal</em>, 11 Feb 1872, p. 4. ProQuest Historical Newspapers.</p>
+
+<p><em>Journal of the House of Representatives of the Commonwealth of Kentucky,</em> (Frankfort, KY: George D. Prentice, State Printer, 1865), 36 (accessed https://books.google.com/books?id=qMElAQAAIAAJ&amp;pg=PA36&amp;dq=Bramlette+Kentucky+%22inspector+general%22&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwig9vHhssrUAhXHOz4KHTw8Bo0Q6AEIIjAA#v=onepage&amp;q=%22J.T.%20Bramlette%22&amp;f=false)</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
