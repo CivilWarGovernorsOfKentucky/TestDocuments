@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00005677">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Richard Berryman Ellis</title>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Jesse Nasta</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00005677">
+                    <persName>
+                      Richard Berryman Ellis
+                        (Henry County druggist)
+                    </persName>
+                      <birth when="1824-02-24"></birth>
+                      <death when="1899-01-21"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>A Bourbon County, Kentucky-born druggist. Son of James Parrish Ellis and Jane Berryman. Residence: New Castle, Henry County, Kentucky.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p>Find A Grave, Richard Berryman Ellis (1824-1899), Find A Grave Memorial # 65703015, New Castle Cemetery, New Castle, Henry County, Kentucky, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GSln=ELL&amp;GSpartial=1&amp;GSbyrel=all&amp;GSst=19&amp;GScntry=4&amp;GSsr=4841&amp;GRid=65703015&amp; (accessed 11 May 2017).</p>
+
+<p>Ninth Manuscript Census of the United States (1870), Population Schedules, Kentucky, Henry County, New Castle, p. 1.</p>
+
+<p>Seventh Manuscript Census of the United States (1850), Population Schedules, Kentucky, Henry County, District 2, p. 900. </p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
