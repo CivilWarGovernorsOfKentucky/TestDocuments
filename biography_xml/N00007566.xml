@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00007566">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Calvin Luther Creekmore</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Jesse Nasta</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Jesse Nasta</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00007566">
+                    <persName>
+                      Calvin Luther Creekmore
+                        (Whitley County farmer)
+                    </persName>
+                      <birth when="1823-02-05"></birth>
+                      <death when="1906-07-31"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Residence: Williamsburg, Whitley County, KY. A farmer. Born in Kentucky, son of Horatio Gates Creekmore and Lurany Meadors. Married Mahala Ross. Father of Lorenza Creekmore, Luraney Creekmore, Napoleon B. Creekmore, Addison W. Creekmore, Joseph R. Creekmore, Millard Fillmore Creekmore, Elizabeth Creekmore, Calvin L. Creekmore, Mahala C. (Creekmore) Ellison, Helen Narcissus (Creekmore) Miller, Susan (Creekmore) Burns, and Mary (Creekmore) Haley. </p>
+
+    </body>
+    <back>
+        <ab><bibl><p>Eighth Manuscript Census of the United States (1860), Population Schedules, Kentucky, Whitley County, Williamsburg District, p. 65.</p>
+
+<p>Find A Grave, Entry for Calvin Luther Creekmore (1823-1906), Find A Grave Memorial #18572091, Pilot Knob Cemetery, Berea, Madison County, Kentucky, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GSln=creekmore&amp;GSfn=cal&amp;GSbyrel=all&amp;GSdy=1906&amp;GSdyrel=in&amp;GSob=n&amp;GRid=18572091&amp;df=all&amp; (accessed 23 June 2017).</p>
+
+<p>Seventh Manuscript Census of the United States (1850), Population Schedules, Kentucky, Whitley County, District 1, p. 336.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
