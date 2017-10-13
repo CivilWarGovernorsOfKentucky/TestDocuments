@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="P001028">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DP001028">
     <teiHeader>
       <fileDesc>
     <titleStmt>
@@ -33,7 +33,7 @@
                 </keywords>
             </textClass>
             <particDesc>
-                <place xml:id="cwgk:P001028">
+                <place xml:id="P001028">
                     <placeName>
                         <location>
                             <settlement>Hanover, Indiana</settlement>
