@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="O001006">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DO001002">
     <teiHeader>
       <fileDesc>
     <titleStmt>
@@ -37,10 +37,10 @@
                 </keywords>
             </textClass>
             <particDesc>
-                <org xml:id="cwgk:O001002">
+                <org xml:id="O001002">
                     <orgName>Louisville Journal</orgName>
                       <event type="begun" when="1830">Begun </event>
-                      <event type="begun" when="1868"></devent>
+                      <event type="begun" when="1868"></event>
 
                 </org>
             </particDesc>
