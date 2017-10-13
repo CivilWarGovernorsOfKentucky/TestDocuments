@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="O001006">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DO00000738">
     <teiHeader>
       <fileDesc>
     <titleStmt>
@@ -33,10 +33,10 @@
                 </keywords>
             </textClass>
             <particDesc>
-                <org xml:id="cwgk:O00000738">
+                <org xml:id="O00000738">
                     <orgName>Department of the Tennessee</orgName>
                       <event type="begun" when="1862-10-16">Begun </event>
-                      <event type="begun" when="1866-06-05"></devent>
+                      <event type="begun" when="1866-06-05"></event>
 
                 </org>
             </particDesc>
