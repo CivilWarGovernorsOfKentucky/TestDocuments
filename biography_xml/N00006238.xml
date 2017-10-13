@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00006238">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">John M. Chambers</title>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00006238">
+                    <persName>
+                      John M. Chambers
+                        (Kenton County physician and soldier)
+                    </persName>
+                      <birth when="1833-06-19"></birth>
+                      <death when="1928"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Kenton County, Kentucky, physician, farmer, and soldier. Madison, Indiana native. Educated in the Jefferson County, Indiana. Graduated from the College of Franklin in 1854. Studied medicine under Dr. J. R. Halderman of Madison. Assessor in Jefferson County. School commissioner in Jefferson County. Graduated from the University of New York in 1859. Began practicing medicine in Independence, Kentucky in from 1859 to 1887. Colonel of the 60th Regiment of Kentucky Militia in 1863.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p>W. H. Perrin, J. H. Battle, and G. C. Kniffin, <em>Kentucky: A History of the State (Louisville: F. A. Battery and Co., 1887), 764-765; _Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Kenton County, Independence, p. 1; &quot;Dr. John M. Chambers,&quot; (https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=70215174&amp;ref=acom) (accessed on May 17, 2017); KYR-0002-022-0075.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
