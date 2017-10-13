@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00006452">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Frederick Ampher</title>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Samuel T. Whittaker</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00006452">
+                    <persName>
+                      Frederick Ampher
+                        (Campbell County Farmer)
+                    </persName>
+                      <birth when="c1822"></birth>
+                      <death when="1910-03-18"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Native of Wurttemberg in modern-day Germany. Married Dorithy Walter in Campbell County, Kentucky on June 24, 1850. Worked as a farmer in Campbell County in 1860. Became a saloon keeper at some point in the 1860s. Convicted of selling liquor to minors in 1864. </p>
+
+<p>Spouse: Dorithy Ampher (Walter)<br>
+Chidren: Recka Ampher, Whilamena Ampher, Mary Ampher, Louisa Ampher, Frederick Ampher </p>
+
+    </body>
+    <back>
+        <ab><bibl><p>Eighth Manuscript Census of the United States (1860), Population Schedule, Kentucky, Campbell County, page 141.</p>
+
+<p>Ninth Manuscript Census of the United States (1870), Population Schedule, Ohio, Clermont County, New Richmond, page 20.</p>
+
+<p>Northern Kentucky Marriages, 1795-1850, http://search.ancestry.com/cgi-bin/sse.dll?indiv=1&amp;db=nkymar&amp;h=117&amp;tid=&amp;pid=&amp;usePUB=true&amp;<em>phsrc=SVs1844&amp;</em>phstart=successSource&amp;usePUBJs=true&amp;rhSource=7163 accessed 05/22/2017.</p>
+
+<p>U.S. Find a Grave Index, 1600-Present, &quot;Frederick Ampfer,&quot; https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=134087286&amp;ref=acom accessed 05/22/2017.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
