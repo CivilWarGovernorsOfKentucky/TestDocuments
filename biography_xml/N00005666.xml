@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00005666">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Alpheus B. Miller</title>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Samuel T. Whittaker</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00005666">
+                    <persName>
+                      Alpheus B. Miller
+                        (Louisville Brick Layer/2nd/34th KY Infantry)
+                    </persName>
+                      <birth when="c1820"></birth>
+                      <death when="unknown"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Native of Kentucky. Worked as a brick layer in Louisville. Served as a private in company H of the 2nd Kentucky Infantry and company D of the 34th Kentucky Infantry during the Civil War. In 1861, he was charged with intimidating a witness regarding his son, Charles, theft of bed clothes. In 1864, his son Charles again found himself accused of theft, and Alpheus worked for his pardon.</p>
+
+<p>Spouse: Amanda Miller<br>
+Children: Charles Miller, George Miller, Florence Miller, Mary Miller</p>
+
+    </body>
+    <back>
+        <ab><bibl><p>Eighth Manuscript Census of the United States (1860), Population Schedule, Kentucky, Jefferson County, Louisville, Ward 2, page 356.</p>
+
+<p>Civil War Pensions Index, Kentucky, Infantry, 2nd, company H, 157.</p>
+
+<p><em>The Louisville Daily Courier</em>, &quot;Police Court,&quot; March 4, 1861.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
