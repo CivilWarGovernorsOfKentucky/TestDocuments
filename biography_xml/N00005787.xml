@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00005787">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">James Vanderen</title>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Courtney Buchkoski</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00005787">
+                    <persName>
+                      James Vanderen
+                        (Harrison County)
+                    </persName>
+                      <birth when="1821-10-18"></birth>
+                      <death when="1899-01-31"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Born on October 18, 1821. Married to Sarah Elizabeth Waits VanDeren. Children included Edward Franklin, Anna Flora, and Elizabeth A. Died on January 31, 1899. </p>
+
+    </body>
+    <back>
+        <ab><bibl><p>&quot;Find A Grave Index,&quot; database, FamilySearch (https://familysearch.org/ark:/61903/1:1:Q249-HNCC : 19 September 2016), James Vanderen, 1899; Burial, Cynthiana, Harrison, Kentucky, United States of America, Battle Grove Cemetery; citing record ID 165293054, Find a Grave, http://www.findagrave.com.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
