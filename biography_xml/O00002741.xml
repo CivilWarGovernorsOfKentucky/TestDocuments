@@ -43,9 +43,8 @@
             <particDesc>
                 <org xml:id="O00002741">
                     <orgName>Farmer&#39;s Bank of Kentucky</orgName>
-                      <event type="begun" when="1850-09-16">Begun </event>
-                      <event type="begun" when="unknown"></event>
-
+                      <event type="begun" when="1850-09-16">1850-09-16</event>
+                      <event type="ended" when="unknown">unknown</event>
                 </org>
             </particDesc>
         </profileDesc>
