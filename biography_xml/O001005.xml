@@ -51,8 +51,8 @@
             <particDesc>
                 <org xml:id="O001005">
                     <orgName>Southern Bank of Kentucky</orgName>
-                      <event type="begun" when="1850"></event>
-                      <event type="ended" when="1866"></event>
+                      <event type="begun" when="1850">1850</event>
+                      <event type="ended" when="1866">1866</event>
                 </org>
             </particDesc>
         </profileDesc>
