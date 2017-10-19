@@ -47,9 +47,8 @@
             <particDesc>
                 <org xml:id="O00008166">
                     <orgName>Commercial Bank of Kentucky</orgName>
-                      <event type="begun" when="1852-01-02">Begun </event>
-                      <event type="begun" when="unknown"></event>
-
+                      <event type="begun" when="1852-01-02">1852-01-02</event>
+                      <event type="ended" when="unknown">unknown</event>
                 </org>
             </particDesc>
         </profileDesc>
