@@ -43,8 +43,8 @@
             <particDesc>
                 <org xml:id="O001020">
                     <orgName>House of Representatives of the Commonwealth of Kentucky</orgName>
-                      <event type="begun" when="1792"></event>
-                      <event type="ended" when="unknown"></event>
+                      <event type="begun" when="1792">1792</event>
+                      <event type="ended" when="unknown">unknown</event>
                 </org>
             </particDesc>
         </profileDesc>
