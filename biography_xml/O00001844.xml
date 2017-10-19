@@ -35,9 +35,8 @@
             <particDesc>
                 <org xml:id="O00001844">
                     <orgName>2nd United States Tax District of Kentucky</orgName>
-                      <event type="begun" when="1862">Begun </event>
-                      <event type="begun" when="unknown"></event>
-
+                      <event type="begun" when="1862">1862</event>
+                      <event type="ended" when="unknown">unknown</event>
                 </org>
             </particDesc>
         </profileDesc>
