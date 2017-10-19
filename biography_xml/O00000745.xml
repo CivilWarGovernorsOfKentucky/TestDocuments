@@ -35,9 +35,8 @@
             <particDesc>
                 <org xml:id="O00000745">
                     <orgName>Army of East Tennessee (Confederate)</orgName>
-                      <event type="begun" when="1862-08-21">Begun </event>
-                      <event type="begun" when="1862-11-20"></event>
-
+                      <event type="begun" when="1862-08-21">1862-08-21</event>
+                      <event type="ended" when="1862-11-20">1862-11-20</event>
                 </org>
             </particDesc>
         </profileDesc>
