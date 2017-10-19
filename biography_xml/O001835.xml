@@ -43,6 +43,8 @@
             <particDesc>
                 <org xml:id="O001835">
                     <orgName>United States District Court for Kentucky</orgName>
+                      <event type="begun" when="1789"></event>
+                      <event type="ended" when="1901"></event>
                       <event type="begun" when="1789">Begun </event>
                       <event type="begun" when="1901"></event>
 
