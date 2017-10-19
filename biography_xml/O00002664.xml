@@ -39,9 +39,8 @@
             <particDesc>
                 <org xml:id="O00002664">
                     <orgName>17th Kentucky Infantry</orgName>
-                      <event type="begun" when="1862-01-04">Begun </event>
-                      <event type="begun" when="1865-01-23"></event>
-
+                      <event type="begun" when="1862-01-04">1862-01-04</event>
+                      <event type="ended" when="1865-01-23">1865-01-23</event>
                 </org>
             </particDesc>
         </profileDesc>
