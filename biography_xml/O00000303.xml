@@ -39,11 +39,8 @@
             <particDesc>
                 <org xml:id="O00000303">
                     <orgName>Kentucky State Guard</orgName>
-                      <event type="begun" when="1860"></event>
-                      <event type="ended" when="1861"></event>
-                      <event type="begun" when="1860">Begun </event>
-                      <event type="begun" when="1861"></event>
-
+                      <event type="begun" when="1860">1860</event>
+                      <event type="ended" when="1861">1861</event>
                 </org>
             </particDesc>
         </profileDesc>
