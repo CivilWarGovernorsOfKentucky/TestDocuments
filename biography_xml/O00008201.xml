@@ -39,9 +39,8 @@
             <particDesc>
                 <org xml:id="O00008201">
                     <orgName>Tyler and Martin</orgName>
-                      <event type="begun" when="c1859">Begun </event>
-                      <event type="begun" when="c1885"></event>
-
+                      <event type="begun" when="c1859">c1859</event>
+                      <event type="ended" when="c1885">c1885</event>
                 </org>
             </particDesc>
         </profileDesc>
