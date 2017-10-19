@@ -47,9 +47,8 @@
             <particDesc>
                 <org xml:id="O00006734">
                     <orgName>Nettleton, Gilbert, &amp; Camp</orgName>
-                      <event type="begun" when="c1861">Begun </event>
-                      <event type="begun" when="unknown"></event>
-
+                      <event type="begun" when="c1861">c1861</event>
+                      <event type="ended" when="unknown">unknown</event>
                 </org>
             </particDesc>
         </profileDesc>
