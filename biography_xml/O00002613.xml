@@ -39,9 +39,8 @@
             <particDesc>
                 <org xml:id="O00002613">
                     <orgName>Green County Home Guard</orgName>
-                      <event type="begun" when="1861">Begun </event>
-                      <event type="begun" when="1865"></event>
-
+                      <event type="begun" when="1861">1861</event>
+                      <event type="ended" when="1865">1865</event>
                 </org>
             </particDesc>
         </profileDesc>
