@@ -47,9 +47,8 @@
             <particDesc>
                 <org xml:id="O00006529">
                     <orgName>Hardwick Oil Company</orgName>
-                      <event type="begun" when="1864-12-16">Begun </event>
-                      <event type="begun" when="unknown"></event>
-
+                      <event type="begun" when="1864-12-16">1864-12-16</event>
+                      <event type="ended" when="unknown">unknown</event>
                 </org>
             </particDesc>
         </profileDesc>
