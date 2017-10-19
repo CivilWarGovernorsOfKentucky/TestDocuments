@@ -43,9 +43,8 @@
             <particDesc>
                 <org xml:id="O00006534">
                     <orgName>23rd Kentucky Volunteer Infantry Regiment</orgName>
-                      <event type="begun" when="1862-01-02">Begun </event>
-                      <event type="begun" when="1865-12-27"></event>
-
+                      <event type="begun" when="1862-01-02">1862-01-02</event>
+                      <event type="ended" when="1865-12-27">1865-12-27</event>
                 </org>
             </particDesc>
         </profileDesc>
