@@ -35,9 +35,8 @@
             <particDesc>
                 <org xml:id="O00001841">
                     <orgName>United States Internal Revenue</orgName>
-                      <event type="begun" when="1862">Begun </event>
-                      <event type="begun" when="unknown"></event>
-
+                      <event type="begun" when="1862">1862</event>
+                      <event type="ended" when="unknown">unknown</event>
                 </org>
             </particDesc>
         </profileDesc>
