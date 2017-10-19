@@ -43,9 +43,8 @@
             <particDesc>
                 <org xml:id="O00005577">
                     <orgName>Milwaukee Circuit Court</orgName>
-                      <event type="begun" when="1848-05-29">Begun </event>
-                      <event type="begun" when="unknown"></event>
-
+                      <event type="begun" when="1848-05-29">1848-05-29</event>
+                      <event type="ended" when="unknown">unknown</event>
                 </org>
             </particDesc>
         </profileDesc>
