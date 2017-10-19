@@ -39,9 +39,8 @@
             <particDesc>
                 <org xml:id="O00004708">
                     <orgName>1st Regiment of Kentucky State Guards</orgName>
-                      <event type="begun" when="1862-09">Begun </event>
-                      <event type="begun" when="1862-12"></event>
-
+                      <event type="begun" when="1862-09">1862-09</event>
+                      <event type="ended" when="1862-12">1862-12</event>
                 </org>
             </particDesc>
         </profileDesc>
