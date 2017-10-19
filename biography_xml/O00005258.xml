@@ -43,9 +43,8 @@
             <particDesc>
                 <org xml:id="O00005258">
                     <orgName>4th KY Mounted Infantry (U.S.A.)</orgName>
-                      <event type="begun" when="1864">Begun </event>
-                      <event type="begun" when="1865-08-17"></event>
-
+                      <event type="begun" when="1864">1864</event>
+                      <event type="ended" when="1865-08-17">1865-08-17</event>
                 </org>
             </particDesc>
         </profileDesc>
