@@ -39,9 +39,8 @@
             <particDesc>
                 <org xml:id="O00006342">
                     <orgName>7th Kentucky Volunteer Cavalry</orgName>
-                      <event type="begun" when="1862-08-16">Begun </event>
-                      <event type="begun" when="1865-07-10"></event>
-
+                      <event type="begun" when="1862-08-16">1862-08-16</event>
+                      <event type="ended" when="1865-07-10">1865-07-10</event>
                 </org>
             </particDesc>
         </profileDesc>
