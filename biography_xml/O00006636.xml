@@ -39,9 +39,8 @@
             <particDesc>
                 <org xml:id="O00006636">
                     <orgName>2nd Ohio Volunteer Infanty</orgName>
-                      <event type="begun" when="1861-07-17">Begun </event>
-                      <event type="begun" when="1864-10-31"></event>
-
+                      <event type="begun" when="1861-07-17">1861-07-17</event>
+                      <event type="ended" when="1864-10-31">1864-10-31</event>
                 </org>
             </particDesc>
         </profileDesc>
