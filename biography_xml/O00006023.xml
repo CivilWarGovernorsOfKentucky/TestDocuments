@@ -43,9 +43,8 @@
             <particDesc>
                 <org xml:id="O00006023">
                     <orgName>12th Michigan Volunteer Infantry (U.S.A.)</orgName>
-                      <event type="begun" when="1862-03-01">Begun </event>
-                      <event type="begun" when="1866-02-15"></event>
-
+                      <event type="begun" when="1862-03-01">1862-03-01</event>
+                      <event type="ended" when="1866-02-15">1866-02-15</event>
                 </org>
             </particDesc>
         </profileDesc>
