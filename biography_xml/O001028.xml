@@ -39,11 +39,8 @@
             <particDesc>
                 <org xml:id="O001028">
                     <orgName>City of Louisville</orgName>
-                      <event type="begun" when="unknown"></event>
-                      <event type="ended" when="unknown"></event>
-                      <event type="begun" when="unknown">Begun </event>
-                      <event type="begun" when="unknown"></event>
-
+                      <event type="begun" when="unknown">unknown</event>
+                      <event type="ended" when="unknown">unknown</event>
                 </org>
             </particDesc>
         </profileDesc>
