@@ -39,9 +39,8 @@
             <particDesc>
                 <org xml:id="O00006416">
                     <orgName>Rion &amp; Mitchell</orgName>
-                      <event type="begun" when="unknown">Begun </event>
-                      <event type="begun" when="c1864"></event>
-
+                      <event type="begun" when="unknown">unknown</event>
+                      <event type="ended" when="c1864">c1864</event>
                 </org>
             </particDesc>
         </profileDesc>
