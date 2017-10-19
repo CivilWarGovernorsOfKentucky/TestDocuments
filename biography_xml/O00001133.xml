@@ -43,9 +43,8 @@
             <particDesc>
                 <org xml:id="O00001133">
                     <orgName>Kentucky Institute for the Feeble Minded</orgName>
-                      <event type="begun" when="1860-02-11">Begun </event>
-                      <event type="begun" when="c1972"></event>
-
+                      <event type="begun" when="1860-02-11">1860-02-11</event>
+                      <event type="ended" when="c1972">c1972</event>
                 </org>
             </particDesc>
         </profileDesc>
