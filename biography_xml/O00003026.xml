@@ -39,9 +39,8 @@
             <particDesc>
                 <org xml:id="O00003026">
                     <orgName>Army of Mississippi</orgName>
-                      <event type="begun" when="1862-03-05">Begun </event>
-                      <event type="begun" when="1864-06-23"></event>
-
+                      <event type="begun" when="1862-03-05">1862-03-05</event>
+                      <event type="ended" when="1864-06-23">1864-06-23</event>
                 </org>
             </particDesc>
         </profileDesc>
