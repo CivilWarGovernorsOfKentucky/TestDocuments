@@ -51,6 +51,8 @@
             <particDesc>
                 <org xml:id="O00000266">
                     <orgName>Kentucky State Penitentiary</orgName>
+                      <event type="begun" when="1798"></event>
+                      <event type="ended" when="1884"></event>
                       <event type="begun" when="1798">Begun </event>
                       <event type="begun" when="1884"></event>
 
