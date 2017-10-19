@@ -43,9 +43,8 @@
             <particDesc>
                 <org xml:id="O00001910">
                     <orgName>Louisville Pilot&#39;s Benevolent Association</orgName>
-                      <event type="begun" when="1841">Begun </event>
-                      <event type="begun" when="unknown"></event>
-
+                      <event type="begun" when="1841">1841</event>
+                      <event type="ended" when="unknown">unknown</event>
                 </org>
             </particDesc>
         </profileDesc>
