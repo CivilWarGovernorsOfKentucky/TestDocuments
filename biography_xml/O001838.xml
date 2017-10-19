@@ -47,6 +47,8 @@
             <particDesc>
                 <org xml:id="O001838">
                     <orgName>Louisville City Court</orgName>
+                      <event type="begun" when="1850"></event>
+                      <event type="ended" when="unknown"></event>
                       <event type="begun" when="1850">Begun </event>
                       <event type="begun" when="unknown"></event>
 
