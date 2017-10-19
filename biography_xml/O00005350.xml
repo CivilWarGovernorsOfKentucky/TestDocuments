@@ -43,9 +43,8 @@
             <particDesc>
                 <org xml:id="O00005350">
                     <orgName>Philadelphia Court of Common Pleas</orgName>
-                      <event type="begun" when="c1722">Begun </event>
-                      <event type="begun" when="unknown"></event>
-
+                      <event type="begun" when="c1722">c1722</event>
+                      <event type="ended" when="unknown">unknown</event>
                 </org>
             </particDesc>
         </profileDesc>
