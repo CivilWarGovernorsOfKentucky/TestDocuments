@@ -39,9 +39,8 @@
             <particDesc>
                 <org xml:id="O00008161">
                     <orgName>John Watt &amp; Co</orgName>
-                      <event type="begun" when="c1855">Begun </event>
-                      <event type="begun" when="c1868"></event>
-
+                      <event type="begun" when="c1855">c1855</event>
+                      <event type="ended" when="c1868">c1868</event>
                 </org>
             </particDesc>
         </profileDesc>
