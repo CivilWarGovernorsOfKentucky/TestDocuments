@@ -39,9 +39,8 @@
             <particDesc>
                 <org xml:id="O00006447">
                     <orgName>Kingdom of Belgium</orgName>
-                      <event type="begun" when="1831-07-21">Begun </event>
-                      <event type="begun" when="unknown"></event>
-
+                      <event type="begun" when="1831-07-21">1831-07-21</event>
+                      <event type="ended" when="unknown">unknown</event>
                 </org>
             </particDesc>
         </profileDesc>
