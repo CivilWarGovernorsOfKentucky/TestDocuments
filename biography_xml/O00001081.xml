@@ -51,9 +51,8 @@
             <particDesc>
                 <org xml:id="O00001081">
                     <orgName>Somerset Board of Trustees</orgName>
-                      <event type="begun" when="c1802">Begun </event>
-                      <event type="begun" when="c1888"></event>
-
+                      <event type="begun" when="c1802">c1802</event>
+                      <event type="ended" when="c1888">c1888</event>
                 </org>
             </particDesc>
         </profileDesc>
