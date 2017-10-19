@@ -43,9 +43,8 @@
             <particDesc>
                 <org xml:id="O00005367">
                     <orgName> 3rd Kentucky Cavalry</orgName>
-                      <event type="begun" when="1861-12-13">Begun </event>
-                      <event type="begun" when="1865-07-15"></event>
-
+                      <event type="begun" when="1861-12-13">1861-12-13</event>
+                      <event type="ended" when="1865-07-15">1865-07-15</event>
                 </org>
             </particDesc>
         </profileDesc>
