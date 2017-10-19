@@ -43,9 +43,8 @@
             <particDesc>
                 <org xml:id="O00001186">
                     <orgName>United States Army</orgName>
-                      <event type="begun" when="1775">Begun </event>
-                      <event type="begun" when="unknown"></event>
-
+                      <event type="begun" when="1775">1775</event>
+                      <event type="ended" when="unknown">unknown</event>
                 </org>
             </particDesc>
         </profileDesc>
