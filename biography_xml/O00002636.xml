@@ -39,9 +39,8 @@
             <particDesc>
                 <org xml:id="O00002636">
                     <orgName>11th Kentucky Infantry </orgName>
-                      <event type="begun" when="1861-12-09">Begun </event>
-                      <event type="begun" when="1864-12-01"></event>
-
+                      <event type="begun" when="1861-12-09">1861-12-09</event>
+                      <event type="ended" when="1864-12-01">1864-12-01</event>
                 </org>
             </particDesc>
         </profileDesc>
