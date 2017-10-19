@@ -39,9 +39,8 @@
             <particDesc>
                 <org xml:id="O00008223">
                     <orgName> Northern Bank of Kentucky. Glasgow Branch</orgName>
-                      <event type="begun" when="1859-06-01">Begun </event>
-                      <event type="begun" when="c1876"></event>
-
+                      <event type="begun" when="1859-06-01">1859-06-01</event>
+                      <event type="ended" when="c1876">c1876</event>
                 </org>
             </particDesc>
         </profileDesc>
