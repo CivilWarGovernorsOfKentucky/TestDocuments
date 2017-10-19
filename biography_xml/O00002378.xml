@@ -43,9 +43,8 @@
             <particDesc>
                 <org xml:id="O00002378">
                     <orgName>18th Kentucky Infantry</orgName>
-                      <event type="begun" when="1862-02-08">Begun </event>
-                      <event type="begun" when="1865-07-18"></event>
-
+                      <event type="begun" when="1862-02-08">1862-02-08</event>
+                      <event type="ended" when="1865-07-18">1865-07-18</event>
                 </org>
             </particDesc>
         </profileDesc>
