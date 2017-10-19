@@ -35,9 +35,8 @@
             <particDesc>
                 <org xml:id="O00000734">
                     <orgName>Western Department</orgName>
-                      <event type="begun" when="1861-07-03">Begun </event>
-                      <event type="begun" when="1861-11-09"></event>
-
+                      <event type="begun" when="1861-07-03">1861-07-03</event>
+                      <event type="ended" when="1861-11-09">1861-11-09</event>
                 </org>
             </particDesc>
         </profileDesc>
