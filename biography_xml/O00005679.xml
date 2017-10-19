@@ -39,9 +39,8 @@
             <particDesc>
                 <org xml:id="O00005679">
                     <orgName> 3rd Kentucky Infantry</orgName>
-                      <event type="begun" when="1861-10-08">Begun </event>
-                      <event type="begun" when="1864-10-18"></event>
-
+                      <event type="begun" when="1861-10-08">1861-10-08</event>
+                      <event type="ended" when="1864-10-18">1864-10-18</event>
                 </org>
             </particDesc>
         </profileDesc>
