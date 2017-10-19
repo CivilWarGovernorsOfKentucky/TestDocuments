@@ -39,9 +39,8 @@
             <particDesc>
                 <org xml:id="O00000925">
                     <orgName>Ninth Battery, Light Artillery, Indiana Volunteers</orgName>
-                      <event type="begun" when="1861-12-20">Begun </event>
-                      <event type="begun" when="1865-03-06"></event>
-
+                      <event type="begun" when="1861-12-20">1861-12-20</event>
+                      <event type="ended" when="1865-03-06">1865-03-06</event>
                 </org>
             </particDesc>
         </profileDesc>
