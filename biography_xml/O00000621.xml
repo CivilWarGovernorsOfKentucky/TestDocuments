@@ -39,9 +39,8 @@
             <particDesc>
                 <org xml:id="O00000621">
                     <orgName>Fayette County Court</orgName>
-                      <event type="begun" when="unknown">Begun </event>
-                      <event type="begun" when="unknown"></event>
-
+                      <event type="begun" when="unknown">unknown</event>
+                      <event type="ended" when="unknown">unknown</event>
                 </org>
             </particDesc>
         </profileDesc>
