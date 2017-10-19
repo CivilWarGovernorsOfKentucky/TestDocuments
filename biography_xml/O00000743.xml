@@ -35,9 +35,8 @@
             <particDesc>
                 <org xml:id="O00000743">
                     <orgName>Army of the James</orgName>
-                      <event type="begun" when="1864-04-02">Begun </event>
-                      <event type="begun" when="1865-08-01"></event>
-
+                      <event type="begun" when="1864-04-02">1864-04-02</event>
+                      <event type="ended" when="1865-08-01">1865-08-01</event>
                 </org>
             </particDesc>
         </profileDesc>
