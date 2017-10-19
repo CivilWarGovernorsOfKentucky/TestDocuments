@@ -47,9 +47,8 @@
             <particDesc>
                 <org xml:id="O00005581">
                     <orgName>Peckham &amp; Bloodgood</orgName>
-                      <event type="begun" when="c1854">Begun </event>
-                      <event type="begun" when="unknown"></event>
-
+                      <event type="begun" when="c1854">c1854</event>
+                      <event type="ended" when="unknown">unknown</event>
                 </org>
             </particDesc>
         </profileDesc>
