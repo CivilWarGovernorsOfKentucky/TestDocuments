@@ -39,9 +39,8 @@
             <particDesc>
                 <org xml:id="O00005095">
                     <orgName>55th Kentucky Mounted Infantry</orgName>
-                      <event type="begun" when="1864-11">Begun </event>
-                      <event type="begun" when="1865-09-19"></event>
-
+                      <event type="begun" when="1864-11">1864-11</event>
+                      <event type="ended" when="1865-09-19">1865-09-19</event>
                 </org>
             </particDesc>
         </profileDesc>
