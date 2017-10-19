@@ -43,8 +43,8 @@
             <particDesc>
                 <org xml:id="O001014">
                     <orgName>Fifth Judicial District of Kentucky</orgName>
-                      <event type="begun" when="unknown"></event>
-                      <event type="ended" when="unknown"></event>
+                      <event type="begun" when="unknown">unknown</event>
+                      <event type="ended" when="unknown">unknown</event>
                 </org>
             </particDesc>
         </profileDesc>
