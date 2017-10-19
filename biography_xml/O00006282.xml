@@ -39,9 +39,8 @@
             <particDesc>
                 <org xml:id="O00006282">
                     <orgName>The Frankfort Commonwealth</orgName>
-                      <event type="begun" when="1833">Begun </event>
-                      <event type="begun" when="1872"></event>
-
+                      <event type="begun" when="1833">1833</event>
+                      <event type="ended" when="1872">1872</event>
                 </org>
             </particDesc>
         </profileDesc>
