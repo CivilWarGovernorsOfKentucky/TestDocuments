@@ -43,9 +43,8 @@
             <particDesc>
                 <org xml:id="O00005233">
                     <orgName>11th Kentucky Cavalry</orgName>
-                      <event type="begun" when="1862-07">Begun </event>
-                      <event type="begun" when="1865-07-17"></event>
-
+                      <event type="begun" when="1862-07">1862-07</event>
+                      <event type="ended" when="1865-07-17">1865-07-17</event>
                 </org>
             </particDesc>
         </profileDesc>
