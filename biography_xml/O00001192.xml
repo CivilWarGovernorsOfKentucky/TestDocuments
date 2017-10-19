@@ -47,9 +47,8 @@
             <particDesc>
                 <org xml:id="O00001192">
                     <orgName>Kentucky Military Institute</orgName>
-                      <event type="begun" when="1845">Begun </event>
-                      <event type="begun" when="1971"></event>
-
+                      <event type="begun" when="1845">1845</event>
+                      <event type="ended" when="1971">1971</event>
                 </org>
             </particDesc>
         </profileDesc>
