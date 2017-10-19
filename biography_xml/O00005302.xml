@@ -43,9 +43,8 @@
             <particDesc>
                 <org xml:id="O00005302">
                     <orgName>5th Kentucky Cavalry</orgName>
-                      <event type="begun" when="1862-03-31">Begun </event>
-                      <event type="begun" when="1865-05-03"></event>
-
+                      <event type="begun" when="1862-03-31">1862-03-31</event>
+                      <event type="ended" when="1865-05-03">1865-05-03</event>
                 </org>
             </particDesc>
         </profileDesc>
