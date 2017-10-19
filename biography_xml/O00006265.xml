@@ -39,9 +39,8 @@
             <particDesc>
                 <org xml:id="O00006265">
                     <orgName>14th Kentucky Volunteer Infantry Regiment, U.S.A.</orgName>
-                      <event type="begun" when="1863-08">Begun </event>
-                      <event type="begun" when="1863-10"></event>
-
+                      <event type="begun" when="1863-08">1863-08</event>
+                      <event type="ended" when="1863-10">1863-10</event>
                 </org>
             </particDesc>
         </profileDesc>
