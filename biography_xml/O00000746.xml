@@ -35,9 +35,8 @@
             <particDesc>
                 <org xml:id="O00000746">
                     <orgName>Northern (Forrest&#39;s) Cavalry Department</orgName>
-                      <event type="begun" when="1864-01-26">Begun </event>
-                      <event type="begun" when="1865-05-09"></event>
-
+                      <event type="begun" when="1864-01-26">1864-01-26</event>
+                      <event type="ended" when="1865-05-09">1865-05-09</event>
                 </org>
             </particDesc>
         </profileDesc>
