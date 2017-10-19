@@ -39,9 +39,8 @@
             <particDesc>
                 <org xml:id="O00000896">
                     <orgName>Smith &amp; Wesson</orgName>
-                      <event type="begun" when="1856">Begun </event>
-                      <event type="begun" when="unknown"></event>
-
+                      <event type="begun" when="1856">1856</event>
+                      <event type="ended" when="unknown">unknown</event>
                 </org>
             </particDesc>
         </profileDesc>
