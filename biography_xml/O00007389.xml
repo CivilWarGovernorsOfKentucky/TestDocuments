@@ -67,9 +67,8 @@
             <particDesc>
                 <org xml:id="O00007389">
                     <orgName>Thomas Anderson &amp; Co.</orgName>
-                      <event type="begun" when="unknown">Begun </event>
-                      <event type="begun" when="1893"></event>
-
+                      <event type="begun" when="unknown">unknown</event>
+                      <event type="ended" when="1893">1893</event>
                 </org>
             </particDesc>
         </profileDesc>
