@@ -43,11 +43,8 @@
             <particDesc>
                 <org xml:id="O00000311">
                     <orgName>Kentucky Court of Appeals</orgName>
-                      <event type="begun" when="1792"></event>
-                      <event type="ended" when="unknown"></event>
-                      <event type="begun" when="1792">Begun </event>
-                      <event type="begun" when="unknown"></event>
-
+                      <event type="begun" when="1792">1792</event>
+                      <event type="ended" when="unknown">unknown</event>
                 </org>
             </particDesc>
         </profileDesc>
