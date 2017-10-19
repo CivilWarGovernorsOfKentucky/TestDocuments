@@ -39,9 +39,8 @@
             <particDesc>
                 <org xml:id="O00005136">
                     <orgName>1st Regiment Kentucky Volunteer Cavalry</orgName>
-                      <event type="begun" when="1861-10-28">Begun </event>
-                      <event type="begun" when="1865-09-20"></event>
-
+                      <event type="begun" when="1861-10-28">1861-10-28</event>
+                      <event type="ended" when="1865-09-20">1865-09-20</event>
                 </org>
             </particDesc>
         </profileDesc>
