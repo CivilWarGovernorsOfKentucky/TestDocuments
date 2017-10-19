@@ -39,9 +39,8 @@
             <particDesc>
                 <org xml:id="O00000872">
                     <orgName>Captain Barber&#39;s Company</orgName>
-                      <event type="begun" when="1865-06-14">Begun </event>
-                      <event type="begun" when="1865-11-04"></event>
-
+                      <event type="begun" when="1865-06-14">1865-06-14</event>
+                      <event type="ended" when="1865-11-04">1865-11-04</event>
                 </org>
             </particDesc>
         </profileDesc>
