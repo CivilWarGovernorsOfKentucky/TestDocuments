@@ -63,9 +63,8 @@
             <particDesc>
                 <org xml:id="O00002422">
                     <orgName>Western Lunatic Asylum of Kentucky</orgName>
-                      <event type="begun" when="1848">Begun </event>
-                      <event type="begun" when="unknown"></event>
-
+                      <event type="begun" when="1848">1848</event>
+                      <event type="ended" when="unknown">unknown</event>
                 </org>
             </particDesc>
         </profileDesc>
