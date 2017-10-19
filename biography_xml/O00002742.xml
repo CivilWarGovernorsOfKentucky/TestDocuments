@@ -43,9 +43,8 @@
             <particDesc>
                 <org xml:id="O00002742">
                     <orgName>Northern Bank of Kentucky</orgName>
-                      <event type="begun" when="1835">Begun </event>
-                      <event type="begun" when="1899"></event>
-
+                      <event type="begun" when="1835">1835</event>
+                      <event type="ended" when="1899">1899</event>
                 </org>
             </particDesc>
         </profileDesc>
