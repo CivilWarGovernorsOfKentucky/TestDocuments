@@ -43,9 +43,8 @@
             <particDesc>
                 <org xml:id="O00005987">
                     <orgName>156th Ohio Volunteer Infantry (U.S.A.)</orgName>
-                      <event type="begun" when="1864-05-15">Begun </event>
-                      <event type="begun" when="1864-09-01"></event>
-
+                      <event type="begun" when="1864-05-15">1864-05-15</event>
+                      <event type="ended" when="1864-09-01">1864-09-01</event>
                 </org>
             </particDesc>
         </profileDesc>
