@@ -39,9 +39,8 @@
             <particDesc>
                 <org xml:id="O00002377">
                     <orgName>Louisville-Nashville Railroad</orgName>
-                      <event type="begun" when="1850-03-05">Begun </event>
-                      <event type="begun" when="1982-12-31"></event>
-
+                      <event type="begun" when="1850-03-05">1850-03-05</event>
+                      <event type="ended" when="1982-12-31">1982-12-31</event>
                 </org>
             </particDesc>
         </profileDesc>
