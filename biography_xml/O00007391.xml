@@ -43,9 +43,8 @@
             <particDesc>
                 <org xml:id="O00007391">
                     <orgName>T. &amp; R. Slevin &amp; Cain</orgName>
-                      <event type="begun" when="1854">Begun </event>
-                      <event type="begun" when="1877"></event>
-
+                      <event type="begun" when="1854">1854</event>
+                      <event type="ended" when="1877">1877</event>
                 </org>
             </particDesc>
         </profileDesc>
