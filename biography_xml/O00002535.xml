@@ -47,9 +47,8 @@
             <particDesc>
                 <org xml:id="O00002535">
                     <orgName>3rd Military District of Kentucky</orgName>
-                      <event type="begun" when="1863">Begun </event>
-                      <event type="begun" when="1865"></event>
-
+                      <event type="begun" when="1863">1863</event>
+                      <event type="ended" when="1865">1865</event>
                 </org>
             </particDesc>
         </profileDesc>
