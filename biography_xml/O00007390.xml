@@ -43,9 +43,8 @@
             <particDesc>
                 <org xml:id="O00007390">
                     <orgName>Prather &amp; Smith</orgName>
-                      <event type="begun" when="1856">Begun </event>
-                      <event type="begun" when="unknown"></event>
-
+                      <event type="begun" when="1856">1856</event>
+                      <event type="ended" when="unknown">unknown</event>
                 </org>
             </particDesc>
         </profileDesc>
