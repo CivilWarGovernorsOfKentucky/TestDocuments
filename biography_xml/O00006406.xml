@@ -39,9 +39,8 @@
             <particDesc>
                 <org xml:id="O00006406">
                     <orgName>7th Kentucky Volunteer Infantry Regiment, U.S.A.</orgName>
-                      <event type="begun" when="1861-09-22">Begun </event>
-                      <event type="begun" when="1866-03-11"></event>
-
+                      <event type="begun" when="1861-09-22">1861-09-22</event>
+                      <event type="ended" when="1866-03-11">1866-03-11</event>
                 </org>
             </particDesc>
         </profileDesc>
