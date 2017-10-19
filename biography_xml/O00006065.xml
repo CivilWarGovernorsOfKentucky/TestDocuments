@@ -39,9 +39,8 @@
             <particDesc>
                 <org xml:id="O00006065">
                     <orgName>13th Kentucky Infantry</orgName>
-                      <event type="begun" when="1861-12-30">Begun </event>
-                      <event type="begun" when="1865-01-12"></event>
-
+                      <event type="begun" when="1861-12-30">1861-12-30</event>
+                      <event type="ended" when="1865-01-12">1865-01-12</event>
                 </org>
             </particDesc>
         </profileDesc>
