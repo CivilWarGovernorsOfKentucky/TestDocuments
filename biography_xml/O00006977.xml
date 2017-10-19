@@ -39,9 +39,8 @@
             <particDesc>
                 <org xml:id="O00006977">
                     <orgName>24th Kentucky Volunteer Infantry Regiment, U.S.A.</orgName>
-                      <event type="begun" when="1861-12-31">Begun </event>
-                      <event type="begun" when="1865-01-31"></event>
-
+                      <event type="begun" when="1861-12-31">1861-12-31</event>
+                      <event type="ended" when="1865-01-31">1865-01-31</event>
                 </org>
             </particDesc>
         </profileDesc>
