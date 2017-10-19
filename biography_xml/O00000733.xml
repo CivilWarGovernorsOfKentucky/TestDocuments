@@ -35,9 +35,8 @@
             <particDesc>
                 <org xml:id="O00000733">
                     <orgName>Department of the Cumberland</orgName>
-                      <event type="begun" when="1861-08-15">Begun </event>
-                      <event type="begun" when="1865-06-27"></event>
-
+                      <event type="begun" when="1861-08-15">1861-08-15</event>
+                      <event type="ended" when="1865-06-27">1865-06-27</event>
                 </org>
             </particDesc>
         </profileDesc>
