@@ -47,7 +47,7 @@
             <particDesc>
                 <org xml:id="O001000">
                     <orgName>Jefferson Circuit Court</orgName>
-                      <event type="begun" when="1850"></event>
+                      <event type="begun" when="1850">1850</event>
                 </org>
             </particDesc>
         </profileDesc>
