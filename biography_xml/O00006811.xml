@@ -55,9 +55,8 @@
             <particDesc>
                 <org xml:id="O00006811">
                     <orgName>The Drovers’ Inn</orgName>
-                      <event type="begun" when="1856">Begun </event>
-                      <event type="begun" when="1863"></event>
-
+                      <event type="begun" when="1856">1856</event>
+                      <event type="ended" when="1863">1863</event>
                 </org>
             </particDesc>
         </profileDesc>
