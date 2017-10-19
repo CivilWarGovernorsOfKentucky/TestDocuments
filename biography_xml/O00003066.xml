@@ -51,9 +51,8 @@
             <particDesc>
                 <org xml:id="O00003066">
                     <orgName>36th Regiment Indiana Volunteer Infantry</orgName>
-                      <event type="begun" when="1861-09-16">Begun </event>
-                      <event type="begun" when="1865-07-12"></event>
-
+                      <event type="begun" when="1861-09-16">1861-09-16</event>
+                      <event type="ended" when="1865-07-12">1865-07-12</event>
                 </org>
             </particDesc>
         </profileDesc>
