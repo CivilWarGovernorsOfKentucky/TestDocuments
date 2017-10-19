@@ -51,11 +51,8 @@
             <particDesc>
                 <org xml:id="O00000273">
                     <orgName>Military District of Kentucky</orgName>
-                      <event type="begun" when="1863-05-22"></event>
-                      <event type="ended" when="1865-01-17"></event>
-                      <event type="begun" when="1863-05-22">Begun </event>
-                      <event type="begun" when="1865-01-17"></event>
-
+                      <event type="begun" when="1863-05-22">1863-05-22</event>
+                      <event type="ended" when="1865-01-17">1865-01-17</event>
                 </org>
             </particDesc>
         </profileDesc>
