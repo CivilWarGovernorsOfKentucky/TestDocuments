@@ -59,9 +59,8 @@
             <particDesc>
                 <org xml:id="O00006826">
                     <orgName>Second Bank of Kentucky</orgName>
-                      <event type="begun" when="1835-04-29">Begun </event>
-                      <event type="begun" when="1865-03-13"></event>
-
+                      <event type="begun" when="1835-04-29">1835-04-29</event>
+                      <event type="ended" when="1865-03-13">1865-03-13</event>
                 </org>
             </particDesc>
         </profileDesc>
