@@ -51,9 +51,8 @@
             <particDesc>
                 <org xml:id="O00007392">
                     <orgName>Adath Israel</orgName>
-                      <event type="begun" when="1842">Begun </event>
-                      <event type="begun" when="unknown"></event>
-
+                      <event type="begun" when="1842">1842</event>
+                      <event type="ended" when="unknown">unknown</event>
                 </org>
             </particDesc>
         </profileDesc>
