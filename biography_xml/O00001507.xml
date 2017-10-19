@@ -47,9 +47,8 @@
             <particDesc>
                 <org xml:id="O00001507">
                     <orgName>18th Regiment Kentucky Volunteers</orgName>
-                      <event type="begun" when="1862-02-08">Begun </event>
-                      <event type="begun" when="1865-04-04"></event>
-
+                      <event type="begun" when="1862-02-08">1862-02-08</event>
+                      <event type="ended" when="1865-04-04">1865-04-04</event>
                 </org>
             </particDesc>
         </profileDesc>
