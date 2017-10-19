@@ -39,9 +39,8 @@
             <particDesc>
                 <org xml:id="O00000885">
                     <orgName>Harlan &amp; Harlan</orgName>
-                      <event type="begun" when="c1853">Begun </event>
-                      <event type="begun" when="c1867"></event>
-
+                      <event type="begun" when="c1853">c1853</event>
+                      <event type="ended" when="c1867">c1867</event>
                 </org>
             </particDesc>
         </profileDesc>
