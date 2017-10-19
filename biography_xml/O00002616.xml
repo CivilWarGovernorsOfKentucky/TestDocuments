@@ -39,9 +39,8 @@
             <particDesc>
                 <org xml:id="O00002616">
                     <orgName>9th Kentucky Cavalry, U.S.A.</orgName>
-                      <event type="begun" when="1862-08-22">Begun </event>
-                      <event type="begun" when="1863-09-11"></event>
-
+                      <event type="begun" when="1862-08-22">1862-08-22</event>
+                      <event type="ended" when="1863-09-11">1863-09-11</event>
                 </org>
             </particDesc>
         </profileDesc>
