@@ -43,9 +43,8 @@
             <particDesc>
                 <org xml:id="O00008182">
                     <orgName>Lexington Observer</orgName>
-                      <event type="begun" when="1831">Begun </event>
-                      <event type="begun" when="1873-03"></event>
-
+                      <event type="begun" when="1831">1831</event>
+                      <event type="ended" when="1873-03">1873-03</event>
                 </org>
             </particDesc>
         </profileDesc>
