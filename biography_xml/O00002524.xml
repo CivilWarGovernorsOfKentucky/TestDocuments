@@ -51,9 +51,8 @@
             <particDesc>
                 <org xml:id="O00002524">
                     <orgName>Bullitt &amp; Fairthorne</orgName>
-                      <event type="begun" when="c1849">Begun </event>
-                      <event type="begun" when="unknown"></event>
-
+                      <event type="begun" when="c1849">c1849</event>
+                      <event type="ended" when="unknown">unknown</event>
                 </org>
             </particDesc>
         </profileDesc>
