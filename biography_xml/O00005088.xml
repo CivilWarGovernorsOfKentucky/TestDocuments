@@ -39,9 +39,8 @@
             <particDesc>
                 <org xml:id="O00005088">
                     <orgName>1st Harlan County Battalion</orgName>
-                      <event type="begun" when="1862-10">Begun </event>
-                      <event type="begun" when="1863-02"></event>
-
+                      <event type="begun" when="1862-10">1862-10</event>
+                      <event type="ended" when="1863-02">1863-02</event>
                 </org>
             </particDesc>
         </profileDesc>
