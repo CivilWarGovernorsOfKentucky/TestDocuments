@@ -43,9 +43,8 @@
             <particDesc>
                 <org xml:id="O00007834">
                     <orgName>Rock Creek Home Guards</orgName>
-                      <event type="begun" when="1861">Begun </event>
-                      <event type="begun" when="c1865"></event>
-
+                      <event type="begun" when="1861">1861</event>
+                      <event type="ended" when="c1865">c1865</event>
                 </org>
             </particDesc>
         </profileDesc>
