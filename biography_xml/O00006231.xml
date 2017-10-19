@@ -39,9 +39,8 @@
             <particDesc>
                 <org xml:id="O00006231">
                     <orgName>32d Kentucky Infantry</orgName>
-                      <event type="begun" when="1862-08">Begun </event>
-                      <event type="begun" when="1863-08-12"></event>
-
+                      <event type="begun" when="1862-08">1862-08</event>
+                      <event type="ended" when="1863-08-12">1863-08-12</event>
                 </org>
             </particDesc>
         </profileDesc>
