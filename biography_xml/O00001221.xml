@@ -43,9 +43,8 @@
             <particDesc>
                 <org xml:id="O00001221">
                     <orgName>The USS Caledonia</orgName>
-                      <event type="begun" when="unknown">Begun </event>
-                      <event type="begun" when="1915"></event>
-
+                      <event type="begun" when="unknown">unknown</event>
+                      <event type="ended" when="1915">1915</event>
                 </org>
             </particDesc>
         </profileDesc>
