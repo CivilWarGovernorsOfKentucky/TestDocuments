@@ -43,9 +43,8 @@
             <particDesc>
                 <org xml:id="O00006066">
                     <orgName>Military Board of Kentucky</orgName>
-                      <event type="begun" when="1861-05-24">Begun </event>
-                      <event type="begun" when="1862-08-28"></event>
-
+                      <event type="begun" when="1861-05-24">1861-05-24</event>
+                      <event type="ended" when="1862-08-28">1862-08-28</event>
                 </org>
             </particDesc>
         </profileDesc>
