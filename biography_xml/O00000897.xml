@@ -39,9 +39,8 @@
             <particDesc>
                 <org xml:id="O00000897">
                     <orgName>10th Kentucky Cavalry Partisan Rangers, Company H (reorganized as Company I)</orgName>
-                      <event type="begun" when="1862-09-05">Begun </event>
-                      <event type="begun" when="1865"></event>
-
+                      <event type="begun" when="1862-09-05">1862-09-05</event>
+                      <event type="ended" when="1865">1865</event>
                 </org>
             </particDesc>
         </profileDesc>
