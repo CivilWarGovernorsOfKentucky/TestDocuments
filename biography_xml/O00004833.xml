@@ -63,9 +63,8 @@
             <particDesc>
                 <org xml:id="O00004833">
                     <orgName>Hunter &amp; Bruce</orgName>
-                      <event type="begun" when="1855">Begun </event>
-                      <event type="begun" when="1869"></event>
-
+                      <event type="begun" when="1855">1855</event>
+                      <event type="ended" when="1869">1869</event>
                 </org>
             </particDesc>
         </profileDesc>
