@@ -60,12 +60,15 @@
  </teiHeader>
  <text>
   <body>
-   <p>, <placeName ref="cwgk:P00001744">Rockville</placeName><placeName ref="cwgk:P00001745">Parke County, Ind.</placeName><lb/><date when="1860-11-19">November 19th 1860</date>
-<lb/> Asst Sec of State<persName ref="cwgk:N00001223">Jas. W. Tate</persName><lb/>.<placeName ref="cwgk:P00000308">Frankfort. Ky</placeName><lb/>Sir</p>
-<p>Your note enclosing Commission from is received.<persName ref="cwgk:N00000258">Govenor of Kentucky </persName></p>
+   <p>Rockville, Parke County, Ind.
+<lb/><date when="1860-11-19">November 19th 1860</date>
+<lb/>Jas. W. Tate Asst Sec of State
+<lb/>Frankfort. Ky.
+<lb/>Sir</p>
+<p>Your note enclosing Commission from Govenor of Kentucky is received.</p>
 <p>Enclosed please find certificate of my Oath together with fee for com<hi rend="sup">r</hi>. $5.00.</p>
 <p>Your. Obt. Sevt.
-<lb/><persName ref="cwgk:N00001703">Geo. W. Thompson</persName></p>
+<lb/><hi rend="underline">Geo. W. Thompson</hi></p>
   </body>
  </text>
 </TEI>
