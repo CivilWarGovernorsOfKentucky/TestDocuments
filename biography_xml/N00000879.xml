@@ -3,15 +3,19 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">John A. Boyle</title>
+        <title level="a" type="main">John Boyle</title>
           <respStmt>
-                <resp n="edited">Edited by:</resp>
-              <name>Anthony P. Curtis</name>
-            </respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Anthony P. Curtis</name>
+          </respStmt>        
           <respStmt>
-                <resp n="created">Created by:</resp>
-              <name>Anthony P. Curtis</name>
-            </respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Patrick A. Lewis</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Anthony P. Curtis</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -43,8 +47,8 @@
         <particDesc>
                 <person xml:id="N00000879">
                     <persName>
-                      John A. Boyle
-                        (Adjutant General)
+                      John Boyle
+                        (Adjutant General 1863-64)
                     </persName>
                       <birth when="1839-08-16"></birth>
                       <death when="1913-12-13"></death>
