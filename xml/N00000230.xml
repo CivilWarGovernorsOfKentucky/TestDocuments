@@ -3,7 +3,7 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Harry Innes Todd</title>
+        <title level="a" type="main">Harry Innes Todd, Sr.</title>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Anthony P. Curtis</name>
@@ -30,7 +30,7 @@
 
       <encodingDesc>
         <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
-          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
           </prefixDef>
          </listPrefixDef>
       </encodingDesc>
@@ -43,11 +43,11 @@
         <particDesc>
                 <person xml:id="N00000230">
                     <persName>
-                      Harry Innes Todd
+                      Harry Innes Todd, Sr.
                         (Frankfort, Kentucky, merchant and penitentiary keeper)
                     </persName>
-                      <birth when="c1818"></birth>
-                      <death when="1891-05"></death>
+                        <event type="birth"  when="1818"  certainty="medium" ><ab>c1818</ab></event>
+                        <event type="death"  when="1891-05"  ><ab>1891-05</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -56,11 +56,11 @@
     </teiHeader>
     <text>
     <body>
-        <p>Frankfort, Kentucky, merchant and penitentiary keeper. Kentucky native. Married Jane B. Todd. Father of Harriet D. Todd, Ann Innes Todd, John H. Todd, Chapman C. Todd, Harry Innes Todd, Jr., George Todd, Julia Todd, and Maria Todd. Owned seven enslaved persons in 1850 and five in 1860. Keeper of the Kentucky State Penitentiary from 1863 to 1871.</p>
+        <p>Frankfort, Kentucky, merchant and penitentiary keeper. Kentucky native. Married to Jane B. Todd. Father of Harriet D. Todd, Ann Innes Todd, John H. Todd, Chapman C. Todd, Harry Innes Todd, Jr., Julia R. Todd, Maria Todd, George Todd, Jennie L. Todd, Mary H. Todd, Kitty Todd, and Crittenden Todd. Owned seven enslaved persons in 1850 and five in 1860. Keeper of the Kentucky State Penitentiary from 1863 to 1871.</p>
 
     </body>
     <back>
-        <ab><bibl><p>William E. Railey, <em>History of Woodford County, Kentucky</em> (1938; Baltimore, MD: Genealogical Publishing Company for Clearfield Company, 2002), p. 389. “Todd, Harry Innes, 1818-1891,” <em>Social Networks and Archival Context</em>, (http://socialarchive.iath.virginia.edu/ark:/99166/w6z03wcb) (accessed January 11, 2017). <em>Legislative Document No. 18: Report of the Special Committee on the Penitentiary to the Senate of Kentucky, February 26, 1880</em> (Frankfort, KY: E. H. Porter, 1880), p. 46; <em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Franklin County, District 2, p. 56; <em>Seventh Manuscript Census of the United States</em> (1850), Slave Schedules, Kentucky, Franklin County, District 2, p. 885; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Franklin County, Frankfort, p. 103; <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedules, Kentucky, Franklin County, Frankfort, p. 15; <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Franklin County, Frankfort, p. 4.</p>
+        <ab><bibl>William E. Railey, <hi rend=”italic”>History of Woodford County, Kentucky</hi> (1938; Baltimore, MD: Genealogical Publishing Company for Clearfield Company, 2002), p. 389. “Todd, Harry Innes, 1818-1891,” <hi rend=”italic”>Social Networks and Archival Context</hi>, (http://socialarchive.iath.virginia.edu/ark:/99166/w6z03wcb) (accessed January 11, 2017). <hi rend=”italic”>Legislative Document No. 18: Report of the Special Committee on the Penitentiary to the Senate of Kentucky, February 26, 1880</hi> (Frankfort, KY: E. H. Porter, 1880), p. 46; <hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Franklin County, District 2, p. 56; <hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Franklin County, District 2, p. 885; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Franklin County, Frankfort, p. 103; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Franklin County, Frankfort, p. 15; <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Franklin County, Frankfort, p. 4.
 </bibl></ab>
     </back>
 </text>
