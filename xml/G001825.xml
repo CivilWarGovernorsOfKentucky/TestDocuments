@@ -6,7 +6,7 @@
         <title level="a" type="main">Ohio River</title>
           <respStmt>
             <resp n="edited">Edited by:</resp>
-            <name></name>
+            <name>Anthony P. Curtis</name>
           </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
@@ -40,20 +40,20 @@
                     <term type="type">Geographical Feature</term>
                 </keywords>
             </textClass>
-            <particDesc>
+            <settingDesc>
                 <place xml:id="G001825">
                     <geogName>Ohio River</geogName>
                 </place>
-            </particDesc>
+            </settingDesc>
         </profileDesc>
     </teiHeader>
      <text>
     <body>
-        <p>Formed by the convergence of the Allegheny and Monongahela Rivers at Pittsburgh, Pennsylvania. Forms the northern border of Kentucky from Catlettsburg, Kentucky, until  flowing into the Mississippi River near Cairo, Illinois, and Ballard County, Kentucky.</p>
+        <p>Formed by the convergence of the Allegheny River and Monongahela River at Pittsburgh, Pennsylvania. Forms the northern border of Kentucky from Catlettsburg, Kentucky, until  flowing into the Mississippi River near Cairo, Illinois, and Ballard County, Kentucky.</p>
 
     </body>
     <back>
-        <ab><bibl><p>Charles E. Parrish, &quot;Ohio River&quot; in <em>The Kentucky Encyclopedia</em>, John E. Kleber, ed. (Lexington: University Press of Kentucky, 1992), 690-92.</p>
+        <ab><bibl>Charles E. Parrish, &quot;Ohio River&quot; in <hi rend=”italic”>The Kentucky Encyclopedia</hi>, John E. Kleber, ed. (Lexington: University Press of Kentucky, 1992), 690-92.
 </bibl></ab>
     </back>
 </text>
