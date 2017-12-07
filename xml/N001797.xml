@@ -6,6 +6,10 @@
         <title level="a" type="main">John Boyd Huston</title>
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>Patrick A. Lewis</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Anthony P. Curtis</name>
           </respStmt>
           <respStmt>
@@ -30,7 +34,7 @@
 
       <encodingDesc>
         <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
-          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
           </prefixDef>
          </listPrefixDef>
       </encodingDesc>
@@ -46,8 +50,8 @@
                       John Boyd Huston
                         (Winchester, Kentucky, and Lexington, Kentucky, attorney and politician)
                     </persName>
-                      <birth when="1813-10-01"></birth>
-                      <death when="1881-11-14"></death>
+                        <event type="birth"  when="1813-10-01"  ><ab>1813-10-01</ab></event>
+                        <event type="death"  when="1881-11-14"  ><ab>1881-11-14</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -56,11 +60,11 @@
     </teiHeader>
     <text>
     <body>
-        <p>Winchester, Kentucky, and Lexington, Kentucky, attorney and politician. Nelson County, Kentucky, native. Son of James Huston and Mary McKee Huston. Married to Mary J. Allen Huston on September 21, 1836. Married to Elizabeth Jackson Huston on December 21, 1854. Graduated from Centre College in 1833. Teacher at Walnut Hill in Fayette County, Kentucky. Assistant Instructor at Center College. Studied law under Judge Daniel Mayers and Joshua F. Bell. Graduated from Transylvania University in 1835. Admitted to bar. Practiced law in Winchester from 1837 to 1864. Member of the Whig Party. Member of the House of Representatives of the Commonwealth of Kentucky in Clark County, Kentucky, in 1839 and from 1855 to 1859 and 1861 to 1863. Member of the Democratic Party. Speaker of the House of Representatives of the Commonwealth of Kentucky from 1855 to 1857. Member of the Board State Convention in 1861. Relocated to Lexington in 1864. Continued practice of law with William S. Downey.</p>
+        <p>Winchester, Kentucky, and Lexington, Kentucky, attorney and politician. Nelson County, Kentucky, native. Son of James Huston and Mary McKee Huston. Married to Mary J. Allen Huston on September 21, 1836. Married Elizabeth Jackson Huston on December 21, 1854. Graduated from Centre College in 1833. Teacher at Walnut Hill in Fayette County, Kentucky. Assistant Instructor at Center College. Studied law under Judge Daniel Mayers and Joshua F. Bell. Graduated from Transylvania University in 1835. Admitted to bar. Practiced law in Winchester from 1837 to 1864. Member of the Whig Party. Member of the House of Representatives of the Commonwealth of Kentucky in Clark County, Kentucky, in 1839 and from 1855 to 1859 and 1861 to 1863. Member of the Democratic Party. Speaker of the House of Representatives of the Commonwealth of Kentucky from 1855 to 1857. Member of the Board State Convention in 1861. Relocated to Lexington in 1864. Continued practice of law with William S. Downey.</p>
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Clark County, District 2, p. 41. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Clark County, Winchester, District 2, p. 86. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Fayette County, Lexington, Ward 1, p. 76. Lewis Collins and Richard H. Collins, <em>Collins&#39; Historical Sketches of Kentucky</em>, vol. 2 (Covington, KY: Collins &amp; Co., 1878), 130, 774. ewis Collins and Richard H. Collins, <em>Collins&#39; Historical Sketches of Kentucky</em>, vol. 1 (Covington, KY: Collins &amp; Co., 1878), 364. <em>The Biographical Encyclopædia of Kentucky of the Dead and Living Men of the Nineteenth Century</em>, vol. 1 (Cincinnati: J. M. Armstrong &amp; Company, 1878), 298-99. H. Levin, <em>The Lawyers and Lawmakers of Kentucky</em> (Chicago: The Lewis Publishing Company, 1897), 595-96. <em>Find A Grave</em>, &quot;John Boyd Huston (1813-1881),&quot; Memorial #48379493, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=48379493 (accessed September 8, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Clark County, District 2, p. 41. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Clark County, Winchester, District 2, p. 86. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Fayette County, Lexington, Ward 1, p. 76. Lewis Collins and Richard H. Collins, <hi rend=”italic”>Collins&#39; Historical Sketches of Kentucky</hi>, vol. 2 (Covington, KY: Collins &amp; Co., 1878), 130, 774. ewis Collins and Richard H. Collins, <hi rend=”italic”>Collins&#39; Historical Sketches of Kentucky</hi>, vol. 1 (Covington, KY: Collins &amp; Co., 1878), 364. <hi rend=”italic”>The Biographical Encyclopædia of Kentucky of the Dead and Living Men of the Nineteenth Century</hi>, vol. 1 (Cincinnati: J. M. Armstrong &amp; Company, 1878), 298-99. H. Levin, <hi rend=”italic”>The Lawyers and Lawmakers of Kentucky</hi> (Chicago: The Lewis Publishing Company, 1897), 595-96. <hi rend=”italic”>Find A Grave</hi>, &quot;John Boyd Huston (1813-1881),&quot; Memorial #48379493, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=48379493 (accessed September 8, 2017).
 </bibl></ab>
     </back>
 </text>
