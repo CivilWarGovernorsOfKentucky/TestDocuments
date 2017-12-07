@@ -6,6 +6,10 @@
         <title level="a" type="main">James Calvert</title>
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>Patrick A. Lewis</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Anthony P. Curtis</name>
           </respStmt>
           <respStmt>
@@ -30,7 +34,7 @@
 
       <encodingDesc>
         <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
-          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
           </prefixDef>
          </listPrefixDef>
       </encodingDesc>
@@ -46,8 +50,8 @@
                       James Calvert
                         (Boone County, Kentucky, sheriff and politician)
                     </persName>
-                      <birth when="c1806"></birth>
-                      <death when="c1876"></death>
+                        <event type="birth"  when="1806"  certainty="medium" ><ab>c1806</ab></event>
+                        <event type="death"  when="1876"  certainty="medium" ><ab>c1876</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -56,11 +60,11 @@
     </teiHeader>
     <text>
     <body>
-        <p>Boone County, Kentucky, sheriff and politician. Kentucky native. Married to Jane Calvert. Father of Lewis L. Calvert, Samuel Calvert, James Calvert, Jr., and Mariah J. Calvert. Sheriff of Boone County in 1860. Member of the House of Representatives of the Commonwealth of Kentucky for Boone County from 1861 to 1863. Member of the Union Party.</p>
+        <p>Boone County, Kentucky, sheriff and politician. Kentucky native. Married Jane Calvert. Father of Lewis L. Calvert, Samuel Calvert, James Calvert, Jr., and Mariah J. Calvert. Sheriff of Boone County in 1860. Member of the House of Representatives of the Commonwealth of Kentucky for Boone County from 1861 to 1863. Member of the Union Party.</p>
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedule, Kentucky, Boone, Burlington, p. 40; <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedule, Kentucky, Boone County, Burlington, p. 5; &quot;Election Returns,&quot; <em>The Louisville Daily Courier</em> (Louisville, Ky.), August 13, 1861, p. 4; &quot;Kentucky Legislature,&quot; <em>The Louisville Daily Courier</em> (Louisville, Ky.), September 07, 1861, p. 2; Lewis Collins and Richard H. Collins, eds., <em>History of Kentucky</em> (Covington, Ky.: Collins &amp; Co., 1878), 51.</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, Kentucky, Boone, Burlington, p. 40; <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedule, Kentucky, Boone County, Burlington, p. 5; &quot;Election Returns,&quot; <hi rend=”italic”>The Louisville Daily Courier</hi> (Louisville, Ky.), August 13, 1861, p. 4; &quot;Kentucky Legislature,&quot; <hi rend=”italic”>The Louisville Daily Courier</hi> (Louisville, Ky.), September 07, 1861, p. 2; Lewis Collins and Richard H. Collins, eds., <hi rend=”italic”>History of Kentucky</hi> (Covington, Ky.: Collins &amp; Co., 1878), 51.
 </bibl></ab>
     </back>
 </text>
