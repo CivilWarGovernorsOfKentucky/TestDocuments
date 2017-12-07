@@ -3,7 +3,7 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">H.W. Darling</title>
+        <title level="a" type="main">Andrew W. Darling</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Jesse Nasta</name>
@@ -30,7 +30,7 @@
 
       <encodingDesc>
         <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
-          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
           </prefixDef>
          </listPrefixDef>
       </encodingDesc>
@@ -43,23 +43,24 @@
         <particDesc>
                 <person xml:id="N00000694">
                     <persName>
-                      H.W. Darling
-                        (Carroll County)
+                      Andrew W. Darling
+                        (Carroll County distiller)
                     </persName>
-                      <birth when="unknown"></birth>
-                      <death when="unknown"></death>
-                      <trait type="gender" subtype="U"/>
+                        <event type="birth"  when="1816"  ><ab>1816</ab></event>
+                        <event type="death"  when="1899"  ><ab>1899</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
     <body>
-        <p>Signed the petition of Allen T. Shea in Carroll County, Kentucky, in September 1863.</p>
+        <p>Carroll County, Kentucky, farmer. Scotland native. Married Eliza J. Darling. Father of William C. Darling, R. T. Darling, Kate J. Darling, and John T. Darling. Contracted construction of Lock No. 1 on the Kentucky River in Carroll County in 1836. Farmer in Carroll County in 1850 and 1860. Owned seven enslaved people in Carroll County in 1860. Distiller in Carroll County in 1863.</p>
 
     </body>
     <back>
-        <ab><bibl><p>KYR-0001-004-0002.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Carroll County, District 2, p. 202 B; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Carroll County, District No. 2, p. 71; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Carroll County, District No. 2, p. 6; <hi rend=”italic”>Internal Revenue Assessment Lists for Kentucky, 1862-1866</hi> NARA RG 58, Microfilm Series M768, Roll 15, Kentucky, Collection District No. 4, Division No. 1, 1863, (Accessed via ancestry.com); <hi rend=”italic”>Find a Grave</hi>, &quot;Andrew W Darling (1816-1899),&quot; Memorial #31621395, https://www.findagrave.com/memorial/31621395 (accessed November 15, 2015); Diane Perrine Coon, &quot;Prestonville&quot; in <hi rend=”italic”>The Encyclopedia of Northern Kentucky</hi>, Paul A. Tenkotte and James C. Claypool, eds. (Lexington: University Press of Kentucky, 2009), 735.
 </bibl></ab>
     </back>
 </text>
