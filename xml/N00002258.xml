@@ -5,13 +5,13 @@
     <titleStmt>
         <title level="a" type="main">Joseph Kimmel</title>
           <respStmt>
-                <resp n="edited">Edited by:</resp>
-              <name>Anthony P. Curtis</name>
-            </respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Krista Kinslow</name>
+          </respStmt>        
           <respStmt>
-                <resp n="created">Created by:</resp>
-              <name>Krista Kinslow</name>
-            </respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Anthony P. Curtis</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -30,7 +30,7 @@
 
       <encodingDesc>
         <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
-          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
           </prefixDef>
          </listPrefixDef>
       </encodingDesc>
@@ -46,8 +46,7 @@
                       Joseph Kimmel
                         (Ballard County, Kentucky, farmer)
                     </persName>
-                      <birth when="c1815"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1815"  certainty="medium" ><ab>c1815</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedule, Kentucky, Ballard County, p. 302A. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedule, Kentucky, Ballard County, Lovelaceville District, p. 161. <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedule, Kentucky, Ballard County, Lovelaceville District, p. 20.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedule, Kentucky, Ballard County, p. 302A. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, Kentucky, Ballard County, Lovelaceville District, p. 161. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Slave Schedule, Kentucky, Ballard County, Lovelaceville District, p. 20.
 </bibl></ab>
     </back>
 </text>
