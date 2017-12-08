@@ -5,17 +5,13 @@
     <titleStmt>
         <title level="a" type="main">James W. Kendall</title>
           <respStmt>
-                <resp n="edited">Edited by:</resp>
-              <name>Patrick A. Lewis</name>
-            </respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Courtney Buchkoski</name>
+          </respStmt>        
           <respStmt>
-                <resp n="edited">Edited by:</resp>
-              <name>Patrick A. Lewis</name>
-            </respStmt>
-          <respStmt>
-                <resp n="created">Created by:</resp>
-              <name>Courtney Buchkoski</name>
-            </respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Patrick A. Lewis</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -34,7 +30,7 @@
 
       <encodingDesc>
         <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
-          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
           </prefixDef>
          </listPrefixDef>
       </encodingDesc>
@@ -50,8 +46,6 @@
                       James W. Kendall
                         (Bracken Co JP)
                     </persName>
-                      <birth when="unknown"></birth>
-                      <death when="unknown"></death>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +58,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Bracken County, unnamed District, p. 429 B; KYR-0001-017-0005.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Bracken County, unnamed District, p. 429 B; KYR-0001-017-0005.
 </bibl></ab>
     </back>
 </text>
