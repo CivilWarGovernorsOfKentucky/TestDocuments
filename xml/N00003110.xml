@@ -5,13 +5,13 @@
     <titleStmt>
         <title level="a" type="main">Richard R. Hackney</title>
           <respStmt>
-                <resp n="edited">Edited by:</resp>
-              <name>Anthony P. Curtis</name>
-            </respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Hannah M. O&#39;Daniel</name>
+          </respStmt>        
           <respStmt>
-                <resp n="created">Created by:</resp>
-              <name>Hannah M. O&#39;Daniel</name>
-            </respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Anthony P. Curtis</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -30,7 +30,7 @@
 
       <encodingDesc>
         <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
-          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
           </prefixDef>
          </listPrefixDef>
       </encodingDesc>
@@ -46,8 +46,7 @@
                       Richard R. Hackney
                         (Rockcastle County, Kentucky, farmer)
                     </persName>
-                      <birth when="c1817"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1817"  certainty="medium" ><ab>c1817</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Rockcastle County, Southern District, p. 167; <em>Seventh Manuscript Census of the United States</em> (1850), Slave Schedules, Kentucky, Rockcastle County, Southern District, p. 519; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Rockcastle County, p. 116; <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedules, Kentucky, Rockcastle County, p. 5; <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Rockcastle County, Voting District 4, p. 11.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Rockcastle County, Southern District, p. 167; <hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Rockcastle County, Southern District, p. 519; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Rockcastle County, p. 116; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Rockcastle County, p. 5; <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Rockcastle County, Voting District 4, p. 11.
 </bibl></ab>
     </back>
 </text>
