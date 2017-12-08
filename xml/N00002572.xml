@@ -5,25 +5,17 @@
     <titleStmt>
         <title level="a" type="main">Wesley Claypole</title>
           <respStmt>
-                <resp n="edited">Edited by:</resp>
-              <name>Anthony P. Curtis</name>
-            </respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Courtney Buchkoski</name>
+          </respStmt>        
           <respStmt>
-                <resp n="edited">Edited by:</resp>
-              <name>Anthony P. Curtis</name>
-            </respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Anthony P. Curtis</name>
+          </respStmt>
           <respStmt>
-                <resp n="edited">Edited by:</resp>
-              <name>Samuel T. Whittaker</name>
-            </respStmt>
-          <respStmt>
-                <resp n="edited">Edited by:</resp>
-              <name>Samuel T. Whittaker</name>
-            </respStmt>
-          <respStmt>
-                <resp n="created">Created by:</resp>
-              <name>Courtney Buchkoski</name>
-            </respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Samuel T. Whittaker</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,7 +34,7 @@
 
       <encodingDesc>
         <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
-          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
           </prefixDef>
          </listPrefixDef>
       </encodingDesc>
@@ -58,8 +50,7 @@
                       Wesley Claypole
                         (Ohio farmer and banker.)
                     </persName>
-                      <birth when="c1810"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1810"  certainty="medium" ><ab>c1810</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -72,7 +63,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedule, Ohio, Ross County, Green, p. 33; &quot;The Whig Convention,&quot; <em>The Fremont Weekly Freeman</em> (Fremont, O.), May 18, 1850, p. 2; KYR-0001-007-0392.</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, Ohio, Ross County, Green, p. 33; &quot;The Whig Convention,&quot; <hi rend=”italic”>The Fremont Weekly Freeman</hi> (Fremont, O.), May 18, 1850, p. 2; KYR-0001-007-0392.
 </bibl></ab>
     </back>
 </text>
