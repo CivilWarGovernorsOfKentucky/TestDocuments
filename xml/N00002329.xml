@@ -5,29 +5,21 @@
     <titleStmt>
         <title level="a" type="main">John G. Kyle</title>
           <respStmt>
-                <resp n="edited">Edited by:</resp>
-              <name>Anthony P. Curtis</name>
-            </respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Samuel T. Whittaker</name>
+          </respStmt>        
           <respStmt>
-                <resp n="edited">Edited by:</resp>
-              <name>Anthony P. Curtis</name>
-            </respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Anthony P. Curtis</name>
+          </respStmt>
           <respStmt>
-                <resp n="edited">Edited by:</resp>
-              <name>Hannah M. O&#39;Daniel</name>
-            </respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Hannah M. O&#39;Daniel</name>
+          </respStmt>
           <respStmt>
-                <resp n="edited">Edited by:</resp>
-              <name>Hannah M. O&#39;Daniel</name>
-            </respStmt>
-          <respStmt>
-                <resp n="edited">Edited by:</resp>
-              <name>Samuel T. Whittaker</name>
-            </respStmt>
-          <respStmt>
-                <resp n="created">Created by:</resp>
-              <name>Samuel T. Whittaker</name>
-            </respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Samuel T. Whittaker</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -46,7 +38,7 @@
 
       <encodingDesc>
         <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
-          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
           </prefixDef>
          </listPrefixDef>
       </encodingDesc>
@@ -62,8 +54,7 @@
                       John G. Kyle
                         (Mercer County, Kentucky, attorney)
                     </persName>
-                      <birth when="1840-04-02"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1840-04-02"  ><ab>1840-04-02</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -76,7 +67,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedule, Kentucky, Mercer County, page 31; <em>The Biographical Encyclopædia of Kentucky of the Dead and Living Men of the Nineteenth Century</em>, vol. 1 (Cincinnati: J. M. Armstrong &amp; Company, 1878), 687-88.</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, Kentucky, Mercer County, page 31; <hi rend=”italic”>The Biographical Encyclopædia of Kentucky of the Dead and Living Men of the Nineteenth Century</hi>, vol. 1 (Cincinnati: J. M. Armstrong &amp; Company, 1878), 687-88.
 </bibl></ab>
     </back>
 </text>
