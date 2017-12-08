@@ -5,13 +5,13 @@
     <titleStmt>
         <title level="a" type="main">J. M. Shutt</title>
           <respStmt>
-                <resp n="edited">Edited by:</resp>
-              <name>Patrick A. Lewis</name>
-            </respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Jesse Nasta</name>
+          </respStmt>        
           <respStmt>
-                <resp n="created">Created by:</resp>
-              <name>Jesse Nasta</name>
-            </respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Patrick A. Lewis</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -30,7 +30,7 @@
 
       <encodingDesc>
         <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
-          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
           </prefixDef>
          </listPrefixDef>
       </encodingDesc>
@@ -46,8 +46,6 @@
                       J. M. Shutt
                         (McLean County)
                     </persName>
-                      <birth when="unknown"></birth>
-                      <death when="unknown"></death>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -59,7 +57,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>KYR-0001-004-0005.</p>
+        <ab><bibl>KYR-0001-004-0005.
 </bibl></ab>
     </back>
 </text>
