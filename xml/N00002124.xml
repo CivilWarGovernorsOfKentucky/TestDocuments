@@ -5,21 +5,13 @@
     <titleStmt>
         <title level="a" type="main">J. A. Calhoon</title>
           <respStmt>
-                <resp n="edited">Edited by:</resp>
-              <name>Anthony P. Curtis</name>
-            </respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Krista Kinslow</name>
+          </respStmt>        
           <respStmt>
-                <resp n="edited">Edited by:</resp>
-              <name>Anthony P. Curtis</name>
-            </respStmt>
-          <respStmt>
-                <resp n="edited">Edited by:</resp>
-              <name>Anthony P. Curtis</name>
-            </respStmt>
-          <respStmt>
-                <resp n="created">Created by:</resp>
-              <name>Krista Kinslow</name>
-            </respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Anthony P. Curtis</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -38,7 +30,7 @@
 
       <encodingDesc>
         <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
-          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
           </prefixDef>
          </listPrefixDef>
       </encodingDesc>
@@ -54,8 +46,6 @@
                       J. A. Calhoon
                         (possibly Ballard county)
                     </persName>
-                      <birth when="unknown"></birth>
-                      <death when="unknown"></death>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -67,7 +57,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>KYR-0001-029-0560. KYR-0001-004-0154.</p>
+        <ab><bibl>KYR-0001-029-0560. KYR-0001-004-0154.
 </bibl></ab>
     </back>
 </text>
