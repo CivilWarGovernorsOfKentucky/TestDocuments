@@ -5,13 +5,13 @@
     <titleStmt>
         <title level="a" type="main">John E. Records</title>
           <respStmt>
-                <resp n="edited">Edited by:</resp>
-              <name>Anthony P. Curtis</name>
-            </respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Hannah M. O&#39;Daniel</name>
+          </respStmt>        
           <respStmt>
-                <resp n="created">Created by:</resp>
-              <name>Hannah M. O&#39;Daniel</name>
-            </respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Anthony P. Curtis</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -30,7 +30,7 @@
 
       <encodingDesc>
         <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
-          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
           </prefixDef>
          </listPrefixDef>
       </encodingDesc>
@@ -46,8 +46,7 @@
                       John E. Records
                         (Pendleton county attorney)
                     </persName>
-                      <birth when="c1820"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1820"  certainty="medium" ><ab>c1820</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Pendleton County, District 1, p. 351; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Pendleton County, Falmouth, p. 1.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Pendleton County, District 1, p. 351; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Pendleton County, Falmouth, p. 1.
 </bibl></ab>
     </back>
 </text>
