@@ -5,25 +5,17 @@
     <titleStmt>
         <title level="a" type="main">John Hayden Nelson</title>
           <respStmt>
-                <resp n="edited">Edited by:</resp>
-              <name>Jesse Nasta</name>
-            </respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Samuel T. Whittaker</name>
+          </respStmt>        
           <respStmt>
-                <resp n="edited">Edited by:</resp>
-              <name>Jesse Nasta</name>
-            </respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Jesse Nasta</name>
+          </respStmt>
           <respStmt>
-                <resp n="edited">Edited by:</resp>
-              <name>Jesse Nasta</name>
-            </respStmt>
-          <respStmt>
-                <resp n="edited">Edited by:</resp>
-              <name>Anthony P. Curtis</name>
-            </respStmt>
-          <respStmt>
-                <resp n="created">Created by:</resp>
-              <name>Samuel T. Whittaker</name>
-            </respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Anthony P. Curtis</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -42,7 +34,7 @@
 
       <encodingDesc>
         <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
-          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
           </prefixDef>
          </listPrefixDef>
       </encodingDesc>
@@ -58,8 +50,8 @@
                       John Hayden Nelson
                         (Campbell County judge and attorney)
                     </persName>
-                      <birth when="1801-08-22"></birth>
-                      <death when="1889-11-03"></death>
+                        <event type="birth"  when="1801-08-22"  ><ab>1801-08-22</ab></event>
+                        <event type="death"  when="1889-11-03"  ><ab>1889-11-03</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -72,7 +64,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedule, Kentucky, Campbell County, Alexandria, p. 178.; <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedule, Kentucky, Campbell County, Alexandria, p. 8; <em>Find A Grave</em>, &quot;Judge John Hayden Nelson (1801-1889),&quot; Memorial #89277005, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=89277005&amp;ref=acom (accessed March 9, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, Kentucky, Campbell County, Alexandria, p. 178.; <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedule, Kentucky, Campbell County, Alexandria, p. 8; <hi rend=”italic”>Find A Grave</hi>, &quot;Judge John Hayden Nelson (1801-1889),&quot; Memorial #89277005, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=89277005&amp;ref=acom (accessed March 9, 2017).
 </bibl></ab>
     </back>
 </text>
