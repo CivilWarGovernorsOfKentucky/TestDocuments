@@ -5,17 +5,13 @@
     <titleStmt>
         <title level="a" type="main">[unknown] Bowen</title>
           <respStmt>
-                <resp n="edited">Edited by:</resp>
-              <name>Anthony P. Curtis</name>
-            </respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Hannah M. O&#39;Daniel</name>
+          </respStmt>        
           <respStmt>
-                <resp n="edited">Edited by:</resp>
-              <name>Anthony P. Curtis</name>
-            </respStmt>
-          <respStmt>
-                <resp n="created">Created by:</resp>
-              <name>Hannah M. O&#39;Daniel</name>
-            </respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Anthony P. Curtis</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -34,7 +30,7 @@
 
       <encodingDesc>
         <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
-          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
           </prefixDef>
          </listPrefixDef>
       </encodingDesc>
@@ -50,8 +46,7 @@
                       [unknown] Bowen
                         (Powell County, Kentucky, resident)
                     </persName>
-                      <birth when="unknown"></birth>
-                      <death when="c1863"></death>
+                        <event type="death"  when="1863"  certainty="medium" ><ab>c1863</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>Francis Vincent, ed., <em>Vincent’s Semi-Annual United States Register: A Work in Which the Principal Events of Every Half-Year Occurring in the United States Are Recorded, Each Arranged Under the Day of its Date. This Volume Contains the Events Transpiring Between the 1st of January and 1st of July, 1860</em> (Philadelphia, PA: Francis Vincent, 1860), p. 243; KYR-0001-029-0545; KYR-0001-004-0463.</p>
+        <ab><bibl>Francis Vincent, ed., <hi rend=”italic”>Vincent’s Semi-Annual United States Register: A Work in Which the Principal Events of Every Half-Year Occurring in the United States Are Recorded, Each Arranged Under the Day of its Date. This Volume Contains the Events Transpiring Between the 1st of January and 1st of July, 1860</hi> (Philadelphia, PA: Francis Vincent, 1860), p. 243; KYR-0001-029-0545; KYR-0001-004-0463.
 </bibl></ab>
     </back>
 </text>
