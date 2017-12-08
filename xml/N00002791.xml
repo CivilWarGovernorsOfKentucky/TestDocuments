@@ -5,17 +5,17 @@
     <titleStmt>
         <title level="a" type="main">Louis Leo Moore </title>
           <respStmt>
-                <resp n="edited">Edited by:</resp>
-              <name>Stephen Powell</name>
-            </respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Jesse Nasta</name>
+          </respStmt>        
           <respStmt>
-                <resp n="edited">Edited by:</resp>
-              <name>Patrick A. Lewis</name>
-            </respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Stephen Powell</name>
+          </respStmt>
           <respStmt>
-                <resp n="created">Created by:</resp>
-              <name>Jesse Nasta</name>
-            </respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Patrick A. Lewis</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -34,7 +34,7 @@
 
       <encodingDesc>
         <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
-          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
           </prefixDef>
          </listPrefixDef>
       </encodingDesc>
@@ -50,8 +50,8 @@
                       Louis Leo Moore 
                         (Clerk of McLean Circuit Ct.)
                     </persName>
-                      <birth when="1818-04-06"></birth>
-                      <death when="1897-02-21"></death>
+                        <event type="birth"  when="1818-04-06"  ><ab>1818-04-06</ab></event>
+                        <event type="death"  when="1897-02-21"  ><ab>1897-02-21</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +64,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Find A Grave</em>, &quot;Louis Leo Moore (1818-1897),&quot; Memorial #88223665, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=88223665&amp;ref=acom (accessed March 24, 2017); <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, McLean, Calhoun, p. 4.</p>
+        <ab><bibl><hi rend=”italic”>Find A Grave</hi>, &quot;Louis Leo Moore (1818-1897),&quot; Memorial #88223665, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=88223665&amp;ref=acom (accessed March 24, 2017); <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, McLean, Calhoun, p. 4.
 </bibl></ab>
     </back>
 </text>
