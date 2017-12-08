@@ -5,13 +5,13 @@
     <titleStmt>
         <title level="a" type="main">Robert Hardy</title>
           <respStmt>
-                <resp n="edited">Edited by:</resp>
-              <name>Patrick A. Lewis</name>
-            </respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Courtney Buchkoski</name>
+          </respStmt>        
           <respStmt>
-                <resp n="created">Created by:</resp>
-              <name>Courtney Buchkoski</name>
-            </respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Patrick A. Lewis</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -30,7 +30,7 @@
 
       <encodingDesc>
         <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
-          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
           </prefixDef>
          </listPrefixDef>
       </encodingDesc>
@@ -46,8 +46,7 @@
                       Robert Hardy
                         (hancock county blacksmith)
                     </persName>
-                      <birth when="c1814"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1814"  certainty="medium" ><ab>c1814</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Pennsylvania, Allegheny County, Lower St. Clair Township, p. 134 B; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Hancock County, Unnamed District, p. 136.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Pennsylvania, Allegheny County, Lower St. Clair Township, p. 134 B; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Hancock County, Unnamed District, p. 136.
 </bibl></ab>
     </back>
 </text>
